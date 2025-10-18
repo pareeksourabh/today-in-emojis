@@ -11,7 +11,7 @@ export default function HomePage() {
   const [data, setData] = React.useState<TodayData | null>(null);
 
   React.useEffect(() => {
-    fetch('/data/today.json', { cache: 'no-store' })
+    fetch('data/today.json', { cache: 'no-store' })
       .then(r => r.ok ? r.json() : Promise.reject(r.statusText))
       .then(setData)
       .catch(() => setData({ date: '', emojis: [] }));
