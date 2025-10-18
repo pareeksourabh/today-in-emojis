@@ -1,5 +1,19 @@
 # Changelog
 
+## [2025-10-18 18:22] Phase 5 — Functional Build complete
+- Implemented client-side rendering of five emojis from `data/today.json` (GitHub Pages compatible).
+- Added footer reactions (❤️ 🤔 👎) with `localStorage` persistence.
+- Ensured one-viewport layout with minimal animation and full accessibility.
+- Introduced colored “What’s this?” accent link in footer for opt-in context.
+- Prepared for Phase 6 — Deploy and Polish (GitHub Pages workflow + final styling).
+
+## [2025-10-18 17:19] Phase 5 — Functional Build complete
+- Implemented client-side rendering of five emojis from `data/today.json` (GitHub Pages compatible).
+- Added footer reactions (Like / Neutral / Dislike) with localStorage persistence.
+- Ensured one-viewport layout with minimal animations and accessible controls.
+- Included `next.config.js` for static export and Tailwind v4 globals.
+- Added developer notes in `docs/phase-5/build-notes.md`.
+
 ## [2025-10-18 17:09] Phase 4 — MVP Scaffold complete
 - Initialized **Next.js + React + Tailwind v4** environment for the one-page app.
 - Added `dev`, `build`, and `start` npm scripts to `package.json`.
