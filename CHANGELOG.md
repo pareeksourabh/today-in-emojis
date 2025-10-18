@@ -1,5 +1,13 @@
 # Changelog
 
+## [2025-10-18 19:07] Phase 6 — Deploy & Polish complete
+- Added GitHub Pages workflow to build and deploy static site on each push and data change.
+- Added explicit `next.config.js` for static export compatibility with the App Router.
+- Added `robots.txt` and `sitemap.txt` under `public/` for SEO and indexing support.
+- Enhanced production polish with meta tags, no-scroll layout, and minimal 404 page.
+- Introduced subtle colored “What’s this?” footer chip as an opt-in link to the README.
+- Verified GitHub Actions deployment pipeline for public access and data auto-refresh.
+
 ## [2025-10-18 18:22] Phase 5 — Functional Build complete
 - Implemented client-side rendering of five emojis from `data/today.json` (GitHub Pages compatible).
 - Added footer reactions (❤️ 🤔 👎) with `localStorage` persistence.
