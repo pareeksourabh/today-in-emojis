@@ -16,46 +16,48 @@ export default function Footer() {
   const set = (v: Reaction) => { setReaction(v); setReactionState(v); };
 
   return (
-    <div className="w-full py-6 px-4 relative">
-      {/* Dock */}
-      <div className="mx-auto max-w-[820px] flex items-center justify-center">
-        <div className="flex items-center gap-3 md:gap-4 rounded-full border border-black/10 bg-white/60 backdrop-blur px-4 py-2">
-          {REACTIONS.map(r => (
-            <button
-              key={r.id}
-              onClick={() => set(r.id)}
-              aria-label={r.label}
-              aria-pressed={reaction === r.id}
-              title={r.label}
-              className={[
-                "reaction-btn w-10 h-10 md:w-12 md:h-12 rounded-full transition-colors",
-                reaction === r.id ? "bg-gray-200" : "bg-transparent hover:bg-gray-100"
-              ].join(" ")}
-            >
-              <span className="text-2xl md:text-3xl leading-none select-none">{r.char}</span>
-            </button>
-          ))}
+    <div className="w-full py-6 px-4">
+      <div className="flex flex-col items-center gap-6">
+        {/* Dock */}
+        <div className="flex items-center justify-center">
+          <div className="flex items-center gap-2 sm:gap-3 md:gap-4 rounded-full border border-black/10 bg-white/60 backdrop-blur px-3 sm:px-4 py-2">
+            {REACTIONS.map(r => (
+              <button
+                key={r.id}
+                onClick={() => set(r.id)}
+                aria-label={r.label}
+                aria-pressed={reaction === r.id}
+                title={r.label}
+                className={[
+                  "reaction-btn w-9 h-9 sm:w-10 sm:h-10 md:w-12 md:h-12 rounded-full transition-colors",
+                  reaction === r.id ? "bg-gray-200" : "bg-transparent hover:bg-gray-100"
+                ].join(" ")}
+              >
+                <span className="text-xl sm:text-2xl md:text-3xl leading-none select-none">{r.char}</span>
+              </button>
+            ))}
+          </div>
         </div>
-      </div>
 
-      {/* Corner credit */}
-      <div className="absolute bottom-6 right-4">
-        <a
-          href="https://github.com/pareeksourabh/today-in-emojis#readme"
-          target="_blank"
-          rel="noopener noreferrer"
-          className={[
-            "reaction-btn inline-flex items-center justify-center",
-            "rounded-full px-3 py-1.5 text-xs md:text-sm font-medium",
-            "bg-amber-300 text-white hover:bg-amber-400",
-            "focus:outline-none focus:ring-2 focus:ring-amber-500/40",
-            "transition-transform hover:scale-[1.03]"
-          ].join(" ")}
-          aria-label="Open README on GitHub"
-          title="What's this project?"
-        >
-          What's this?
-        </a>
+        {/* What's this link */}
+        <div className="flex items-center justify-center">
+          <a
+            href="https://github.com/pareeksourabh/today-in-emojis#readme"
+            target="_blank"
+            rel="noopener noreferrer"
+            className={[
+              "reaction-btn inline-flex items-center justify-center",
+              "rounded-full px-4 py-2 text-xs sm:text-sm font-medium",
+              "bg-amber-300 text-white hover:bg-amber-400",
+              "focus:outline-none focus:ring-2 focus:ring-amber-500/40",
+              "transition-transform hover:scale-[1.03]"
+            ].join(" ")}
+            aria-label="Open README on GitHub"
+            title="What's this project?"
+          >
+            What's this?
+          </a>
+        </div>
       </div>
     </div>
   );
