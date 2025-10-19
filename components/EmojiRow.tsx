@@ -4,12 +4,12 @@ type EmojiItem = { char: string; label: string; url?: string };
 
 export default function EmojiRow({ emojis }: { emojis: EmojiItem[] }) {
   return (
-    <div className="w-full overflow-x-auto px-4">
-      <div className="flex items-center justify-center gap-4 sm:gap-6 md:gap-8 lg:gap-10 py-10 min-w-max">
+    <div className="w-full overflow-x-auto px-2 sm:px-4">
+      <div className="flex items-center justify-center gap-2 sm:gap-4 md:gap-6 lg:gap-8 py-2 sm:py-4 md:py-8 min-w-max">
         {emojis.slice(0, 5).map((e, idx) => {
           const content = (
             <span
-              className="emoji-btn text-[60px] sm:text-[80px] md:text-[100px] lg:text-[120px] leading-none select-none"
+              className="emoji-btn text-[40px] sm:text-[60px] md:text-[80px] lg:text-[100px] leading-none select-none"
               role="img"
               aria-label={e.label || 'emoji'}
             >

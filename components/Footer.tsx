@@ -12,12 +12,18 @@ const REACTIONS = [
 
 export default function Footer() {
   const [reaction, setReactionState] = React.useState<Reaction>(null);
-  React.useEffect(() => setReactionState(getReaction()), []);
+  const [mounted, setMounted] = React.useState(false);
+
+  React.useEffect(() => {
+    setMounted(true);
+    setReactionState(getReaction());
+  }, []);
+
   const set = (v: Reaction) => { setReaction(v); setReactionState(v); };
 
   return (
-    <div className="w-full py-6 px-4">
-      <div className="flex flex-col items-center gap-6">
+    <div className="w-full py-2 sm:py-3 md:py-5 px-4">
+      <div className="flex flex-col items-center gap-2 sm:gap-3 md:gap-5">
         {/* Dock */}
         <div className="flex items-center justify-center">
           <div className="flex items-center gap-2 sm:gap-3 md:gap-4 rounded-full border border-black/10 bg-white/60 backdrop-blur px-3 sm:px-4 py-2">
@@ -26,11 +32,11 @@ export default function Footer() {
                 key={r.id}
                 onClick={() => set(r.id)}
                 aria-label={r.label}
-                aria-pressed={reaction === r.id}
+                aria-pressed={mounted ? reaction === r.id : false}
                 title={r.label}
                 className={[
                   "reaction-btn w-9 h-9 sm:w-10 sm:h-10 md:w-12 md:h-12 rounded-full transition-colors",
-                  reaction === r.id ? "bg-gray-200" : "bg-transparent hover:bg-gray-100"
+                  mounted && reaction === r.id ? "bg-gray-200" : "bg-transparent hover:bg-gray-100"
                 ].join(" ")}
               >
                 <span className="text-xl sm:text-2xl md:text-3xl leading-none select-none">{r.char}</span>

@@ -5,3 +5,15 @@
 @theme {
   --font-sans: "Inter", system-ui, sans-serif;
 }
+
+/* Fix for mobile viewport with address bars */
+html, body {
+  height: 100%;
+  height: 100vh;
+  height: 100svh; /* small viewport height - excludes browser UI */
+  overflow: hidden;
+}
+
+#__next {
+  height: 100%;
+}
