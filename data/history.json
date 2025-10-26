@@ -1,0 +1,884 @@
+[
+  {
+    "date": "2025-10-20",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "news",
+        "url": "https://www.bbc.com/sport/football/articles/cgr4n07509wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "char": "🙁",
+        "label": "world",
+        "url": "https://www.bbc.com/news/articles/cpv1nk7dy4yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "char": "🎭",
+        "label": "culture",
+        "url": "https://www.bbc.com/news/articles/c051p3981m4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "char": "🤖",
+        "label": "tech",
+        "url": "https://www.bbc.com/news/articles/cnvejvr5gn6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "char": "💹",
+        "label": "markets",
+        "url": "https://www.bbc.com/news/articles/c5y9x1w2ee1o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "meta": {
+      "total_candidates": 40
+    }
+  },
+  {
+    "date": "2025-10-20",
+    "emojis": [
+      {
+        "char": "🤖",
+        "label": "tech",
+        "url": "https://www.bbc.com/news/articles/cpv1m4013e7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "char": "🪖",
+        "label": "conflict",
+        "url": "https://www.theguardian.com/us-news/2025/oct/18/us-military-strike-survivors"
+      },
+      {
+        "char": "📰",
+        "label": "news",
+        "url": "https://www.bbc.com/sport/football/articles/cgr4n07509wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "char": "⚡",
+        "label": "energy",
+        "url": "https://www.theguardian.com/world/2025/oct/16/agnes-wanjiru-niece-urges-labour-extradite-ex-soldier-kenya"
+      },
+      {
+        "char": "🎭",
+        "label": "culture",
+        "url": "https://www.bbc.com/news/articles/c051p3981m4o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "meta": {
+      "total_candidates": 20
+    }
+  },
+  {
+    "date": "2025-10-20",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "anthropic",
+      "total_candidates": 20
+    }
+  },
+  {
+    "date": "2025-10-20",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "anthropic",
+      "total_candidates": 20
+    }
+  },
+  {
+    "date": "2025-10-21",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "anthropic",
+      "total_candidates": 20
+    }
+  },
+  {
+    "date": "2025-10-26",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 20
+    }
+  },
+  {
+    "date": "2025-10-26",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
+  },
+  {
+    "date": "2025-10-26",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🌪️",
+        "label": "Hurricane Melissa strengthens as it barrels towa",
+        "url": "https://www.bbc.com/news/articles/ckgkqvxkzx0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "char": "⚔️",
+        "label": "Rebel group claims capture of key city in Sudan",
+        "url": "https://www.bbc.com/news/articles/c78z025dze4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "char": "🚁",
+        "label": "3 Years Ago It Was a Casting Agency. Now It Has",
+        "url": "https://www.nytimes.com/2025/10/26/world/europe/ukraine-fire-point-drones-flamingo.html"
+      },
+      {
+        "char": "✈️",
+        "label": "American Airlines to resume flights to Israel am",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1BIdktzNDVMVDZmZWhJeVM5dVFZMEVwZXRBb0FUcHFjMU9kdVdYdkhQb1ZEbGhlTzFZcE1oWEY2S2FIRHJNaDRicUdKVGdFZnVBTl9paDBHZVdKdFdQUUNvV2RKM2tMRVBqOVVvQjBDT2JoWVRqcXF1d2ZVVnczY1piY0JJaEZfcnlnNHAzVkZfU18zeFhvV3RwSjdsdjlFbEhlWlBwOTBSdThYaTA0TmNfOA?oc=5"
+      },
+      {
+        "char": "🤝",
+        "label": "US, Vietnam agree to boost trade, tariffs on som",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkdCUkRGQ2ExRlFRQWhkVFpHUDBDV2pIZTdJOGM2REZQaXhjVWJhQ2xqTnp5cXQtcDQ1cEctRUtubTdTMWQ4MWxXaERXSDlVMWpoSWJKWjAwYVU0YUtRYTFlbklUNU5meVpMVDBPR2JSYk1EeElPeDk4MkdQekh4UElyNUJXbTZfd1k5cVVOQlozZGhNZGhJ?oc=5"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 24
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 24
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 24
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 24
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world",
+        "url": ""
+      },
+      {
+        "char": "💡",
+        "label": "insight",
+        "url": ""
+      },
+      {
+        "char": "🤝",
+        "label": "together",
+        "url": ""
+      },
+      {
+        "char": "🌱",
+        "label": "growth",
+        "url": ""
+      },
+      {
+        "char": "😐",
+        "label": "neutral",
+        "url": ""
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🇨🇺",
+        "label": "cuban man on hunger strike in prison",
+        "url": "https://www.theguardian.com/world/2025/oct/22/cuban-man-roberto-mosquera-del-peral-deported-from-us-to-eswatini-on-hunger-strike-in-prison"
+      },
+      {
+        "char": "🛩️",
+        "label": "pentagon deploys aircraft carrier",
+        "url": "https://www.theguardian.com/us-news/2025/oct/24/trump-caribbean-uss-gerald-ford-carrier"
+      },
+      {
+        "char": "🕵️‍♂",
+        "label": "search for bodies in gaza continues",
+        "url": "https://www.bbc.com/news/articles/cx2l0mjkjkvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "char": "📈",
+        "label": "trump raises tariffs on canada",
+        "url": "https://www.theguardian.com/us-news/2025/oct/25/trump-tariffs-canada-ronald-reagan"
+      },
+      {
+        "char": "💼",
+        "label": "us and china trade deal framework",
+        "url": "https://www.nytimes.com/2025/10/26/business/china-us-trade.html"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "us-china trade talks on rare earths",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTdoT1B6ejFjeFhvaF9vUVBIbWF5MDRScEI4Z2cyU0g0YUx2MzJmeTFXdTZSZnpwdXYtMkNEZnF5STN5b1lMQnA1aGNROHhwSHE2LUM4SHVVNlRCSnNoOG9sZmQwWVBBUnQ3VlBCVkdTekpDZTBzZnAxMEhwSEkxTWpTa1phMjRvdExOdmVnZnJNOHE4cmNPYUd0bDhsYmFVdGVJeGZJUFZqNlBSUlVnc0g4X08xY0s4TGkyVWx2Y3I2VkE?oc=5"
+      },
+      {
+        "char": "📈",
+        "label": "trump raises tariffs on canada",
+        "url": "https://www.theguardian.com/us-news/2025/oct/25/trump-tariffs-canada-ronald-reagan"
+      },
+      {
+        "char": "🕊️",
+        "label": "egypt aids search for captives in gaza",
+        "url": "https://www.nytimes.com/2025/10/26/world/middleeast/egypt-gaza-captives-bodies-search.html"
+      },
+      {
+        "char": "⚖️",
+        "label": "georgia arrests for illegal uranium purchase",
+        "url": "https://www.bbc.com/news/articles/cgjdgv6z3l9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "char": "💎",
+        "label": "suspects arrested in louvre jewelry heist",
+        "url": "https://www.nytimes.com/2025/10/26/world/europe/louvre-heist-arrests.html"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
+  }
+]

@@ -1,34 +1,33 @@
-name: Daily Emoji Update
+name: Daily Emoji Update (AI)
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily at 00:00 UTC (08:00 SGT)
+    - cron: "0 0 * * *"   # 00:00 UTC = 08:00 Singapore
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
+        with: { token: ${{ secrets.GITHUB_TOKEN }} }
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.x"
+      - uses: actions/setup-python@v4
+        with: { python-version: "3.x" }
 
       - name: Install dependencies
         run: pip install feedparser
 
-      - name: Update emojis JSON
-        run: python scripts/update_emojis.py
+      - name: Run AI emoji selection
+        env:
+          # ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/update_emojis_ai.py
 
       - name: Commit and push if changed
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/today.json data/history.json || true
-          git commit -m "chore(auto): daily emoji refresh $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
+          git commit -m "chore(auto): AI-picked emojis $(date -u +'%Y-%m-%d')" || echo "No changes"
           git push

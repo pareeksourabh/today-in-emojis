@@ -1,39 +1,18 @@
-# Phase 7 — Automation
+# Phase 7 — Automation (AI)
 
 ## Goal
-Automatically refresh `data/today.json` every day from free RSS sources, mapping headlines to a set of five emojis for the homepage.
+Use an LLM to pick the day’s 5 most important and diverse stories from public RSS headlines and assign a single emoji to each. Output is `data/today.json`.
 
 ## How it works
-1. GitHub Actions runs on a daily cron (00:00 UTC) or manually via the Actions tab.
-2. The workflow executes `scripts/update_emojis.py`.
-3. The script fetches RSS headlines, maps them to categories and lightweight sentiment, and writes `data/today.json` (and appends `data/history.json`).
-4. The commit triggers the Pages deploy workflow so the site updates.
+- GitHub Actions (daily cron) runs `scripts/update_emojis_ai.py`.
+- The script fetches ~40 headlines from BBC/Reuters/Guardian/AP.
+- Claude 3.5 Sonnet selects 5 diverse items and returns strict JSON: `[{"emoji","label","url"} × 5]`.
+- The script validates JSON and URLs (must match inputs), writes `data/today.json`, and appends `data/history.json`.
 
-## Sources (RSS)
-- BBC World
-- Reuters World
-- The Guardian World
-- AP Top News
+## Secrets
+- Add `ANTHROPIC_API_KEY` under **Settings → Secrets and variables → Actions**.
+- Optional: switch to OpenAI by setting `PROVIDER="openai"` in the script and adding `OPENAI_API_KEY`.
 
-Edit the list in `scripts/update_emojis.py` under `RSS_SOURCES`.
-
-## Mapping logic
-- **Categories**: keyword lists map headlines to topic emojis (e.g., conflict 🪖, markets 💹, tech 🤖, natural event 🌋, sport 🏆, culture 🎭).
-- **Sentiment**: tiny positive/negative word lists occasionally swap a mood emoji (🙂 / 🙁 / 😐) for variety.
-- **Diversity**: ensures unique labels so the final five cover multiple topics.
-- **Links**: each emoji includes the source article URL for optional reading.
-- **Fallback**: writes a neutral default set if feeds fail.
-
-## Output shape
-```json
-{
-  "date": "YYYY-MM-DD",
-  "emojis": [
-    { "char": "💹", "label": "markets", "url": "https://..." },
-    { "char": "🕊️", "label": "diplomacy", "url": "https://..." },
-    { "char": "🌋", "label": "natural event", "url": "https://..." },
-    { "char": "🏆", "label": "sport", "url": "https://..." },
-    { "char": "🤖", "label": "tech", "url": "https://..." }
-  ],
-  "source": "rss-deterministic"
-}
+## Safety & Fallbacks
+- Strict schema validation; one retry on parse failure.
+- If the model fails, we write a neutral `fallback` payload for the day (site won’t break).
