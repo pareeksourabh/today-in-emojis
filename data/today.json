@@ -3,28 +3,28 @@
   "emojis": [
     {
       "char": "🇺🇸",
-      "label": "us-china trade talks on rare earths",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTdoT1B6ejFjeFhvaF9vUVBIbWF5MDRScEI4Z2cyU0g0YUx2MzJmeTFXdTZSZnpwdXYtMkNEZnF5STN5b1lMQnA1aGNROHhwSHE2LUM4SHVVNlRCSnNoOG9sZmQwWVBBUnQ3VlBCVkdTekpDZTBzZnAxMEhwSEkxTWpTa1phMjRvdExOdmVnZnJNOHE4cmNPYUd0bDhsYmFVdGVJeGZJUFZqNlBSUlVnc0g4X08xY0s4TGkyVWx2Y3I2VkE?oc=5"
+      "label": "us and china trade deal framework",
+      "url": "https://www.bbc.com/news/articles/c1lqj5lz4geo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "char": "📈",
-      "label": "trump raises tariffs on canada",
-      "url": "https://www.theguardian.com/us-news/2025/oct/25/trump-tariffs-canada-ronald-reagan"
-    },
-    {
-      "char": "🕊️",
-      "label": "egypt aids search for captives in gaza",
-      "url": "https://www.nytimes.com/2025/10/26/world/middleeast/egypt-gaza-captives-bodies-search.html"
-    },
-    {
-      "char": "⚖️",
-      "label": "georgia arrests for illegal uranium purchase",
-      "url": "https://www.bbc.com/news/articles/cgjdgv6z3l9o?at_medium=RSS&at_campaign=rss"
+      "char": "🗳️",
+      "label": "cameroon election crackdown arrests",
+      "url": "https://www.theguardian.com/world/2025/oct/24/deaths-arrests-amid-cameroon-election-crackdown"
     },
     {
       "char": "💎",
-      "label": "suspects arrested in louvre jewelry heist",
-      "url": "https://www.nytimes.com/2025/10/26/world/europe/louvre-heist-arrests.html"
+      "label": "jewelry theft at louvre museum",
+      "url": "https://www.bbc.com/news/articles/c2em38pdv0do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane melissa strengthens towards jamaica",
+      "url": "https://www.bbc.com/news/articles/ckgkqvxkzx0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "char": "🚨",
+      "label": "sanctions on colombian president",
+      "url": "https://www.theguardian.com/us-news/2025/oct/24/us-sanctions-colombian-president-gustavo-petro"
     }
   ],
   "source": "ai-openai"
