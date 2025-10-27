@@ -35,7 +35,7 @@ PER_SOURCE_LIMIT = 10     # up to 10 from each source
 MAX_ITEMS = 40            # cap after merge
 PICK_COUNT = 5            # final emojis count
 
-OUTPUT_TODAY = "data/today.json"
+OUTPUT_TODAY = "public/data/today.json"
 OUTPUT_HISTORY = "data/history.json"
 
 USER_AGENT = "Mozilla/5.0 (compatible; TodayInEmojis/1.0; +https://github.com)"
