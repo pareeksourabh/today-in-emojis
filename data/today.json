@@ -2,30 +2,35 @@
   "date": "2025-10-27",
   "emojis": [
     {
+      "char": "🏛️",
+      "label": "louvre break-in shakes france",
+      "url": "https://www.nytimes.com/2025/10/26/world/europe/louvre-break-in-shook-france.html",
+      "title": "A Break-In That Shook France"
+    },
+    {
       "char": "🇺🇸",
-      "label": "us and china trade deal framework",
-      "url": "https://www.bbc.com/news/articles/c1lqj5lz4geo?at_medium=RSS&at_campaign=rss"
+      "label": "us sanctions colombian president",
+      "url": "https://www.theguardian.com/us-news/2025/oct/24/us-sanctions-colombian-president-gustavo-petro",
+      "title": "US places sanctions on Colombian president over alleged failure to stop cartels"
     },
     {
-      "char": "🗳️",
-      "label": "cameroon election crackdown arrests",
-      "url": "https://www.theguardian.com/world/2025/oct/24/deaths-arrests-amid-cameroon-election-crackdown"
+      "char": "🚀",
+      "label": "russia tests new nuclear missile",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM3diR3lRYmJEY0NhUDl4ZFU3dDJ2V1E5Qi1RMFFEQW8tZ3B4azRNLXhCRzNGMzFEZkNkV2UyNDRTSzZpSVgwd1RMWHRNem91cFVNUVNKRUpRbXpxbGJvQTlaN0d0V1hrOWZlem1ScEVUQWxiZllveU01NnZrZXdkUUl1em43bHdITHltUTl5cURuaDV2Yy13cEduMG1ycG0zUkN3ajBzWTMzUDdYS2NaTXlaOA?oc=5",
+      "title": "Russia tested new nuclear-powered Burevestnik cruise missile - Reuters"
     },
     {
-      "char": "💎",
-      "label": "jewelry theft at louvre museum",
-      "url": "https://www.bbc.com/news/articles/c2em38pdv0do?at_medium=RSS&at_campaign=rss"
+      "char": "✈️",
+      "label": "bae grounds aid aircraft",
+      "url": "https://www.theguardian.com/global-development/2025/oct/24/bae-ends-support-atp-aircraft-caa-airworthiness-aid-deliveries-south-sudan-somalia-drc",
+      "title": "UK’s biggest weapons firm BAE grounds ‘lifeline’ aircraft delivering food aid"
     },
     {
       "char": "🌪️",
-      "label": "hurricane melissa strengthens towards jamaica",
-      "url": "https://www.bbc.com/news/articles/ckgkqvxkzx0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "char": "🚨",
-      "label": "sanctions on colombian president",
-      "url": "https://www.theguardian.com/us-news/2025/oct/24/us-sanctions-colombian-president-gustavo-petro"
+      "label": "hurricane melissa strengthens",
+      "url": "https://www.bbc.com/news/articles/ckgkqvxkzx0o?at_medium=RSS&at_campaign=rss",
+      "title": "Hurricane Melissa strengthens as it barrels towards Jamaica"
     }
   ],
-  "source": "fallback"
+  "source": "ai-openai"
 }
