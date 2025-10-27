@@ -4,7 +4,7 @@ import React from 'react';
 import EmojiRow from '../components/EmojiRow';
 import Footer from '../components/Footer';
 
-type EmojiItem = { char: string; label: string; url?: string };
+type EmojiItem = { char: string; label: string; url?: string; title?: string };
 type TodayData = { date: string; emojis: EmojiItem[] };
 
 export default function HomePage() {

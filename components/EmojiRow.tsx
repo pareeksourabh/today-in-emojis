@@ -1,6 +1,6 @@
 import React from 'react';
 
-type EmojiItem = { char: string; label: string; url?: string };
+type EmojiItem = { char: string; label: string; url?: string; title?: string };
 
 export default function EmojiRow({ emojis }: { emojis: EmojiItem[] }) {
   return (
@@ -24,7 +24,7 @@ export default function EmojiRow({ emojis }: { emojis: EmojiItem[] }) {
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label={e.label || 'open related story'}
-                  title={e.label || ''}
+                  title={e.title || e.label || ''}
                 >
                   {content}
                 </a>

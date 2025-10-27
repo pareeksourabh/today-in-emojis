@@ -91,11 +91,11 @@ def safe_defaults() -> Dict[str, Any]:
     return {
         "date": datetime.date.today().isoformat(),
         "emojis": [
-            {"char": "🌍", "label": "world", "url": ""},
-            {"char": "💡", "label": "insight", "url": ""},
-            {"char": "🤝", "label": "together", "url": ""},
-            {"char": "🌱", "label": "growth", "url": ""},
-            {"char": "😐", "label": "neutral", "url": ""},
+            {"char": "🌍", "label": "world", "url": "", "title": ""},
+            {"char": "💡", "label": "insight", "url": "", "title": ""},
+            {"char": "🤝", "label": "together", "url": "", "title": ""},
+            {"char": "🌱", "label": "growth", "url": "", "title": ""},
+            {"char": "😐", "label": "neutral", "url": "", "title": ""},
         ],
         "source": "fallback",
     }
@@ -124,7 +124,7 @@ def normalize_json_text(raw: str) -> str:
         return text
     return text
 
-def validate_response(raw: str, allowed_urls: List[str]) -> List[Dict[str, str]]:
+def validate_response(raw: str, allowed_urls: List[str], headlines: List[Dict[str, str]]) -> List[Dict[str, str]]:
     """
     Expect STRICT JSON (no prose):
     [
@@ -158,6 +158,9 @@ def validate_response(raw: str, allowed_urls: List[str]) -> List[Dict[str, str]]
         print(f"[debug] Got {len(data)} items instead of {PICK_COUNT}", file=sys.stderr)
         raise ValueError(f"Expected {PICK_COUNT} items, got {len(data)}")
 
+    # Create URL to title mapping
+    url_to_title = {h["url"]: h["title"] for h in headlines}
+
     seen_urls = set()
     results: List[Dict[str, str]] = []
     for i, item in enumerate(data):
@@ -180,7 +183,10 @@ def validate_response(raw: str, allowed_urls: List[str]) -> List[Dict[str, str]]
         if url in seen_urls:
             raise ValueError(f"Duplicate url at item {i}")
         seen_urls.add(url)
-        results.append({"char": emoji, "label": label, "url": url})
+
+        # Get the original headline title from the URL
+        title = url_to_title.get(url, label)
+        results.append({"char": emoji, "label": label, "url": url, "title": title})
 
     print(f"[debug] Validation successful: {len(results)} items", file=sys.stderr)
     return results
@@ -342,7 +348,7 @@ def main():
         tries += 1
         try:
             raw = openai_call(headlines)
-            items = validate_response(raw, allowed_urls)
+            items = validate_response(raw, allowed_urls, headlines)
             results = items
         except Exception as e:
             print(f"[warn] LLM parse/validation failed (try {tries}): {e}", file=sys.stderr)
