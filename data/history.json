@@ -953,5 +953,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🏛️",
+        "label": "a break-in that shook france",
+        "url": "https://www.nytimes.com/2025/10/26/world/europe/louvre-break-in-shook-france.html",
+        "title": "A Break-In That Shook France"
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuban man on hunger strike in prison",
+        "url": "https://www.theguardian.com/world/2025/oct/22/cuban-man-roberto-mosquera-del-peral-deported-from-us-to-eswatini-on-hunger-strike-in-prison",
+        "title": "Cuban man deported from US to Eswatini goes on hunger strike in prison"
+      },
+      {
+        "char": "💼",
+        "label": "trump strikes deals in southeast asia",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDJTZVhKTG1Pb0lRa2ZtSjN4bS1vbzNjME11U2VzUDNFT3RDMVcwYTdZVmt1NWJUMF9OeE1iZ1puZ3NJNk83d3ZGUGNiQi16NThGSVQ0R3BqYXVUQ0tiWVl3SUphaG4wcEdWRllxZ0RRQjhNLWRqc00zLTRHZnBNOTBTdExRTmwya09KT3lCSW83Um02UHUzMkxjWlN6OVJGb25Z?oc=5",
+        "title": "Trump strikes deals on trade, critical minerals in Southeast Asia - Reuters"
+      },
+      {
+        "char": "🔍",
+        "label": "egypt aids search for bodies in gaza",
+        "url": "https://www.bbc.com/news/articles/cx2l0mjkjkvo?at_medium=RSS&at_campaign=rss",
+        "title": "Egypt and Red Cross join search for hostage bodies in Gaza"
+      },
+      {
+        "char": "📉",
+        "label": "anti-malaria funding cuts warned",
+        "url": "https://www.theguardian.com/global-development/2025/oct/21/global-health-infectious-disease-aid-cuts-malaria-funding-cost-deaths-gdp-africa",
+        "title": "Anti-malaria funding cuts could lead to ‘deadliest resurgence ever’, study warns"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
