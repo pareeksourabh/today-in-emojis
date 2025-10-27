@@ -992,5 +992,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-10-27",
+    "emojis": [
+      {
+        "char": "🇨🇺",
+        "label": "cuban man on hunger strike after deportation",
+        "url": "https://www.theguardian.com/world/2025/oct/22/cuban-man-roberto-mosquera-del-peral-deported-from-us-to-eswatini-on-hunger-strike-in-prison",
+        "title": "Cuban man deported from US to Eswatini goes on hunger strike in prison"
+      },
+      {
+        "char": "🇹🇷",
+        "label": "turkey excluded from gaza force after objection",
+        "url": "https://www.theguardian.com/world/2025/oct/25/turkey-gaza-stabilisation-force-israeli-objection",
+        "title": "Turkey likely to be excluded from Gaza stabilisation force after Israeli objection"
+      },
+      {
+        "char": "💣",
+        "label": "three killed in russian strikes on kyiv",
+        "url": "https://www.bbc.com/news/articles/czxnye07x2lo?at_medium=RSS&at_campaign=rss",
+        "title": "Three killed in Russian strikes on Kyiv, officials say"
+      },
+      {
+        "char": "🇸🇩",
+        "label": "sudanese paramilitaries claim army garrison",
+        "url": "https://www.nytimes.com/2025/10/26/world/africa/sudan-army-base.html",
+        "title": "Sudanese Paramilitaries Claim Control of Key Army Garrison in Darfur"
+      },
+      {
+        "char": "📈",
+        "label": "us and china reach trade deal framework",
+        "url": "https://www.nytimes.com/2025/10/26/business/china-us-trade.html",
+        "title": "Chinese and U.S. Officials Reach Framework of a Trade Deal"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
