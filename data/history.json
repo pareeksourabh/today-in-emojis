@@ -1031,5 +1031,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-10-28",
+    "emojis": [
+      {
+        "char": "🌪️",
+        "label": "jamaica braces for hurricane melissa",
+        "url": "https://www.theguardian.com/world/2025/oct/27/jamaicans-take-shelter-as-hurricane-melissa-bears-down-as-category-5-storm",
+        "title": "Jamaicans take shelter as Hurricane Melissa bears down as category 5 storm"
+      },
+      {
+        "char": "🇯🇵",
+        "label": "japan's pm seeks to win over trump",
+        "url": "https://www.nytimes.com/2025/10/26/world/asia/japan-trump-takaichi.html",
+        "title": "Japan’s New Prime Minister Has an Advantage in Winning Over Trump"
+      },
+      {
+        "char": "📈",
+        "label": "wall st hits new highs on trade optimism",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY3pnX19RTnVSWjFMQ0g4aklpNnFhaG04UVRvYktRTmYwTC1IMDIxbFdPX19ET0lCQkljU0E5eDVtMmZFUEFlbDNjVXFmNFFCMlJjMWtuVDJwZEVDRWloRmdvYlhYaW10QVZPSFNBMEpJUzlobHhXWjZiRG5Zbl9fVDV3QUVGQVFTc0ZqREJzckZmQm1MUGo3OWVyQ29NOU1RR1BzMV9fanhwMEo5aVpvOUZMMV9BZGxD?oc=5",
+        "title": "Wall St scales fresh highs on tech earnings, US-China trade optimism - Reuters"
+      },
+      {
+        "char": "🤝",
+        "label": "vietnam drifts toward russia",
+        "url": "https://www.nytimes.com/2025/10/27/world/asia/3-takeaways-from-vietnams-drift-toward-russia-and-away-from-america.html",
+        "title": "3 Takeaways From Vietnam’s Drift Toward Russia and Away From America"
+      },
+      {
+        "char": "📰",
+        "label": "us officials divided on journalist shooting",
+        "url": "https://www.nytimes.com/2025/10/27/world/middleeast/shooting-palestinian-american-journalist.html",
+        "title": "U.S. Assessment of Israeli Shooting of Journalist Divided American Officials"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
