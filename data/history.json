@@ -1304,5 +1304,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-01",
+    "emojis": [
+      {
+        "char": "📈",
+        "label": "stocks rally faces earnings wave",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaUMzc2w2LWplZ1A0T1pSc1dOcjZFbVEyM0FTMjZ3cUpPMWtRc1NfMGdPaS1aaW5WWDNkYTFXeTRmYXlhVmFLYkkyODZWMGFFOFh0OGo5N3NRekRJT3pUUzYxMUM5X0Z1NFFJTkg3UjRNREhDdnUxUUtiU1I3MFE3cXE1UzFxRGpoWXpsT2FQUlBISzNpdnNzeGtucEtPRWFIT3RWYi1vX1FBajRXaFcydFU2N2hKS19JQVdz?oc=5",
+        "title": "Wall St Week Ahead Resilient stocks rally faces earnings wave after AI, Fed wobbles - Reuters"
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane melissa leaves destruction",
+        "url": "https://www.theguardian.com/environment/2025/oct/31/weather-tracker-hurricane-melissa-caribbean-jamaica-haiti-cuba",
+        "title": "Weather tracker: Hurricane Melissa leaves trail of destruction across Caribbean"
+      },
+      {
+        "char": "🗳️",
+        "label": "tanzania election winner amid protests",
+        "url": "https://www.theguardian.com/world/2025/nov/01/tanzanias-hassan-declared-landslide-winner-in-election-that-triggered-violent-protests",
+        "title": "Tanzania’s Hassan declared landslide winner in election that triggered violent protests"
+      },
+      {
+        "char": "⚖️",
+        "label": "executions and atrocities in sudan",
+        "url": "https://www.nytimes.com/2025/10/30/world/africa/sudan-el-fasher-atrocities-executions-video.html",
+        "title": "Executions and Mass Casualties: Videos Show Horror Unfolding in Sudan"
+      },
+      {
+        "char": "🌏",
+        "label": "xi warns nations at apec summit",
+        "url": "https://www.nytimes.com/2025/10/31/world/asia/china-apec-trump-trade.html",
+        "title": "Xi Delivers Veiled Warning to Nations Not to Take the U.S.’s Side"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
