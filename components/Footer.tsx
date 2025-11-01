@@ -10,6 +10,26 @@ const REACTIONS = [
   { id: 'dislike', char: '👎', label: 'Dislike' },
 ] as const;
 
+// Helper to track reaction clicks
+const trackReaction = (reactionId: string, reactionLabel: string) => {
+  if (typeof window !== 'undefined' && (window as any).gtag) {
+    (window as any).gtag('event', 'reaction_click', {
+      reaction_type: reactionId,
+      reaction_label: reactionLabel,
+    });
+  }
+};
+
+// Helper to track footer link clicks
+const trackFooterLink = (linkName: string, url: string) => {
+  if (typeof window !== 'undefined' && (window as any).gtag) {
+    (window as any).gtag('event', 'footer_link_click', {
+      link_name: linkName,
+      link_url: url,
+    });
+  }
+};
+
 export default function Footer() {
   const [reaction, setReactionState] = React.useState<Reaction>(null);
   const [mounted, setMounted] = React.useState(false);
@@ -19,7 +39,17 @@ export default function Footer() {
     setReactionState(getReaction());
   }, []);
 
-  const set = (v: Reaction) => { setReaction(v); setReactionState(v); };
+  const set = (v: Reaction) => {
+    setReaction(v);
+    setReactionState(v);
+    // Track the reaction
+    if (v) {
+      const reactionData = REACTIONS.find(r => r.id === v);
+      if (reactionData) {
+        trackReaction(reactionData.id, reactionData.label);
+      }
+    }
+  };
 
   return (
     <div className="w-full py-2 sm:py-3 md:py-5 px-4">
@@ -51,6 +81,7 @@ export default function Footer() {
             href="https://github.com/pareeksourabh/today-in-emojis#readme"
             target="_blank"
             rel="noopener noreferrer"
+            onClick={() => trackFooterLink('whats-this', 'https://github.com/pareeksourabh/today-in-emojis#readme')}
             className={[
               "reaction-btn inline-flex items-center justify-center",
               "rounded-full px-4 py-2 text-xs sm:text-sm font-medium",
