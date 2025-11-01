@@ -1,6 +1,7 @@
 // app/layout.tsx
 import type { Metadata, Viewport } from 'next';
 import '../styles/globals.css';
+import GoogleAnalytics from '../components/GoogleAnalytics';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://pareeksourabh.github.io/today-in-emojis'),
@@ -25,6 +26,9 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <GoogleAnalytics />
+      </head>
       <body suppressHydrationWarning>{children}</body>
     </html>
   );

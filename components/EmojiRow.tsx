@@ -2,6 +2,17 @@ import React from 'react';
 
 type EmojiItem = { char: string; label: string; url?: string; title?: string };
 
+// Helper to track emoji clicks
+const trackEmojiClick = (emoji: string, label: string, url: string) => {
+  if (typeof window !== 'undefined' && (window as any).gtag) {
+    (window as any).gtag('event', 'emoji_click', {
+      emoji_character: emoji,
+      emoji_label: label,
+      news_url: url,
+    });
+  }
+};
+
 export default function EmojiRow({ emojis }: { emojis: EmojiItem[] }) {
   return (
     <div className="w-full overflow-x-auto px-2 sm:px-4">
@@ -25,6 +36,7 @@ export default function EmojiRow({ emojis }: { emojis: EmojiItem[] }) {
                   rel="noopener noreferrer"
                   aria-label={e.label || 'open related story'}
                   title={e.title || e.label || ''}
+                  onClick={() => trackEmojiClick(e.char, e.label, e.url!)}
                 >
                   {content}
                 </a>
