@@ -255,16 +255,16 @@ def openai_call(headlines: List[Dict[str, str]]) -> str:
     body = json.dumps({
         "model": OPENAI_MODEL,
         "temperature": 0.2,
-        "max_output_tokens": 1000,  # Increased to avoid truncation
-        "text": {
-            "format": {
-                "type": "json_schema",
+        "max_tokens": 1000,
+        "response_format": {
+            "type": "json_schema",
+            "json_schema": {
                 "name": "emoji_selection",
                 "schema": schema,
                 "strict": True,
             }
         },
-        "input": [
+        "messages": [
             {"role": "system", "content": system},
             {"role": "user", "content": json.dumps(user_payload, ensure_ascii=False)},
         ],
@@ -274,9 +274,8 @@ def openai_call(headlines: List[Dict[str, str]]) -> str:
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {api_key}",
-        "OpenAI-Beta": "output-text-2024-09-24",
     }
-    conn.request("POST", "/v1/responses", body=body.encode("utf-8"), headers=headers)
+    conn.request("POST", "/v1/chat/completions", body=body.encode("utf-8"), headers=headers)
     resp = conn.getresponse()
     data = resp.read()
     conn.close()
@@ -297,29 +296,19 @@ def openai_call(headlines: List[Dict[str, str]]) -> str:
     # Debug: show full response structure
     print(f"[debug] OpenAI response keys: {list(payload.keys())}", file=sys.stderr)
 
-    # Extract text from response
-    text = payload.get("output_text") or ""
-    if not text:
-        output = payload.get("output") or []
-        pieces: List[str] = []
-        for block in output:
-            if not isinstance(block, dict):
-                continue
-            contents = block.get("content") or []
-            for part in contents:
-                if isinstance(part, dict):
-                    part_text = part.get("text")
-                    if isinstance(part_text, str):
-                        pieces.append(part_text)
-                elif isinstance(part, str):
-                    pieces.append(part)
-        text = "".join(pieces)
+    # Extract text from Chat Completions response
+    choices = payload.get("choices", [])
+    if not choices:
+        snippet = json.dumps(payload, ensure_ascii=False)[:1000]
+        print(f"[debug] No choices in OpenAI response. Full payload: {snippet}", file=sys.stderr)
+        raise RuntimeError("OpenAI response missing choices")
 
-    text = (text or "").strip()
+    message = choices[0].get("message", {})
+    text = message.get("content", "").strip()
 
     if not text:
         snippet = json.dumps(payload, ensure_ascii=False)[:1000]
-        print(f"[debug] Empty OpenAI response. Full payload: {snippet}", file=sys.stderr)
+        print(f"[debug] Empty content in OpenAI response. Full payload: {snippet}", file=sys.stderr)
         raise RuntimeError("OpenAI response empty")
 
     print(f"[debug] Extracted text length: {len(text)} chars", file=sys.stderr)
