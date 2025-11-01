@@ -1,5 +1,25 @@
 # Changelog
 
+## [2025-11-01] Phase 8 — Analytics & Monitoring complete
+- **Added Google Analytics 4 (GA4)** with measurement ID integration for comprehensive site analytics.
+- **Implemented custom event tracking** for all user interactions:
+  - `emoji_click` — Tracks clicks on news emoji links with emoji character, label, and URL.
+  - `reaction_click` — Tracks user sentiment via footer reactions (❤️ Like, 🤔 Neutral, 👎 Dislike).
+  - `footer_link_click` — Tracks engagement with "What's this?" GitHub README link.
+- **Created GoogleAnalytics component** using Next.js Script component with optimal loading strategy.
+- **Integrated analytics into layout** for automatic tracking across all pages.
+- **Enabled real-time monitoring** of page views, user demographics, and custom events in GA4 dashboard.
+- **Documentation**: Added `docs/phase-8/analytics.md` detailing implementation and event tracking.
+
+## [2025-10-27 - 2025-10-31] Phase 7 Enhancements — AI Integration & Automation Fixes
+- **Fixed OpenAI API integration** by migrating from deprecated `/v1/responses` endpoint to stable `/v1/chat/completions` API.
+- **Resolved workflow permissions** by adding PAT token support to enable automatic Pages deployment triggers.
+- **Fixed data path issue** by updating script to write to `public/data/today.json` for proper deployment.
+- **Added headline title support** in emoji data structure for better hover tooltips showing full news headlines.
+- **Enhanced security** with branch protection rules, CODEOWNERS file, and admin-only bypass configuration.
+- **Improved debugging** with comprehensive error logging and validation for OpenAI API responses.
+- **Fixed GitHub Actions workflow** YAML syntax and trigger configuration for reliable automation.
+
 ## [2025-10-18 19:07] Phase 6 — Deploy & Polish complete
 - Added GitHub Pages workflow to build and deploy static site on each push and data change.
 - Added explicit `next.config.js` for static export compatibility with the App Router.
@@ -12,15 +32,8 @@
 - Implemented client-side rendering of five emojis from `data/today.json` (GitHub Pages compatible).
 - Added footer reactions (❤️ 🤔 👎) with `localStorage` persistence.
 - Ensured one-viewport layout with minimal animation and full accessibility.
-- Introduced colored “What’s this?” accent link in footer for opt-in context.
+- Introduced colored "What's this?" accent link in footer for opt-in context.
 - Prepared for Phase 6 — Deploy and Polish (GitHub Pages workflow + final styling).
-
-## [2025-10-18 17:19] Phase 5 — Functional Build complete
-- Implemented client-side rendering of five emojis from `data/today.json` (GitHub Pages compatible).
-- Added footer reactions (Like / Neutral / Dislike) with localStorage persistence.
-- Ensured one-viewport layout with minimal animations and accessible controls.
-- Included `next.config.js` for static export and Tailwind v4 globals.
-- Added developer notes in `docs/phase-5/build-notes.md`.
 
 ## [2025-10-18 17:09] Phase 4 — MVP Scaffold complete
 - Initialized **Next.js + React + Tailwind v4** environment for the one-page app.
