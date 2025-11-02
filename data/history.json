@@ -1343,5 +1343,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-02",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "tanzania election winner amid protests",
+        "url": "https://www.theguardian.com/world/2025/nov/01/tanzanias-hassan-declared-landslide-winner-in-election-that-triggered-violent-protests",
+        "title": "Tanzania’s Hassan declared landslide winner in election that triggered violent protests"
+      },
+      {
+        "char": "🔍",
+        "label": "un expert to investigate lebanon torture",
+        "url": "https://www.theguardian.com/world/2025/nov/01/un-torture-expert-investigate-lebanon-egyptian-turkish-poet",
+        "title": "UN expert urged to investigate Lebanon over alleged torture of Egyptian-Turkish poet"
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane melissa damage in jamaica",
+        "url": "https://www.theguardian.com/world/2025/oct/31/black-river-jamaica-residents-assess-damage-after-hurricane-melissa",
+        "title": "‘How do you rebuild all this?’ Black River residents assess damage after Hurricane Melissa"
+      },
+      {
+        "char": "👴",
+        "label": "japan's centenarians never retire",
+        "url": "https://www.nytimes.com/2025/11/01/world/asia/japan-work-job-retirement-centenarian.html",
+        "title": "Working Past 100? In Japan, Some People Never Quit."
+      },
+      {
+        "char": "🇲🇦",
+        "label": "un supports morocco's western sahara claim",
+        "url": "https://www.theguardian.com/world/2025/oct/31/un-approves-resolution-supporting-moroccos-claim-to-western-sahara",
+        "title": "UN approves resolution supporting Morocco’s claim to Western Sahara"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
