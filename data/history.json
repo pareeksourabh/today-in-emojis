@@ -1382,5 +1382,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-03",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "us supreme court on tariffs",
+        "url": "https://www.bbc.com/news/articles/cn4jyk9jyv3o?at_medium=RSS&at_campaign=rss",
+        "title": "World awaits landmark US Supreme Court decision on Trump's tariffs"
+      },
+      {
+        "char": "🇪🇸",
+        "label": "spain regrets injustice to indigenous",
+        "url": "https://www.theguardian.com/world/2025/nov/01/spain-expresses-regret-over-injustice-suffered-by-mexicos-indigenous-people-during-conquest",
+        "title": "Spain expresses regret over ‘injustice’ suffered by Mexico’s Indigenous people during conquest"
+      },
+      {
+        "char": "🌍",
+        "label": "hero of the war in sudan",
+        "url": "https://www.theguardian.com/global-development/2025/nov/02/he-told-the-world-what-was-happening-in-el-fasher-then-they-sought-him-out-how-sudan-lost-a-true-hero-of-the-war",
+        "title": "He told the world what was happening in El Fasher. Then they sought him out. How Sudan lost ‘a true hero of the war’"
+      },
+      {
+        "char": "🌪️",
+        "label": "earthquake hits afghanistan",
+        "url": "https://www.bbc.com/news/articles/c8jrw12d3edo?at_medium=RSS&at_campaign=rss",
+        "title": "Casualties feared after magnitude-6.3 earthquake hits Afghanistan"
+      },
+      {
+        "char": "💀",
+        "label": "day of the dead in mexico",
+        "url": "https://www.nytimes.com/2025/11/02/world/americas/mexico-day-of-the-dead-bones-pomuch.html",
+        "title": "For Day of the Dead, One Mexican Town Digs Up Its Dead"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
