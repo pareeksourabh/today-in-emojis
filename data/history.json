@@ -1421,5 +1421,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-04",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "landslide death toll rises in uganda",
+        "url": "https://www.bbc.com/news/articles/cyv8g28zd7mo?at_medium=RSS&at_campaign=rss",
+        "title": "Agony for families as landslide death toll climbs in Uganda and Kenya"
+      },
+      {
+        "char": "🎬",
+        "label": "my father's shadow at film awards",
+        "url": "https://www.theguardian.com/film/2025/nov/03/british-independent-film-awards-nominations-bifa-my-fathers-shadow-pillion",
+        "title": "My Father’s Shadow looms over competition at British independent film awards"
+      },
+      {
+        "char": "🌀",
+        "label": "hurricane melissa damage in jamaica",
+        "url": "https://www.theguardian.com/world/2025/oct/31/black-river-jamaica-residents-assess-damage-after-hurricane-melissa",
+        "title": "‘How do you rebuild all this?’ Black River residents assess damage after Hurricane Melissa"
+      },
+      {
+        "char": "🏔️",
+        "label": "nepal avalanche claims lives",
+        "url": "https://www.bbc.com/news/articles/c2kp42y5y81o?at_medium=RSS&at_campaign=rss",
+        "title": "Three climbers dead and four missing after Nepal avalanche"
+      },
+      {
+        "char": "⚖️",
+        "label": "spain regrets injustice to indigenous people",
+        "url": "https://www.theguardian.com/world/2025/nov/01/spain-expresses-regret-over-injustice-suffered-by-mexicos-indigenous-people-during-conquest",
+        "title": "Spain expresses regret over ‘injustice’ suffered by Mexico’s Indigenous people during conquest"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
