@@ -1460,5 +1460,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-05",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "ukraine military service revamp",
+        "url": "https://www.nytimes.com/2025/11/04/world/europe/ukraine-war-military-contracts-conscription.html",
+        "title": "Ukraine Moves to Revamp Military Service"
+      },
+      {
+        "char": "👩🏾‍⚖",
+        "label": "teenager taken to ghana from uk",
+        "url": "https://www.theguardian.com/uk-news/2025/nov/04/teenager-taken-to-ghana-away-from-uk-gang-culture-to-stay-for-now-court-rules",
+        "title": "Teenager taken to Ghana away from UK ‘gang culture’ to stay for now, court rules"
+      },
+      {
+        "char": "🏔️",
+        "label": "seven climbers dead in nepal avalanche",
+        "url": "https://www.bbc.com/news/articles/c2kp42y5y81o?at_medium=RSS&at_campaign=rss",
+        "title": "Seven climbers dead after Nepal avalanche"
+      },
+      {
+        "char": "🌍",
+        "label": "brazil police raid investigation",
+        "url": "https://www.theguardian.com/world/2025/nov/04/brazil-investigation-rio-police-raid",
+        "title": "Brazil to seek independent inquiry into deadly police raid that killed 121 people"
+      },
+      {
+        "char": "🌪️",
+        "label": "typhoon wreaks havoc in philippines",
+        "url": "https://www.bbc.com/news/articles/cgmx4yjkzj4o?at_medium=RSS&at_campaign=rss",
+        "title": "At least 40 dead as typhoon wreaks havoc in the Philippines"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
