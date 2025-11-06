@@ -1499,5 +1499,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-06",
+    "emojis": [
+      {
+        "char": "📈",
+        "label": "robinhood profit exceeds expectations",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlhBNG5sWHJBMWJtUjdtOVNETktfa0dQUVAxZE9xcGc2WlRyblJ1QnlydTg3S0dhdHRYM3ZsUTlERjAyaHVFOHJXeEpSMUVpZlY0blZsbHV0Y3ZwLXVsNHFiYjl4aV9XTlpHUncyNGNQUk1CcVc3TTJhdndxVEdPVUVHdjIyMjVocXJLd3ZkVHFVZlluNHBGaWhRcXhmb1J3Snc2TS1QSkItU21FeTdhVVVNUUhJVjA?oc=5",
+        "title": "Robinhood profit surpasses expectations as retail traders ride market momentum - Reuters"
+      },
+      {
+        "char": "🪖",
+        "label": "what to know about kataib hezbollah",
+        "url": "https://www.nytimes.com/2025/11/05/world/europe/elizabeth-tsurkov-iraqi-militia-torture.html",
+        "title": "What to Know About Kataib Hezbollah, the Iraqi Militia That Held Tsurkov Captive"
+      },
+      {
+        "char": "🌍",
+        "label": "36,000 sudanese flee el fasher conflict",
+        "url": "https://www.theguardian.com/world/2025/nov/03/sudanese-refugees-el-fasher-rsf-tawila-un",
+        "title": "At least 36,000 Sudanese have fled since fall of El Fasher to RSF, says UN agency"
+      },
+      {
+        "char": "💰",
+        "label": "canada budget adds to deficit amid tariffs",
+        "url": "https://www.theguardian.com/world/2025/nov/05/canada-federal-budget-adds-tens-of-billions-to-deficit-as-carney-spends-to-dampen-trump-tariffs-effect",
+        "title": "Canada budget adds tens of billions to deficit as Carney spends to dampen Trump tariffs effect"
+      },
+      {
+        "char": "🌪️",
+        "label": "jamaica pm on hurricane melissa damage",
+        "url": "https://www.theguardian.com/world/2025/nov/05/jamaica-pm-says-hurricane-melissa-caused-damage-equivalent-to-nearly-one-third-of-gdp",
+        "title": "Jamaica PM says hurricane Melissa caused damage equivalent to nearly one-third of GDP"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
