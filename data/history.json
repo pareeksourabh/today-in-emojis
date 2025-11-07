@@ -1538,5 +1538,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-07",
+    "emojis": [
+      {
+        "char": "💊",
+        "label": "trump cuts drug prices",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYWc4cDRWZ3NfNEZPYkRJVmhQUWxlVTkzT1h3NUFlLUFVcEp0eEp4ZmNFZlVsbGpiY1VNOW9GcGNPZmgwWmlNeU1kZVJOZ05mX3E5MGlybGMtNVU1N0ViU0J4dnk2bWpCd2M1S3BxUFRWYmttc19rVnk4dWRWdjh1bk9zZHByU1lfTlkxRk1NRGRFM2dsNXpkVkpzNHQxUlR0UXZRNFFUeHBxQmZNRVlZaFhQNko3WG5KaXFaYjBpN0dJdw?oc=5",
+        "title": "Novo Nordisk, Lilly strike deal with Trump to slash weight-loss drug prices - Reuters"
+      },
+      {
+        "char": "📈",
+        "label": "market moves guided by earnings",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs?oc=5",
+        "title": "Earnings, not data, should guide stock moves, market expert says - Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "world leaders criticize trump on climate",
+        "url": "https://www.bbc.com/news/articles/cn4j8dgnj1wo?at_medium=RSS&at_campaign=rss",
+        "title": "COP30: World leaders take aim at Trump for climate inaction"
+      },
+      {
+        "char": "🇸🇾",
+        "label": "un lifts sanctions on syria",
+        "url": "https://www.bbc.com/news/articles/c5y95lg1erjo?at_medium=RSS&at_campaign=rss",
+        "title": "UN lifts sanctions on Syrian president ahead of White House visit"
+      },
+      {
+        "char": "🚨",
+        "label": "us ends deportation protection",
+        "url": "https://www.theguardian.com/us-news/2025/nov/06/us-ends-deportation-protections-for-south-sudanese-nationals",
+        "title": "US ends deportation protection for South Sudanese nationals"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
