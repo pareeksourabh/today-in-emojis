@@ -1577,5 +1577,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-08",
+    "emojis": [
+      {
+        "char": "🇿🇦",
+        "label": "south africa investigates citizens in ukraine",
+        "url": "https://www.theguardian.com/world/2025/nov/06/south-africa-investigation-citizens-fighting-ukraine-russia-war-mercenaries",
+        "title": "South Africa launches investigation into 17 citizens fighting in Ukraine"
+      },
+      {
+        "char": "🚤",
+        "label": "us strikes drug boat in latin america",
+        "url": "https://www.theguardian.com/us-news/2025/nov/07/us-strikes-another-alleged-drug-boat-latin-america",
+        "title": "US strikes another alleged drug boat bringing death toll from campaign in Latin America to 70"
+      },
+      {
+        "char": "📉",
+        "label": "nasdaq faces worst week since april",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLUI1bkFXdVRYLWlJcFhUbE00SjVPOUJsN25uWWNaOU9vdzhoVHdFVGY3Sll1Mi1qYXVwSUhJRzdHaFd1bEhSWUZVbU1CazlVSFNfTGFrM2Z5WHpiYzZkNTBocTRSSmFQNEhEYlh2V0ItaFdFM1U3UHByWnMyd28zbVZxTQ?oc=5",
+        "title": "Nasdaq has worst week since April amid AI rally jitters, US yields slip - Reuters"
+      },
+      {
+        "char": "🕌",
+        "label": "mosque blast injures over 50 in jakarta",
+        "url": "https://www.bbc.com/news/articles/clykgdg3l42o?at_medium=RSS&at_campaign=rss",
+        "title": "More than 50 people injured in mosque blast at Jakarta high school"
+      },
+      {
+        "char": "📖",
+        "label": "juan carlos memoir reveals family tragedy",
+        "url": "https://www.nytimes.com/2025/11/07/world/europe/spain-juan-carlos-king-memoir.html",
+        "title": "Former King of Spain, Juan Carlos, Details Death of Brother in Memoir"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
