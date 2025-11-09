@@ -1616,5 +1616,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-09",
+    "emojis": [
+      {
+        "char": "🍔",
+        "label": "us supreme court food aid ruling",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZFdTb1djUG1ZRHVDazVBMFRjUjE2aW1yeU1ETGZscmRCSkJrYW9NSzdnWHFrRlh1dzQ3d1Q2OGM3c3NUNVM2Z1FJVmFJNy1kOXpjNWJhRUo2RzR1UEVhQW1wQVE1VHdubXJiaUxUd1I3Y0ZJMG8ydWNNN0VMUGVGRmZTSWVZYXpON1N1VkQwVngzTlFzUl9YMWJ3Qjc2eGpVUVdidEc3bVo1VUx5VEc4X3ZrU2I?oc=5",
+        "title": "US Supreme Court lets Trump withhold $4 billion in food aid funding for now - Reuters"
+      },
+      {
+        "char": "🌊",
+        "label": "mediterranean rescue groups cut ties",
+        "url": "https://www.theguardian.com/world/2025/nov/07/civil-rescue-groups-in-mediterranean-cut-ties-with-libyan-coastguard",
+        "title": "Civil rescue groups in Mediterranean cut ties with Libyan coastguard"
+      },
+      {
+        "char": "🏥",
+        "label": "trump's deportation of venezuelans",
+        "url": "https://www.nytimes.com/2025/11/08/world/americas/el-salvador-prison-migrants.html",
+        "title": "Inside Trump’s Deportation of Venezuelans: Four Months in a Salvadoran Prison"
+      },
+      {
+        "char": "🚨",
+        "label": "uk rejects atrocity prevention plans",
+        "url": "https://www.theguardian.com/global-development/2025/nov/07/aid-cuts-uk-rejected-atrocity-prevention-sudan-civilians-rsf-massacres-el-fasher",
+        "title": "UK rejected atrocity prevention plans for Sudan despite warning of possible genocide"
+      },
+      {
+        "char": "🌪️",
+        "label": "tornado kills in southern brazil",
+        "url": "https://www.nytimes.com/2025/11/08/world/americas/tornado-brazil-deaths.html",
+        "title": "Tornado Rips Through Southern Brazil, Killing at Least 5"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
