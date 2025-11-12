@@ -3,7 +3,7 @@
 **Today's vibe — in five emojis.**
 *(Feel the day. Don't read it.)*
 
-[![Live Site](https://img.shields.io/badge/Live-Site-blue)](https://pareeksourabh.github.io/today-in-emojis)
+[![Live Site](https://img.shields.io/badge/Live-Site-blue)](https://todayinemojis.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
@@ -308,7 +308,7 @@ Concept, design, and implementation captured through iterative development phase
 
 ## Links
 
-- **Live Site:** https://pareeksourabh.github.io/today-in-emojis
+- **Live Site:** https://todayinemojis.com
 - **Source Code:** https://github.com/pareeksourabh/today-in-emojis
 - **Issues:** https://github.com/pareeksourabh/today-in-emojis/issues
 

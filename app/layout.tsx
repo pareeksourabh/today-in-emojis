@@ -4,7 +4,7 @@ import '../styles/globals.css';
 import GoogleAnalytics from '../components/GoogleAnalytics';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://pareeksourabh.github.io/today-in-emojis'),
+  metadataBase: new URL('https://todayinemojis.com'),
   title: 'Today in Emojis',
   description: "Today's vibe - in five emojis. Feel the day. Read it only if you must.",
   openGraph: {
