@@ -1772,5 +1772,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-13",
+    "emojis": [
+      {
+        "char": "🇨🇴",
+        "label": "gustavo petro takes on trump",
+        "url": "https://www.nytimes.com/2025/11/12/world/americas/gustavo-petro-colombia-trump.html",
+        "title": "Gustavo Petro, the Rebel Turned President Willing to Take on Trump"
+      },
+      {
+        "char": "🚌",
+        "label": "peru bus tragedy kills 37",
+        "url": "https://www.bbc.com/news/articles/c1d015pz12po?at_medium=RSS&at_campaign=rss",
+        "title": "At least 37 killed in Peru after bus plunges into ravine"
+      },
+      {
+        "char": "🌍",
+        "label": "google maps alters sahara border",
+        "url": "https://www.theguardian.com/world/2025/nov/12/google-maps-border-western-sahara-morocco",
+        "title": "Borderline ambiguity: How Google Maps removes disputed Western Sahara border for Morocco users"
+      },
+      {
+        "char": "🌡️",
+        "label": "al gore warns on climate crisis",
+        "url": "https://www.theguardian.com/environment/live/2025/nov/12/cop30-live-talks-us-protests-belem-brazil",
+        "title": "Cop30 live: ‘literally insane’ that we are letting global heating happen, says Al Gore"
+      },
+      {
+        "char": "📚",
+        "label": "saving mauritania's libraries",
+        "url": "https://www.theguardian.com/world/2025/nov/12/city-of-libraries-chinguetti-mauritania-sahara-unesco-preservation",
+        "title": "The man on a mission to save Mauritania’s ‘city of libraries’ from encroaching desert sands"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
