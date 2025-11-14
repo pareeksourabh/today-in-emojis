@@ -1811,5 +1811,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-14",
+    "emojis": [
+      {
+        "char": "⚽",
+        "label": "faroe islands soccer team",
+        "url": "https://www.nytimes.com/2025/11/13/world/europe/this-scrappy-soccer-team-has-a-cinderella-chance-at-making-the-world-cup.html",
+        "title": "In the Faroe Islands’ Soccer Team, the Players Also Have Day Jobs"
+      },
+      {
+        "char": "📰",
+        "label": "epstein emails mention trump",
+        "url": "https://www.bbc.com/news/articles/c3rj0d97ynvo?at_medium=RSS&at_campaign=rss",
+        "title": "What we know about new Epstein emails that mention Trump"
+      },
+      {
+        "char": "🇨🇳",
+        "label": "china's regulatory chief steps down",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbUF5bmpiVnNTLXFsQms2Vms1VHJ5VW04WWYtZUZ5bks2cDNSd1lIZlBxNGxxcGw1MHljOExtR00xanRwSjFGdVhwNkIwQkJsNVhlV2pnbVgteEs0RmxTRkNYdUNoaFllQV9NQWtpTllqN1g3S2FWR1lsMUpKazV3aFh6TEVGOEUtczBkd2hWbF9PakFqZU9RdnFwN1NEVm94bkNOdGN4eXYxTHo4aVl2enZ3dk02TFl6cW1Ic2dyVWFaWW5mRzNTeUV5NS04YzN0Snk2dEZheHpRdGZldllBVQ?oc=5",
+        "title": "Exclusive: China’s securities regulatory chief seeks approval to step down, sources say - Reuters"
+      },
+      {
+        "char": "💰",
+        "label": "pakistan's spending blitz",
+        "url": "https://www.nytimes.com/2025/11/13/world/asia/pakistan-trump-lobbying.html",
+        "title": "How Pakistan’s Spending Blitz Helped Win Over Trump and Flip U.S. Policy"
+      },
+      {
+        "char": "🌍",
+        "label": "canada warns of arctic spy threats",
+        "url": "https://www.theguardian.com/world/2025/nov/13/canada-arctic-spy-threats-russia-china",
+        "title": "Canada says Russia and China are ramping up spy efforts in Arctic region"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
