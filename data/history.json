@@ -1850,5 +1850,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-15",
+    "emojis": [
+      {
+        "char": "🚁",
+        "label": "drone strikes in kyiv",
+        "url": "https://www.bbc.com/news/articles/cn4jn94gyllo?at_medium=RSS&at_campaign=rss",
+        "title": "Russian drone slams into block of flats in deadly wave of strikes across Kyiv"
+      },
+      {
+        "char": "⚖️",
+        "label": "epstein investigation",
+        "url": "https://www.bbc.com/news/articles/cj97x2lere0o?at_medium=RSS&at_campaign=rss",
+        "title": "US justice department investigates Epstein's alleged ties to Clinton and banks after Trump request"
+      },
+      {
+        "char": "💼",
+        "label": "ai bubble fears",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUWVvSm5fMnhSZDB1eFVXWE9DczBXZmJhQXhJUWdiRWYtUlpGQkp2aXVETkFSMnJNXzhxYzJKVjhlX19Yby1haHJDX0pDRnAtQ2hsem9JNy1Uc3gwZGdLelBMWENIbk01LTlGWUZObldjcUxmUjFnWnRnSzdEYTI3Y1Fabm1oNmdlWEZPbHhqakJCU2gzYm1TaWpiVUFidVRzLTJLRl84eVc5ZkF3V3lZdTl2cnVHeTg1THc?oc=5",
+        "title": "'No playbook' for AI bubble fears, says Deutsche Bank investment arm CEO - Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "atrocities in sudan",
+        "url": "https://www.nytimes.com/2025/11/14/world/africa/sudan-atrocities-civilians-un.html",
+        "title": "Atrocities in Sudan Require World’s Attention, U.N. Says"
+      },
+      {
+        "char": "🚌",
+        "label": "bus crash in stockholm",
+        "url": "https://www.bbc.com/news/articles/c629m7jm777o?at_medium=RSS&at_campaign=rss",
+        "title": "Three killed after bus crashes into Stockholm bus stop"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
