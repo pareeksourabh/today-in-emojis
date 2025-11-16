@@ -1889,5 +1889,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-16",
+    "emojis": [
+      {
+        "char": "💥",
+        "label": "blast at police station in kashmir",
+        "url": "https://www.bbc.com/news/articles/cnvel2gvqeqo?at_medium=RSS&at_campaign=rss",
+        "title": "Nine killed in accidental blast at police station in Indian-administered Kashmir, officials say"
+      },
+      {
+        "char": "🇲🇽",
+        "label": "protests against corruption in mexico",
+        "url": "https://www.nytimes.com/2025/11/15/world/americas/mexico-protest-violence.html",
+        "title": "Protesters Rage Against Mexico’s Government Over Corruption and Violence"
+      },
+      {
+        "char": "🏗️",
+        "label": "bhp liable for brazil dam collapse",
+        "url": "https://www.theguardian.com/environment/2025/nov/14/london-judge-rules-bhp-group-liable-for-brazil-2015-samarco-dam-collapse",
+        "title": "Mining firm BHP found liable in UK for disastrous Brazilian dam collapse"
+      },
+      {
+        "char": "🏢",
+        "label": "trump organization talks with saudi government",
+        "url": "https://www.nytimes.com/2025/11/15/world/middleeast/trump-organization-saudi-development-deal.html",
+        "title": "Trump Organization Is Said to Be in Talks on a Saudi Government Real Estate Deal"
+      },
+      {
+        "char": "🚑",
+        "label": "car rams into crowd at australian derby",
+        "url": "https://www.bbc.com/news/articles/c8x1k0x2k2lo?at_medium=RSS&at_campaign=rss",
+        "title": "Nine injured after car rams into crowd at Australia demolition derby"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
