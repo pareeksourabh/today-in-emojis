@@ -1967,5 +1967,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-18",
+    "emojis": [
+      {
+        "char": "💰",
+        "label": "amazon raises $15 billion for ai",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUVdYTlpDUzBwTGNVWi12TWdmczBhTmp1a05MQURqLTRnTWNFazNDbWlLcm1HZnYyY1hEdjhpVDhKTXhVOXZ1RlVWX01xcmhOTlBMMFRnV1F0Snd5RmtMVElWWW1JY0VtZjZRR0xFSm5aVk5YQ192cjZmajAxUThFNElDZkttMDQ4eUlBU2E5elFaNG9waGRMM2VnbGljc3dnR0dxeU53Y0hEcElOV1Jpd3pxYUFBV09kcUx3YkNzSUhUMTNf?oc=5",
+        "title": "Amazon to raise $15 billion in first US bond sale in three years to fund AI push - Reuters"
+      },
+      {
+        "char": "🌎",
+        "label": "trump's doctrine for the hemisphere",
+        "url": "https://www.nytimes.com/2025/11/17/world/americas/trump-latin-america-monroe-doctrine.html",
+        "title": "The ‘Donroe Doctrine’: Trump’s Bid to Control the Western Hemisphere"
+      },
+      {
+        "char": "🚨",
+        "label": "us labels venezuelan cartel as terrorists",
+        "url": "https://www.theguardian.com/us-news/2025/nov/17/trump-venezuelan-drug-cartel",
+        "title": "US will label supposed Venezuelan drug cartel ‘headed by Maduro’ as terrorist organization"
+      },
+      {
+        "char": "🎶",
+        "label": "lost bach pieces performed after 320 years",
+        "url": "https://www.bbc.com/news/articles/c1wlr7r747eo?at_medium=RSS&at_campaign=rss",
+        "title": "Lost Bach pieces performed for first time in 320 years"
+      },
+      {
+        "char": "🍦",
+        "label": "pinkberry parent explores sale options",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRG05MjAzbF9oQ05IbFFCNjc1VTJjWW5qQW1vTnhfRjllcXRNZDY3RERMX21IbGpCYzJkM1EyNmNlNEpod1NER3dQdlNpeTBSdmQyRWROUjdrMHd4clE2LWlYNG9aeTFLLTRTQnM0RkpuNmNYelFVZjNWSnBweE1mYWFLdmNKMUpkYTgyR2tvd1hxYnMwMHI1WWQ0ZUdQb3lqa193NTg0LXRFWk14cmVpR3NyUFZOaGVQLTRNbExQLWg?oc=5",
+        "title": "Exclusive: Pinkberry parent company MTY Food Group hires TD Bank to explore a sale, sources say - Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
