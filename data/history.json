@@ -2006,5 +2006,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-19",
+    "emojis": [
+      {
+        "char": "🎬",
+        "label": "warner bros seeks higher offer from paramount",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdmlpTDFYWGctczdEQ1ROUXRQYmlXVWNTUWNFOHIzX3Q0N0lMYlZTSk1tQXBEWURIWjZTVHR4YnBWY1dTWWZvNWtDc3Y1VzQ2LTJfby1VU1l2ck1zS0lYallOUG81N2hpN3pyeDVpeklqdDJaM294TTlpTTA4YlZrTUtRWXZ4X0wySGtkLXdvdW1xLVNhUTRjLU5NcDhlMmU2a2F3MG1DMWszQzk5MjlCcXdPc2lnQTEta0VOMHF0ODdxMEgzMGEtbmxrcTBNZ1lScU1j?oc=5",
+        "title": "Warner Bros Discovery wants Paramount to raise its offer to $30 per share, Axios reports - Reuters"
+      },
+      {
+        "char": "🇸🇦",
+        "label": "trump defends saudi crown prince",
+        "url": "https://www.bbc.com/news/articles/cn0gdkwp2p9o?at_medium=RSS&at_campaign=rss",
+        "title": "'Things happen' - Trump defends Saudi crown prince over Khashoggi killing"
+      },
+      {
+        "char": "📉",
+        "label": "s&p 500 ends down for 4th day",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGM0Qk13Z3F2YTNjSGVKUWIwaWJucGhtdFFhMGFJLXpGZ1Vkby1rTlBsejFrNTVmdk83amdDZ3laUFRiZXYzTm9NS2VnQlRWTkN5eVFNNVI0ZUszaWJmRkROcU5VT08wck8xb3ZIektaejhsMGN4eEpHZUFucjFWejNudDM2c3pTSkJDbDBFQU0xV3pHQmtTQ25tSzF6ZTVYSXhpSW9WWngyb1BBUlAxV2ZB?oc=5",
+        "title": "S&P 500 ends down for a 4th day as valuation worries weigh, Home Depot drops - Reuters"
+      },
+      {
+        "char": "🏦",
+        "label": "brazil shuts banco master amid police action",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZG8yOXdCaUNIOHB6Ylc1d3pLYTNrcW1BbXJ6Sm1LZFpEM2lMUUdKQjBPa2dodW9hYXBQYnBzNVpOOElhcHlDdnVoZkFXSTJ6aGc4RW1rVmRmaFptcGk4UmxSOURsQS1xUk1ibmxaZ2tnejFPU09BSTBTVEQ5M3VWUG1OVXBZcWtwNHBZN2l6R1ptc0dzbUxuOVZkNTUwUTZGZzJzMXVkNGxLRjhYVUNzcA?oc=5",
+        "title": "Brazil central bank shuts Banco Master as police detain top investor - Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "mao's peasants now tourist attraction",
+        "url": "https://www.nytimes.com/2025/11/18/world/asia/china-mao-red-tourism.html",
+        "title": "Where Mao’s Peasants Tilled the Soil, Tourists Now Pay for the View"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
