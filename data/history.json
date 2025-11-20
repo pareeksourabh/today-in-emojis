@@ -2045,5 +2045,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-20",
+    "emojis": [
+      {
+        "char": "💻",
+        "label": "nvidia's strong forecast calms jitters",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1hkMW1tRm5pQ0ZCNVNGYWVmRW5NQWFLbU85YVVnRjNTTDFFNEJpN2h6N0VCTlBra3poaHhCUkpZcl9QWjNweS1RUHhFdmN0bEpIcDh6YjB3SFMxR3ppcnNGcHNFRk96OTlKRzl0dHFNRHlCc2tkV09IX3VBaVJTZXlZYVRVc1ZTeTJnbThuZl9iRkRnSGFxVjF6aGZmeTVhN2hZVDNzQkFYUVNyTXJJZ1ZxMA?oc=5",
+        "title": "Nvidia's strong forecast calms AI bubble jitters - for now - Reuters"
+      },
+      {
+        "char": "🇦🇱",
+        "label": "albanian pm accuses of stereotyping",
+        "url": "https://www.bbc.com/news/articles/cge5e1xpgzyo?at_medium=RSS&at_campaign=rss",
+        "title": "Albanian PM accuses Mahmood of 'ethnic stereotyping'"
+      },
+      {
+        "char": "🗳️",
+        "label": "dissenting judge slams texas map block",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmR3M240Y1FQdXRXT3FUS0VqWUJMNmN6VWdKTUZnOHNwLWFBNFBXR1U2OWFBanN5Y1ptZ0J2ekJVcDRQWjhzUEZBekl4RllmdUdmOVo5akpGUk53ajM2RmtMMDFDQm1aVXZfLWtmZE41b0xlMk5kbzhZWkp3Yzg1eFZmZzEyRnZWbVBaelFyNVFDQXZUVEw4My0tWHVpZ3J4ODVwQ3Y4ZHZtc2NaV25MWA?oc=5",
+        "title": "Dissenting judge slams colleagues for blocking Texas congressional map - Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "turkey to host cop31 climate summit",
+        "url": "https://www.bbc.com/news/articles/cx242yj380no?at_medium=RSS&at_campaign=rss",
+        "title": "Turkey set to host COP31 as Australia steps aside"
+      },
+      {
+        "char": "💊",
+        "label": "new drug could treat killer tb",
+        "url": "https://www.theguardian.com/global-development/2025/nov/19/new-drug-could-be-breakthrough-killer-tb-tuberculosis-sorfequiline",
+        "title": "New drug could be a breakthrough in treatment for killer TB, trial suggests"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
