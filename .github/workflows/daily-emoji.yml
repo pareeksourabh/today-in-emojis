@@ -23,18 +23,33 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install feedparser
+        run: pip install feedparser pillow requests
 
       - name: Run AI emoji selection
         env:
-          # ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python scripts/update_emojis_ai.py
 
-      - name: Commit and push if changed
+      - name: Generate Instagram image
+        run: python scripts/generate_emoji_image.py
+
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/today.json data/history.json || true
+          git add public/data/today.json data/history.json public/images/daily/*.png || true
           git commit -m "chore(auto): AI-picked emojis $(date -u +'%Y-%m-%d')" || echo "No changes"
           git push
+
+      - name: Wait for GitHub Pages deployment
+        run: |
+          echo "Waiting 60 seconds for GitHub Pages to deploy the image..."
+          sleep 60
+
+      - name: Post to Instagram
+        if: success()
+        env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_BUSINESS_ACCOUNT_ID: ${{ secrets.INSTAGRAM_BUSINESS_ACCOUNT_ID }}
+        run: python scripts/post_to_instagram.py
+        continue-on-error: true

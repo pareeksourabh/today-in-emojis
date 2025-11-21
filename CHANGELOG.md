@@ -1,5 +1,19 @@
 # Changelog
 
+## [2025-11-19] Phase 9 — Instagram Integration & Image Generation (WIP)
+- **Planning Phase:** Created comprehensive implementation plan for automated Instagram posting
+- **New Features (Planned):**
+  - Automatic emoji image generation (1080x1080px PNG)
+  - Daily Instagram posts via Graph API
+  - Image archival in repository
+  - Enhanced GitHub Actions workflow
+- **Components to Build:**
+  - `scripts/generate_emoji_image.py` — Image generation using Pillow
+  - `scripts/post_to_instagram.py` — Instagram Graph API integration
+  - Extended `.github/workflows/daily-emoji.yml` — Workflow automation
+- **Documentation:** Added `docs/phase-9/instagram-plan.md` with detailed architecture and implementation guide
+- **Status:** Design and planning complete, ready for implementation
+
 ## [2025-11-01] Phase 8 — Analytics & Monitoring complete
 - **Added Google Analytics 4 (GA4)** with measurement ID integration for comprehensive site analytics.
 - **Implemented custom event tracking** for all user interactions:
