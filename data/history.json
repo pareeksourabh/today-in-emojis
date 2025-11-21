@@ -2123,5 +2123,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-21",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "new us diversity policy rules",
+        "url": "https://www.bbc.com/news/articles/cx24200d7y9o?at_medium=RSS&at_campaign=rss",
+        "title": "New US rules say countries with diversity policies are infringing human rights"
+      },
+      {
+        "char": "🇿🇦",
+        "label": "starmer defends g20 trip",
+        "url": "https://www.theguardian.com/politics/2025/nov/20/keir-starmer-defends-south-africa-g20-budget",
+        "title": "Keir Starmer defends trip to South Africa for G20 summit as budget looms"
+      },
+      {
+        "char": "🎨",
+        "label": "frida kahlo portrait auction record",
+        "url": "https://www.theguardian.com/artanddesign/2025/nov/21/frida-kahlo-self-portrait-sells-547-million-new-auction-record-female-artist",
+        "title": "Frida Kahlo self-portrait sells for $54.7m to set new auction record for a female artist"
+      },
+      {
+        "char": "🐻",
+        "label": "bears in japan after attacks",
+        "url": "https://www.nytimes.com/2025/11/20/world/asia/japan-bears-attacks.html",
+        "title": "The Hunt Is On for Bears in Japan After Deadly Attacks"
+      },
+      {
+        "char": "⚖️",
+        "label": "nigerian court convicts separatist",
+        "url": "https://www.theguardian.com/world/2025/nov/20/nigerian-court-convicts-biafran-separatist-leader-on-terrorism-charges-nnamdi-kanu",
+        "title": "Biafran separatist leader sentenced to life on terrorism charges by Nigerian court"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
