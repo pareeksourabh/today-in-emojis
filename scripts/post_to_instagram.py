@@ -186,9 +186,12 @@ def publish_media(account_id, access_token, container_id):
 
 def main():
     print("[info] Starting Instagram post...")
+    print(f"[info] Graph API version: {GRAPH_API_VERSION}")
 
     # Get credentials
     access_token, account_id = get_env_vars()
+    print(f"[info] Account ID: {account_id}")
+    print(f"[info] Token length: {len(access_token)} chars")
 
     # Load emoji data
     data = load_emoji_data()
@@ -196,10 +199,12 @@ def main():
 
     # Get image URL
     image_url = get_image_url(data)
+    print(f"[info] Image URL: {image_url}")
 
     # Generate caption
     caption = generate_caption(data)
     print(f"[info] Caption generated ({len(caption)} chars)")
+    print(f"[info] Caption preview: {caption[:100]}...")
 
     # Create media container
     container_id = create_media_container(account_id, access_token, image_url, caption)
