@@ -2162,5 +2162,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-21",
+    "emojis": [
+      {
+        "char": "💼",
+        "label": "jp morgan drops rate-cut forecast",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONGVwTVRLMXhoM1NwNlFPaVpMTlpvQ3NhOU9vdThpMDE0TDF1ZjZweXZRSWlsX2RRRDhCUUdpdkdMV1JXOTFZMW1HZ3Z0M2xpVGhhcXF6RGtXWG5CNDg4UjdCSWZ3R2hQUlhmR0QtaGRUeUtFSzdnVFdKWE1Ed3RCMENwQldRSUEyT294MXQxb1VnMkhaMVp2eHZ4NEhYZHh4V1dzSndWRnN6Wmp0X1ZvTDhiME4wRGN4?oc=5",
+        "title": "JP Morgan drops December rate-cut forecast on strong US jobs report - Reuters"
+      },
+      {
+        "char": "🛡️",
+        "label": "russia downs 33 ukrainian drones",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenNScXRpdW9YVXgxRjVYMDBHQ3E5T2FKWUdPSDNtaTZha2FHSWRFYWc3NkFwelV3ZlhpRW40eGNGcTJFU2E0MDlxaENVUkJaS0s3Zk9CX1dXNlVxUENUa2VVLVZzME9OWWY4RUdhdXcwc3JQZlNOaFBacUtsVUNERHB3R0xSeng3bGFPOWxGdlBnNzA1ajRqZnlyVzU4eDA5cnVucVRtV202dw?oc=5",
+        "title": "Russia downs 33 Ukrainian drones overnight, defence ministry says - Reuters"
+      },
+      {
+        "char": "👑",
+        "label": "fatima bosch crowned miss universe",
+        "url": "https://www.bbc.com/news/articles/cgmxmxljg8mo?at_medium=RSS&at_campaign=rss",
+        "title": "Mexico's Fatima Bosch, who walked out on organisers, crowned Miss Universe"
+      },
+      {
+        "char": "🎨",
+        "label": "frida kahlo portrait sells for $55m",
+        "url": "https://www.bbc.com/news/articles/cdege1867lno?at_medium=RSS&at_campaign=rss",
+        "title": "Frida Kahlo self-portrait sells for record-breaking $55m"
+      },
+      {
+        "char": "📚",
+        "label": "researcher arrested over chinese students",
+        "url": "https://www.nytimes.com/2025/11/21/world/asia/chinese-students-us.html",
+        "title": "Researcher’s Smuggling Arrest Casts Light on Dispute Over Chinese Students"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
