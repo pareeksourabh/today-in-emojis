@@ -2084,5 +2084,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-21",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "biafran leader sentenced for terrorism",
+        "url": "https://www.theguardian.com/world/2025/nov/20/nigerian-court-convicts-biafran-separatist-leader-on-terrorism-charges-nnamdi-kanu",
+        "title": "Biafran separatist leader sentenced to life on terrorism charges by Nigerian court"
+      },
+      {
+        "char": "🇧🇷",
+        "label": "brazil's fossil fuel phase-out plan",
+        "url": "https://www.theguardian.com/world/2025/nov/20/brazilian-president-fossil-fuel-transition-roadmap-g20-summit",
+        "title": "Brazilian president will take fossil fuel phase-out plan to G20 summit"
+      },
+      {
+        "char": "🐟",
+        "label": "ottawa to cull goldfish influx",
+        "url": "https://www.theguardian.com/world/2025/nov/20/ottawa-canada-goldfish",
+        "title": "Ottawa officials to cull ‘mindblowing’ influx of thousands of goldfish in pond"
+      },
+      {
+        "char": "📉",
+        "label": "verizon cuts 13,000 jobs",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY2cwc1ZJWE9ta091ZHk0YVJXbUhWLTRHOF9CdGZINmNLZF9NV05FMGNXSXZ1NVZTZE5xTERHNVNDUXUxUFhHc29VVDBkcGZsYk9GRkd1MS1iNjlVUzdvblBKV0NLMGtHN3dQQkJMV0dzVEVkdDNmcEtJb2FGLUM3bDdGLXRISjFVU1pzMWFET3J0MUNGMzB4M3dLRWp1SzJuWVA0UkRRS1pvM1l6SHpIeA?oc=5",
+        "title": "Verizon cutting more than 13,000 jobs as it restructures - Reuters"
+      },
+      {
+        "char": "📰",
+        "label": "eu addresses hate speech on grok",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2Jla3VEdlhvckU5VVYwRHljTDNBQkpCTDVXRFB4Q3hHazg0OVVnb3ctRXlnSzdyNlZiN1FLb3VGRmZrU1c3cXlQbm5GTzRlOXFKZmUxT241VnhnQTlmYVVhejBqaU8xdzk2Qi1tVGVvSm13ZVRGSEsxTldtejBjWGQ1YjE3N0dFcGkyaQ?oc=5",
+        "title": "EU is in touch with X regarding hate speech content on Grok - Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
