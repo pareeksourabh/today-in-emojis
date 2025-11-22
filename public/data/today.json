@@ -1,36 +1,36 @@
 {
   "date": "2025-11-22",
-  "timestamp": "2025-11-22T04:28:32Z",
+  "timestamp": "2025-11-22T08:28:09Z",
   "emojis": [
     {
-      "char": "🇺🇸",
-      "label": "trump's doj investigates election claims",
+      "char": "🏙️",
+      "label": "chicago rejects doj grants",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0s1bHNnWTM2Tk1keDR2MmhnMEFsMVo5cGFtLXJ6N3ZsenRtdWpVOWs3QWNITFQzVm5TaUJzWGNuTkRHQ0dienJfSkFpaF9Fa0duOUpub1FicDZDZnBmSW93Q0tPeU1oMldENWQ2SThDOTJXZ2IzWlVuODNzQ3hhWTJPS0xRcnN5ZFB2TnVlT3lGam1NeFJCQWhVSEVEekwtTTVJ?oc=5",
+      "title": "Exclusive: Chicago rejects DOJ grants tied to Trump's immigration policies - Reuters"
+    },
+    {
+      "char": "🇻🇪",
+      "label": "trump's doj investigates venezuela",
       "url": "https://www.theguardian.com/us-news/2025/nov/21/trump-doj-venezuela-2020-election",
       "title": "Trump’s DoJ investigating unfounded claims Venezuela helped steal 2020 election"
     },
     {
-      "char": "🏫",
-      "label": "nigeria's mass school abduction crisis",
-      "url": "https://www.theguardian.com/world/2025/nov/21/nigeria-reels-after-second-mass-school-abduction-in-a-week",
-      "title": "Nigeria reels after 215 children taken in second mass school abduction in a week"
+      "char": "🏏",
+      "label": "blind women cricketers make history",
+      "url": "https://www.bbc.com/news/articles/c78z8n3kvnro?at_medium=RSS&at_campaign=rss",
+      "title": "India's blind women cricketers chase history at first T20 World Cup"
     },
     {
-      "char": "⚓",
-      "label": "colombian treasure from shipwreck found",
-      "url": "https://www.theguardian.com/world/2025/nov/21/san-jose-shipwreck-billions-treasure-artifacts-colombia",
-      "title": "Colombian scientists recover first treasures from ‘holy grail of shipwrecks’"
-    },
-    {
-      "char": "⚰️",
-      "label": "search for victims in syria's mass graves",
-      "url": "https://www.nytimes.com/2025/11/21/world/middleeast/syria-mass-graves-civil-war.html",
-      "title": "After Syria’s 14-Year Civil War, a Search for Victims Leads to Mass Graves"
+      "char": "🕊️",
+      "label": "ukraine faces peace plan choice",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcGN0LVhuWmJkRUdEWGlxbjRBT3JYX1lwZ3Q2WjVyS2ZfOXVHWDlxcXc0aVAyYlJNNUdndUVOeEdjeW82VWNWYmQxSTU0T2JaQXhZREp3dE14NTNWaTlFVTM0Vnl1QU1odW83NVltZzlnUzFVOUltOXNtOHZ1U1Q0Nk5BMjVPcnRfUnJrcTU3WG1waWpfT1llVGgzV0g1Q2pSQnJXYllCLUhkeGhONnZOZDEtby04V3o2bGtz?oc=5",
+      "title": "Ukraine faces 'difficult choice' as Trump demands acceptance of peace plan - Reuters"
     },
     {
       "char": "🐻",
-      "label": "grizzly bear attacks children in canada",
-      "url": "https://www.theguardian.com/world/2025/nov/21/grizzly-bear-attacks-children-teachers-canada-british-columbia",
-      "title": "Eleven injured after grizzly bear attacks schoolchildren and teachers in Canada"
+      "label": "grizzly bear attacks school group",
+      "url": "https://www.bbc.com/news/articles/cz68x1n5qd6o?at_medium=RSS&at_campaign=rss",
+      "title": "Grizzly bear on loose after attacking school group in Canada, injuring 11"
     }
   ],
   "source": "ai-openai"
