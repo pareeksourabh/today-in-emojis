@@ -311,22 +311,34 @@ def generate_with_html(emoji_chars, date_str, output_path):
         html_path = f.name
 
     try:
+        # Convert to file:// URL
+        file_url = f'file://{html_path}'
+
         # Try chromium/chrome headless
         browsers = [
-            ['chromium-browser', '--headless', '--disable-gpu', '--screenshot=' + output_path,
-             f'--window-size={SIZE},{SIZE}', '--hide-scrollbars', html_path],
-            ['google-chrome', '--headless', '--disable-gpu', '--screenshot=' + output_path,
-             f'--window-size={SIZE},{SIZE}', '--hide-scrollbars', html_path],
-            ['chromium', '--headless', '--disable-gpu', '--screenshot=' + output_path,
-             f'--window-size={SIZE},{SIZE}', '--hide-scrollbars', html_path],
+            ['chromium-browser', '--headless', '--disable-gpu', '--no-sandbox',
+             f'--screenshot={output_path}', f'--window-size={SIZE},{SIZE}',
+             '--hide-scrollbars', '--default-background-color=00000000', file_url],
+            ['google-chrome', '--headless', '--disable-gpu', '--no-sandbox',
+             f'--screenshot={output_path}', f'--window-size={SIZE},{SIZE}',
+             '--hide-scrollbars', '--default-background-color=00000000', file_url],
+            ['chromium', '--headless', '--disable-gpu', '--no-sandbox',
+             f'--screenshot={output_path}', f'--window-size={SIZE},{SIZE}',
+             '--hide-scrollbars', '--default-background-color=00000000', file_url],
         ]
 
         for browser_cmd in browsers:
             try:
+                print(f"[info] Trying: {browser_cmd[0]}", file=sys.stderr)
                 result = subprocess.run(browser_cmd, capture_output=True, text=True, timeout=30)
                 if result.returncode == 0 and os.path.exists(output_path):
                     return True
-            except (subprocess.TimeoutExpired, FileNotFoundError):
+                if result.stderr:
+                    print(f"[info] {browser_cmd[0]} stderr: {result.stderr[:200]}", file=sys.stderr)
+            except subprocess.TimeoutExpired:
+                print(f"[info] {browser_cmd[0]} timed out", file=sys.stderr)
+                continue
+            except FileNotFoundError:
                 continue
 
         return False
@@ -335,7 +347,8 @@ def generate_with_html(emoji_chars, date_str, output_path):
         print(f"[info] HTML rendering failed: {e}", file=sys.stderr)
         return False
     finally:
-        os.unlink(html_path)
+        if os.path.exists(html_path):
+            os.unlink(html_path)
 
 
 def generate_with_pillow(emoji_chars, date_str, output_path):
