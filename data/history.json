@@ -2474,5 +2474,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-22",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "trump's doj investigates election claims",
+        "url": "https://www.theguardian.com/us-news/2025/nov/21/trump-doj-venezuela-2020-election",
+        "title": "Trump’s DoJ investigating unfounded claims Venezuela helped steal 2020 election"
+      },
+      {
+        "char": "🏫",
+        "label": "nigeria's mass school abduction crisis",
+        "url": "https://www.theguardian.com/world/2025/nov/21/nigeria-reels-after-second-mass-school-abduction-in-a-week",
+        "title": "Nigeria reels after 215 children taken in second mass school abduction in a week"
+      },
+      {
+        "char": "⚓",
+        "label": "colombian treasure from shipwreck found",
+        "url": "https://www.theguardian.com/world/2025/nov/21/san-jose-shipwreck-billions-treasure-artifacts-colombia",
+        "title": "Colombian scientists recover first treasures from ‘holy grail of shipwrecks’"
+      },
+      {
+        "char": "⚰️",
+        "label": "search for victims in syria's mass graves",
+        "url": "https://www.nytimes.com/2025/11/21/world/middleeast/syria-mass-graves-civil-war.html",
+        "title": "After Syria’s 14-Year Civil War, a Search for Victims Leads to Mass Graves"
+      },
+      {
+        "char": "🐻",
+        "label": "grizzly bear attacks children in canada",
+        "url": "https://www.theguardian.com/world/2025/nov/21/grizzly-bear-attacks-children-teachers-canada-british-columbia",
+        "title": "Eleven injured after grizzly bear attacks schoolchildren and teachers in Canada"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
