@@ -2240,5 +2240,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-22",
+    "emojis": [
+      {
+        "char": "📈",
+        "label": "us stocks jump on fed rate cut bets",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTnJKMFZpd2txQVhFazdER2Z5Y0tRUTNfQWZ1VUlNVnJoUVFBX3lPTWxpOVU5S05EdkRfcmZNRnU3ODJUczBRcHlUcjVyTnBzMHJUSGNLd3E5UkVSTzhZaGMtdkNWTnF1LU1xLVlLVmdKYzQtTU91MWJta3MxcDZ2ZUtvQQ?oc=5",
+        "title": "US stocks jump on Fed rate cut bets but lose ground on the week - Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "south africans seize on g20 summit",
+        "url": "https://www.nytimes.com/2025/11/21/world/africa/south-africa-g20-protests.html",
+        "title": "South Africans Seize on G20 Summit to Air Their Nation’s Ills"
+      },
+      {
+        "char": "🇫🇮",
+        "label": "sanna marin led finland through covid",
+        "url": "https://www.nytimes.com/2025/11/21/world/europe/sanna-marin-finland-prime-minister.html",
+        "title": "Sanna Marin Led Finland Through Covid and Russian Threats. But She’s Famous for a Shimmy."
+      },
+      {
+        "char": "🏴‍☠️",
+        "label": "colombian scientists recover treasures",
+        "url": "https://www.theguardian.com/world/2025/nov/21/san-jose-shipwreck-billions-treasure-artifacts-colombia",
+        "title": "Colombian scientists recover first treasures from ‘holy grail of shipwrecks’"
+      },
+      {
+        "char": "🐻",
+        "label": "grizzly bear attacks schoolchildren",
+        "url": "https://www.theguardian.com/world/2025/nov/21/grizzly-bear-attacks-children-teachers-canada-british-columbia",
+        "title": "Eleven injured after grizzly bear attacks schoolchildren and teachers in Canada"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
