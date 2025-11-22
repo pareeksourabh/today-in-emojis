@@ -2318,5 +2318,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-22",
+    "emojis": [
+      {
+        "char": "🚤",
+        "label": "family seeks answers after us strike",
+        "url": "https://www.bbc.com/news/articles/cgqlqjz30zxo?at_medium=RSS&at_campaign=rss",
+        "title": "Family of missing Colombian seek answers after US strike on alleged drug boat"
+      },
+      {
+        "char": "🏛️",
+        "label": "former uk politician jailed for bribes",
+        "url": "https://www.nytimes.com/2025/11/21/world/europe/reform-uk-nathan-gill-russia-bribes.html",
+        "title": "Former Reform U.K. Politician Sent to Prison for Taking Pro-Russia Bribes"
+      },
+      {
+        "char": "⚖️",
+        "label": "judge resigns over elvis wig incident",
+        "url": "https://www.bbc.com/news/articles/c5yq3g7lqgqo?at_medium=RSS&at_campaign=rss",
+        "title": "US judge resigns after being disciplined for wearing Elvis wig in court"
+      },
+      {
+        "char": "🌍",
+        "label": "south africa's g20 dispute with us",
+        "url": "https://www.theguardian.com/world/2025/nov/21/run-up-to-g20-in-south-africa-marred-by-hosts-simmering-row-with-us",
+        "title": "South Africa’s dispute with US escalates amid row over G20 handover event"
+      },
+      {
+        "char": "💔",
+        "label": "mass graves found in syria",
+        "url": "https://www.nytimes.com/2025/11/21/world/middleeast/syria-mass-graves-civil-war.html",
+        "title": "After Syria’s 14-Year Civil War, a Search for Victims Leads to Mass Graves"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
