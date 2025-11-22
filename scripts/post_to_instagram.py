@@ -112,6 +112,28 @@ def get_image_url(data):
 
     return image_url
 
+def verify_image_accessible(image_url, max_attempts=10):
+    """Verify the image URL is publicly accessible."""
+    for attempt in range(max_attempts):
+        try:
+            response = requests.head(image_url, timeout=10)
+            if response.status_code == 200:
+                content_type = response.headers.get('content-type', '')
+                if 'image' in content_type:
+                    print(f"[success] Image verified accessible: {response.status_code}")
+                    return True
+                else:
+                    print(f"[warn] Unexpected content-type: {content_type}")
+            else:
+                print(f"[info] Image not ready (status {response.status_code}), attempt {attempt + 1}/{max_attempts}")
+        except Exception as e:
+            print(f"[warn] Image check failed: {e}, attempt {attempt + 1}/{max_attempts}")
+
+        time.sleep(10)
+
+    print(f"[error] Image not accessible after {max_attempts} attempts", file=sys.stderr)
+    return False
+
 def generate_caption(data):
     """Generate Instagram caption from emoji data."""
     emojis = data.get('emojis', [])
@@ -268,6 +290,12 @@ def main():
     # Get image URL
     image_url = get_image_url(data)
     print(f"[info] Image URL: {image_url}")
+
+    # Verify image is accessible
+    print(f"[info] Verifying image is accessible...")
+    if not verify_image_accessible(image_url):
+        print("[error] Image not accessible, cannot post to Instagram", file=sys.stderr)
+        sys.exit(1)
 
     # Generate caption
     caption = generate_caption(data)
