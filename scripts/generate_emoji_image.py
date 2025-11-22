@@ -183,8 +183,163 @@ if let tiffData = image.tiffRepresentation,
         return False
 
 
+def generate_with_pango_cairo(emoji_chars, date_str, output_path):
+    """Generate image using Pango/Cairo for proper emoji support on Linux."""
+
+    emoji_text = " ".join(emoji_chars)
+    formatted_date = format_date(date_str)
+
+    # Card dimensions
+    card_x = PADDING_OUTER
+    card_y = PADDING_OUTER
+    card_w = SIZE - 2 * PADDING_OUTER
+    card_h = SIZE - 2 * PADDING_OUTER
+
+    # Convert colors to hex
+    bg_hex = '#{:02x}{:02x}{:02x}'.format(*BG_COLOR)
+    card_hex = '#{:02x}{:02x}{:02x}'.format(*CARD_COLOR)
+    border_hex = '#{:02x}{:02x}{:02x}'.format(*BORDER_COLOR)
+    text_hex = '#{:02x}{:02x}{:02x}'.format(*TEXT_COLOR)
+
+    try:
+        # Check if convert (ImageMagick) is available
+        result = subprocess.run(['which', 'convert'], capture_output=True, text=True)
+        if result.returncode != 0:
+            print("[info] ImageMagick not available", file=sys.stderr)
+            return False
+
+        # Build ImageMagick command with Pango
+        cmd = [
+            'convert',
+            '-size', f'{SIZE}x{SIZE}',
+            f'xc:{bg_hex}',
+            # Draw rounded rectangle for card
+            '-fill', card_hex,
+            '-stroke', border_hex,
+            '-strokewidth', str(CARD_BORDER_WIDTH),
+            '-draw', f'roundrectangle {card_x},{card_y} {card_x+card_w},{card_y+card_h} {CARD_RADIUS},{CARD_RADIUS}',
+            # Draw date text
+            '-font', 'DejaVu-Sans',
+            '-pointsize', str(DATE_FONT_SIZE),
+            '-fill', text_hex,
+            '-annotate', f'+{card_x+40}+{card_y+50}', formatted_date,
+            # Draw emojis using pango for color emoji support
+            '-gravity', 'center',
+            '-font', 'Noto-Color-Emoji',
+            '-pointsize', str(EMOJI_FONT_SIZE),
+            f'pango:<span font="{EMOJI_FONT_SIZE}">{emoji_text}</span>',
+            output_path
+        ]
+
+        result = subprocess.run(cmd, capture_output=True, text=True)
+
+        if result.returncode == 0 and os.path.exists(output_path):
+            return True
+        else:
+            if result.stderr:
+                print(f"[info] ImageMagick/Pango error: {result.stderr}", file=sys.stderr)
+            return False
+
+    except Exception as e:
+        print(f"[info] Pango/Cairo rendering failed: {e}", file=sys.stderr)
+        return False
+
+
+def generate_with_html(emoji_chars, date_str, output_path):
+    """Generate image using HTML to PNG conversion."""
+
+    emoji_text = " ".join(emoji_chars)
+    formatted_date = format_date(date_str)
+
+    # Convert colors to hex
+    bg_hex = '#{:02x}{:02x}{:02x}'.format(*BG_COLOR)
+    card_hex = '#{:02x}{:02x}{:02x}'.format(*CARD_COLOR)
+    border_hex = '#{:02x}{:02x}{:02x}'.format(*BORDER_COLOR)
+    text_hex = '#{:02x}{:02x}{:02x}'.format(*TEXT_COLOR)
+
+    html_content = f'''<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        body {{
+            width: {SIZE}px;
+            height: {SIZE}px;
+            background: {bg_hex};
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Noto Color Emoji', 'Apple Color Emoji', sans-serif;
+        }}
+        .card {{
+            width: {SIZE - 2*PADDING_OUTER}px;
+            height: {SIZE - 2*PADDING_OUTER}px;
+            background: {card_hex};
+            border: {CARD_BORDER_WIDTH}px solid {border_hex};
+            border-radius: {CARD_RADIUS}px;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }}
+        .date {{
+            position: absolute;
+            top: 30px;
+            left: 40px;
+            font-size: {DATE_FONT_SIZE}px;
+            color: {text_hex};
+            font-family: sans-serif;
+        }}
+        .emojis {{
+            font-size: {EMOJI_FONT_SIZE}px;
+            line-height: 1;
+        }}
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="date">{formatted_date}</div>
+        <div class="emojis">{emoji_text}</div>
+    </div>
+</body>
+</html>'''
+
+    # Write HTML to temp file
+    with tempfile.NamedTemporaryFile(mode='w', suffix='.html', delete=False, encoding='utf-8') as f:
+        f.write(html_content)
+        html_path = f.name
+
+    try:
+        # Try chromium/chrome headless
+        browsers = [
+            ['chromium-browser', '--headless', '--disable-gpu', '--screenshot=' + output_path,
+             f'--window-size={SIZE},{SIZE}', '--hide-scrollbars', html_path],
+            ['google-chrome', '--headless', '--disable-gpu', '--screenshot=' + output_path,
+             f'--window-size={SIZE},{SIZE}', '--hide-scrollbars', html_path],
+            ['chromium', '--headless', '--disable-gpu', '--screenshot=' + output_path,
+             f'--window-size={SIZE},{SIZE}', '--hide-scrollbars', html_path],
+        ]
+
+        for browser_cmd in browsers:
+            try:
+                result = subprocess.run(browser_cmd, capture_output=True, text=True, timeout=30)
+                if result.returncode == 0 and os.path.exists(output_path):
+                    return True
+            except (subprocess.TimeoutExpired, FileNotFoundError):
+                continue
+
+        return False
+
+    except Exception as e:
+        print(f"[info] HTML rendering failed: {e}", file=sys.stderr)
+        return False
+    finally:
+        os.unlink(html_path)
+
+
 def generate_with_pillow(emoji_chars, date_str, output_path):
-    """Generate image using Pillow with Noto Color Emoji (Linux)."""
+    """Generate image using Pillow - fallback with limited emoji support."""
     from PIL import Image, ImageDraw, ImageFont
 
     img = Image.new('RGB', (SIZE, SIZE), color=BG_COLOR)
@@ -203,22 +358,6 @@ def generate_with_pillow(emoji_chars, date_str, output_path):
     draw.rounded_rectangle(card_rect, radius=CARD_RADIUS,
                           fill=CARD_COLOR, outline=BORDER_COLOR,
                           width=CARD_BORDER_WIDTH)
-
-    # Find emoji fonts
-    noto_fonts = [
-        "/usr/share/fonts/truetype/noto/NotoColorEmoji.ttf",
-        "/usr/share/fonts/noto-emoji/NotoColorEmoji.ttf",
-        "/usr/share/fonts/google-noto-emoji/NotoColorEmoji.ttf",
-    ]
-
-    emoji_font = None
-    for font_path in noto_fonts:
-        if os.path.exists(font_path):
-            try:
-                emoji_font = ImageFont.truetype(font_path, EMOJI_FONT_SIZE)
-                break
-            except:
-                continue
 
     # Find text fonts
     text_fonts = [
@@ -243,27 +382,22 @@ def generate_with_pillow(emoji_chars, date_str, output_path):
     draw.text((card_x + 40, card_y + 30), formatted_date,
               font=text_font, fill=TEXT_COLOR)
 
-    # Draw emojis
+    # Draw emojis as text (will appear as boxes without proper emoji font)
     emoji_text = " ".join(emoji_chars)
 
-    if emoji_font:
-        try:
-            bbox = draw.textbbox((0, 0), emoji_text, font=emoji_font)
-            text_width = bbox[2] - bbox[0]
-            text_height = bbox[3] - bbox[1]
-            x = (SIZE - text_width) // 2
-            y = (SIZE - text_height) // 2
-            draw.text((x, y), emoji_text, font=emoji_font, embedded_color=True)
-        except Exception as e:
-            print(f"[warn] Emoji drawing error: {e}", file=sys.stderr)
-            # Fallback to text
-            draw.text((SIZE//2, SIZE//2), emoji_text, font=text_font,
-                     fill=TEXT_COLOR, anchor='mm')
-    else:
-        # No emoji font, just draw as text
-        if text_font:
-            draw.text((SIZE//2, SIZE//2), emoji_text, font=text_font,
-                     fill=TEXT_COLOR, anchor='mm')
+    try:
+        emoji_font = ImageFont.truetype("/usr/share/fonts/truetype/noto/NotoColorEmoji.ttf", EMOJI_FONT_SIZE)
+        bbox = draw.textbbox((0, 0), emoji_text, font=emoji_font)
+        text_width = bbox[2] - bbox[0]
+        text_height = bbox[3] - bbox[1]
+        x = (SIZE - text_width) // 2
+        y = (SIZE - text_height) // 2
+        draw.text((x, y), emoji_text, font=emoji_font, embedded_color=True)
+    except Exception as e:
+        print(f"[warn] Emoji font failed: {e}", file=sys.stderr)
+        # Just draw text centered
+        draw.text((SIZE//2, SIZE//2), emoji_text, font=text_font,
+                 fill=TEXT_COLOR, anchor='mm')
 
     img.save(output_path, 'PNG')
     return True
@@ -321,12 +455,26 @@ def main():
         if success:
             print("[success] Generated with Swift/AppKit")
 
-    # Method 2: Pillow (Linux)
+    # Method 2: HTML with headless Chrome (Linux - best emoji support)
     if not success:
-        print("[info] Trying Pillow rendering...")
+        print("[info] Trying HTML/Chrome rendering...")
+        success = generate_with_html(emoji_chars, date_str, output_path)
+        if success:
+            print("[success] Generated with HTML/Chrome")
+
+    # Method 3: Pango/Cairo with ImageMagick (Linux)
+    if not success:
+        print("[info] Trying Pango/Cairo rendering...")
+        success = generate_with_pango_cairo(emoji_chars, date_str, output_path)
+        if success:
+            print("[success] Generated with Pango/Cairo")
+
+    # Method 4: Pillow (fallback - limited emoji support)
+    if not success:
+        print("[info] Trying Pillow rendering (fallback)...")
         success = generate_with_pillow(emoji_chars, date_str, output_path)
         if success:
-            print("[success] Generated with Pillow")
+            print("[warn] Generated with Pillow - emojis may not render correctly")
 
     if success and os.path.exists(output_path):
         file_size = os.path.getsize(output_path)
