@@ -2279,5 +2279,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-22",
+    "emojis": [
+      {
+        "char": "🎬",
+        "label": "warner bros discovery bidders face risks",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ3ZRSC1ON0ZfZlFzc3RRMWlNRGpyQmlSZlJIbmViYWFzbHFsNmxlekY3WmFkWW96VkRoeTZHd1Q1OWtpWFd1VG54N1hiTExRUmgyd2x2eUpKN1loQWZoejFjWlVpaW9qdjl0d3NNbTdqTWxQQ1dqdnE3eUhvU0wzUTZwaUY3Y3RDU0hMZXJ0QWFDQ3lxckpVU0xHc0FoR2dDMWQxNTVkckg1VHZTWmhUeDdTalRvMDlLbzZIQ1JYdw?oc=5",
+        "title": "Bidders for Warner Bros Discovery face barrage of political and regulatory risks - Reuters"
+      },
+      {
+        "char": "⚖️",
+        "label": "us men indicted for coup plot in haiti",
+        "url": "https://www.theguardian.com/us-news/2025/nov/21/texas-haiti-rape-indictment",
+        "title": "US men indicted for alleged coup plot to kill and rape people on Haitian island"
+      },
+      {
+        "char": "🏔️",
+        "label": "survivor of chilean blizzard speaks out",
+        "url": "https://www.theguardian.com/world/2025/nov/22/survivor-of-chilean-blizzard-that-killed-briton-says-staff-told-trekkers-to-proceed",
+        "title": "Survivor of Chilean blizzard that killed Briton says staff told trekkers they could proceed"
+      },
+      {
+        "char": "🇯🇵",
+        "label": "japan's leader mentions taiwan, strains china",
+        "url": "https://www.nytimes.com/2025/11/21/world/asia/japan-china-taiwan-dispute.html",
+        "title": "Japan’s New Leader Mentions Taiwan, and Tanks Her Relationship With China"
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukraine faces tough choice on trump's peace plan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcGN0LVhuWmJkRUdEWGlxbjRBT3JYX1lwZ3Q2WjVyS2ZfOXVHWDlxcXc0aVAyYlJNNUdndUVOeEdjeW82VWNWYmQxSTU0T2JaQXhZREp3dE14NTNWaTlFVTM0Vnl1QU1odW83NVltZzlnUzFVOUltOXNtOHZ1U1Q0Nk5BMjVPcnRfUnJrcTU3WG1waWpfT1llVGgzV0g1Q2pSQnJXYllCLUhkeGhONnZOZDEtby04V3o2bGtz?oc=5",
+        "title": "Ukraine faces 'difficult choice' as Trump demands acceptance of peace plan - Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
