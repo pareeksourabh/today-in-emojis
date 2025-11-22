@@ -2630,5 +2630,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-22",
+    "emojis": [
+      {
+        "char": "🇧🇷",
+        "label": "bolsonaro arrested in brazil",
+        "url": "https://www.theguardian.com/world/2025/nov/22/far-right-former-president-jair-bolsonaro-arrested-in-brazil",
+        "title": "Brazilian police arrest Bolsonaro amid suspicions he was about to flee"
+      },
+      {
+        "char": "🎒",
+        "label": "nigeria school abduction crisis",
+        "url": "https://www.theguardian.com/world/2025/nov/21/nigeria-reels-after-second-mass-school-abduction-in-a-week",
+        "title": "Nigeria reels after 215 children taken in second mass school abduction in a week"
+      },
+      {
+        "char": "🌍",
+        "label": "cop30 climate deal reached",
+        "url": "https://www.theguardian.com/environment/2025/nov/22/cop30-deal-inches-closer-to-end-of-fossil-fuel-era-after-bitter-standoff",
+        "title": "End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff"
+      },
+      {
+        "char": "📰",
+        "label": "trump's doj investigates election claims",
+        "url": "https://www.theguardian.com/us-news/2025/nov/21/trump-doj-venezuela-2020-election",
+        "title": "Trump’s DoJ investigating unfounded claims Venezuela helped steal 2020 election"
+      },
+      {
+        "char": "👗",
+        "label": "irish designer paul costelloe dies",
+        "url": "https://www.bbc.com/news/articles/cly3w4we7gxo?at_medium=RSS&at_campaign=rss",
+        "title": "Irish fashion designer Paul Costelloe dies aged 80"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
