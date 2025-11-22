@@ -245,8 +245,8 @@ def generate_with_pango_cairo(emoji_chars, date_str, output_path):
         return False
 
 
-def generate_with_html(emoji_chars, date_str, output_path):
-    """Generate image using HTML to PNG conversion."""
+def generate_with_playwright(emoji_chars, date_str, output_path):
+    """Generate image using Playwright for reliable headless browser rendering."""
 
     emoji_text = " ".join(emoji_chars)
     formatted_date = format_date(date_str)
@@ -257,20 +257,26 @@ def generate_with_html(emoji_chars, date_str, output_path):
     border_hex = '#{:02x}{:02x}{:02x}'.format(*BORDER_COLOR)
     text_hex = '#{:02x}{:02x}{:02x}'.format(*TEXT_COLOR)
 
+    # Wrap each emoji in a span
+    emoji_spans = ''.join([f'<span class="emoji">{e}</span>' for e in emoji_chars])
+
     html_content = f'''<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
-        body {{
+        html, body {{
             width: {SIZE}px;
             height: {SIZE}px;
+            overflow: hidden;
+        }}
+        body {{
             background: {bg_hex};
             display: flex;
             justify-content: center;
             align-items: center;
-            font-family: 'Noto Color Emoji', 'Apple Color Emoji', sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
         }}
         .card {{
             width: {SIZE - 2*PADDING_OUTER}px;
@@ -289,66 +295,53 @@ def generate_with_html(emoji_chars, date_str, output_path):
             left: 40px;
             font-size: {DATE_FONT_SIZE}px;
             color: {text_hex};
-            font-family: sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
         }}
         .emojis {{
+            display: flex;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+        }}
+        .emoji {{
             font-size: {EMOJI_FONT_SIZE}px;
             line-height: 1;
+            display: inline-block;
+            vertical-align: middle;
+            font-family: 'Noto Color Emoji', 'Apple Color Emoji', 'Segoe UI Emoji', sans-serif;
         }}
     </style>
 </head>
 <body>
     <div class="card">
         <div class="date">{formatted_date}</div>
-        <div class="emojis">{emoji_text}</div>
+        <div class="emojis">{emoji_spans}</div>
     </div>
 </body>
 </html>'''
 
-    # Write HTML to temp file
-    with tempfile.NamedTemporaryFile(mode='w', suffix='.html', delete=False, encoding='utf-8') as f:
-        f.write(html_content)
-        html_path = f.name
-
     try:
-        # Convert to file:// URL
-        file_url = f'file://{html_path}'
+        from playwright.sync_api import sync_playwright
 
-        # Try chromium/chrome headless
-        browsers = [
-            ['chromium-browser', '--headless', '--disable-gpu', '--no-sandbox',
-             f'--screenshot={output_path}', f'--window-size={SIZE},{SIZE}',
-             '--hide-scrollbars', '--default-background-color=00000000', file_url],
-            ['google-chrome', '--headless', '--disable-gpu', '--no-sandbox',
-             f'--screenshot={output_path}', f'--window-size={SIZE},{SIZE}',
-             '--hide-scrollbars', '--default-background-color=00000000', file_url],
-            ['chromium', '--headless', '--disable-gpu', '--no-sandbox',
-             f'--screenshot={output_path}', f'--window-size={SIZE},{SIZE}',
-             '--hide-scrollbars', '--default-background-color=00000000', file_url],
-        ]
+        with sync_playwright() as p:
+            browser = p.chromium.launch()
+            page = browser.new_page(viewport={'width': SIZE, 'height': SIZE})
+            page.set_content(html_content)
+            page.screenshot(path=output_path, full_page=False)
+            browser.close()
 
-        for browser_cmd in browsers:
-            try:
-                print(f"[info] Trying: {browser_cmd[0]}", file=sys.stderr)
-                result = subprocess.run(browser_cmd, capture_output=True, text=True, timeout=30)
-                if result.returncode == 0 and os.path.exists(output_path):
-                    return True
-                if result.stderr:
-                    print(f"[info] {browser_cmd[0]} stderr: {result.stderr[:200]}", file=sys.stderr)
-            except subprocess.TimeoutExpired:
-                print(f"[info] {browser_cmd[0]} timed out", file=sys.stderr)
-                continue
-            except FileNotFoundError:
-                continue
-
+        if os.path.exists(output_path) and os.path.getsize(output_path) > 1000:
+            return True
         return False
 
+    except ImportError:
+        print("[info] Playwright not installed", file=sys.stderr)
+        return False
     except Exception as e:
-        print(f"[info] HTML rendering failed: {e}", file=sys.stderr)
+        print(f"[info] Playwright rendering failed: {e}", file=sys.stderr)
         return False
-    finally:
-        if os.path.exists(html_path):
-            os.unlink(html_path)
 
 
 def generate_with_pillow(emoji_chars, date_str, output_path):
@@ -468,12 +461,12 @@ def main():
         if success:
             print("[success] Generated with Swift/AppKit")
 
-    # Method 2: HTML with headless Chrome (Linux - best emoji support)
+    # Method 2: Playwright (Linux - best emoji support)
     if not success:
-        print("[info] Trying HTML/Chrome rendering...")
-        success = generate_with_html(emoji_chars, date_str, output_path)
+        print("[info] Trying Playwright rendering...")
+        success = generate_with_playwright(emoji_chars, date_str, output_path)
         if success:
-            print("[success] Generated with HTML/Chrome")
+            print("[success] Generated with Playwright")
 
     # Method 3: Pango/Cairo with ImageMagick (Linux)
     if not success:
