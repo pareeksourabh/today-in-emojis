@@ -177,33 +177,41 @@ def check_container_status(account_id, access_token, container_id):
     url = f"{GRAPH_API_BASE}/{container_id}"
 
     params = {
-        'fields': 'status_code',
+        'fields': 'status_code,status',
         'access_token': access_token
     }
 
-    max_attempts = 10
+    max_attempts = 30  # Increase attempts
     for attempt in range(max_attempts):
         response = requests.get(url, params=params)
 
         if response.status_code != 200:
             print(f"[warn] Status check failed: {response.status_code}", file=sys.stderr)
-            time.sleep(5)
+            time.sleep(3)
             continue
 
         data = response.json()
         status = data.get('status_code')
+        status_msg = data.get('status', '')
+
+        print(f"[info] Container status: {status} {status_msg} (attempt {attempt + 1}/{max_attempts})")
 
         if status == 'FINISHED':
+            # Wait a bit more after FINISHED to ensure Instagram is truly ready
+            print(f"[info] Waiting 10 seconds for Instagram to finalize...")
+            time.sleep(10)
             print(f"[success] Container ready for publishing")
             return True
         elif status == 'ERROR':
             print(f"[error] Container processing failed: {data}", file=sys.stderr)
             return False
         elif status == 'IN_PROGRESS':
-            print(f"[info] Container processing... (attempt {attempt + 1}/{max_attempts})")
-            time.sleep(5)
+            time.sleep(3)
+        elif status == 'EXPIRED':
+            print(f"[error] Container expired", file=sys.stderr)
+            return False
         else:
-            print(f"[info] Container status: {status}")
+            # Unknown status, wait and retry
             time.sleep(3)
 
     print(f"[error] Container processing timed out", file=sys.stderr)
