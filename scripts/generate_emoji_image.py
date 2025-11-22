@@ -2,15 +2,19 @@
 """
 Generate a daily emoji image for Instagram posting.
 
-Reads the 5 emojis from public/data/today.json and creates
-a 1080x1080px image suitable for Instagram posts.
+Design:
+- 1080x1080px square canvas
+- Warm neutral background
+- Centered white card with rounded corners and border
+- Date in top-left of card
+- 5 emojis centered on card
+- No text besides date
 
-Supports:
-- macOS: Swift/AppKit rendering
-- Linux: Noto Color Emoji font
-- Fallback: Pillow with system fonts
+Usage:
+  python scripts/generate_emoji_image.py           # Use today.json
+  python scripts/generate_emoji_image.py --test    # Generate test image
 
-Output: public/images/daily/YYYY-MM-DD.png
+Output: public/images/daily/YYYY-MM-DD-HHMM.png
 """
 
 import os
@@ -18,13 +22,28 @@ import sys
 import json
 import subprocess
 import tempfile
-from datetime import date
-from PIL import Image, ImageDraw, ImageFont
+import argparse
+from datetime import date, datetime
 
 # Configuration
 INPUT_FILE = "public/data/today.json"
 OUTPUT_DIR = "public/images/daily"
-SIZE = 1080  # Instagram square format
+SIZE = 1080
+
+# Design constants
+BG_COLOR = (245, 243, 238)      # Outer background (#F5F3EE)
+CARD_COLOR = (255, 255, 255)    # Inner card (white)
+BORDER_COLOR = (220, 216, 208)  # Subtle border
+TEXT_COLOR = (60, 60, 60)       # Date text color
+
+PADDING_OUTER = 80              # Margin from canvas edge to card
+CARD_RADIUS = 60                # Rounded corners
+CARD_BORDER_WIDTH = 2           # Border thickness
+
+# Font config
+DATE_FONT_SIZE = 40
+EMOJI_FONT_SIZE = 108  # 60% of 180
+
 
 def load_emoji_data():
     """Load today's emoji data from JSON file."""
@@ -37,69 +56,48 @@ def load_emoji_data():
 
     return data
 
-def generate_with_pillow_noto(emoji_chars, output_path):
-    """Generate image using Pillow with Noto Color Emoji font (Linux)."""
 
-    img = Image.new('RGB', (SIZE, SIZE), color='#FFFFFF')
-    draw = ImageDraw.Draw(img)
+def get_test_data():
+    """Generate test data for local testing."""
+    return {
+        "date": date.today().isoformat(),
+        "timestamp": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "emojis": [
+            {"char": "🌍", "label": "world"},
+            {"char": "💡", "label": "idea"},
+            {"char": "🚀", "label": "launch"},
+            {"char": "🎯", "label": "target"},
+            {"char": "✨", "label": "sparkle"},
+        ],
+        "source": "test",
+    }
 
-    # Noto Color Emoji font paths (common locations)
-    noto_fonts = [
-        "/usr/share/fonts/truetype/noto/NotoColorEmoji.ttf",
-        "/usr/share/fonts/noto-emoji/NotoColorEmoji.ttf",
-        "/usr/share/fonts/google-noto-emoji/NotoColorEmoji.ttf",
-        "/usr/local/share/fonts/NotoColorEmoji.ttf",
-    ]
 
-    emoji_font = None
-    for font_path in noto_fonts:
-        if os.path.exists(font_path):
-            try:
-                emoji_font = ImageFont.truetype(font_path, 109)
-                print(f"[info] Using Noto Color Emoji: {font_path}")
-                break
-            except Exception as e:
-                print(f"[warn] Failed to load {font_path}: {e}", file=sys.stderr)
-                continue
+def format_date(date_str):
+    """Format date as '22 Nov 2025'."""
+    try:
+        d = datetime.strptime(date_str, "%Y-%m-%d")
+        return d.strftime("%-d %b %Y")
+    except:
+        return date_str
 
-    if not emoji_font:
-        print("[warn] Noto Color Emoji not found", file=sys.stderr)
-        return False
 
-    # Draw emojis in a row
-    emoji_y = SIZE // 2
-    spacing = 180
-    start_x = SIZE // 2 - (len(emoji_chars) - 1) * spacing // 2
-
-    for i, char in enumerate(emoji_chars):
-        x = start_x + i * spacing
-
-        try:
-            # Get bounding box to center each emoji
-            bbox = draw.textbbox((0, 0), char, font=emoji_font)
-            char_width = bbox[2] - bbox[0]
-            char_height = bbox[3] - bbox[1]
-
-            # Center the emoji at this position
-            draw_x = x - char_width // 2
-            draw_y = emoji_y - char_height // 2
-
-            draw.text((draw_x, draw_y), char, font=emoji_font, embedded_color=True)
-        except Exception as e:
-            print(f"[warn] Error drawing emoji {char}: {e}", file=sys.stderr)
-            # Try without embedded_color
-            try:
-                draw.text((draw_x, draw_y), char, font=emoji_font, fill='#000000')
-            except:
-                pass
-
-    img.save(output_path, 'PNG')
-    return True
-
-def generate_with_swift(emoji_chars, output_path):
+def generate_with_swift(emoji_chars, date_str, output_path):
     """Generate image using Swift/AppKit - native macOS rendering."""
 
     emoji_text = " ".join(emoji_chars)
+    formatted_date = format_date(date_str)
+
+    # Card dimensions
+    card_x = PADDING_OUTER
+    card_y = PADDING_OUTER
+    card_w = SIZE - 2 * PADDING_OUTER
+    card_h = SIZE - 2 * PADDING_OUTER
+
+    # Convert RGB tuples to normalized values
+    bg_r, bg_g, bg_b = BG_COLOR[0]/255, BG_COLOR[1]/255, BG_COLOR[2]/255
+    border_r, border_g, border_b = BORDER_COLOR[0]/255, BORDER_COLOR[1]/255, BORDER_COLOR[2]/255
+    text_r, text_g, text_b = TEXT_COLOR[0]/255, TEXT_COLOR[1]/255, TEXT_COLOR[2]/255
 
     swift_code = f'''
 import Cocoa
@@ -109,22 +107,45 @@ let image = NSImage(size: size)
 
 image.lockFocus()
 
-// White background
-NSColor.white.setFill()
+// Background
+NSColor(calibratedRed: {bg_r}, green: {bg_g}, blue: {bg_b}, alpha: 1.0).setFill()
 NSRect(origin: .zero, size: size).fill()
 
-// Draw emojis
-let text = "{emoji_text}"
-let font = NSFont.systemFont(ofSize: 120)
-let attributes: [NSAttributedString.Key: Any] = [
-    .font: font
+// Card with rounded corners
+let cardRect = NSRect(x: {card_x}, y: {card_y}, width: {card_w}, height: {card_h})
+let cardPath = NSBezierPath(roundedRect: cardRect, xRadius: {CARD_RADIUS}, yRadius: {CARD_RADIUS})
+
+// Card fill first (so border draws on top)
+NSColor.white.setFill()
+cardPath.fill()
+
+// Card border
+NSColor(calibratedRed: {border_r}, green: {border_g}, blue: {border_b}, alpha: 1.0).setStroke()
+cardPath.lineWidth = {CARD_BORDER_WIDTH}
+cardPath.stroke()
+
+// Date text (top-left of card)
+let dateText = "{formatted_date}"
+let dateFont = NSFont.systemFont(ofSize: {DATE_FONT_SIZE}, weight: .regular)
+let dateAttributes: [NSAttributedString.Key: Any] = [
+    .font: dateFont,
+    .foregroundColor: NSColor(calibratedRed: {text_r}, green: {text_g}, blue: {text_b}, alpha: 1.0)
+]
+let datePoint = NSPoint(x: {card_x + 40}, y: {SIZE - card_y - 70})
+dateText.draw(at: datePoint, withAttributes: dateAttributes)
+
+// Emojis (centered on card)
+let emojiText = "{emoji_text}"
+let emojiFont = NSFont.systemFont(ofSize: {EMOJI_FONT_SIZE})
+let emojiAttributes: [NSAttributedString.Key: Any] = [
+    .font: emojiFont
 ]
 
-let textSize = text.size(withAttributes: attributes)
-let x = (size.width - textSize.width) / 2
-let y = (size.height - textSize.height) / 2
+let emojiSize = emojiText.size(withAttributes: emojiAttributes)
+let emojiX = ({SIZE} - emojiSize.width) / 2
+let emojiY = ({SIZE} - emojiSize.height) / 2
 
-text.draw(at: NSPoint(x: x, y: y), withAttributes: attributes)
+emojiText.draw(at: NSPoint(x: emojiX, y: emojiY), withAttributes: emojiAttributes)
 
 image.unlockFocus()
 
@@ -138,12 +159,10 @@ if let tiffData = image.tiffRepresentation,
 '''
 
     try:
-        # Write Swift code to temp file
         with tempfile.NamedTemporaryFile(mode='w', suffix='.swift', delete=False) as f:
             f.write(swift_code)
             swift_path = f.name
 
-        # Run Swift
         result = subprocess.run(
             ['swift', swift_path],
             capture_output=True,
@@ -163,60 +182,55 @@ if let tiffData = image.tiffRepresentation,
         print(f"[info] Swift rendering failed: {e}", file=sys.stderr)
         return False
 
-def generate_with_pango(emoji_chars, output_path):
-    """Generate image using Pango/Cairo via ImageMagick (Linux)."""
 
-    emoji_text = " ".join(emoji_chars)
+def generate_with_pillow(emoji_chars, date_str, output_path):
+    """Generate image using Pillow with Noto Color Emoji (Linux)."""
+    from PIL import Image, ImageDraw, ImageFont
 
-    try:
-        # Check if ImageMagick is available
-        result = subprocess.run(['which', 'convert'], capture_output=True, text=True)
-        if result.returncode != 0:
-            return False
-
-        # Use ImageMagick with Pango for better emoji support
-        cmd = [
-            'convert',
-            '-size', f'{SIZE}x{SIZE}',
-            'xc:white',
-            '-gravity', 'center',
-            '-font', 'Noto-Color-Emoji',
-            '-pointsize', '100',
-            '-annotate', '0', emoji_text,
-            output_path
-        ]
-
-        result = subprocess.run(cmd, capture_output=True, text=True)
-
-        if result.returncode == 0 and os.path.exists(output_path):
-            return True
-        else:
-            if result.stderr:
-                print(f"[info] ImageMagick error: {result.stderr}", file=sys.stderr)
-            return False
-
-    except Exception as e:
-        print(f"[info] Pango/ImageMagick failed: {e}", file=sys.stderr)
-        return False
-
-def generate_fallback(emoji_chars, output_path):
-    """Fallback: generate image with emoji characters as text."""
-
-    img = Image.new('RGB', (SIZE, SIZE), color='#FFFFFF')
+    img = Image.new('RGB', (SIZE, SIZE), color=BG_COLOR)
     draw = ImageDraw.Draw(img)
 
-    # Try any available font
-    fallback_fonts = [
-        "/System/Library/Fonts/Helvetica.ttc",
+    # Card dimensions
+    card_x = PADDING_OUTER
+    card_y = PADDING_OUTER
+    card_w = SIZE - 2 * PADDING_OUTER
+    card_h = SIZE - 2 * PADDING_OUTER
+
+    # Draw card with rounded corners
+    card_rect = [card_x, card_y, card_x + card_w, card_y + card_h]
+
+    # Draw card
+    draw.rounded_rectangle(card_rect, radius=CARD_RADIUS,
+                          fill=CARD_COLOR, outline=BORDER_COLOR,
+                          width=CARD_BORDER_WIDTH)
+
+    # Find emoji fonts
+    noto_fonts = [
+        "/usr/share/fonts/truetype/noto/NotoColorEmoji.ttf",
+        "/usr/share/fonts/noto-emoji/NotoColorEmoji.ttf",
+        "/usr/share/fonts/google-noto-emoji/NotoColorEmoji.ttf",
+    ]
+
+    emoji_font = None
+    for font_path in noto_fonts:
+        if os.path.exists(font_path):
+            try:
+                emoji_font = ImageFont.truetype(font_path, EMOJI_FONT_SIZE)
+                break
+            except:
+                continue
+
+    # Find text fonts
+    text_fonts = [
         "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
         "/usr/share/fonts/TTF/DejaVuSans.ttf",
     ]
 
     text_font = None
-    for font_path in fallback_fonts:
+    for font_path in text_fonts:
         if os.path.exists(font_path):
             try:
-                text_font = ImageFont.truetype(font_path, 80)
+                text_font = ImageFont.truetype(font_path, DATE_FONT_SIZE)
                 break
             except:
                 continue
@@ -224,87 +238,110 @@ def generate_fallback(emoji_chars, output_path):
     if not text_font:
         text_font = ImageFont.load_default()
 
-    emoji_text = "  ".join(emoji_chars)
+    # Draw date
+    formatted_date = format_date(date_str)
+    draw.text((card_x + 40, card_y + 30), formatted_date,
+              font=text_font, fill=TEXT_COLOR)
 
-    try:
-        bbox = draw.textbbox((0, 0), emoji_text, font=text_font)
-        text_width = bbox[2] - bbox[0]
-        text_height = bbox[3] - bbox[1]
-    except:
-        text_width = len(emoji_text) * 60
-        text_height = 80
+    # Draw emojis
+    emoji_text = " ".join(emoji_chars)
 
-    x = (SIZE - text_width) // 2
-    y = (SIZE - text_height) // 2
+    if emoji_font:
+        try:
+            bbox = draw.textbbox((0, 0), emoji_text, font=emoji_font)
+            text_width = bbox[2] - bbox[0]
+            text_height = bbox[3] - bbox[1]
+            x = (SIZE - text_width) // 2
+            y = (SIZE - text_height) // 2
+            draw.text((x, y), emoji_text, font=emoji_font, embedded_color=True)
+        except Exception as e:
+            print(f"[warn] Emoji drawing error: {e}", file=sys.stderr)
+            # Fallback to text
+            draw.text((SIZE//2, SIZE//2), emoji_text, font=text_font,
+                     fill=TEXT_COLOR, anchor='mm')
+    else:
+        # No emoji font, just draw as text
+        if text_font:
+            draw.text((SIZE//2, SIZE//2), emoji_text, font=text_font,
+                     fill=TEXT_COLOR, anchor='mm')
 
-    draw.text((x, y), emoji_text, font=text_font, fill='#000000')
     img.save(output_path, 'PNG')
-
     return True
 
+
 def main():
-    print("[info] Loading emoji data...")
-    data = load_emoji_data()
+    parser = argparse.ArgumentParser(description='Generate emoji image for Instagram')
+    parser.add_argument('--test', action='store_true',
+                       help='Generate test image with sample data')
+    parser.add_argument('--output', type=str,
+                       help='Custom output path')
+    args = parser.parse_args()
+
+    # Load data
+    if args.test:
+        print("[info] Using test data...")
+        data = get_test_data()
+    else:
+        print("[info] Loading emoji data...")
+        data = load_emoji_data()
 
     emojis = data.get('emojis', [])
     emoji_chars = [e.get('char', '?') for e in emojis]
+    date_str = data.get('date', date.today().isoformat())
+
     print(f"[info] Emojis: {' '.join(emoji_chars)}")
+    print(f"[info] Date: {date_str}")
     print(f"[info] Platform: {sys.platform}")
 
     # Prepare output path
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # Use timestamp if available, otherwise date
-    timestamp = data.get('timestamp', '')
-    if timestamp:
-        # Convert timestamp to filename-safe format: 2025-11-22T08:00:00Z -> 2025-11-22-0800
-        filename_base = timestamp.replace(':', '').replace('T', '-').replace('Z', '')[:15]
+    if args.output:
+        output_path = args.output
+    elif args.test:
+        output_path = os.path.join(OUTPUT_DIR, "test.png")
     else:
-        filename_base = data.get('date', date.today().isoformat())
+        timestamp = data.get('timestamp', '')
+        if timestamp:
+            filename_base = timestamp.replace(':', '').replace('T', '-').replace('Z', '')[:15]
+        else:
+            filename_base = date_str
+        output_path = os.path.join(OUTPUT_DIR, f"{filename_base}.png")
 
-    output_path = os.path.join(OUTPUT_DIR, f"{filename_base}.png")
-
+    print(f"[info] Output: {output_path}")
     print("[info] Generating image...")
 
-    # Try different rendering methods
+    # Try rendering methods
     success = False
 
-    # Method 1: Swift (macOS only)
+    # Method 1: Swift (macOS)
     if sys.platform == 'darwin':
         print("[info] Trying Swift/AppKit rendering...")
-        success = generate_with_swift(emoji_chars, output_path)
+        success = generate_with_swift(emoji_chars, date_str, output_path)
         if success:
             print("[success] Generated with Swift/AppKit")
 
-    # Method 2: Pillow with Noto Color Emoji (Linux)
-    if not success and sys.platform == 'linux':
-        print("[info] Trying Pillow with Noto Color Emoji...")
-        success = generate_with_pillow_noto(emoji_chars, output_path)
-        if success:
-            print("[success] Generated with Pillow/Noto")
-
-    # Method 3: ImageMagick with Pango (Linux)
+    # Method 2: Pillow (Linux)
     if not success:
-        print("[info] Trying ImageMagick/Pango rendering...")
-        success = generate_with_pango(emoji_chars, output_path)
+        print("[info] Trying Pillow rendering...")
+        success = generate_with_pillow(emoji_chars, date_str, output_path)
         if success:
-            print("[success] Generated with ImageMagick/Pango")
-
-    # Method 4: Fallback
-    if not success:
-        print("[warn] Using fallback rendering (emojis may appear as boxes)")
-        success = generate_fallback(emoji_chars, output_path)
-        if success:
-            print("[success] Generated with fallback")
+            print("[success] Generated with Pillow")
 
     if success and os.path.exists(output_path):
         file_size = os.path.getsize(output_path)
         print(f"[success] Image saved: {output_path} ({file_size} bytes)")
+
+        # Open image on macOS for quick preview
+        if args.test and sys.platform == 'darwin':
+            subprocess.run(['open', output_path])
+
         print(f"OUTPUT_PATH={output_path}")
         return 0
     else:
         print("[error] Failed to generate image", file=sys.stderr)
         return 1
+
 
 if __name__ == "__main__":
     sys.exit(main())
