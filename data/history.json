@@ -2552,5 +2552,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-22",
+    "emojis": [
+      {
+        "char": "📈",
+        "label": "us stocks jump on fed rate cut bets",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTnJKMFZpd2txQVhFazdER2Z5Y0tRUTNfQWZ1VUlNVnJoUVFBX3lPTWxpOVU5S05EdkRfcmZNRnU3ODJUczBRcHlUcjVyTnBzMHJUSGNLd3E5UkVSTzhZaGMtdkNWTnF1LU1xLVlLVmdKYzQtTU91MWJta3MxcDZ2ZUtvQQ?oc=5",
+        "title": "US stocks jump on Fed rate cut bets but lose ground on the week - Reuters"
+      },
+      {
+        "char": "🐻",
+        "label": "grizzly bear attacks schoolchildren",
+        "url": "https://www.theguardian.com/world/2025/nov/21/grizzly-bear-attacks-children-teachers-canada-british-columbia",
+        "title": "Eleven injured after grizzly bear attacks schoolchildren and teachers in Canada"
+      },
+      {
+        "char": "🕊️",
+        "label": "us threatens to cut intel to ukraine",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcm9sYmh3YUZqTUpDSWo4Sk9HZFp5SEhickdsWXhzVW5acXVuVUFTeXNVUGZENlpNRUFubDExVkNFblMxeV9NSmZEbUtLajZjU2FrWTdoRjN6dEhUeXNZQjZZZEZWV3J3UjVDZUFWY2xnZDhCajJfbnQzaTdLeVpMc3Boc05PaTZGdGJETGVLZGR4dnR0azFRcy1rODdDNmQybFlzMWxxeTBWeFpHWGlaM19SWVJUMVpi?oc=5",
+        "title": "Exclusive: US threatens to cut intel, weapons to press Ukraine into peace deal, sources say - Reuters"
+      },
+      {
+        "char": "🤝",
+        "label": "trump pushes on russia-ukraine peace plan",
+        "url": "https://www.nytimes.com/2025/11/21/world/europe/ukraine-russia-us-peace-plan.html",
+        "title": "As Trump Pushes on Russia-Ukraine Peace Plan, Zelensky’s Options Are Narrowing"
+      },
+      {
+        "char": "⚖️",
+        "label": "trump’s doj investigating claims on election",
+        "url": "https://www.theguardian.com/us-news/2025/nov/21/trump-doj-venezuela-2020-election",
+        "title": "Trump’s DoJ investigating unfounded claims Venezuela helped steal 2020 election"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
