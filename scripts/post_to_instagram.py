@@ -42,22 +42,22 @@ def get_env_vars():
 
     return access_token, account_id
 
-def was_already_posted(post_date):
-    """Check if this date was already posted to Instagram."""
+def was_already_posted(timestamp):
+    """Check if this timestamp was already posted to Instagram."""
     if not os.path.exists(POSTED_LOG):
         return False
 
     try:
         with open(POSTED_LOG, 'r', encoding='utf-8') as f:
             posted = json.load(f)
-            return post_date in posted.get('dates', [])
+            return timestamp in posted.get('timestamps', [])
     except Exception as e:
         print(f"[warn] Could not read posted log: {e}", file=sys.stderr)
         return False
 
-def mark_as_posted(post_date, media_id):
-    """Record that this date was posted to Instagram."""
-    posted = {'dates': [], 'posts': []}
+def mark_as_posted(timestamp, media_id):
+    """Record that this timestamp was posted to Instagram."""
+    posted = {'timestamps': [], 'posts': []}
 
     if os.path.exists(POSTED_LOG):
         try:
@@ -66,27 +66,27 @@ def mark_as_posted(post_date, media_id):
         except Exception:
             pass
 
-    if 'dates' not in posted:
-        posted['dates'] = []
+    if 'timestamps' not in posted:
+        posted['timestamps'] = []
     if 'posts' not in posted:
         posted['posts'] = []
 
-    posted['dates'].append(post_date)
+    posted['timestamps'].append(timestamp)
     posted['posts'].append({
-        'date': post_date,
+        'timestamp': timestamp,
         'media_id': media_id,
         'posted_at': date.today().isoformat()
     })
 
-    # Keep only last 30 days
-    posted['dates'] = posted['dates'][-30:]
-    posted['posts'] = posted['posts'][-30:]
+    # Keep only last 100 posts (about 2 weeks at 6/day)
+    posted['timestamps'] = posted['timestamps'][-100:]
+    posted['posts'] = posted['posts'][-100:]
 
     os.makedirs(os.path.dirname(POSTED_LOG), exist_ok=True)
     with open(POSTED_LOG, 'w', encoding='utf-8') as f:
         json.dump(posted, f, indent=2)
 
-    print(f"[info] Marked {post_date} as posted")
+    print(f"[info] Marked {timestamp} as posted")
 
 def load_emoji_data():
     """Load today's emoji data for caption generation."""
@@ -99,10 +99,16 @@ def load_emoji_data():
 
 def get_image_url(data):
     """Get the public URL for today's image."""
-    img_date = data.get('date', date.today().isoformat())
+    timestamp = data.get('timestamp', '')
+
+    if timestamp:
+        # Convert timestamp to filename-safe format: 2025-11-22T08:00:00Z -> 2025-11-22-0800
+        filename_base = timestamp.replace(':', '').replace('T', '-').replace('Z', '')[:15]
+    else:
+        filename_base = data.get('date', date.today().isoformat())
 
     # The image will be hosted on GitHub Pages after commit
-    image_url = f"{GITHUB_PAGES_BASE}/images/daily/{img_date}.png"
+    image_url = f"{GITHUB_PAGES_BASE}/images/daily/{filename_base}.png"
 
     return image_url
 
@@ -242,12 +248,12 @@ def main():
 
     # Load emoji data
     data = load_emoji_data()
-    post_date = data.get('date', date.today().isoformat())
-    print(f"[info] Posting emojis for {post_date}")
+    timestamp = data.get('timestamp', data.get('date', date.today().isoformat()))
+    print(f"[info] Posting emojis for {timestamp}")
 
-    # Check if already posted today
-    if was_already_posted(post_date):
-        print(f"[info] Already posted for {post_date}, skipping to avoid duplicate")
+    # Check if already posted this timestamp
+    if was_already_posted(timestamp):
+        print(f"[info] Already posted for {timestamp}, skipping to avoid duplicate")
         print("[done] No action needed")
         return 0
 
@@ -278,7 +284,7 @@ def main():
         sys.exit(1)
 
     # Mark as posted to prevent duplicates
-    mark_as_posted(post_date, media_id)
+    mark_as_posted(timestamp, media_id)
 
     print(f"\n[done] Successfully posted to Instagram!")
     print(f"[info] View at: https://instagram.com/todayinemojis")

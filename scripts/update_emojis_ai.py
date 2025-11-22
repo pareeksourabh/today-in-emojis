@@ -192,8 +192,10 @@ def validate_response(raw: str, allowed_urls: List[str], headlines: List[Dict[st
     return results
 
 def to_today_json(items: List[Dict[str, str]]) -> Dict[str, Any]:
+    now = datetime.datetime.utcnow()
     return {
-        "date": datetime.date.today().isoformat(),
+        "date": now.strftime("%Y-%m-%d"),
+        "timestamp": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "emojis": items,
         "source": "ai-openai",
     }

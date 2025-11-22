@@ -253,8 +253,16 @@ def main():
 
     # Prepare output path
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    img_date = data.get('date', date.today().isoformat())
-    output_path = os.path.join(OUTPUT_DIR, f"{img_date}.png")
+
+    # Use timestamp if available, otherwise date
+    timestamp = data.get('timestamp', '')
+    if timestamp:
+        # Convert timestamp to filename-safe format: 2025-11-22T08:00:00Z -> 2025-11-22-0800
+        filename_base = timestamp.replace(':', '').replace('T', '-').replace('Z', '')[:15]
+    else:
+        filename_base = data.get('date', date.today().isoformat())
+
+    output_path = os.path.join(OUTPUT_DIR, f"{filename_base}.png")
 
     print("[info] Generating image...")
 
