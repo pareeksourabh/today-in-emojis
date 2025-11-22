@@ -2591,5 +2591,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-22",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "us men indicted for coup plot in haiti",
+        "url": "https://www.theguardian.com/us-news/2025/nov/21/texas-haiti-rape-indictment",
+        "title": "US men indicted for alleged coup plot to kill and rape people on Haitian island"
+      },
+      {
+        "char": "🐻",
+        "label": "grizzly bear attacks school group in canada",
+        "url": "https://www.bbc.com/news/articles/cz68x1n5qd6o?at_medium=RSS&at_campaign=rss",
+        "title": "Grizzly bear on loose after attacking school group in Canada, injuring 11"
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukrainians wait for strike survivors",
+        "url": "https://www.nytimes.com/2025/11/22/world/europe/russia-ukraine.html",
+        "title": "Ukrainians Wait in Pain as Hope to Find Strike Survivors Fades"
+      },
+      {
+        "char": "🌍",
+        "label": "us in talks to attend g20 summit",
+        "url": "https://www.theguardian.com/world/2025/nov/20/south-africa-says-us-boycott-of-g20-is-coercion-by-absentia",
+        "title": "US in talks to attend G20 summit after initial boycott, South Africa says"
+      },
+      {
+        "char": "🔒",
+        "label": "jair bolsonaro arrested in brazil",
+        "url": "https://www.theguardian.com/world/2025/nov/22/far-right-former-president-jair-bolsonaro-arrested-in-brazil",
+        "title": "Brazilian police arrest Bolsonaro amid suspicions he was about to flee"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
