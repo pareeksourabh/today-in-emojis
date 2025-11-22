@@ -20,6 +20,7 @@ from datetime import date
 # Configuration
 INPUT_FILE = "public/data/today.json"
 IMAGE_DIR = "public/images/daily"
+POSTED_LOG = "data/instagram_posted.json"
 GRAPH_API_VERSION = "v18.0"
 GRAPH_API_BASE = f"https://graph.facebook.com/{GRAPH_API_VERSION}"
 
@@ -40,6 +41,52 @@ def get_env_vars():
         sys.exit(1)
 
     return access_token, account_id
+
+def was_already_posted(post_date):
+    """Check if this date was already posted to Instagram."""
+    if not os.path.exists(POSTED_LOG):
+        return False
+
+    try:
+        with open(POSTED_LOG, 'r', encoding='utf-8') as f:
+            posted = json.load(f)
+            return post_date in posted.get('dates', [])
+    except Exception as e:
+        print(f"[warn] Could not read posted log: {e}", file=sys.stderr)
+        return False
+
+def mark_as_posted(post_date, media_id):
+    """Record that this date was posted to Instagram."""
+    posted = {'dates': [], 'posts': []}
+
+    if os.path.exists(POSTED_LOG):
+        try:
+            with open(POSTED_LOG, 'r', encoding='utf-8') as f:
+                posted = json.load(f)
+        except Exception:
+            pass
+
+    if 'dates' not in posted:
+        posted['dates'] = []
+    if 'posts' not in posted:
+        posted['posts'] = []
+
+    posted['dates'].append(post_date)
+    posted['posts'].append({
+        'date': post_date,
+        'media_id': media_id,
+        'posted_at': date.today().isoformat()
+    })
+
+    # Keep only last 30 days
+    posted['dates'] = posted['dates'][-30:]
+    posted['posts'] = posted['posts'][-30:]
+
+    os.makedirs(os.path.dirname(POSTED_LOG), exist_ok=True)
+    with open(POSTED_LOG, 'w', encoding='utf-8') as f:
+        json.dump(posted, f, indent=2)
+
+    print(f"[info] Marked {post_date} as posted")
 
 def load_emoji_data():
     """Load today's emoji data for caption generation."""
@@ -195,7 +242,14 @@ def main():
 
     # Load emoji data
     data = load_emoji_data()
-    print(f"[info] Posting emojis for {data.get('date', 'unknown date')}")
+    post_date = data.get('date', date.today().isoformat())
+    print(f"[info] Posting emojis for {post_date}")
+
+    # Check if already posted today
+    if was_already_posted(post_date):
+        print(f"[info] Already posted for {post_date}, skipping to avoid duplicate")
+        print("[done] No action needed")
+        return 0
 
     # Get image URL
     image_url = get_image_url(data)
@@ -222,6 +276,9 @@ def main():
     if not media_id:
         print("[error] Failed to publish to Instagram", file=sys.stderr)
         sys.exit(1)
+
+    # Mark as posted to prevent duplicates
+    mark_as_posted(post_date, media_id)
 
     print(f"\n[done] Successfully posted to Instagram!")
     print(f"[info] View at: https://instagram.com/todayinemojis")

@@ -2,7 +2,13 @@ name: Daily Emoji Update (AI)
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # 00:00 UTC = 08:00 Singapore
+    # Run 6 times daily (every 4 hours)
+    - cron: "0 0 * * *"    # 00:00 UTC
+    - cron: "0 4 * * *"    # 04:00 UTC
+    - cron: "0 8 * * *"    # 08:00 UTC
+    - cron: "0 12 * * *"   # 12:00 UTC
+    - cron: "0 16 * * *"   # 16:00 UTC
+    - cron: "0 20 * * *"   # 20:00 UTC
   workflow_dispatch: {}
 
 permissions:
@@ -58,3 +64,10 @@ jobs:
           INSTAGRAM_BUSINESS_ACCOUNT_ID: ${{ secrets.INSTAGRAM_BUSINESS_ACCOUNT_ID }}
         run: python scripts/post_to_instagram.py
         continue-on-error: true
+
+      - name: Commit Instagram post log
+        if: always()
+        run: |
+          git add data/instagram_posted.json || true
+          git diff --staged --quiet || git commit -m "chore(auto): Update Instagram post log" || true
+          git push || true
