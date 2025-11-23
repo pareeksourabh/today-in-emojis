@@ -2708,5 +2708,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-23",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "trump pushes for peace in ukraine",
+        "url": "https://www.nytimes.com/2025/11/21/world/europe/ukraine-russia-us-peace-plan.html",
+        "title": "As Trump Pushes on Russia-Ukraine Peace Plan, Zelensky’s Options Are Narrowing"
+      },
+      {
+        "char": "🐻",
+        "label": "grizzly bear attacks schoolchildren",
+        "url": "https://www.theguardian.com/world/2025/nov/21/grizzly-bear-attacks-children-teachers-canada-british-columbia",
+        "title": "Eleven injured after grizzly bear attacks schoolchildren and teachers in Canada"
+      },
+      {
+        "char": "🌍",
+        "label": "cop30 climate talks fail",
+        "url": "https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss",
+        "title": "UN climate talks fail to secure new fossil fuel promises"
+      },
+      {
+        "char": "🚨",
+        "label": "bolsonaro arrested in brazil",
+        "url": "https://www.theguardian.com/world/2025/nov/22/far-right-former-president-jair-bolsonaro-arrested-in-brazil",
+        "title": "Jair Bolsonaro arrested after tampering with ankle tag ‘out of curiosity’"
+      },
+      {
+        "char": "🔒",
+        "label": "nigeria's mass school abduction",
+        "url": "https://www.theguardian.com/world/2025/nov/21/nigeria-reels-after-second-mass-school-abduction-in-a-week",
+        "title": "Nigeria reels after 215 children taken in second mass school abduction in a week"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

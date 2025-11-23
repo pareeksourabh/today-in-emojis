@@ -1,36 +1,36 @@
 {
   "date": "2025-11-23",
-  "timestamp": "2025-11-23T01:07:57Z",
+  "timestamp": "2025-11-23T04:36:09Z",
   "emojis": [
     {
-      "char": "🇧🇷",
-      "label": "bolsonaro arrested in brazil",
-      "url": "https://www.bbc.com/news/articles/ce8qdm5zg10o?at_medium=RSS&at_campaign=rss",
-      "title": "Jair Bolsonaro arrested after being deemed a flight risk"
-    },
-    {
-      "char": "🎒",
-      "label": "mass school abduction in nigeria",
-      "url": "https://www.theguardian.com/world/2025/nov/21/nigeria-reels-after-second-mass-school-abduction-in-a-week",
-      "title": "Nigeria reels after 215 children taken in second mass school abduction in a week"
-    },
-    {
-      "char": "🦠",
-      "label": "jfk's granddaughter cancer diagnosis",
-      "url": "https://www.bbc.com/news/articles/cpvdyg348pko?at_medium=RSS&at_campaign=rss",
-      "title": "JFK's granddaughter shares terminal cancer diagnosis"
-    },
-    {
       "char": "🕊️",
-      "label": "trump's peace plan for ukraine",
+      "label": "trump pushes for peace in ukraine",
       "url": "https://www.nytimes.com/2025/11/21/world/europe/ukraine-russia-us-peace-plan.html",
       "title": "As Trump Pushes on Russia-Ukraine Peace Plan, Zelensky’s Options Are Narrowing"
     },
     {
+      "char": "🐻",
+      "label": "grizzly bear attacks schoolchildren",
+      "url": "https://www.theguardian.com/world/2025/nov/21/grizzly-bear-attacks-children-teachers-canada-british-columbia",
+      "title": "Eleven injured after grizzly bear attacks schoolchildren and teachers in Canada"
+    },
+    {
       "char": "🌍",
-      "label": "cop30 climate deal reached",
-      "url": "https://www.theguardian.com/environment/2025/nov/22/cop30-deal-inches-closer-to-end-of-fossil-fuel-era-after-bitter-standoff",
-      "title": "End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff"
+      "label": "cop30 climate talks fail",
+      "url": "https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss",
+      "title": "UN climate talks fail to secure new fossil fuel promises"
+    },
+    {
+      "char": "🚨",
+      "label": "bolsonaro arrested in brazil",
+      "url": "https://www.theguardian.com/world/2025/nov/22/far-right-former-president-jair-bolsonaro-arrested-in-brazil",
+      "title": "Jair Bolsonaro arrested after tampering with ankle tag ‘out of curiosity’"
+    },
+    {
+      "char": "🔒",
+      "label": "nigeria's mass school abduction",
+      "url": "https://www.theguardian.com/world/2025/nov/21/nigeria-reels-after-second-mass-school-abduction-in-a-week",
+      "title": "Nigeria reels after 215 children taken in second mass school abduction in a week"
     }
   ],
   "source": "ai-openai"
