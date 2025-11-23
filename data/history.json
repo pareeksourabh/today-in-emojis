@@ -2669,5 +2669,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-23",
+    "emojis": [
+      {
+        "char": "🇧🇷",
+        "label": "bolsonaro arrested in brazil",
+        "url": "https://www.bbc.com/news/articles/ce8qdm5zg10o?at_medium=RSS&at_campaign=rss",
+        "title": "Jair Bolsonaro arrested after being deemed a flight risk"
+      },
+      {
+        "char": "🎒",
+        "label": "mass school abduction in nigeria",
+        "url": "https://www.theguardian.com/world/2025/nov/21/nigeria-reels-after-second-mass-school-abduction-in-a-week",
+        "title": "Nigeria reels after 215 children taken in second mass school abduction in a week"
+      },
+      {
+        "char": "🦠",
+        "label": "jfk's granddaughter cancer diagnosis",
+        "url": "https://www.bbc.com/news/articles/cpvdyg348pko?at_medium=RSS&at_campaign=rss",
+        "title": "JFK's granddaughter shares terminal cancer diagnosis"
+      },
+      {
+        "char": "🕊️",
+        "label": "trump's peace plan for ukraine",
+        "url": "https://www.nytimes.com/2025/11/21/world/europe/ukraine-russia-us-peace-plan.html",
+        "title": "As Trump Pushes on Russia-Ukraine Peace Plan, Zelensky’s Options Are Narrowing"
+      },
+      {
+        "char": "🌍",
+        "label": "cop30 climate deal reached",
+        "url": "https://www.theguardian.com/environment/2025/nov/22/cop30-deal-inches-closer-to-end-of-fossil-fuel-era-after-bitter-standoff",
+        "title": "End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
