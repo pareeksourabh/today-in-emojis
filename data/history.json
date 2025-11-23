@@ -2747,5 +2747,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-23",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "trump's peace plan for ukraine",
+        "url": "https://www.nytimes.com/2025/11/22/world/europe/trump-russia-ukraine-peace-plan.html",
+        "title": "What Is Trump’s 28-Point Plan to End Russia’s War in Ukraine?"
+      },
+      {
+        "char": "📉",
+        "label": "jpmorgan data breach concerns",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGRyZ2x3amhXTmVyak1WVjB6TFBidkNjNWVDQmRMTHI1Tk1JN0loV05qbElWejhVNVlmeWxSNDk1Z2VZVTJGZk1ZSHJVZGktRFBxbHZjaTNhT1Y0SmFwbDBrdGZkYi1BVHNLY1h3TUxyY2R3Zm1ubTY3cklQd1htM1hDUmRFYkNWUzFMbTV2RlI4S1BWSy1xRkZudVVWRmJBQ0pvWkt4SDF2b3U3clRJYkptTGlfV2R2dXk0QlprdmhQUm9peGRsajJLU3Y?oc=5",
+        "title": "JPMorgan, Citi, Morgan Stanley client data may be exposed by vendor's hack, NYT reports - Reuters"
+      },
+      {
+        "char": "✊",
+        "label": "tunisia protests for democracy",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSEg5OVVocV9MZGlNNHBjOE1YYlM5LWlIelZFckxxZWsxSDNlUnU2NS1YZ1dnS3JCNnUzUDh4Ym5JMktjbnNIay1TTFJWM2M4RHd6TnlEZFhmNy1QTU1CSGpOUG92c1VRaXFCTFpnQlhMNldQWlNFdFNJZFdtTERWemQ3V25KZ0l3TnRTN2dnNDdaaUpnUnRUVTBEdlk0bWlCbS1MVjhHaVZUSWZfbHAxMGtEMmtMandn?oc=5",
+        "title": "Tunisians escalate protests against Saied, demanding return of democracy - Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "south africa's gender violence disaster",
+        "url": "https://www.theguardian.com/society/2025/nov/22/south-africa-g20-protests-gender-based-violence-national-disaster",
+        "title": "South Africa declares gender-based violence a national disaster amid G20 protests"
+      },
+      {
+        "char": "🦅",
+        "label": "bolsonaro arrested in brazil",
+        "url": "https://www.nytimes.com/2025/11/22/world/americas/jair-bolsonaro-brazil-arrest.html",
+        "title": "Jair Bolsonaro Arrested in Brazil Amid Fears He Might Flee to Avoid Prison"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
