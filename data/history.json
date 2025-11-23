@@ -2825,5 +2825,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-23",
+    "emojis": [
+      {
+        "char": "🦁",
+        "label": "south africa crime issues",
+        "url": "https://www.nytimes.com/2025/11/22/world/africa/south-africa-crime.html",
+        "title": "Trump Claims a White ‘Genocide’ in South Africa. Here’s What’s Really Happening."
+      },
+      {
+        "char": "🚔",
+        "label": "bolsonaro arrested in brazil",
+        "url": "https://www.nytimes.com/2025/11/22/world/americas/jair-bolsonaro-brazil-arrest.html",
+        "title": "Jair Bolsonaro Arrested in Brazil Amid Fears He Might Flee to Avoid Prison"
+      },
+      {
+        "char": "🐻",
+        "label": "grizzly bear attacks in canada",
+        "url": "https://www.theguardian.com/world/2025/nov/21/grizzly-bear-attacks-children-teachers-canada-british-columbia",
+        "title": "Eleven injured after grizzly bear attacks schoolchildren and teachers in Canada"
+      },
+      {
+        "char": "🎓",
+        "label": "nigeria school kidnappings",
+        "url": "https://www.theguardian.com/world/2025/nov/22/security-fears-rise-in-nigeria-after-more-than-300-taken-mass-school-kidnapping",
+        "title": "Security fears rise in Nigeria after more than 300 schoolchildren kidnapped"
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukraine strikes aftermath",
+        "url": "https://www.nytimes.com/2025/11/22/world/europe/russia-ukraine.html",
+        "title": "After Russian Strike on Apartment Buildings, Ukraine’s Hope for Survivors Fades"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
