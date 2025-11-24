@@ -3098,5 +3098,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-24",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "belgian airports strike disrupts travel",
+        "url": "https://www.bbc.com/news/articles/c0jew0lyv98o?at_medium=RSS&at_campaign=rss",
+        "title": "Belgian airports to be hit by 'major disruption' amid austerity strike"
+      },
+      {
+        "char": "🎤",
+        "label": "reggae legend jimmy cliff dies",
+        "url": "https://www.bbc.com/news/articles/cj4qdren425o?at_medium=RSS&at_campaign=rss",
+        "title": "Reggae legend Jimmy Cliff dies, aged 81"
+      },
+      {
+        "char": "🍽️",
+        "label": "australian chef skye gyngell dies",
+        "url": "https://www.bbc.com/news/articles/cy840l75gx3o?at_medium=RSS&at_campaign=rss",
+        "title": "Michelin-starred Australian chef Skye Gyngell dies aged 62"
+      },
+      {
+        "char": "🦅",
+        "label": "grizzly bear attack in canada",
+        "url": "https://www.theguardian.com/world/2025/nov/24/canada-grizzly-bear-attack-search",
+        "title": "Grizzly bear that attacked children and teachers in Canada still eludes searchers"
+      },
+      {
+        "char": "🌋",
+        "label": "ethiopian volcano erupts after 12000 years",
+        "url": "https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years",
+        "title": "Ethiopian volcano erupts for first time in 12,000 years"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
