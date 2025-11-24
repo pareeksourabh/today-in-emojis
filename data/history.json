@@ -2981,5 +2981,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-24",
+    "emojis": [
+      {
+        "char": "🦺",
+        "label": "bolsonaro tampered with ankle monitor",
+        "url": "https://www.theguardian.com/world/2025/nov/23/jair-bolsonaro-claims-psychotic-attack-made-him-tamper-with-ankle-monitor",
+        "title": "Jair Bolsonaro claims ‘psychotic attack’ made him tamper with ankle monitor"
+      },
+      {
+        "char": "✌️",
+        "label": "us and ukraine peace talks progress",
+        "url": "https://www.bbc.com/news/articles/ce3zwy808dpo?at_medium=RSS&at_campaign=rss",
+        "title": "US and Ukraine signal peace plan progress after Geneva talks"
+      },
+      {
+        "char": "🏬",
+        "label": "shein opens first physical store",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNUs0VEhjLWhiZzdyeVQzRHZaSW9qc3dTb2NsTEtwU19zNFYwenM1NjBNTkw1MEFGeHpVMVNUS1JLdUg1YWE0UldGZ0VVVFF4b0MtNVVwS2ktZ0lWWXNRMlJJVm95ZlFrM3J4MmtET005dXBoTHNuUUYzZzdJNW9KWktLaEZfRVJOeWZhN0I1Wmg1RkdsZUE5SDhGTVgtUlVPTm5xeXZYdmprTXlqaUI3d0wwTHVuZzJmMzBnbW0tOWRTNEpHY3NpbERoSWxRdmxRX0Fj?oc=5",
+        "title": "Shein's first bricks-and-mortar shop highlights department stores' existential pain - Reuters"
+      },
+      {
+        "char": "🚨",
+        "label": "south africa declares violence disaster",
+        "url": "https://www.theguardian.com/society/2025/nov/22/south-africa-g20-protests-gender-based-violence-national-disaster",
+        "title": "South Africa declares gender-based violence a national disaster amid G20 protests"
+      },
+      {
+        "char": "🔥",
+        "label": "fire threatens iran's ancient forest",
+        "url": "https://www.nytimes.com/2025/11/23/world/europe/iran-fire-hyrcanian-forests.html",
+        "title": "Fire Threatens Iran’s Ancient Forest, a World Heritage Site"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
