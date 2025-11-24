@@ -2903,5 +2903,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-24",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "jfk's granddaughter shares cancer news",
+        "url": "https://www.bbc.com/news/articles/cpvdyg348pko?at_medium=RSS&at_campaign=rss",
+        "title": "JFK's granddaughter shares terminal cancer diagnosis"
+      },
+      {
+        "char": "💰",
+        "label": "seven arrested in $800k bank heist",
+        "url": "https://www.bbc.com/news/articles/cy8j4m45yx2o?at_medium=RSS&at_campaign=rss",
+        "title": "Seven arrested in India after police crack $800,000 bank heist"
+      },
+      {
+        "char": "✈️",
+        "label": "g20 summit closes amid us boycott",
+        "url": "https://www.bbc.com/news/articles/cvg130704zro?at_medium=RSS&at_campaign=rss",
+        "title": "G20 summit boycotted by US closes in South Africa"
+      },
+      {
+        "char": "🔥",
+        "label": "fire threatens iran's ancient forest",
+        "url": "https://www.nytimes.com/2025/11/23/world/europe/iran-fire-hyrcanian-forests.html",
+        "title": "Fire Threatens Iran’s Ancient Forest, a World Heritage Site"
+      },
+      {
+        "char": "🎉",
+        "label": "haitians rejoice over world cup berth",
+        "url": "https://www.nytimes.com/2025/11/23/world/americas/haiti-world-cup.html",
+        "title": "Haitians Rejoice Over Their First World Cup Berth in 50 Years"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

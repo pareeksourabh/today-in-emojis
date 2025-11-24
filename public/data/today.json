@@ -1,36 +1,36 @@
 {
-  "date": "2025-11-23",
-  "timestamp": "2025-11-23T20:20:30Z",
+  "date": "2025-11-24",
+  "timestamp": "2025-11-24T01:03:53Z",
   "emojis": [
     {
-      "char": "🇻🇪",
-      "label": "us launches new phase in venezuela",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUzBXT2g5OXZqVEg1RTQtcU5mbGRldmt3UF9FM3AtRnR2b2xaRTVQTHJvUEhwbmFDVWRyMWtVRGZBd0ZnaUlHdjhJWkhwOU1oeFlZcmNCU2RFaWRJaUwzSENtSWJYckhyVTJnTjVVS3JLbjV0ZjlnUF8xMDh0aXRGaUtaWU1zcGRrN0E0VzJTUUZLZzR6ZHpzUnFKdk1BY2ladHdGZWZB?oc=5",
-      "title": "Exclusive: US to launch new phase of Venezuela operations, sources say - Reuters"
-    },
-    {
-      "char": "🇳🇬",
-      "label": "nigeria's mass school abduction",
-      "url": "https://www.theguardian.com/world/2025/nov/21/nigeria-reels-after-second-mass-school-abduction-in-a-week",
-      "title": "Nigeria reels after 215 children taken in second mass school abduction in a week"
-    },
-    {
-      "char": "🩺",
-      "label": "jfk's granddaughter cancer diagnosis",
+      "char": "📰",
+      "label": "jfk's granddaughter shares cancer news",
       "url": "https://www.bbc.com/news/articles/cpvdyg348pko?at_medium=RSS&at_campaign=rss",
       "title": "JFK's granddaughter shares terminal cancer diagnosis"
     },
     {
-      "char": "🌍",
-      "label": "g20 summit closes amid tensions",
-      "url": "https://www.theguardian.com/world/2025/nov/23/cyril-ramaphosa-gavel-g20-summit-us-handover",
-      "title": "Cyril Ramaphosa closes G20 summit after US boycott and handover row"
+      "char": "💰",
+      "label": "seven arrested in $800k bank heist",
+      "url": "https://www.bbc.com/news/articles/cy8j4m45yx2o?at_medium=RSS&at_campaign=rss",
+      "title": "Seven arrested in India after police crack $800,000 bank heist"
     },
     {
-      "char": "🇧🇷",
-      "label": "jair bolsonaro arrested in brazil",
-      "url": "https://www.nytimes.com/2025/11/22/world/americas/jair-bolsonaro-brazil-arrest.html",
-      "title": "Jair Bolsonaro Arrested in Brazil Amid Fears He Might Flee to Avoid Prison"
+      "char": "✈️",
+      "label": "g20 summit closes amid us boycott",
+      "url": "https://www.bbc.com/news/articles/cvg130704zro?at_medium=RSS&at_campaign=rss",
+      "title": "G20 summit boycotted by US closes in South Africa"
+    },
+    {
+      "char": "🔥",
+      "label": "fire threatens iran's ancient forest",
+      "url": "https://www.nytimes.com/2025/11/23/world/europe/iran-fire-hyrcanian-forests.html",
+      "title": "Fire Threatens Iran’s Ancient Forest, a World Heritage Site"
+    },
+    {
+      "char": "🎉",
+      "label": "haitians rejoice over world cup berth",
+      "url": "https://www.nytimes.com/2025/11/23/world/americas/haiti-world-cup.html",
+      "title": "Haitians Rejoice Over Their First World Cup Berth in 50 Years"
     }
   ],
   "source": "ai-openai"
