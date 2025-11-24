@@ -3059,5 +3059,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-24",
+    "emojis": [
+      {
+        "char": "🌧️",
+        "label": "vietnam's deadly wet weather",
+        "url": "https://www.nytimes.com/2025/11/24/world/asia/vietnam-flooding-typhoon-emergency.html",
+        "title": "Images From Vietnam’s Year of Deadly Wet Weather"
+      },
+      {
+        "char": "⚖️",
+        "label": "s korea's sex criminal sentenced",
+        "url": "https://www.bbc.com/news/articles/czxgdelzeq1o?at_medium=RSS&at_campaign=rss",
+        "title": "S Korea's most prolific online sex criminal sentenced to life in prison"
+      },
+      {
+        "char": "🕊️",
+        "label": "us and ukraine peace plan",
+        "url": "https://www.nytimes.com/2025/11/24/world/europe/ukraine-zelensky-rubio-russia-peace-plan.html",
+        "title": "U.S. and Ukraine Hail Progress on Peace Plan to End War With Russia"
+      },
+      {
+        "char": "🏞️",
+        "label": "machu picchu tourist bus row",
+        "url": "https://www.bbc.com/news/articles/ce8g8wrd61zo?at_medium=RSS&at_campaign=rss",
+        "title": "Machu Picchu hit by a row over tourist buses"
+      },
+      {
+        "char": "🌋",
+        "label": "ethiopian volcano erupts",
+        "url": "https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years",
+        "title": "Ethiopian volcano erupts for first time in 12,000 years"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
