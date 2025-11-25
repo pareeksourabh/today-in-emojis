@@ -3137,5 +3137,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-25",
+    "emojis": [
+      {
+        "char": "📱",
+        "label": "malaysia bans social media for kids",
+        "url": "https://www.nytimes.com/2025/11/24/world/asia/malaysia-social-media-ban.html",
+        "title": "Malaysia to Ban Children Under 16 From Social Media, Echoing Australia"
+      },
+      {
+        "char": "🚫",
+        "label": "uk rejects nigerian deportation request",
+        "url": "https://www.theguardian.com/uk-news/2025/nov/24/uk-rejects-nigerian-request-to-deport-former-politican-ike-ekweremadu-jailed-for-organ-trafficking",
+        "title": "UK rejects Nigerian request to deport former politican jailed for organ trafficking"
+      },
+      {
+        "char": "⚔️",
+        "label": "sectarian unrest in syria after killings",
+        "url": "https://www.nytimes.com/2025/11/24/world/europe/syria-sectarian-killings-homs.html",
+        "title": "Grisly Killings of a Married Couple Spark New Sectarian Unrest in Syria"
+      },
+      {
+        "char": "📰",
+        "label": "russian disinformation in mexico",
+        "url": "https://www.nytimes.com/2025/11/24/world/americas/russia-disinformation-mexico.html",
+        "title": "Russian Disinformation Comes to Mexico, Seeking to Rupture US Ties"
+      },
+      {
+        "char": "🤝",
+        "label": "ukraine and us discuss peace plan",
+        "url": "https://www.nytimes.com/2025/11/23/world/europe/ukraine-switzerland-russia-peace-talks.html",
+        "title": "Ukraine, U.S. Meet About Trump’s Peace Plan to End War With Russia"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
