@@ -3332,5 +3332,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-25",
+    "emojis": [
+      {
+        "char": "🔑",
+        "label": "cryptology firm cancels elections",
+        "url": "https://www.bbc.com/news/articles/c62vl05rz0ko?at_medium=RSS&at_campaign=rss",
+        "title": "Cryptology firm cancels elections after losing encryption key"
+      },
+      {
+        "char": "👑",
+        "label": "Dubai royal custody battle escalates",
+        "url": "https://www.bbc.com/news/articles/cj01j710rmmo?at_medium=RSS&at_campaign=rss",
+        "title": "Ex-wife of Dubai royal says she fears arrest as custody battle escalates"
+      },
+      {
+        "char": "🌋",
+        "label": "Ethiopian volcano disrupts flights",
+        "url": "https://www.nytimes.com/2025/11/25/world/africa/ethiopia-volcano-hayli-gubbi.html",
+        "title": "Volcanic in Ethiopia Spews Ash Into Asia, Disrupting Flights"
+      },
+      {
+        "char": "🕊️",
+        "label": "Israel receives Gaza hostage's coffin",
+        "url": "https://www.bbc.com/news/articles/c17x0xjqj21o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel receives coffin that Hamas says contains Gaza hostage's body"
+      },
+      {
+        "char": "🇨🇦",
+        "label": "Eritrean woman almost deported from US",
+        "url": "https://www.nytimes.com/2025/11/25/world/canada/usa-ice-eritrea-deportation-asylum.html",
+        "title": "An Eritrean Woman Seeking Asylum in Canada Was Almost Deported From the U.S."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
