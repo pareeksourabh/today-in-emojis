@@ -3215,5 +3215,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-25",
+    "emojis": [
+      {
+        "char": "🇬🇧",
+        "label": "uk visa abuse amid asylum claims",
+        "url": "https://www.bbc.com/news/articles/cy5gyzqexn5o?at_medium=RSS&at_campaign=rss",
+        "title": "UK minister flags visa 'abuse' as student asylum claims surge"
+      },
+      {
+        "char": "🏞️",
+        "label": "machu picchu tourist bus controversy",
+        "url": "https://www.bbc.com/news/articles/ce8g8wrd61zo?at_medium=RSS&at_campaign=rss",
+        "title": "Machu Picchu hit by a row over tourist buses"
+      },
+      {
+        "char": "📰",
+        "label": "russian disinformation in mexico",
+        "url": "https://www.nytimes.com/2025/11/24/world/americas/russia-disinformation-mexico.html",
+        "title": "Russian Disinformation Comes to Mexico, Seeking to Rupture US Ties"
+      },
+      {
+        "char": "🚨",
+        "label": "south africa gender violence disaster",
+        "url": "https://www.theguardian.com/society/2025/nov/22/south-africa-g20-protests-gender-based-violence-national-disaster",
+        "title": "South Africa declares gender-based violence a national disaster amid G20 protests"
+      },
+      {
+        "char": "🌋",
+        "label": "ethiopian volcano erupts after 12000 years",
+        "url": "https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years",
+        "title": "Ethiopian volcano erupts for first time in 12,000 years"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
