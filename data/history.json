@@ -3176,5 +3176,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-25",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "sectarian unrest in syria",
+        "url": "https://www.nytimes.com/2025/11/24/world/europe/syria-sectarian-killings-homs.html",
+        "title": "Grisly Killings of a Married Couple Spark New Sectarian Unrest in Syria"
+      },
+      {
+        "char": "✈️",
+        "label": "belgian airports strike",
+        "url": "https://www.bbc.com/news/articles/c0jew0lyv98o?at_medium=RSS&at_campaign=rss",
+        "title": "Belgian airports to be hit by 'major disruption' amid austerity strike"
+      },
+      {
+        "char": "🤝",
+        "label": "us peace plan for ukraine",
+        "url": "https://www.nytimes.com/2025/11/24/world/europe/ukraine-zelensky-rubio-russia-peace-plan.html",
+        "title": "As Ukraine Sets ‘Red Lines,’ a U.S. Peace Plan Is Slimmed Down"
+      },
+      {
+        "char": "🧬",
+        "label": "gene therapy approved by fda",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZGE5aTN1Q25zYmFBOEk2Z1AxbG5zdUF6bUluXzlHTFNJWDFtRXNhTjZpdUZmazJtWmJOVHJXZzcwZHBLYmJiNFZxTkwzM0EweVMxOG4tT2xfVFltOENqS19TT0F6dE5MY1VOVzFUVmxoQVJFZVlOa2NjRVpVb25sV3hXd1BNZ3hvdm1RblRjQy01Qnh6aGgwUmZEd2ZsVFNsOVU3ak1ZdmI3Qk5vYmNycXo2bzNvTlZfV08zVHpiWFJuUGRCdFE?oc=5",
+        "title": "US FDA approves Novartis' gene therapy for rare muscle disorder - Reuters"
+      },
+      {
+        "char": "🏠",
+        "label": "ontario housing law passed",
+        "url": "https://www.nytimes.com/2025/11/24/world/canada/doug-ford-ontario-housing-bill-60.html",
+        "title": "‘Find a Job,’ Ontario Premier Tells Protester While Passing a New Housing Law"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
