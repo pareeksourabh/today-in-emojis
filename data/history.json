@@ -3293,5 +3293,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-25",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "ukraine calls for trump meeting",
+        "url": "https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine calls for Trump-Zelensky meeting in US this week"
+      },
+      {
+        "char": "🧬",
+        "label": "fda approves gene therapy",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZGE5aTN1Q25zYmFBOEk2Z1AxbG5zdUF6bUluXzlHTFNJWDFtRXNhTjZpdUZmazJtWmJOVHJXZzcwZHBLYmJiNFZxTkwzM0EweVMxOG4tT2xfVFltOENqS19TT0F6dE5MY1VOVzFUVmxoQVJFZVlOa2NjRVpVb25sV3hXd1BNZ3hvdm1RblRjQy01Qnh6aGgwUmZEd2ZsVFNsOVU3ak1ZdmI3Qk5vYmNycXo2bzNvTlZfV08zVHpiWFJuUGRCdFE?oc=5",
+        "title": "US FDA approves Novartis' gene therapy for rare muscle disorder - Reuters"
+      },
+      {
+        "char": "🍣",
+        "label": "taiwan sushi diplomacy",
+        "url": "https://www.nytimes.com/2025/11/25/world/asia/taiwan-china-japan-sushi.html",
+        "title": "Warmed by Japan’s Support, Taiwan Takes Up Sushi Diplomacy"
+      },
+      {
+        "char": "🔒",
+        "label": "elections canceled over encryption loss",
+        "url": "https://www.bbc.com/news/articles/c62vl05rz0ko?at_medium=RSS&at_campaign=rss",
+        "title": "Cryptology firm cancels elections after losing encryption key"
+      },
+      {
+        "char": "🇿🇦",
+        "label": "zuma's daughter accused of trickery",
+        "url": "https://www.theguardian.com/world/2025/nov/25/jacob-zuma-daughter-accused-tricking-men-fighting-for-russia-in-ukraine",
+        "title": "Jacob Zuma’s daughter accused of tricking men into fighting for Russia in Ukraine"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
