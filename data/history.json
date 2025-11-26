@@ -3527,5 +3527,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-26",
+    "emojis": [
+      {
+        "char": "🇬🇼",
+        "label": "guinea-bissau soldiers take power",
+        "url": "https://www.bbc.com/news/articles/c0edww3qgq2o?at_medium=RSS&at_campaign=rss",
+        "title": "Guinea-Bissau soldiers say they have taken power after reports of president's arrest"
+      },
+      {
+        "char": "🕊️",
+        "label": "putin peace talks in ukraine",
+        "url": "https://www.nytimes.com/2025/11/26/world/europe/russia-putin-ukraine-peace-talks.html",
+        "title": "The Question Hanging Over Peace Talks: What Will Putin Accept?"
+      },
+      {
+        "char": "🇻🇪",
+        "label": "venezuela's nobel winner and maduro",
+        "url": "https://www.nytimes.com/2025/11/26/world/americas/maria-machado-maduro-venezuela.html",
+        "title": "Venezuela’s Nobel Peace Prize Winner Pushes False Claims About Maduro"
+      },
+      {
+        "char": "📈",
+        "label": "us capital goods orders soar",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZlQtVGpraGxzMzN3Q1ZNbGNyQmVaNDR3aTR1Vnd6MWozbEpKb0w2MjJjQVRQTEdKSnJ5OVBQSHpoU1NKWmZfM0ozS1hjVTAycXJkbldTNXdqc1RjUWJEM3k3VWJPU3k1aFJhNzhjTXVCVW5zd2p1LVhIS0l1dmxibXRXQmRjeEM5b1hGUVFDVmd1YXVsRnAxd1EzdnQzVHV1dFBOcURlMXlaY1Z1R0xjVkotTGdWOTQ?oc=5",
+        "title": "US core capital goods orders and shipments soar in September - Reuters"
+      },
+      {
+        "char": "🔥",
+        "label": "fire engulfs hong kong apartments",
+        "url": "https://www.nytimes.com/live/2025/11/26/world/hong-kong-fire",
+        "title": "Live Updates: At Least 13 Are Killed as Fire Engulfs Hong Kong Apartments"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
