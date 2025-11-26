@@ -3566,5 +3566,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-26",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "sarkozy conviction upheld",
+        "url": "https://www.bbc.com/news/articles/c74x55epn34o?at_medium=RSS&at_campaign=rss",
+        "title": "Nicolas Sarkozy illegal campaign financing conviction upheld"
+      },
+      {
+        "char": "🇧🇷",
+        "label": "bolsonaro prison sentence",
+        "url": "https://www.theguardian.com/world/2025/nov/25/jair-bolsonaro-brazil-prison",
+        "title": "Jair Bolsonaro ordered to start 27-year prison term for plotting Brazil coup"
+      },
+      {
+        "char": "🔥",
+        "label": "hong kong fire tragedy",
+        "url": "https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss",
+        "title": "At least 36 dead as fire engulfs Hong Kong tower blocks"
+      },
+      {
+        "char": "🪖",
+        "label": "guinea-bissau coup",
+        "url": "https://www.bbc.com/news/articles/c0edww3qgq2o?at_medium=RSS&at_campaign=rss",
+        "title": "Soldiers seize power in Guinea-Bissau and detain the president"
+      },
+      {
+        "char": "👨‍🎓",
+        "label": "youth unemployment in uk",
+        "url": "https://www.nytimes.com/2025/11/26/world/europe/uk-budget-youth-unemployment-minimum-wage.html",
+        "title": "‘You Start Getting Desperate’: How It Feels to Be Young and Jobless in Britain"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
