@@ -3449,5 +3449,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-26",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "italy probes meta over ai tools",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVXBoMmcwSi1sUWxneEVuWHprMl9pRFl3RHo5dDJseDBwZXpQSXhBQkg2Wk1aUVdCNjRJWmZRTThOWXRUNUZFUlJjdmFmeGYzOE1ZWlFXN0hhQkYxbEk4OVFaaEVrUDQ5UG9pWjZGNmFTc05Fc0lzc2FubmJsenU4UmlJTFJjUjl6MC1Bc0pRSXZDODgxbzZjYUJVbFlyWnNSbnBIYnNhYVdfMGhLOU5DdnV1NzF6M2Z4Tk04aFFBVXFadm1mM3dEV0phajlMZUdmMVZCYzJJblJZWlhLTHFYbGt2R3I?oc=5",
+        "title": "Italy competition watchdog broadens probe into Meta over AI tools in WhatsApp - Reuters"
+      },
+      {
+        "char": "🇮🇱",
+        "label": "israel confirms hostage return",
+        "url": "https://www.bbc.com/news/articles/c17x0xjqj21o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel confirms Hamas and PIJ returned body of Gaza hostage Dror Or"
+      },
+      {
+        "char": "👩‍⚖️",
+        "label": "nz woman sentenced for suitcase murders",
+        "url": "https://www.bbc.com/news/articles/cp84xed0g18o?at_medium=RSS&at_campaign=rss",
+        "title": "New Zealand woman gets life sentence for 'suitcase murders' of her children"
+      },
+      {
+        "char": "🇬🇧",
+        "label": "uk caves to virgin islands demands",
+        "url": "https://www.theguardian.com/world/2025/nov/25/uk-accused-of-caving-in-to-british-virgin-islands-over-access-to-company-register",
+        "title": "UK accused of caving-in to British Virgin Islands over access to companies register"
+      },
+      {
+        "char": "🇺🇸",
+        "label": "trump backs kash patel amid fbi report",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkRWU1ZLblZiVjRXRTB6MERBQ1lCMHZVNHpZWHp6cElwSV9TdUh5Z0pEdlB6eFNYU2Q1enZ5SHFTNjhVTUxhUnNOcXhIVjdTWUtITkc2a0Rrb1BDOUpKSUt0YkcwbV9hUmdaZTc3anJZYm9qT01objl4TmRwd2tNTzZwVmJIWWFfS1dxN0lNZUxOcDR5d2J6eWlSOFFGU0pvNW83VFNmQjY?oc=5",
+        "title": "Trump backs Kash Patel after report that he considered ousting the FBI director - Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
