@@ -3371,5 +3371,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-26",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "hamas returns hostage body",
+        "url": "https://www.nytimes.com/2025/11/25/world/middleeast/hostage-returned-israel-gaza.html",
+        "title": "Hamas Says It Returned Body of Another Hostage From Gaza"
+      },
+      {
+        "char": "🌋",
+        "label": "ethiopian volcano erupts",
+        "url": "https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years",
+        "title": "Ethiopian volcano erupts for first time in 12,000 years"
+      },
+      {
+        "char": "🏛️",
+        "label": "bolsonaro starts prison sentence",
+        "url": "https://www.bbc.com/news/articles/cr4dl19npv5o?at_medium=RSS&at_campaign=rss",
+        "title": "Bolsonaro ordered to start serving 27-year prison sentence for Brazil coup plot"
+      },
+      {
+        "char": "📚",
+        "label": "thomas king not indigenous",
+        "url": "https://www.theguardian.com/world/2025/nov/25/canadian-author-thomas-king-not-indigenous-cherokee-inconvenient-indian",
+        "title": "Canada: ‘Inconvenient Indian’ author Thomas King says he is not Indigenous"
+      },
+      {
+        "char": "🔋",
+        "label": "auto industry pollution warning",
+        "url": "https://www.nytimes.com/2025/11/25/world/africa/lead-battery-recycling-pollution-cars.html",
+        "title": "Auto Industry Was Warned For Years of Poisoning, Sickness From Car Batteries"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
