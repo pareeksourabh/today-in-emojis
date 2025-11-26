@@ -1,36 +1,36 @@
 {
   "date": "2025-11-26",
-  "timestamp": "2025-11-26T01:00:29Z",
+  "timestamp": "2025-11-26T04:31:27Z",
   "emojis": [
     {
-      "char": "🕊️",
-      "label": "hamas returns hostage body",
-      "url": "https://www.nytimes.com/2025/11/25/world/middleeast/hostage-returned-israel-gaza.html",
-      "title": "Hamas Says It Returned Body of Another Hostage From Gaza"
+      "char": "🇮🇱",
+      "label": "israel receives hostage's coffin",
+      "url": "https://www.bbc.com/news/articles/c17x0xjqj21o?at_medium=RSS&at_campaign=rss",
+      "title": "Israel receives coffin that Hamas says contains Gaza hostage's body"
+    },
+    {
+      "char": "🇿🇦",
+      "label": "zuma's daughter accused of trickery",
+      "url": "https://www.theguardian.com/world/2025/nov/25/jacob-zuma-daughter-accused-tricking-men-fighting-for-russia-in-ukraine",
+      "title": "Jacob Zuma’s daughter accused of tricking men into fighting for Russia in Ukraine"
+    },
+    {
+      "char": "💰",
+      "label": "parking inspector arrested for theft",
+      "url": "https://www.bbc.com/news/articles/c997r8pyyz4o?at_medium=RSS&at_campaign=rss",
+      "title": "Parking inspector and wife arrested for €1m meter theft"
     },
     {
       "char": "🌋",
-      "label": "ethiopian volcano erupts",
+      "label": "ethiopian volcano erupts after 12000 years",
       "url": "https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years",
       "title": "Ethiopian volcano erupts for first time in 12,000 years"
     },
     {
-      "char": "🏛️",
-      "label": "bolsonaro starts prison sentence",
-      "url": "https://www.bbc.com/news/articles/cr4dl19npv5o?at_medium=RSS&at_campaign=rss",
-      "title": "Bolsonaro ordered to start serving 27-year prison sentence for Brazil coup plot"
-    },
-    {
-      "char": "📚",
-      "label": "thomas king not indigenous",
-      "url": "https://www.theguardian.com/world/2025/nov/25/canadian-author-thomas-king-not-indigenous-cherokee-inconvenient-indian",
-      "title": "Canada: ‘Inconvenient Indian’ author Thomas King says he is not Indigenous"
-    },
-    {
-      "char": "🔋",
-      "label": "auto industry pollution warning",
-      "url": "https://www.nytimes.com/2025/11/25/world/africa/lead-battery-recycling-pollution-cars.html",
-      "title": "Auto Industry Was Warned For Years of Poisoning, Sickness From Car Batteries"
+      "char": "🇧🇷",
+      "label": "bolsonaro starts 27-year prison term",
+      "url": "https://www.nytimes.com/2025/11/25/world/americas/bolsonaro-arrest-prison-sentence.html",
+      "title": "Bolsonaro To Start Serving 27-Year Prison Sentence Over Coup Plot"
     }
   ],
   "source": "ai-openai"
