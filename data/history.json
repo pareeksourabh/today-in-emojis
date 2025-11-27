@@ -3761,5 +3761,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-27",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "peace eludes south lebanon",
+        "url": "https://www.bbc.com/news/articles/cdd560nvqqdo?at_medium=RSS&at_campaign=rss",
+        "title": "Year after ceasefire, peace eludes south Lebanon as Israeli strikes continue"
+      },
+      {
+        "char": "🇿🇦",
+        "label": "south africa hits back at trump",
+        "url": "https://www.bbc.com/news/articles/cq8dq47j5y8o?at_medium=RSS&at_campaign=rss",
+        "title": "South Africa hits back after Trump says US won't invite it for G20 next year"
+      },
+      {
+        "char": "🎖️",
+        "label": "france creates military service",
+        "url": "https://www.nytimes.com/2025/11/27/world/europe/france-military-service.html",
+        "title": "eFrance Creates Voluntary Military Service as Europe Faces Russian Threat"
+      },
+      {
+        "char": "🚨",
+        "label": "navalny group labeled terrorist",
+        "url": "https://www.nytimes.com/2025/11/27/world/europe/russia-navalny-terrorist.html",
+        "title": "Russia Labels Navalny’s Anti-Corruption Group as Terrorist Organization"
+      },
+      {
+        "char": "✈️",
+        "label": "pope visits turkey for outreach",
+        "url": "https://www.nytimes.com/2025/11/27/world/middleeast/pope-first-foreign-trip-turkey-erdogan.html",
+        "title": "Pope Leo Lands in Turkey, Planning to Meet Erdogan With a Message of Outreach"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
