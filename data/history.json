@@ -3644,5 +3644,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-27",
+    "emojis": [
+      {
+        "char": "🇷🇺",
+        "label": "zuma's daughter tricks men for russia",
+        "url": "https://www.theguardian.com/world/2025/nov/25/jacob-zuma-daughter-accused-tricking-men-fighting-for-russia-in-ukraine",
+        "title": "Jacob Zuma’s daughter accused of tricking men into fighting for Russia in Ukraine"
+      },
+      {
+        "char": "🤝",
+        "label": "putin peace talks under scrutiny",
+        "url": "https://www.nytimes.com/2025/11/26/world/europe/russia-putin-ukraine-peace-talks.html",
+        "title": "The Question Hanging Over Peace Talks: What Will Putin Accept?"
+      },
+      {
+        "char": "🇯🇵",
+        "label": "japan's spat with china benefits leader",
+        "url": "https://www.nytimes.com/2025/11/26/world/asia/japan-china-taiwan-takaichi-dispute.html",
+        "title": "Spat With China Becomes an Asset for Japan’s New Leader"
+      },
+      {
+        "char": "✈️",
+        "label": "noem continues deportation flights",
+        "url": "https://www.theguardian.com/us-news/2025/nov/26/kristi-noem-deportation-flights-el-salvador",
+        "title": "Noem made decision to continue deportation flights to El Salvador, justice department says"
+      },
+      {
+        "char": "👧🏾",
+        "label": "nigerian schoolgirls rescued from abduction",
+        "url": "https://www.theguardian.com/world/2025/nov/25/nigerian-schoolgirls-rescued-after-mass-abduction-in-kebbi",
+        "title": "Nigerian schoolgirls rescued after mass abduction in Kebbi"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
