@@ -3683,5 +3683,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-27",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "sarkozy conviction upheld",
+        "url": "https://www.bbc.com/news/articles/c74x55epn34o?at_medium=RSS&at_campaign=rss",
+        "title": "Nicolas Sarkozy illegal campaign financing conviction upheld"
+      },
+      {
+        "char": "🇭🇹",
+        "label": "trump halts haitian status",
+        "url": "https://www.theguardian.com/us-news/2025/nov/26/trump-temporary-protected-status-haiti",
+        "title": "Trump officials halt protected status for Haitians in US"
+      },
+      {
+        "char": "🌋",
+        "label": "ethiopian volcano erupts",
+        "url": "https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years",
+        "title": "Ethiopian volcano erupts for first time in 12,000 years"
+      },
+      {
+        "char": "🕊️",
+        "label": "putin peace talks",
+        "url": "https://www.nytimes.com/2025/11/26/world/europe/russia-putin-ukraine-peace-talks.html",
+        "title": "The Question Hanging Over Peace Talks: What Will Putin Accept?"
+      },
+      {
+        "char": "✈️",
+        "label": "noem deportation flights",
+        "url": "https://www.theguardian.com/us-news/2025/nov/26/kristi-noem-deportation-flights-el-salvador",
+        "title": "Noem made decision to continue deportation flights to El Salvador, justice department says"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
