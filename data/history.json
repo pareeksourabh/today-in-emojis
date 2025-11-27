@@ -3800,5 +3800,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-27",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "us suspends immigration requests for afghans",
+        "url": "https://www.bbc.com/news/articles/cgex957qg97o?at_medium=RSS&at_campaign=rss",
+        "title": "US suspends immigration requests for Afghans after National Guard shooting"
+      },
+      {
+        "char": "🇬🇼",
+        "label": "guinea-bissau military takes control",
+        "url": "https://www.theguardian.com/world/2025/nov/26/guinea-bissau-officers-take-total-control-close-borders-amid-election-chaos",
+        "title": "Guinea-Bissau military takes ‘total control’ amid election chaos"
+      },
+      {
+        "char": "👧🏾",
+        "label": "nigerian schoolgirls rescued from abduction",
+        "url": "https://www.theguardian.com/world/2025/nov/25/nigerian-schoolgirls-rescued-after-mass-abduction-in-kebbi",
+        "title": "Nigerian schoolgirls rescued after mass abduction in Kebbi"
+      },
+      {
+        "char": "✈️",
+        "label": "venezuela bans six airlines amid tensions",
+        "url": "https://www.bbc.com/news/articles/cd0keyern0do?at_medium=RSS&at_campaign=rss",
+        "title": "Venezuela bans six major airlines after tensions with US escalate"
+      },
+      {
+        "char": "✝️",
+        "label": "pope warns of humanity's future at stake",
+        "url": "https://www.bbc.com/news/articles/cy5g3076lqzo?at_medium=RSS&at_campaign=rss",
+        "title": "Pope Leo on first foreign trip says future of humanity at stake from conflict"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
