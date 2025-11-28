@@ -1,36 +1,36 @@
 {
   "date": "2025-11-28",
-  "timestamp": "2025-11-28T16:11:23Z",
+  "timestamp": "2025-11-28T20:20:25Z",
   "emojis": [
     {
-      "char": "🔥",
-      "label": "death toll rises in hong kong fire",
-      "url": "https://www.nytimes.com/2025/11/28/world/asia/hong-kong-fire.html",
-      "title": "Death Toll Rises to 128 in Hong Kong High-Rise Fire"
+      "char": "✈️",
+      "label": "student deported for thanksgiving",
+      "url": "https://www.theguardian.com/us-news/2025/nov/28/college-student-deported-boston-flight-thanksgiving",
+      "title": "College student deported when flying home for Thanksgiving, despite court order"
+    },
+    {
+      "char": "⛪",
+      "label": "nuns can stay if no social media",
+      "url": "https://www.nytimes.com/2025/11/28/world/europe/austria-nuns-abbot-escape-senior-home.html",
+      "title": "Rebel Nuns Can Live in Old Abbey, if They Give Up Social Media"
+    },
+    {
+      "char": "💣",
+      "label": "israeli raid kills 13 in syria",
+      "url": "https://www.nytimes.com/2025/11/28/world/europe/israel-syria-raid-beit-jinn.html",
+      "title": "Israeli Raid in Southern Syria Kills at Least 13, Syrian Officials Say"
     },
     {
       "char": "🌪️",
-      "label": "sri lanka cyclone death toll reaches 56",
+      "label": "sri lanka cyclone death toll rises",
       "url": "https://www.nytimes.com/2025/11/28/world/asia/sri-lanka-cyclone-ditwah-toll.html",
-      "title": "Sri Lanka on High Alert as Cyclone Death Toll Reaches 56"
+      "title": "Sri Lanka Battered by Cyclone as Death Toll Climbs to 69"
     },
     {
-      "char": "🗳️",
-      "label": "hondurans fear unrest ahead of election",
-      "url": "https://www.nytimes.com/2025/11/28/world/americas/honduras-election-trump-administration.html",
-      "title": "Hondurans Fear Unrest Ahead of Election as Trump Endorses a Candidate"
-    },
-    {
-      "char": "👩‍⚖️",
-      "label": "ex-president's daughter resigns over allegations",
-      "url": "https://www.bbc.com/news/articles/cx2dndy228xo?at_medium=RSS&at_campaign=rss",
-      "title": "Ex-president's daughter resigns over allegations she duped South Africans to fight for Russia"
-    },
-    {
-      "char": "🇹🇳",
-      "label": "tunisia hands prison terms to opposition figures",
-      "url": "https://www.bbc.com/news/articles/c0r9qzrxdwwo?at_medium=RSS&at_campaign=rss",
-      "title": "Tunisia hands prison terms to dozens of opposition figures"
+      "char": "🔥",
+      "label": "hong kong fire death toll rises",
+      "url": "https://www.nytimes.com/2025/11/28/world/asia/hong-kong-fire.html",
+      "title": "Death Toll Rises to 128 in Hong Kong High-Rise Fire"
     }
   ],
   "source": "ai-openai"

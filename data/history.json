@@ -4034,5 +4034,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-28",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "student deported for thanksgiving",
+        "url": "https://www.theguardian.com/us-news/2025/nov/28/college-student-deported-boston-flight-thanksgiving",
+        "title": "College student deported when flying home for Thanksgiving, despite court order"
+      },
+      {
+        "char": "⛪",
+        "label": "nuns can stay if no social media",
+        "url": "https://www.nytimes.com/2025/11/28/world/europe/austria-nuns-abbot-escape-senior-home.html",
+        "title": "Rebel Nuns Can Live in Old Abbey, if They Give Up Social Media"
+      },
+      {
+        "char": "💣",
+        "label": "israeli raid kills 13 in syria",
+        "url": "https://www.nytimes.com/2025/11/28/world/europe/israel-syria-raid-beit-jinn.html",
+        "title": "Israeli Raid in Southern Syria Kills at Least 13, Syrian Officials Say"
+      },
+      {
+        "char": "🌪️",
+        "label": "sri lanka cyclone death toll rises",
+        "url": "https://www.nytimes.com/2025/11/28/world/asia/sri-lanka-cyclone-ditwah-toll.html",
+        "title": "Sri Lanka Battered by Cyclone as Death Toll Climbs to 69"
+      },
+      {
+        "char": "🔥",
+        "label": "hong kong fire death toll rises",
+        "url": "https://www.nytimes.com/2025/11/28/world/asia/hong-kong-fire.html",
+        "title": "Death Toll Rises to 128 in Hong Kong High-Rise Fire"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
