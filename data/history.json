@@ -3839,5 +3839,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-28",
+    "emojis": [
+      {
+        "char": "🚪",
+        "label": "trump closes door to afghans",
+        "url": "https://www.nytimes.com/live/2025/11/27/us/national-guard-shooting-dc/trump-shuts-the-door-to-afghans-who-face-crises-at-home",
+        "title": "Trump shuts the door to Afghans who face crises at home."
+      },
+      {
+        "char": "🏀",
+        "label": "curry avoids serious injury",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVUhxbVhpUTRuOUMyR1FFd1ZZdWF0Mk5FNXdNYk5ib2tKUTRGbDFWX0gzSG1neDdycjlLZWN3cFU4RWtQTmNsN2FXYzFtNTJ4OFhyWmJ0RktVUHBlWHc2dC1IVEVCX1o0YTJFS2dyT1lBdVJyQkJzTmJCNXVRLThrT3dmTzBEQXRMSGQtZmVueE96Z3lBMVpv?oc=5",
+        "title": "Report: Warriors G Stephen Curry avoids serious quad injury, to miss week - Reuters"
+      },
+      {
+        "char": "🌋",
+        "label": "ethiopian volcano erupts",
+        "url": "https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years",
+        "title": "Ethiopian volcano erupts for first time in 12,000 years"
+      },
+      {
+        "char": "🔥",
+        "label": "fire spreads in hong kong tower",
+        "url": "https://www.bbc.com/news/videos/c3w7e2p48l7o?at_medium=RSS&at_campaign=rss",
+        "title": "Video shows speed fire spreads in Hong Kong tower block"
+      },
+      {
+        "char": "✈️",
+        "label": "venezuela bans six airlines",
+        "url": "https://www.theguardian.com/world/2025/nov/27/venezuela-bans-six-leading-airlines-as-tensions-with-us-escalate",
+        "title": "Venezuela bans six international airlines as tensions with US escalate"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
