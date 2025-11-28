@@ -3956,5 +3956,44 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2025-11-28",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "zelensky's adviser home searched",
+        "url": "https://www.bbc.com/news/articles/c058lp086zvo?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine anti-corruption agents search home of Zelensky's top adviser"
+      },
+      {
+        "char": "🚨",
+        "label": "nigerian schoolgirls rescued",
+        "url": "https://www.theguardian.com/world/2025/nov/25/nigerian-schoolgirls-rescued-after-mass-abduction-in-kebbi",
+        "title": "Nigerian schoolgirls rescued after mass abduction in Kebbi"
+      },
+      {
+        "char": "🌪️",
+        "label": "sri lanka cyclone death toll rises",
+        "url": "https://www.nytimes.com/2025/11/28/world/asia/sri-lanka-cyclone-ditwah-toll.html",
+        "title": "Sri Lanka on High Alert as Cyclone Death Toll Reaches 56"
+      },
+      {
+        "char": "🌳",
+        "label": "africa's forests carbon source study",
+        "url": "https://www.theguardian.com/environment/2025/nov/28/africa-forests-transformed-carbon-sink-carbon-source-study",
+        "title": "Africa’s forests transformed from carbon sink to carbon source, study finds"
+      },
+      {
+        "char": "🕊️",
+        "label": "pope seeks to soothe divide in turkey",
+        "url": "https://www.nytimes.com/2025/11/28/world/middleeast/pope-leo-turkey-church.html",
+        "title": "In Turkey, Pope Seeks to Soothe an Ancient Christian Divide"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
