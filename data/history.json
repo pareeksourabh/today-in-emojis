@@ -3917,5 +3917,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-28",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "trump pauses migration from third world",
+        "url": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss",
+        "title": "Trump says US will 'permanently pause' migration from 'third world countries'"
+      },
+      {
+        "char": "🔥",
+        "label": "55 dead in hong kong apartment fire",
+        "url": "https://www.nytimes.com/live/2025/11/27/world/hong-kong-fire",
+        "title": "At Least 55 Dead in Hong Kong Apartment Fire"
+      },
+      {
+        "char": "🇬🇧",
+        "label": "uk rejects nigerian deportation request",
+        "url": "https://www.theguardian.com/uk-news/2025/nov/24/uk-rejects-nigerian-request-to-deport-former-politican-ike-ekweremadu-jailed-for-organ-trafficking",
+        "title": "UK rejects Nigerian request to deport former politican jailed for organ trafficking"
+      },
+      {
+        "char": "🕵️‍♂",
+        "label": "mystery of peru's band of holes solved",
+        "url": "https://www.theguardian.com/us-news/2025/nov/27/peru-band-of-holes-mystery",
+        "title": "Florida professor may have solved mystery of Peru’s Band of Holes"
+      },
+      {
+        "char": "🌋",
+        "label": "ethiopian volcano erupts after 12000 years",
+        "url": "https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years",
+        "title": "Ethiopian volcano erupts for first time in 12,000 years"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
