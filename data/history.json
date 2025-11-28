@@ -3995,5 +3995,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-28",
+    "emojis": [
+      {
+        "char": "🔥",
+        "label": "death toll rises in hong kong fire",
+        "url": "https://www.nytimes.com/2025/11/28/world/asia/hong-kong-fire.html",
+        "title": "Death Toll Rises to 128 in Hong Kong High-Rise Fire"
+      },
+      {
+        "char": "🌪️",
+        "label": "sri lanka cyclone death toll reaches 56",
+        "url": "https://www.nytimes.com/2025/11/28/world/asia/sri-lanka-cyclone-ditwah-toll.html",
+        "title": "Sri Lanka on High Alert as Cyclone Death Toll Reaches 56"
+      },
+      {
+        "char": "🗳️",
+        "label": "hondurans fear unrest ahead of election",
+        "url": "https://www.nytimes.com/2025/11/28/world/americas/honduras-election-trump-administration.html",
+        "title": "Hondurans Fear Unrest Ahead of Election as Trump Endorses a Candidate"
+      },
+      {
+        "char": "👩‍⚖️",
+        "label": "ex-president's daughter resigns over allegations",
+        "url": "https://www.bbc.com/news/articles/cx2dndy228xo?at_medium=RSS&at_campaign=rss",
+        "title": "Ex-president's daughter resigns over allegations she duped South Africans to fight for Russia"
+      },
+      {
+        "char": "🇹🇳",
+        "label": "tunisia hands prison terms to opposition figures",
+        "url": "https://www.bbc.com/news/articles/c0r9qzrxdwwo?at_medium=RSS&at_campaign=rss",
+        "title": "Tunisia hands prison terms to dozens of opposition figures"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
