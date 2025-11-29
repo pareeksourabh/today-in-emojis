@@ -4190,5 +4190,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-29",
+    "emojis": [
+      {
+        "char": "⚡",
+        "label": "power outages in ukraine",
+        "url": "https://www.bbc.com/news/articles/cx2gylngx7go?at_medium=RSS&at_campaign=rss",
+        "title": "Russian strikes cause power outages for more than 600,000 in Ukraine"
+      },
+      {
+        "char": "🌪️",
+        "label": "uk aid for hurricane jamaica",
+        "url": "https://www.theguardian.com/world/2025/nov/29/uk-mps-extra-aid-humanitarian-visas-jamaica-hurricane-melissa-dawn-butler",
+        "title": "UK MPs push for extra aid and visas as Jamaica reels from Hurricane Melissa"
+      },
+      {
+        "char": "🔫",
+        "label": "us murder charge for guard attacker",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTRKa2VJWDk1UUlNLXRvNnNHSlRCTFZCQTFGUDZBUDBMNUpROF8xaldUN1c2UzZ1N25XSFo2ajV3bWZaemxhazI2WDRpMFF4UGF0ODNNcDI0cEkwMUtfLW1iOHRpRWk3eHBEZG5FTDBzWGdUSVRjM2RfdjlXQUxObWhpWmhkdXZyRzVaSTRKcUdFNktSWXM3WTlFOUNrVHY2TzFJNHl5ZU83cjFFbzgyNWdVQ3NaWl8xSzNSTE13?oc=5",
+        "title": "Accused National Guard attacker faces US murder charge, Trump wants to halt 'Third World' migration - Reuters"
+      },
+      {
+        "char": "🔥",
+        "label": "hong kong fire tests beijing's rule",
+        "url": "https://www.nytimes.com/2025/11/29/world/asia/hong-kong-fire-beijing-john-lee.html",
+        "title": "Deadly Hong Kong Fire Is a Test of Beijing’s Rule in the City"
+      },
+      {
+        "char": "🌳",
+        "label": "africa's forests carbon sink study",
+        "url": "https://www.theguardian.com/environment/2025/nov/28/africa-forests-transformed-carbon-sink-carbon-source-study",
+        "title": "Africa’s forests transformed from carbon sink to carbon source, study finds"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
