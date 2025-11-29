@@ -4151,5 +4151,44 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2025-11-29",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "trump to pardon honduran ex-leader",
+        "url": "https://www.nytimes.com/2025/11/28/world/americas/trump-pardon-honduras-hernandez.html",
+        "title": "Trump to Pardon Juan Orlando Hernández, Honduran Ex-Leader Convicted in Drug Case"
+      },
+      {
+        "char": "📈",
+        "label": "wall street edges higher post-holiday",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObVlyZXF1LS0wRm83UTFPeHJBZUxRbHJMT2dNTEhKQ0tlRkpxVm41cnIwT2VrUGlWZzhwTUdBcy1NQmMtcURoVmxPZWtfcVJwbUpDSDZSWWRwLW9kWm9qanY2Ny1LM1VLMkY2T1RjVG9rWi1DRHJhUE1UeFQ4MzludUNzRllXVlZnSUtLOVBzamFvRTN2Uldpay1n?oc=5",
+        "title": "Wall Street edges higher in thin post-holiday trade - Reuters"
+      },
+      {
+        "char": "🇿🇦",
+        "label": "zuma's daughter resigns amid claims",
+        "url": "https://www.theguardian.com/world/2025/nov/28/jacob-zuma-daughter-resigns-claims-south-africans-tricked-fight-russia",
+        "title": "Jacob Zuma’s daughter resigns amid claims South Africans tricked to fight for Russia"
+      },
+      {
+        "char": "⚔️",
+        "label": "guinea-bissau military takes control",
+        "url": "https://www.theguardian.com/world/2025/nov/26/guinea-bissau-officers-take-total-control-close-borders-amid-election-chaos",
+        "title": "Guinea-Bissau military takes ‘total control’ amid election chaos"
+      },
+      {
+        "char": "🌪️",
+        "label": "sri lanka battered by cyclone",
+        "url": "https://www.nytimes.com/2025/11/28/world/asia/sri-lanka-cyclone-ditwah-toll.html",
+        "title": "Sri Lanka Battered by Cyclone as Death Toll Climbs to 69"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
