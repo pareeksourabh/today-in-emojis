@@ -4229,5 +4229,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-29",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "zelensky loses key aide",
+        "url": "https://www.nytimes.com/2025/11/29/world/europe/zelensky-yermak-ukraine.html",
+        "title": "In Firing His No. 2, Zelensky Loses Both a Negotiator and an Enforcer"
+      },
+      {
+        "char": "🙏",
+        "label": "quebec bans public prayer",
+        "url": "https://www.theguardian.com/world/2025/nov/28/quebec-prayer-law-canada",
+        "title": "Quebec to ban public prayer in sweeping new secularism law"
+      },
+      {
+        "char": "🕊️",
+        "label": "israeli hostage recounts ordeal",
+        "url": "https://www.nytimes.com/2025/11/29/world/middleeast/israel-hostage-hamas-gaza-torture-segev-kalfon.html",
+        "title": "Israeli Hostage Recounts Beatings and Starvation During Hamas Captivity"
+      },
+      {
+        "char": "🌍",
+        "label": "south africans fight for russia",
+        "url": "https://www.nytimes.com/2025/11/29/world/africa/south-africa-russia-ukraine-fighters-zuma.html",
+        "title": "South Africans Were Promised Job, but Ended Up ‘Going to War’ for Russia"
+      },
+      {
+        "char": "✈️",
+        "label": "uk mps aid for jamaica hurricane",
+        "url": "https://www.theguardian.com/world/2025/nov/29/uk-mps-extra-aid-humanitarian-visas-jamaica-hurricane-melissa-dawn-butler",
+        "title": "UK MPs push for extra aid and visas as Jamaica reels from Hurricane Melissa"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

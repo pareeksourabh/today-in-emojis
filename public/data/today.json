@@ -1,36 +1,36 @@
 {
   "date": "2025-11-29",
-  "timestamp": "2025-11-29T12:46:20Z",
+  "timestamp": "2025-11-29T16:10:08Z",
   "emojis": [
     {
-      "char": "⚡",
-      "label": "power outages in ukraine",
-      "url": "https://www.bbc.com/news/articles/cx2gylngx7go?at_medium=RSS&at_campaign=rss",
-      "title": "Russian strikes cause power outages for more than 600,000 in Ukraine"
+      "char": "🇺🇦",
+      "label": "zelensky loses key aide",
+      "url": "https://www.nytimes.com/2025/11/29/world/europe/zelensky-yermak-ukraine.html",
+      "title": "In Firing His No. 2, Zelensky Loses Both a Negotiator and an Enforcer"
     },
     {
-      "char": "🌪️",
-      "label": "uk aid for hurricane jamaica",
+      "char": "🙏",
+      "label": "quebec bans public prayer",
+      "url": "https://www.theguardian.com/world/2025/nov/28/quebec-prayer-law-canada",
+      "title": "Quebec to ban public prayer in sweeping new secularism law"
+    },
+    {
+      "char": "🕊️",
+      "label": "israeli hostage recounts ordeal",
+      "url": "https://www.nytimes.com/2025/11/29/world/middleeast/israel-hostage-hamas-gaza-torture-segev-kalfon.html",
+      "title": "Israeli Hostage Recounts Beatings and Starvation During Hamas Captivity"
+    },
+    {
+      "char": "🌍",
+      "label": "south africans fight for russia",
+      "url": "https://www.nytimes.com/2025/11/29/world/africa/south-africa-russia-ukraine-fighters-zuma.html",
+      "title": "South Africans Were Promised Job, but Ended Up ‘Going to War’ for Russia"
+    },
+    {
+      "char": "✈️",
+      "label": "uk mps aid for jamaica hurricane",
       "url": "https://www.theguardian.com/world/2025/nov/29/uk-mps-extra-aid-humanitarian-visas-jamaica-hurricane-melissa-dawn-butler",
       "title": "UK MPs push for extra aid and visas as Jamaica reels from Hurricane Melissa"
-    },
-    {
-      "char": "🔫",
-      "label": "us murder charge for guard attacker",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTRKa2VJWDk1UUlNLXRvNnNHSlRCTFZCQTFGUDZBUDBMNUpROF8xaldUN1c2UzZ1N25XSFo2ajV3bWZaemxhazI2WDRpMFF4UGF0ODNNcDI0cEkwMUtfLW1iOHRpRWk3eHBEZG5FTDBzWGdUSVRjM2RfdjlXQUxObWhpWmhkdXZyRzVaSTRKcUdFNktSWXM3WTlFOUNrVHY2TzFJNHl5ZU83cjFFbzgyNWdVQ3NaWl8xSzNSTE13?oc=5",
-      "title": "Accused National Guard attacker faces US murder charge, Trump wants to halt 'Third World' migration - Reuters"
-    },
-    {
-      "char": "🔥",
-      "label": "hong kong fire tests beijing's rule",
-      "url": "https://www.nytimes.com/2025/11/29/world/asia/hong-kong-fire-beijing-john-lee.html",
-      "title": "Deadly Hong Kong Fire Is a Test of Beijing’s Rule in the City"
-    },
-    {
-      "char": "🌳",
-      "label": "africa's forests carbon sink study",
-      "url": "https://www.theguardian.com/environment/2025/nov/28/africa-forests-transformed-carbon-sink-carbon-source-study",
-      "title": "Africa’s forests transformed from carbon sink to carbon source, study finds"
     }
   ],
   "source": "ai-openai"
