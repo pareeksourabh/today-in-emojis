@@ -4112,5 +4112,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-29",
+    "emojis": [
+      {
+        "char": "⛪",
+        "label": "runaway nuns in convent",
+        "url": "https://www.bbc.com/news/articles/c0l9z176lnlo?at_medium=RSS&at_campaign=rss",
+        "title": "Runaway nuns can stay in Alpine convent if they leave social media"
+      },
+      {
+        "char": "💔",
+        "label": "deadly israeli raid in syria",
+        "url": "https://www.bbc.com/news/articles/cp89k31krz4o?at_medium=RSS&at_campaign=rss",
+        "title": "Thirteen killed in deadliest Israeli raid for months in southern Syria"
+      },
+      {
+        "char": "🛑",
+        "label": "us halts asylum claims",
+        "url": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss",
+        "title": "US halts all asylum claim decisions in wake of National Guard shooting"
+      },
+      {
+        "char": "🇭🇺",
+        "label": "orban meets putin again",
+        "url": "https://www.bbc.com/news/articles/c058lny3pdqo?at_medium=RSS&at_campaign=rss",
+        "title": "Hungary's Orban defies EU partners and meets Putin again in Moscow"
+      },
+      {
+        "char": "🕊️",
+        "label": "quebec bans public prayer",
+        "url": "https://www.theguardian.com/world/2025/nov/28/quebec-prayer-law-canada",
+        "title": "Quebec to ban public prayer in sweeping new secularism law"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
