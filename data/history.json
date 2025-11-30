@@ -4502,5 +4502,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-30",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "india's pollution crisis",
+        "url": "https://www.nytimes.com/2025/11/30/world/asia/india-delhi-pollution.html",
+        "title": "India Is a Rising Power, but Its Capital Is a Lethal Gas Chamber"
+      },
+      {
+        "char": "🌪️",
+        "label": "jamaica hurricane aid push",
+        "url": "https://www.theguardian.com/world/2025/nov/29/uk-mps-extra-aid-humanitarian-visas-jamaica-hurricane-melissa-dawn-butler",
+        "title": "UK MPs push for extra aid and visas as Jamaica reels from Hurricane Melissa"
+      },
+      {
+        "char": "✝️",
+        "label": "pope calls for peace in mideast",
+        "url": "https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-two-state-solution-israel.html",
+        "title": "Pope Leo Calls for a Two-State Solution in Mideast Conflict"
+      },
+      {
+        "char": "⚔️",
+        "label": "violence in gaza escalates",
+        "url": "https://www.nytimes.com/2025/11/29/world/middleeast/israeli-forces-gaza-children-attack.html",
+        "title": "Gazans Say Israeli Forces Killed Two Children, Amid Persistent Violence"
+      },
+      {
+        "char": "✈️",
+        "label": "trump closes venezuela airspace",
+        "url": "https://www.theguardian.com/world/2025/nov/29/donald-trump-venezuela-airspace-closure",
+        "title": "Venezuela denounces ‘colonialist threat’ as Trump orders airspace closed"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
