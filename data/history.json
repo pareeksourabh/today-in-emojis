@@ -4307,5 +4307,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-30",
+    "emojis": [
+      {
+        "char": "🕌",
+        "label": "pope visits blue mosque",
+        "url": "https://www.bbc.com/news/articles/c4gp917zr8no?at_medium=RSS&at_campaign=rss",
+        "title": "Pope Leo visits Istanbul's Blue Mosque"
+      },
+      {
+        "char": "🔥",
+        "label": "hong kong fire tragedy",
+        "url": "https://www.nytimes.com/2025/11/29/world/asia/hong-kong-fire-beijing-john-lee.html",
+        "title": "Deadly Hong Kong Fire Is a Test of Beijing’s Rule in the City"
+      },
+      {
+        "char": "🇻🇪",
+        "label": "venezuela airspace closure",
+        "url": "https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss",
+        "title": "Venezuela calls Trump airspace closure warning 'colonialist threat'"
+      },
+      {
+        "char": "👧",
+        "label": "nigerian schoolgirls rescued",
+        "url": "https://www.theguardian.com/world/2025/nov/25/nigerian-schoolgirls-rescued-after-mass-abduction-in-kebbi",
+        "title": "Nigerian schoolgirls rescued after mass abduction in Kebbi"
+      },
+      {
+        "char": "🌪️",
+        "label": "uk aid for hurricane jamaica",
+        "url": "https://www.theguardian.com/world/2025/nov/29/uk-mps-extra-aid-humanitarian-visas-jamaica-hurricane-melissa-dawn-butler",
+        "title": "UK MPs push for extra aid and visas as Jamaica reels from Hurricane Melissa"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

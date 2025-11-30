@@ -1,19 +1,7 @@
 {
-  "date": "2025-11-29",
-  "timestamp": "2025-11-29T20:20:01Z",
+  "date": "2025-11-30",
+  "timestamp": "2025-11-30T01:07:59Z",
   "emojis": [
-    {
-      "char": "🇸🇾",
-      "label": "syria's transitional justice",
-      "url": "https://www.nytimes.com/2025/11/29/world/middleeast/syria-civil-war-assad.html",
-      "title": "Syria Tiptoes Toward Transitional Justice One Year After Assad’s Ouster"
-    },
-    {
-      "char": "✈️",
-      "label": "airbus jet recall",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEJzY0JxclRYSUYtTnJqSnA5NWJCVktNcElpMWVkaHZaQU4wS3duaTVLak94X05sUVFNR1piMEVGS3V2SFR2SGg0VEdZdWVZallXNjNzYUpRYnkzNndNNENNY0MwZnpZR2dVMFV2NFl3RUJHcVVVaEJhR0FuN1VjS0J1YXV6aEZjdGlQWGtmdmlDYXIzSEdER2RuZUxmdWVfdWdiT284R2Q3QmZQY1c3VFV5X3gydDRXYlpqQ0FPRGI3TzhI?oc=5",
-      "title": "Global airlines race to fix jets as Airbus apologises following A320 recall - Reuters"
-    },
     {
       "char": "🕌",
       "label": "pope visits blue mosque",
@@ -21,16 +9,28 @@
       "title": "Pope Leo visits Istanbul's Blue Mosque"
     },
     {
-      "char": "🇺🇦",
-      "label": "ukrainians in russia's gulag",
-      "url": "https://www.nytimes.com/2025/11/29/world/europe/the-ukrainians-stuck-in-russias-new-gulag.html",
-      "title": "The Ukrainians Stuck in Russia’s New Gulag"
+      "char": "🔥",
+      "label": "hong kong fire tragedy",
+      "url": "https://www.nytimes.com/2025/11/29/world/asia/hong-kong-fire-beijing-john-lee.html",
+      "title": "Deadly Hong Kong Fire Is a Test of Beijing’s Rule in the City"
     },
     {
-      "char": "💰",
-      "label": "gold and silver market update",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOanJ6eDJFRFNqYlByTEVTZkF3eklRdjdRcXlheVVaTkNQMFYyRlNmaXlQeW9jcnM5b0NmLWo4YVZyVEhJNHBWT3doS0I4c3FabVR1Y1U0Y0JkOHFnN3BTZXFYcXZuSTR2Sm1hTC1nd1dseGk5djBfNnRnZHN2SHBYZkhHQVUyaUhmMHFYS1lfVWR1aHFMei1PTTB0ZWRJcXV5c2k0Sw?oc=5",
-      "title": "Gold heads for fourth straight monthly gain; silver hits fresh record high - Reuters"
+      "char": "🇻🇪",
+      "label": "venezuela airspace closure",
+      "url": "https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss",
+      "title": "Venezuela calls Trump airspace closure warning 'colonialist threat'"
+    },
+    {
+      "char": "👧",
+      "label": "nigerian schoolgirls rescued",
+      "url": "https://www.theguardian.com/world/2025/nov/25/nigerian-schoolgirls-rescued-after-mass-abduction-in-kebbi",
+      "title": "Nigerian schoolgirls rescued after mass abduction in Kebbi"
+    },
+    {
+      "char": "🌪️",
+      "label": "uk aid for hurricane jamaica",
+      "url": "https://www.theguardian.com/world/2025/nov/29/uk-mps-extra-aid-humanitarian-visas-jamaica-hurricane-melissa-dawn-butler",
+      "title": "UK MPs push for extra aid and visas as Jamaica reels from Hurricane Melissa"
     }
   ],
   "source": "ai-openai"
