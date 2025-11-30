@@ -4385,5 +4385,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-11-30",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "ukraine under attack from russia",
+        "url": "https://www.nytimes.com/2025/11/29/world/europe/ukraine-kyiv-missiles.html",
+        "title": "Russia Bombards Ukraine for Nearly 10 Hours in a Deadly Assault"
+      },
+      {
+        "char": "🌪️",
+        "label": "jamaica seeks aid after hurricane",
+        "url": "https://www.theguardian.com/world/2025/nov/29/uk-mps-extra-aid-humanitarian-visas-jamaica-hurricane-melissa-dawn-butler",
+        "title": "UK MPs push for extra aid and visas as Jamaica reels from Hurricane Melissa"
+      },
+      {
+        "char": "🇦🇺",
+        "label": "australian pm makes history with wedding",
+        "url": "https://www.bbc.com/news/articles/ce865kpdzz8o?at_medium=RSS&at_campaign=rss",
+        "title": "Australian prime minister becomes first to wed in office"
+      },
+      {
+        "char": "🎉",
+        "label": "nigerian schoolgirls rescued from abduction",
+        "url": "https://www.theguardian.com/world/2025/nov/25/nigerian-schoolgirls-rescued-after-mass-abduction-in-kebbi",
+        "title": "Nigerian schoolgirls rescued after mass abduction in Kebbi"
+      },
+      {
+        "char": "🔥",
+        "label": "mourning victims of hong kong fire",
+        "url": "https://www.nytimes.com/2025/11/29/world/asia/mourners-hong-kong-fire.html",
+        "title": "Mourners Honor Victims of Hong Kong Apartment Fire"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
