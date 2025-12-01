@@ -4619,5 +4619,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-01",
+    "emojis": [
+      {
+        "char": "🏛️",
+        "label": "uk mp sentenced in bangladesh",
+        "url": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss",
+        "title": "UK MP Tulip Siddiq given jail sentence in Bangladesh after trial in her absence"
+      },
+      {
+        "char": "📉",
+        "label": "asia's factories struggle with trade",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMlpkRDUxSVBOSHF3d3cxWXAxdzFpT1dlVXBLUlZvejJGQkI0R20wTzdUOWFoLXFYQm9nWk5Dc2xLNGFlTUdwaVpjMFZhLVUtcDRuWWdzd2tManBpWU9WakpuT2wtNWhWZWhZTGR6YVRUVWhZR3hpUEVvLTd6T3RnSDBudEQyTEk4VHZORWRUckxyVDNwTmRUemxib1ltUjI3TnBGM01FUWlKUm9kMkZnZms1dThpdzJ2b2hLUw?oc=5",
+        "title": "Asia's factories stumble as US trade deals fail to revive demand - Reuters"
+      },
+      {
+        "char": "🤝",
+        "label": "netanyahu seeks presidential pardon",
+        "url": "https://www.bbc.com/news/articles/c4gv76r5qpvo?at_medium=RSS&at_campaign=rss",
+        "title": "Benjamin Netanyahu seeks pardon from Israel's president"
+      },
+      {
+        "char": "🌪️",
+        "label": "uk aids jamaica after hurricane",
+        "url": "https://www.theguardian.com/world/2025/nov/29/uk-mps-extra-aid-humanitarian-visas-jamaica-hurricane-melissa-dawn-butler",
+        "title": "UK MPs push for extra aid and visas as Jamaica reels from Hurricane Melissa"
+      },
+      {
+        "char": "🔥",
+        "label": "migrant workers mourn fire victims",
+        "url": "https://www.nytimes.com/2025/11/30/world/asia/hongkong-fire-domestic-workers.html",
+        "title": "Hong Kong’s Migrant Domestic Workers Mourn Their Losses in Deadly Fire"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
