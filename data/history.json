@@ -4541,5 +4541,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-01",
+    "emojis": [
+      {
+        "char": "🌳",
+        "label": "africa's forests carbon source study",
+        "url": "https://www.theguardian.com/environment/2025/nov/28/africa-forests-transformed-carbon-sink-carbon-source-study",
+        "title": "Africa’s forests transformed from carbon sink to carbon source, study finds"
+      },
+      {
+        "char": "🇿🇦",
+        "label": "zuma's daughter resigns amid claims",
+        "url": "https://www.theguardian.com/world/2025/nov/28/jacob-zuma-daughter-resigns-claims-south-africans-tricked-fight-russia",
+        "title": "Jacob Zuma’s daughter resigns amid claims South Africans tricked to fight for Russia"
+      },
+      {
+        "char": "✌️",
+        "label": "pope leo calls for two-state solution",
+        "url": "https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-two-state-solution-israel.html",
+        "title": "Pope Leo Calls for a Two-State Solution in Mideast Conflict"
+      },
+      {
+        "char": "🔥",
+        "label": "mourners honor victims of hong kong fire",
+        "url": "https://www.nytimes.com/2025/11/29/world/asia/mourners-hong-kong-fire.html",
+        "title": "Mourners Honor Victims of Hong Kong Apartment Fire"
+      },
+      {
+        "char": "🗳️",
+        "label": "hondurans vote amid trump threats",
+        "url": "https://www.theguardian.com/world/2025/nov/30/honduras-vote-election-trump-threat-cut-aid-if-nasry-tito-asfura-loses",
+        "title": "Hondurans vote amid Trump threat to cut aid if his preferred candidate loses"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
