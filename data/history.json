@@ -4580,5 +4580,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-01",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "dignitas founder dies by assisted suicide",
+        "url": "https://www.bbc.com/news/articles/c79x8x82gy4o?at_medium=RSS&at_campaign=rss",
+        "title": "Dignitas founder dies by assisted suicide aged 92, group says"
+      },
+      {
+        "char": "🎬",
+        "label": "disney's 'zootopia 2' box office success",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbl8wZ3VYeVVLT2E1Q09wRjBvc2pnemx0Zm0ydkhfOE9oYmNtb2tQUWMxenFyU0o1RFZiRkl1bWpKNE1sb19Wd1ZXV1JMVEd4SWlIaTVLdUxyVGZWNHd5ZlhPUzM4NWs2N1FPUXB3OUI2clpHYXBnMkxmbDRsZk93N3hTenRtQmtDb2xCSFp4aVJJVkxkbHplUGpZOEgyUWxhRVNV?oc=5",
+        "title": "Disney's 'Zootopia 2' fuels box office frenzy with $556 million worldwide - Reuters"
+      },
+      {
+        "char": "⚔️",
+        "label": "ww1 toxic compound used on protesters",
+        "url": "https://www.bbc.com/news/articles/czrk7g50e1po?at_medium=RSS&at_campaign=rss",
+        "title": "WW1 toxic compound sprayed on Georgian protesters, BBC evidence suggests"
+      },
+      {
+        "char": "✈️",
+        "label": "taiwan airline counters china with flights",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWDVFR1NBbUJkaE8yVVhXQy1iLUV0LUtWUm5uX25qV3hmU3d1cW1ZQzQwb1JQSmxKRFlheExWSjYyREItWGp5TXJqdXl5clIzYWt1dUMwTzFtVDRkd1JzS29meF9QbkN2RGdaR1NmZE5YZEVmcTc2elRsSVVMdnBnUTBfZHQxd0MtbG05UDFjbUN4N0JkTHFFLWZtUVZVeHNlZkFZRTFjcVVsZTJkT1JwZGRGTFBiR1Z0SkdHdmtCMjR5S3ZVbHY1dTlQSHB5dkxTaWc?oc=5",
+        "title": "Taiwan airline seeks role in 'whole of society' defence with surveillance flights to counter China - Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "pakistan expels afghans amid taliban rule",
+        "url": "https://www.nytimes.com/2025/11/30/world/asia/pakistan-afghans-mass-expulsions.html",
+        "title": "Fed Up With the Taliban, Pakistan Expels Masses of Afghans"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
