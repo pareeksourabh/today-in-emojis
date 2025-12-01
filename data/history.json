@@ -4658,5 +4658,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-01",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "pope leo's first foreign trip",
+        "url": "https://www.bbc.com/news/articles/cvgrwedyr0eo?at_medium=RSS&at_campaign=rss",
+        "title": "Pope Leo finds his voice on first foreign trip"
+      },
+      {
+        "char": "🚨",
+        "label": "escape from war in sudan",
+        "url": "https://www.bbc.com/news/articles/cpvdn8pmmd1o?at_medium=RSS&at_campaign=rss",
+        "title": "'I saw them driving over injured people' - the terrifying escape from war in Sudan"
+      },
+      {
+        "char": "🗳️",
+        "label": "honduras election on a knife edge",
+        "url": "https://www.bbc.com/news/articles/cx2dgp8mvmno?at_medium=RSS&at_campaign=rss",
+        "title": "Honduras election on a knife edge as Trump-backed man slightly ahead"
+      },
+      {
+        "char": "🌪️",
+        "label": "sri lanka cyclone disaster",
+        "url": "https://www.nytimes.com/2025/12/01/world/asia/sri-lanka-floods-cyclone.html",
+        "title": "Sri Lanka Declares ‘Largest’ Disaster as Cyclone Death Toll Rises to 355"
+      },
+      {
+        "char": "🌍",
+        "label": "aid cuts impact on global health",
+        "url": "https://www.theguardian.com/global-development/2025/dec/01/global-health-hiv-aids-funding-cuts-infections-prevention",
+        "title": "Aid cuts have shaken HIV/Aids care to its core – and will mean millions more infections ahead"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
