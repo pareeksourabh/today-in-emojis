@@ -4736,5 +4736,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-01",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "honduras election on a knife edge",
+        "url": "https://www.bbc.com/news/articles/cx2dgp8mvmno?at_medium=RSS&at_campaign=rss",
+        "title": "Honduras election on a knife edge as Trump-backed man slightly ahead"
+      },
+      {
+        "char": "🌫️",
+        "label": "delhi's hazardous air pollution",
+        "url": "https://www.nytimes.com/2025/11/30/world/asia/india-delhi-pollution.html",
+        "title": "India Is a Rising Power, but Breathing in Its Capital Is Hazardous"
+      },
+      {
+        "char": "🚨",
+        "label": "pakistan expels afghans amid taliban rule",
+        "url": "https://www.nytimes.com/2025/11/30/world/asia/pakistan-afghans-mass-expulsions.html",
+        "title": "Fed Up With the Taliban, Pakistan Expels Masses of Afghans"
+      },
+      {
+        "char": "🌍",
+        "label": "pope calls for two-state solution",
+        "url": "https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-two-state-solution-israel.html",
+        "title": "Pope Leo Calls for a Two-State Solution in Mideast Conflict"
+      },
+      {
+        "char": "🔥",
+        "label": "haiti faces gang violence and attacks",
+        "url": "https://www.theguardian.com/world/2025/dec/01/haiti-armed-gangs-attack-artibonite",
+        "title": "Hundreds flee central Haiti after gangs launch large-scale attacks and burn homes"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
