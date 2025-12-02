@@ -4814,5 +4814,44 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2025-12-02",
+    "emojis": [
+      {
+        "char": "🇻🇪",
+        "label": "trump's ultimatum to maduro",
+        "url": "https://www.theguardian.com/world/2025/dec/01/trump-maduro-ultimatum-relinquish-power-venezuela",
+        "title": "Trump reportedly gave Maduro ultimatum to relinquish power in Venezuela"
+      },
+      {
+        "char": "🌳",
+        "label": "africa's forests carbon shift",
+        "url": "https://www.theguardian.com/environment/2025/nov/28/africa-forests-transformed-carbon-sink-carbon-source-study",
+        "title": "Africa’s forests transformed from carbon sink to carbon source, study finds"
+      },
+      {
+        "char": "💊",
+        "label": "mexico kills top fentanyl trafficker",
+        "url": "https://www.theguardian.com/world/2025/dec/01/mexico-kill-drug-trafficker-el-pichon-pedro-inzunza-coronel",
+        "title": "Mexican authorities kill one of country’s top fentanyl traffickers"
+      },
+      {
+        "char": "🌊",
+        "label": "indonesia floods death toll rises",
+        "url": "https://www.bbc.com/news/articles/c4g4enlp6kzo?at_medium=RSS&at_campaign=rss",
+        "title": "Death toll in Indonesia floods passes 500 with hundreds more missing"
+      },
+      {
+        "char": "🕊️",
+        "label": "pope calls for two-state solution",
+        "url": "https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-two-state-solution-israel.html",
+        "title": "Pope Leo Calls for a Two-State Solution in Mideast Conflict"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
