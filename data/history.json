@@ -4970,5 +4970,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-02",
+    "emojis": [
+      {
+        "char": "🌳",
+        "label": "africa's forests carbon sink study",
+        "url": "https://www.theguardian.com/environment/2025/nov/28/africa-forests-transformed-carbon-sink-carbon-source-study",
+        "title": "Africa’s forests transformed from carbon sink to carbon source, study finds"
+      },
+      {
+        "char": "🇻🇪",
+        "label": "trump threatens venezuela's maduro",
+        "url": "https://www.bbc.com/news/articles/c93n4nx5yqro?at_medium=RSS&at_campaign=rss",
+        "title": "Why is Trump threatening Venezuela's Maduro?"
+      },
+      {
+        "char": "🗳️",
+        "label": "trump alleges fraud in honduras election",
+        "url": "https://www.nytimes.com/2025/12/02/world/americas/honduras-presidential-vote-trump.html",
+        "title": "Trump Alleges Fraud, Without Evidence, in Honduras Election"
+      },
+      {
+        "char": "🙏",
+        "label": "pope prays at beirut port blast site",
+        "url": "https://www.bbc.com/news/articles/cn41jge1990o?at_medium=RSS&at_campaign=rss",
+        "title": "Pope prays at Beirut port blast site on last day of Lebanon visit"
+      },
+      {
+        "char": "🌧️",
+        "label": "floods in southeast asia kill over 1200",
+        "url": "https://www.nytimes.com/2025/12/01/world/asia/flooding-sri-lanka-indonesia-thailand-vietnam-cyclone-rain.html",
+        "title": "Floods in Indonesia, Sri Lanka, Thailand and Vietnam Have Killed Over 1,200. Here’s What to Know."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
