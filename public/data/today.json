@@ -1,36 +1,36 @@
 {
-  "date": "2025-12-01",
-  "timestamp": "2025-12-01T20:19:30Z",
+  "date": "2025-12-02",
+  "timestamp": "2025-12-02T01:01:34Z",
   "emojis": [
     {
-      "char": "🗳️",
-      "label": "honduras election on a knife edge",
-      "url": "https://www.bbc.com/news/articles/cx2dgp8mvmno?at_medium=RSS&at_campaign=rss",
-      "title": "Honduras election on a knife edge as Trump-backed man slightly ahead"
+      "char": "🌧️",
+      "label": "floods in southeast asia",
+      "url": "https://www.nytimes.com/2025/12/01/world/asia/flooding-sri-lanka-indonesia-thailand-vietnam-cyclone-rain.html",
+      "title": "Floods in Indonesia, Sri Lanka, Thailand and Vietnam Have Killed Over 1,200. Here’s What to Know."
     },
     {
-      "char": "🌫️",
-      "label": "delhi's hazardous air pollution",
-      "url": "https://www.nytimes.com/2025/11/30/world/asia/india-delhi-pollution.html",
-      "title": "India Is a Rising Power, but Breathing in Its Capital Is Hazardous"
+      "char": "🤝",
+      "label": "trump's controversial pardon",
+      "url": "https://www.theguardian.com/us-news/2025/dec/01/trump-pardon-juan-orlando-hernandez-honduras-former-president",
+      "title": "Trump’s pardon of Honduras’s ex-president shows counter-drug effort is ‘based on lies and hypocrisy’"
     },
     {
-      "char": "🚨",
-      "label": "pakistan expels afghans amid taliban rule",
-      "url": "https://www.nytimes.com/2025/11/30/world/asia/pakistan-afghans-mass-expulsions.html",
-      "title": "Fed Up With the Taliban, Pakistan Expels Masses of Afghans"
+      "char": "🇮🇷",
+      "label": "iran loosens social restrictions",
+      "url": "https://www.nytimes.com/2025/12/01/world/middleeast/iran-loosening-social-restrictions.html",
+      "title": "Outdoor Concerts? Uncovered Hair? Shimmying in Public? Is This Iran?"
     },
     {
       "char": "🌍",
-      "label": "pope calls for two-state solution",
-      "url": "https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-two-state-solution-israel.html",
-      "title": "Pope Leo Calls for a Two-State Solution in Mideast Conflict"
+      "label": "african leaders seek reparations",
+      "url": "https://www.theguardian.com/world/2025/nov/30/african-leaders-push-for-recognition-of-colonial-crimes-and-reparations",
+      "title": "African leaders push for recognition of colonial crimes and reparations"
     },
     {
-      "char": "🔥",
-      "label": "haiti faces gang violence and attacks",
-      "url": "https://www.theguardian.com/world/2025/dec/01/haiti-armed-gangs-attack-artibonite",
-      "title": "Hundreds flee central Haiti after gangs launch large-scale attacks and burn homes"
+      "char": "💨",
+      "label": "delhi's hazardous pollution",
+      "url": "https://www.nytimes.com/2025/11/30/world/asia/india-delhi-pollution.html",
+      "title": "India Is a Rising Power, but Breathing in Its Capital Is Hazardous"
     }
   ],
   "source": "ai-openai"
