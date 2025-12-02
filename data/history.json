@@ -4931,5 +4931,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-02",
+    "emojis": [
+      {
+        "char": "🇨🇳",
+        "label": "china urges europe against japan",
+        "url": "https://www.nytimes.com/2025/12/02/world/asia/china-japan-taiwan-europe.html",
+        "title": "China, Evoking World War II, Urges Europe to Take Its Side Against Japan"
+      },
+      {
+        "char": "📉",
+        "label": "amazon cuts seller fees in europe",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2FISklwWGRPOEtkekVEMFE4blIxWk9VT3pZbmJDTmk4SUZMQl9GdXM5bHdjS19mU2NMcDAyallQaTJiMDFSOWltdEZ4bkpyUUl1VWtxQm9RNVdDVGsyS1ZtVjR6SUVjeUhRN2x4OHRSYmdtNUtpblZFSVAxa2RYemptUThVa3lHa3pEeGZ2OEFFRW1CM0V1MkRLeS1Jc01JVExCWFVGVVpxM196NmNBMjNB?oc=5",
+        "title": "Amazon cuts seller fees in Europe in Shein, Temu price war - Reuters"
+      },
+      {
+        "char": "🌳",
+        "label": "africa's forests carbon source study",
+        "url": "https://www.theguardian.com/environment/2025/nov/28/africa-forests-transformed-carbon-sink-carbon-source-study",
+        "title": "Africa’s forests transformed from carbon sink to carbon source, study finds"
+      },
+      {
+        "char": "🗳️",
+        "label": "bulgaria protests budget plan ditch",
+        "url": "https://www.bbc.com/news/articles/cjezwzw088jo?at_medium=RSS&at_campaign=rss",
+        "title": "Bulgaria ditches budget plan after tens of thousands join protests"
+      },
+      {
+        "char": "⚖️",
+        "label": "el chapo's son plea deal details",
+        "url": "https://www.theguardian.com/world/2025/dec/02/el-chapo-son-plea-deal-el-mayo-zambada",
+        "title": "Plea deal for drug kingpin El Chapo’s son details abduction of cartel boss"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
