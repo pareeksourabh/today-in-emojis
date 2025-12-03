@@ -5204,5 +5204,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-03",
+    "emojis": [
+      {
+        "char": "🖥️",
+        "label": "microsoft denies ai sales report",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc1p3bXpETmtxNWlzWmE4QkZxQThYYjRtRTExN2pzTEdWVDY4QTdwNXhhYlk4cHdvWWZDTjFNVlpCU19jaEQzSGt1N21kWjZQLTFOYjhEQXl3RW5TLTd6SkpfYmJaQWRuQlVHZzlCUW5UeDdHXzdHZHI2eWRQZm9hQTBVUGtRd19ZaEVmc2tMWWtuaVlXTDJzYVE4ZXdwdkpTNTBlNkxnMWQ3VTFBbHhyYWVOdVBqa19q?oc=5",
+        "title": "Microsoft denies report of lowering targets for AI software sales growth - Reuters"
+      },
+      {
+        "char": "🚺",
+        "label": "uk women's groups ban trans women",
+        "url": "https://www.nytimes.com/2025/12/03/world/europe/uk-trans-ban-womens-institute-girl-guides.html",
+        "title": "Two U.K. Women’s Groups Ban Transgender Girls and Women"
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukraine peace talks with russia",
+        "url": "https://www.nytimes.com/2025/12/03/world/europe/russia-putin-ukraine-peace-deal.html",
+        "title": "Weak Spots Are Few for Russia in Ukraine Peace Talks"
+      },
+      {
+        "char": "🐢",
+        "label": "franklin the turtle controversy",
+        "url": "https://www.theguardian.com/us-news/2025/dec/02/pete-hegseth-franklin-the-turtle",
+        "title": "Publisher condemns ‘violent’ use of Franklin the Turtle after Hegseth’s boat strike post"
+      },
+      {
+        "char": "🇰🇪",
+        "label": "kenyan troops human rights violations",
+        "url": "https://www.bbc.com/news/articles/cvgq5dvygllo?at_medium=RSS&at_campaign=rss",
+        "title": "Kenyan MPs accuse British soldiers of decades of sexual abuse"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
