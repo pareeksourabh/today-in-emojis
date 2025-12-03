@@ -5126,5 +5126,44 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2025-12-03",
+    "emojis": [
+      {
+        "char": "📉",
+        "label": "indian shares drop on trade deal fears",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXp6SmVub3Q5WVdxclVmT3ZEVTlHNGNHZEpFXzZTblNZVWZBaG8zWGZUOW9SU3FocDRKZURHYmZaZTVaakcya3EtWkhiLWhuaDdObnF6RWlFWjA0SXZYODJndEQzYzB4SGh5YVJMNWNLVFVEN2h5bEdxTVo5YlZ0NjNtWVBpX0pQQ2psUTBkc1Yxc0EyT05iYkE0THU4Tk8wZHRmS1JhM0RpUFE?oc=5",
+        "title": "Indian shares extend losses on trade deal jitters, rupee at record low - Reuters"
+      },
+      {
+        "char": "🕵️‍♀",
+        "label": "mogherini accused in fraud case",
+        "url": "https://www.bbc.com/news/articles/c2lvzrve5lqo?at_medium=RSS&at_campaign=rss",
+        "title": "Former EU top diplomat Mogherini accused in fraud investigation"
+      },
+      {
+        "char": "🇺🇸",
+        "label": "trump targets somali immigrants in us",
+        "url": "https://www.bbc.com/news/articles/c208x9v68w3o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump says he does not want Somalis in US as ICE plans Minnesota operation"
+      },
+      {
+        "char": "🐋",
+        "label": "debate over shark nets in sydney",
+        "url": "https://www.nytimes.com/2025/12/03/world/australia/sydney-shark-nets-australia.html",
+        "title": "A Question Circling Sydney’s Beaches: Do We Still Need Shark Nets?"
+      },
+      {
+        "char": "🦝",
+        "label": "drunk raccoon found in liquor store",
+        "url": "https://www.bbc.com/news/articles/cy8jnxxm70jo?at_medium=RSS&at_campaign=rss",
+        "title": "Drunk raccoon found passed out on liquor store floor after breaking in"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
