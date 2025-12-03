@@ -5165,5 +5165,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-03",
+    "emojis": [
+      {
+        "char": "🌊",
+        "label": "three teens drown in swimming pool",
+        "url": "https://www.bbc.com/news/articles/c1m8g5x1xmko?at_medium=RSS&at_campaign=rss",
+        "title": "Three French teens drown after car crashes upside down in swimming pool"
+      },
+      {
+        "char": "💻",
+        "label": "marvell boosts ai ambitions",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUFxdndrd2swZ296dVFkSnZhMEE1ZDkzenN2WTVMaG95ZTkteTZHdEhVeHNZRHhXNVI4Sk5GQUtSRjFUcG1YRW51d0xOYklWNXRTRFFDYWVEZ0JpcHpJN25VbnQ2ODJRNWZVRWd0Y3lGTlkwNGVRZFZOeW9yLTZ3QlJERklUcURrM0xnVDQycVB5X25ScTI0OFZoamdaS1MtWW1ud2phWU9mUW5MV1B4TWtSdXZHZVE?oc=5",
+        "title": "Marvell shares jump as chipmaker bolsters AI ambitions with Celestial deal - Reuters"
+      },
+      {
+        "char": "🐾",
+        "label": "drunk raccoon found in store",
+        "url": "https://www.bbc.com/news/articles/cy8jnxxm70jo?at_medium=RSS&at_campaign=rss",
+        "title": "Drunk raccoon found passed out on liquor store floor after breaking in"
+      },
+      {
+        "char": "🏭",
+        "label": "monterrey pollution crisis",
+        "url": "https://www.theguardian.com/us-news/2025/dec/02/monterrey-mexico-air-quality-industrial-pollution",
+        "title": "Revealed: Mexico’s industrial boomtown is making goods for the US. Residents say they’re ‘breathing poison’"
+      },
+      {
+        "char": "🇺🇸",
+        "label": "trump targets somali immigrants",
+        "url": "https://www.theguardian.com/us-news/2025/dec/02/trump-somali-immigrants-minnesota",
+        "title": "Trump calls Somali immigrants ‘garbage’ as US reportedly targets Minnesota community"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
