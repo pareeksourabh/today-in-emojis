@@ -5009,5 +5009,44 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2025-12-03",
+    "emojis": [
+      {
+        "char": "📉",
+        "label": "at&t ends dei programs",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdEtyZ2VmYWJ3ZjByX1l3aHd4dXFUdWVZYV9IUGQydzFsWGFkektFX2JjRE84V20wZ0F0ODBWSnVCb25yTXV1dUs5MDNlZHBaSGpGV3Q3eERTcF9BUGJ2WDg1dl9MZkpUUThrM2hqQTFyX2RVNElrcGFrMWp4d1Vra3U2MjlVOHlvYWZsVGhUM1hPczBxNlN5emZ2c3NYdw?oc=5",
+        "title": "AT&T commits to ending DEI programs - Reuters"
+      },
+      {
+        "char": "🇻🇪",
+        "label": "trump threatens maduro",
+        "url": "https://www.bbc.com/news/articles/c93n4nx5yqro?at_medium=RSS&at_campaign=rss",
+        "title": "Why is Trump threatening Venezuela's Maduro?"
+      },
+      {
+        "char": "🔥",
+        "label": "hong kong fire investigation",
+        "url": "https://www.bbc.com/news/articles/ce8ng18p7v3o?at_medium=RSS&at_campaign=rss",
+        "title": "Hong Kong leader orders investigation into deadly fire that killed 151"
+      },
+      {
+        "char": "🌍",
+        "label": "monterrey pollution concerns",
+        "url": "https://www.theguardian.com/us-news/2025/dec/02/monterrey-mexico-air-quality-industrial-pollution",
+        "title": "Revealed: Mexico’s industrial boomtown is making goods for the US. Residents say they’re ‘breathing poison’"
+      },
+      {
+        "char": "⚖️",
+        "label": "honduras election turmoil",
+        "url": "https://www.theguardian.com/world/2025/dec/02/trump-intervention-honduras-presidential-vote-count-stalls-nasry-asfura",
+        "title": "Trump frees ex-Honduran president from prison as country awaits knife-edge election result"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
