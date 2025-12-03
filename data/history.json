@@ -5087,5 +5087,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-03",
+    "emojis": [
+      {
+        "char": "🇷🇺",
+        "label": "putin and witkoff meet on ukraine",
+        "url": "https://www.nytimes.com/2025/12/02/world/europe/putin-witkoff-trump-ukraine-meeting.html",
+        "title": "Putin and Witkoff Meet in Russia as U.S. Pushes Ukraine Deal"
+      },
+      {
+        "char": "🇵🇭",
+        "label": "marcos vs marcos in philippine politics",
+        "url": "https://www.nytimes.com/2025/12/02/world/asia/bongbong-imee-marcos-feud.html",
+        "title": "Marcos vs. Marcos: The New Front in Philippine Politics"
+      },
+      {
+        "char": "🌧️",
+        "label": "flood control issues in the philippines",
+        "url": "https://www.nytimes.com/2025/12/02/world/asia/phillipines-flood-control-corruption.html",
+        "title": "The Philippines Spent Big on Flood Control, but the Water Keeps Rising"
+      },
+      {
+        "char": "🇻🇪",
+        "label": "maduro faces military threats from trump",
+        "url": "https://www.nytimes.com/2025/12/02/world/americas/venezuela-nicolas-maduro-trump.html",
+        "title": "Maduro Faces His Ultimate Fight as Trump Threatens Military Action in Venezuela"
+      },
+      {
+        "char": "🌍",
+        "label": "st lucia election results",
+        "url": "https://www.theguardian.com/world/2025/dec/02/st-lucia-election-prime-minister-philip-pierre-wins",
+        "title": "St Lucia prime minister Philip Pierre keeps majority as ruling party wins"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
