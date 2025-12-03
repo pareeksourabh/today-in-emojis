@@ -5048,5 +5048,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-03",
+    "emojis": [
+      {
+        "char": "🇱🇨",
+        "label": "st lucia election results",
+        "url": "https://www.theguardian.com/world/2025/dec/02/st-lucia-election-prime-minister-philip-pierre-wins",
+        "title": "St Lucia prime minister Philip Pierre keeps majority as ruling party wins"
+      },
+      {
+        "char": "💰",
+        "label": "australia's economy outlook",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR2wyZ3cwSXVrZGxFVGxuZXN5ZHN1RzVqY1g1RzYxRTV4UGdsUkJILWpMYzg1ZExuSHFkNi1CYVRxX0N4QkpQalVRUENfSXE4YVlRLWZWcGJrd0w2bFF2YWl6NU5hTkpndnlpcDcyVmR4NF8tcXhRRllMUVpTQ1JBNnpSSVhIWXRtNWs2NjBfYWdXS2xGbkNONjRWTDNLMFlNcGZQOWJQTlBGX1VQOGROaWhxcmV6ZzhFRU5QUDJWdGNVZ2NJZWc?oc=5",
+        "title": "Australia's economy likely already bumping up against speed limits, top central banker says - Reuters"
+      },
+      {
+        "char": "⚓",
+        "label": "us navy strikes in venezuela",
+        "url": "https://www.bbc.com/news/articles/c0r95q9kv1go?at_medium=RSS&at_campaign=rss",
+        "title": "US Navy admiral ordered second  deadly Venezuela boat strike, White House says"
+      },
+      {
+        "char": "🌊",
+        "label": "floods in southeast asia",
+        "url": "https://www.nytimes.com/2025/12/01/world/asia/flooding-sri-lanka-indonesia-thailand-vietnam-cyclone-rain.html",
+        "title": "Floods in Indonesia, Sri Lanka, Thailand and Vietnam Have Killed Over 1,200. Here’s What to Know."
+      },
+      {
+        "char": "🕊️",
+        "label": "pope visits beirut port",
+        "url": "https://www.nytimes.com/2025/12/02/world/middleeast/pope-leo-beirut-lebanon.html",
+        "title": "Thousands Greet Pope Leo as He Prays Near Site of Beirut Port Blast"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
