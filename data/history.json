@@ -5282,5 +5282,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-04",
+    "emojis": [
+      {
+        "char": "🤖",
+        "label": "ai tool for investors",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWNOSjI3UGJ1QndkWUtVOFhlME1SQlMwRGlmd3RtRk9lMXoxTWI0N2xTYmZ2QkhCWHVabE44Q0h0SlRGWG9oLUJBMEh1bzdyUTNEb1N5ajRTdzB1RTYxQ3NleXY2c2NDTWdqMHBja1BxUWhTb1pkT1U1VEpmTFlUVWVMeFNPT25lRXhSRjl1MzlTZzRZUFJpRVN1cDJjbXFtS19UZW9YYnFuNEh4WGNIRQ?oc=5",
+        "title": "Citadel debuts new AI tool for equities investors, CTO Subramanian says - Reuters"
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukraine us talks in florida",
+        "url": "https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine and US negotiators to meet in Florida after Moscow talks, White House says"
+      },
+      {
+        "char": "🔥",
+        "label": "hong kong fire aftermath",
+        "url": "https://www.bbc.com/news/articles/c62lv79p0pdo?at_medium=RSS&at_campaign=rss",
+        "title": "Hong Kong orders removal of scaffolding mesh after deadly blaze"
+      },
+      {
+        "char": "🕊️",
+        "label": "whistleblower on sudan genocide",
+        "url": "https://www.theguardian.com/global-development/2025/dec/03/whistleblower-accuses-foreign-office-of-censoring-warning-of-sudan-genocide",
+        "title": "Whistleblower accuses Foreign Office of ‘censoring’ warning of Sudan genocide"
+      },
+      {
+        "char": "🏳️‍⚧",
+        "label": "uk women's groups trans ban",
+        "url": "https://www.nytimes.com/2025/12/03/world/europe/uk-trans-ban-womens-institute-girl-guides.html",
+        "title": "Two U.K. Women’s Groups Ban Transgender Girls and Women"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
