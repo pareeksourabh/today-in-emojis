@@ -5438,5 +5438,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-04",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "epstein's island images released",
+        "url": "https://www.bbc.com/news/articles/c4g5rrlve33o?at_medium=RSS&at_campaign=rss",
+        "title": "Previously unseen images of Epstein's island released"
+      },
+      {
+        "char": "💥",
+        "label": "militant leader killed in gaza",
+        "url": "https://www.nytimes.com/2025/12/04/world/middleeast/yasser-abu-shabab-killed-gaza.html",
+        "title": "Yasser Abu Shabab, Militant Leader Backed by Israel, Is Killed in Gaza, Official Says"
+      },
+      {
+        "char": "🎤",
+        "label": "ireland boycotts eurovision over israel",
+        "url": "https://www.bbc.com/news/articles/cde6d8wyp79o?at_medium=RSS&at_campaign=rss",
+        "title": "Ireland among countries boycotting Eurovision after Israel allowed to compete"
+      },
+      {
+        "char": "🚢",
+        "label": "us military strike inquiry in caribbean",
+        "url": "https://www.theguardian.com/us-news/2025/dec/04/video-second-boat-strike-military-caribbean",
+        "title": "US lawmakers call for inquiry into second US military strike on alleged Caribbean drug boat"
+      },
+      {
+        "char": "⚡",
+        "label": "uk energy bills rise after grid upgrade",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQTZMVi1lWXJfMzlXb3JIQkRFVmM0OC04OGEyS0VGSDgtb2Y3c1p6QlcxcGRnWnB0b2QzQWpFdEt3amU0aHF0bUdMSVJ3Tnp3bVJielVhLTZVWWVPeHhkUnU2NG1vamhSRDh1b20wYzBjRFExX2VNYXRJb01tY1VsYlRWU2ZTeF80Yzc5OS1Obm0xSG45NmVOOXR3SzUxMWRk?oc=5",
+        "title": "UK consumers face higher energy bills after regulator approves $37 billion grid upgrade - Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
