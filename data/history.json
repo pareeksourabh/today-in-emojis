@@ -5243,5 +5243,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-04",
+    "emojis": [
+      {
+        "char": "💰",
+        "label": "fed pain for the dollar",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmsyMW1zU2w2T0p1UWZUb0dOMnNoQTh5VDdham9sQVF0M3U5STlHRlc1d2daWWFyTk5UOHY1Qmo3Mmh1ZXNvN1ZBTnZQSHdQdDFJOGRPYkQ3Y05Lck82OWdnbHhOc19aMF9PdXdMZHk5M3hwblZfeWcxX1FIZGNYdVhR?oc=5",
+        "title": "Morning Bid: Just a blip for risk assets, more Fed pain for the dollar - Reuters"
+      },
+      {
+        "char": "🛑",
+        "label": "whistleblower warns of genocide",
+        "url": "https://www.theguardian.com/global-development/2025/dec/03/whistleblower-accuses-foreign-office-of-censoring-warning-of-sudan-genocide",
+        "title": "Whistleblower accuses Foreign Office of ‘censoring’ warning of Sudan genocide"
+      },
+      {
+        "char": "⚖️",
+        "label": "south africans in court over recruitment",
+        "url": "https://www.theguardian.com/world/2025/dec/01/south-africans-court-alleged-recruitment-russia-war-ukraine",
+        "title": "Five South Africans in court over alleged recruitment for Russia’s war in Ukraine"
+      },
+      {
+        "char": "📈",
+        "label": "stocks gain as yields drop",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR2dUYUd4WVpqUG5CV014aU1ELURDS0Iwbkx4d2NvZzZETEtCOGE2RzVPQ1hIR3JQTS1YcGdzaWdLUXFJM0w2cU96Y0VMblNTN1JlSVUwNGNBbTNLeEpnYW9ZRWFOOUJVTHFXdnAxSElvbXhKaG9ld0doQmI2M2M4SjNfUQ?oc=5",
+        "title": "Stocks gain, US yields drop as markets weigh likely Fed rate cut - Reuters"
+      },
+      {
+        "char": "🐻",
+        "label": "canada defends polar bears",
+        "url": "https://www.nytimes.com/2025/12/03/world/canada/canada-arctic-churchill-polar-bears.html",
+        "title": "Canada Turns to the World’s Polar Bear Capital to Defend its Arctic"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
