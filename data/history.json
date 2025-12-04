@@ -5360,5 +5360,44 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2025-12-04",
+    "emojis": [
+      {
+        "char": "🏗️",
+        "label": "israel's settlement surge displacing palest.",
+        "url": "https://www.nytimes.com/2025/12/04/world/middleeast/israel-west-bank-settlements-palestinians.html",
+        "title": "How Israel’s Settlement Surge in the West Bank Is Displacing Palestinians"
+      },
+      {
+        "char": "🌍",
+        "label": "us-eu minerals project may displace thousands",
+        "url": "https://www.theguardian.com/world/2025/dec/04/us-eu-critical-minerals-project-drc-report-lobito-corridor",
+        "title": "US and EU critical minerals project could displace thousands in DR Congo – report"
+      },
+      {
+        "char": "🚨",
+        "label": "whistleblower warns of sudan genocide",
+        "url": "https://www.theguardian.com/global-development/2025/dec/03/whistleblower-accuses-foreign-office-of-censoring-warning-of-sudan-genocide",
+        "title": "Whistleblower accuses Foreign Office of ‘censoring’ warning of Sudan genocide"
+      },
+      {
+        "char": "🛑",
+        "label": "uganda halts refugee status for eritreans",
+        "url": "https://www.theguardian.com/global-development/2025/dec/04/aid-cuts-africa-uganda-stops-refugee-status-eritreans-somalis-ethiopians",
+        "title": "Uganda stops granting refugee status for Eritreans, Somalis and Ethiopians"
+      },
+      {
+        "char": "🇪🇸",
+        "label": "spain as a beacon for latin american migrants",
+        "url": "https://www.nytimes.com/2025/12/04/world/europe/spain-migration-latin-america.html",
+        "title": "Spain Sees Itself as a Beacon for Immigrants. So Do Many Latin Americans."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
