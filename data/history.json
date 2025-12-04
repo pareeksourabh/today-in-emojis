@@ -5321,5 +5321,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-04",
+    "emojis": [
+      {
+        "char": "📱",
+        "label": "meta removes kids from social media",
+        "url": "https://www.bbc.com/news/articles/cdxekqryn1jo?at_medium=RSS&at_campaign=rss",
+        "title": "Meta starts kicking Australian children off Instagram and Facebook"
+      },
+      {
+        "char": "🇮🇱",
+        "label": "gaza border reopening for palestinians",
+        "url": "https://www.nytimes.com/2025/12/03/world/middleeast/israel-rafah-crossing-gaza-ceasefire.html",
+        "title": "Israel Says a Gaza Border Will Reopen, but Only for Palestinians to Leave"
+      },
+      {
+        "char": "🌊",
+        "label": "indonesia floods turn logs into projectiles",
+        "url": "https://www.nytimes.com/2025/12/03/world/asia/indonesia-sumatra-floods-timber-logs.html",
+        "title": "Storm Floodwaters in Indonesia Turned Logs Into Floating Projectiles"
+      },
+      {
+        "char": "🎨",
+        "label": "ibrahim mahama tops art power list",
+        "url": "https://www.theguardian.com/artanddesign/2025/dec/04/ibrahim-mahama-ghana-tops-artreview-power-list",
+        "title": "Ghana’s Ibrahim Mahama first African to top annual art power list"
+      },
+      {
+        "char": "🐻",
+        "label": "canada defends polar bear capital",
+        "url": "https://www.nytimes.com/2025/12/03/world/canada/canada-arctic-churchill-polar-bears.html",
+        "title": "Canada Turns to the World’s Polar Bear Capital to Defend its Arctic"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
