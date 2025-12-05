@@ -5594,5 +5594,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-05",
+    "emojis": [
+      {
+        "char": "🇹🇼",
+        "label": "taiwan's opposition shifts stance",
+        "url": "https://www.nytimes.com/2025/12/04/world/asia/taiwan-opposition-cheng-china.html",
+        "title": "Taiwan’s Opposition Leader, Once for Independence, Turns Toward China"
+      },
+      {
+        "char": "🇪🇸",
+        "label": "spain as a refuge for immigrants",
+        "url": "https://www.nytimes.com/2025/12/04/world/europe/spain-migration-latin-america.html",
+        "title": "Spain Sees Itself as a Beacon for Immigrants. So Do Many Latin Americans."
+      },
+      {
+        "char": "📈",
+        "label": "stocks rise ahead of fed rate cut",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeTQzRFdwREJ4al93RnVzMjcwYnlVS2dNamd2RlVrZDhLTVZVQnNRRWY2ZlBKd1J5SWhtYmE1VnZpU1RyMGh0S1RBeTdaR0FIRTUzRnk3UHY3dENvLXJCQU9YeDBmMjdwQlItZUhOOUp5dU1OUXBiLTZhN3lzQjkwVnU3cw?oc=5",
+        "title": "Stocks rise, dollar wilts as investors strap in for Fed rate cut - Reuters"
+      },
+      {
+        "char": "🐧",
+        "label": "african penguins face starvation",
+        "url": "https://www.theguardian.com/environment/2025/dec/05/african-penguins-starve-to-death-south-africa-sardine-population-aoe",
+        "title": "60,000 African penguins starved to death after sardine numbers collapsed – study"
+      },
+      {
+        "char": "🎬",
+        "label": "netflix's major acquisition",
+        "url": "https://www.bbc.com/news/articles/ce91x2jm5pjo?at_medium=RSS&at_campaign=rss",
+        "title": "Netflix to buy Warner Bros film and streaming businesses in major Hollywood deal"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
