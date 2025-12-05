@@ -5516,5 +5516,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-05",
+    "emojis": [
+      {
+        "char": "🏗️",
+        "label": "israel's settlement surge displaces palestinians",
+        "url": "https://www.nytimes.com/2025/12/04/world/middleeast/israel-west-bank-settlements-palestinians.html",
+        "title": "How Israel’s Settlement Surge in the West Bank Is Displacing Palestinians"
+      },
+      {
+        "char": "☠️",
+        "label": "uk blames putin for novichok death",
+        "url": "https://www.nytimes.com/2025/12/04/world/europe/putin-novichok-salisbury-skripal-poisoning.html",
+        "title": "Amid Russian Sabotage, U.K. Points Finger at Putin Over Novichok Death"
+      },
+      {
+        "char": "🌪️",
+        "label": "sri lanka counts cyclone damage",
+        "url": "https://www.nytimes.com/2025/12/04/world/asia/sri-lanka-cyclone-flood-damage.html",
+        "title": "Ruined Rice Fields and Broken Rail Lines: Sri Lanka Counts Cost of Cyclone"
+      },
+      {
+        "char": "🚫",
+        "label": "uganda halts refugee status for eritreans",
+        "url": "https://www.theguardian.com/global-development/2025/dec/04/aid-cuts-africa-uganda-stops-refugee-status-eritreans-somalis-ethiopians",
+        "title": "Uganda stops granting refugee status for Eritreans, Somalis and Ethiopians"
+      },
+      {
+        "char": "🌍",
+        "label": "spain as a beacon for immigrants",
+        "url": "https://www.nytimes.com/2025/12/04/world/europe/spain-migration-latin-america.html",
+        "title": "Spain Sees Itself as a Beacon for Immigrants. So Do Many Latin Americans."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
