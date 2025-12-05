@@ -5633,5 +5633,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-05",
+    "emojis": [
+      {
+        "char": "💵",
+        "label": "dollar steadies on fed rate cut bets",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTVrX0tvcmJtMjlrM21WY1lrVlFaQUs1NlNVczFEbC05eDhkT2o2ODZiTkpCc1hJbmhsYTVZVWhGakE0WVpyeF9BMHhzR183T1FQcDRuM3U1Tnl0RGpTaFFSNWZtVDJoejI2XzJVV2owcU9VVWN2NlRPaVNyUng1MG5QeXNFVmQtR1RjLWVwUTgzTmQ3WFA0M3JnQVhvNjg4V1pHOV9uTXY?oc=5",
+        "title": "Dollar steadies near five-week low on Fed rate cut bets - Reuters"
+      },
+      {
+        "char": "🇻🇪",
+        "label": "trump wants maduro to go",
+        "url": "https://www.nytimes.com/2025/12/05/world/americas/trump-maduro-venezuela-president.html",
+        "title": "Trump Wants Maduro to Go. Here’s Who Could Replace Him in Venezuela."
+      },
+      {
+        "char": "🕊️",
+        "label": "experts urge release of boat strike video",
+        "url": "https://www.theguardian.com/us-news/2025/dec/04/video-second-boat-strike-military-caribbean",
+        "title": "Experts urge release of boat strike video as US admiral denies ‘kill them all’ order"
+      },
+      {
+        "char": "⚖️",
+        "label": "tanzania pressed to release bodies",
+        "url": "https://www.bbc.com/news/articles/c8xdvg2ydddo?at_medium=RSS&at_campaign=rss",
+        "title": "Western countries press Tanzania to release bodies of post-election victims"
+      },
+      {
+        "char": "🐧",
+        "label": "60,000 african penguins starve to death",
+        "url": "https://www.theguardian.com/environment/2025/dec/05/african-penguins-starve-to-death-south-africa-sardine-population-aoe",
+        "title": "60,000 African penguins starved to death after sardine numbers collapsed – study"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
