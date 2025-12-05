@@ -5555,5 +5555,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-05",
+    "emojis": [
+      {
+        "char": "🎙️",
+        "label": "trump's potential invasion of venezuela",
+        "url": "https://www.theguardian.com/politics/audio/2025/dec/05/donald-trump-about-to-invade-venezuela-podcast",
+        "title": "“This is war”: Is Trump about to invade Venezuela? – podcast"
+      },
+      {
+        "char": "💻",
+        "label": "microsoft and lg data centre cooperation",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQnVqY3lWeC1BWVJGR0o4TExKMlo5TmhvWXpWd2hoQnlQRHZxNU9wamFmU3FqdjUyaVFQY1NtUHluRVlCQk9wWnRsODVvTFFiaC0tcWxUM3VSUHY1aUY3X29lR29IUjZ5TmRSNTQwR1B4RjdZem5SeC1XUzV5cnhoSEJSbmthWGlyNXdCYk5WNGtIaUFHaHB3bkVxOFllVFdxNVhNMDJmc2xscTJ1M3pfWU1GUXBBai11eTJmYlViZXFvWms?oc=5",
+        "title": "LG Elec says Microsoft and LG affiliates pursuing cooperation on data centres - Reuters"
+      },
+      {
+        "char": "🗡️",
+        "label": "apology from shinzo abe's killer",
+        "url": "https://www.bbc.com/news/articles/cy0pwgrdlnjo?at_medium=RSS&at_campaign=rss",
+        "title": "Man who killed ex-Japan PM Shinzo Abe apologises to his family"
+      },
+      {
+        "char": "💵",
+        "label": "dollar near five-week low",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTVrX0tvcmJtMjlrM21WY1lrVlFaQUs1NlNVczFEbC05eDhkT2o2ODZiTkpCc1hJbmhsYTVZVWhGakE0WVpyeF9BMHhzR183T1FQcDRuM3U1Tnl0RGpTaFFSNWZtVDJoejI2XzJVV2owcU9VVWN2NlRPaVNyUng1MG5QeXNFVmQtR1RjLWVwUTgzTmQ3WFA0M3JnQVhvNjg4V1pHOV9uTXY?oc=5",
+        "title": "Dollar hovers near five-week low on Fed rate cut bets - Reuters"
+      },
+      {
+        "char": "🔥",
+        "label": "fire petition sparks debate in hong kong",
+        "url": "https://www.bbc.com/news/articles/cd6x2ppjv4go?at_medium=RSS&at_campaign=rss",
+        "title": "Arrest over fire petition stirs public debate in Hong Kong"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
