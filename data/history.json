@@ -5672,5 +5672,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-05",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "india flight cancellations",
+        "url": "https://www.bbc.com/news/articles/clyz18z1gk0o?at_medium=RSS&at_campaign=rss",
+        "title": "India travel chaos worsens as IndiGo cancels hundreds of flights"
+      },
+      {
+        "char": "🔒",
+        "label": "cyber threat notifications",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmVPMmY5TkdKOXdIWTNGV2Q5RU1iajdfMEV3SERJNENPM0sxWVpnOU5QZDBxZ3pYd0F4OTlWTFhMMzdJaFl4WFdmM3VyaDhHeGJ5ZVdXRHZ0UWV6VF9kbFdfOTJiWFo1eWg5WjFGSG1scWhpbUVOTXFBUTZTSTNiQ0o0Ni1sVHhNTEtYbXdjYVNiT3ZCVnlSX2VtaGlzQUk4dzAwX0YtbmxjVFRfRGlmRW1mQQ?oc=5",
+        "title": "Apple, Google send new round of cyber threat notifications to users around world - Reuters"
+      },
+      {
+        "char": "⚖️",
+        "label": "supreme court citizenship case",
+        "url": "https://www.bbc.com/news/articles/c208j0wrzrvo?at_medium=RSS&at_campaign=rss",
+        "title": "US Supreme Court agrees to hear case challenging birthright citizenship"
+      },
+      {
+        "char": "🚀",
+        "label": "spacex share sale talks",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRjVCblJyTWtvN3drR2pldWtMUlNHLS1wRWxMSURwWXZjT2JTR05zX19Xa0VnZVp1TmloTFpzTnZRNnVmczlYVEJ0Q2czejNrcTZiSUZNOGdLZWZhOUtwS2Q1VnJnVWNCem00NW9KRTU4bDZzc0tYN2FEXzlBazlwX19MeHJ0SW5DX3Atc1k4cWgyTnFBblNRUkc0QWw5THZicVZmQWozb3YxUlVpcEVUTTI0ZGo0UVliekhn?oc=5",
+        "title": "SpaceX in talks for share sale that would boost valuation to $800 billion, WSJ reports - Reuters"
+      },
+      {
+        "char": "🏅",
+        "label": "eritreans freed after 18 years",
+        "url": "https://www.bbc.com/news/articles/cx2500jkd41o?at_medium=RSS&at_campaign=rss",
+        "title": "Olympian and other Eritreans freed after 18 years without trial, relatives tell the BBC"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
