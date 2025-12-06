@@ -5906,5 +5906,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-06",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "deadly border fighting in afghanistan",
+        "url": "https://www.bbc.com/news/articles/cn09zp87pz8o?at_medium=RSS&at_campaign=rss",
+        "title": "Deadly border fighting breaks out between Pakistan and Afghanistan"
+      },
+      {
+        "char": "💰",
+        "label": "ukraine corruption under zelensky",
+        "url": "https://www.nytimes.com/2025/12/05/world/europe/ukraine-corruption-zelensky.html",
+        "title": "Zelensky’s Government Sabotaged Oversight, Allowing Corruption in Ukraine to Fester"
+      },
+      {
+        "char": "🎄",
+        "label": "bethlehem christmas tree lights up",
+        "url": "https://www.bbc.com/news/articles/ce86z84e947o?at_medium=RSS&at_campaign=rss",
+        "title": "Bethlehem Christmas tree lights up for first time since start of Gaza war"
+      },
+      {
+        "char": "🛢️",
+        "label": "maduro on trump's oil fixation",
+        "url": "https://www.theguardian.com/world/2025/dec/06/venezuela-oil-trump-maduro",
+        "title": "Maduro says the real reason for Trump’s Venezuela fixation is oil – is he right?"
+      },
+      {
+        "char": "🍷",
+        "label": "saudi arabia now sells alcohol",
+        "url": "https://www.nytimes.com/2025/12/06/world/middleeast/saudi-arabia-alcohol-riyadh-store.html",
+        "title": "Saudi Arabia Will Sell You Alcohol Now, if You’re Rich Enough"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
