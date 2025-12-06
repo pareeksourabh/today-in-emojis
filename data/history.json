@@ -5789,5 +5789,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-06",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "us-eu minerals project in drc",
+        "url": "https://www.theguardian.com/world/2025/dec/04/us-eu-critical-minerals-project-drc-report-lobito-corridor",
+        "title": "US and EU critical minerals project could displace thousands in DRC – report"
+      },
+      {
+        "char": "💵",
+        "label": "dollar slips ahead of fed meeting",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTVrX0tvcmJtMjlrM21WY1lrVlFaQUs1NlNVczFEbC05eDhkT2o2ODZiTkpCc1hJbmhsYTVZVWhGakE0WVpyeF9BMHhzR183T1FQcDRuM3U1Tnl0RGpTaFFSNWZtVDJoejI2XzJVV2owcU9VVWN2NlRPaVNyUng1MG5QeXNFVmQtR1RjLWVwUTgzTmQ3WFA0M3JnQVhvNjg4V1pHOV9uTXY?oc=5",
+        "title": "Dollar slips as traders eye next week's Fed meeting - Reuters"
+      },
+      {
+        "char": "🤖",
+        "label": "pope leo's visit and ai concerns",
+        "url": "https://www.nytimes.com/2025/12/05/world/asia/pope-leo-lebanon-turkey-ai-technology.html",
+        "title": "On Pope Leo’s Visit to Lebanon and Turkey, A.I. Was a Frequent Concern"
+      },
+      {
+        "char": "🎤",
+        "label": "china-japan pop stars dispute",
+        "url": "https://www.nytimes.com/2025/12/06/world/asia/china-japan-anime-taiwan-dispute.html",
+        "title": "China’s Mad at Japan, and Pop Stars Are Paying for It"
+      },
+      {
+        "char": "🔥",
+        "label": "hong kong fire survivors in limbo",
+        "url": "https://www.nytimes.com/2025/12/06/world/asia/hong-kong-fire-survivors-housing.html",
+        "title": "Survivors of the Deadly Hong Kong Fire Are in Limbo"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
