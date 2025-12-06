@@ -5867,5 +5867,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-06",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "deadly border fighting in afghanistan",
+        "url": "https://www.bbc.com/news/articles/cn09zp87pz8o?at_medium=RSS&at_campaign=rss",
+        "title": "Deadly border fighting breaks out between Pakistan and Afghanistan"
+      },
+      {
+        "char": "🇿🇦",
+        "label": "trump's policy shift affects afrikaners",
+        "url": "https://www.nytimes.com/2025/12/06/world/africa/south-africa-afrikaners-trump.html",
+        "title": "Afrikaner Access Soars Amid Trump’s Policy Shift"
+      },
+      {
+        "char": "🎙️",
+        "label": "trump may invade venezuela podcast",
+        "url": "https://www.theguardian.com/politics/audio/2025/dec/05/donald-trump-about-to-invade-venezuela-podcast",
+        "title": "“This is war”: Is Trump about to invade Venezuela? – podcast"
+      },
+      {
+        "char": "📰",
+        "label": "hong kong summons foreign journalists",
+        "url": "https://www.nytimes.com/2025/12/06/world/asia/hong-kong-fire-media-national-security.html",
+        "title": "China’s National Security Office in Hong Kong Summons Foreign Journalists"
+      },
+      {
+        "char": "🎌",
+        "label": "china-japan tensions over pop stars",
+        "url": "https://www.nytimes.com/2025/12/06/world/asia/china-japan-anime-taiwan-dispute.html",
+        "title": "China’s Mad at Japan, and Pop Stars Are Paying for It"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
