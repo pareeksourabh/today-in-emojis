@@ -5750,5 +5750,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-06",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "us warns of civilizational erasure",
+        "url": "https://www.nytimes.com/2025/12/05/world/europe/trump-europe.html",
+        "title": "U.S. Warns of Europe’s ‘Civilizational Erasure’ Through Immigration"
+      },
+      {
+        "char": "📉",
+        "label": "dollar slips ahead of fed meeting",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTVrX0tvcmJtMjlrM21WY1lrVlFaQUs1NlNVczFEbC05eDhkT2o2ODZiTkpCc1hJbmhsYTVZVWhGakE0WVpyeF9BMHhzR183T1FQcDRuM3U1Tnl0RGpTaFFSNWZtVDJoejI2XzJVV2owcU9VVWN2NlRPaVNyUng1MG5QeXNFVmQtR1RjLWVwUTgzTmQ3WFA0M3JnQVhvNjg4V1pHOV9uTXY?oc=5",
+        "title": "Dollar slips as traders eye next week's Fed meeting - Reuters"
+      },
+      {
+        "char": "⚔️",
+        "label": "people flee dr congo fighting",
+        "url": "https://www.theguardian.com/world/2025/dec/05/people-flee-dr-congo-fighting-one-day-after-peace-deal-signed-in-washington",
+        "title": "People flee DR Congo fighting one day after peace deal signed in Washington"
+      },
+      {
+        "char": "🎬",
+        "label": "netflix to buy warner bros",
+        "url": "https://www.bbc.com/news/articles/ce91x2jm5pjo?at_medium=RSS&at_campaign=rss",
+        "title": "Netflix to buy Warner Bros film and streaming businesses for $72bn"
+      },
+      {
+        "char": "🐧",
+        "label": "african penguins starve to death",
+        "url": "https://www.theguardian.com/environment/2025/dec/05/african-penguins-starve-to-death-south-africa-sardine-population-aoe",
+        "title": "60,000 African penguins starved to death after sardine numbers collapsed – study"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
