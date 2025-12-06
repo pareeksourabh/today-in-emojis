@@ -5828,5 +5828,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-06",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "epstein case records unsealed",
+        "url": "https://www.bbc.com/news/articles/c4ge8p0n0zko?at_medium=RSS&at_campaign=rss",
+        "title": "US judge orders unsealing of court records from abandoned Jeffrey Epstein case"
+      },
+      {
+        "char": "📰",
+        "label": "china summons foreign journalists",
+        "url": "https://www.nytimes.com/2025/12/06/world/asia/hong-kong-fire-media-national-security.html",
+        "title": "China’s National Security Office in Hong Kong Summons Foreign Journalists"
+      },
+      {
+        "char": "💰",
+        "label": "zelensky's corruption issues",
+        "url": "https://www.nytimes.com/2025/12/05/world/europe/ukraine-corruption-zelensky.html",
+        "title": "Zelensky’s Government Sabotaged Oversight, Allowing Corruption in Ukraine to Fester"
+      },
+      {
+        "char": "🎙️",
+        "label": "trump's potential venezuela invasion",
+        "url": "https://www.theguardian.com/politics/audio/2025/dec/05/donald-trump-about-to-invade-venezuela-podcast",
+        "title": "“This is war”: Is Trump about to invade Venezuela? – podcast"
+      },
+      {
+        "char": "🍷",
+        "label": "saudi arabia sells alcohol now",
+        "url": "https://www.nytimes.com/2025/12/06/world/middleeast/saudi-arabia-alcohol-riyadh-store.html",
+        "title": "Saudi Arabia Will Sell You Alcohol Now, if You’re Rich Enough"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
