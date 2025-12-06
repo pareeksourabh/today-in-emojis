@@ -5711,5 +5711,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-06",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "us-eu minerals project in drc",
+        "url": "https://www.theguardian.com/world/2025/dec/04/us-eu-critical-minerals-project-drc-report-lobito-corridor",
+        "title": "US and EU critical minerals project could displace thousands in DRC – report"
+      },
+      {
+        "char": "💊",
+        "label": "cocaine superhighway fueled by fentanyl",
+        "url": "https://www.nytimes.com/2025/12/05/world/americas/cocaine-ecuador-fentanyl.html",
+        "title": "The ‘Cocaine Superhighway’ Fueled by the U.S. Focus on Fentanyl"
+      },
+      {
+        "char": "🎙️",
+        "label": "trump about to invade venezuela podcast",
+        "url": "https://www.theguardian.com/politics/audio/2025/dec/05/donald-trump-about-to-invade-venezuela-podcast",
+        "title": "“This is war”: Is Trump about to invade Venezuela? – podcast"
+      },
+      {
+        "char": "⚓",
+        "label": "pentagon boat strike in pacific",
+        "url": "https://www.theguardian.com/us-news/2025/dec/04/pentagon-boat-strike-pacific",
+        "title": "Pentagon announces it has killed four men in another boat strike in Pacific"
+      },
+      {
+        "char": "🦩",
+        "label": "african penguins starve in south africa",
+        "url": "https://www.theguardian.com/environment/2025/dec/05/african-penguins-starve-to-death-south-africa-sardine-population-aoe",
+        "title": "60,000 African penguins starved to death after sardine numbers collapsed – study"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
