@@ -6062,5 +6062,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-07",
+    "emojis": [
+      {
+        "char": "🎬",
+        "label": "brazil's film industry faces drought",
+        "url": "https://www.nytimes.com/2025/12/07/world/americas/brazil-cabaceiras-film-tv-hollywood.html",
+        "title": "In Brazil’s Answer to Hollywood, Dreams and Drought Share the Stage"
+      },
+      {
+        "char": "🐧",
+        "label": "african penguins starve in south africa",
+        "url": "https://www.theguardian.com/environment/2025/dec/05/african-penguins-starve-to-death-south-africa-sardine-population-aoe",
+        "title": "60,000 African penguins starved to death after sardine numbers collapsed – study"
+      },
+      {
+        "char": "✈️",
+        "label": "chinese jets target japanese aircraft",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXlwZFV4Sm5xSm1mQUhzTDRfN28yTGtORUI1OGVRbk9WVDNIUGJ4ZEZhRzVXTUNjTDlNYWhkMXVCeDRvTGQ0UVliWjBpMm9uQUxqQ2lTdHFzelJWektwdnZlOEc5YV9lN0R3eDBReGJDdTFleTJKcHNLY3N3VnhMa21qUTM3bjlPSndrN1hLbmE4a2EtSGlvMjlSSTdPbkxZdTUtRTE2Qi1HY2dxZktETFVn?oc=5",
+        "title": "Chinese jets point radar at Japanese aircraft, Japan says - Reuters"
+      },
+      {
+        "char": "🔥",
+        "label": "nightclub fire in goa kills 25",
+        "url": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss",
+        "title": "Nightclub fire in India's Goa kills 25 people including staff and tourists"
+      },
+      {
+        "char": "⚔️",
+        "label": "ukraine hit by massive strike",
+        "url": "https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&at_campaign=rss",
+        "title": "Ukrainian city hit by 'massive' strike as peace talks in US conclude"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
