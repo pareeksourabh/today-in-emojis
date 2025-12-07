@@ -5945,5 +5945,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-07",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israel backed gazans oppose hamas",
+        "url": "https://www.nytimes.com/2025/12/06/world/middleeast/yasser-abu-shabab-israel-backed-gaza-militias.html",
+        "title": "Israel Backed Gazans to Oppose Hamas. For One, It Ended Violently."
+      },
+      {
+        "char": "🇨🇳",
+        "label": "china summons foreign journalists",
+        "url": "https://www.nytimes.com/2025/12/06/world/asia/hong-kong-fire-media-national-security.html",
+        "title": "China’s National Security Office in Hong Kong Summons Foreign Journalists"
+      },
+      {
+        "char": "🔥",
+        "label": "goa nightclub fire kills 23",
+        "url": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss",
+        "title": "Staff and tourists among 23 killed in Goa nightclub fire, officials say"
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukraine battlefield worsens",
+        "url": "https://www.nytimes.com/2025/12/06/world/europe/ukraine-pokrovsk-battlefield-russia.html",
+        "title": "Battlefield Picture Worsening for Ukraine as Trump Pushes Peace Plan"
+      },
+      {
+        "char": "🐧",
+        "label": "african penguins starve to death",
+        "url": "https://www.theguardian.com/environment/2025/dec/05/african-penguins-starve-to-death-south-africa-sardine-population-aoe",
+        "title": "60,000 African penguins starved to death after sardine numbers collapsed – study"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
