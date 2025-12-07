@@ -1,13 +1,7 @@
 {
   "date": "2025-12-07",
-  "timestamp": "2025-12-07T12:45:19Z",
+  "timestamp": "2025-12-07T16:09:54Z",
   "emojis": [
-    {
-      "char": "🎬",
-      "label": "brazil's film industry faces drought",
-      "url": "https://www.nytimes.com/2025/12/07/world/americas/brazil-cabaceiras-film-tv-hollywood.html",
-      "title": "In Brazil’s Answer to Hollywood, Dreams and Drought Share the Stage"
-    },
     {
       "char": "🐧",
       "label": "african penguins starve in south africa",
@@ -15,22 +9,28 @@
       "title": "60,000 African penguins starved to death after sardine numbers collapsed – study"
     },
     {
+      "char": "🗳️",
+      "label": "hong kong holds vote amid tensions",
+      "url": "https://www.nytimes.com/2025/12/07/world/asia/hong-kong-fire-election-campaign.html",
+      "title": "Hong Kong Holds Vote as Officials Move Against ‘Anti-China’ Elements"
+    },
+    {
+      "char": "💥",
+      "label": "magnitude 7.0 earthquake strikes alaska",
+      "url": "https://www.theguardian.com/world/2025/dec/06/magnitude-7-earthquake-alaska-canada",
+      "title": "Magnitude 7.0 earthquake strikes remote area near Alaska-Canada border"
+    },
+    {
       "char": "✈️",
-      "label": "chinese jets target japanese aircraft",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXlwZFV4Sm5xSm1mQUhzTDRfN28yTGtORUI1OGVRbk9WVDNIUGJ4ZEZhRzVXTUNjTDlNYWhkMXVCeDRvTGQ0UVliWjBpMm9uQUxqQ2lTdHFzelJWektwdnZlOEc5YV9lN0R3eDBReGJDdTFleTJKcHNLY3N3VnhMa21qUTM3bjlPSndrN1hLbmE4a2EtSGlvMjlSSTdPbkxZdTUtRTE2Qi1HY2dxZktETFVn?oc=5",
-      "title": "Chinese jets point radar at Japanese aircraft, Japan says - Reuters"
+      "label": "us airstrike survivors cling to wreckage",
+      "url": "https://www.theguardian.com/us-news/2025/dec/05/us-airstrike-survivors-clung-to-boat-wreckage-for-an-hour-before-second-deadly-attack-video-shows",
+      "title": "US airstrike survivors clung to boat wreckage for an hour before second deadly attack, video shows"
     },
     {
-      "char": "🔥",
-      "label": "nightclub fire in goa kills 25",
-      "url": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss",
-      "title": "Nightclub fire in India's Goa kills 25 people including staff and tourists"
-    },
-    {
-      "char": "⚔️",
-      "label": "ukraine hit by massive strike",
-      "url": "https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&at_campaign=rss",
-      "title": "Ukrainian city hit by 'massive' strike as peace talks in US conclude"
+      "char": "🏆",
+      "label": "venezuela peace prize winner heads to norway",
+      "url": "https://www.nytimes.com/2025/12/06/world/americas/venezuela-peace-prize-norway.html",
+      "title": "Venezuela’s Nobel Winner Will Go to Norway for Peace Prize, Official Says"
     }
   ],
   "source": "ai-openai"

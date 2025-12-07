@@ -6101,5 +6101,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-07",
+    "emojis": [
+      {
+        "char": "🐧",
+        "label": "african penguins starve in south africa",
+        "url": "https://www.theguardian.com/environment/2025/dec/05/african-penguins-starve-to-death-south-africa-sardine-population-aoe",
+        "title": "60,000 African penguins starved to death after sardine numbers collapsed – study"
+      },
+      {
+        "char": "🗳️",
+        "label": "hong kong holds vote amid tensions",
+        "url": "https://www.nytimes.com/2025/12/07/world/asia/hong-kong-fire-election-campaign.html",
+        "title": "Hong Kong Holds Vote as Officials Move Against ‘Anti-China’ Elements"
+      },
+      {
+        "char": "💥",
+        "label": "magnitude 7.0 earthquake strikes alaska",
+        "url": "https://www.theguardian.com/world/2025/dec/06/magnitude-7-earthquake-alaska-canada",
+        "title": "Magnitude 7.0 earthquake strikes remote area near Alaska-Canada border"
+      },
+      {
+        "char": "✈️",
+        "label": "us airstrike survivors cling to wreckage",
+        "url": "https://www.theguardian.com/us-news/2025/dec/05/us-airstrike-survivors-clung-to-boat-wreckage-for-an-hour-before-second-deadly-attack-video-shows",
+        "title": "US airstrike survivors clung to boat wreckage for an hour before second deadly attack, video shows"
+      },
+      {
+        "char": "🏆",
+        "label": "venezuela peace prize winner heads to norway",
+        "url": "https://www.nytimes.com/2025/12/06/world/americas/venezuela-peace-prize-norway.html",
+        "title": "Venezuela’s Nobel Winner Will Go to Norway for Peace Prize, Official Says"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
