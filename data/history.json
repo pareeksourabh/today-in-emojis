@@ -5984,5 +5984,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-07",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "zelensky peace talks with us",
+        "url": "https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky signals progress in talks with US on peace plan"
+      },
+      {
+        "char": "💔",
+        "label": "deadly attack on kindergarten in sudan",
+        "url": "https://www.bbc.com/news/articles/cpd61d0jl6no?at_medium=RSS&at_campaign=rss",
+        "title": "Deadly attack on kindergarten reported in Sudan"
+      },
+      {
+        "char": "🏴‍☠️",
+        "label": "people flee dr congo fighting",
+        "url": "https://www.theguardian.com/world/2025/dec/05/people-flee-dr-congo-fighting-one-day-after-peace-deal-signed-in-washington",
+        "title": "People flee DR Congo fighting one day after peace deal signed in Washington"
+      },
+      {
+        "char": "🍷",
+        "label": "saudi arabia now sells alcohol",
+        "url": "https://www.nytimes.com/2025/12/06/world/middleeast/saudi-arabia-alcohol-riyadh-store.html",
+        "title": "Saudi Arabia Will Sell You Alcohol Now, if You’re Rich Enough"
+      },
+      {
+        "char": "⚔️",
+        "label": "battlefield picture worsening for ukraine",
+        "url": "https://www.nytimes.com/2025/12/06/world/europe/ukraine-pokrovsk-battlefield-russia.html",
+        "title": "Battlefield Picture Worsening for Ukraine as Trump Pushes Peace Plan"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
