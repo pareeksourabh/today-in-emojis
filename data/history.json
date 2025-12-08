@@ -6179,5 +6179,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-08",
+    "emojis": [
+      {
+        "char": "🎬",
+        "label": "brazil's film industry rises",
+        "url": "https://www.nytimes.com/2025/12/07/world/americas/brazil-cabaceiras-film-tv-hollywood.html",
+        "title": "In Brazil’s Answer to Hollywood, Dreams and Drought Share the Stage"
+      },
+      {
+        "char": "🚨",
+        "label": "benin coup attempt foiled",
+        "url": "https://www.nytimes.com/2025/12/07/world/africa/benin-coup-shots-military-africa.html",
+        "title": "Benin Coup Attempt to Oust Talon Has Been Foiled, Interior Minister Says"
+      },
+      {
+        "char": "🌍",
+        "label": "earthquake near alaska-canada",
+        "url": "https://www.theguardian.com/world/2025/dec/06/magnitude-7-earthquake-alaska-canada",
+        "title": "Magnitude 7.0 earthquake strikes remote area near Alaska-Canada border"
+      },
+      {
+        "char": "💔",
+        "label": "violence in south africa hostel",
+        "url": "https://www.theguardian.com/world/2025/dec/06/gunmen-kill-pretoria-south-african-hostel",
+        "title": "Gunmen kill at least 12 people including three-year-old in hostel in South Africa"
+      },
+      {
+        "char": "🕊️",
+        "label": "fleeing conflict in dr congo",
+        "url": "https://www.theguardian.com/world/2025/dec/05/people-flee-dr-congo-fighting-one-day-after-peace-deal-signed-in-washington",
+        "title": "People flee DR Congo fighting one day after peace deal signed in Washington"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
