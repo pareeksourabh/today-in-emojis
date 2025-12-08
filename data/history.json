@@ -6296,5 +6296,44 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2025-12-08",
+    "emojis": [
+      {
+        "char": "📉",
+        "label": "fed rate cut forecast",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1VQVFpMUVJRUTJlZzlyT3pwLXN6M1c0NHFMNXZUUzJ6aHdrZGRheE00X2FNeDJVOGx1Rm13VVNLS0VCLUZKaFltR2xYOFBxSDdXM0gzVlNJT1IwaWVlaEhMYUZhNngxYks1RHVlOW16TVplYWhtb1Nmc2dudzQ4VzZobThXTmNmTllaZnlMeEtEWEVETzJoVVNGbHlhWU1KZmJlQ0dKay1qNmRYRG9iejNfbHhtWTZSM3J5UA?oc=5",
+        "title": "Nomura joins global brokerages in forecasting Fed rate cut this week - Reuters"
+      },
+      {
+        "char": "🇺🇦",
+        "label": "zelensky visits downing street",
+        "url": "https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky due at Downing Street for high-level Ukraine talks"
+      },
+      {
+        "char": "🕵️‍♂",
+        "label": "russian activist accused of spying",
+        "url": "https://www.nytimes.com/2025/12/08/world/europe/russia-spy-poland.html",
+        "title": "He Was a Russian Activist in Exile. His Own Wife Accused Him of Spying."
+      },
+      {
+        "char": "⚖️",
+        "label": "woman jailed for blackmailing athlete",
+        "url": "https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS&at_campaign=rss",
+        "title": "Woman who blackmailed Son Heung-min gets four years in jail"
+      },
+      {
+        "char": "✈️",
+        "label": "troops deployed in benin after coup",
+        "url": "https://www.theguardian.com/world/2025/dec/07/troops-and-warplanes-deployed-in-benin-after-failed-coup-attempt",
+        "title": "Troops and warplanes deployed in Benin after ‘failed coup attempt’"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
