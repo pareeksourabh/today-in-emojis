@@ -1,36 +1,36 @@
 {
   "date": "2025-12-08",
-  "timestamp": "2025-12-08T04:37:52Z",
+  "timestamp": "2025-12-08T08:35:44Z",
   "emojis": [
     {
-      "char": "🛩️",
-      "label": "us airstrike survivors cling to wreckage",
+      "char": "📱",
+      "label": "australia's social media ban for teens",
+      "url": "https://www.nytimes.com/2025/12/07/world/asia/australia-social-media-ban-under-16.html",
+      "title": "Australia’s Social Media Ban for Under-16s Is Coming. The Teenagers Are Skeptical."
+    },
+    {
+      "char": "🎓",
+      "label": "release of kidnapped nigerian children",
+      "url": "https://www.theguardian.com/world/2025/dec/07/release-secured-of-100-kidnapped-nigerian-schoolchildren-but-many-still-being-held",
+      "title": "Nigerian state secures release of 100 out of 265 kidnapped schoolchildren"
+    },
+    {
+      "char": "✈️",
+      "label": "us airstrike survivors recount ordeal",
       "url": "https://www.theguardian.com/us-news/2025/dec/05/us-airstrike-survivors-clung-to-boat-wreckage-for-an-hour-before-second-deadly-attack-video-shows",
       "title": "US airstrike survivors clung to boat wreckage for an hour before second deadly attack, video shows"
     },
     {
-      "char": "🇻🇪",
-      "label": "death of venezuelan opposition figure",
-      "url": "https://www.bbc.com/news/articles/czj0m2evm40o?at_medium=RSS&at_campaign=rss",
-      "title": "Death of Venezuelan opposition figure in custody 'vile', US says"
-    },
-    {
-      "char": "🔥",
-      "label": "nightclub fire in goa kills 25",
-      "url": "https://www.nytimes.com/2025/12/06/world/asia/goa-india-nightclub-fire.html",
-      "title": "Fire at a Nightclub in Goa, India, Kills at Least 25"
-    },
-    {
       "char": "🌍",
-      "label": "people flee dr congo fighting",
-      "url": "https://www.theguardian.com/world/2025/dec/05/people-flee-dr-congo-fighting-one-day-after-peace-deal-signed-in-washington",
-      "title": "People flee DR Congo fighting one day after peace deal signed in Washington"
+      "label": "un cuts humanitarian aid budget",
+      "url": "https://www.nytimes.com/2025/12/08/world/united-nations-humanitarian-aid-cuts.html",
+      "title": "United Nations Cuts Its 2026 Emergency Aid Budget in Half"
     },
     {
-      "char": "🌪️",
-      "label": "magnitude 7.0 earthquake strikes",
-      "url": "https://www.theguardian.com/world/2025/dec/06/magnitude-7-earthquake-alaska-canada",
-      "title": "Magnitude 7.0 earthquake strikes remote area near Alaska-Canada border"
+      "char": "🎬",
+      "label": "brazil's answer to hollywood",
+      "url": "https://www.nytimes.com/2025/12/07/world/americas/brazil-cabaceiras-film-tv-hollywood.html",
+      "title": "In Brazil’s Answer to Hollywood, Dreams and Drought Share the Stage"
     }
   ],
   "source": "ai-openai"
