@@ -6374,5 +6374,44 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2025-12-08",
+    "emojis": [
+      {
+        "char": "⚓",
+        "label": "ancient egyptian boat discovery",
+        "url": "https://www.theguardian.com/world/2025/dec/08/ancient-egyptian-pleasure-boat-found-archaeologists-alexandria-coast",
+        "title": "Ancient Egyptian pleasure boat found by archaeologists off Alexandria coast"
+      },
+      {
+        "char": "🕊️",
+        "label": "zelensky criticizes peace talks",
+        "url": "https://www.nytimes.com/2025/12/08/world/europe/zelensky-ukraine-war-peace-talks-europe-london.html",
+        "title": "Trump Criticizes Zelensky as Ukraine Peace Talks Drag On With European Leaders"
+      },
+      {
+        "char": "👶",
+        "label": "100 schoolchildren released in nigeria",
+        "url": "https://www.nytimes.com/2025/12/08/world/africa/one-hundred-schoolchildren-released-after-kidnapping-in-nigeria.html",
+        "title": "One Hundred Schoolchildren Released After Kidnapping in Nigeria"
+      },
+      {
+        "char": "✈️",
+        "label": "troops deployed in benin coup attempt",
+        "url": "https://www.theguardian.com/world/2025/dec/07/troops-and-warplanes-deployed-in-benin-after-failed-coup-attempt",
+        "title": "Troops and warplanes deployed in Benin after ‘failed coup attempt’"
+      },
+      {
+        "char": "🌍",
+        "label": "earthquake strikes alaska-canada border",
+        "url": "https://www.theguardian.com/world/2025/dec/06/magnitude-7-earthquake-alaska-canada",
+        "title": "Magnitude 7.0 earthquake strikes remote area near Alaska-Canada border"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
