@@ -1,36 +1,36 @@
 {
   "date": "2025-12-08",
-  "timestamp": "2025-12-08T01:02:11Z",
+  "timestamp": "2025-12-08T04:37:52Z",
   "emojis": [
     {
-      "char": "🎬",
-      "label": "brazil's film industry rises",
-      "url": "https://www.nytimes.com/2025/12/07/world/americas/brazil-cabaceiras-film-tv-hollywood.html",
-      "title": "In Brazil’s Answer to Hollywood, Dreams and Drought Share the Stage"
+      "char": "🛩️",
+      "label": "us airstrike survivors cling to wreckage",
+      "url": "https://www.theguardian.com/us-news/2025/dec/05/us-airstrike-survivors-clung-to-boat-wreckage-for-an-hour-before-second-deadly-attack-video-shows",
+      "title": "US airstrike survivors clung to boat wreckage for an hour before second deadly attack, video shows"
     },
     {
-      "char": "🚨",
-      "label": "benin coup attempt foiled",
-      "url": "https://www.nytimes.com/2025/12/07/world/africa/benin-coup-shots-military-africa.html",
-      "title": "Benin Coup Attempt to Oust Talon Has Been Foiled, Interior Minister Says"
+      "char": "🇻🇪",
+      "label": "death of venezuelan opposition figure",
+      "url": "https://www.bbc.com/news/articles/czj0m2evm40o?at_medium=RSS&at_campaign=rss",
+      "title": "Death of Venezuelan opposition figure in custody 'vile', US says"
+    },
+    {
+      "char": "🔥",
+      "label": "nightclub fire in goa kills 25",
+      "url": "https://www.nytimes.com/2025/12/06/world/asia/goa-india-nightclub-fire.html",
+      "title": "Fire at a Nightclub in Goa, India, Kills at Least 25"
     },
     {
       "char": "🌍",
-      "label": "earthquake near alaska-canada",
-      "url": "https://www.theguardian.com/world/2025/dec/06/magnitude-7-earthquake-alaska-canada",
-      "title": "Magnitude 7.0 earthquake strikes remote area near Alaska-Canada border"
-    },
-    {
-      "char": "💔",
-      "label": "violence in south africa hostel",
-      "url": "https://www.theguardian.com/world/2025/dec/06/gunmen-kill-pretoria-south-african-hostel",
-      "title": "Gunmen kill at least 12 people including three-year-old in hostel in South Africa"
-    },
-    {
-      "char": "🕊️",
-      "label": "fleeing conflict in dr congo",
+      "label": "people flee dr congo fighting",
       "url": "https://www.theguardian.com/world/2025/dec/05/people-flee-dr-congo-fighting-one-day-after-peace-deal-signed-in-washington",
       "title": "People flee DR Congo fighting one day after peace deal signed in Washington"
+    },
+    {
+      "char": "🌪️",
+      "label": "magnitude 7.0 earthquake strikes",
+      "url": "https://www.theguardian.com/world/2025/dec/06/magnitude-7-earthquake-alaska-canada",
+      "title": "Magnitude 7.0 earthquake strikes remote area near Alaska-Canada border"
     }
   ],
   "source": "ai-openai"

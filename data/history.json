@@ -6218,5 +6218,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-08",
+    "emojis": [
+      {
+        "char": "🛩️",
+        "label": "us airstrike survivors cling to wreckage",
+        "url": "https://www.theguardian.com/us-news/2025/dec/05/us-airstrike-survivors-clung-to-boat-wreckage-for-an-hour-before-second-deadly-attack-video-shows",
+        "title": "US airstrike survivors clung to boat wreckage for an hour before second deadly attack, video shows"
+      },
+      {
+        "char": "🇻🇪",
+        "label": "death of venezuelan opposition figure",
+        "url": "https://www.bbc.com/news/articles/czj0m2evm40o?at_medium=RSS&at_campaign=rss",
+        "title": "Death of Venezuelan opposition figure in custody 'vile', US says"
+      },
+      {
+        "char": "🔥",
+        "label": "nightclub fire in goa kills 25",
+        "url": "https://www.nytimes.com/2025/12/06/world/asia/goa-india-nightclub-fire.html",
+        "title": "Fire at a Nightclub in Goa, India, Kills at Least 25"
+      },
+      {
+        "char": "🌍",
+        "label": "people flee dr congo fighting",
+        "url": "https://www.theguardian.com/world/2025/dec/05/people-flee-dr-congo-fighting-one-day-after-peace-deal-signed-in-washington",
+        "title": "People flee DR Congo fighting one day after peace deal signed in Washington"
+      },
+      {
+        "char": "🌪️",
+        "label": "magnitude 7.0 earthquake strikes",
+        "url": "https://www.theguardian.com/world/2025/dec/06/magnitude-7-earthquake-alaska-canada",
+        "title": "Magnitude 7.0 earthquake strikes remote area near Alaska-Canada border"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
