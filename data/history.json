@@ -6335,5 +6335,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-08",
+    "emojis": [
+      {
+        "char": "🛩️",
+        "label": "thai jets bomb cambodia",
+        "url": "https://www.nytimes.com/2025/12/08/world/asia/thailand-cambodia-f16-jets.html",
+        "title": "Thai Jets Bomb Cambodia as at Least 5 Die in New Wave of Fighting"
+      },
+      {
+        "char": "🎉",
+        "label": "syrians celebrate assad's fall",
+        "url": "https://www.nytimes.com/2025/12/08/world/middleeast/syria-anniversary-assad-fall.html",
+        "title": "Syrians Celebrate Anniversary of Bashar al-Assad’s Fall"
+      },
+      {
+        "char": "⚓",
+        "label": "ancient egyptian boat found",
+        "url": "https://www.theguardian.com/world/2025/dec/08/ancient-egyptian-pleasure-boat-found-archaeologists-alexandria-coast",
+        "title": "Ancient Egyptian pleasure boat found by archaeologists off Alexandria coast"
+      },
+      {
+        "char": "🔥",
+        "label": "firefighter dies in australia",
+        "url": "https://www.nytimes.com/2025/12/08/world/australia/firefighter-dies-bushfires.html",
+        "title": "Firefighter Is Killed as Multiple Wildfires Burn in Australia"
+      },
+      {
+        "char": "🕊️",
+        "label": "100 schoolchildren released in nigeria",
+        "url": "https://www.bbc.com/news/articles/cvgjvg4ylwpo?at_medium=RSS&at_campaign=rss",
+        "title": "One hundred abducted schoolchildren released in Nigeria"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
