@@ -6608,5 +6608,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-09",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "global airlines profit forecast",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUViSUlyc1p5TURMbjJUZ3JkaHdMUmJpd2o2RUNsbXUzeWw2b2JVZXI1MVI3dmYxeTVvanRITlRUSmlqVDlESzhFTHdHYXVzWW8wMmxCMUdtazI5ZFVyalRJdzI2RWVTemY5dV9RWEZJblNocmc3X3BJNTRBdlBGV1F6X0hpOE9uU00zVVBERjE1SERfSTJLaXdSeE5CMnZyWEw1dDFzcWNkTkpoR24ySmJkd1R0RFUyaE5LMTVfOHNOTFRvaDd4aGZTaw?oc=5",
+        "title": "Global airlines set for record $41 billion net profit next year, IATA says - Reuters"
+      },
+      {
+        "char": "🛢️",
+        "label": "oil prices and peace talks",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZlpVYjNSVHlFbWxzUHhUVkRPTUpkUTJHcVJuQ1FJNXhaSzI4RnBYT3dFc0NVektRMzFZZ3JycElaZ1Y3VWJ6NVEzbHdsbkg2OXZUTUljZld2dHBsTjBZdE1KTU1RYm1Za1o2X0dBa2txQkpVTlNfcHdLVmNXZU9yYzlsOEJlOUU0d0xLTktBYmpwVnRjVHhoeWxPMmNNaUZfbzJzS040V3JicVM3TVF0dw?oc=5",
+        "title": "Oil settles down 1%, focus on Russia-Ukraine peace talks, Fed - Reuters"
+      },
+      {
+        "char": "🏅",
+        "label": "nobel prize ceremony uncertainty",
+        "url": "https://www.bbc.com/news/articles/c208vd511ljo?at_medium=RSS&at_campaign=rss",
+        "title": "Nobel officials unsure when Peace Prize winner will arrive for ceremony"
+      },
+      {
+        "char": "🇫🇷",
+        "label": "brigitte macron's feminist slur",
+        "url": "https://www.nytimes.com/2025/12/09/world/europe/france-brigitte-macron-feminists-slur.html",
+        "title": "Brigitte Macron’s Slur Against Feminist Protesters Prompts an Outcry in France"
+      },
+      {
+        "char": "✈️",
+        "label": "nigerian troops emergency landing",
+        "url": "https://www.theguardian.com/world/2025/dec/09/nigeria-troops-held-burkina-faso-emergency-landing",
+        "title": "Nigerian troops held in Burkina Faso after ‘unfriendly’ emergency landing"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
