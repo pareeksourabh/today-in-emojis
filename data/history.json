@@ -6452,5 +6452,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-09",
+    "emojis": [
+      {
+        "char": "🔍",
+        "label": "hunt for benin coup plotters",
+        "url": "https://www.bbc.com/news/articles/cgex2d3y3dxo?at_medium=RSS&at_campaign=rss",
+        "title": "Hunt under way for Benin coup plotters as two hostages reportedly freed"
+      },
+      {
+        "char": "💉",
+        "label": "mounjaro added to china's insurance list",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPalNWbmZZM2pQRmNHMkZ1NmFvaFMyN3JqX09JbjVkU0pLZDdGMXh1aDF6eTJzS09SU0hDXzR3WDdQeUVXZkpBMW5BZnIxM0l0cVA0UWdYQXdjUTA4eG1mREJaZk9LVlcwOU1TdkFvRWpiUUYzaFJvOVBJdHJzLTlXU2ZoaXpkT0dFYm1rWldHaUFkdXp3WWdwSGtNa0xkZ0hONC1WUnh1Z3hhTUJGNUI1bjVpZzlwRUFTOVFGYWZMZGJjTTd3UTFQdEp2OGEzMDI4T0prakp2T2thMklo?oc=5",
+        "title": "Eli Lilly's Mounjaro added to China's state insurance list for diabetes treatment - Reuters"
+      },
+      {
+        "char": "📉",
+        "label": "us yields and dollar edge up",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd21xbmxMb2ZuUm1FMlZiMEZqVzMteWJEcHIzNi1kOHNKY3NZVld6QjJQdG9RY3MzUmtONWl2NlA4Z3hPN0Rod0dCbmJnVmZwdEE2b2R4UTNOQXBzM2VwVlVaZW5mSEhmRE5IdFNvWHpndHBGbEkxUWRwcHJqVXNwRzE3VQ?oc=5",
+        "title": "US yields, dollar edge up; investors eye Fed rate cut this week - Reuters"
+      },
+      {
+        "char": "🎬",
+        "label": "paramount bids for warner bros",
+        "url": "https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&at_campaign=rss",
+        "title": "Paramount launches rival bid for Warner Bros Discovery"
+      },
+      {
+        "char": "🌍",
+        "label": "gunmen kill 12 in south africa hostel",
+        "url": "https://www.theguardian.com/world/2025/dec/06/gunmen-kill-pretoria-south-african-hostel",
+        "title": "Gunmen kill at least 12 people including three-year-old in hostel in South Africa"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
