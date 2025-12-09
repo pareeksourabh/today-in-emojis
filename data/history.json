@@ -6413,5 +6413,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-09",
+    "emojis": [
+      {
+        "char": "🕵️‍♂",
+        "label": "russian activist accused of spying",
+        "url": "https://www.nytimes.com/2025/12/08/world/europe/russia-spy-poland.html",
+        "title": "He Was a Russian Activist in Exile. His Own Wife Accused Him of Spying."
+      },
+      {
+        "char": "🎉",
+        "label": "syrians celebrate assad's fall",
+        "url": "https://www.nytimes.com/2025/12/08/world/middleeast/syria-anniversary-assad-fall.html",
+        "title": "Syrians Celebrate Anniversary of Bashar al-Assad’s Fall"
+      },
+      {
+        "char": "💻",
+        "label": "nvidia chip shipments to china allowed",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0M5QUZfR09vd0Y0NUx3VHczQ29MUlpMQVZzcHN5UU5sWHFxRDFQaGd3dU5iWkUwQ05fcDlNNlE4M1h3OUlfeVVNT1NLMF9wa00tXzQ4WmY2T2tucmdCX0dXVjI4c0dnd2RIRElFUnE4bmtaQWVyRFBqa3M4NTJ0eVotb05ENnppZ0NXNEdaNnI1b1BiV1E5U0pITlFCZzFpTVRzTS1JUUl1QQ?oc=5",
+        "title": "US to allow Nvidia H200 chip shipments to China, Trump says - Reuters"
+      },
+      {
+        "char": "🚨",
+        "label": "hundred schoolchildren released in nigeria",
+        "url": "https://www.nytimes.com/2025/12/08/world/africa/one-hundred-schoolchildren-released-after-kidnapping-in-nigeria.html",
+        "title": "One Hundred Schoolchildren Released After Kidnapping in Nigeria"
+      },
+      {
+        "char": "🔥",
+        "label": "firefighter dies in australian bushfires",
+        "url": "https://www.nytimes.com/2025/12/08/world/australia/firefighter-dies-bushfires.html",
+        "title": "Firefighter Is Killed as Multiple Wildfires Burn in Australia"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
