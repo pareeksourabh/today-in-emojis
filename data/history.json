@@ -6530,5 +6530,44 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2025-12-09",
+    "emojis": [
+      {
+        "char": "💰",
+        "label": "us money market funds inflows",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHA0UlFtVmQ4cUpaX2xNSllyS1NQaGtKeVU5ZThWTVg3TXpxQWVxZ0FCcUw0a0lvMnhzTWlHdVZCWjZ6RmdrRHFNRDQwTmNwc1VUUnQ5eFJXZ3F1czc4Rm5RT09IZjk0WkNoZkdWcUNfeXkzLWN4c21OdXR6NVZvX0NRZWVBaDE3NGhzTDAtUUI1QjVLZTdKNjFfUERSZGRWaGE5T01B?oc=5",
+        "title": "US money market funds see large inflows ahead of Fed decision - Reuters"
+      },
+      {
+        "char": "🎨",
+        "label": "ukraine artist claim dispute",
+        "url": "https://www.nytimes.com/2025/12/09/world/europe/ukraine-malevich-artist.html",
+        "title": "Another Front in the War in Ukraine: Who Gets to Claim a Famed Artist?"
+      },
+      {
+        "char": "💼",
+        "label": "afghanistan-pakistan trade war",
+        "url": "https://www.nytimes.com/2025/12/09/world/asia/afghanistan-pakistan-trade.html",
+        "title": "Between Pakistan and Afghanistan, a Trade War With No End in Sight"
+      },
+      {
+        "char": "✈️",
+        "label": "sudan air force bombing report",
+        "url": "https://www.bbc.com/news/articles/cd0k7g202l2o?at_medium=RSS&at_campaign=rss",
+        "title": "Sudan air force bombing of towns, markets and schools has killed hundreds, report says"
+      },
+      {
+        "char": "🛑",
+        "label": "tanzania protest crackdown",
+        "url": "https://www.bbc.com/news/articles/cx2e3j819eqo?at_medium=RSS&at_campaign=rss",
+        "title": "Tanzania crackdown on planned protest leaves streets deserted"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
