@@ -6764,5 +6764,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-10",
+    "emojis": [
+      {
+        "char": "📉",
+        "label": "wall st futures slip ahead of fed meeting",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTW9waWQ2NVppNWM4eTBTZlNOakQ1T3VsQlVDVDc0bjBUbXVyQW5MQTdLZHZGZkpoQXM0eEZ1d21zal9xYVV4bXpKTkppR2VpOUEyWGt0dlJieTl4X09ZTzlnalpyeVVGcGRwQkhKUHZxQmVKTzZJRmZsRkVqV2E3TFY0SmdXWHBkZEdOcEpuNndxSlNPdV94aVhsdl9xWlRO?oc=5",
+        "title": "Wall St futures slip ahead of Fed meeting, 2026 cuts in doubt - Reuters"
+      },
+      {
+        "char": "🇵🇰",
+        "label": "trade war between pakistan and afghanistan",
+        "url": "https://www.nytimes.com/2025/12/09/world/asia/afghanistan-pakistan-trade.html",
+        "title": "Between Pakistan and Afghanistan, a Trade War With No End in Sight"
+      },
+      {
+        "char": "🏢",
+        "label": "aegon to move headquarters to us",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGdRSHFBaTBqU05waWJkZ09pcmJjLVdaOGRfaVBvRFl1c1JScE5JYk9WcGk1MElTeEVrcmIyVzYzZDZPQzhJV2EzZnNjLXlBcndybGRzQ0hKajRJbEJNNEhOSGwxSDlrejBNS3F3U09Oekk0ZWpmel9nVjhzeG5iMEM3LV9jQnNaazM0eGxwWnpBWm9KdTBUcHFybENiekhwN3E1bmNSUjZOcV9Jc2xFaA?oc=5",
+        "title": "Insurer Aegon to move headquarters to US, rebrand as Transamerica by 2028 - Reuters"
+      },
+      {
+        "char": "🐶",
+        "label": "musk on doge's success",
+        "url": "https://www.bbc.com/news/articles/c80x35dek82o?at_medium=RSS&at_campaign=rss",
+        "title": "Elon Musk says Doge was 'somewhat successful' but he would not do it again"
+      },
+      {
+        "char": "🎭",
+        "label": "theater builds an older fan base",
+        "url": "https://www.nytimes.com/2025/12/09/world/asia/skorea-aging-movies.html",
+        "title": "With Cheap Tickets and Lax Etiquette, a Theater Builds an Older Fan Base"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
