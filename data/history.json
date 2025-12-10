@@ -6647,5 +6647,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-10",
+    "emojis": [
+      {
+        "char": "🎨",
+        "label": "ukraine artist claim controversy",
+        "url": "https://www.nytimes.com/2025/12/09/world/europe/ukraine-malevich-artist.html",
+        "title": "Another Front in the War in Ukraine: Who Gets to Claim a Famed Artist?"
+      },
+      {
+        "char": "⚖️",
+        "label": "south africa sovereignty concerns",
+        "url": "https://www.theguardian.com/world/2025/dec/08/white-supremacist-notions-threaten-sovereignty-of-south-africa-ramaphosa",
+        "title": "False claims Afrikaners are persecuted threaten South Africa’s sovereignty, says president"
+      },
+      {
+        "char": "🇭🇳",
+        "label": "honduras electoral coup allegations",
+        "url": "https://www.theguardian.com/world/2025/dec/09/honduras-president-alleges-electoral-coup-under-way-amid-trump-interference",
+        "title": "Honduras president alleges ‘electoral coup’ under way amid Trump ‘interference’"
+      },
+      {
+        "char": "⚙️",
+        "label": "us military mineral refineries",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcW1Xa3FuYTFlcHIyelk5MVIxUzZ1YU5zcTg3Z0dEOVJSbWpsNmNiMnRMR0tiSEhMam9nZUVySUlnTHh5T0VFX1JRcnBzeWhpNElmMFJXSkVJV0xhVmVMZmViSEUwXzJINE10WEFUWm9ObHU2X21OeGhEY0JPV3IxaEN5bWxkTWpHOWJISUd1UGVza2J1UDdqTmxhUGx0T1p6WDRGd0xuS3ZOZ0xPa1E?oc=5",
+        "title": "US military developing small refineries for critical minerals - Reuters"
+      },
+      {
+        "char": "🏺",
+        "label": "ancient egyptian boat discovery",
+        "url": "https://www.theguardian.com/world/2025/dec/08/ancient-egyptian-pleasure-boat-found-archaeologists-alexandria-coast",
+        "title": "Ancient Egyptian pleasure boat found by archaeologists off Alexandria coast"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
