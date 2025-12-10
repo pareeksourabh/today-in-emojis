@@ -6803,5 +6803,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-10",
+    "emojis": [
+      {
+        "char": "📉",
+        "label": "stocks jitter over fed and ai earnings",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUlR4Y3RrbWZLZzZMaDA5QjV2SnBhYk1YdVVqTEtLaDY2ZmJDY2U2eGo3YW1hOVFIb3VVWkx3QXRqQXltVlBobzdnM0phdDhidjdKTG1DLWhTa3pHNnZhNXJ5YmpkcXpVZkx0NHJ0SE91M1NkOTNfUjZhN3JkSnI1MWR0Yw?oc=5",
+        "title": "Stocks recoil as investors get Fed, AI earnings jitters - Reuters"
+      },
+      {
+        "char": "✈️",
+        "label": "us jets circle gulf of venezuela",
+        "url": "https://www.bbc.com/news/articles/c0edxgx31zdo?at_medium=RSS&at_campaign=rss",
+        "title": "US jets tracked circling Gulf of Venezuela as tensions mount"
+      },
+      {
+        "char": "🌍",
+        "label": "rebels enter key dr congo city",
+        "url": "https://www.bbc.com/news/articles/cly59283d7ko?at_medium=RSS&at_campaign=rss",
+        "title": "Rebels reportedly enter key DR Congo city despite Trump peace deal"
+      },
+      {
+        "char": "💻",
+        "label": "chip company plotted tech to china",
+        "url": "https://www.nytimes.com/2025/12/10/world/asia/dutch-nexperia-zhang-ceo.html",
+        "title": "Chip Company Plotted to Send Technology to China, Ex-C.E.O. Says"
+      },
+      {
+        "char": "⚔️",
+        "label": "isis camps pose danger for syria leaders",
+        "url": "https://www.nytimes.com/2025/12/10/world/middleeast/islamic-state-detention-camps-syria.html",
+        "title": "ISIS Detention Camps Pose a Dangerous Problem for Syria’s Leaders"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
