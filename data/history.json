@@ -6920,5 +6920,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-11",
+    "emojis": [
+      {
+        "char": "🇧🇫",
+        "label": "burkina faso releases troops",
+        "url": "https://www.theguardian.com/world/2025/dec/10/burkina-faso-releases-nigerian-troops-unauthorised-emergency-landing",
+        "title": "Burkina Faso releases 11 Nigerian troops after ‘unauthorised’ plane landing"
+      },
+      {
+        "char": "🍝",
+        "label": "unesco recognizes italian cooking",
+        "url": "https://www.nytimes.com/2025/12/10/world/europe/unesco-yodeling-italian-cooking.html",
+        "title": "UNESCO Recognizes Italian Cooking, Kohl Makeup and Icelandic Pools"
+      },
+      {
+        "char": "🕊️",
+        "label": "venezuelan nobel winner misses ceremony",
+        "url": "https://www.theguardian.com/world/2025/dec/10/venezuelan-nobel-peace-prize-winner-maria-corina-machado-not-attend-ceremony-oslo",
+        "title": "Venezuelan Nobel peace prize winner misses ceremony but vows to continue struggle"
+      },
+      {
+        "char": "💼",
+        "label": "jpmorgan staff bonus announcement",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHpyQXBmQzF2cmxEeS1aQzBYVGVKUjhGZnBzelNrdldlNEZHcm03bFVyREZXU0ozdlRYQ3pFTXBXaXpGTzl3c1JzalFvakIwcUtjOTBVR2VIZW54TWJkWEJfWDg1Y1NFalFodFRDOFJoTlFVeTlfRjcxT1cwaWNXVzZCLWw4QXJ0dndoWGVfSThtbDNfbmQ4T0FjbUVQV3FFRTFzTDVCcVNLYTVRWGVOYlNoU1dMcXY5cHc?oc=5",
+        "title": "JPMorgan to provide up to $1,000 to staff making under $80,000 a year, memo shows - Reuters"
+      },
+      {
+        "char": "⚖️",
+        "label": "us sanctions colombian mercenaries",
+        "url": "https://www.theguardian.com/world/2025/dec/09/colombian-mercenaries-sudan-sanctions",
+        "title": "US puts sanctions on network said to funnel Colombian mercenaries to Sudan"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
