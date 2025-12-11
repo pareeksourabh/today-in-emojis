@@ -7076,5 +7076,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-11",
+    "emojis": [
+      {
+        "char": "🇳🇬",
+        "label": "nigerian troops held in burkina faso",
+        "url": "https://www.theguardian.com/world/2025/dec/09/nigeria-troops-held-burkina-faso-emergency-landing",
+        "title": "Nigerian troops held in Burkina Faso after ‘unfriendly’ emergency landing"
+      },
+      {
+        "char": "🗽",
+        "label": "kilmar abrego garcia released from ice",
+        "url": "https://www.theguardian.com/us-news/2025/dec/11/kilmar-abrego-garcia-released",
+        "title": "Kilmar Ábrego García ordered released from ICE custody in fight over Trump immigration"
+      },
+      {
+        "char": "🏅",
+        "label": "maria corina machado nobel ceremony",
+        "url": "https://www.nytimes.com/2025/12/10/world/americas/maria-corina-machado-venezuela-nobel.html",
+        "title": "María Corina Machado Appears in Norway After Missing Nobel Ceremony"
+      },
+      {
+        "char": "🇧🇴",
+        "label": "former bolivian president detained",
+        "url": "https://www.theguardian.com/world/2025/dec/10/bolivia-luis-arce",
+        "title": "Former Bolivian president Luis Arce detained on corruption charges"
+      },
+      {
+        "char": "🇧🇬",
+        "label": "bulgaria's prime minister resigns",
+        "url": "https://www.nytimes.com/2025/12/11/world/europe/bulgaria-prime-minister-resigns-protests.html",
+        "title": "Bulgaria’s Prime Minister Resigns in the Face of Mass Protests"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
