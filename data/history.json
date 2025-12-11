@@ -6959,5 +6959,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-11",
+    "emojis": [
+      {
+        "char": "🇩🇰",
+        "label": "danish intelligence concerns",
+        "url": "https://www.nytimes.com/2025/12/10/world/europe/danish-intelligence-concerns-about-us.html",
+        "title": "Danish Intelligence Report Raises Concerns About Shifts in US Policy Under Trump"
+      },
+      {
+        "char": "🏅",
+        "label": "venezuelan nobel winner in oslo",
+        "url": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss",
+        "title": "Venezuelan Nobel winner emerges to collect prize in Oslo after months in hiding"
+      },
+      {
+        "char": "💣",
+        "label": "thailand-cambodia land mines",
+        "url": "https://www.nytimes.com/2025/12/10/world/asia/thailand-cambodia-war-mines.html",
+        "title": "Khmer Rouge-Era Land Mines Have a Big Role in Thailand-Cambodia Conflict"
+      },
+      {
+        "char": "✈️",
+        "label": "burkina releases nigerian troops",
+        "url": "https://www.theguardian.com/world/2025/dec/10/burkina-faso-releases-nigerian-troops-unauthorised-emergency-landing",
+        "title": "Burkina Faso releases 11 Nigerian troops after ‘unauthorised’ plane landing"
+      },
+      {
+        "char": "⛽",
+        "label": "us seizes oil tanker off venezuela",
+        "url": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&at_campaign=rss",
+        "title": "US seizes oil tanker off Venezuela as Caracas condemns 'act of piracy'"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

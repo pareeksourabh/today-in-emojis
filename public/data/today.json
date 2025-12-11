@@ -1,36 +1,36 @@
 {
   "date": "2025-12-11",
-  "timestamp": "2025-12-11T04:39:45Z",
+  "timestamp": "2025-12-11T08:34:37Z",
   "emojis": [
     {
-      "char": "🇧🇫",
-      "label": "burkina faso releases troops",
+      "char": "🇩🇰",
+      "label": "danish intelligence concerns",
+      "url": "https://www.nytimes.com/2025/12/10/world/europe/danish-intelligence-concerns-about-us.html",
+      "title": "Danish Intelligence Report Raises Concerns About Shifts in US Policy Under Trump"
+    },
+    {
+      "char": "🏅",
+      "label": "venezuelan nobel winner in oslo",
+      "url": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss",
+      "title": "Venezuelan Nobel winner emerges to collect prize in Oslo after months in hiding"
+    },
+    {
+      "char": "💣",
+      "label": "thailand-cambodia land mines",
+      "url": "https://www.nytimes.com/2025/12/10/world/asia/thailand-cambodia-war-mines.html",
+      "title": "Khmer Rouge-Era Land Mines Have a Big Role in Thailand-Cambodia Conflict"
+    },
+    {
+      "char": "✈️",
+      "label": "burkina releases nigerian troops",
       "url": "https://www.theguardian.com/world/2025/dec/10/burkina-faso-releases-nigerian-troops-unauthorised-emergency-landing",
       "title": "Burkina Faso releases 11 Nigerian troops after ‘unauthorised’ plane landing"
     },
     {
-      "char": "🍝",
-      "label": "unesco recognizes italian cooking",
-      "url": "https://www.nytimes.com/2025/12/10/world/europe/unesco-yodeling-italian-cooking.html",
-      "title": "UNESCO Recognizes Italian Cooking, Kohl Makeup and Icelandic Pools"
-    },
-    {
-      "char": "🕊️",
-      "label": "venezuelan nobel winner misses ceremony",
-      "url": "https://www.theguardian.com/world/2025/dec/10/venezuelan-nobel-peace-prize-winner-maria-corina-machado-not-attend-ceremony-oslo",
-      "title": "Venezuelan Nobel peace prize winner misses ceremony but vows to continue struggle"
-    },
-    {
-      "char": "💼",
-      "label": "jpmorgan staff bonus announcement",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHpyQXBmQzF2cmxEeS1aQzBYVGVKUjhGZnBzelNrdldlNEZHcm03bFVyREZXU0ozdlRYQ3pFTXBXaXpGTzl3c1JzalFvakIwcUtjOTBVR2VIZW54TWJkWEJfWDg1Y1NFalFodFRDOFJoTlFVeTlfRjcxT1cwaWNXVzZCLWw4QXJ0dndoWGVfSThtbDNfbmQ4T0FjbUVQV3FFRTFzTDVCcVNLYTVRWGVOYlNoU1dMcXY5cHc?oc=5",
-      "title": "JPMorgan to provide up to $1,000 to staff making under $80,000 a year, memo shows - Reuters"
-    },
-    {
-      "char": "⚖️",
-      "label": "us sanctions colombian mercenaries",
-      "url": "https://www.theguardian.com/world/2025/dec/09/colombian-mercenaries-sudan-sanctions",
-      "title": "US puts sanctions on network said to funnel Colombian mercenaries to Sudan"
+      "char": "⛽",
+      "label": "us seizes oil tanker off venezuela",
+      "url": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&at_campaign=rss",
+      "title": "US seizes oil tanker off Venezuela as Caracas condemns 'act of piracy'"
     }
   ],
   "source": "ai-openai"
