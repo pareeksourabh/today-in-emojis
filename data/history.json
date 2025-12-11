@@ -6881,5 +6881,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-11",
+    "emojis": [
+      {
+        "char": "🏦",
+        "label": "jp morgan bets on security",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVmp3WjBxczA3V0hqLUZ2N05VX2RhV0xIWWU5N2pnZk05aHRtRnZ6bGpaNU9fV1BjZGhrczBDSlNoUVV6NnAza1NPMXFhbnROUHdvZEFwNG5FcDVBeVI1b3Vob1JqZFZrSWdudG9jUjlrRS1sQXZqempoT3NBVVZsbnJ6TjZHWTZFX2VUQUtiSlZua3VpbVlBQ19OWkFGOG5tVTktREIxX3BVMlJPdFlhTWJDMEdMbXhWQW0ycXp6cFVuUnox?oc=5",
+        "title": "JPMorgan supercharges its bet on national security by hiring Combs from Berkshire - Reuters"
+      },
+      {
+        "char": "🏅",
+        "label": "nobel peace prize award",
+        "url": "https://www.bbc.com/news/articles/cwyv5gw95ypo?at_medium=RSS&at_campaign=rss",
+        "title": "Nobel Peace Prize winner's daughter accepts award on her behalf"
+      },
+      {
+        "char": "🕵️‍♂",
+        "label": "danish intel on us policy",
+        "url": "https://www.nytimes.com/2025/12/10/world/europe/danish-intelligence-concerns-about-us.html",
+        "title": "Danish Intelligence Report Raises Concerns About Shifts in US Policy Under Trump"
+      },
+      {
+        "char": "🇧🇫",
+        "label": "burkina releases nigerian troops",
+        "url": "https://www.theguardian.com/world/2025/dec/10/burkina-faso-releases-nigerian-troops-unauthorised-emergency-landing",
+        "title": "Burkina Faso releases 11 Nigerian troops after ‘unauthorised’ plane landing"
+      },
+      {
+        "char": "🍝",
+        "label": "italian cooking heritage status",
+        "url": "https://www.bbc.com/news/articles/c80x3p331lxo?at_medium=RSS&at_campaign=rss",
+        "title": "Italian cooking awarded Unesco cultural heritage status"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
