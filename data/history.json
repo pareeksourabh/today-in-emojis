@@ -7193,5 +7193,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-12",
+    "emojis": [
+      {
+        "char": "💰",
+        "label": "oil gains on venezuelan supply concerns",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX3JKWHg1MldIWnI3c2Nia2dEeXo1SHNSakRsTzM0YWh3cmpDSEpZY1pYZXVXM3Nmb2Zaa1Q4NUNOcmtxSUtsUEVjOU1UYllobXVnRURfeVV3LUx0NFpuSzg5WnhlY1dwMV9KZjBlUV9DSVZJa0ZBcGV0TGoyeFF4cHFFVGJndkJBM2l3Y1JTMURSWUFNQ2ZiRlpZaVdfeElvUU81TFpYcW1sQQ?oc=5",
+        "title": "Oil gains on Venezuelan supply concerns, but poised for weekly loss - Reuters"
+      },
+      {
+        "char": "✈️",
+        "label": "fate of nigerian troops unclear",
+        "url": "https://www.theguardian.com/world/2025/dec/11/fate-of-11-nigerian-troops-unclear-after-unauthorised-plane-landing-in-burkina-faso",
+        "title": "Fate of 11 Nigerian troops unclear after ‘unauthorised’ plane landing in Burkina Faso"
+      },
+      {
+        "char": "🤖",
+        "label": "elon musk teams with el salvador",
+        "url": "https://www.theguardian.com/technology/2025/dec/11/elon-musk-el-salvador-grok",
+        "title": "Elon Musk teams with El Salvador to bring Grok chatbot to public schools"
+      },
+      {
+        "char": "📚",
+        "label": "former king juan carlos publishes book",
+        "url": "https://www.nytimes.com/2025/12/11/world/europe/juan-carlos-king-spain-book.html",
+        "title": "Former King Juan Carlos I of Spain, Seeking Relevance, Publishes Book"
+      },
+      {
+        "char": "⚖️",
+        "label": "pakistan ex-spy chief sentenced to prison",
+        "url": "https://www.nytimes.com/2025/12/11/world/asia/pakistan-isi-hameed-court-martial-prison.html",
+        "title": "Pakistan’s Ex-Spy Chief Sentenced to Prison After Court-Martial"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
