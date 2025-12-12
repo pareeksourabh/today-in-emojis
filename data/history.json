@@ -7271,5 +7271,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-12",
+    "emojis": [
+      {
+        "char": "🗽",
+        "label": "kilmar ábrego garcía released",
+        "url": "https://www.theguardian.com/us-news/2025/dec/11/kilmar-abrego-garcia-released",
+        "title": "Kilmar Ábrego García released from ICE custody in fight over Trump immigration"
+      },
+      {
+        "char": "🕊️",
+        "label": "trump's gaza peace plan struggles",
+        "url": "https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump's Gaza peace plan struggles to progress as Israel and Hamas face tough choices"
+      },
+      {
+        "char": "⛪",
+        "label": "oslo’s bishop practices atypical evangelism",
+        "url": "https://www.nytimes.com/2025/12/12/world/europe/oslo-norway-bishop-gylver.html",
+        "title": "With Dreadlocks and Yoga, Oslo’s Bishop Practices an Atypical Evangelism"
+      },
+      {
+        "char": "💰",
+        "label": "russia sues over frozen assets for ukraine",
+        "url": "https://www.nytimes.com/2025/12/12/world/europe/russia-ukraine-frozen-assets-belgium-euroclear.html",
+        "title": "Russia Sues Holder of Frozen Assets Europe Wants for Ukraine Loan"
+      },
+      {
+        "char": "🌧️",
+        "label": "flooding threat in pacific northwest",
+        "url": "https://www.theguardian.com/us-news/2025/dec/12/flood-water-rain-pacific-northwest-washington",
+        "title": "Flooding remains threat in Pacific north-west as Washington declares emergency"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
