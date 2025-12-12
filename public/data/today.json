@@ -1,36 +1,36 @@
 {
   "date": "2025-12-12",
-  "timestamp": "2025-12-12T01:03:22Z",
+  "timestamp": "2025-12-12T04:38:05Z",
   "emojis": [
     {
-      "char": "📚",
-      "label": "former king publishes book",
-      "url": "https://www.nytimes.com/2025/12/11/world/europe/juan-carlos-king-spain-book.html",
-      "title": "Former King Juan Carlos I of Spain, Seeking Relevance, Publishes Book"
+      "char": "📈",
+      "label": "record closes for Dow and S&P 500",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUM5d09ia29GV3ByRnFrODhrOG1LNDk2MzNYdTZDY0tNMXJpdWItbldkNmNFN3ZDamljMlF3ckQ4a2tTTlU1VHp5T1FweUN6TTI1R1UyOWh5RFdZNGZRYXdndUc3SnFMZGpLXzJNclpEdVNiZzN0NkR2WlVVaUtQOEk3bXU2WVV2Z2JKNWxqUmFIZU1nWTFhNm5GX1J6R2JUN3pQYm95aHQxc2NoQ3h4Uw?oc=5",
+      "title": "Dow, S&P 500 mark record closes; Oracle drags on the Nasdaq - Reuters"
     },
     {
-      "char": "💼",
+      "char": "⚖️",
+      "label": "hamas war crimes report by amnesty",
+      "url": "https://www.nytimes.com/2025/12/11/world/middleeast/amnesty-international-hamas-war-crimes-israel.html",
+      "title": "Hamas Committed War Crimes in 2023 Attack on Israel, Amnesty International Says"
+    },
+    {
+      "char": "🇧🇬",
       "label": "bulgarian pm resigns after protests",
       "url": "https://www.bbc.com/news/articles/cn09g640659o?at_medium=RSS&at_campaign=rss",
       "title": "Bulgarian PM and government resign after mass protests"
     },
     {
-      "char": "⚖️",
-      "label": "hamas war crimes report released",
-      "url": "https://www.nytimes.com/2025/12/11/world/middleeast/amnesty-international-hamas-war-crimes-israel.html",
-      "title": "Hamas Committed War Crimes in 2023 Attack on Israel, Amnesty International Says"
+      "char": "🤖",
+      "label": "musk's grok chatbot for schools",
+      "url": "https://www.theguardian.com/technology/2025/dec/11/elon-musk-el-salvador-grok",
+      "title": "Elon Musk teams with El Salvador to bring Grok chatbot to public schools"
     },
     {
-      "char": "✈️",
-      "label": "nigerian troops emergency landing",
-      "url": "https://www.theguardian.com/world/2025/dec/09/nigeria-troops-held-burkina-faso-emergency-landing",
-      "title": "Nigerian troops held in Burkina Faso after ‘unfriendly’ emergency landing"
-    },
-    {
-      "char": "🌍",
-      "label": "pressure on maduro grows",
-      "url": "https://www.theguardian.com/world/2025/dec/11/pressure-on-maduro-grows-after-us-seizes-dark-fleet-tanker-off-coast-of-venezuela",
-      "title": "Pressure on Maduro grows after US seizes ‘dark fleet’ tanker off coast of Venezuela"
+      "char": "🕌",
+      "label": "austria bans headscarves in schools",
+      "url": "https://www.bbc.com/news/articles/cn4djk0jj4xo?at_medium=RSS&at_campaign=rss",
+      "title": "Austria bans headscarves in schools for under-14s"
     }
   ],
   "source": "ai-openai"

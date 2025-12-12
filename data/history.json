@@ -7154,5 +7154,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-12",
+    "emojis": [
+      {
+        "char": "📈",
+        "label": "record closes for Dow and S&P 500",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUM5d09ia29GV3ByRnFrODhrOG1LNDk2MzNYdTZDY0tNMXJpdWItbldkNmNFN3ZDamljMlF3ckQ4a2tTTlU1VHp5T1FweUN6TTI1R1UyOWh5RFdZNGZRYXdndUc3SnFMZGpLXzJNclpEdVNiZzN0NkR2WlVVaUtQOEk3bXU2WVV2Z2JKNWxqUmFIZU1nWTFhNm5GX1J6R2JUN3pQYm95aHQxc2NoQ3h4Uw?oc=5",
+        "title": "Dow, S&P 500 mark record closes; Oracle drags on the Nasdaq - Reuters"
+      },
+      {
+        "char": "⚖️",
+        "label": "hamas war crimes report by amnesty",
+        "url": "https://www.nytimes.com/2025/12/11/world/middleeast/amnesty-international-hamas-war-crimes-israel.html",
+        "title": "Hamas Committed War Crimes in 2023 Attack on Israel, Amnesty International Says"
+      },
+      {
+        "char": "🇧🇬",
+        "label": "bulgarian pm resigns after protests",
+        "url": "https://www.bbc.com/news/articles/cn09g640659o?at_medium=RSS&at_campaign=rss",
+        "title": "Bulgarian PM and government resign after mass protests"
+      },
+      {
+        "char": "🤖",
+        "label": "musk's grok chatbot for schools",
+        "url": "https://www.theguardian.com/technology/2025/dec/11/elon-musk-el-salvador-grok",
+        "title": "Elon Musk teams with El Salvador to bring Grok chatbot to public schools"
+      },
+      {
+        "char": "🕌",
+        "label": "austria bans headscarves in schools",
+        "url": "https://www.bbc.com/news/articles/cn4djk0jj4xo?at_medium=RSS&at_campaign=rss",
+        "title": "Austria bans headscarves in schools for under-14s"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
