@@ -7310,5 +7310,44 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2025-12-12",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "us ends legal status for ethiopians",
+        "url": "https://www.theguardian.com/us-news/2025/dec/12/trump-ends-temporary-legal-status-ethiopia",
+        "title": "US ends temporary legal status for Ethiopians amid Trump crackdown"
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukraine responds to trump's peace plan",
+        "url": "https://www.nytimes.com/2025/12/12/world/europe/ukraine-trump-peace-plan-counterproposal.html",
+        "title": "How Ukraine Has Responded to Trump’s Peace Plan and Russia’s Demands for Territory"
+      },
+      {
+        "char": "🏥",
+        "label": "nobel laureate arrested in iran",
+        "url": "https://www.bbc.com/news/articles/cly559exm87o?at_medium=RSS&at_campaign=rss",
+        "title": "Nobel laureate Narges Mohammadi arrested in Iran, supporters say"
+      },
+      {
+        "char": "⚽",
+        "label": "palestinians find joy in soccer match",
+        "url": "https://www.nytimes.com/2025/12/12/world/middleeast/palestine-soccer-saudi-arabia-arab-cup.html",
+        "title": "For 2 Hours, a Soccer Match Offers Palestinians a Rarity: Joy"
+      },
+      {
+        "char": "🌧️",
+        "label": "flooding threat in pacific northwest",
+        "url": "https://www.theguardian.com/us-news/2025/dec/12/flood-water-rain-pacific-northwest-washington",
+        "title": "Flooding remains threat in Pacific north-west as Washington declares emergency"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
