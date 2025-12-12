@@ -7232,5 +7232,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-12",
+    "emojis": [
+      {
+        "char": "🏅",
+        "label": "nobel peace prize winner machado",
+        "url": "https://www.nytimes.com/2025/12/11/world/americas/maria-corina-machado-nobel-venezuela-maduro-trump.html",
+        "title": "Nobel Peace Prize Winner Machado Says U.S. Helped Her Leave Venezuela"
+      },
+      {
+        "char": "👩‍👧",
+        "label": "mother's fight in saudi arabia",
+        "url": "https://www.nytimes.com/2025/12/11/world/africa/saudi-arabia-unmarried-mothers.html",
+        "title": "A Single Mother’s Fight to Free Her Daughter From Saudi Arabia"
+      },
+      {
+        "char": "⛪",
+        "label": "oslo bishop's unique evangelism",
+        "url": "https://www.nytimes.com/2025/12/12/world/europe/oslo-norway-bishop-gylver.html",
+        "title": "With Dreadlocks and Yoga, Oslo’s Bishop Practices an Atypical Evangelism"
+      },
+      {
+        "char": "✈️",
+        "label": "nigerian troops fate unclear",
+        "url": "https://www.theguardian.com/world/2025/dec/11/fate-of-11-nigerian-troops-unclear-after-unauthorised-plane-landing-in-burkina-faso",
+        "title": "Fate of 11 Nigerian troops unclear after ‘unauthorised’ plane landing in Burkina Faso"
+      },
+      {
+        "char": "📉",
+        "label": "s korea exam chief quits over test",
+        "url": "https://www.bbc.com/news/articles/c3w792x0ggyo?at_medium=RSS&at_campaign=rss",
+        "title": "Chief of S Korea's high-stakes exam quits over 'insane' English test"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
