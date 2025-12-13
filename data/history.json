@@ -7505,5 +7505,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-13",
+    "emojis": [
+      {
+        "char": "⚽",
+        "label": "angry fans disrupt messi event in india",
+        "url": "https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS&at_campaign=rss",
+        "title": "Angry fans throw chairs and bottles at Messi event in India"
+      },
+      {
+        "char": "✈️",
+        "label": "nigerian troops fate unclear after landing",
+        "url": "https://www.theguardian.com/world/2025/dec/11/fate-of-11-nigerian-troops-unclear-after-unauthorised-plane-landing-in-burkina-faso",
+        "title": "Fate of 11 Nigerian troops unclear after ‘unauthorised’ plane landing in Burkina Faso"
+      },
+      {
+        "char": "📈",
+        "label": "canada's liberals edge closer to majority",
+        "url": "https://www.theguardian.com/world/2025/dec/12/canada-liberals-government-majority-conservative-michael-ma",
+        "title": "Canada’s Liberals edge closer to majority after Conservative lawmaker crosses floor"
+      },
+      {
+        "char": "💼",
+        "label": "venezuela oil exports fall after us seizure",
+        "url": "https://www.theguardian.com/world/2025/dec/13/venezuela-oil-exports-reportedly-fall-sharply-after-us-seizure-of-tanker-skipper",
+        "title": "Venezuela oil exports reportedly fall sharply after US seizure of tanker"
+      },
+      {
+        "char": "💡",
+        "label": "trump's plans for gaza under scrutiny",
+        "url": "https://www.nytimes.com/2025/12/13/world/middleeast/trump-gaza-plans-postwar.html",
+        "title": "Can Trump’s Grand Plans for Gaza Get Off the Drawing Board?"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
