@@ -7466,5 +7466,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-13",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "burkina releases nigerian troops",
+        "url": "https://www.theguardian.com/world/2025/dec/10/burkina-faso-releases-nigerian-troops-unauthorised-emergency-landing",
+        "title": "Burkina Faso releases 11 Nigerian troops after ‘unauthorised’ plane landing"
+      },
+      {
+        "char": "🇺🇸",
+        "label": "us scolds rwanda for peace deal breach",
+        "url": "https://www.theguardian.com/world/2025/dec/13/us-accuses-rwanda-of-violating-peace-deal",
+        "title": "US scolds Rwanda for breaking peace deal as M23 rebels seize key Congo city"
+      },
+      {
+        "char": "🏀",
+        "label": "spurs star wembanyama returns to play",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalNKYVZUaDU1bTZlSTlfaU4ydjVUSkd5ZThFNmwxc1BxMHg5YUtkUFZ6XzNtcjVpV2dmNEp3cXdQTUNLUXFWaU9tVC1YWFpNMTA3M3hHTDRuSC10Z05OYnpmSjJmYXhiTTl2bFJfUG5zb0k1LVlna2V2Y1hiV3dKRzJqSkxjQ25BUV9KX2I2UXVBNjB4eGJVTVJTczlCMlMyY1pDZzF0WU1sS3M?oc=5",
+        "title": "Spurs star C Victor Wembanyama (calf) to return vs. Thunder - Reuters"
+      },
+      {
+        "char": "📚",
+        "label": "korea's english exam prompts apology",
+        "url": "https://www.nytimes.com/2025/12/13/world/asia/korea-english-exam-how-would-you-do.html",
+        "title": "Korea’s English Exam Was So Hard It Prompted an Apology. How Would You Do?"
+      },
+      {
+        "char": "🇨🇳",
+        "label": "china holds low-key massacre memorial",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeElvLTR1dTB2YlQ4ZTh0ZmpFcU9ESm1uTTQtSzl5YVVKY2Fhak5aMWVZMkJoZTNxWElwUXdpVVJiMWxxQl8wUXRqUlUyalcydlV2NFA2aXRsNnhEYkY4aWp3eDhpNGRXdV9tZXZ6endvZFpZb1dfS2pHSk9kaG9VX0pMNHFBVjdVUWtvUm1YdV9wN2RpVVI5c1JiUHFoTWs5QzZXQl9aZ0R2LXk0OUVjTmtDV3RFbjA?oc=5",
+        "title": "China holds low-key Nanjing Massacre memorial despite Japan tensions - Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
