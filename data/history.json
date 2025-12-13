@@ -7544,5 +7544,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-13",
+    "emojis": [
+      {
+        "char": "🛢️",
+        "label": "venezuela oil exports drop sharply",
+        "url": "https://www.theguardian.com/world/2025/dec/13/venezuela-oil-exports-reportedly-fall-sharply-after-us-seizure-of-tanker-skipper",
+        "title": "Venezuela oil exports reportedly fall sharply after US seizure of tanker"
+      },
+      {
+        "char": "⚡",
+        "label": "ukraine faces power outages",
+        "url": "https://www.bbc.com/news/articles/c0l9954yr9ko?at_medium=RSS&at_campaign=rss",
+        "title": "One million households without power in Ukraine after Russia attacks energy grid"
+      },
+      {
+        "char": "🌧️",
+        "label": "washington declares flooding emergency",
+        "url": "https://www.theguardian.com/us-news/2025/dec/12/flood-water-rain-pacific-northwest-washington",
+        "title": "Flooding remains threat in Pacific north-west as Washington declares emergency"
+      },
+      {
+        "char": "🕊️",
+        "label": "trump's plans for gaza discussed",
+        "url": "https://www.nytimes.com/2025/12/13/world/middleeast/trump-gaza-plans-postwar.html",
+        "title": "Can Trump’s Grand Plans for Gaza Get Off the Drawing Board?"
+      },
+      {
+        "char": "💣",
+        "label": "us forces attacked in syria",
+        "url": "https://www.nytimes.com/2025/12/13/world/middleeast/us-forces-attacked-syria.html",
+        "title": "U.S. Forces Attacked in Syria, State Media Says"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
