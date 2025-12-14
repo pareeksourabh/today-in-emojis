@@ -7739,5 +7739,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-14",
+    "emojis": [
+      {
+        "char": "📸",
+        "label": "king of paparazzi in rome",
+        "url": "https://www.nytimes.com/2025/12/14/world/europe/rome-italy-celebrity-paparazzi-rino-barillari.html",
+        "title": "In Rome, the King of Paparazzi Is a Star in His Own Right"
+      },
+      {
+        "char": "🔫",
+        "label": "americans killed by is gunman",
+        "url": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
+        "title": "Three Americans killed by IS gunman in Syria, US military says"
+      },
+      {
+        "char": "🦴",
+        "label": "new human ancestor fossil found",
+        "url": "https://www.theguardian.com/science/2025/dec/15/little-foot-hominin-fossil-may-be-new-species-of-human-ancestor",
+        "title": "Little Foot hominin fossil may be new species of human ancestor"
+      },
+      {
+        "char": "🎥",
+        "label": "eyewitness captures bondi shooting",
+        "url": "https://www.bbc.com/news/videos/c62l00q1v88o?at_medium=RSS&at_campaign=rss",
+        "title": "Eyewitness captures moment man tackles and disarms Bondi shooter"
+      },
+      {
+        "char": "🇨🇱",
+        "label": "chile votes in presidential election",
+        "url": "https://www.theguardian.com/world/2025/dec/14/chile-presidential-election",
+        "title": "Far-right José Antonio Kast favored to win as Chile votes in presidential runoff"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
