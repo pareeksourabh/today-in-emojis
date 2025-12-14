@@ -7583,5 +7583,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-14",
+    "emojis": [
+      {
+        "char": "🇧🇾",
+        "label": "belarus frees political prisoners",
+        "url": "https://www.nytimes.com/2025/12/13/world/europe/belarus-frees-prisoners-trade-sanctions.html",
+        "title": "Belarus Frees Prominent Political Prisoners as U.S. Lifts Some Trade Sanctions"
+      },
+      {
+        "char": "🔫",
+        "label": "shooting at brown university",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcV9MZTRuZnhHNnJjQWlteXVNWEV1aE1mX0NLRERWSU5vWlh6OXFOVFVKdlRpVTFwZ3hsb3RLZGZRZ0lxRkNiZVBPUk5fb2Via1lJMmlrc2JlNjAwcXJNMlFYa3BUd3hZbzlDUWZTMXhzdHQxdXJtU0FNZU9KckJFRFJUdDNzd0MxTDU5MFdKSjMwVTJaSHBwZktfN1A?oc=5",
+        "title": "At least two killed, eight injured in Brown University shooting - Reuters"
+      },
+      {
+        "char": "✈️",
+        "label": "nigerian troops plane landing",
+        "url": "https://www.theguardian.com/world/2025/dec/11/fate-of-11-nigerian-troops-unclear-after-unauthorised-plane-landing-in-burkina-faso",
+        "title": "Fate of 11 Nigerian troops unclear after ‘unauthorised’ plane landing in Burkina Faso"
+      },
+      {
+        "char": "💣",
+        "label": "drone strike in sudan",
+        "url": "https://www.theguardian.com/world/2025/dec/13/drone-strike-on-un-facility-in-war-torn-sudan-leaves-six-peacekeepers-dead",
+        "title": "Drone strike on UN facility in war-torn Sudan leaves six peacekeepers dead"
+      },
+      {
+        "char": "🇨🇱",
+        "label": "chile election crime fears",
+        "url": "https://www.nytimes.com/2025/12/13/world/americas/chile-election-latin-america-crime.html",
+        "title": "Chile Poised for Right-Wing Victory as Crime Fears Sweep Latin America"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
