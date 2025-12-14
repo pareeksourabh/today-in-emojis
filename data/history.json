@@ -7661,5 +7661,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-14",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "russia bombs odesa amid peace talks",
+        "url": "https://www.nytimes.com/2025/12/13/world/europe/russia-ukraine-odesa-attack.html",
+        "title": "Russia Bombs Ukraine Port of Odesa Amid Peace Talks"
+      },
+      {
+        "char": "💣",
+        "label": "israel kills senior hamas commander",
+        "url": "https://www.nytimes.com/2025/12/13/world/middleeast/israel-hamas-commander-gaza-strike.html",
+        "title": "Israel Says It Killed Senior Hamas Commander, Despite Cease-Fire"
+      },
+      {
+        "char": "🔫",
+        "label": "manhunt after brown university shooting",
+        "url": "https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS&at_campaign=rss",
+        "title": "Manhunt continues after two killed in shooting at Brown University"
+      },
+      {
+        "char": "📰",
+        "label": "rights groups condemn re-arrest in iran",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOTdNY3RJY21PeXJZQllMelZ2dHF3T3RRbmFKQlJRNHlnZ3pTZDdpcFAwMHc4NGFudGNnVEhTVGlPLURNQU1xbDZxZDNOaU80azhwR3gtU25jTVpsQUNBaEtuVVJfQ3FiTl9fZTE1WktuUzY2eVVlZDg2YXRvS0RiYkRzUkI3ekxxTEJBLWJWTUI4T2Y2aVRWYmFrcFRrYmVpVzVmOHFXWkZreWJKNGhHX0ZYaHQyU19GWWpXQWhzVVliUQ?oc=5",
+        "title": "Rights groups condemn re-arrest of Nobel laureate Mohammadi in Iran - Reuters"
+      },
+      {
+        "char": "⚔️",
+        "label": "us scolds rwanda over peace deal",
+        "url": "https://www.theguardian.com/world/2025/dec/13/us-accuses-rwanda-of-violating-peace-deal",
+        "title": "US scolds Rwanda for breaking peace deal as M23 rebels seize key Congo city"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
