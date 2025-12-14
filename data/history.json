@@ -7700,5 +7700,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-14",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "us ends legal status for ethiopians",
+        "url": "https://www.theguardian.com/us-news/2025/dec/12/trump-ends-temporary-legal-status-ethiopia",
+        "title": "US ends temporary legal status for Ethiopians amid Trump crackdown"
+      },
+      {
+        "char": "🇨🇱",
+        "label": "chile votes in presidential runoff",
+        "url": "https://www.nytimes.com/2025/12/14/world/americas/chile-election-candidates.html",
+        "title": "Chile Votes in Presidential Runoff"
+      },
+      {
+        "char": "🌍",
+        "label": "cambodia shuts border with thailand",
+        "url": "https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss",
+        "title": "Cambodia shuts border crossings with Thailand as fighting continues"
+      },
+      {
+        "char": "🎄",
+        "label": "five arrested over german market plot",
+        "url": "https://www.bbc.com/news/articles/c2dz7r708dxo?at_medium=RSS&at_campaign=rss",
+        "title": "Five arrested over plot to attack German Christmas market"
+      },
+      {
+        "char": "🕊️",
+        "label": "drone strike kills peacekeepers in sudan",
+        "url": "https://www.theguardian.com/world/2025/dec/13/drone-strike-on-un-facility-in-war-torn-sudan-leaves-six-peacekeepers-dead",
+        "title": "Drone strike on UN facility in war-torn Sudan leaves six peacekeepers dead"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
