@@ -8012,5 +8012,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-15",
+    "emojis": [
+      {
+        "char": "💔",
+        "label": "drone strike in sudan kills peacekeepers",
+        "url": "https://www.theguardian.com/world/2025/dec/13/drone-strike-on-un-facility-in-war-torn-sudan-leaves-six-peacekeepers-dead",
+        "title": "Drone strike on UN facility in war-torn Sudan leaves six peacekeepers dead"
+      },
+      {
+        "char": "🏛️",
+        "label": "hong kong tycoon convicted in trial",
+        "url": "https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&at_campaign=rss",
+        "title": "Pro-democracy Hong Kong tycoon Jimmy Lai convicted in high-profile national security trial"
+      },
+      {
+        "char": "🛡️",
+        "label": "us offers security guarantees to ukraine",
+        "url": "https://www.bbc.com/news/articles/cjrjq2v7l3po?at_medium=RSS&at_campaign=rss",
+        "title": "US offers Ukraine 'strong' security guarantees but territory still unresolved"
+      },
+      {
+        "char": "✈️",
+        "label": "jetblue pilot avoids midair collision",
+        "url": "https://www.theguardian.com/us-news/2025/dec/14/jetblue-pilot-avoids-midair-collision-air-force-venezuela",
+        "title": "Pilot narrowly avoids ‘midair collision’ with US air force plane near Venezuela"
+      },
+      {
+        "char": "🇨🇱",
+        "label": "kast elected as chile's president",
+        "url": "https://www.theguardian.com/world/2025/dec/15/jose-antonio-kast-chile-election-analysis",
+        "title": "Chile’s new far-right head is latest Latin American leader to ride hardline wave to power"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
