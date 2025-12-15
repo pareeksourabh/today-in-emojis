@@ -1,36 +1,36 @@
 {
   "date": "2025-12-15",
-  "timestamp": "2025-12-15T12:57:08Z",
+  "timestamp": "2025-12-15T16:15:22Z",
   "emojis": [
     {
-      "char": "🎄",
-      "label": "german christmas market attack",
-      "url": "https://www.bbc.com/news/articles/c2dz7r708dxo?at_medium=RSS&at_campaign=rss",
-      "title": "Five arrested over plot to attack German Christmas market"
+      "char": "🇩🇪",
+      "label": "the turbulent times of friedrich merz",
+      "url": "https://www.nytimes.com/2025/12/15/world/europe/friedrich-merz-germany.html",
+      "title": "The Turbulent Times of Friedrich Merz"
     },
     {
-      "char": "🦴",
-      "label": "new human ancestor fossil found",
-      "url": "https://www.theguardian.com/science/2025/dec/15/little-foot-hominin-fossil-may-be-new-species-of-human-ancestor",
-      "title": "Little Foot hominin fossil may be new species of human ancestor"
-    },
-    {
-      "char": "💣",
-      "label": "israel strikes hamas official",
-      "url": "https://www.bbc.com/news/articles/cx2dklj3rxvo?at_medium=RSS&at_campaign=rss",
-      "title": "Israel targets senior Hamas official in deadly Gaza strike"
-    },
-    {
-      "char": "⚖️",
-      "label": "kast wins chile presidency",
+      "char": "🇨🇱",
+      "label": "jose antonio kast elected president",
       "url": "https://www.theguardian.com/world/2025/dec/15/jose-antonio-kast-wins-election-chile-president",
       "title": "Ultra-conservative José Antonio Kast elected Chile’s next president"
     },
     {
-      "char": "📉",
-      "label": "gold prices rise on safe-haven demand",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOem1RRDBScGtTTWkzTzlKVmxQMGIyRjh4T1g4YThhbW9EdjhnOW5YeF9wdHhaUXF5VzRJVnhzRmpCenJReVU4NHVPQmxvNllMRFZkTlpSa0JoeGtUakZPSlFFOFE3d2x1YzdBQ0xOVndnekFGREpyRkt3Q2VDNDN4OURodVZsMGN1T1c5a1ZCSXRtc181MFhuUUpFY2didFprVTlhbkc0M3dhUHdSRm4tbDJrWUdnWVRJZ2dHZw?oc=5",
-      "title": "Gold gains 1% on safe-haven demand, softer dollar ahead of US jobs data - Reuters"
+      "char": "🇦🇺",
+      "label": "bondi massacre suspect charged",
+      "url": "https://www.nytimes.com/live/2025/12/15/world/bondi-beach-shooting-australia",
+      "title": "Australian Police Plan to Charge Suspect in Bondi Massacre"
+    },
+    {
+      "char": "📰",
+      "label": "hong kong tycoon jimmy lai convicted",
+      "url": "https://www.nytimes.com/2025/12/15/world/asia/hong-kong-jimmy-lai-tycoon-china.html",
+      "title": "Hong Kong Media Tycoon Jimmy Lai’s Conviction Was Years in the Making"
+    },
+    {
+      "char": "🕊️",
+      "label": "drone strike in war-torn sudan",
+      "url": "https://www.theguardian.com/world/2025/dec/13/drone-strike-on-un-facility-in-war-torn-sudan-leaves-six-peacekeepers-dead",
+      "title": "Drone strike on UN facility in war-torn Sudan leaves six peacekeepers dead"
     }
   ],
   "source": "ai-openai"

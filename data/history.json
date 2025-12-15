@@ -7973,5 +7973,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-15",
+    "emojis": [
+      {
+        "char": "🇩🇪",
+        "label": "the turbulent times of friedrich merz",
+        "url": "https://www.nytimes.com/2025/12/15/world/europe/friedrich-merz-germany.html",
+        "title": "The Turbulent Times of Friedrich Merz"
+      },
+      {
+        "char": "🇨🇱",
+        "label": "jose antonio kast elected president",
+        "url": "https://www.theguardian.com/world/2025/dec/15/jose-antonio-kast-wins-election-chile-president",
+        "title": "Ultra-conservative José Antonio Kast elected Chile’s next president"
+      },
+      {
+        "char": "🇦🇺",
+        "label": "bondi massacre suspect charged",
+        "url": "https://www.nytimes.com/live/2025/12/15/world/bondi-beach-shooting-australia",
+        "title": "Australian Police Plan to Charge Suspect in Bondi Massacre"
+      },
+      {
+        "char": "📰",
+        "label": "hong kong tycoon jimmy lai convicted",
+        "url": "https://www.nytimes.com/2025/12/15/world/asia/hong-kong-jimmy-lai-tycoon-china.html",
+        "title": "Hong Kong Media Tycoon Jimmy Lai’s Conviction Was Years in the Making"
+      },
+      {
+        "char": "🕊️",
+        "label": "drone strike in war-torn sudan",
+        "url": "https://www.theguardian.com/world/2025/dec/13/drone-strike-on-un-facility-in-war-torn-sudan-leaves-six-peacekeepers-dead",
+        "title": "Drone strike on UN facility in war-torn Sudan leaves six peacekeepers dead"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
