@@ -1,7 +1,13 @@
 {
   "date": "2025-12-15",
-  "timestamp": "2025-12-15T08:36:46Z",
+  "timestamp": "2025-12-15T12:57:08Z",
   "emojis": [
+    {
+      "char": "🎄",
+      "label": "german christmas market attack",
+      "url": "https://www.bbc.com/news/articles/c2dz7r708dxo?at_medium=RSS&at_campaign=rss",
+      "title": "Five arrested over plot to attack German Christmas market"
+    },
     {
       "char": "🦴",
       "label": "new human ancestor fossil found",
@@ -9,28 +15,22 @@
       "title": "Little Foot hominin fossil may be new species of human ancestor"
     },
     {
-      "char": "👩‍⚕️",
-      "label": "kenya's economy and women workers",
-      "url": "https://www.nytimes.com/2025/12/14/world/africa/kenya-saudi-arabia-worker-abuse.html",
-      "title": "Kenya Is Betting Its Economy on Women Willing to Risk It All"
+      "char": "💣",
+      "label": "israel strikes hamas official",
+      "url": "https://www.bbc.com/news/articles/cx2dklj3rxvo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel targets senior Hamas official in deadly Gaza strike"
     },
     {
-      "char": "✈️",
-      "label": "jetblue pilot avoids collision",
-      "url": "https://www.theguardian.com/us-news/2025/dec/14/jetblue-pilot-avoids-midair-collision-air-force-venezuela",
-      "title": "Pilot narrowly avoids ‘midair collision’ with US air force plane near Venezuela"
-    },
-    {
-      "char": "🗳️",
-      "label": "chile elects far-right president",
-      "url": "https://www.bbc.com/news/articles/c0kde07lvvro?at_medium=RSS&at_campaign=rss",
-      "title": "Chile elects far-right José Antonio Kast as next president"
+      "char": "⚖️",
+      "label": "kast wins chile presidency",
+      "url": "https://www.theguardian.com/world/2025/dec/15/jose-antonio-kast-wins-election-chile-president",
+      "title": "Ultra-conservative José Antonio Kast elected Chile’s next president"
     },
     {
       "char": "📉",
-      "label": "venezuela oil exports decline",
-      "url": "https://www.theguardian.com/world/2025/dec/13/venezuela-oil-exports-reportedly-fall-sharply-after-us-seizure-of-tanker-skipper",
-      "title": "Venezuela oil exports reportedly fall sharply after US seizure of tanker"
+      "label": "gold prices rise on safe-haven demand",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOem1RRDBScGtTTWkzTzlKVmxQMGIyRjh4T1g4YThhbW9EdjhnOW5YeF9wdHhaUXF5VzRJVnhzRmpCenJReVU4NHVPQmxvNllMRFZkTlpSa0JoeGtUakZPSlFFOFE3d2x1YzdBQ0xOVndnekFGREpyRkt3Q2VDNDN4OURodVZsMGN1T1c5a1ZCSXRtc181MFhuUUpFY2didFprVTlhbkc0M3dhUHdSRm4tbDJrWUdnWVRJZ2dHZw?oc=5",
+      "title": "Gold gains 1% on safe-haven demand, softer dollar ahead of US jobs data - Reuters"
     }
   ],
   "source": "ai-openai"
