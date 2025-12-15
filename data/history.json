@@ -7895,5 +7895,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-15",
+    "emojis": [
+      {
+        "char": "🦴",
+        "label": "new human ancestor fossil found",
+        "url": "https://www.theguardian.com/science/2025/dec/15/little-foot-hominin-fossil-may-be-new-species-of-human-ancestor",
+        "title": "Little Foot hominin fossil may be new species of human ancestor"
+      },
+      {
+        "char": "👩‍⚕️",
+        "label": "kenya's economy and women workers",
+        "url": "https://www.nytimes.com/2025/12/14/world/africa/kenya-saudi-arabia-worker-abuse.html",
+        "title": "Kenya Is Betting Its Economy on Women Willing to Risk It All"
+      },
+      {
+        "char": "✈️",
+        "label": "jetblue pilot avoids collision",
+        "url": "https://www.theguardian.com/us-news/2025/dec/14/jetblue-pilot-avoids-midair-collision-air-force-venezuela",
+        "title": "Pilot narrowly avoids ‘midair collision’ with US air force plane near Venezuela"
+      },
+      {
+        "char": "🗳️",
+        "label": "chile elects far-right president",
+        "url": "https://www.bbc.com/news/articles/c0kde07lvvro?at_medium=RSS&at_campaign=rss",
+        "title": "Chile elects far-right José Antonio Kast as next president"
+      },
+      {
+        "char": "📉",
+        "label": "venezuela oil exports decline",
+        "url": "https://www.theguardian.com/world/2025/dec/13/venezuela-oil-exports-reportedly-fall-sharply-after-us-seizure-of-tanker-skipper",
+        "title": "Venezuela oil exports reportedly fall sharply after US seizure of tanker"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
