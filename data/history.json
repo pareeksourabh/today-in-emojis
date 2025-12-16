@@ -8129,5 +8129,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-16",
+    "emojis": [
+      {
+        "char": "📉",
+        "label": "indian shares drop amid weak rupee",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcGNPa2FfMUlyOVprUDZ3MXNFYmV6eFFsV0ZXSU5WZmtBUlk3UFBEQ3FfVDFJdUQ2UnNPbERvSnl4X0FNbU5JS1lKeUwxaHNzTnRZTUE1ZVEwTWNrYW02MnNncGx3R1JfTm92OEJTVTBJcDZDdTdUYkl4bGllQ3pOVlItZE1idTJzUDJUdkJsOWRTd01rSG51dlRoNjNoYzNBTkE4Z1pRaFVTTWJkOG55d2FLeDgwUQ?oc=5",
+        "title": "Indian shares drop in early trade as foreign flows, weak rupee weigh - Reuters"
+      },
+      {
+        "char": "🌧️",
+        "label": "dozens killed in morocco flash floods",
+        "url": "https://www.bbc.com/news/articles/cjwyzlly6eno?at_medium=RSS&at_campaign=rss",
+        "title": "Dozens killed in Morocco flash floods"
+      },
+      {
+        "char": "📰",
+        "label": "hong kong tycoon jimmy lai convicted",
+        "url": "https://www.nytimes.com/2025/12/15/world/asia/hong-kong-jimmy-lai-tycoon-china.html",
+        "title": "Hong Kong Media Tycoon Jimmy Lai’s Conviction Was Years in the Making"
+      },
+      {
+        "char": "🔫",
+        "label": "sydney gunmen motivated by isis",
+        "url": "https://www.nytimes.com/live/2025/12/15/world/bondi-beach-shooting-gunmen-isis",
+        "title": "Live Updates: Sydney Gunmen Were Motivated by ISIS, Australia Prime Minister Says"
+      },
+      {
+        "char": "🇨🇱",
+        "label": "jose antonio kast elected chilean president",
+        "url": "https://www.theguardian.com/world/2025/dec/15/jose-antonio-kast-wins-election-chile-president",
+        "title": "Ultra-conservative José Antonio Kast elected Chile’s next president"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
