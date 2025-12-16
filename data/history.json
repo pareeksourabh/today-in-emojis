@@ -8051,5 +8051,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-16",
+    "emojis": [
+      {
+        "char": "🎓",
+        "label": "ghanaian students face deportation",
+        "url": "https://www.theguardian.com/education/2025/dec/14/ghana-students-uk-universities-face-deportion-funding-crisis",
+        "title": "Ghanaian students at UK universities face deportation amid funding crisis"
+      },
+      {
+        "char": "📉",
+        "label": "global stock index dips ahead of data",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85eUU0amE3MzRVc3hMb0lIUldkcTFqMmhfbWJoVDFzUUF2bzVWcTJnU3lILWZ6OXBWWnJxVlhlZDdMR25sZzZwNlF3M3JjSnV2UTRKUXR2Uk5qLS01Y2RFU0dYZFlRWXlGN2Y1NTltZ0ItVUp6dHo3NFJPWQ?oc=5",
+        "title": "Global stock index dips ahead of key US data, central bank decisions - Reuters"
+      },
+      {
+        "char": "📰",
+        "label": "hong kong tycoon jimmy lai convicted",
+        "url": "https://www.nytimes.com/2025/12/15/world/asia/hong-kong-jimmy-lai-tycoon-china.html",
+        "title": "Hong Kong Media Tycoon Jimmy Lai’s Conviction Was Years in the Making"
+      },
+      {
+        "char": "🗳️",
+        "label": "kast elected chile's next president",
+        "url": "https://www.theguardian.com/world/2025/dec/15/jose-antonio-kast-wins-election-chile-president",
+        "title": "Ultra-conservative José Antonio Kast elected Chile’s next president"
+      },
+      {
+        "char": "🌍",
+        "label": "eu flies aid to darfur amid crisis",
+        "url": "https://www.nytimes.com/2025/12/15/world/africa/darfur-sudan-eu-aid.html",
+        "title": "E.U. Flies 110 Tons of Aid to Darfur. But Will It Reach Those In Need?"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
