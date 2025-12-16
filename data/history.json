@@ -8168,5 +8168,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-16",
+    "emojis": [
+      {
+        "char": "🔫",
+        "label": "albanese vows to toughen gun laws",
+        "url": "https://www.nytimes.com/2025/12/15/world/australia/albanese-gun-control-bondi-shooting.html",
+        "title": "Albanese Vows to Toughen Gun Laws After Deadly Bondi Shooting"
+      },
+      {
+        "char": "🇻🇪",
+        "label": "venezuela accuses trinidad of us seizure",
+        "url": "https://www.theguardian.com/world/2025/dec/15/trinidad-tobago-us-access-airports-venezuela-tensions-grow",
+        "title": "Venezuela accuses Trinidad and Tobago of taking part in US seizure of oil tanker"
+      },
+      {
+        "char": "⚓",
+        "label": "eight killed in strikes on drug boats",
+        "url": "https://www.bbc.com/news/articles/c3e0wd7110vo?at_medium=RSS&at_campaign=rss",
+        "title": "Eight killed in latest strikes on alleged drug boats, US military says"
+      },
+      {
+        "char": "🍖",
+        "label": "brazilian tycoon key in regional diplomacy",
+        "url": "https://www.theguardian.com/world/2025/dec/16/joesley-batista-brazil-luiz-inacio-lula-da-silva-trump",
+        "title": "How a Brazilian meat tycoon accused of bribery and deforestation became a key player in regional diplomacy"
+      },
+      {
+        "char": "🌍",
+        "label": "libya national museum reopens",
+        "url": "https://www.theguardian.com/world/2025/dec/16/libya-national-museum-reopens",
+        "title": "Libya looks to its past to build a new future as national museum reopens"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
