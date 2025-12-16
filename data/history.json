@@ -8090,5 +8090,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-16",
+    "emojis": [
+      {
+        "char": "🛡️",
+        "label": "fbi foils terror plot in california",
+        "url": "https://www.bbc.com/news/articles/cn41gqq8vyko?at_medium=RSS&at_campaign=rss",
+        "title": "FBI foils New Year's Eve terror plot across southern California, officials say"
+      },
+      {
+        "char": "🇨🇱",
+        "label": "kast wins election in chile",
+        "url": "https://www.nytimes.com/2025/12/15/world/americas/chile-kast-right-wing-movement.html",
+        "title": "Kast’s Victory in Chile Is Another Win for Global Right-Wing Movement"
+      },
+      {
+        "char": "🦴",
+        "label": "new human ancestor fossil discovered",
+        "url": "https://www.theguardian.com/science/2025/dec/15/little-foot-hominin-fossil-may-be-new-species-of-human-ancestor",
+        "title": "Little Foot hominin fossil may be new species of human ancestor"
+      },
+      {
+        "char": "📉",
+        "label": "global stock index dips ahead of data",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85eUU0amE3MzRVc3hMb0lIUldkcTFqMmhfbWJoVDFzUUF2bzVWcTJnU3lILWZ6OXBWWnJxVlhlZDdMR25sZzZwNlF3M3JjSnV2UTRKUXR2Uk5qLS01Y2RFU0dYZFlRWXlGN2Y1NTltZ0ItVUp6dHo3NFJPWQ?oc=5",
+        "title": "Global stock index dips ahead of key US data, central bank decisions - Reuters"
+      },
+      {
+        "char": "💔",
+        "label": "bondi shooting victims identified",
+        "url": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss",
+        "title": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims?"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
