@@ -8246,5 +8246,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-16",
+    "emojis": [
+      {
+        "char": "🎓",
+        "label": "ghanaian students face deportation",
+        "url": "https://www.theguardian.com/education/2025/dec/14/ghana-students-uk-universities-face-deportion-funding-crisis",
+        "title": "Ghanaian students at UK universities face deportation amid funding crisis"
+      },
+      {
+        "char": "📉",
+        "label": "us business activity growth slows",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGZIejBpZGV3U3NfYWxpZFkwOXFWdmpqYnIyWTBfejlkSU0wT196X3NOY3J3MjBMaTJ5TzNxMzAyS3dTNUxuM0Zuc0pIZ3pCeTdQbmptVXNlTlZzZUl4Rkh4UHMzd0FNalJMbFgwY0dKemplVHBpUXdiQjUzY2Rmdlc4OU5taHpZaTFlMHN3MUc0bkJDNVJSUGI0OVZ2dXM?oc=5",
+        "title": "U.S. business activity growth hits 6-month low in December - Reuters"
+      },
+      {
+        "char": "🐘",
+        "label": "poaching of rare elephants in borneo",
+        "url": "https://www.nytimes.com/2025/12/16/world/asia/borneo-elephants-poaching-beheading.html",
+        "title": "In a Remote Jungle, the Gruesome Poaching of Rare Elephants"
+      },
+      {
+        "char": "🚨",
+        "label": "gulf clan designated terrorist organization",
+        "url": "https://www.theguardian.com/world/2025/dec/16/gulf-clan-colombia-us-terrorist-organization",
+        "title": "US designates Colombia’s biggest drug cartel Gulf Clan as terrorist organization"
+      },
+      {
+        "char": "🌍",
+        "label": "libya national museum reopens",
+        "url": "https://www.theguardian.com/world/2025/dec/16/libya-national-museum-reopens",
+        "title": "Libya looks to its past to build a new future as national museum reopens"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
