@@ -8441,5 +8441,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-17",
+    "emojis": [
+      {
+        "char": "🇻🇪",
+        "label": "trump's actions on venezuela oil",
+        "url": "https://www.theguardian.com/world/2025/dec/17/what-action-is-trump-taking-against-venezuela-oil-industry",
+        "title": "What action is Trump taking against Venezuela’s oil industry?"
+      },
+      {
+        "char": "📈",
+        "label": "fed liquidity measures calm jitters",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWTNHUHAwNW1Nak02dTZzanVEaUl3S3I0V1VfYXJidkFWczVrUVVEcWpJclQyV1ZVN2J5VXlESmJhcU9mRThyTjRuTERyamtFdTZsVUttRG5BdmZjTDJRTnZEbzlXS2dXbE1SdVVhMzFEMzd5bUVXUVowWk1rZE1BV0FndXNpMFUyVkZKTGg2X2R2TmxWbzA5VzVzcUx6d05GUVRJbHVSTzg?oc=5",
+        "title": "Fed liquidity measures calm year-end funding jitters - Reuters"
+      },
+      {
+        "char": "🦴",
+        "label": "new human ancestor fossil found",
+        "url": "https://www.theguardian.com/science/2025/dec/15/little-foot-hominin-fossil-may-be-new-species-of-human-ancestor",
+        "title": "Little Foot hominin fossil may be new species of human ancestor"
+      },
+      {
+        "char": "🎥",
+        "label": "pentagon won't release attack video",
+        "url": "https://www.theguardian.com/world/2025/dec/16/pentagon-wont-release-full-video-caribbean-attack",
+        "title": "Pentagon won’t release full video of Caribbean strike that killed two people, Hegseth says"
+      },
+      {
+        "char": "💔",
+        "label": "grief at rabbi's funeral in bondi",
+        "url": "https://www.nytimes.com/2025/12/17/world/asia/rabbi-eli-schlanger-funeral-bondi-shooting.html",
+        "title": "Grief Mixes With Anger at Funeral of Rabbi Killed in Bondi Beach Attack"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
