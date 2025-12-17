@@ -8402,5 +8402,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-17",
+    "emojis": [
+      {
+        "char": "📈",
+        "label": "investment trends and predictions",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckZhSUxfeGMyay1WV1duUkJWQkE2YzFsQmFKU0hRbDZRU1hEVEg5akM1a3NLR2FMeG5WUm5xWmpQX0dIZkdwMTQ3MEpKQ25MamwyRDN1UWNibTA0dXhqSTk3VWpNbUJZT25aRE5jWVV3V3BOZWJrNDB1ajV4ZlhQdUcxQmpsVU1MREZ6SVJ5MHM0Q0xFZVpuS1AzOA?oc=5",
+        "title": "Investment herd got it mostly right a year ago - Reuters"
+      },
+      {
+        "char": "🎥",
+        "label": "pentagon video release controversy",
+        "url": "https://www.theguardian.com/world/2025/dec/16/pentagon-wont-release-full-video-caribbean-attack",
+        "title": "Pentagon won’t release full video of Caribbean strike that killed two people, Hegseth says"
+      },
+      {
+        "char": "🔫",
+        "label": "bondi beach murder charges",
+        "url": "https://www.nytimes.com/2025/12/17/world/asia/australia-bondi-beach-shooting.html",
+        "title": "Suspect in Bondi Beach Killings Is Charged With Murder and Terrorism"
+      },
+      {
+        "char": "🌍",
+        "label": "libya's national museum reopening",
+        "url": "https://www.theguardian.com/world/2025/dec/16/libya-national-museum-reopens",
+        "title": "Libya looks to its past to build a new future as national museum reopens"
+      },
+      {
+        "char": "🐘",
+        "label": "poaching of rare elephants",
+        "url": "https://www.nytimes.com/2025/12/16/world/asia/borneo-elephants-poaching-beheading.html",
+        "title": "In a Remote Jungle, the Gruesome Poaching of Rare Elephants"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
