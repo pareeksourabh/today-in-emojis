@@ -1,22 +1,16 @@
 {
   "date": "2025-12-17",
-  "timestamp": "2025-12-17T04:37:28Z",
+  "timestamp": "2025-12-17T08:35:05Z",
   "emojis": [
     {
-      "char": "🇨🇦",
-      "label": "mark carney's spelling controversy",
-      "url": "https://www.theguardian.com/world/2025/dec/16/mark-carney-british-spellings-canada",
-      "title": "Mark Carney criticised for using British spellings in Canadian documents"
-    },
-    {
-      "char": "🎬",
-      "label": "trump criticizes director reiner",
-      "url": "https://www.bbc.com/news/articles/c7413d9xvkeo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump repeats criticism of killed Hollywood director Rob Reiner"
+      "char": "💵",
+      "label": "rupee may catch a breather",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOXV3TlAyeDRmSUdWYTJvN2tjWnRMaVIxYXlYaUVzWTA1bFF1ZnZrOTFDejFvUlp5bWRnSkFDMkdqV0g5U1pFRmhxY2pGWFNBMi1yakE0WVh1dDlMMXg0bHVhRGhxS3pubUJodER2UFNGclQzZVltaGd3VVJzT1lzR0V4Q1UyRzdOYXFDZ2FVVGxMWVphNm5ZNmNxQ1A2aGU4OWlPU2lpR1d6Z2lZX083clRsbE5RcEYtd244?oc=5",
+      "title": "Rupee may catch a breather after swift decline; softer dollar helps at margin - Reuters"
     },
     {
       "char": "🕊️",
-      "label": "zelensky's peace optimism",
+      "label": "zelensky's cautious peace optimism",
       "url": "https://www.nytimes.com/2025/12/16/world/europe/zelensky-ukraine-peace-talks.html",
       "title": "Zelensky Expresses Wary Optimism About Russia-Ukraine Peace Plan"
     },
@@ -27,10 +21,16 @@
       "title": "Libya looks to its past to build a new future as national museum reopens"
     },
     {
-      "char": "🔫",
-      "label": "australia's gun control measures",
-      "url": "https://www.nytimes.com/2025/12/16/world/australia/australia-gun-control-bondi-shooting.html",
-      "title": "Australia Doubles Down on Gun Control in Wake of Bondi Beach Shooting"
+      "char": "🔬",
+      "label": "new human ancestor fossil found",
+      "url": "https://www.theguardian.com/science/2025/dec/15/little-foot-hominin-fossil-may-be-new-species-of-human-ancestor",
+      "title": "Little Foot hominin fossil may be new species of human ancestor"
+    },
+    {
+      "char": "🚫",
+      "label": "trump's oil tanker blockade",
+      "url": "https://www.theguardian.com/us-news/2025/dec/16/trump-orders-blockade-oil-tankers-venezuela",
+      "title": "Trump orders blockade of sanctioned oil tankers entering and leaving Venezuela"
     }
   ],
   "source": "ai-openai"

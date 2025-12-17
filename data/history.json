@@ -8363,5 +8363,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-17",
+    "emojis": [
+      {
+        "char": "💵",
+        "label": "rupee may catch a breather",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOXV3TlAyeDRmSUdWYTJvN2tjWnRMaVIxYXlYaUVzWTA1bFF1ZnZrOTFDejFvUlp5bWRnSkFDMkdqV0g5U1pFRmhxY2pGWFNBMi1yakE0WVh1dDlMMXg0bHVhRGhxS3pubUJodER2UFNGclQzZVltaGd3VVJzT1lzR0V4Q1UyRzdOYXFDZ2FVVGxMWVphNm5ZNmNxQ1A2aGU4OWlPU2lpR1d6Z2lZX083clRsbE5RcEYtd244?oc=5",
+        "title": "Rupee may catch a breather after swift decline; softer dollar helps at margin - Reuters"
+      },
+      {
+        "char": "🕊️",
+        "label": "zelensky's cautious peace optimism",
+        "url": "https://www.nytimes.com/2025/12/16/world/europe/zelensky-ukraine-peace-talks.html",
+        "title": "Zelensky Expresses Wary Optimism About Russia-Ukraine Peace Plan"
+      },
+      {
+        "char": "🏛️",
+        "label": "libya's national museum reopens",
+        "url": "https://www.theguardian.com/world/2025/dec/16/libya-national-museum-reopens",
+        "title": "Libya looks to its past to build a new future as national museum reopens"
+      },
+      {
+        "char": "🔬",
+        "label": "new human ancestor fossil found",
+        "url": "https://www.theguardian.com/science/2025/dec/15/little-foot-hominin-fossil-may-be-new-species-of-human-ancestor",
+        "title": "Little Foot hominin fossil may be new species of human ancestor"
+      },
+      {
+        "char": "🚫",
+        "label": "trump's oil tanker blockade",
+        "url": "https://www.theguardian.com/us-news/2025/dec/16/trump-orders-blockade-oil-tankers-venezuela",
+        "title": "Trump orders blockade of sanctioned oil tankers entering and leaving Venezuela"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
