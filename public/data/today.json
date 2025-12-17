@@ -1,36 +1,36 @@
 {
-  "date": "2025-12-16",
-  "timestamp": "2025-12-16T20:23:05Z",
+  "date": "2025-12-17",
+  "timestamp": "2025-12-17T00:59:38Z",
   "emojis": [
     {
+      "char": "🇺🇦",
+      "label": "ukraine military backup plan",
+      "url": "https://www.nytimes.com/2025/12/16/world/europe/ukraine-security-guarantees-talks.html",
+      "title": "Ukraine Plan Calls For Enhanced Military, With U.S. and European Backup"
+    },
+    {
       "char": "🎓",
-      "label": "ghanaian students face deportation",
+      "label": "ghana students face deportation",
       "url": "https://www.theguardian.com/education/2025/dec/14/ghana-students-uk-universities-face-deportion-funding-crisis",
       "title": "Ghanaian students at UK universities face deportation amid funding crisis"
     },
     {
-      "char": "📉",
-      "label": "us business activity growth slows",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGZIejBpZGV3U3NfYWxpZFkwOXFWdmpqYnIyWTBfejlkSU0wT196X3NOY3J3MjBMaTJ5TzNxMzAyS3dTNUxuM0Zuc0pIZ3pCeTdQbmptVXNlTlZzZUl4Rkh4UHMzd0FNalJMbFgwY0dKemplVHBpUXdiQjUzY2Rmdlc4OU5taHpZaTFlMHN3MUc0bkJDNVJSUGI0OVZ2dXM?oc=5",
-      "title": "U.S. business activity growth hits 6-month low in December - Reuters"
+      "char": "🏞️",
+      "label": "palestinian hiking restrictions",
+      "url": "https://www.nytimes.com/2025/12/16/world/middleeast/west-bank-hiking-settlements.html",
+      "title": "As Israeli Settlements Get Bigger, Palestinian Hikes Grow Shorter"
     },
     {
-      "char": "🐘",
-      "label": "poaching of rare elephants in borneo",
-      "url": "https://www.nytimes.com/2025/12/16/world/asia/borneo-elephants-poaching-beheading.html",
-      "title": "In a Remote Jungle, the Gruesome Poaching of Rare Elephants"
+      "char": "📚",
+      "label": "authors protest at hay festival",
+      "url": "https://www.theguardian.com/world/2025/dec/16/hay-festival-maria-corina-machado",
+      "title": "At least three authors withdraw from Hay festival in protest at Machado invite"
     },
     {
-      "char": "🚨",
-      "label": "gulf clan designated terrorist organization",
-      "url": "https://www.theguardian.com/world/2025/dec/16/gulf-clan-colombia-us-terrorist-organization",
-      "title": "US designates Colombia’s biggest drug cartel Gulf Clan as terrorist organization"
-    },
-    {
-      "char": "🌍",
-      "label": "libya national museum reopens",
-      "url": "https://www.theguardian.com/world/2025/dec/16/libya-national-museum-reopens",
-      "title": "Libya looks to its past to build a new future as national museum reopens"
+      "char": "🔫",
+      "label": "sydney gunmen motivated by isis",
+      "url": "https://www.nytimes.com/live/2025/12/15/world/bondi-beach-shooting-gunmen-isis",
+      "title": "Sydney Gunmen Were Motivated by ISIS, Australia’s Leader Says"
     }
   ],
   "source": "ai-openai"
