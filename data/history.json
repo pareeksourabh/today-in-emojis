@@ -8324,5 +8324,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-17",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "mark carney's spelling controversy",
+        "url": "https://www.theguardian.com/world/2025/dec/16/mark-carney-british-spellings-canada",
+        "title": "Mark Carney criticised for using British spellings in Canadian documents"
+      },
+      {
+        "char": "🎬",
+        "label": "trump criticizes director reiner",
+        "url": "https://www.bbc.com/news/articles/c7413d9xvkeo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump repeats criticism of killed Hollywood director Rob Reiner"
+      },
+      {
+        "char": "🕊️",
+        "label": "zelensky's peace optimism",
+        "url": "https://www.nytimes.com/2025/12/16/world/europe/zelensky-ukraine-peace-talks.html",
+        "title": "Zelensky Expresses Wary Optimism About Russia-Ukraine Peace Plan"
+      },
+      {
+        "char": "🏛️",
+        "label": "libya's national museum reopens",
+        "url": "https://www.theguardian.com/world/2025/dec/16/libya-national-museum-reopens",
+        "title": "Libya looks to its past to build a new future as national museum reopens"
+      },
+      {
+        "char": "🔫",
+        "label": "australia's gun control measures",
+        "url": "https://www.nytimes.com/2025/12/16/world/australia/australia-gun-control-bondi-shooting.html",
+        "title": "Australia Doubles Down on Gun Control in Wake of Bondi Beach Shooting"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
