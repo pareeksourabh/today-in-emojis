@@ -8480,5 +8480,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-17",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "spain to open climate shelters",
+        "url": "https://www.bbc.com/news/articles/c5yj8ew1pnlo?at_medium=RSS&at_campaign=rss",
+        "title": "Spain to open network of climate shelters"
+      },
+      {
+        "char": "🕊️",
+        "label": "tiananmen square general's trial",
+        "url": "https://www.nytimes.com/2025/12/17/world/asia/china-general-tiananmen-square.html",
+        "title": "The Secret Trial of the General Who Refused to Attack Tiananmen Square"
+      },
+      {
+        "char": "🎬",
+        "label": "hollywood keeps wall street hooked",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUZQU3J4QlkxM1JIdXdGNWdkZ3BmQXRBalVHOEZiYWdPYVloZ3hqN09JOGx1ZV9VVmJxdGJmRUFmR0N6c3NKSVRzb0haOThuaTBnR1JZNzlmRHlTdFplQzBiTjdEZG1UaGpKVFBqbmxNaE5oanRTZHQtNGxWcGNVZFlkaw?oc=5",
+        "title": "Hollywood blockbuster keeps Wall Street hooked, oil jumps on Venezuela blockade - Reuters"
+      },
+      {
+        "char": "🔫",
+        "label": "bondi beach shooting reminder",
+        "url": "https://www.nytimes.com/2025/12/17/world/europe/islamic-state-attacks-australia.html",
+        "title": "Bondi Beach Shooting Is a Reminder of ISIS’s Power to Inspire Attacks"
+      },
+      {
+        "char": "🐻",
+        "label": "polar bear adopts new cub",
+        "url": "https://www.theguardian.com/world/2025/dec/17/canada-polar-bear-adopts-new-cub",
+        "title": "Scientists log rare case of female polar bear adopting cub: ‘They’re really good moms’"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
