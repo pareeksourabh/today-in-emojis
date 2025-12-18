@@ -8519,5 +8519,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-18",
+    "emojis": [
+      {
+        "char": "🇿🇦",
+        "label": "south africa talks with russia",
+        "url": "https://www.theguardian.com/world/2025/dec/16/south-africa-russia-men-tricked-fighting-ukraine",
+        "title": "South Africa in talks with Russia over men ‘tricked’ into fighting in Ukraine"
+      },
+      {
+        "char": "🎓",
+        "label": "nigerian students recount kidnapping",
+        "url": "https://www.nytimes.com/2025/12/17/world/africa/nigeria-kidnapping-school.html",
+        "title": "Free Nigerian Students Recount Mass Kidnapping"
+      },
+      {
+        "char": "🏛️",
+        "label": "libya national museum reopens",
+        "url": "https://www.theguardian.com/world/2025/dec/16/libya-national-museum-reopens",
+        "title": "Libya looks to its past to build a new future as national museum reopens"
+      },
+      {
+        "char": "🕊️",
+        "label": "funeral of rabbi killed in attack",
+        "url": "https://www.nytimes.com/2025/12/17/world/asia/rabbi-eli-schlanger-funeral-bondi-shooting.html",
+        "title": "Grief Mixes With Anger at Funeral of Rabbi Killed in Bondi Beach Attack"
+      },
+      {
+        "char": "🦙",
+        "label": "polar bear adopts new cub",
+        "url": "https://www.theguardian.com/world/2025/dec/17/canada-polar-bear-adopts-new-cub",
+        "title": "Scientists log rare case of female polar bear adopting cub: ‘They’re really good moms’"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
