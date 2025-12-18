@@ -8714,5 +8714,44 @@
       "provider": "openai",
       "total_candidates": 29
     }
+  },
+  {
+    "date": "2025-12-18",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "putin aide against war in ukraine",
+        "url": "https://www.nytimes.com/2025/12/18/world/europe/russia-putin-aide-dmitri-kozak-ukraine-war.html",
+        "title": "The Putin Confidant Who Pushed Back Against Russia’s War in Ukraine"
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada's population drop due to students",
+        "url": "https://www.theguardian.com/world/2025/dec/17/canada-population-drop-international-students",
+        "title": "Canada sees large drop in population amid international students crackdown"
+      },
+      {
+        "char": "💊",
+        "label": "medicare cuts drug prices in 2025",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSVRsYzltdmN2QTRNOHlZeVR1WTlQdGlIbDBfMDhiZUctUHZCQjFoZVg2Zk5IZF9mTXQyS2xXLWRsOGVpUUFSU0NHdkt0dWJKcDlzbW1PS0pGUTV2aHRFWEtHVU9xbHhjcVJsMzlEekExbDljdHF1Y09UenRRNGtybUF4ZjA1N0Y4cVliSHFpbExoOGJkdk5MdV9PclRabnN2V3NNbHhkX19Ka09sbXdqVkR0eGNvaEtUdFFfd2RUSlVWQl92cVkwbDBn?oc=5",
+        "title": "Medicare enrollees to pay 50% less for some drugs in 2025, report says - Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "nigeria closes lead recycling factories",
+        "url": "https://www.nytimes.com/2025/12/18/world/africa/nigeria-lead-factory-closings.html",
+        "title": "Nigeria Closes Lead Recycling Factories Linked to U.S. Car Industry"
+      },
+      {
+        "char": "💔",
+        "label": "australia mourns bondi shooting victim",
+        "url": "https://www.nytimes.com/2025/12/18/world/asia/australia-matilda-funeral-bondi-shooting.html",
+        "title": "Australia Mourns the Youngest Victim of the Bondi Beach Shooting"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
