@@ -8597,5 +8597,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-18",
+    "emojis": [
+      {
+        "char": "😢",
+        "label": "bondi shooting victim's funeral",
+        "url": "https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss",
+        "title": "'Maybe she's an angel now' says aunt of Bondi victim, 10, at funeral"
+      },
+      {
+        "char": "💰",
+        "label": "rupee stability amid market caution",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNclNpc3pGZ291UFZ2dUVhZlFrcEE0aDRWc2haQWFPdWpDNC0tWVdJYkxKeGw1Sk9XcnlTZG1MUzFIck4xYUtrWTRLbC11NTBLdm5jRWRpSnVxUHlvMExkTEFBR1htX1FmSjlKcjN0SkJXbkxYUm9FQ3Q4X3FXdnlXa1ZmM25KeTZ6MzhiZDdkVnFoNV80bjBnUHZLLVoxYm9CRzIyMkFqdjM?oc=5",
+        "title": "Rupee treads water as traders move gingerly, importers lock in hedges - Reuters"
+      },
+      {
+        "char": "🌧️",
+        "label": "heavy rains worsen conditions in Gaza",
+        "url": "https://www.bbc.com/news/articles/cx2e6r10rdeo?at_medium=RSS&at_campaign=rss",
+        "title": "Heavy rains worsen conditions for displaced Gazans, UN warns"
+      },
+      {
+        "char": "🇿🇦",
+        "label": "south africa arrests refugee workers",
+        "url": "https://www.nytimes.com/2025/12/17/world/africa/south-africa-kenya-workers.html",
+        "title": "South Africa Arrests Workers Processing U.S. Refugee Applications"
+      },
+      {
+        "char": "💼",
+        "label": "EU debates frozen assets for Ukraine",
+        "url": "https://www.nytimes.com/2025/12/18/world/europe/russia-eu-ukraine-frozen-assets.html",
+        "title": "E.U. Leaders Debate Plan for Ukraine Financed by Frozen Russian Assets"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
