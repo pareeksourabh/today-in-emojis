@@ -8675,5 +8675,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-18",
+    "emojis": [
+      {
+        "char": "💼",
+        "label": "trump media merger with fusion firm",
+        "url": "https://www.bbc.com/news/articles/cp9kv9lld38o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump Media to merge with nuclear fusion firm in $6bn deal"
+      },
+      {
+        "char": "💣",
+        "label": "thailand bombs near cambodia border",
+        "url": "https://www.bbc.com/news/articles/czxgrl4937yo?at_medium=RSS&at_campaign=rss",
+        "title": "Thailand bombs near Cambodia's Poipet border crossing"
+      },
+      {
+        "char": "🗣️",
+        "label": "australia cracks down on hate speech",
+        "url": "https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS&at_campaign=rss",
+        "title": "Australian PM announces crackdown on hate speech after Bondi shooting"
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada's population drop amid crackdown",
+        "url": "https://www.theguardian.com/world/2025/dec/17/canada-population-drop-international-students",
+        "title": "Canada sees large drop in population amid international students crackdown"
+      },
+      {
+        "char": "🏛️",
+        "label": "libya national museum reopens",
+        "url": "https://www.theguardian.com/world/2025/dec/16/libya-national-museum-reopens",
+        "title": "Libya looks to its past to build a new future as national museum reopens"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 29
+    }
   }
 ]
