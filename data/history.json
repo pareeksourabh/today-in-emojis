@@ -8753,5 +8753,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-19",
+    "emojis": [
+      {
+        "char": "🐼",
+        "label": "pandas at risk in tokyo zoo",
+        "url": "https://www.nytimes.com/2025/12/18/world/asia/japan-china-pandas.html",
+        "title": "At Tokyo Zoo, Visitors Worry Pandas Could Be China’s Next Target"
+      },
+      {
+        "char": "💔",
+        "label": "over 1,000 killed in darfur attack",
+        "url": "https://www.nytimes.com/2025/12/18/world/africa/sudan-rsf-attack-darfur-un.html",
+        "title": "Over 1,000 Were Killed in Attack on Camp in Darfur, Sudan, U.N. Says"
+      },
+      {
+        "char": "🇦🇺",
+        "label": "australia cracks down on hate speech",
+        "url": "https://www.nytimes.com/2025/12/17/us/australia-hate-speech-legislation.html",
+        "title": "Australia to Crack Down on Hate Speech After Bondi Beach Attack"
+      },
+      {
+        "char": "🌍",
+        "label": "nigeria closes lead factories",
+        "url": "https://www.nytimes.com/2025/12/18/world/africa/nigeria-lead-factory-closings.html",
+        "title": "Nigeria Closes Lead Recycling Factories Linked to U.S. Car Industry"
+      },
+      {
+        "char": "📉",
+        "label": "swiss gold exports drop in november",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeW1pazhkbWFlcXR3WXdLcVV1a3FIanBBQURQb0JCT0VQVVVVMGwtaWtHYy10ME01aXRQaVBhTUhwODc5Yi1ZLXZlRXFtMmw5WHF0YXJRenpsWW9wMmRZZHpwNFJ4b2tzSVdPOE5XRUZVd1NmWEJTQkI2cDVtS0l2aGVldWVNRVNQVDVOOEpraEZwMnFZM2ZxeGdBZDZ1YnBFQ1ZJOEdB?oc=5",
+        "title": "Swiss gold exports drop in November as shipments to India plunge - Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
