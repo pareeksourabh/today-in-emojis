@@ -8948,5 +8948,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-19",
+    "emojis": [
+      {
+        "char": "🍽️",
+        "label": "gaza famine averted but challenges remain",
+        "url": "https://www.nytimes.com/2025/12/19/world/middleeast/gaza-hunger-report-israel.html",
+        "title": "Gaza City Famine Averted, Global Experts Say, but Palestinians Face Major Difficulties Accessing Food"
+      },
+      {
+        "char": "👩‍⚖️",
+        "label": "assault on women's rights in 2025",
+        "url": "https://www.theguardian.com/world/2025/dec/16/five-key-moments-in-the-assault-on-the-rights-of-women-and-girls-in-2025",
+        "title": "Five key moments in the assault on the rights of women and girls in 2025"
+      },
+      {
+        "char": "🔪",
+        "label": "three killed in taiwan stabbing attack",
+        "url": "https://www.nytimes.com/2025/12/19/world/asia/stabbing-taipei-taiwan.html",
+        "title": "Three Killed in Stabbing Attack in Taiwan"
+      },
+      {
+        "char": "🤝",
+        "label": "south africa talks with russia over fighters",
+        "url": "https://www.theguardian.com/world/2025/dec/16/south-africa-russia-men-tricked-fighting-ukraine",
+        "title": "South Africa in talks with Russia over men ‘tricked’ into fighting in Ukraine"
+      },
+      {
+        "char": "🔥",
+        "label": "riots in bangladesh after student leader killed",
+        "url": "https://www.nytimes.com/2025/12/19/world/asia/bangladesh-riots-student-killing.html",
+        "title": "Riots Erupt in Bangladesh After the Killing of a Student Leader"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
