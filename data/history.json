@@ -8831,5 +8831,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-19",
+    "emojis": [
+      {
+        "char": "🇮🇷",
+        "label": "iran's president addresses crises",
+        "url": "https://www.nytimes.com/2025/12/18/world/middleeast/iran-pezeshkian-domestic-foreign-crises.html",
+        "title": "Iran’s President Says He Can’t Make ‘Miracles’ to Solve the Country’s Woes"
+      },
+      {
+        "char": "🚢",
+        "label": "us strike on drug boat in pacific",
+        "url": "https://www.theguardian.com/us-news/2025/dec/17/military-strike-pacific-hegseth",
+        "title": "US strike on alleged drug boat in Pacific kills four, as Trump accuses Venezuela of taking ‘our oil’"
+      },
+      {
+        "char": "🇧🇷",
+        "label": "brazil vows to veto prison term cut",
+        "url": "https://www.theguardian.com/world/2025/dec/18/brazilian-congress-passes-bill-cut-jair-bolsonaro-prison-term",
+        "title": "Brazilian president vows to veto bill cutting Jair Bolsonaro’s prison term"
+      },
+      {
+        "char": "🐻",
+        "label": "polar bear adopts new cub in canada",
+        "url": "https://www.theguardian.com/world/2025/dec/17/canada-polar-bear-adopts-new-cub",
+        "title": "Scientists log rare case of female polar bear adopting cub: ‘They’re really good moms’"
+      },
+      {
+        "char": "🌍",
+        "label": "morocco faces protests over abuses",
+        "url": "https://www.theguardian.com/global-development/2025/dec/18/morocco-genz212-protests-police-mass-arrests-beatings-detentions-rights",
+        "title": "Morocco accused of ‘horrific’ abuse of detained gen Z protesters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
