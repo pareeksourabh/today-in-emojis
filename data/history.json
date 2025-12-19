@@ -8909,5 +8909,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-19",
+    "emojis": [
+      {
+        "char": "🇲🇽",
+        "label": "defeating mexico's cartels",
+        "url": "https://www.nytimes.com/2025/12/19/world/americas/mexico-cartels-harfuch.html",
+        "title": "Can This Man Finally Defeat Mexico’s Cartels?"
+      },
+      {
+        "char": "👑",
+        "label": "norway's crown princess health",
+        "url": "https://www.bbc.com/news/articles/cpq4p535347o?at_medium=RSS&at_campaign=rss",
+        "title": "Norway's crown princess likely needs lung transplant, palace says"
+      },
+      {
+        "char": "🇧🇷",
+        "label": "brazil's prison term veto",
+        "url": "https://www.theguardian.com/world/2025/dec/18/brazilian-congress-passes-bill-cut-jair-bolsonaro-prison-term",
+        "title": "Brazilian president vows to veto bill cutting Jair Bolsonaro’s prison term"
+      },
+      {
+        "char": "💰",
+        "label": "eu loan for ukraine",
+        "url": "https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS&at_campaign=rss",
+        "title": "EU agrees €90bn loan for Ukraine but without using Russian assets"
+      },
+      {
+        "char": "🔫",
+        "label": "australia's gun buyback plan",
+        "url": "https://www.nytimes.com/2025/12/19/world/asia/australia-gun-buyback-bondi-shooting.html",
+        "title": "Australia Announces Plan to Buy Back Guns in Wake of Bondi Attack"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
