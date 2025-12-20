@@ -9143,5 +9143,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-20",
+    "emojis": [
+      {
+        "char": "🐦",
+        "label": "bird flu case in wisconsin",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQXllNDd6Sm1BdzhRNXI4UkRrZWxFWklYQTh5OXpKMjlUbkYzYW5Vb3VscG1oZ0xLQlVfdFVOYTdpelUxR2NNcWJDdTR5UlJsUHRPMFJsU0w0cFVXYURqRHR0MzlqNV9BV2JMcUlEVkFoRUxBZUU0dkFFbDhKbVNoZmdPY3pxWnJQZ1JhVzBTdnd3QlJ2eEVFZU4tM2ZnNU41OTluZlhoNnJSSmdOZGY2VTVFNW5WSTRuVk5EUW1wT0wxNTdfZHVhN1VXeFR2d0NRR0RvMG01VndudnM?oc=5",
+        "title": "USDA confirms bird flu case in Wisconsin dairy herd as new wildlife spillover - Reuters"
+      },
+      {
+        "char": "🇨🇴",
+        "label": "colombian mercenaries in sudan",
+        "url": "https://www.theguardian.com/global-development/2025/dec/19/colombian-mercenaries-sudan-rsf-us-sanctions-recruited-uk-registered-firms-investigation",
+        "title": "Colombian mercenaries in Sudan ‘recruited by UK-registered firms’"
+      },
+      {
+        "char": "💣",
+        "label": "hezbollah faces pressure to disarm",
+        "url": "https://www.nytimes.com/2025/12/20/world/middleeast/hezbollah-lebanon-israel.html",
+        "title": "Hezbollah Is Down, but Not Out, as Lebanon Faces Pressure to Disarm It"
+      },
+      {
+        "char": "📰",
+        "label": "epstein files investigation",
+        "url": "https://www.bbc.com/news/articles/c8r38ne1x2mo?at_medium=RSS&at_campaign=rss",
+        "title": "Who and what are in the Epstein files?"
+      },
+      {
+        "char": "🇪🇺",
+        "label": "eu messy compromise for ukraine",
+        "url": "https://www.nytimes.com/2025/12/19/world/europe/eu-ukraine-russia-frozen-assets.html",
+        "title": "To Secure Money for Ukraine, Europe Had to Resort to a Messy Compromise"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
