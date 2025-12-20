@@ -9182,5 +9182,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-20",
+    "emojis": [
+      {
+        "char": "🇦🇺",
+        "label": "bondi attack leaves community stunned",
+        "url": "https://www.nytimes.com/2025/12/20/world/australia/australia-bondi-attack-suspect.html",
+        "title": "‘Where’s the Humanity?’ Bondi Attack Leaves Suspects’ Neighborhood Stunned."
+      },
+      {
+        "char": "💔",
+        "label": "seven soldiers killed in colombia",
+        "url": "https://www.theguardian.com/world/2025/dec/19/colombia-eln-guerrilla-group-attack-military-base",
+        "title": "Seven Colombian soldiers killed in rebel drone attack on base near Venezuela"
+      },
+      {
+        "char": "📚",
+        "label": "david walliams dropped by publisher",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVDdTVHcyaWVkdGFlclRwazV3S190a0VJazZGWWE2OUpsamhDcWtEeEFsdGd0Mzd2UlVvR0JOcGQ3bDhFWmNRNUl3SVRBeHpaV1k0VXRsX3VPYkd2aU1UXzBoTUUzMEFZeDcyWUh4ODZrUXZlNFNNSU43eFNQZkNCQ2IxUDR6TzEySkhKT1RYcHFNUW1pSFdKZlVZZGJmdGs5dDZoc0dDTTNkX0N4cXh1NW1vb3VrQ3VRVHNV?oc=5",
+        "title": "UK children's author David Walliams dropped by publisher after harassment allegations - Reuters"
+      },
+      {
+        "char": "🚀",
+        "label": "elon musk reaches $700 billion milestone",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT0c3VmduSzBUaFRvNjlGR25SMlNmTDRrV21kN1ROalV3WjBJNVQzMmFha1lHT0kxSlR6SFNoN1RrdlVfazVnRE5JVEgwU1h1YmVRd1FPdkFXaEN5Zl90eGxodlBMUzdXM3p5djk3RHNvbS1mWHdVSzBBdVdBdm5wZ08tcTFHLTBFNzd4aWtKWDlibHNOZW9NN1F3Qk41alV0MjlXM2Y1Q1BRTzdvd0Utbl9zZ0dkRnducU9ONVlaN1ZhSEs3dktHTDNJaTEyN1dQYzBTaVhNVEd5Z0c0UUE?oc=5",
+        "title": "Elon Musk becomes first person worth $700 billion following pay package ruling - Reuters"
+      },
+      {
+        "char": "🔪",
+        "label": "taiwan subway stabbing planned",
+        "url": "https://www.nytimes.com/2025/12/20/world/asia/taiwan-subway-stabbing.html",
+        "title": "Taiwan’s Subway Stabber Planned His Deadly Spree, Police Say"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
