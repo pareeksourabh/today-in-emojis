@@ -9104,5 +9104,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-20",
+    "emojis": [
+      {
+        "char": "👩‍⚖️",
+        "label": "women's rights in 2025",
+        "url": "https://www.theguardian.com/world/2025/dec/16/five-key-moments-in-the-assault-on-the-rights-of-women-and-girls-in-2025",
+        "title": "Five key moments in the assault on the rights of women and girls in 2025"
+      },
+      {
+        "char": "🇦🇺",
+        "label": "bondi shooting response",
+        "url": "https://www.bbc.com/news/articles/c14v23vppz8o?at_medium=RSS&at_campaign=rss",
+        "title": "Australian state plans to ban intifada chants after Bondi shooting"
+      },
+      {
+        "char": "💼",
+        "label": "colombian mercenaries in sudan",
+        "url": "https://www.theguardian.com/global-development/2025/dec/19/colombian-mercenaries-sudan-rsf-us-sanctions-recruited-uk-registered-firms-investigation",
+        "title": "Colombian mercenaries in Sudan ‘recruited by UK-registered firms’"
+      },
+      {
+        "char": "💣",
+        "label": "us strikes in syria",
+        "url": "https://www.nytimes.com/2025/12/20/world/middleeast/us-strikes-syria-aftermath.html",
+        "title": "U.S. Strikes on Syria Underscore Scale of Challenge for Its President"
+      },
+      {
+        "char": "🇧🇷",
+        "label": "brazilian prison term bill",
+        "url": "https://www.theguardian.com/world/2025/dec/18/brazilian-congress-passes-bill-cut-jair-bolsonaro-prison-term",
+        "title": "Brazilian president vows to veto bill cutting Jair Bolsonaro’s prison term"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
