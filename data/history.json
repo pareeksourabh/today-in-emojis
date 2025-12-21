@@ -9260,5 +9260,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-21",
+    "emojis": [
+      {
+        "char": "💣",
+        "label": "us strikes on isis in syria",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV2NQbHI0c3VrTUFHaXgwS0xBajNOZnQ5T1pRU0U3Rzdwa3lSYS0zbUZlUHF2M1dMQVkzRUszMlNoampGSWl3aHRuTC1QeTN4SWRKTjlkMmNQbWhKODlZS2k3WWxXZ1p1Ul9jcDE1UFZTdzZTeXFmMXRvQkN0c1hpejRCWTNrb0daWFZGdUtwLWdoaTU4WXZGTFNOeEhaUzhNVGdJY0NrejA5LVZzSG4zMWYzNXZFZw?oc=5",
+        "title": "US hits ISIS in Syria with large retaliatory strikes, officials say - Reuters"
+      },
+      {
+        "char": "⛴️",
+        "label": "us coast guard boards tanker",
+        "url": "https://www.nytimes.com/2025/12/20/us/politics/us-coast-guard-venezuela-oil-tanker.html",
+        "title": "U.S. Coast Guard Boards Tanker Carrying Venezuelan Oil"
+      },
+      {
+        "char": "🦙",
+        "label": "train kills elephants in india",
+        "url": "https://www.bbc.com/news/articles/c9qe2yln2nlo?at_medium=RSS&at_campaign=rss",
+        "title": "India express train kills seven elephants crossing tracks"
+      },
+      {
+        "char": "🎤",
+        "label": "bad bunny concert in mexico city",
+        "url": "https://www.nytimes.com/2025/12/20/world/americas/bad-bunny-mexico-city.html",
+        "title": "What Fans Did to Attend a Bad Bunny Show in Mexico City"
+      },
+      {
+        "char": "🎅",
+        "label": "santas rob grocery store in montreal",
+        "url": "https://www.theguardian.com/world/2025/dec/19/montreal-grocery-store-santas-elves-robbery",
+        "title": "Santas and elves rob Montreal grocery store to ‘give food to the needy’"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
