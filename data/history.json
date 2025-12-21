@@ -9338,5 +9338,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-21",
+    "emojis": [
+      {
+        "char": "⛪",
+        "label": "how china dismantled a church",
+        "url": "https://www.nytimes.com/2025/12/21/world/asia/china-christian-zion-church-raid.html",
+        "title": "How China Tried to Dismantle a Major Underground Church"
+      },
+      {
+        "char": "♀️",
+        "label": "assault on women's rights in 2025",
+        "url": "https://www.theguardian.com/world/2025/dec/16/five-key-moments-in-the-assault-on-the-rights-of-women-and-girls-in-2025",
+        "title": "Five key moments in the assault on the rights of women and girls in 2025"
+      },
+      {
+        "char": "🚀",
+        "label": "first wheelchair user in space",
+        "url": "https://www.bbc.com/news/articles/c5y9z0g7lleo?at_medium=RSS&at_campaign=rss",
+        "title": "Engineer becomes first wheelchair user to go to space"
+      },
+      {
+        "char": "🌍",
+        "label": "patagonia preserved after fundraising",
+        "url": "https://www.theguardian.com/world/2025/dec/19/i-cant-think-of-a-place-more-pristine-133000-hectares-of-chilean-patagonia-preserved-after-local-fundraising",
+        "title": "‘I can’t think of a place more pristine’: 133,000 hectares of Chilean Patagonia preserved after local fundraising"
+      },
+      {
+        "char": "💼",
+        "label": "colombian mercenaries in sudan",
+        "url": "https://www.theguardian.com/global-development/2025/dec/19/colombian-mercenaries-sudan-rsf-us-sanctions-recruited-uk-registered-firms-investigation",
+        "title": "Colombian mercenaries in Sudan ‘recruited by UK-registered firms’"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
