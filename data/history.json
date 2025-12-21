@@ -9299,5 +9299,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-21",
+    "emojis": [
+      {
+        "char": "💊",
+        "label": "higher drug prices in switzerland",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZXdwbmZxZnJXb0pLcUdkVV9CanA1cDNXYlgzRjlzNThSUmR5QlBTdG83bTF3RHNHMEl3ck5tcGplbW9iWkpWcXQ1QXp1OHM0NG9yQmJCY3BDUzlfVFV6ZGRNM2lPdzJJNlU2TDE4aEVJT2V6NlQ5QjJGUkNmRS10OHAtNDZBeHlRd3YzSVVqdm5WS2dDSnVKQi1IM1ozRmVhM2F3NGRfUkQ5TVZhVXVYMXNqWXI5ZDUweG9iZ1Y4V3N0Vk9WbWNfZmg4MDhjM2tDUkpPR21Naw?oc=5",
+        "title": "Roche CEO points to higher future drug prices in Switzerland after US deal - Reuters"
+      },
+      {
+        "char": "🤝",
+        "label": "south africa talks with russia",
+        "url": "https://www.theguardian.com/world/2025/dec/16/south-africa-russia-men-tricked-fighting-ukraine",
+        "title": "South Africa in talks with Russia over men ‘tricked’ into fighting in Ukraine"
+      },
+      {
+        "char": "🕊️",
+        "label": "bondi massacre and jewish community",
+        "url": "https://www.nytimes.com/2025/12/21/world/australia/bondi-massacre-jewish-australians.html",
+        "title": "Long Before Bondi Massacre, Australian Jews Lived With a Sense of Peril"
+      },
+      {
+        "char": "✈️",
+        "label": "us and venezuela gps signal jamming",
+        "url": "https://www.nytimes.com/2025/12/20/world/americas/us-venezuela-caribbean-gps-flight-hazard.html",
+        "title": "U.S. and Venezuela Jam Caribbean GPS Signals to Thwart Attacks, Raising Flight Hazard"
+      },
+      {
+        "char": "💉",
+        "label": "unethical hepatitis b vaccine study",
+        "url": "https://www.theguardian.com/society/2025/dec/19/hepatitis-b-vaccine-study-guinea-bissau-rfk",
+        "title": "US plan for $1.6m hepatitis B vaccine study in Africa called ‘highly unethical’"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
