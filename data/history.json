@@ -9221,5 +9221,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-21",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "putin vows no more wars if respected",
+        "url": "https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS&at_campaign=rss",
+        "title": "Putin vows no more wars if West treats Russia with respect"
+      },
+      {
+        "char": "⚖️",
+        "label": "italy's supreme court rules in favor of TIM",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbUdsRlhzUVVYWG96RlZzZm9Gb0pWUEt4MU5OZnFWTDktMnphMHZ3VGxyU0Zfc0hCcGR6SkpzVHZTN1FSVVEtT29XMGRhOTdXNG1HblF0RjRmZzZ3c1ZKRXMzLWpJLXJFZFIwbE0zcDdZb0ZFcnhEdm5Pd214QUFIeW5hc0ZlUGlaZGJySTFTTUMzcnU4ZldubUNmdG8xVUdodFZoRm51bnphdUVOZkdvekpKQlpQRkFfZUNuNEhqNVUwbDZMTXRmMFF5UV9iUUhFSHNxWVF2SVgxV2ZDd2tzam1Gd2k1X1dpbXc?oc=5",
+        "title": "Italy's supreme court rules in favour of TIM in 1998 concession fee case, sources say - TradingView — Track All Markets"
+      },
+      {
+        "char": "⚔️",
+        "label": "trump refuses to rule out war with venezuela",
+        "url": "https://www.theguardian.com/us-news/2025/dec/19/trump-venezuela-war",
+        "title": "Trump and top aides refuse to rule out war with Venezuela"
+      },
+      {
+        "char": "🐘",
+        "label": "passenger train in india hits elephant herd",
+        "url": "https://www.nytimes.com/2025/12/20/world/asia/india-elephant-train-death.html",
+        "title": "Passenger Train in India Hits Elephant Herd, Killing Seven"
+      },
+      {
+        "char": "🚀",
+        "label": "engineer becomes first wheelchair user in space",
+        "url": "https://www.bbc.com/news/articles/c5y9z0g7lleo?at_medium=RSS&at_campaign=rss",
+        "title": "Engineer becomes first wheelchair user to go to space"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
