@@ -9377,5 +9377,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-21",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "freed belarusian peace laureate",
+        "url": "https://www.nytimes.com/2025/12/21/world/europe/belarus-sanctions-potash-ales-bialiatski.html",
+        "title": "Freed From a Belarus Prison, a Nobel Peace Laureate Experiences ‘Oxygen Intoxication’"
+      },
+      {
+        "char": "📉",
+        "label": "fed holds rates steady for months",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR2FRZy1tQmRLNGNWdVRkWnlUOWNpeDdnLWdCOXY4d1VkeUFlWjl1ZG15ZHNkUnJ6dkxtYlN5MVhWQkgtUEhHbmZWLV9Ba2pkUU5BYVpIMXBjMzNYRnF3ekYzZlM4N1phSGlqNG9ramdCSmN4b0JtZ3RpclRLTzhVZy1lNEMyMjNfVExTOHp4aFRTQjVONlJNX252dlBpZTBFLU9mYmdDTHc?oc=5",
+        "title": "Fed's Hammack signals holding rates steady for months, WSJ reports - Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "us and venezuela gps signal jamming",
+        "url": "https://www.nytimes.com/2025/12/20/world/americas/us-venezuela-caribbean-gps-flight-hazard.html",
+        "title": "U.S. and Venezuela Jam Caribbean GPS Signals to Thwart Attacks, Raising Flight Hazard"
+      },
+      {
+        "char": "🔫",
+        "label": "spike in gun violence in canada",
+        "url": "https://www.nytimes.com/2025/12/21/world/americas/canada-gun-violence-us.html",
+        "title": "Guns from the United States are Pouring into Canada, Fueling a Spike in Gun Violence"
+      },
+      {
+        "char": "✈️",
+        "label": "sydney shooting suspects in philippines",
+        "url": "https://www.nytimes.com/2025/12/21/world/asia/sydney-philippines-akram.html",
+        "title": "Sydney Shooting Suspects Met Muslim Leaders in Philippines, Officials Say"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
