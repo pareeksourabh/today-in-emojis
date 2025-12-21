@@ -9416,5 +9416,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-21",
+    "emojis": [
+      {
+        "char": "🏗️",
+        "label": "israel approves new settlements",
+        "url": "https://www.bbc.com/news/articles/cqjg18xe0wwo?at_medium=RSS&at_campaign=rss",
+        "title": "Israel approves 19 new settlements in occupied West Bank"
+      },
+      {
+        "char": "⚓",
+        "label": "us intercepts oil tanker off venezuela",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWE95WDNkVS1fQnpRbkpxWVUwRFQ3bUhFMmJaM3NWTUpjR2F5VzdscWE0aXQydDUxUzIydUNtSjcxNG56QkZDNDhfem82RWx5WjFsVDI5UjB2VVVjV24yMFBZdHJuZ09laFN1NDJXN0xiYUhmZTl2WHNSbGRtajhPZElKUHpudUZYQWJpYU5sTXFGNVo5MTdnYnU3MFM3U05ZRklEQzVubjFiUlpqNGpoNVk3Znk3UDFTT2Fr?oc=5",
+        "title": "Exclusive: US intercepts oil tanker off Venezuelan coast, officials say - Reuters"
+      },
+      {
+        "char": "🔫",
+        "label": "gunmen kill nine in south africa",
+        "url": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss",
+        "title": "Gunmen kill nine in South Africa tavern attack"
+      },
+      {
+        "char": "🌍",
+        "label": "morocco accused of horrific abuse",
+        "url": "https://www.theguardian.com/global-development/2025/dec/18/morocco-genz212-protests-police-mass-arrests-beatings-detentions-rights",
+        "title": "Morocco accused of ‘horrific’ abuse of detained gen Z protesters"
+      },
+      {
+        "char": "🚀",
+        "label": "engineer goes to space in wheelchair",
+        "url": "https://www.bbc.com/news/articles/c5y9z0g7lleo?at_medium=RSS&at_campaign=rss",
+        "title": "Engineer becomes first wheelchair user to go to space"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
