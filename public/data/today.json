@@ -1,36 +1,36 @@
 {
   "date": "2025-12-22",
-  "timestamp": "2025-12-22T06:12:37Z",
+  "timestamp": "2025-12-22T08:35:13Z",
   "emojis": [
     {
+      "char": "😢",
+      "label": "australians mourn shooting victims",
+      "url": "https://www.nytimes.com/2025/12/21/world/asia/australia-mourns-bondi-beach-shooting-victims.html",
+      "title": "At Bondi Beach, Australians Mourn Shooting Victims"
+    },
+    {
+      "char": "🏗️",
+      "label": "israel approves new settlements",
+      "url": "https://www.bbc.com/news/articles/cqjg18xe0wwo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel approves 19 new settlements in occupied West Bank"
+    },
+    {
+      "char": "💼",
+      "label": "oil prices rise after tanker interception",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnVuamY3X1pvbzdNVUhFX2g2NFJyUE5HZ1FIRTZVUEZ4UDFFSE8yQ3VaRDRPODQwanNZbjYzTS1jckxuczhuY21xVURUeHVFTjRRcFhBeUVwNVFxeEh0Vm5sOTFCWmFDY0hBWnFqWGVPRmktOXdlN2t2UnBPbXNEamVuTFpGTVo1WFdLY0pSOTBNLWxzakh5czkwR1lBMDR6V0dBMU9Hc1NKbWtpTGhRU2dvbndkWEV1RFE?oc=5",
+      "title": "Oil up on news the US intercepted an oil tanker off Venezuela - Reuters"
+    },
+    {
       "char": "🔫",
-      "label": "us guns fueling canadian violence",
-      "url": "https://www.nytimes.com/2025/12/21/world/americas/canada-gun-violence-us.html",
-      "title": "Guns from the United States are Pouring into Canada, Fueling a Spike in Gun Violence"
+      "label": "mass shooting in south africa",
+      "url": "https://www.nytimes.com/2025/12/21/world/africa/mass-shooting-tavern-south-africa.html",
+      "title": "9 Killed in Mass Shooting at Tavern in South Africa"
     },
     {
-      "char": "🎖️",
-      "label": "belarus laureate freed from prison",
-      "url": "https://www.nytimes.com/2025/12/21/world/europe/belarus-sanctions-potash-ales-bialiatski.html",
-      "title": "Freed From a Belarus Prison, a Nobel Peace Laureate Experiences ‘Oxygen Intoxication’"
-    },
-    {
-      "char": "💰",
-      "label": "debt boom signals yuan's rise",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXRXWHFwZjNCX051MkJjbHhmU290SjV6R0d2dXhEMjR1YWU0M1FET0w3aHhEMnYtOWotY2xuMmZUeG4zRVluYWd3Wm5PY2luRzBQeEQ4b0pLTzJha2ZoVDdMWUJSa1J5OVczUi1oV0ZSeTgzMFRlTXp0a0RXTzZNaGZ3VS1XRFhkLTNrVVFqTndXUS1ZMHdxZ19WUlFJaEhsYUU0?oc=5",
-      "title": "Debt boom signals yuan's arrival as a funding currency - Reuters"
-    },
-    {
-      "char": "🛢️",
-      "label": "us pursues oil tanker linked to venezuela",
-      "url": "https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&at_campaign=rss",
-      "title": "US pursuing third oil tanker linked to Venezuela, official says"
-    },
-    {
-      "char": "🏫",
-      "label": "schoolchildren freed from nigeria",
-      "url": "https://www.theguardian.com/world/2025/dec/21/more-kidnapped-schoolchildren-freed-in-nigeria",
-      "title": "Another 130 kidnapped schoolchildren released in Nigeria"
+      "char": "🎨",
+      "label": "pompidou center art renovation",
+      "url": "https://www.nytimes.com/2025/12/21/world/europe/pompidou-empty-renovation-art.html",
+      "title": "The Pompidou Center Has Been Emptied of Its Art. We Watched It Happen."
     }
   ],
   "source": "ai-openai"

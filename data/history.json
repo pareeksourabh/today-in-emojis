@@ -9572,5 +9572,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-22",
+    "emojis": [
+      {
+        "char": "😢",
+        "label": "australians mourn shooting victims",
+        "url": "https://www.nytimes.com/2025/12/21/world/asia/australia-mourns-bondi-beach-shooting-victims.html",
+        "title": "At Bondi Beach, Australians Mourn Shooting Victims"
+      },
+      {
+        "char": "🏗️",
+        "label": "israel approves new settlements",
+        "url": "https://www.bbc.com/news/articles/cqjg18xe0wwo?at_medium=RSS&at_campaign=rss",
+        "title": "Israel approves 19 new settlements in occupied West Bank"
+      },
+      {
+        "char": "💼",
+        "label": "oil prices rise after tanker interception",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnVuamY3X1pvbzdNVUhFX2g2NFJyUE5HZ1FIRTZVUEZ4UDFFSE8yQ3VaRDRPODQwanNZbjYzTS1jckxuczhuY21xVURUeHVFTjRRcFhBeUVwNVFxeEh0Vm5sOTFCWmFDY0hBWnFqWGVPRmktOXdlN2t2UnBPbXNEamVuTFpGTVo1WFdLY0pSOTBNLWxzakh5czkwR1lBMDR6V0dBMU9Hc1NKbWtpTGhRU2dvbndkWEV1RFE?oc=5",
+        "title": "Oil up on news the US intercepted an oil tanker off Venezuela - Reuters"
+      },
+      {
+        "char": "🔫",
+        "label": "mass shooting in south africa",
+        "url": "https://www.nytimes.com/2025/12/21/world/africa/mass-shooting-tavern-south-africa.html",
+        "title": "9 Killed in Mass Shooting at Tavern in South Africa"
+      },
+      {
+        "char": "🎨",
+        "label": "pompidou center art renovation",
+        "url": "https://www.nytimes.com/2025/12/21/world/europe/pompidou-empty-renovation-art.html",
+        "title": "The Pompidou Center Has Been Emptied of Its Art. We Watched It Happen."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
