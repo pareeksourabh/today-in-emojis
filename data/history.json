@@ -9689,5 +9689,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-22",
+    "emojis": [
+      {
+        "char": "💼",
+        "label": "fed's miran likely to stay after term",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVGhjX3ZReURGZ2ZlcGFSMkNqUFlDWFlRTHhJMXlGTWF1bkVWQUhKNzM4YWJqS254WFI2WHFtU2FoZnkyWTRZaVJWV0o3RWpTUWdyaWxWeFRMSEpnanVwZndDZmc3akRzQ2dtQVlhMFV4UXlTRm1WLVVabmc3MGk5YXYwQ3BfUnZpYzNIQnZZMHRIZVJnREIzZW40VmJoTE10ZFNTeGpzQWp0QTg0LUhkdW1HdmxjMmg2YUFwaHhMX2w0MWJk?oc=5",
+        "title": "Fed's Miran says he will likely stay after term ends until his seat is filled - Reuters"
+      },
+      {
+        "char": "📈",
+        "label": "stocks and yen gain amid tensions",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObGNnOUdaNUh1UFR0TFlSZW1OSDdCNmRRWTh6R1pUZnhWandScEt1VWNsNWVvNzZYZnBua0xQekc5aEtvUGZPbzJya0x2R3Yzb0lwQ0hkeHB2QlBOYU1aX2NpOWRIY21JZ3lXMVhGdWJkNEVkX2NQSGs0ZFdvX2w2bE00bw?oc=5",
+        "title": "Stocks, yen gain; gold, silver and oil jump amid US-Venezuela tensions - Reuters"
+      },
+      {
+        "char": "🤝",
+        "label": "thailand and cambodia ceasefire talks",
+        "url": "https://www.bbc.com/news/articles/c5ydej888n9o?at_medium=RSS&at_campaign=rss",
+        "title": "Thailand and Cambodia to hold ceasefire talks, says foreign minister"
+      },
+      {
+        "char": "💣",
+        "label": "russian general killed by car bomb",
+        "url": "https://www.bbc.com/news/articles/c8jwn9wznx1o?at_medium=RSS&at_campaign=rss",
+        "title": "Russian general killed by car bomb in Moscow, officials say"
+      },
+      {
+        "char": "👨‍👩‍",
+        "label": "freed nigerian schoolchildren reunite",
+        "url": "https://www.theguardian.com/world/2025/dec/22/freed-nigerian-schoolchildren-set-to-be-reunited-with-families",
+        "title": "Freed Nigerian schoolchildren to be reunited with families"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
