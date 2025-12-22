@@ -43,6 +43,7 @@ CARD_BORDER_WIDTH = 2           # Border thickness
 # Font config
 DATE_FONT_SIZE = 40
 EMOJI_FONT_SIZE = 108  # 60% of 180
+EMOJI_GAP = 20
 
 
 def load_emoji_data():
@@ -127,14 +128,6 @@ cardPath.stroke()
 // Date text (top-left of card)
 let dateText = "{formatted_date}"
 let dateFont = NSFont.systemFont(ofSize: {DATE_FONT_SIZE}, weight: .regular)
-let dateAttributes: [NSAttributedString.Key: Any] = [
-    .font: dateFont,
-    .foregroundColor: NSColor(calibratedRed: {text_r}, green: {text_g}, blue: {text_b}, alpha: 1.0)
-]
-let datePoint = NSPoint(x: {card_x + 40}, y: {SIZE - card_y - 70})
-dateText.draw(at: datePoint, withAttributes: dateAttributes)
-
-// Emojis (centered on card)
 let emojiText = "{emoji_text}"
 let emojiFont = NSFont.systemFont(ofSize: {EMOJI_FONT_SIZE})
 let emojiAttributes: [NSAttributedString.Key: Any] = [
@@ -144,6 +137,15 @@ let emojiAttributes: [NSAttributedString.Key: Any] = [
 let emojiSize = emojiText.size(withAttributes: emojiAttributes)
 let emojiX = ({SIZE} - emojiSize.width) / 2
 let emojiY = ({SIZE} - emojiSize.height) / 2
+
+let dateAttributes: [NSAttributedString.Key: Any] = [
+    .font: dateFont,
+    .foregroundColor: NSColor(calibratedRed: {text_r}, green: {text_g}, blue: {text_b}, alpha: 1.0)
+]
+let datePoint = NSPoint(x: emojiX, y: {SIZE - card_y - 70})
+dateText.draw(at: datePoint, withAttributes: dateAttributes)
+
+// Emojis (centered on card)
 
 emojiText.draw(at: NSPoint(x: emojiX, y: emojiY), withAttributes: emojiAttributes)
 
@@ -194,6 +196,7 @@ def generate_with_pango_cairo(emoji_chars, date_str, output_path):
     card_y = PADDING_OUTER
     card_w = SIZE - 2 * PADDING_OUTER
     card_h = SIZE - 2 * PADDING_OUTER
+    date_left = compute_date_left(len(emoji_chars))
 
     # Convert colors to hex
     bg_hex = '#{:02x}{:02x}{:02x}'.format(*BG_COLOR)
@@ -222,7 +225,7 @@ def generate_with_pango_cairo(emoji_chars, date_str, output_path):
             '-font', 'DejaVu-Sans',
             '-pointsize', str(DATE_FONT_SIZE),
             '-fill', text_hex,
-            '-annotate', f'+{card_x+40}+{card_y+50}', formatted_date,
+            '-annotate', f'+{date_left}+{card_y+50}', formatted_date,
             # Draw emojis using pango for color emoji support
             '-gravity', 'center',
             '-font', 'Noto-Color-Emoji',
@@ -245,11 +248,25 @@ def generate_with_pango_cairo(emoji_chars, date_str, output_path):
         return False
 
 
+def compute_date_left(num_emojis):
+    """Estimate the left edge of the emoji row so the date aligns with column one."""
+    if num_emojis <= 0:
+        return PADDING_OUTER
+
+    row_width = (num_emojis * EMOJI_FONT_SIZE) + (max(num_emojis - 1, 0) * EMOJI_GAP)
+    estimated_left = int(round((SIZE - row_width) / 2))
+    return max(PADDING_OUTER, estimated_left)
+
+
 def generate_with_playwright(emoji_chars, date_str, output_path):
     """Generate image using Playwright for reliable headless browser rendering."""
 
     emoji_text = " ".join(emoji_chars)
     formatted_date = format_date(date_str)
+    card_x = PADDING_OUTER
+    card_y = PADDING_OUTER
+    date_left_in_card = compute_date_left(len(emoji_chars)) - card_x
+    date_left_in_card = max(0, date_left_in_card)
 
     # Convert colors to hex
     bg_hex = '#{:02x}{:02x}{:02x}'.format(*BG_COLOR)
@@ -292,7 +309,7 @@ def generate_with_playwright(emoji_chars, date_str, output_path):
         .date {{
             position: absolute;
             top: 30px;
-            left: 40px;
+            left: {date_left_in_card}px;
             font-size: {DATE_FONT_SIZE}px;
             color: {text_hex};
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
@@ -303,7 +320,7 @@ def generate_with_playwright(emoji_chars, date_str, output_path):
             flex-wrap: nowrap;
             align-items: center;
             justify-content: center;
-            gap: 20px;
+            gap: {EMOJI_GAP}px;
         }}
         .emoji {{
             font-size: {EMOJI_FONT_SIZE}px;
@@ -320,6 +337,17 @@ def generate_with_playwright(emoji_chars, date_str, output_path):
         <div class="emojis">{emoji_spans}</div>
     </div>
 </body>
+<script>
+    const card = document.querySelector('.card');
+    const date = document.querySelector('.date');
+    const emojis = document.querySelector('.emojis');
+    if (card && date && emojis) {{
+        const cardRect = card.getBoundingClientRect();
+        const emojiRect = emojis.getBoundingClientRect();
+        const relativeLeft = emojiRect.left - cardRect.left;
+        date.style.left = `${{relativeLeft}}px`;
+    }}
+</script>
 </html>'''
 
     try:
@@ -329,6 +357,7 @@ def generate_with_playwright(emoji_chars, date_str, output_path):
             browser = p.chromium.launch()
             page = browser.new_page(viewport={'width': SIZE, 'height': SIZE})
             page.set_content(html_content)
+            page.wait_for_timeout(100)
             page.screenshot(path=output_path, full_page=False)
             browser.close()
 
@@ -383,27 +412,28 @@ def generate_with_pillow(emoji_chars, date_str, output_path):
     if not text_font:
         text_font = ImageFont.load_default()
 
-    # Draw date
-    formatted_date = format_date(date_str)
-    draw.text((card_x + 40, card_y + 30), formatted_date,
-              font=text_font, fill=TEXT_COLOR)
-
-    # Draw emojis as text (will appear as boxes without proper emoji font)
     emoji_text = " ".join(emoji_chars)
+    formatted_date = format_date(date_str)
+    emoji_x = compute_date_left(len(emoji_chars))
 
     try:
         emoji_font = ImageFont.truetype("/usr/share/fonts/truetype/noto/NotoColorEmoji.ttf", EMOJI_FONT_SIZE)
         bbox = draw.textbbox((0, 0), emoji_text, font=emoji_font)
         text_width = bbox[2] - bbox[0]
         text_height = bbox[3] - bbox[1]
-        x = (SIZE - text_width) // 2
-        y = (SIZE - text_height) // 2
-        draw.text((x, y), emoji_text, font=emoji_font, embedded_color=True)
+        emoji_x = (SIZE - text_width) // 2
+        emoji_y = (SIZE - text_height) // 2
+        draw.text((emoji_x, emoji_y), emoji_text, font=emoji_font, embedded_color=True)
     except Exception as e:
         print(f"[warn] Emoji font failed: {e}", file=sys.stderr)
         # Just draw text centered
+        emoji_y = SIZE // 2
         draw.text((SIZE//2, SIZE//2), emoji_text, font=text_font,
                  fill=TEXT_COLOR, anchor='mm')
+
+    # Draw date after computing emoji start so it aligns to the first emoji column
+    draw.text((emoji_x, card_y + 30), formatted_date,
+              font=text_font, fill=TEXT_COLOR)
 
     img.save(output_path, 'PNG')
     return True
