@@ -9650,5 +9650,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-22",
+    "emojis": [
+      {
+        "char": "🏛️",
+        "label": "museum uncovers african histories",
+        "url": "https://www.theguardian.com/uk-news/2025/dec/21/manchester-museum-uncover-hidden-histories-africa-hub",
+        "title": "Manchester Museum seeks help to uncover hidden histories of African collection"
+      },
+      {
+        "char": "⛴️",
+        "label": "coast guard pursues oil tanker",
+        "url": "https://www.theguardian.com/us-news/2025/dec/21/coast-guard-pursuing-oil-tanker-venezuela-coast",
+        "title": "US Coast Guard pursuing another oil tanker off coast of Venezuela"
+      },
+      {
+        "char": "👶",
+        "label": "nigerian children released from abduction",
+        "url": "https://www.nytimes.com/2025/12/22/world/africa/nigeria-school-students-children-released.html",
+        "title": "More Abducted Nigerian Children Released, Government Says"
+      },
+      {
+        "char": "🎄",
+        "label": "christmas in bethlehem amid conflict",
+        "url": "https://www.nytimes.com/2025/12/22/world/middleeast/christmas-in-bethlehem-west-bank.html",
+        "title": "Christmas Is Back in Bethlehem, but Peace and Joy Have Yet to Arrive"
+      },
+      {
+        "char": "🔫",
+        "label": "gunmen kill in johannesburg shooting",
+        "url": "https://www.theguardian.com/world/2025/dec/21/gunmen-johannesburg-township-in-south-africas-second-mass-shooting-within-weeks",
+        "title": "Gunmen kill nine in Johannesburg township in South Africa’s second mass shooting this month"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
