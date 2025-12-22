@@ -9533,5 +9533,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-22",
+    "emojis": [
+      {
+        "char": "🔫",
+        "label": "us guns fueling canadian violence",
+        "url": "https://www.nytimes.com/2025/12/21/world/americas/canada-gun-violence-us.html",
+        "title": "Guns from the United States are Pouring into Canada, Fueling a Spike in Gun Violence"
+      },
+      {
+        "char": "🎖️",
+        "label": "belarus laureate freed from prison",
+        "url": "https://www.nytimes.com/2025/12/21/world/europe/belarus-sanctions-potash-ales-bialiatski.html",
+        "title": "Freed From a Belarus Prison, a Nobel Peace Laureate Experiences ‘Oxygen Intoxication’"
+      },
+      {
+        "char": "💰",
+        "label": "debt boom signals yuan's rise",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXRXWHFwZjNCX051MkJjbHhmU290SjV6R0d2dXhEMjR1YWU0M1FET0w3aHhEMnYtOWotY2xuMmZUeG4zRVluYWd3Wm5PY2luRzBQeEQ4b0pLTzJha2ZoVDdMWUJSa1J5OVczUi1oV0ZSeTgzMFRlTXp0a0RXTzZNaGZ3VS1XRFhkLTNrVVFqTndXUS1ZMHdxZ19WUlFJaEhsYUU0?oc=5",
+        "title": "Debt boom signals yuan's arrival as a funding currency - Reuters"
+      },
+      {
+        "char": "🛢️",
+        "label": "us pursues oil tanker linked to venezuela",
+        "url": "https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&at_campaign=rss",
+        "title": "US pursuing third oil tanker linked to Venezuela, official says"
+      },
+      {
+        "char": "🏫",
+        "label": "schoolchildren freed from nigeria",
+        "url": "https://www.theguardian.com/world/2025/dec/21/more-kidnapped-schoolchildren-freed-in-nigeria",
+        "title": "Another 130 kidnapped schoolchildren released in Nigeria"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
