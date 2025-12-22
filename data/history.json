@@ -9455,5 +9455,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-22",
+    "emojis": [
+      {
+        "char": "⚔️",
+        "label": "trump hints at war with venezuela",
+        "url": "https://www.theguardian.com/us-news/2025/dec/19/trump-venezuela-war",
+        "title": "Trump and top aides refuse to rule out war with Venezuela"
+      },
+      {
+        "char": "💰",
+        "label": "debt boom signals yuan's rise",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXRXWHFwZjNCX051MkJjbHhmU290SjV6R0d2dXhEMjR1YWU0M1FET0w3aHhEMnYtOWotY2xuMmZUeG4zRVluYWd3Wm5PY2luRzBQeEQ4b0pLTzJha2ZoVDdMWUJSa1J5OVczUi1oV0ZSeTgzMFRlTXp0a0RXTzZNaGZ3VS1XRFhkLTNrVVFqTndXUS1ZMHdxZ19WUlFJaEhsYUU0?oc=5",
+        "title": "Debt boom signals yuan's arrival as a funding currency - Reuters"
+      },
+      {
+        "char": "🔫",
+        "label": "mass shooting in south africa",
+        "url": "https://www.nytimes.com/2025/12/21/world/africa/mass-shooting-tavern-south-africa.html",
+        "title": "9 Killed in Mass Shooting at Tavern in South Africa"
+      },
+      {
+        "char": "🎅",
+        "label": "santas rob grocery store for needy",
+        "url": "https://www.theguardian.com/world/2025/dec/19/montreal-grocery-store-santas-elves-robbery",
+        "title": "Santas and elves rob Montreal grocery store to ‘give food to the needy’"
+      },
+      {
+        "char": "📚",
+        "label": "130 kidnapped children freed in nigeria",
+        "url": "https://www.theguardian.com/world/2025/dec/21/more-kidnapped-schoolchildren-freed-in-nigeria",
+        "title": "Another 130 kidnapped schoolchildren released in Nigeria"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
