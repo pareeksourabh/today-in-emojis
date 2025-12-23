@@ -9728,5 +9728,44 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-23",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "ecuador soldiers jailed for disappearance",
+        "url": "https://www.bbc.com/news/articles/cx237k4rr04o?at_medium=RSS&at_campaign=rss",
+        "title": "Ecuadorean soldiers jailed for 34 years over boys' forced disappearance"
+      },
+      {
+        "char": "💻",
+        "label": "nvidia to ship chips to china soon",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd3lmcmtRaUl4N09HNVRwX2UyeE9nUlhXUnFrZnJ6NTFYLUhyN3Q1OUJJM2E4a2M1b05VdGJlZDl4ZU51NzdHQ1FfTVhHMXpmZkI5ZUx1bnZ4Z1dxR1V2M3oyS2xsRlNGVHdCYm1MekRfU2FKaHVLTGVnTDAzQjQzT3BWSERfWHgtTDZsWE9ncVdybEZqTm0tWFJNeklhTGE1Y0xUZmdrVjBhWDdEekpSLUFIZ3JYbDVhRWVN?oc=5",
+        "title": "Exclusive: Nvidia aims to begin H200 chip shipments to China by mid-February, sources say - Reuters"
+      },
+      {
+        "char": "🔫",
+        "label": "gunmen kill nine in johannesburg",
+        "url": "https://www.theguardian.com/world/2025/dec/21/gunmen-johannesburg-township-in-south-africas-second-mass-shooting-within-weeks",
+        "title": "Gunmen kill nine in Johannesburg township in South Africa’s second mass shooting this month"
+      },
+      {
+        "char": "🏛️",
+        "label": "man jailed for 1335 years in el salvador",
+        "url": "https://www.theguardian.com/world/2025/dec/22/man-jailed-1335-years-el-salvador-sentences-ms-13-gang-members",
+        "title": "Man jailed for 1,335 years as El Salvador sentences almost 250 MS-13 gang members"
+      },
+      {
+        "char": "🌍",
+        "label": "sweden and germany cut aid budgets",
+        "url": "https://www.theguardian.com/global-development/2025/dec/21/sweden-and-germany-slash-aid-budgets-to-focus-on-ukraine-and-defence-spending",
+        "title": "Sweden and Germany slash aid budgets to focus on Ukraine and defence spending"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
