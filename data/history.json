@@ -9811,5 +9811,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-23",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "canada's new ambassador to us",
+        "url": "https://www.theguardian.com/world/2025/dec/23/former-blackrock-executive-mark-wiseman-named-as-canadas-next-ambassador-to-us",
+        "title": "Former BlackRock executive Mark Wiseman named as Canada’s next ambassador to US",
+        "summary": "Financier will assume the role on 15 February, ahead of US free trade negotiations, says prime minister Mark Carney Canada’s prime minister, Mark Carney, announced that financier Mark Wiseman will serve as the country’s next ambassador t..."
+      },
+      {
+        "char": "🕊️",
+        "label": "lynching in bangladesh raises fears",
+        "url": "https://www.nytimes.com/2025/12/22/world/asia/bangladesh-hindu-muslim-lynching.html",
+        "title": "Lynching of a Hindu in Bangladesh Fans Fears of Rising Intolerance",
+        "summary": "Muslim co-workers accused the garment factory worker of blasphemy and dragged him into the street, where an angry mob murdered him."
+      },
+      {
+        "char": "💔",
+        "label": "bondi massacre sparks political divide",
+        "url": "https://www.nytimes.com/2025/12/23/world/australia/australia-bondi-massacre-politics.html",
+        "title": "After Bondi Massacre, a Moment of Unity. Then, Bitter Partisanship.",
+        "summary": "The political point scoring that has erupted after the terror attack last week is unusual in Australia, where leaders tend to unite after catastrophes."
+      },
+      {
+        "char": "💣",
+        "label": "russian general killed in moscow",
+        "url": "https://www.nytimes.com/2025/12/22/world/europe/russia-moscow-general-killed.html",
+        "title": "Russian General Is Killed in Car Bombing in Moscow",
+        "summary": "The attack appeared to be the latest targeted assassination of a senior military official inside Russia’s borders."
+      },
+      {
+        "char": "🏛️",
+        "label": "manchester museum uncovers african histories",
+        "url": "https://www.theguardian.com/uk-news/2025/dec/21/manchester-museum-uncover-hidden-histories-africa-hub",
+        "title": "Manchester Museum seeks help to uncover hidden histories of African collection",
+        "summary": "New Africa Hub confronts colonial-era silences by asking visitors to share insights on 40,000 objects It’s a rare thing for a museum to talk about what it doesn’t know. But unanswered questions and archival silences are at the heart of t..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
