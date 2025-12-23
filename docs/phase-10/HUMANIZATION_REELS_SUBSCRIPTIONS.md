@@ -1,164 +1,233 @@
-# Today in Emojis — Phase 3: Humanization + Reels + Subscriptions
+# Today in Emojis — Phase 10: Humanization First, Amplification Later
+
+Phase 10 focuses on making Today in Emojis feel human, intentional, and emotionally resonant — before scaling reach or monetization.
+
+This phase is intentionally split into two sub-tracks:
+
+- **Phase 10A — Humanization & Emotional Identity (ACTIVE)**
+- **Phase 10B — Amplification (Reels, Subscriptions) (PAUSED)**
+
+Only Phase 10A is currently in progress.
+
+---
 
 ## Why this phase exists
-Right now the Instagram profile feels bot-run. We want to:
-1) Add subtle human polish to visuals (small layout fixes).
-2) Increase engagement via short Reels (5–10s) with a “spotlight per emoji” + voice narration.
-3) Add a subscription manager (start with email newsletter; design so we can switch to WhatsApp later).
+
+Right now, Today in Emojis is:
+- Informative
+- Consistent
+- Automated
+
+But it can still feel **algorithmic**.
+
+Humans don’t remember days as a list of headlines —  
+they remember how a day *felt*.
+
+Phase 10 introduces emotional rhythm, pauses, and identity into the feed, so the account feels authored, reflective, and alive — not just generated.
+
+---
 
 ## Goals (Outcome-driven)
-- Feed feels more “real” and intentionally designed (not templated spam).
-- Reels become the primary growth lever (shareable, higher reach than images).
-- We start capturing an owned audience (subscribers) for future monetization and channel flexibility.
 
-## Non-goals (for this phase)
-- No complex content personalization.
-- No manual editing workflow; must be automated.
-- No paid monetization features yet (just the foundation).
+### Phase 10A (NOW)
+- Feed feels more human and emotionally grounded
+- Visual rhythm breaks monotony
+- The profile communicates a “voice” and a “mood”, not just information
 
----
-
-## Scope A — Image layout polish (quick win)
-### Change A1: Date padding/alignment
-**Problem:** Date text on top-left looks slightly “off” and contributes to bot-like grid feel.  
-**Change:** Shift the date slightly right by adding left padding so it visually aligns with the first emoji column (date left edge aligned to first emoji left edge).
-
-**Definition of Done**
-- Date alignment matches emoji column across all generated image sizes.
-- No visual regressions on grid view (9/12 tile Instagram grid).
+### Phase 10B (LATER)
+- Reels become a growth amplifier
+- Subscriptions become an owned audience channel
+- Monetization paths become possible without redesign
 
 ---
 
-## Scope B — Reels generation + posting (core change)
+## Non-goals (for Phase 10A)
+
+- No Reels implementation yet
+- No subscription flows yet
+- No paid monetization
+- No manual curation — everything remains automated
+
+---
+
+# Phase 10A — Humanization & Emotional Identity (ACTIVE)
+
+## Core Concept: Essence of the Day
+
+### Problem
+Even with clean visuals, a feed made only of news summaries can feel repetitive and mechanical.
+
+### Insight
+A human looks back at a day and says:
+> “Overall, today felt like *this*.”
+
+### Solution: Essence Emoji
+Introduce a recurring post that captures the **emotional essence of the entire day** using a single emoji.
+
+This post is:
+- Not news
+- Not a summary
+- Not explanatory
+
+It is a **pause**.
+
+---
+
+## Posting Rule (Cadence)
+
+- After every **N posts**, publish **one Essence of the Day post**
+- Default cadence: **5 + 1** (every 6th post)
+- Configurable via code
+
+Examples:
+- 2 + 1 (lighter days)
+- 5 + 1 (default)
+- Future flexibility without redesign
+
+---
+
+## Grid-aware Design Constraint (Instagram-first)
+
+Instagram profiles render as a **3-column grid**.
+
+Essence posts must:
+- Appear consistently in the **same column**
+- Preferably the **first column**, to act as a visual anchor
+- Create a recognizable vertical rhythm when scrolling the profile
+
+This is intentional and non-negotiable.
+
+---
+
+## Visual Treatment — Essence Post (v1)
+
+- One large emoji, centered
+- More negative space than regular posts
+- Softer or calmer background
+- No headline-style layout
+- No news text
+- Date optional or omitted (to feel timeless)
+
+The Essence post should feel:
+- Reflective
+- Calm
+- Deliberate
+- Human
+
+---
+
+## Definition of Done — Phase 10A
+
+- Essence post is generated automatically
+- Appears exactly at every Nth position
+- Grid column alignment is predictable and repeatable
+- Live Instagram profile visibly breaks monotony
+- Feed feels intentional, not purely algorithmic
+
+---
+
+## Supporting Work (Already Completed)
+
+### Image Layout Polish
+**Status:** ✅ DONE
+
+- Date padding/alignment fixed
+- Date now aligns cleanly with emoji column
+- No clipping or cutoff in generated images
+- New posts reflect the corrected layout
+
+No further work required here.
+
+---
+
+# Phase 10B — Amplification (PAUSED)
+
+> ⚠️ **Status: Explicitly Paused**
+>
+> Reels and Subscriptions are intentionally deferred until Phase 10A
+> (Humanization & Essence) is complete and visually validated on Instagram.
+
+These sections remain documented for continuity, but **must not be implemented yet**.
+
+---
+
+## Phase 10B — Reels Generation + Posting (PAUSED)
+
 ### Overview
-We will generate **1–2 videos per day** (configurable) instead of only static images.
+We will eventually generate **1–2 short Reels per day** (5–10s) to increase reach.
 
-Each Reel:
-- Duration: **5–10 seconds**
-- Shows the same “5 emojis” set
-- Highlights one emoji at a time (spotlight/pulse/zoom) in sequence
-- Background: optional subtle motion or minimal static background
-- Audio: news narration (voiceover), one line per emoji or short combined script
+Each Reel will:
+- Show the same 5 emojis
+- Highlight one emoji at a time
+- Use subtle spotlight animation
+- Include voice narration (TTS initially)
 
-### Video Format (v1)
-- 1080x1920 (vertical)
-- 30 fps (or 24 fps) – choose one and standardize
-- Simple animation: spotlight overlay + slight scale on active emoji
-- Transition timing: ~1 sec per emoji (tuneable)
-
-### Audio (v1)
-- Use TTS voice for now (human-like voice), later can switch to recorded voice.
-- Script options:
-  1) One sentence per emoji, timed to highlight
-  2) One short paragraph, still highlighting per emoji
-
-**Definition of Done**
-- A single command/job produces:
-  - `reel.mp4` + metadata (caption, hashtags, alt text)
-  - Posts to Instagram as Reel automatically
-- Reel output is deterministic and consistent with the daily news pipeline
-- If audio generation fails, fallback to silent Reel (still posts) + log error
+**No implementation work should start yet.**
 
 ---
 
-## Scope C — Subscription manager (owned audience)
-### Overview
-Users can subscribe via a simple web UI. We store subscribers and send a daily email digest.
+## Phase 10B — Subscription Manager (PAUSED)
 
-Key requirement: **multi-channel-ready**
+### Overview
+We will eventually add an owned audience via subscriptions.
+
 - Start with email newsletter
-- Architecture must allow switching to WhatsApp later without rewriting everything
+- Architecture must support future WhatsApp delivery
+- Enables future monetization
 
-### Data Model (v1)
-Subscriber:
-- id
-- email (required for v1)
-- status (active/unsubscribed)
-- created_at, updated_at
-- preferred_channel (email now; whatsapp later)
-- verification_state (optional: pending/verified)
-
-Events/Logs:
-- subscription_created
-- subscription_confirmed (if double opt-in used)
-- unsubscribed
-- delivery_success / delivery_failed
-
-### Newsletter (v1)
-- Frequency: once/day (configurable)
-- Beautifully formatted HTML email
-- Contains the “top emojis + summaries” for the day
-- Links back to site and Instagram
-
-**Definition of Done**
-- Subscribe/unsubscribe works
-- Daily email job sends to all active subscribers
-- Email template looks clean on mobile + Gmail + Apple Mail
-- Channel abstraction exists (EmailChannel implemented; WhatsAppChannel stubbed)
+**No implementation work should start yet.**
 
 ---
 
-## Implementation approach (suggested)
-### Reels generation
-- Generate frames (Pillow) OR build a simple video via ffmpeg filtergraph
-- Compose audio via TTS
-- Merge audio + video via ffmpeg
-- Output: mp4 ready for Instagram
+# Task Breakdown
 
-### Posting
-- Continue using current automation style (cron/GitHub Actions/etc.)
-- Add a separate scheduler for reels (1–2 per day)
-- Ensure rate limits & failure retries
+## Phase 10A — ACTIVE TASKS (Humanization)
+
+- **P10A-1** — Define Essence of the Day generation rules
+- **P10A-2** — Implement single-emoji Essence post generator
+- **P10A-3** — Enforce N+1 posting cadence (default 5 + 1)
+- **P10A-4** — Ensure predictable Instagram grid column alignment
+- **P10A-5** — Validate live profile visual rhythm
+
+---
+
+## Phase 10B — DEFERRED TASKS (Amplification)
+
+### Reels
+- P10B-R1 — Reel layout spec
+- P10B-R2 — Frame generation
+- P10B-R3 — Spotlight animation
+- P10B-R4 — TTS narration
+- P10B-R5 — Video composition & posting
 
 ### Subscriptions
-- Simple web form endpoint
-- Store in DB (or a lightweight store)
-- Daily job composes email + sends
-- Maintain channel abstraction from day 1
+- P10B-S1 — Subscription storage & API
+- P10B-S2 — HTML email template
+- P10B-S3 — Daily newsletter sender
+- P10B-S4 — Channel abstraction (Email → WhatsApp)
 
 ---
 
-## Acceptance Criteria (Phase 3 complete)
-1) Static image generator updated: date alignment polish shipped.
-2) Reel generator shipped:
-   - consistent 5–10 sec reels
-   - emoji spotlight sequence
-   - TTS narration
-   - auto-posting pipeline
-3) Subscription manager shipped:
-   - users can subscribe/unsubscribe
-   - daily HTML newsletter sent
-   - architecture supports adding WhatsApp channel later without redesign
+## Risks / Watch-outs
+
+### Phase 10A
+- Instagram posting order affecting grid alignment
+- Edge cases on days with fewer posts
+- Essence emoji selection feeling arbitrary (may need tuning later)
+
+### Phase 10B (future)
+- Instagram Reels API constraints
+- TTS voice quality
+- Email compliance and unsubscribe flows
+- Reliability of multi-channel delivery
 
 ---
 
-## Risks / watch-outs
-- Instagram posting APIs and constraints: reels upload requirements, rate limits
-- TTS voice quality vs “human” feel: pick a high-quality voice early
-- Compliance: email unsubscribe, consent tracking, anti-spam basics
-- Reliability: fallbacks when audio/video fails
+## Success Signal for Phase 10
 
----
+When someone opens the Instagram profile and scrolls:
+- They immediately notice a rhythm
+- They intuitively understand that some posts are “pauses”
+- The feed feels authored, not just generated
 
-## Phase 3 Task List (engineering checklist)
-### A) Image polish
-- [ ] Locate date rendering code
-- [ ] Add left padding / alignment rule
-- [ ] Verify across sample days
-- [ ] Update screenshots in README
-
-### B) Reels
-- [ ] Define reel layout spec (positions, timings, typography)
-- [ ] Implement frame generator
-- [ ] Implement spotlight animation
-- [ ] Implement TTS script generation
-- [ ] Implement ffmpeg composition (video+audio)
-- [ ] Implement reel posting job
-- [ ] Add monitoring logs + failure fallback
-
-### C) Subscriptions
-- [ ] Add subscribe endpoint + storage
-- [ ] Add unsubscribe endpoint
-- [ ] Create HTML email template
-- [ ] Add daily send job
-- [ ] Add Channel interface (EmailChannel now, WhatsAppChannel later)
+Only after this is true do we move to amplification.

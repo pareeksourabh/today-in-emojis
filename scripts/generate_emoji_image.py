@@ -45,14 +45,21 @@ DATE_FONT_SIZE = 40
 EMOJI_FONT_SIZE = 108  # 60% of 180
 EMOJI_GAP = 20
 
+# Essence design constants
+ESSENCE_BG_COLOR = (242, 241, 236)
+ESSENCE_TEXT_COLOR = (70, 70, 70)
+ESSENCE_EMOJI_FONT_SIZE = 320
+ESSENCE_DATE_FONT_SIZE = 36
+ESSENCE_DATE_TOP_PADDING = 70
 
-def load_emoji_data():
+
+def load_emoji_data(path=INPUT_FILE):
     """Load today's emoji data from JSON file."""
-    if not os.path.exists(INPUT_FILE):
-        print(f"[error] Input file not found: {INPUT_FILE}", file=sys.stderr)
+    if not os.path.exists(path):
+        print(f"[error] Input file not found: {path}", file=sys.stderr)
         sys.exit(1)
 
-    with open(INPUT_FILE, 'r', encoding='utf-8') as f:
+    with open(path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     return data
@@ -185,6 +192,81 @@ if let tiffData = image.tiffRepresentation,
         return False
 
 
+def generate_essence_with_swift(emoji_char, date_str, output_path):
+    """Generate essence image using Swift/AppKit - native macOS rendering."""
+
+    formatted_date = format_date(date_str)
+
+    bg_r, bg_g, bg_b = ESSENCE_BG_COLOR[0]/255, ESSENCE_BG_COLOR[1]/255, ESSENCE_BG_COLOR[2]/255
+    text_r, text_g, text_b = ESSENCE_TEXT_COLOR[0]/255, ESSENCE_TEXT_COLOR[1]/255, ESSENCE_TEXT_COLOR[2]/255
+
+    swift_code = f'''
+import Cocoa
+
+let size = NSSize(width: {SIZE}, height: {SIZE})
+let image = NSImage(size: size)
+
+image.lockFocus()
+
+NSColor(calibratedRed: {bg_r}, green: {bg_g}, blue: {bg_b}, alpha: 1.0).setFill()
+NSRect(origin: .zero, size: size).fill()
+
+let emojiText = "{emoji_char}"
+let emojiFont = NSFont.systemFont(ofSize: {ESSENCE_EMOJI_FONT_SIZE})
+let emojiAttributes: [NSAttributedString.Key: Any] = [
+    .font: emojiFont
+]
+let emojiSize = emojiText.size(withAttributes: emojiAttributes)
+let emojiX = ({SIZE} - emojiSize.width) / 2
+let emojiY = ({SIZE} - emojiSize.height) / 2
+emojiText.draw(at: NSPoint(x: emojiX, y: emojiY), withAttributes: emojiAttributes)
+
+let dateText = "{formatted_date}"
+let dateFont = NSFont.systemFont(ofSize: {ESSENCE_DATE_FONT_SIZE}, weight: .regular)
+let dateAttributes: [NSAttributedString.Key: Any] = [
+    .font: dateFont,
+    .foregroundColor: NSColor(calibratedRed: {text_r}, green: {text_g}, blue: {text_b}, alpha: 1.0)
+]
+let dateSize = dateText.size(withAttributes: dateAttributes)
+let dateX = ({SIZE} - dateSize.width) / 2
+let dateY = {SIZE} - CGFloat({ESSENCE_DATE_TOP_PADDING}) - dateSize.height
+dateText.draw(at: NSPoint(x: dateX, y: dateY), withAttributes: dateAttributes)
+
+image.unlockFocus()
+
+if let tiffData = image.tiffRepresentation,
+   let bitmapRep = NSBitmapImageRep(data: tiffData),
+   let pngData = bitmapRep.representation(using: .png, properties: [:]) {{
+    try? pngData.write(to: URL(fileURLWithPath: "{output_path}"))
+    print("Success")
+}}
+'''
+
+    try:
+        with tempfile.NamedTemporaryFile(mode='w', suffix='.swift', delete=False) as f:
+            f.write(swift_code)
+            swift_path = f.name
+
+        result = subprocess.run(
+            ['swift', swift_path],
+            capture_output=True,
+            text=True
+        )
+
+        os.unlink(swift_path)
+
+        if result.returncode == 0 and os.path.exists(output_path):
+            return True
+        else:
+            if result.stderr:
+                print(f"[info] Swift error: {result.stderr}", file=sys.stderr)
+            return False
+
+    except Exception as e:
+        print(f"[info] Swift rendering failed: {e}", file=sys.stderr)
+        return False
+
+
 def generate_with_pango_cairo(emoji_chars, date_str, output_path):
     """Generate image using Pango/Cairo for proper emoji support on Linux."""
 
@@ -243,6 +325,48 @@ def generate_with_pango_cairo(emoji_chars, date_str, output_path):
                 print(f"[info] ImageMagick/Pango error: {result.stderr}", file=sys.stderr)
             return False
 
+    except Exception as e:
+        print(f"[info] Pango/Cairo rendering failed: {e}", file=sys.stderr)
+        return False
+
+
+def generate_essence_with_pango_cairo(emoji_char, date_str, output_path):
+    """Generate essence image using Pango/Cairo for proper emoji support on Linux."""
+
+    formatted_date = format_date(date_str)
+
+    bg_hex = '#{:02x}{:02x}{:02x}'.format(*ESSENCE_BG_COLOR)
+    text_hex = '#{:02x}{:02x}{:02x}'.format(*ESSENCE_TEXT_COLOR)
+
+    try:
+        result = subprocess.run(['which', 'convert'], capture_output=True, text=True)
+        if result.returncode != 0:
+            print("[info] ImageMagick not available", file=sys.stderr)
+            return False
+
+        cmd = [
+            'convert',
+            '-size', f'{SIZE}x{SIZE}',
+            f'xc:{bg_hex}',
+            '-gravity', 'center',
+            '-font', 'Noto-Color-Emoji',
+            '-pointsize', str(ESSENCE_EMOJI_FONT_SIZE),
+            f'pango:<span font="{ESSENCE_EMOJI_FONT_SIZE}">{emoji_char}</span>',
+            '-font', 'DejaVu-Sans',
+            '-pointsize', str(ESSENCE_DATE_FONT_SIZE),
+            '-fill', text_hex,
+            '-gravity', 'north',
+            '-annotate', f'+0+{ESSENCE_DATE_TOP_PADDING}', formatted_date,
+            output_path
+        ]
+
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        if result.returncode == 0 and os.path.exists(output_path):
+            return True
+        else:
+            if result.stderr:
+                print(f"[info] ImageMagick/Pango error: {result.stderr}", file=sys.stderr)
+            return False
     except Exception as e:
         print(f"[info] Pango/Cairo rendering failed: {e}", file=sys.stderr)
         return False
@@ -373,6 +497,77 @@ def generate_with_playwright(emoji_chars, date_str, output_path):
         return False
 
 
+def generate_essence_with_playwright(emoji_char, date_str, output_path):
+    """Generate essence image using Playwright for reliable headless browser rendering."""
+
+    formatted_date = format_date(date_str)
+
+    bg_hex = '#{:02x}{:02x}{:02x}'.format(*ESSENCE_BG_COLOR)
+    text_hex = '#{:02x}{:02x}{:02x}'.format(*ESSENCE_TEXT_COLOR)
+
+    html_content = f'''<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        html, body {{
+            width: {SIZE}px;
+            height: {SIZE}px;
+            overflow: hidden;
+        }}
+        body {{
+            background: {bg_hex};
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            position: relative;
+        }}
+        .emoji {{
+            font-size: {ESSENCE_EMOJI_FONT_SIZE}px;
+            line-height: 1;
+            font-family: 'Noto Color Emoji', 'Apple Color Emoji', 'Segoe UI Emoji', sans-serif;
+        }}
+        .date {{
+            position: absolute;
+            top: {ESSENCE_DATE_TOP_PADDING}px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: {ESSENCE_DATE_FONT_SIZE}px;
+            color: {text_hex};
+        }}
+    </style>
+</head>
+<body>
+    <div class="emoji">{emoji_char}</div>
+    <div class="date">{formatted_date}</div>
+</body>
+</html>'''
+
+    try:
+        from playwright.sync_api import sync_playwright
+
+        with sync_playwright() as p:
+            browser = p.chromium.launch()
+            page = browser.new_page(viewport={'width': SIZE, 'height': SIZE})
+            page.set_content(html_content)
+            page.wait_for_timeout(100)
+            page.screenshot(path=output_path, full_page=False)
+            browser.close()
+
+        if os.path.exists(output_path) and os.path.getsize(output_path) > 1000:
+            return True
+        return False
+
+    except ImportError:
+        print("[info] Playwright not installed", file=sys.stderr)
+        return False
+    except Exception as e:
+        print(f"[info] Playwright rendering failed: {e}", file=sys.stderr)
+        return False
+
+
 def generate_with_pillow(emoji_chars, date_str, output_path):
     """Generate image using Pillow - fallback with limited emoji support."""
     from PIL import Image, ImageDraw, ImageFont
@@ -439,10 +634,61 @@ def generate_with_pillow(emoji_chars, date_str, output_path):
     return True
 
 
+def generate_essence_with_pillow(emoji_char, date_str, output_path):
+    """Generate essence image using Pillow - fallback with limited emoji support."""
+    from PIL import Image, ImageDraw, ImageFont
+
+    img = Image.new('RGB', (SIZE, SIZE), color=ESSENCE_BG_COLOR)
+    draw = ImageDraw.Draw(img)
+
+    text_fonts = [
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+        "/usr/share/fonts/TTF/DejaVuSans.ttf",
+    ]
+
+    text_font = None
+    for font_path in text_fonts:
+        if os.path.exists(font_path):
+            try:
+                text_font = ImageFont.truetype(font_path, ESSENCE_DATE_FONT_SIZE)
+                break
+            except:
+                continue
+
+    if not text_font:
+        text_font = ImageFont.load_default()
+
+    formatted_date = format_date(date_str)
+
+    try:
+        emoji_font = ImageFont.truetype("/usr/share/fonts/truetype/noto/NotoColorEmoji.ttf", ESSENCE_EMOJI_FONT_SIZE)
+        bbox = draw.textbbox((0, 0), emoji_char, font=emoji_font)
+        text_width = bbox[2] - bbox[0]
+        text_height = bbox[3] - bbox[1]
+        emoji_x = (SIZE - text_width) // 2
+        emoji_y = (SIZE - text_height) // 2
+        draw.text((emoji_x, emoji_y), emoji_char, font=emoji_font, embedded_color=True)
+    except Exception as e:
+        print(f"[warn] Emoji font failed: {e}", file=sys.stderr)
+        draw.text((SIZE//2, SIZE//2), emoji_char, font=text_font,
+                 fill=ESSENCE_TEXT_COLOR, anchor='mm')
+
+    date_bbox = draw.textbbox((0, 0), formatted_date, font=text_font)
+    date_w = date_bbox[2] - date_bbox[0]
+    date_x = (SIZE - date_w) // 2
+    date_y = ESSENCE_DATE_TOP_PADDING
+    draw.text((date_x, date_y), formatted_date, font=text_font, fill=ESSENCE_TEXT_COLOR)
+
+    img.save(output_path, 'PNG')
+    return True
+
+
 def main():
     parser = argparse.ArgumentParser(description='Generate emoji image for Instagram')
     parser.add_argument('--test', action='store_true',
                        help='Generate test image with sample data')
+    parser.add_argument('--input', type=str,
+                       help='Custom input JSON path')
     parser.add_argument('--output', type=str,
                        help='Custom output path')
     args = parser.parse_args()
@@ -453,15 +699,19 @@ def main():
         data = get_test_data()
     else:
         print("[info] Loading emoji data...")
-        data = load_emoji_data()
+        data = load_emoji_data(args.input or INPUT_FILE)
 
     emojis = data.get('emojis', [])
     emoji_chars = [e.get('char', '?') for e in emojis]
     date_str = data.get('date', date.today().isoformat())
+    post_type = data.get('post_type', 'normal')
+    essence = data.get('essence', {}) if isinstance(data.get('essence'), dict) else {}
+    essence_emoji = essence.get('emoji') or (emoji_chars[0] if emoji_chars else '?')
 
     print(f"[info] Emojis: {' '.join(emoji_chars)}")
     print(f"[info] Date: {date_str}")
     print(f"[info] Platform: {sys.platform}")
+    print(f"[info] Post type: {post_type}")
 
     # Prepare output path
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -487,28 +737,40 @@ def main():
     # Method 1: Swift (macOS)
     if sys.platform == 'darwin':
         print("[info] Trying Swift/AppKit rendering...")
-        success = generate_with_swift(emoji_chars, date_str, output_path)
+        if post_type == 'essence':
+            success = generate_essence_with_swift(essence_emoji, date_str, output_path)
+        else:
+            success = generate_with_swift(emoji_chars, date_str, output_path)
         if success:
             print("[success] Generated with Swift/AppKit")
 
     # Method 2: Playwright (Linux - best emoji support)
     if not success:
         print("[info] Trying Playwright rendering...")
-        success = generate_with_playwright(emoji_chars, date_str, output_path)
+        if post_type == 'essence':
+            success = generate_essence_with_playwright(essence_emoji, date_str, output_path)
+        else:
+            success = generate_with_playwright(emoji_chars, date_str, output_path)
         if success:
             print("[success] Generated with Playwright")
 
     # Method 3: Pango/Cairo with ImageMagick (Linux)
     if not success:
         print("[info] Trying Pango/Cairo rendering...")
-        success = generate_with_pango_cairo(emoji_chars, date_str, output_path)
+        if post_type == 'essence':
+            success = generate_essence_with_pango_cairo(essence_emoji, date_str, output_path)
+        else:
+            success = generate_with_pango_cairo(emoji_chars, date_str, output_path)
         if success:
             print("[success] Generated with Pango/Cairo")
 
     # Method 4: Pillow (fallback - limited emoji support)
     if not success:
         print("[info] Trying Pillow rendering (fallback)...")
-        success = generate_with_pillow(emoji_chars, date_str, output_path)
+        if post_type == 'essence':
+            success = generate_essence_with_pillow(essence_emoji, date_str, output_path)
+        else:
+            success = generate_with_pillow(emoji_chars, date_str, output_path)
         if success:
             print("[warn] Generated with Pillow - emojis may not render correctly")
 

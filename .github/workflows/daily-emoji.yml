@@ -44,6 +44,11 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python scripts/update_emojis_ai.py
 
+      - name: Prepare daily post type (essence cadence)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/prepare_daily_post.py
+
       - name: Generate Instagram image
         run: python scripts/generate_emoji_image.py
 

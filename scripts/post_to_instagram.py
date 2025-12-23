@@ -134,8 +134,31 @@ def verify_image_accessible(image_url, max_attempts=10):
     print(f"[error] Image not accessible after {max_attempts} attempts", file=sys.stderr)
     return False
 
+def generate_essence_caption(data):
+    """Generate Instagram caption for essence posts."""
+    essence = data.get('essence', {}) if isinstance(data.get('essence'), dict) else {}
+    emotion_label = (essence.get('emotion_label') or "neutral").strip()
+    emoji = (essence.get('emoji') or "🌍").strip()
+    rationale = (essence.get('rationale') or "a mix of signals").strip()
+
+    caption_parts = [
+        f"Today I am {emotion_label} because {rationale}.",
+        "",
+        f"{emoji}",
+        "",
+        "#TodayInEmojis #EssenceOfTheDay #DailyMood",
+        "",
+        "todayinemojis.com",
+    ]
+
+    return '\n'.join(caption_parts)
+
+
 def generate_caption(data):
     """Generate Instagram caption from emoji data."""
+    if data.get('post_type') == 'essence':
+        return generate_essence_caption(data)
+
     emojis = data.get('emojis', [])
 
     # Get emoji characters and labels
@@ -280,6 +303,7 @@ def main():
     data = load_emoji_data()
     timestamp = data.get('timestamp', data.get('date', date.today().isoformat()))
     print(f"[info] Posting emojis for {timestamp}")
+    print(f"[info] Post type: {data.get('post_type', 'normal')}")
 
     # Check if already posted this timestamp
     if was_already_posted(timestamp):

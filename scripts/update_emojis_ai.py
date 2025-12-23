@@ -12,7 +12,7 @@ Secret:
 - OPENAI_API_KEY
 """
 
-import os, sys, json, random, datetime, time, http.client
+import os, sys, json, random, datetime, time, http.client, re, html
 from typing import List, Dict, Any
 from urllib.request import urlopen, Request
 
@@ -52,6 +52,17 @@ def fetch_feed_bytes(url: str) -> bytes:
     with urlopen(req, timeout=TIMEOUT) as resp:
         return resp.read()
 
+def clean_summary(text: str) -> str:
+    """Strip HTML and compact whitespace for short summaries."""
+    if not text:
+        return ""
+    text = html.unescape(text)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    if len(text) > 240:
+        text = text[:237].rstrip() + "..."
+    return text
+
 def collect_headlines() -> List[Dict[str, str]]:
     entries: List[Dict[str, str]] = []
     for url in RSS_SOURCES:
@@ -62,9 +73,16 @@ def collect_headlines() -> List[Dict[str, str]]:
             for e in feed.get("entries", []):
                 title = (e.get("title") or "").strip()
                 link = (e.get("link") or "").strip()
+                summary_raw = (
+                    e.get("summary")
+                    or (e.get("summary_detail") or {}).get("value")
+                    or e.get("description")
+                    or ""
+                )
+                summary = clean_summary(summary_raw)
                 if not title or not link:
                     continue
-                entries.append({"title": title, "url": link})
+                entries.append({"title": title, "url": link, "summary": summary})
                 count += 1
                 if count >= PER_SOURCE_LIMIT:
                     break
@@ -91,11 +109,11 @@ def safe_defaults() -> Dict[str, Any]:
     return {
         "date": datetime.date.today().isoformat(),
         "emojis": [
-            {"char": "🌍", "label": "world", "url": "", "title": ""},
-            {"char": "💡", "label": "insight", "url": "", "title": ""},
-            {"char": "🤝", "label": "together", "url": "", "title": ""},
-            {"char": "🌱", "label": "growth", "url": "", "title": ""},
-            {"char": "😐", "label": "neutral", "url": "", "title": ""},
+            {"char": "🌍", "label": "world", "url": "", "title": "", "summary": ""},
+            {"char": "💡", "label": "insight", "url": "", "title": "", "summary": ""},
+            {"char": "🤝", "label": "together", "url": "", "title": "", "summary": ""},
+            {"char": "🌱", "label": "growth", "url": "", "title": "", "summary": ""},
+            {"char": "😐", "label": "neutral", "url": "", "title": "", "summary": ""},
         ],
         "source": "fallback",
     }
@@ -158,8 +176,9 @@ def validate_response(raw: str, allowed_urls: List[str], headlines: List[Dict[st
         print(f"[debug] Got {len(data)} items instead of {PICK_COUNT}", file=sys.stderr)
         raise ValueError(f"Expected {PICK_COUNT} items, got {len(data)}")
 
-    # Create URL to title mapping
+    # Create URL to title/summary mapping
     url_to_title = {h["url"]: h["title"] for h in headlines}
+    url_to_summary = {h["url"]: h.get("summary", "") for h in headlines}
 
     seen_urls = set()
     results: List[Dict[str, str]] = []
@@ -186,7 +205,8 @@ def validate_response(raw: str, allowed_urls: List[str], headlines: List[Dict[st
 
         # Get the original headline title from the URL
         title = url_to_title.get(url, label)
-        results.append({"char": emoji, "label": label, "url": url, "title": title})
+        summary = url_to_summary.get(url, "")
+        results.append({"char": emoji, "label": label, "url": url, "title": title, "summary": summary})
 
     print(f"[debug] Validation successful: {len(results)} items", file=sys.stderr)
     return results

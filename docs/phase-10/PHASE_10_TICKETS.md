@@ -1,49 +1,89 @@
-# Phase 3 Tickets (copy into GitHub Issues)
+# Phase 10 — Execution Tickets
 
-## P10-A1 — Align date padding in image template
-- Shift date text right; align with first emoji column
-- Verify on multiple sample outputs
-- Update tests/examples if present
+This file tracks execution only.
+All intent, rationale, and design decisions live in:
+- PHASE_10_HUMANIZATION_REELS_SUBSCRIPTIONS.md
+- CODEX_CONTEXT_PHASE_10.md
 
-## P10-B1 — Reel layout spec
-- Define positions for emojis, title/date (if any), and spotlight overlay
-- Define timing per emoji and total duration (5–10s)
+---
 
-## P10-B2 — Frame generator for reels
-- Generate frames (Pillow or equivalent)
-- Maintain same visual identity as static images
+## Phase 10A — Humanization (ACTIVE)
 
-## P10-B3 — Spotlight animation
-- Implement highlight per emoji in sequence
-- Subtle scale/pulse + vignette/spotlight overlay
+### P10A-1 — Define Essence of the Day rules
+- Define how the Essence emoji is selected
+- Ensure deterministic or explainable logic
+- Handle low-news or low-signal days
 
-## P10-B4 — TTS narration
-- Build script for 5 emojis
-- Generate audio (TTS) with a consistent voice
-- Handle failures (fallback to silent reel)
+---
 
-## P10-B5 — Video composition
-- Assemble frames into mp4
-- Merge audio + video via ffmpeg
-- Ensure vertical format 1080x1920 and codec compatibility
+### P10A-2 — Generate Essence of the Day post
+- Single, large emoji
+- Minimal layout
+- No headline or news text
+- Optional omission of date
 
-## P10-B6 — Auto-post Reels
-- Add scheduled job for 1–2 reels/day
-- Retry + logging + safe failure modes
+---
 
-## P10-C1 — Subscription storage + API
-- Subscribe endpoint + unsubscribe endpoint
-- Store subscriber status + timestamps
-- Capture consent basics
+### P10A-3 — Enforce N+1 posting cadence
+- Default cadence: 5 + 1 (configurable)
+- Essence post must always be the final post in the sequence
+- Must not break existing posting automation
 
-## P10-C2 — Email newsletter template
-- HTML email template optimized for mobile
-- Render daily content from pipeline outputs
+---
 
-## P10-C3 — Daily newsletter sender
-- Send to active subscribers daily
-- Track success/failure
+### P10A-4 — Ensure Instagram grid column alignment
+- Target consistent column placement (preferably first column)
+- Account for posting order and timing
+- Validate alignment across multiple days
 
-## P10-C4 — Channel abstraction
-- Implement EmailChannel
-- Stub WhatsAppChannel with interface + TODOs (no sending yet)
+---
+
+### P10A-5 — Live profile validation
+- Review Instagram grid visually
+- Confirm rhythm and monotony break
+- Confirm Essence posts act as visual anchors
+
+---
+
+## Phase 10A — Completed
+
+### P10A-DONE-1 — Date padding alignment
+- Date text aligned with emoji column
+- No clipping or cutoff
+- Verified in production
+
+✅ **DONE — no further work required**
+
+---
+
+## Phase 10B — Amplification (PAUSED)
+
+> ⚠️ These tickets are intentionally paused.
+> Do NOT implement unless Phase 10A is complete and explicit instruction is given.
+
+---
+
+### Reels (Paused)
+
+- P10B-R1 — Define Reel layout & animation spec
+- P10B-R2 — Generate frames for Reels
+- P10B-R3 — Implement spotlight animation
+- P10B-R4 — Generate TTS narration
+- P10B-R5 — Compose video (ffmpeg)
+- P10B-R6 — Auto-post Reels with retries & logging
+
+---
+
+### Subscriptions (Paused)
+
+- P10B-S1 — Subscription storage & API
+- P10B-S2 — HTML email newsletter template
+- P10B-S3 — Daily newsletter sender
+- P10B-S4 — Channel abstraction (Email → WhatsApp)
+
+---
+
+## Notes
+- Phase 10A must be completed and visually validated before Phase 10B begins
+- No ticket in Phase 10B should be picked up prematurely
+- Keep tickets small, reversible, and incremental
