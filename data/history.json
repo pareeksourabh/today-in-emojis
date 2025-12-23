@@ -9855,5 +9855,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2025-12-23",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "canada's businesses face trump's tariffs",
+        "url": "https://www.nytimes.com/2025/12/23/world/canada/canada-trump-tariffs-christmas.html",
+        "title": "Businesses in Canada Navigate Trump’s Tariffs During the Busy Holiday Season",
+        "summary": "Small businesses across Canada have lost out on sales because of the trade war, and many worry about their future."
+      },
+      {
+        "char": "💊",
+        "label": "novo nordisk shares rise after pill approval",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTnhMZ2tTMUlzSzMteG1RenRiR2ZwYWx1T05tclZQM3RVZnI1a2d4Sl9Gc2lHdlRwcy1FLTRhQzZrWVU4RDJEcHZ1LVk0VFIxMGRTc2RjUnE2WmVXMTRBRGFMVHFpS0p3VmZIZGNoeVFfNlRCODB4VUQwTi03c3F2cE8zbmVsUkVPWXF2OFhSUV9ULXhncEZ3NEkyMEJSRjZKekppZF9YS3JhRzdIelk5ZG5XdEg1Z0RfOUx1YWZuNmZhYWs5aWtqdHloVzlIXzNjV0F1R0hqUmdudw?oc=5",
+        "title": "Novo Nordisk shares jump 7.5% after US approves weight-loss pill - Reuters",
+        "summary": "Novo Nordisk shares jump 7.5% after US approves weight-loss pill Reuters"
+      },
+      {
+        "char": "🇩🇪",
+        "label": "sweden and germany cut aid budgets",
+        "url": "https://www.theguardian.com/global-development/2025/dec/21/sweden-and-germany-slash-aid-budgets-to-focus-on-ukraine-and-defence-spending",
+        "title": "Sweden and Germany slash aid budgets to focus on Ukraine and defence spending",
+        "summary": "Echoing the dismantling of USAID, other countries are changing funding priorities and health and hunger programmes in Africa will lose out The notion of humanitarian aid being used to combat poverty and hunger is being replaced in Europe..."
+      },
+      {
+        "char": "🚤",
+        "label": "laos ferry disaster rescues tourists",
+        "url": "https://www.bbc.com/news/articles/cx2gk56pd5eo?at_medium=RSS&at_campaign=rss",
+        "title": "Screams for help and panic as tourists rescued from fatal Laos ferry disaster",
+        "summary": "People scrambled to safety as the ferry sank on the Mekong River, with a local woman and two children feared dead."
+      },
+      {
+        "char": "⚖️",
+        "label": "ecuador sentences military for boys' case",
+        "url": "https://www.theguardian.com/world/2025/dec/22/ecuador-guayaquil-four-military-sentenced",
+        "title": "Ecuador court sentences 11 air force troops over disappearance of four boys",
+        "summary": "Long sentences in case of Afro-Ecuadorian ‘Guayaquil Four’ focuses attention on president’s crackdown on crime A court in Ecuador has sentenced 11 air force personnel to decades in prison over the forced disappearance” of four Afro-Ecuad..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
