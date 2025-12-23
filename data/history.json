@@ -9767,5 +9767,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-23",
+    "emojis": [
+      {
+        "char": "🎰",
+        "label": "wildfire-hit town wins lottery",
+        "url": "https://www.bbc.com/news/articles/cz7ndpq42y0o?at_medium=RSS&at_campaign=rss",
+        "title": "Wildfire-hit town wins €468m in Spain's Christmas lottery",
+        "summary": "The town of La Bañeza, which has a population of around 11,000, was badly affected by wildfires in the summer."
+      },
+      {
+        "char": "🎮",
+        "label": "call of duty co-creator dies",
+        "url": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss",
+        "title": "Call of Duty co-creator Vince Zampella dies in California car crash",
+        "summary": "The influential video game developer died after his car crashed and caught fire on a highway in Los Angeles."
+      },
+      {
+        "char": "🛢️",
+        "label": "us interceptions of oil tankers",
+        "url": "https://www.nytimes.com/2025/12/22/us/politics/trump-oil-tankers-venezuela.html",
+        "title": "What We Know About U.S. Interceptions of Oil Tankers in Venezuela",
+        "summary": "A Venezuela-bound vessel fled after rebuffing an attempt by the Coast Guard to seize it, the latest twist in the escalating U.S. pressure campaign against the Maduro government."
+      },
+      {
+        "char": "🏥",
+        "label": "baby back in gaza hospital",
+        "url": "https://www.bbc.com/news/articles/c2084n1pyvdo?at_medium=RSS&at_campaign=rss",
+        "title": "Baby followed by BBC back in Gaza hospital after treatment abroad",
+        "summary": "The BBC revisits one-year-old Siwar Ashour who was temporarily evacuated to Jordan for medical treatment during the Gaza war."
+      },
+      {
+        "char": "⚓",
+        "label": "trump unveils battleships plans",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYnJFREwzbnh0d1g1a1dCWUpzeWgyRGFwSWg4a0Z6d2p0OTVyc2swRHZHOEprcXVjWFprOWN0TnZlTnpiTWtfd19FVUR5am9xN2VwQjdVZm4wR1gwNndIOGJuMXRpTjdEZEZ6a2pURHRwSHpxaENvUk1abTFMeG9jZ3ZQQl9BYTItMG01S3FhaDBfUTI3bUVfVjNkbGc0Y3B1aVhmd09yYw?oc=5",
+        "title": "Trump unveils 'Trump-class' battleships, pressures defense contractors on overruns - Reuters",
+        "summary": "Trump unveils 'Trump-class' battleships, pressures defense contractors on overruns Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

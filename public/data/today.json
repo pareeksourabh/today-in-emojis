@@ -1,37 +1,49 @@
 {
   "date": "2025-12-23",
-  "timestamp": "2025-12-23T01:03:32Z",
+  "timestamp": "2025-12-23T04:41:44Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "ecuador soldiers jailed for disappearance",
-      "url": "https://www.bbc.com/news/articles/cx237k4rr04o?at_medium=RSS&at_campaign=rss",
-      "title": "Ecuadorean soldiers jailed for 34 years over boys' forced disappearance"
+      "char": "🎰",
+      "label": "wildfire-hit town wins lottery",
+      "url": "https://www.bbc.com/news/articles/cz7ndpq42y0o?at_medium=RSS&at_campaign=rss",
+      "title": "Wildfire-hit town wins €468m in Spain's Christmas lottery",
+      "summary": "The town of La Bañeza, which has a population of around 11,000, was badly affected by wildfires in the summer."
     },
     {
-      "char": "💻",
-      "label": "nvidia to ship chips to china soon",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd3lmcmtRaUl4N09HNVRwX2UyeE9nUlhXUnFrZnJ6NTFYLUhyN3Q1OUJJM2E4a2M1b05VdGJlZDl4ZU51NzdHQ1FfTVhHMXpmZkI5ZUx1bnZ4Z1dxR1V2M3oyS2xsRlNGVHdCYm1MekRfU2FKaHVLTGVnTDAzQjQzT3BWSERfWHgtTDZsWE9ncVdybEZqTm0tWFJNeklhTGE1Y0xUZmdrVjBhWDdEekpSLUFIZ3JYbDVhRWVN?oc=5",
-      "title": "Exclusive: Nvidia aims to begin H200 chip shipments to China by mid-February, sources say - Reuters"
+      "char": "🎮",
+      "label": "call of duty co-creator dies",
+      "url": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss",
+      "title": "Call of Duty co-creator Vince Zampella dies in California car crash",
+      "summary": "The influential video game developer died after his car crashed and caught fire on a highway in Los Angeles."
     },
     {
-      "char": "🔫",
-      "label": "gunmen kill nine in johannesburg",
-      "url": "https://www.theguardian.com/world/2025/dec/21/gunmen-johannesburg-township-in-south-africas-second-mass-shooting-within-weeks",
-      "title": "Gunmen kill nine in Johannesburg township in South Africa’s second mass shooting this month"
+      "char": "🛢️",
+      "label": "us interceptions of oil tankers",
+      "url": "https://www.nytimes.com/2025/12/22/us/politics/trump-oil-tankers-venezuela.html",
+      "title": "What We Know About U.S. Interceptions of Oil Tankers in Venezuela",
+      "summary": "A Venezuela-bound vessel fled after rebuffing an attempt by the Coast Guard to seize it, the latest twist in the escalating U.S. pressure campaign against the Maduro government."
     },
     {
-      "char": "🏛️",
-      "label": "man jailed for 1335 years in el salvador",
-      "url": "https://www.theguardian.com/world/2025/dec/22/man-jailed-1335-years-el-salvador-sentences-ms-13-gang-members",
-      "title": "Man jailed for 1,335 years as El Salvador sentences almost 250 MS-13 gang members"
+      "char": "🏥",
+      "label": "baby back in gaza hospital",
+      "url": "https://www.bbc.com/news/articles/c2084n1pyvdo?at_medium=RSS&at_campaign=rss",
+      "title": "Baby followed by BBC back in Gaza hospital after treatment abroad",
+      "summary": "The BBC revisits one-year-old Siwar Ashour who was temporarily evacuated to Jordan for medical treatment during the Gaza war."
     },
     {
-      "char": "🌍",
-      "label": "sweden and germany cut aid budgets",
-      "url": "https://www.theguardian.com/global-development/2025/dec/21/sweden-and-germany-slash-aid-budgets-to-focus-on-ukraine-and-defence-spending",
-      "title": "Sweden and Germany slash aid budgets to focus on Ukraine and defence spending"
+      "char": "⚓",
+      "label": "trump unveils battleships plans",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYnJFREwzbnh0d1g1a1dCWUpzeWgyRGFwSWg4a0Z6d2p0OTVyc2swRHZHOEprcXVjWFprOWN0TnZlTnpiTWtfd19FVUR5am9xN2VwQjdVZm4wR1gwNndIOGJuMXRpTjdEZEZ6a2pURHRwSHpxaENvUk1abTFMeG9jZ3ZQQl9BYTItMG01S3FhaDBfUTI3bUVfVjNkbGc0Y3B1aVhmd09yYw?oc=5",
+      "title": "Trump unveils 'Trump-class' battleships, pressures defense contractors on overruns - Reuters",
+      "summary": "Trump unveils 'Trump-class' battleships, pressures defense contractors on overruns Reuters"
     }
   ],
-  "source": "ai-openai"
+  "source": "ai-openai",
+  "cadence": {
+    "n": 6,
+    "sequence_index": 5,
+    "grid_column": 2,
+    "posted_count": 100
+  },
+  "post_type": "normal"
 }
