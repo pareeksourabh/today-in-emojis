@@ -10031,5 +10031,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-24",
+    "emojis": [
+      {
+        "char": "💥",
+        "label": "nursing home explosion in pa",
+        "url": "https://www.bbc.com/news/articles/ce3wry1529wo?at_medium=RSS&at_campaign=rss",
+        "title": "At least two dead in Pennsylvania nursing home explosion",
+        "summary": "Five people are still unaccounted for but crews have rescued multiple people from the partially collapsed building, officials say."
+      },
+      {
+        "char": "💰",
+        "label": "gold and silver price surge",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2pMTGt4dmhiZF9pWEhJblRWc3ZxYi1fcVowNUxfdDktWFR5OURLdVd2WnNWQjV1UHpaZW95bXhfYTlLbDZMYlFyWlF5LVRoUHJGQXNIQnBNNERiZTZXUGxiZjAtekpuSTdadlBBSmZ4d0dyWmhVQk40NHdjT0VYZGdOa0FlcnNGRXdxTXFsNXFXXy1XSWs4aVVBdEJud1dFa0IxSGtoNmlZdkI2dE5Icw?oc=5",
+        "title": "Gold tops $4,500, silver and platinum hit records in metal markets frenzy - Reuters",
+        "summary": "Gold tops $4,500, silver and platinum hit records in metal markets frenzy Reuters"
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada refugee policy changes",
+        "url": "https://www.theguardian.com/world/2025/dec/23/canada-bill-refugees",
+        "title": "Canada bill targeting refugees feared to signal new era of US-style border policy",
+        "summary": "Bill C-12 includes many changes around border security along with new ineligibility rules for refugee claimants Canada’s Liberal government is pushing through sweeping new legislation targeting refugees that observers fear will usher in..."
+      },
+      {
+        "char": "⚖️",
+        "label": "bolsonaro allowed surgery leave",
+        "url": "https://www.bbc.com/news/articles/c8dy3mvye62o?at_medium=RSS&at_campaign=rss",
+        "title": "Brazil's Supreme Court allows Bolsonaro to leave prison for surgery",
+        "summary": "Former president is granted permission to leave jail for a hernia operation on Christmas Day."
+      },
+      {
+        "char": "🚨",
+        "label": "australia deports nazi symbol display",
+        "url": "https://www.bbc.com/news/articles/cgke51rzpvro?at_medium=RSS&at_campaign=rss",
+        "title": "Australia to deport British man charged with displaying Nazi symbols",
+        "summary": "The immigration minister said the man is an unwelcome \"guest\" in Australia."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
