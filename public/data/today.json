@@ -45,5 +45,26 @@
     "grid_column": 2,
     "posted_count": 100
   },
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Mixed Feelings",
+    "emoji": "😔",
+    "rationale": "Today brings a mix of relief with the release of kidnapped schoolchildren, overshadowed by global tensions such as nuclear threats and political unrest. The emotional landscape reflects both hope and concern.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
