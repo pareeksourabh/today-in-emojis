@@ -132,6 +132,17 @@ def send_to_cloud(data, image_path, dry_run=False):
     if dry_run:
         env["CLOUD_DRY_RUN"] = "true"
 
+    # Ensure critical environment variables are set
+    required_vars = [
+        "GOOGLE_CLOUD_PROJECT",
+        "GOOGLE_APPLICATION_CREDENTIALS",
+        "CLOUD_STORAGE_BUCKET",
+    ]
+    missing_vars = [var for var in required_vars if not env.get(var)]
+    if missing_vars and not dry_run:
+        print(f"[warn] Missing environment variables: {', '.join(missing_vars)}", file=sys.stderr)
+        print(f"[warn] Make sure to set them or source .env.local", file=sys.stderr)
+
     try:
         # Use tsx to run TypeScript directly (requires: npm install -g tsx)
         result = subprocess.run(
