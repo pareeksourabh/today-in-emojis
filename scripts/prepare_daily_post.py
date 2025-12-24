@@ -227,14 +227,23 @@ def main() -> int:
     # Get today's date from the data
     today_date = data.get("date", date.today().isoformat())
 
-    # Count posts from today only (for essence cadence)
-    posts_today = load_posted_count_today(POSTED_LOG, today_date)
-    sequence_index = posts_today + 1  # This is the Nth post of the day
-    should_post_essence = sequence_index == cadence_n
-
-    # Count total posts across all time (for grid column calculation)
-    total_posted_count = load_total_posted_count(POSTED_LOG)
-    grid_column = ((total_posted_count + 1 - 1) % 3) + 1
+    # Check for explicit POST_TYPE override (from Cloud Scheduler)
+    explicit_post_type = os.environ.get("POST_TYPE", "").lower()
+    if explicit_post_type in ["normal", "essence"]:
+        # Cloud Scheduler explicitly specified the post type - skip cadence calculation
+        should_post_essence = explicit_post_type == "essence"
+        sequence_index = 0  # Not calculated when type is explicit
+        grid_column = 0     # Not calculated when type is explicit
+        total_posted_count = 0  # Not needed when type is explicit
+        print(f"[info] POST_TYPE explicitly set to: {explicit_post_type}")
+    else:
+        # Auto mode: Calculate post type from cadence (legacy behavior)
+        posts_today = load_posted_count_today(POSTED_LOG, today_date)
+        sequence_index = posts_today + 1  # This is the Nth post of the day
+        should_post_essence = sequence_index == cadence_n
+        total_posted_count = load_total_posted_count(POSTED_LOG)
+        grid_column = ((total_posted_count + 1 - 1) % 3) + 1
+        print(f"[info] Auto mode: sequence_index={sequence_index}/{cadence_n}")
 
     data["cadence"] = {
         "n": cadence_n,
@@ -248,7 +257,10 @@ def main() -> int:
         if "essence" in data:
             del data["essence"]
         save_today(INPUT_FILE, data)
-        print(f"[info] Cadence: N={cadence_n}, sequence_index={sequence_index} -> normal post")
+        if explicit_post_type:
+            print(f"[info] POST_TYPE={explicit_post_type} -> normal post")
+        else:
+            print(f"[info] Cadence: N={cadence_n}, sequence_index={sequence_index} -> normal post")
         return 0
 
     emojis = data.get("emojis", [])
@@ -280,8 +292,11 @@ def main() -> int:
 
     save_today(INPUT_FILE, data)
 
-    print(f"[info] Cadence: N={cadence_n}, sequence_index={sequence_index} -> essence post")
-    print(f"[info] Grid column: {grid_column}")
+    if explicit_post_type:
+        print(f"[info] POST_TYPE={explicit_post_type} -> essence post")
+    else:
+        print(f"[info] Cadence: N={cadence_n}, sequence_index={sequence_index} -> essence post")
+        print(f"[info] Grid column: {grid_column}")
     print(f"[info] Essence label: {essence['emotion_label']}")
     print(f"[info] Essence emoji: {essence['emoji']}")
     print(f"[info] Essence rationale: {essence['rationale']}")
