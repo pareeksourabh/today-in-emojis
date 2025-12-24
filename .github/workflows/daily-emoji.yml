@@ -44,6 +44,9 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python scripts/update_emojis_ai.py
 
+      - name: Pull latest Instagram post log
+        run: git pull origin main --rebase
+
       - name: Prepare daily post type (essence cadence)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}

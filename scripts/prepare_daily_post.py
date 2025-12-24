@@ -35,7 +35,26 @@ def save_today(path: str, data: dict) -> None:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def load_posted_count(path: str) -> int:
+def load_posted_count_today(path: str, today_date: str) -> int:
+    """Count how many posts have already been posted today (same date)."""
+    if not os.path.exists(path):
+        return 0
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            posted = json.load(f)
+            timestamps = posted.get("timestamps", [])
+            if not isinstance(timestamps, list):
+                return 0
+            # Count timestamps that match today's date
+            count = sum(1 for ts in timestamps if ts.startswith(today_date))
+            return count
+    except Exception as e:
+        print(f"[warn] Could not read posted log: {e}", file=sys.stderr)
+    return 0
+
+
+def load_total_posted_count(path: str) -> int:
+    """Count total posts across all time (for grid column calculation)."""
     if not os.path.exists(path):
         return 0
     try:
@@ -205,16 +224,23 @@ def main() -> int:
     temperature = float(os.environ.get("ESSENCE_TEMPERATURE", DEFAULT_TEMPERATURE))
     fallback_emoji = os.environ.get("ESSENCE_FALLBACK_EMOJI", DEFAULT_FALLBACK_EMOJI)
 
-    posted_count = load_posted_count(POSTED_LOG)
-    sequence_index = (posted_count % cadence_n) + 1
-    grid_column = ((posted_count + 1 - 1) % 3) + 1
+    # Get today's date from the data
+    today_date = data.get("date", date.today().isoformat())
+
+    # Count posts from today only (for essence cadence)
+    posts_today = load_posted_count_today(POSTED_LOG, today_date)
+    sequence_index = posts_today + 1  # This is the Nth post of the day
     should_post_essence = sequence_index == cadence_n
+
+    # Count total posts across all time (for grid column calculation)
+    total_posted_count = load_total_posted_count(POSTED_LOG)
+    grid_column = ((total_posted_count + 1 - 1) % 3) + 1
 
     data["cadence"] = {
         "n": cadence_n,
         "sequence_index": sequence_index,
         "grid_column": grid_column,
-        "posted_count": posted_count,
+        "posted_count": total_posted_count,
     }
 
     if not should_post_essence:
