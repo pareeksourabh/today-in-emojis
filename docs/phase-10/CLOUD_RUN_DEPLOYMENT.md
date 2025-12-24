@@ -81,18 +81,27 @@ docker push us-central1-docker.pkg.dev/today-in-emojis/today-in-emojis/cloud-pro
 ### Option B: Build in Cloud (Recommended - no local Docker needed)
 
 ```bash
+# Ensure you're in the repository root
+cd /path/to/today-in-emojis
+
+# Copy Dockerfile to default name (gcloud builds submit doesn't support -f flag)
+cp Dockerfile.cloud-producer Dockerfile
+
 # Build using Cloud Build
 gcloud builds submit \
     --tag us-central1-docker.pkg.dev/today-in-emojis/today-in-emojis/cloud-producer:latest \
-    --timeout=20m \
-    -f Dockerfile.cloud-producer \
-    .
+    --timeout=20m
+
+# Remove temporary Dockerfile
+rm Dockerfile
 ```
 
 **Note:** Cloud Build is recommended because:
 - No need for Docker Desktop locally
 - Builds in the cloud (faster, consistent)
 - Automatically pushed to Artifact Registry
+
+**Important:** The copy/remove steps are necessary because `gcloud builds submit` doesn't support the `-f` flag to specify a custom Dockerfile name.
 
 ---
 
@@ -284,16 +293,19 @@ When you make code changes:
 
 ```bash
 # 1. Rebuild image
+cp Dockerfile.cloud-producer Dockerfile
 gcloud builds submit \
     --tag us-central1-docker.pkg.dev/today-in-emojis/today-in-emojis/cloud-producer:latest \
-    -f Dockerfile.cloud-producer \
-    .
+    --timeout=20m
+rm Dockerfile
 
 # 2. Update the job to use new image
 gcloud run jobs update cloud-producer \
     --region=us-central1 \
     --image=us-central1-docker.pkg.dev/today-in-emojis/today-in-emojis/cloud-producer:latest
 ```
+
+**Note:** The Cloud Run job will automatically pull the new image on its next execution. You don't need to restart anything - just rebuild and update!
 
 ---
 
