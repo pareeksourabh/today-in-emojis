@@ -87,3 +87,30 @@ All intent, rationale, and design decisions live in:
 - Phase 10A must be completed and visually validated before Phase 10B begins
 - No ticket in Phase 10B should be picked up prematurely
 - Keep tickets small, reversible, and incremental
+
+---
+
+## Phase 10C — Cloud Content Store + Hybrid Migration (ACTIVE)
+
+### P10C-1 — Cloud SoT: editions + assets (parallel run)
+- Create cloud edition schema (SoT)
+- Create cloud storage for images with 30-day lifecycle
+- Cloud producer job generates editions + renders assets in parallel to current system
+
+### P10C-2 — Cutover Instagram poster to cloud assets
+- Switch posting source to cloud assets/edition
+- Keep website unchanged
+
+### P10C-3 — Daily export job for static website
+- GitHub Action runs daily
+- Fetches last 30 days from cloud
+- Commits `last-30-days.json` (JSON only, no images)
+
+### P10C-4 — Update website to show last 30 days from export
+- Site reads committed JSON export
+- Handles missing/expired assets gracefully
+
+### P10C-5 — Remove image commits permanently
+- Ensure no workflow commits images
+- Repo remains metadata-only
+

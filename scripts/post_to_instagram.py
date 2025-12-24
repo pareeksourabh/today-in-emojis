@@ -173,10 +173,14 @@ def generate_caption(data):
         "",
     ]
 
-    # Add labels
-    for i, label in enumerate(labels, 1):
+    # Add labels prefixed by emoji
+    for emoji, label in zip([e.get('char', '') for e in emojis], labels):
         if label:
-            caption_parts.append(f"{i}. {label}")
+            prefix = emoji if emoji else "•"
+            label_text = label.strip()
+            if label_text:
+                label_text = label_text[0].upper() + label_text[1:]
+            caption_parts.append(f"{prefix} {label_text}")
 
     caption_parts.extend([
         "",
