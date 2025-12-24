@@ -10383,5 +10383,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2025-12-24",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "nigerian schoolchildren freed",
+        "url": "https://www.theguardian.com/world/2025/dec/21/more-kidnapped-schoolchildren-freed-in-nigeria",
+        "title": "Another 130 kidnapped schoolchildren released in Nigeria",
+        "summary": "Presidential spokesperson says all those abducted from a Catholic school in Niger state last month are now free Nigerian authorities say they have secured the release of a further 130 schoolchildren kidnapped from a Catholic school in No..."
+      },
+      {
+        "char": "💣",
+        "label": "china's nuclear forces report",
+        "url": "https://www.nytimes.com/2025/12/24/world/asia/china-nuclear-forces-pentagon-report.html",
+        "title": "China Is Shifting Its Nuclear Forces to Swifter Footing, Pentagon Says",
+        "summary": "The country’s production of nuclear warheads has slowed, but its missiles may be poised to strike back fast in case of an attack, an annual assessment found."
+      },
+      {
+        "char": "✊",
+        "label": "greta thunberg arrested",
+        "url": "https://www.nytimes.com/2025/12/23/world/europe/greta-thunberg-arrest-uk-palestine-action.html",
+        "title": "Greta Thunberg Arrested at U.K. Protest Supporting Palestine Action Prisoners",
+        "summary": "The Swedish activist Greta Thunberg was arrested after holding a sign that the police said showed support for the group, which Britain banned this year."
+      },
+      {
+        "char": "💼",
+        "label": "france budget failure",
+        "url": "https://www.nytimes.com/2025/12/23/world/europe/france-budget-special-law.html",
+        "title": "France Fails to Adopt a Budget by Year’s End. Again.",
+        "summary": "French lawmakers passed a special law on Tuesday to avoid a shutdown until a budget is adopted. Negotiations will resume in January."
+      },
+      {
+        "char": "✈️",
+        "label": "libya army chief dies",
+        "url": "https://www.bbc.com/news/articles/cyvgzyepdqno?at_medium=RSS&at_campaign=rss",
+        "title": "Libya's army chief killed in air crash in Turkey",
+        "summary": "Signal was earlier lost with a jet that took off from Ankara with Gen Mohammed Ali Ahmed al-Haddad and four others on board."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
