@@ -53,5 +53,9 @@ RUN mkdir -p public/data
 ENV NODE_ENV=production
 ENV PYTHONUNBUFFERED=1
 
-# Default command - can be overridden
-CMD ["python3", "scripts/cloud_produce.py"]
+# Default to auto mode (determines type from cadence)
+# Can be overridden by setting POST_TYPE=normal or POST_TYPE=essence
+ENV POST_TYPE=auto
+
+# Default command - reads POST_TYPE from environment
+CMD ["sh", "-c", "python3 scripts/cloud_produce.py --type=${POST_TYPE}"]

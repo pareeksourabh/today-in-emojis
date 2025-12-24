@@ -166,9 +166,9 @@ Before setting up the schedule, test the job manually:
 gcloud run jobs execute cloud-producer --region=us-central1
 
 # Watch logs
-gcloud run jobs executions logs tail \
-    --region=us-central1 \
-    --job=cloud-producer
+gcloud run jobs logs read cloud-producer \
+      --region=us-central1 \
+      --limit=100
 ```
 
 Check:
@@ -183,63 +183,80 @@ Check:
 
 Now set up the automated schedule - 6 triggers per day.
 
+**Simplified Design:** Each scheduler job explicitly specifies the post type via environment variable override. This is cleaner than calculating cadence from post counts.
+
 ### Normal Posts (5x/day)
 
 ```bash
-# Post 1: Midnight UTC
+# Post 1: Midnight UTC (Normal)
 gcloud scheduler jobs create http cloud-producer-00 \
     --location=us-central1 \
     --schedule="0 0 * * *" \
     --time-zone="UTC" \
     --uri="https://us-central1-run.googleapis.com/apis/run.googleapis.com/v1/namespaces/today-in-emojis/jobs/cloud-producer:run" \
     --http-method=POST \
-    --oauth-service-account-email=today-in-emojis-producer@today-in-emojis.iam.gserviceaccount.com
+    --oauth-service-account-email=today-in-emojis-producer@today-in-emojis.iam.gserviceaccount.com \
+    --message-body='{"overrides":{"containerOverrides":[{"env":[{"name":"POST_TYPE","value":"normal"}]}]}}'
 
-# Post 2: 4am UTC
+# Post 2: 4am UTC (Normal)
 gcloud scheduler jobs create http cloud-producer-04 \
     --location=us-central1 \
     --schedule="0 4 * * *" \
     --time-zone="UTC" \
     --uri="https://us-central1-run.googleapis.com/apis/run.googleapis.com/v1/namespaces/today-in-emojis/jobs/cloud-producer:run" \
     --http-method=POST \
-    --oauth-service-account-email=today-in-emojis-producer@today-in-emojis.iam.gserviceaccount.com
+    --oauth-service-account-email=today-in-emojis-producer@today-in-emojis.iam.gserviceaccount.com \
+    --message-body='{"overrides":{"containerOverrides":[{"env":[{"name":"POST_TYPE","value":"normal"}]}]}}'
 
-# Post 3: 8am UTC
+# Post 3: 8am UTC (Normal)
 gcloud scheduler jobs create http cloud-producer-08 \
     --location=us-central1 \
     --schedule="0 8 * * *" \
     --time-zone="UTC" \
     --uri="https://us-central1-run.googleapis.com/apis/run.googleapis.com/v1/namespaces/today-in-emojis/jobs/cloud-producer:run" \
     --http-method=POST \
-    --oauth-service-account-email=today-in-emojis-producer@today-in-emojis.iam.gserviceaccount.com
+    --oauth-service-account-email=today-in-emojis-producer@today-in-emojis.iam.gserviceaccount.com \
+    --message-body='{"overrides":{"containerOverrides":[{"env":[{"name":"POST_TYPE","value":"normal"}]}]}}'
 
-# Post 4: Noon UTC
+# Post 4: Noon UTC (Normal)
 gcloud scheduler jobs create http cloud-producer-12 \
     --location=us-central1 \
     --schedule="0 12 * * *" \
     --time-zone="UTC" \
     --uri="https://us-central1-run.googleapis.com/apis/run.googleapis.com/v1/namespaces/today-in-emojis/jobs/cloud-producer:run" \
     --http-method=POST \
-    --oauth-service-account-email=today-in-emojis-producer@today-in-emojis.iam.gserviceaccount.com
+    --oauth-service-account-email=today-in-emojis-producer@today-in-emojis.iam.gserviceaccount.com \
+    --message-body='{"overrides":{"containerOverrides":[{"env":[{"name":"POST_TYPE","value":"normal"}]}]}}'
 
-# Post 5: 4pm UTC
+# Post 5: 4pm UTC (Normal)
 gcloud scheduler jobs create http cloud-producer-16 \
     --location=us-central1 \
     --schedule="0 16 * * *" \
     --time-zone="UTC" \
     --uri="https://us-central1-run.googleapis.com/apis/run.googleapis.com/v1/namespaces/today-in-emojis/jobs/cloud-producer:run" \
     --http-method=POST \
-    --oauth-service-account-email=today-in-emojis-producer@today-in-emojis.iam.gserviceaccount.com
+    --oauth-service-account-email=today-in-emojis-producer@today-in-emojis.iam.gserviceaccount.com \
+    --message-body='{"overrides":{"containerOverrides":[{"env":[{"name":"POST_TYPE","value":"normal"}]}]}}'
 
-# Post 6: 8pm UTC (Essence post - 6th of the day)
+### Essence Post (1x/day)
+
+```bash
+# Post 6: 8pm UTC (ESSENCE - last post of the day)
 gcloud scheduler jobs create http cloud-producer-20 \
     --location=us-central1 \
     --schedule="0 20 * * *" \
     --time-zone="UTC" \
     --uri="https://us-central1-run.googleapis.com/apis/run.googleapis.com/v1/namespaces/today-in-emojis/jobs/cloud-producer:run" \
     --http-method=POST \
-    --oauth-service-account-email=today-in-emojis-producer@today-in-emojis.iam.gserviceaccount.com
+    --oauth-service-account-email=today-in-emojis-producer@today-in-emojis.iam.gserviceaccount.com \
+    --message-body='{"overrides":{"containerOverrides":[{"env":[{"name":"POST_TYPE","value":"essence"}]}]}}'
 ```
+
+**How it works:**
+- Each scheduler passes `POST_TYPE` environment variable to the Cloud Run job
+- First 5 jobs: `POST_TYPE=normal`
+- Last job: `POST_TYPE=essence`
+- No need to count previous posts or calculate cadence
 
 ---
 
