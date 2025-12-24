@@ -28,7 +28,8 @@ RUN npm install -g tsx
 
 # Copy Python requirements (if we had a requirements.txt)
 # For now, install dependencies directly
-RUN pip3 install --no-cache-dir \
+# Use --break-system-packages for Python 3.11+ in containerized environment
+RUN pip3 install --no-cache-dir --break-system-packages \
     feedparser \
     pillow \
     requests \
