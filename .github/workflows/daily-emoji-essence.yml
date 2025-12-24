@@ -1,13 +1,9 @@
-name: Daily Emoji Update (AI)
+name: Daily Emoji Essence (AI)
 
 on:
   schedule:
-    # Run 5 times daily (normal posts only)
-    - cron: "0 0 * * *"    # 00:00 UTC
-    - cron: "0 4 * * *"    # 04:00 UTC
-    - cron: "0 8 * * *"    # 08:00 UTC
-    - cron: "0 12 * * *"   # 12:00 UTC
-    - cron: "0 16 * * *"   # 16:00 UTC
+    # Run once daily (essence post)
+    - cron: "0 20 * * *"   # 20:00 UTC
   workflow_dispatch: {}
 
 permissions:
@@ -38,19 +34,10 @@ jobs:
           playwright install chromium
           playwright install-deps chromium
 
-      - name: Run AI emoji selection
+      - name: Prepare essence post
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python scripts/update_emojis_ai.py
-
-      - name: Pull latest Instagram post log
-        run: |
-          git fetch origin main
-          git checkout origin/main -- data/instagram_posted.json
-
-      - name: Prepare daily post type (essence cadence)
-        env:
-          POST_TYPE: normal
+          POST_TYPE: essence
         run: python scripts/prepare_daily_post.py
 
       - name: Generate Instagram image
@@ -60,8 +47,8 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/today.json data/history.json public/images/daily/*.png || true
-          git commit -m "chore(auto): AI-picked emojis $(date -u +'%Y-%m-%d')" || echo "No changes"
+          git add public/data/today.json public/images/daily/*.png || true
+          git commit -m "chore(auto): Essence post $(date -u +'%Y-%m-%d')" || echo "No changes"
           git push
 
       - name: Wait for GitHub Pages deployment
