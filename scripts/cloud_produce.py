@@ -75,10 +75,15 @@ def generate_image(data):
     image_filename = f"{today}-{timestamp}.png"
     image_path = f"public/images/daily/{image_filename}"
 
-    # Run the image generation
-    result = generate_emoji_image.main()
-    if result != 0:
-        raise RuntimeError("Image generation failed")
+    # Run the image generation (clear sys.argv to avoid argument conflicts)
+    saved_argv = sys.argv
+    try:
+        sys.argv = ['generate_emoji_image.py']
+        result = generate_emoji_image.main()
+        if result != 0:
+            raise RuntimeError("Image generation failed")
+    finally:
+        sys.argv = saved_argv
 
     # Find the most recently generated image
     import glob
