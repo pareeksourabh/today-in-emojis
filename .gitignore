@@ -32,6 +32,7 @@ dist/
 # Temporary files
 tmp/
 temp/
+/tmp/cloud_producer_input.json
 
 # Tailwind / PostCSS cache
 .tailwind/
@@ -42,3 +43,8 @@ coverage/
 
 # Exported archives or zips
 *.zip
+
+# GCP Service Account Keys
+*-key.json
+*-credentials.json
+service-account*.json
