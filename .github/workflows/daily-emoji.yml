@@ -45,7 +45,9 @@ jobs:
         run: python scripts/update_emojis_ai.py
 
       - name: Pull latest Instagram post log
-        run: git pull origin main --rebase
+        run: |
+          git fetch origin main
+          git checkout origin/main -- data/instagram_posted.json
 
       - name: Prepare daily post type (essence cadence)
         env:
