@@ -11,9 +11,8 @@ export interface CloudEdition {
   date: string;                    // ISO 8601 date: "2025-12-24"
   timestamp: string;               // ISO 8601 timestamp: "2025-12-24T23:00:00.000Z"
 
-  // Post type and cadence metadata
+  // Post type
   post_type: 'normal' | 'essence';
-  cadence: CadenceMetadata;
 
   // Content (normal posts only - undefined for essence)
   emojis?: EmojiItem[];
@@ -26,13 +25,6 @@ export interface CloudEdition {
 
   // Source metadata
   source_meta: SourceMetadata;
-}
-
-export interface CadenceMetadata {
-  n: number;                       // Total cadence cycle (e.g., 6 = "5+1")
-  sequence_index: number;          // Position in cycle (1-6 for n=6)
-  grid_column: number;             // Instagram grid column (1-3)
-  posted_count: number;            // Total posts before this one (for debugging)
 }
 
 export interface EmojiItem {

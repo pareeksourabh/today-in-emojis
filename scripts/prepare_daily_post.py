@@ -12,9 +12,7 @@ import http.client
 from datetime import date
 
 INPUT_FILE = "public/data/today.json"
-POSTED_LOG = "data/instagram_posted.json"
 
-DEFAULT_CADENCE_N = 6
 DEFAULT_PALETTE = ["😢", "😡", "😨", "😮", "🙂", "❤️", "😔", "😤", "😬", "🙏", "🌍", "⚖️"]
 DEFAULT_TEMPERATURE = 0.7
 DEFAULT_FALLBACK_EMOJI = "🌍"
@@ -33,39 +31,6 @@ def load_today(path: str) -> dict:
 def save_today(path: str, data: dict) -> None:
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-
-
-def load_posted_count_today(path: str, today_date: str) -> int:
-    """Count how many posts have already been posted today (same date)."""
-    if not os.path.exists(path):
-        return 0
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            posted = json.load(f)
-            timestamps = posted.get("timestamps", [])
-            if not isinstance(timestamps, list):
-                return 0
-            # Count timestamps that match today's date
-            count = sum(1 for ts in timestamps if ts.startswith(today_date))
-            return count
-    except Exception as e:
-        print(f"[warn] Could not read posted log: {e}", file=sys.stderr)
-    return 0
-
-
-def load_total_posted_count(path: str) -> int:
-    """Count total posts across all time (for grid column calculation)."""
-    if not os.path.exists(path):
-        return 0
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            posted = json.load(f)
-            timestamps = posted.get("timestamps", [])
-            if isinstance(timestamps, list):
-                return len(timestamps)
-    except Exception as e:
-        print(f"[warn] Could not read posted log: {e}", file=sys.stderr)
-    return 0
 
 
 def parse_palette(value):
@@ -214,53 +179,25 @@ def build_items_for_llm(emojis: list) -> list:
 
 def main() -> int:
     data = load_today(INPUT_FILE)
-    try:
-        cadence_n = int(os.environ.get("ESSENCE_CADENCE_N", DEFAULT_CADENCE_N))
-    except ValueError:
-        cadence_n = DEFAULT_CADENCE_N
-    if cadence_n <= 0:
-        cadence_n = DEFAULT_CADENCE_N
     palette = parse_palette(os.environ.get("ESSENCE_EMOJI_PALETTE"))
     temperature = float(os.environ.get("ESSENCE_TEMPERATURE", DEFAULT_TEMPERATURE))
     fallback_emoji = os.environ.get("ESSENCE_FALLBACK_EMOJI", DEFAULT_FALLBACK_EMOJI)
 
-    # Get today's date from the data
-    today_date = data.get("date", date.today().isoformat())
-
-    # Check for explicit POST_TYPE override (from Cloud Scheduler)
+    # POST_TYPE must be explicitly set (normal or essence)
     explicit_post_type = os.environ.get("POST_TYPE", "").lower()
-    if explicit_post_type in ["normal", "essence"]:
-        # Cloud Scheduler explicitly specified the post type - skip cadence calculation
-        should_post_essence = explicit_post_type == "essence"
-        sequence_index = 0  # Not calculated when type is explicit
-        grid_column = 0     # Not calculated when type is explicit
-        total_posted_count = 0  # Not needed when type is explicit
-        print(f"[info] POST_TYPE explicitly set to: {explicit_post_type}")
-    else:
-        # Auto mode: Calculate post type from cadence (legacy behavior)
-        posts_today = load_posted_count_today(POSTED_LOG, today_date)
-        sequence_index = posts_today + 1  # This is the Nth post of the day
-        should_post_essence = sequence_index == cadence_n
-        total_posted_count = load_total_posted_count(POSTED_LOG)
-        grid_column = ((total_posted_count + 1 - 1) % 3) + 1
-        print(f"[info] Auto mode: sequence_index={sequence_index}/{cadence_n}")
+    if explicit_post_type not in ["normal", "essence"]:
+        print(f"[error] POST_TYPE must be 'normal' or 'essence', got: '{explicit_post_type}'", file=sys.stderr)
+        sys.exit(1)
 
-    data["cadence"] = {
-        "n": cadence_n,
-        "sequence_index": sequence_index,
-        "grid_column": grid_column,
-        "posted_count": total_posted_count,
-    }
+    should_post_essence = explicit_post_type == "essence"
+    print(f"[info] POST_TYPE={explicit_post_type}")
 
     if not should_post_essence:
         data["post_type"] = "normal"
         if "essence" in data:
             del data["essence"]
         save_today(INPUT_FILE, data)
-        if explicit_post_type:
-            print(f"[info] POST_TYPE={explicit_post_type} -> normal post")
-        else:
-            print(f"[info] Cadence: N={cadence_n}, sequence_index={sequence_index} -> normal post")
+        print(f"[info] Created normal post")
         return 0
 
     emojis = data.get("emojis", [])
@@ -292,15 +229,10 @@ def main() -> int:
 
     save_today(INPUT_FILE, data)
 
-    if explicit_post_type:
-        print(f"[info] POST_TYPE={explicit_post_type} -> essence post")
-    else:
-        print(f"[info] Cadence: N={cadence_n}, sequence_index={sequence_index} -> essence post")
-        print(f"[info] Grid column: {grid_column}")
+    print(f"[info] Created essence post")
     print(f"[info] Essence label: {essence['emotion_label']}")
     print(f"[info] Essence emoji: {essence['emoji']}")
     print(f"[info] Essence rationale: {essence['rationale']}")
-    print(f"[info] Date: {data.get('date', date.today().isoformat())}")
 
     return 0
 

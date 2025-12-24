@@ -5,7 +5,7 @@
  * This runs independently of the GitHub workflow and stores editions in the cloud.
  */
 
-import { CloudEdition, CadenceMetadata } from './schema/edition';
+import { CloudEdition } from './schema/edition';
 import { uploadImage } from './storage';
 import { writeEdition, getEditionsByDate } from './database';
 import { getCloudConfig } from './config';
@@ -31,12 +31,6 @@ export interface ProducerInput {
     temperature: number;
     fallback: boolean;
   };
-  cadence: {
-    n: number;
-    sequence_index: number;
-    grid_column: number;
-    posted_count: number;
-  };
   image_buffer: Buffer;            // Generated image
   rss_sources: string[];
   model: string;
@@ -60,19 +54,23 @@ export async function produceEdition(input: ProducerInput): Promise<CloudEdition
   const config = getCloudConfig();
   const timestamp = new Date().toISOString();
 
+  // Calculate sequence index from existing editions for this date
+  const todayEditions = await getEditionsByDate(input.date);
+  const normalPostsToday = todayEditions.filter(e => e.post_type === 'normal').length;
+  const sequenceIndex = input.post_type === 'normal' ? normalPostsToday + 1 : 1;
+
   // Generate edition ID
-  const editionId = generateEditionId(input.date, input.post_type, input.cadence.sequence_index);
+  const editionId = generateEditionId(input.date, input.post_type, sequenceIndex);
 
   console.log(`[info] Producing edition: ${editionId}`);
   console.log(`[info] Post type: ${input.post_type}`);
-  console.log(`[info] Sequence: ${input.cadence.sequence_index}/${input.cadence.n}`);
 
   // Upload image to cloud storage
   const uploadResult = await uploadImage(
     input.image_buffer,
     input.date,
     input.post_type,
-    input.post_type === 'normal' ? input.cadence.sequence_index : undefined
+    input.post_type === 'normal' ? sequenceIndex : undefined
   );
 
   // Build edition object
@@ -81,7 +79,6 @@ export async function produceEdition(input: ProducerInput): Promise<CloudEdition
     date: input.date,
     timestamp,
     post_type: input.post_type,
-    cadence: input.cadence,
     emojis: input.post_type === 'normal' ? input.emojis : undefined,
     essence: input.post_type === 'essence' ? input.essence : undefined,
     assets: {
@@ -107,7 +104,7 @@ export async function produceEdition(input: ProducerInput): Promise<CloudEdition
 }
 
 /**
- * Get the total number of editions for today (for cadence calculation)
+ * Get the total number of editions for today
  */
 export async function getTodayEditionCount(date: string): Promise<number> {
   const config = getCloudConfig();

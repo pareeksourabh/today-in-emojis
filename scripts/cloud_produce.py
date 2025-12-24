@@ -115,7 +115,6 @@ def send_to_cloud(data, image_path, dry_run=False):
         "post_type": data.get("post_type", "normal"),
         "emojis": data.get("emojis"),
         "essence": data.get("essence"),
-        "cadence": data.get("cadence", {}),
         "image_buffer_base64": image_base64,
         "rss_sources": RSS_SOURCES,
         "model": "gpt-4o-mini",
