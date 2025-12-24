@@ -10471,5 +10471,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-24",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "canada's refugee policy changes",
+        "url": "https://www.theguardian.com/world/2025/dec/23/canada-bill-refugees",
+        "title": "Canada bill targeting refugees feared to signal new era of US-style border policy",
+        "summary": "Bill C-12 includes many changes around border security along with new ineligibility rules for refugee claimants Canada’s Liberal government is pushing through sweeping new legislation targeting refugees that observers fear will usher in..."
+      },
+      {
+        "char": "🕊️",
+        "label": "ukraine peace plan details",
+        "url": "https://www.nytimes.com/2025/12/24/world/europe/what-is-in-the-20-point-ukraine-peace-plan.html",
+        "title": "Here’s What Is in the 20-Point Peace Plan for Ukraine",
+        "summary": "The blueprint covers a broad range of issues, including territory, security guarantees and postwar reconstruction. But Russia has indicated little willingness to end the war."
+      },
+      {
+        "char": "🎥",
+        "label": "60 minutes el salvador prison episode",
+        "url": "https://www.theguardian.com/media/2025/dec/23/60-minutes-cecot-appears-online",
+        "title": "60 Minutes episode on brutal El Salvador prison, pulled from air by CBS, appears online",
+        "summary": "Segment that Bari Weiss had removed provides in-depth look at the Centro de Confinamiento del Terrorismo prison A 60 Minutes episode investigating a brutal prison in El Salvador , which CBS News’s editor-in-chief, Bari Weiss, pulled from..."
+      },
+      {
+        "char": "🎓",
+        "label": "freed schoolchildren in nigeria",
+        "url": "https://www.theguardian.com/world/2025/dec/21/more-kidnapped-schoolchildren-freed-in-nigeria",
+        "title": "Another 130 kidnapped schoolchildren released in Nigeria",
+        "summary": "Presidential spokesperson says all those abducted from a Catholic school in Niger state last month are now free Nigerian authorities say they have secured the release of a further 130 schoolchildren kidnapped from a Catholic school in No..."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "bolsonaro supporters boycott brand",
+        "url": "https://www.theguardian.com/world/2025/dec/23/brazil-jair-bolsonaro-eduardo-havaianas-television-ad-fernanda-torres",
+        "title": "Bolsonaro supporters ‘cancel’ Havaianas flip-flop brand over television ad",
+        "summary": "Son of jailed former Brazilian president says spokesperson for ‘national symbol’ sandals is ‘openly left wing’ Leaderless since its figurehead was jailed for attempting a coup , Brazil’s far right has found a new nemesis: the flip-flop b..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
