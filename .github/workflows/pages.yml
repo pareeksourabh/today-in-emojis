@@ -8,12 +8,11 @@ on:
       - 'app/**'
       - 'components/**'
       - 'styles/**'
-      - 'public/data/**'          # Website needs today.json
-      - 'data/history.json'        # May be used by website
+      - 'public/**'
+      - 'data/**'
       - 'next.config.js'
       - 'package.json'
       - 'package-lock.json'
-      # NOTE: Excludes public/images/** (not used by website, only for Instagram)
   workflow_dispatch:
 
 permissions:

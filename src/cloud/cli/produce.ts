@@ -15,7 +15,6 @@ interface CLIInput {
   post_type: 'normal' | 'essence';
   emojis?: any[];
   essence?: any;
-  cadence: any;
   image_buffer_base64: string;
   rss_sources: string[];
   model: string;
@@ -59,7 +58,6 @@ async function main() {
       post_type: inputData.post_type,
       emojis: inputData.emojis,
       essence: inputData.essence,
-      cadence: inputData.cadence,
       image_buffer: imageBuffer,
       rss_sources: inputData.rss_sources,
       model: inputData.model,

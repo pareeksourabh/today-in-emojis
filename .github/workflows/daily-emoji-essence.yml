@@ -56,10 +56,10 @@ jobs:
           git commit -m "chore(auto): Essence post $(date -u +'%Y-%m-%d')" || echo "No changes"
           git push
 
-      - name: Wait for GitHub Pages to serve image
+      - name: Wait for GitHub Pages deployment
         run: |
-          echo "Waiting 60 seconds for image to be available on GitHub Pages..."
-          sleep 60
+          echo "Waiting 180 seconds for GitHub Pages to deploy the image..."
+          sleep 180
 
       - name: Pull latest changes before Instagram post
         run: |
