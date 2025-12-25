@@ -10867,5 +10867,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-25",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "pope calls for dialogue on conflicts",
+        "url": "https://www.nytimes.com/2025/12/25/world/asia/leo-christmas-first-speech-pope.html",
+        "title": "Pope Leo Makes Christmas Call for Dialogue to Address World’s Conflicts",
+        "summary": "Leo XIV’s Christmas address was his first since being elected pontiff and was scrutinized for comparisons with those of his predecessor, Francis."
+      },
+      {
+        "char": "🇧🇩",
+        "label": "bangladesh pm candidate returns from exile",
+        "url": "https://www.bbc.com/news/articles/crk733k1k1eo?at_medium=RSS&at_campaign=rss",
+        "title": "Front-runner to be Bangladesh PM returns after 17 years in exile",
+        "summary": "Tarique Rahman, who has lived in London since 2008, arrives weeks before pivotal elections are held."
+      },
+      {
+        "char": "📄",
+        "label": "new documents in epstein case discovered",
+        "url": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss",
+        "title": "Officials discover a million more documents potentially related to Epstein case",
+        "summary": "The US Department of Justice says reviewing the material could delay the full release of Epstein documents by a \"few more weeks\"."
+      },
+      {
+        "char": "🎟️",
+        "label": "arkansas wins $1.8 billion powerball",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPekUwaVlJcDRNUk5pd2lpZDVXUTNBVThoZHN4ZnBDcktlRjh1VV9NYlN3c0NuOWtjbEJqRm9lLVpvUkVWa1huWkloalRCSF8td3hHRmJVN19mbWNRYzhEazhjZGlXaEtrV0NJeUpwWjd5R3pEQldvTV9OYWVRNHBaZkRONndaRGN0LWI1NjRwSDlYVHEtTXA3cWdCenBoRzRCVU91M2hR?oc=5",
+        "title": "Arkansas ticket scoops $1.8 billion in Christmas Powerball jackpot - Reuters",
+        "summary": "Arkansas ticket scoops $1.8 billion in Christmas Powerball jackpot Reuters"
+      },
+      {
+        "char": "🎓",
+        "label": "130 kidnapped children released in nigeria",
+        "url": "https://www.theguardian.com/world/2025/dec/21/more-kidnapped-schoolchildren-freed-in-nigeria",
+        "title": "Another 130 kidnapped schoolchildren released in Nigeria",
+        "summary": "Presidential spokesperson says all those abducted from a Catholic school in Niger state last month are now free Nigerian authorities say they have secured the release of a further 130 schoolchildren kidnapped from a Catholic school in No..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
