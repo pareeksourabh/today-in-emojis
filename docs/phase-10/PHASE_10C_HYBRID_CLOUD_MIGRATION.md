@@ -1,9 +1,12 @@
 # Today in Emojis — Phase 10C: Cloud Content Store + Hybrid Migration
 
+> **Note:** Cloud infrastructure has been migrated to a separate repository:
+> **[today-in-emojis-cloud](https://github.com/pareeksourabh/today-in-emojis-cloud)**
+
 ## Purpose
 Improve asset quality and long-term scalability while keeping disruption low.
 
-- Cloud becomes the **Source of Truth** for content (“editions”) and assets.
+- Cloud becomes the **Source of Truth** for content ("editions") and assets.
 - GitHub remains:
   - code repo
   - orchestration (initially)
