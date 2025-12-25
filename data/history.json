@@ -10823,5 +10823,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-25",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "displaced by islamic state in mozambique",
+        "url": "https://www.theguardian.com/world/2025/dec/25/displaced-islamic-state-insurgency-mozambique",
+        "title": "Hundreds of thousands newly displaced as Islamic State insurgency expands in Mozambique",
+        "summary": "Rising numbers of people flee jihadists, as violence against civilians increases and foreign aid dwindles More than 300,000 people have been displaced by an Islamic State insurgency in Mozambique since July, amid growing fears that autho..."
+      },
+      {
+        "char": "💻",
+        "label": "nvidia licenses groq technology",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdm1kUWhFYWVWWnVpM2dKQ0JHNFIyb0tteHpqZkxURTdXaFNST1lRcVJhdWZPYlRZYWJiVlIxRmx2Y2pYb3pIWHp5LXRUd2s5eWppUnp4dXdVN0RSRkUxSHhUMUM4UW5LYmZDT2xMekFCR0J0Yld0dU9vZGNHSkswODZtck1DSW56WF9qQUF1SG9RdHRHOURkU0R4ZGFUdl9HOEgxaVhOUExFdw?oc=5",
+        "title": "Nvidia, joining Big Tech deal spree, to license Groq technology, hire executives - Reuters",
+        "summary": "Nvidia, joining Big Tech deal spree, to license Groq technology, hire executives Reuters"
+      },
+      {
+        "char": "🇬🇧",
+        "label": "uk campaigners denied us visas",
+        "url": "https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss",
+        "title": "UK social media campaigners among five denied US visas",
+        "summary": "The Trump administration bans five people who have called for tech regulation from entering the country."
+      },
+      {
+        "char": "🗳️",
+        "label": "bangladesh pm returns after exile",
+        "url": "https://www.nytimes.com/2025/12/25/world/asia/bangladesh-tarique-rahman-return-exile.html",
+        "title": "Prospect for Premier Returns to Bangladesh After 17 Years in Exile",
+        "summary": "Tarique Rahman, who had managed his party’s political affairs from Britain, is back in his country to campaign in elections."
+      },
+      {
+        "char": "🗺️",
+        "label": "somalia votes for universal suffrage",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT3ZmTXRRc3VGcE1JMmJOYTdndWtkeHpvS3BYVWJ0TzExNVhJSy1ueDBBblZub2lfc1hpUXdNN284akpvUDgtLTVzS0tmUGRESVZibjlWZDF5TUo1Q2ZDTEZmLWpKSzhqczg2SkZfMWpzYzNGMWN3S2RGUE5hb0w3ZEh6NnRtd2pXX05YTUZvT3RKMkJOUFJDcE9Wbk5JRDlRTy1teGRuRDNLWkh2MFhWelR4VUZ3c3c5ZHc?oc=5",
+        "title": "Somalia's capital votes in first step to restoring universal suffrage - Reuters",
+        "summary": "Somalia's capital votes in first step to restoring universal suffrage Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
