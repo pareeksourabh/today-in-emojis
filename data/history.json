@@ -10647,5 +10647,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-25",
+    "emojis": [
+      {
+        "char": "🔫",
+        "label": "australian state gun laws passed",
+        "url": "https://www.nytimes.com/2025/12/24/world/australia/nsw-gun-protest-laws.html",
+        "title": "Australian State Passes ‘Extraordinary’ Gun and Protest Laws After Bondi Attack",
+        "summary": "While the new restrictions on firearms have broad support, new police powers to crack down on some protests were criticized as limits on civil liberties."
+      },
+      {
+        "char": "🕊️",
+        "label": "gaza cease-fire killings continue",
+        "url": "https://www.nytimes.com/2025/12/24/world/middleeast/gaza-killings-israel-cease-fire.html",
+        "title": "The Truce Is 2 Months Old. So Why Have Hundreds of Gazans Been Killed?",
+        "summary": "Since the cease-fire took effect, Israel says it has targeted only militants. But death can come for Gazans while on a family outing or sleeping in a tent."
+      },
+      {
+        "char": "🤝",
+        "label": "largest prisoner swap in yemen",
+        "url": "https://www.nytimes.com/2025/12/23/world/middleeast/yemen-houthis-prisoner-exchange.html",
+        "title": "Yemen’s Warring Sides Agree to Largest Prisoner Swap in a Decade of Fighting",
+        "summary": "The Houthi rebels and the internationally recognized government plan to exchange about 2,900 detainees, a rare humanitarian win at a time of deepening political stalemate."
+      },
+      {
+        "char": "📺",
+        "label": "60 minutes episode on el salvador prison",
+        "url": "https://www.theguardian.com/media/2025/dec/23/60-minutes-cecot-appears-online",
+        "title": "60 Minutes episode on brutal El Salvador prison, pulled from air by CBS, appears online",
+        "summary": "Segment that Bari Weiss had removed provides in-depth look at the Centro de Confinamiento del Terrorismo prison A 60 Minutes episode investigating a brutal prison in El Salvador , which CBS News’s editor-in-chief, Bari Weiss, pulled from..."
+      },
+      {
+        "char": "🇩🇿",
+        "label": "algeria declares french colonisation crime",
+        "url": "https://www.theguardian.com/world/2025/dec/24/algeria-passes-law-declaring-french-colonisation-crime",
+        "title": "Algeria passes law declaring French colonisation a crime",
+        "summary": "France’s rule over Algeria from 1830 to 1962 is marked by mass killings and large-scale deportation Algeria’s parliament has unanimously approved a law declaring France’s colonisation of the country a crime and demanded an apology and re..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
