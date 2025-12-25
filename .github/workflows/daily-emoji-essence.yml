@@ -34,6 +34,11 @@ jobs:
           playwright install chromium
           playwright install-deps chromium
 
+      - name: Run AI emoji selection
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/update_emojis_ai.py
+
       - name: Prepare essence post
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -47,9 +52,8 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/today.json public/images/daily/*.png || true
+          git add public/data/today.json data/history.json public/images/daily/*.png || true
           git commit -m "chore(auto): Essence post $(date -u +'%Y-%m-%d')" || echo "No changes"
-          git pull --rebase
           git push
 
       - name: Wait for GitHub Pages deployment
