@@ -10691,5 +10691,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-25",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "zelensky's peace plan for ukraine",
+        "url": "https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky moves towards demilitarised zones in latest peace plan for Ukraine",
+        "summary": "On the key question of Ukraine's eastern Donbas, Zelensky says a \"free economic zone\" is a potential option."
+      },
+      {
+        "char": "🇭🇳",
+        "label": "trump-backed candidate wins in honduras",
+        "url": "https://www.theguardian.com/world/2025/dec/24/honduras-nasry-tito-asfura-declared-president-donald-trump-backed",
+        "title": "Trump-backed candidate Asfura declared new president of Honduras",
+        "summary": "Winning margin of 28,000 votes announced a month late but before review of all ‘inconsistent’ ballots was completed Donald Trump-backed candidate Nasry “Tito” Asfura has been declared the winner of Honduras’s presidential election after..."
+      },
+      {
+        "char": "📺",
+        "label": "60 minutes episode on el salvador prison",
+        "url": "https://www.theguardian.com/media/2025/dec/23/60-minutes-cecot-appears-online",
+        "title": "60 Minutes episode on brutal El Salvador prison, pulled from air by CBS, appears online",
+        "summary": "Segment that Bari Weiss had removed provides in-depth look at the Centro de Confinamiento del Terrorismo prison A 60 Minutes episode investigating a brutal prison in El Salvador , which CBS News’s editor-in-chief, Bari Weiss, pulled from..."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "bolsonaro supporters cancel havaianas",
+        "url": "https://www.theguardian.com/world/2025/dec/23/brazil-jair-bolsonaro-eduardo-havaianas-television-ad-fernanda-torres",
+        "title": "Bolsonaro supporters ‘cancel’ Havaianas flip-flop brand over television ad",
+        "summary": "Son of jailed former Brazilian president says spokesperson for ‘national symbol’ sandals is ‘openly left wing’ Leaderless since its figurehead was jailed for attempting a coup , Brazil’s far right has found a new nemesis: the flip-flop b..."
+      },
+      {
+        "char": "📜",
+        "label": "algeria declares french colonisation a crime",
+        "url": "https://www.theguardian.com/world/2025/dec/24/algeria-passes-law-declaring-french-colonisation-crime",
+        "title": "Algeria passes law declaring French colonisation a crime",
+        "summary": "France’s rule over Algeria from 1830 to 1962 is marked by mass killings and large-scale deportation Algeria’s parliament has unanimously approved a law declaring France’s colonisation of the country a crime and demanded an apology and re..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
