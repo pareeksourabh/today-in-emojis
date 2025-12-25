@@ -34,10 +34,10 @@ jobs:
           playwright install chromium
           playwright install-deps chromium
 
-      - name: Run AI emoji selection
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python scripts/update_emojis_ai.py
+      - name: Pull latest data (today.json from normal posts)
+        run: |
+          git fetch origin main
+          git checkout origin/main -- public/data/today.json
 
       - name: Prepare essence post
         env:
