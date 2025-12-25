@@ -10735,5 +10735,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-25",
+    "emojis": [
+      {
+        "char": "💻",
+        "label": "nvidia licenses groq tech",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdm1kUWhFYWVWWnVpM2dKQ0JHNFIyb0tteHpqZkxURTdXaFNST1lRcVJhdWZPYlRZYWJiVlIxRmx2Y2pYb3pIWHp5LXRUd2s5eWppUnp4dXdVN0RSRkUxSHhUMUM4UW5LYmZDT2xMekFCR0J0Yld0dU9vZGNHSkswODZtck1DSW56WF9qQUF1SG9RdHRHOURkU0R4ZGFUdl9HOEgxaVhOUExFdw?oc=5",
+        "title": "Nvidia, joining Big Tech deal spree, to license Groq technology, hire executives - Reuters",
+        "summary": "Nvidia, joining Big Tech deal spree, to license Groq technology, hire executives Reuters"
+      },
+      {
+        "char": "💣",
+        "label": "blast kills three in moscow",
+        "url": "https://www.nytimes.com/2025/12/24/world/europe/moscow-bomb-blast-police-officers.html",
+        "title": "Blast Kills Three in Moscow Near Site of General’s Car Bombing",
+        "summary": "Two police officers died in the explosion, the authorities said. Earlier this week a car bomb killed a military commander in the same area of Russia’s capital."
+      },
+      {
+        "char": "💉",
+        "label": "sanofi's $2.2 billion vaccine deal",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ1BfUTVMbEswQjNqQ1BvQURVX09jaUxqM1g3bXVZVmFkMFNKenA4c2l4alpuQUQtZTQ4QUxqc05yd2hzMmsza0hucmlXelFQYXZQa00tX29GeVlvN0JQcUJYVXVwbXpIRXJMRmNlRnVGQnhrSzFvUlV5R2VUS09zc3J3T05rU0lVOHNzTFFfNEtGYmg1aFNmNmtVZEY4M2FIUU11RjVkSzJ0U3ByWEtxSmYxSjRvanc?oc=5",
+        "title": "Sanofi pushes ahead on adult vaccines with $2.2 billion Dynavax deal - Reuters",
+        "summary": "Sanofi pushes ahead on adult vaccines with $2.2 billion Dynavax deal Reuters"
+      },
+      {
+        "char": "🌏",
+        "label": "china shifts nuclear forces",
+        "url": "https://www.nytimes.com/2025/12/24/world/asia/china-nuclear-forces-pentagon-report.html",
+        "title": "China Is Shifting Its Nuclear Forces to Swifter Footing, Pentagon Says",
+        "summary": "The country’s production of nuclear warheads has slowed, but its missiles may be poised to strike back fast in case of an attack, an annual assessment found."
+      },
+      {
+        "char": "🇹🇭",
+        "label": "thailand targets scam industry",
+        "url": "https://www.nytimes.com/2025/12/24/world/asia/cambodia-scam-centers-refugees-thailand.html",
+        "title": "Thailand, Attacking Cambodia, Says Its Target Is the Scam Industry",
+        "summary": "Thai warplanes have bombed compounds where people are forced to defraud others online. Rights activists say trafficking victims’ lives are at risk."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

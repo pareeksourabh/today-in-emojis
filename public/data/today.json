@@ -1,64 +1,43 @@
 {
   "date": "2025-12-25",
-  "timestamp": "2025-12-25T03:55:31Z",
+  "timestamp": "2025-12-25T04:41:36Z",
   "emojis": [
     {
-      "char": "🕊️",
-      "label": "zelensky's peace plan for ukraine",
-      "url": "https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss",
-      "title": "Zelensky moves towards demilitarised zones in latest peace plan for Ukraine",
-      "summary": "On the key question of Ukraine's eastern Donbas, Zelensky says a \"free economic zone\" is a potential option."
+      "char": "💻",
+      "label": "nvidia licenses groq tech",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdm1kUWhFYWVWWnVpM2dKQ0JHNFIyb0tteHpqZkxURTdXaFNST1lRcVJhdWZPYlRZYWJiVlIxRmx2Y2pYb3pIWHp5LXRUd2s5eWppUnp4dXdVN0RSRkUxSHhUMUM4UW5LYmZDT2xMekFCR0J0Yld0dU9vZGNHSkswODZtck1DSW56WF9qQUF1SG9RdHRHOURkU0R4ZGFUdl9HOEgxaVhOUExFdw?oc=5",
+      "title": "Nvidia, joining Big Tech deal spree, to license Groq technology, hire executives - Reuters",
+      "summary": "Nvidia, joining Big Tech deal spree, to license Groq technology, hire executives Reuters"
     },
     {
-      "char": "🇭🇳",
-      "label": "trump-backed candidate wins in honduras",
-      "url": "https://www.theguardian.com/world/2025/dec/24/honduras-nasry-tito-asfura-declared-president-donald-trump-backed",
-      "title": "Trump-backed candidate Asfura declared new president of Honduras",
-      "summary": "Winning margin of 28,000 votes announced a month late but before review of all ‘inconsistent’ ballots was completed Donald Trump-backed candidate Nasry “Tito” Asfura has been declared the winner of Honduras’s presidential election after..."
+      "char": "💣",
+      "label": "blast kills three in moscow",
+      "url": "https://www.nytimes.com/2025/12/24/world/europe/moscow-bomb-blast-police-officers.html",
+      "title": "Blast Kills Three in Moscow Near Site of General’s Car Bombing",
+      "summary": "Two police officers died in the explosion, the authorities said. Earlier this week a car bomb killed a military commander in the same area of Russia’s capital."
     },
     {
-      "char": "📺",
-      "label": "60 minutes episode on el salvador prison",
-      "url": "https://www.theguardian.com/media/2025/dec/23/60-minutes-cecot-appears-online",
-      "title": "60 Minutes episode on brutal El Salvador prison, pulled from air by CBS, appears online",
-      "summary": "Segment that Bari Weiss had removed provides in-depth look at the Centro de Confinamiento del Terrorismo prison A 60 Minutes episode investigating a brutal prison in El Salvador , which CBS News’s editor-in-chief, Bari Weiss, pulled from..."
+      "char": "💉",
+      "label": "sanofi's $2.2 billion vaccine deal",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ1BfUTVMbEswQjNqQ1BvQURVX09jaUxqM1g3bXVZVmFkMFNKenA4c2l4alpuQUQtZTQ4QUxqc05yd2hzMmsza0hucmlXelFQYXZQa00tX29GeVlvN0JQcUJYVXVwbXpIRXJMRmNlRnVGQnhrSzFvUlV5R2VUS09zc3J3T05rU0lVOHNzTFFfNEtGYmg1aFNmNmtVZEY4M2FIUU11RjVkSzJ0U3ByWEtxSmYxSjRvanc?oc=5",
+      "title": "Sanofi pushes ahead on adult vaccines with $2.2 billion Dynavax deal - Reuters",
+      "summary": "Sanofi pushes ahead on adult vaccines with $2.2 billion Dynavax deal Reuters"
     },
     {
-      "char": "🇧🇷",
-      "label": "bolsonaro supporters cancel havaianas",
-      "url": "https://www.theguardian.com/world/2025/dec/23/brazil-jair-bolsonaro-eduardo-havaianas-television-ad-fernanda-torres",
-      "title": "Bolsonaro supporters ‘cancel’ Havaianas flip-flop brand over television ad",
-      "summary": "Son of jailed former Brazilian president says spokesperson for ‘national symbol’ sandals is ‘openly left wing’ Leaderless since its figurehead was jailed for attempting a coup , Brazil’s far right has found a new nemesis: the flip-flop b..."
+      "char": "🌏",
+      "label": "china shifts nuclear forces",
+      "url": "https://www.nytimes.com/2025/12/24/world/asia/china-nuclear-forces-pentagon-report.html",
+      "title": "China Is Shifting Its Nuclear Forces to Swifter Footing, Pentagon Says",
+      "summary": "The country’s production of nuclear warheads has slowed, but its missiles may be poised to strike back fast in case of an attack, an annual assessment found."
     },
     {
-      "char": "📜",
-      "label": "algeria declares french colonisation a crime",
-      "url": "https://www.theguardian.com/world/2025/dec/24/algeria-passes-law-declaring-french-colonisation-crime",
-      "title": "Algeria passes law declaring French colonisation a crime",
-      "summary": "France’s rule over Algeria from 1830 to 1962 is marked by mass killings and large-scale deportation Algeria’s parliament has unanimously approved a law declaring France’s colonisation of the country a crime and demanded an apology and re..."
+      "char": "🇹🇭",
+      "label": "thailand targets scam industry",
+      "url": "https://www.nytimes.com/2025/12/24/world/asia/cambodia-scam-centers-refugees-thailand.html",
+      "title": "Thailand, Attacking Cambodia, Says Its Target Is the Scam Industry",
+      "summary": "Thai warplanes have bombed compounds where people are forced to defraud others online. Rights activists say trafficking victims’ lives are at risk."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "⚖️",
-    "emoji": "⚖️",
-    "rationale": "Today's news highlights significant political shifts and social justice issues, reflecting a strong focus on fairness and accountability in various contexts. The discussions around peace in Ukraine, election integrity in Honduras, and the c",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
