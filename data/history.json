@@ -10603,5 +10603,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-25",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "trump's name removal lawsuit",
+        "url": "https://www.bbc.com/news/articles/c79x0x7v70go?at_medium=RSS&at_campaign=rss",
+        "title": "Democratic lawmaker sues to remove Trump's name from Kennedy Center",
+        "summary": "Rep Joyce Beatty, who sits on the centre's board, argues the name change is illegal because it requires approval from Congress."
+      },
+      {
+        "char": "🌎",
+        "label": "us signs security deals in latam",
+        "url": "https://www.theguardian.com/us-news/2025/dec/23/us-trump-administration-signs-security-deals-across-latin-america",
+        "title": "‘Gunboat diplomacy on steroids’: US signs security deals across Latin America",
+        "summary": "Venezuela’s Nicolás Maduro warns Trump administration may ‘destabilise the entire region’ amid rising tensions While all eyes are on the four-month-long US military campaign against Venezuela, the White House has been quietly striking se..."
+      },
+      {
+        "char": "🤝",
+        "label": "zelensky offers peace deal",
+        "url": "https://www.nytimes.com/2025/12/24/world/europe/zelensky-demilitarized-zone-offer.html",
+        "title": "Zelensky Open to Pulling Back Troops in Eastern Ukraine to Reach Peace Deal With Russia",
+        "summary": "The offer was the closest Mr. Zelensky has come to addressing the thorny territorial disputes in Donetsk that have repeatedly derailed peace talks."
+      },
+      {
+        "char": "🎓",
+        "label": "130 kidnapped children released",
+        "url": "https://www.theguardian.com/world/2025/dec/21/more-kidnapped-schoolchildren-freed-in-nigeria",
+        "title": "Another 130 kidnapped schoolchildren released in Nigeria",
+        "summary": "Presidential spokesperson says all those abducted from a Catholic school in Niger state last month are now free Nigerian authorities say they have secured the release of a further 130 schoolchildren kidnapped from a Catholic school in No..."
+      },
+      {
+        "char": "🌱",
+        "label": "japan tightens solar project rules",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeGJtSS1vVHN1QjBGMTI5Z1czSWRTVmxuQmNlSEVham1QVEs4VmdvZEthR3U5NjlqVlBOSnBuSzFoczBDUlV6d3ZtcnVBbkZXVXZjYy0zRkZJcGNvTVlmYUxMLWlCQXc5aXBJcWllXzFra0xfUHE2aVhVTjhVRjd6VUhGRUYyZUtFZXVmdURjVVlRYkhDY3p6RzAwQmlxYktuTjN2dF8wVWFaTTNCS3JMZ1V0dUJOVGNFMW42ZndsQnJhZWtLTS1RdzlYWUhsOVh1YkRNLVVBTURiVExWVWFJ?oc=5",
+        "title": "Japan to tighten regulations on mega-solar projects to protect nature, landscape - Reuters",
+        "summary": "Japan to tighten regulations on mega-solar projects to protect nature, landscape Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
