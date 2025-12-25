@@ -1,64 +1,43 @@
 {
-  "date": "2025-12-24",
-  "timestamp": "2025-12-24T16:12:04Z",
+  "date": "2025-12-25",
+  "timestamp": "2025-12-25T01:03:28Z",
   "emojis": [
     {
-      "char": "🇨🇦",
-      "label": "canada's refugee policy changes",
-      "url": "https://www.theguardian.com/world/2025/dec/23/canada-bill-refugees",
-      "title": "Canada bill targeting refugees feared to signal new era of US-style border policy",
-      "summary": "Bill C-12 includes many changes around border security along with new ineligibility rules for refugee claimants Canada’s Liberal government is pushing through sweeping new legislation targeting refugees that observers fear will usher in..."
+      "char": "👨‍👩‍",
+      "label": "freed nigerian schoolchildren reunite",
+      "url": "https://www.theguardian.com/world/2025/dec/22/freed-nigerian-schoolchildren-set-to-be-reunited-with-families",
+      "title": "Freed Nigerian schoolchildren to be reunited with families",
+      "summary": "Month-long ordeal ends but no details released on how they regained their freedom or who was behind abduction A final group of 130 kidnapped Nigerian schoolchildren freed by the government on Sunday are expected to be reunited with their..."
     },
     {
-      "char": "🕊️",
-      "label": "ukraine peace plan details",
-      "url": "https://www.nytimes.com/2025/12/24/world/europe/what-is-in-the-20-point-ukraine-peace-plan.html",
-      "title": "Here’s What Is in the 20-Point Peace Plan for Ukraine",
-      "summary": "The blueprint covers a broad range of issues, including territory, security guarantees and postwar reconstruction. But Russia has indicated little willingness to end the war."
+      "char": "💣",
+      "label": "mosque bomb blast kills five",
+      "url": "https://www.bbc.com/news/articles/c0je3v3en01o?at_medium=RSS&at_campaign=rss",
+      "title": "Bomb blast in packed Nigerian mosque kills five",
+      "summary": "Another 35 people were injured in the explosion during evening prayers in the city of Maiduguri, police say."
     },
     {
-      "char": "🎥",
-      "label": "60 minutes el salvador prison episode",
+      "char": "📈",
+      "label": "meta ordered to halt whatsapp terms",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQVh0YnFMT09OSjFva0Q2UkY1dFd0dlc3aWxqemV5UjFMWWhCR29Qd1FwYUh0YWFJc281eFZhMHR1d0xKbEpPa1VJRFppdGVTT2lEWlJPcjhGQnJYNGktZFVxeDNvT0F6NHc2elJTRzFsMDMyQW5Od1E4cGNocG1jZDRYR2k3eFFiX2NYWFBKM3A4X09Jd0IyVlZlLXFOdmhLTG1ZeHNzSDB0bkl1c3B1cGE5Y0hEVDllQTAyLThqT1NHNG1KZ3RDalI3YlhZNkRPM0UzMWpUeERjSnVDeWxLMjhn?oc=5",
+      "title": "Italy watchdog orders Meta to halt WhatsApp terms barring rival AI chatbots - Reuters",
+      "summary": "Italy watchdog orders Meta to halt WhatsApp terms barring rival AI chatbots Reuters"
+    },
+    {
+      "char": "🇺🇦",
+      "label": "zelensky peace plan for ukraine",
+      "url": "https://www.nytimes.com/2025/12/24/world/europe/zelensky-demilitarized-zone-offer.html",
+      "title": "Zelensky Open to Pulling Back Troops in Eastern Ukraine to Reach Peace Deal With Russia",
+      "summary": "The offer was the closest Mr. Zelensky has come to addressing the thorny territorial disputes in Donetsk that have repeatedly derailed peace talks."
+    },
+    {
+      "char": "🎬",
+      "label": "60 minutes episode on el salvador prison",
       "url": "https://www.theguardian.com/media/2025/dec/23/60-minutes-cecot-appears-online",
       "title": "60 Minutes episode on brutal El Salvador prison, pulled from air by CBS, appears online",
       "summary": "Segment that Bari Weiss had removed provides in-depth look at the Centro de Confinamiento del Terrorismo prison A 60 Minutes episode investigating a brutal prison in El Salvador , which CBS News’s editor-in-chief, Bari Weiss, pulled from..."
-    },
-    {
-      "char": "🎓",
-      "label": "freed schoolchildren in nigeria",
-      "url": "https://www.theguardian.com/world/2025/dec/21/more-kidnapped-schoolchildren-freed-in-nigeria",
-      "title": "Another 130 kidnapped schoolchildren released in Nigeria",
-      "summary": "Presidential spokesperson says all those abducted from a Catholic school in Niger state last month are now free Nigerian authorities say they have secured the release of a further 130 schoolchildren kidnapped from a Catholic school in No..."
-    },
-    {
-      "char": "🇧🇷",
-      "label": "bolsonaro supporters boycott brand",
-      "url": "https://www.theguardian.com/world/2025/dec/23/brazil-jair-bolsonaro-eduardo-havaianas-television-ad-fernanda-torres",
-      "title": "Bolsonaro supporters ‘cancel’ Havaianas flip-flop brand over television ad",
-      "summary": "Son of jailed former Brazilian president says spokesperson for ‘national symbol’ sandals is ‘openly left wing’ Leaderless since its figurehead was jailed for attempting a coup , Brazil’s far right has found a new nemesis: the flip-flop b..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "concerned",
-    "emoji": "😨",
-    "rationale": "The day's news highlights significant issues such as refugee policies, unresolved conflicts in Ukraine, and the troubling state of prisons, indicating a growing sense of unease and concern about global stability.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
