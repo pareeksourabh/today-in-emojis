@@ -10779,5 +10779,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-25",
+    "emojis": [
+      {
+        "char": "🇭🇳",
+        "label": "trump-backed candidate wins in honduras",
+        "url": "https://www.theguardian.com/world/2025/dec/24/honduras-nasry-tito-asfura-declared-president-donald-trump-backed",
+        "title": "Trump-backed candidate Asfura declared new president of Honduras",
+        "summary": "Winning margin of 28,000 votes announced a month late but before review of all ‘inconsistent’ ballots was completed Donald Trump-backed candidate Nasry “Tito” Asfura has been declared the winner of Honduras’s presidential election after..."
+      },
+      {
+        "char": "🌍",
+        "label": "islamic state insurgency displaces thousands",
+        "url": "https://www.theguardian.com/world/2025/dec/25/displaced-islamic-state-insurgency-mozambique",
+        "title": "Hundreds of thousands newly displaced as Islamic State insurgency expands in Mozambique",
+        "summary": "Rising numbers of people flee jihadists, as violence against civilians increases and foreign aid dwindles More than 300,000 people have been displaced by an Islamic State insurgency in Mozambique since July, amid growing fears that autho..."
+      },
+      {
+        "char": "☮️",
+        "label": "ukraine peace plan details revealed",
+        "url": "https://www.nytimes.com/2025/12/24/world/europe/what-is-in-the-20-point-ukraine-peace-plan.html",
+        "title": "Here’s What Is in the 20-Point Peace Plan for Ukraine",
+        "summary": "The blueprint covers a broad range of issues, including territory, security guarantees and postwar reconstruction. But Russia has indicated little willingness to end the war."
+      },
+      {
+        "char": "🎬",
+        "label": "bolsonaro supporters boycott havaianas ad",
+        "url": "https://www.theguardian.com/world/2025/dec/23/brazil-jair-bolsonaro-eduardo-havaianas-television-ad-fernanda-torres",
+        "title": "Bolsonaro supporters ‘cancel’ Havaianas flip-flop brand over television ad",
+        "summary": "Son of jailed former Brazilian president says spokesperson for ‘national symbol’ sandals is ‘openly left wing’ Leaderless since its figurehead was jailed for attempting a coup , Brazil’s far right has found a new nemesis: the flip-flop b..."
+      },
+      {
+        "char": "🇩🇿",
+        "label": "algeria declares french colonisation a crime",
+        "url": "https://www.theguardian.com/world/2025/dec/24/algeria-passes-law-declaring-french-colonisation-crime",
+        "title": "Algeria passes law declaring French colonisation a crime",
+        "summary": "France’s rule over Algeria from 1830 to 1962 is marked by mass killings and large-scale deportation Algeria’s parliament has unanimously approved a law declaring France’s colonisation of the country a crime and demanded an apology and re..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
