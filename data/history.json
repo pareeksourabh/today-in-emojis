@@ -11043,5 +11043,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-26",
+    "emojis": [
+      {
+        "char": "🍽️",
+        "label": "one gazan girl’s fight to survive hunger",
+        "url": "https://www.nytimes.com/2025/12/26/world/middleeast/hoda-gaza-malnutrition-israel.html",
+        "title": "One Gazan Girl’s Fight to Survive Extreme Hunger",
+        "summary": "After Israel sealed Gaza’s borders, Hoda Abu al-Naja, 12, who suffered from celiac disease, spent months seeking the food and care she needed to combat malnutrition."
+      },
+      {
+        "char": "✈️",
+        "label": "libya’s army chief dies in plane crash",
+        "url": "https://www.theguardian.com/world/2025/dec/23/libyas-army-chief-dies-in-plane-crash-in-turkey",
+        "title": "Libya’s army chief dies in plane crash in Turkey",
+        "summary": "Libyan PM says Mohammed Ali Ahmed al-Haddad died after aircraft lost radio contact above Ankara The Libyan army’s chief of staff, Mohammed Ali Ahmed al-Haddad, has been killed in a plane crash after leaving Turkey’s capital, Ankara. The..."
+      },
+      {
+        "char": "⚖️",
+        "label": "judge blocks us from detaining activist",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTBDUmRvSUp0Z3ZMazhaTkVUdmt1dERtOFdMNG5rQXBhRy1tNnZOQ195YkY3Vzl3SzZpVUk5ZGRBRXlLTVNtWHFhYllhSXFFWUtzNEN6MEZlNV9YNGRwMWREbUR6dnp4Zzh2ZlQ3YWVLQkhZeTYwR1luOVN2dGpxMWtVZ0plOHhDbHBTWEZkQWpjWml1WmxUME9seXVjZGVXVklwQUh3ZFpCRWF2S0VNNmo1MzMzUQ?oc=5",
+        "title": "Judge grants injunction blocking US from detaining British anti-disinformation activist - Reuters",
+        "summary": "Judge grants injunction blocking US from detaining British anti-disinformation activist Reuters"
+      },
+      {
+        "char": "🌧️",
+        "label": "heavy rain storms in california",
+        "url": "https://www.bbc.com/news/articles/c1lr3p7n87yo?at_medium=RSS&at_campaign=rss",
+        "title": "Heavy rain storms in California leave three dead",
+        "summary": "A state of emergency is declared in Los Angeles and other southern counties after flash floods and mudslides."
+      },
+      {
+        "char": "🌳",
+        "label": "new national park in patagonia, chile",
+        "url": "https://www.theguardian.com/world/2025/dec/25/cape-froward-new-national-park-patagonia-chile",
+        "title": "‘It’s the wildest place I have walked’: new national park will join up Chile’s 2,800km wildlife corridor",
+        "summary": "Government poised to officially protect 200,000 hectares of remote Patagonian coastline and forest Chile’s government is poised to create the country’s 47th national park, protecting nearly 200,000 hectares (500,000 acres) of pristine wi..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
