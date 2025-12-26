@@ -10999,5 +10999,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-26",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "pope calls for world peace",
+        "url": "https://www.nytimes.com/2025/12/25/world/asia/leo-christmas-first-speech-pope.html",
+        "title": "Pope Leo Makes Christmas Call for Dialogue to Address World’s Conflicts",
+        "summary": "Leo XIV’s Christmas address was his first since being elected pontiff and was scrutinized for comparisons with those of his predecessor, Francis."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "bolsonaro supporters cancel brand",
+        "url": "https://www.theguardian.com/world/2025/dec/23/brazil-jair-bolsonaro-eduardo-havaianas-television-ad-fernanda-torres",
+        "title": "Bolsonaro supporters ‘cancel’ Havaianas flip-flop brand over television ad",
+        "summary": "Son of jailed former Brazilian president says spokesperson for ‘national symbol’ sandals is ‘openly left wing’ Leaderless since its figurehead was jailed for attempting a coup , Brazil’s far right has found a new nemesis: the flip-flop b..."
+      },
+      {
+        "char": "👨‍👩‍",
+        "label": "freed nigerian kids reunite",
+        "url": "https://www.theguardian.com/world/2025/dec/22/freed-nigerian-schoolchildren-set-to-be-reunited-with-families",
+        "title": "Freed Nigerian schoolchildren to be reunited with families",
+        "summary": "Month-long ordeal ends but no details released on how they regained their freedom or who was behind abduction A final group of 130 kidnapped Nigerian schoolchildren freed by the government on Sunday are expected to be reunited with their..."
+      },
+      {
+        "char": "⚖️",
+        "label": "us judge blocks detention",
+        "url": "https://www.bbc.com/news/articles/c33mx6j5jrvo?at_medium=RSS&at_campaign=rss",
+        "title": "US judge blocks detention of British social media campaigner",
+        "summary": "Imran Ahmed was among five people accused of seeking to \"coerce\" US firms into censoring free speech."
+      },
+      {
+        "char": "🇩🇿",
+        "label": "algeria declares colonization crime",
+        "url": "https://www.theguardian.com/world/2025/dec/24/algeria-passes-law-declaring-french-colonisation-crime",
+        "title": "Algeria passes law declaring French colonisation a crime",
+        "summary": "France’s rule over Algeria from 1830 to 1962 is marked by mass killings and large-scale deportation Algeria’s parliament has unanimously approved a law declaring France’s colonisation of the country a crime and demanded an apology and re..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
