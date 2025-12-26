@@ -1,64 +1,43 @@
 {
-  "date": "2025-12-25",
-  "timestamp": "2025-12-25T16:11:45Z",
+  "date": "2025-12-26",
+  "timestamp": "2025-12-26T01:03:30Z",
   "emojis": [
     {
-      "char": "🕊️",
-      "label": "pope calls for dialogue on conflicts",
-      "url": "https://www.nytimes.com/2025/12/25/world/asia/leo-christmas-first-speech-pope.html",
-      "title": "Pope Leo Makes Christmas Call for Dialogue to Address World’s Conflicts",
-      "summary": "Leo XIV’s Christmas address was his first since being elected pontiff and was scrutinized for comparisons with those of his predecessor, Francis."
+      "char": "🔥",
+      "label": "odesa's hell under fire",
+      "url": "https://www.nytimes.com/2025/12/25/world/europe/ukraine-odesa.html",
+      "title": "No Power, No Heat, No Water: Odesa’s Days of Hell Under Russian Fire",
+      "summary": "The toll on older people and those with disabilities is especially severe as Moscow’s forces repeatedly attack the port city’s infrastructure."
     },
     {
-      "char": "🇧🇩",
-      "label": "bangladesh pm candidate returns from exile",
-      "url": "https://www.bbc.com/news/articles/crk733k1k1eo?at_medium=RSS&at_campaign=rss",
-      "title": "Front-runner to be Bangladesh PM returns after 17 years in exile",
-      "summary": "Tarique Rahman, who has lived in London since 2008, arrives weeks before pivotal elections are held."
+      "char": "🌳",
+      "label": "tropical forest co-investment success",
+      "url": "https://www.theguardian.com/environment/2025/dec/25/they-are-scared-of-us-now-how-one-tropical-forest-turned-the-tide-on-loggers",
+      "title": "‘They’re scared of us now’: how co-investment in a tropical forest saw off loggers",
+      "summary": "Low-cost tech and joined-up funding have reduced illegal logging, mining and poaching in the Darién Gap – it’s a success story that could stop deforestation worldwide There are no roads through the Darién Gap. This vast impenetrable fore..."
     },
     {
-      "char": "📄",
-      "label": "new documents in epstein case discovered",
-      "url": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss",
-      "title": "Officials discover a million more documents potentially related to Epstein case",
-      "summary": "The US Department of Justice says reviewing the material could delay the full release of Epstein documents by a \"few more weeks\"."
+      "char": "📱",
+      "label": "china's phone shipments surge",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSzVsSXAtZllHeTdXa2ZvWGtLQ1ZsOG4xRzhDaFBSVVBWZDdtWmJNcGJGUGI3ZFNrTElhVFpZaFlXVExkVG4yamxjeFpvaEd1d3VYSHBpc2I0V0JEOE5SWHZyN21ZNGR3UmIzUnViTUhvWkR2T0R3cHNPWG1iYkU5SlJ5QzA1SEFLekFFeGlmM1A4UUlWNm41bmY5VnVNUnBYMVppQmdiMGU0NDZ0eTM2RG1HeFhNWDhnQlV2X2JfSE5vN2F5RHNNWXI1am1vUlE?oc=5",
+      "title": "Foreign-branded phone shipments in China more than doubled on year in Nov, CAICT data shows - Reuters",
+      "summary": "Foreign-branded phone shipments in China more than doubled on year in Nov, CAICT data shows Reuters"
     },
     {
-      "char": "🎟️",
-      "label": "arkansas wins $1.8 billion powerball",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPekUwaVlJcDRNUk5pd2lpZDVXUTNBVThoZHN4ZnBDcktlRjh1VV9NYlN3c0NuOWtjbEJqRm9lLVpvUkVWa1huWkloalRCSF8td3hHRmJVN19mbWNRYzhEazhjZGlXaEtrV0NJeUpwWjd5R3pEQldvTV9OYWVRNHBaZkRONndaRGN0LWI1NjRwSDlYVHEtTXA3cWdCenBoRzRCVU91M2hR?oc=5",
-      "title": "Arkansas ticket scoops $1.8 billion in Christmas Powerball jackpot - Reuters",
-      "summary": "Arkansas ticket scoops $1.8 billion in Christmas Powerball jackpot Reuters"
+      "char": "🤝",
+      "label": "zelensky's peace talks",
+      "url": "https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky hails 'new ideas' on peace after talks with US envoys",
+      "summary": "Ukraine's leader gives an upbeat assessment after discussing the plan with Steve Witkoff and Jared Kushner."
     },
     {
-      "char": "🎓",
-      "label": "130 kidnapped children released in nigeria",
-      "url": "https://www.theguardian.com/world/2025/dec/21/more-kidnapped-schoolchildren-freed-in-nigeria",
-      "title": "Another 130 kidnapped schoolchildren released in Nigeria",
-      "summary": "Presidential spokesperson says all those abducted from a Catholic school in Niger state last month are now free Nigerian authorities say they have secured the release of a further 130 schoolchildren kidnapped from a Catholic school in No..."
+      "char": "🎄",
+      "label": "lonely christmas for venezuelans",
+      "url": "https://www.nytimes.com/2025/12/25/world/americas/venezuela-christmas-closed-airspace.html",
+      "title": "With Airspace Closed, a Lonely Christmas for Many Venezuelans",
+      "summary": "The holidays usually bring home huge numbers from the Venezuelan diaspora. But this year, after international airlines halted almost all service, many people are spending Christmas alone and on edge."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Hopeful",
-    "emoji": "🙏",
-    "rationale": "Today's news features significant moments of change and redemption, such as the release of kidnapped schoolchildren and a major political return, suggesting a shift towards healing and dialogue.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

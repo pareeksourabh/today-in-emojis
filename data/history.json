@@ -10911,5 +10911,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-26",
+    "emojis": [
+      {
+        "char": "🔥",
+        "label": "odesa's hell under fire",
+        "url": "https://www.nytimes.com/2025/12/25/world/europe/ukraine-odesa.html",
+        "title": "No Power, No Heat, No Water: Odesa’s Days of Hell Under Russian Fire",
+        "summary": "The toll on older people and those with disabilities is especially severe as Moscow’s forces repeatedly attack the port city’s infrastructure."
+      },
+      {
+        "char": "🌳",
+        "label": "tropical forest co-investment success",
+        "url": "https://www.theguardian.com/environment/2025/dec/25/they-are-scared-of-us-now-how-one-tropical-forest-turned-the-tide-on-loggers",
+        "title": "‘They’re scared of us now’: how co-investment in a tropical forest saw off loggers",
+        "summary": "Low-cost tech and joined-up funding have reduced illegal logging, mining and poaching in the Darién Gap – it’s a success story that could stop deforestation worldwide There are no roads through the Darién Gap. This vast impenetrable fore..."
+      },
+      {
+        "char": "📱",
+        "label": "china's phone shipments surge",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSzVsSXAtZllHeTdXa2ZvWGtLQ1ZsOG4xRzhDaFBSVVBWZDdtWmJNcGJGUGI3ZFNrTElhVFpZaFlXVExkVG4yamxjeFpvaEd1d3VYSHBpc2I0V0JEOE5SWHZyN21ZNGR3UmIzUnViTUhvWkR2T0R3cHNPWG1iYkU5SlJ5QzA1SEFLekFFeGlmM1A4UUlWNm41bmY5VnVNUnBYMVppQmdiMGU0NDZ0eTM2RG1HeFhNWDhnQlV2X2JfSE5vN2F5RHNNWXI1am1vUlE?oc=5",
+        "title": "Foreign-branded phone shipments in China more than doubled on year in Nov, CAICT data shows - Reuters",
+        "summary": "Foreign-branded phone shipments in China more than doubled on year in Nov, CAICT data shows Reuters"
+      },
+      {
+        "char": "🤝",
+        "label": "zelensky's peace talks",
+        "url": "https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky hails 'new ideas' on peace after talks with US envoys",
+        "summary": "Ukraine's leader gives an upbeat assessment after discussing the plan with Steve Witkoff and Jared Kushner."
+      },
+      {
+        "char": "🎄",
+        "label": "lonely christmas for venezuelans",
+        "url": "https://www.nytimes.com/2025/12/25/world/americas/venezuela-christmas-closed-airspace.html",
+        "title": "With Airspace Closed, a Lonely Christmas for Many Venezuelans",
+        "summary": "The holidays usually bring home huge numbers from the Venezuelan diaspora. But this year, after international airlines halted almost all service, many people are spending Christmas alone and on edge."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
