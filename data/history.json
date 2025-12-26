@@ -10955,5 +10955,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-26",
+    "emojis": [
+      {
+        "char": "🇰🇷",
+        "label": "south korea seeks jail for ex-president",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX244VnhMTFhPTGhQOGVFSUV0WEVuSHJkek10dmJBQUxzNVJHUFlNUHR0am0ybk1oczZpVENXUm9zS3pSNDJvd29JclNCN3NUNGRyWTJwQUNYWTYyY2YzSU1RY2J6bEttTWx2aWpuYW1XX1BsQWVDSF8tcjFLWXBxM3dvWkJLR3lIRmJqOTM5WVFFOEs0ZzJGUF9KU1dSeXNKa3BwSnY2NG4zN2dJenFYN1E3anh2dzVOLXU5Qnc5QXRQWWdnOEp4bE5BUkRkVWM?oc=5",
+        "title": "South Korea prosecutor seeks 10-year jail term for ex-President Yoon, Yonhap says - Reuters",
+        "summary": "South Korea prosecutor seeks 10-year jail term for ex-President Yoon, Yonhap says Reuters"
+      },
+      {
+        "char": "🇺🇸",
+        "label": "us strikes islamic state in nigeria",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR25CUHlMaVYySTRLSXpzOXc1YjQ4dmVOaldxZ3ljRmFMNnpGWC16VV9LTEF2UFA2eTZoSkVmR0I5aG9JLXA0ak50VmpDcURIS3lLRGdmXzBoNXg0S3NteTVSWG9leEtHNEZqLUt4MzYwY0R3Z0w3djJCZzlCOGV4MmM1aERPaGJXQVJKeEE3dUFwcl9WRjI5dHU0ZWQtS3pQOHQ3MkVONHotcEZzbFJTbi03RjZQOW85TXN4NDNzRk5Vd0hyZmVlZQ?oc=5",
+        "title": "US says it struck Islamic State militants in northwest Nigeria - Reuters",
+        "summary": "US says it struck Islamic State militants in northwest Nigeria Reuters"
+      },
+      {
+        "char": "🇭🇳",
+        "label": "honduran candidate claims election fraud",
+        "url": "https://www.nytimes.com/2025/12/25/world/americas/honduras-election-dispute.html",
+        "title": "Honduran Candidate Claims Fraud After Trump-Backed Opponent Is Declared Victor",
+        "summary": "After officials called the presidential race for Nasry Asfura, his rival, Salvador Nasralla, disputed the result and expressed ire over the U.S. role."
+      },
+      {
+        "char": "🇧🇩",
+        "label": "bangladesh pm returns after 17 years",
+        "url": "https://www.bbc.com/news/articles/crk733k1k1eo?at_medium=RSS&at_campaign=rss",
+        "title": "Front-runner to be Bangladesh PM returns after 17 years in exile",
+        "summary": "Tarique Rahman, who has lived in London since 2008, arrives weeks before pivotal elections are held."
+      },
+      {
+        "char": "🛩️",
+        "label": "helicopter crash kills five on kilimanjaro",
+        "url": "https://www.nytimes.com/2025/12/25/world/africa/helicopter-crash-kilimanjaro.html",
+        "title": "Five Killed in Helicopter Crash on Kilimanjaro, Africa’s Highest Peak",
+        "summary": "The aircraft was on its descent from the mountain when it crashed around the Barafu Camp area in Kilimanjaro National Park, officials said."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
