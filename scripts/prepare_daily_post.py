@@ -219,10 +219,6 @@ def main() -> int:
         }
         print(f"[warn] Essence selection failed: {failure}", file=sys.stderr)
 
-    # Update timestamp for essence post to avoid duplicate detection
-    from datetime import datetime
-    data["timestamp"] = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
-
     data["post_type"] = "essence"
     data["essence"] = {
         **essence,

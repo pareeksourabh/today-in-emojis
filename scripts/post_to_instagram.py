@@ -306,14 +306,18 @@ def main():
     # Load emoji data
     data = load_emoji_data()
     timestamp = data.get('timestamp', data.get('date', date.today().isoformat()))
+    post_type = data.get('post_type', 'normal')
     print(f"[info] Posting emojis for {timestamp}")
-    print(f"[info] Post type: {data.get('post_type', 'normal')}")
+    print(f"[info] Post type: {post_type}")
 
-    # Check if already posted this timestamp
-    if was_already_posted(timestamp):
+    # Check if already posted this timestamp (skip duplicate check for essence posts)
+    if post_type != 'essence' and was_already_posted(timestamp):
         print(f"[info] Already posted for {timestamp}, skipping to avoid duplicate")
         print("[done] No action needed")
         return 0
+
+    if post_type == 'essence':
+        print(f"[info] Essence post - skipping duplicate check, will post regardless")
 
     # Get image URL
     image_url = get_image_url(data)
@@ -347,8 +351,12 @@ def main():
         print("[error] Failed to publish to Instagram", file=sys.stderr)
         sys.exit(1)
 
-    # Mark as posted to prevent duplicates
-    mark_as_posted(timestamp, media_id)
+    # Mark as posted to prevent duplicates (only for normal posts)
+    if post_type != 'essence':
+        mark_as_posted(timestamp, media_id)
+        print(f"[info] Marked {timestamp} as posted (normal post)")
+    else:
+        print(f"[info] Essence post - not logging to prevent duplicate tracking")
 
     print(f"\n[done] Successfully posted to Instagram!")
     print(f"[info] View at: https://instagram.com/todayinemojis")
