@@ -11175,5 +11175,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-27",
+    "emojis": [
+      {
+        "char": "❄️",
+        "label": "us airlines cancel flights due to storm",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDNtck5RQ09IOFNlUDNGclNCVTRUR2dZbm12V3hNWUtBcjBfM3VaSGZlUDNuUEl1eDBtTFdwNmZzc2JUSHVkaGRHcFp6aVRfRzBVUnJBem9tOGNoa3FROWgxMGxPWEx4c29HZDBiS1BxS3lkUTBHR1VGNkh5RXZuSnhKUGZTb3dqM3ZLbEhpYVJzMG5naDFHUzNZbkRZT1dHRXd2OHZhM0t3bDA?oc=5",
+        "title": "US airlines cancel over 1,000 flights due to winter storm Devin - Reuters",
+        "summary": "US airlines cancel over 1,000 flights due to winter storm Devin Reuters"
+      },
+      {
+        "char": "🇮🇳",
+        "label": "hindu right reshapes india",
+        "url": "https://www.nytimes.com/2025/12/26/world/asia/india-hindu-right-rss-modi.html",
+        "title": "From the Shadows to Power: How the Hindu Right Reshaped India",
+        "summary": "The far-right group known as the R.S.S., whose members include Prime Minister Narendra Modi, has spent a century trying to make India a Hindu-first nation."
+      },
+      {
+        "char": "🌳",
+        "label": "new national park in patagonia",
+        "url": "https://www.theguardian.com/world/2025/dec/25/cape-froward-new-national-park-patagonia-chile",
+        "title": "‘It’s the wildest place I have walked’: new national park will join up Chile’s 2,800km wildlife corridor",
+        "summary": "Government poised to officially protect 200,000 hectares of remote Patagonian coastline and forest Chile’s government is poised to create the country’s 47th national park, protecting nearly 200,000 hectares (500,000 acres) of pristine wi..."
+      },
+      {
+        "char": "💰",
+        "label": "najib razak sentenced in corruption case",
+        "url": "https://www.nytimes.com/2025/12/26/world/asia/malaysia-najib-razak-corruption-sentence-1mdb.html",
+        "title": "New Jail Term for Ex-Malaysian Leader Najib Razak in Corruption Scandal",
+        "summary": "Najib Razak, the former prime minister already serving a sentence linked to the looting of the 1MDB fund, was found guilty of corruption in a related case."
+      },
+      {
+        "char": "🕊️",
+        "label": "israel recognizes somaliland",
+        "url": "https://www.theguardian.com/world/2025/dec/26/israel-first-country-to-recognise-somaliland-sovereign-state",
+        "title": "Israel becomes first country to recognise Somaliland as sovereign state",
+        "summary": "Diplomatic breakthrough criticised by African Union, which said it could have ‘far-reaching implications for peace and stability across the continent’ Israel has become the first country to recognise Somaliland as a sovereign state, a br..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
