@@ -39,5 +39,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concern",
+    "emoji": "😔",
+    "rationale": "Today's news highlights significant political turmoil and human suffering, from Myanmar's sham elections to the tragic consequences of negligence in Hong Kong. These issues create a heavy atmosphere of concern for global stability and human",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
