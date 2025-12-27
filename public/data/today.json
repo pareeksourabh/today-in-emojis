@@ -1,64 +1,43 @@
 {
-  "date": "2025-12-26",
-  "timestamp": "2025-12-26T16:11:26Z",
+  "date": "2025-12-27",
+  "timestamp": "2025-12-27T01:01:49Z",
   "emojis": [
     {
-      "char": "💻",
-      "label": "nvidia licenses groq technology",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdm1kUWhFYWVWWnVpM2dKQ0JHNFIyb0tteHpqZkxURTdXaFNST1lRcVJhdWZPYlRZYWJiVlIxRmx2Y2pYb3pIWHp5LXRUd2s5eWppUnp4dXdVN0RSRkUxSHhUMUM4UW5LYmZDT2xMekFCR0J0Yld0dU9vZGNHSkswODZtck1DSW56WF9qQUF1SG9RdHRHOURkU0R4ZGFUdl9HOEgxaVhOUExFdw?oc=5",
-      "title": "Nvidia, joining Big Tech deal spree, to license Groq technology, hire executives - Reuters",
-      "summary": "Nvidia, joining Big Tech deal spree, to license Groq technology, hire executives Reuters"
-    },
-    {
       "char": "🏛️",
-      "label": "najib razak jailed for corruption",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUMwWUtUQmFUYU5DdDRBd2d1R0RwdDFHY0VCc3JfazVXMjloMXNEcVRBX0FWNXB4Rm1hQ2c2WFUzb3BOeFBOaHlhQkxHaGo4UFRKeVpwZndLY1Q3OWVNeHZtMVJyVkEwY1BVXzAtX29QZWh3cjVYRTJJZ205TkJxRFIzdk5vOHRiS2ZEZ2ppWG9wLV9qN2R0QzBHT2lsX0JGckJRX3ljMXBJZktVTE1ETGU3MDM3ek52ZEFTRkNoS3B5VDNFQ3g2ZnRR?oc=5",
-      "title": "Malaysia ex-PM Najib Razak jailed for 15 more years in 1MDB saga's biggest trial - Reuters",
-      "summary": "Malaysia ex-PM Najib Razak jailed for 15 more years in 1MDB saga's biggest trial Reuters"
+      "label": "ex-malaysia pm najib jailed",
+      "url": "https://www.bbc.com/news/articles/crk7y27vp1eo?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-Malaysia PM Najib Razak given 15-year jail term over state funds scandal",
+      "summary": "Najib was convicted for his role in the billion-dollar scandal involving the country's sovereign wealth fund 1MDB."
     },
     {
-      "char": "🍽️",
-      "label": "gazan girl's fight against hunger",
-      "url": "https://www.nytimes.com/2025/12/26/world/middleeast/hoda-gaza-malnutrition-israel.html",
-      "title": "One Gazan Girl’s Fight to Survive Extreme Hunger",
-      "summary": "After Israel sealed Gaza’s borders, Hoda Abu al-Naja, 12, who suffered from celiac disease, spent months seeking the food and care she needed to combat malnutrition."
+      "char": "🏂",
+      "label": "canadian snowboarder turned drug lord",
+      "url": "https://www.nytimes.com/2025/12/26/world/canada/ryan-wedding-olympic-snowboarder-drug-lord.html",
+      "title": "How Ryan Wedding, a Canadian Olympic Snowboarder, Turned into a Drug Lord",
+      "summary": "Ryan Wedding rose to fame as a Canadian Olympic athlete, but the authorities say he became one of the world’s biggest drug lords, who ordered an informant executed."
+    },
+    {
+      "char": "⚔️",
+      "label": "trump's claims on nigeria strikes",
+      "url": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
+      "title": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
+      "summary": "President Trump said the targets of airstrikes in Nigeria were Islamic State terrorists responsible for killing Christians, but experts question his framing."
     },
     {
       "char": "💥",
-      "label": "syria mosque blast kills 6",
-      "url": "https://www.nytimes.com/2025/12/26/world/middleeast/syria-homs-mosque-explosion.html",
-      "title": "6 Killed in Syria Mosque Blast, Government Says",
-      "summary": "Ansar al-Sunna, which experts say appears to be an ISIS splinter group, claimed responsibility for the explosion, which happened when worshipers were attending the mosque for Friday Prayer."
+      "label": "syria mosque blast kills eight",
+      "url": "https://www.bbc.com/news/articles/cx25387dj8no?at_medium=RSS&at_campaign=rss",
+      "title": "Blast at Syrian mosque during Friday prayers leaves at least eight dead",
+      "summary": "The explosion in Homs targeted a predominantly Alawite area, a sect that has faced crackdowns and violence since the fall of former-President Bashar al-Assad."
     },
     {
-      "char": "🌳",
-      "label": "tropical forest co-investment success",
-      "url": "https://www.theguardian.com/environment/2025/dec/25/they-are-scared-of-us-now-how-one-tropical-forest-turned-the-tide-on-loggers",
-      "title": "‘They’re scared of us now’: how co-investment in a tropical forest saw off loggers",
-      "summary": "Low-cost tech and joined-up funding have reduced illegal logging, mining and poaching in the Darién Gap – it’s a success story that could stop deforestation worldwide There are no roads through the Darién Gap. This vast impenetrable fore..."
+      "char": "🇮🇱",
+      "label": "israel recognizes somaliland",
+      "url": "https://www.bbc.com/news/articles/c4g417md05go?at_medium=RSS&at_campaign=rss",
+      "title": "Israel recognises Somaliland as independent state, Netanyahu says",
+      "summary": "The decision has been condemned by Somalia, Egypt, Turkey and Djibouti, who call it a dangerous precedent."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "The day's news reveals a mix of hardship and struggle, particularly in the stories of malnutrition in Gaza and violence in Syria, evoking a sense of sadness and concern for those affected.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
