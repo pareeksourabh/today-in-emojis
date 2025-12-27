@@ -11307,5 +11307,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-27",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "myanmar military election issues",
+        "url": "https://www.bbc.com/news/articles/cwyxller1j5o?at_medium=RSS&at_campaign=rss",
+        "title": "'We will vote but not with our hearts': Inside the election staged by Myanmar's military rulers",
+        "summary": "This is the first election since the army's coup in early 2021 - and it is being widely condemned as a sham."
+      },
+      {
+        "char": "🔥",
+        "label": "hong kong apartment fire investigation",
+        "url": "https://www.nytimes.com/2025/12/26/world/asia/hong-kong-apartment-fire-corruption.html",
+        "title": "What Went Wrong Before Hong Kong’s Inferno",
+        "summary": "Records show how government departments played down residents’ warnings about corrupt practices and substandard materials that fueled the deadly blaze."
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukraine soldier on the front line",
+        "url": "https://www.nytimes.com/2025/12/27/world/europe/ukraine-russia-frontline.html",
+        "title": "This Ukrainian Soldier Spent More Than a Year on the Front Line",
+        "summary": "Serhii Tyschenko, a Ukrainian combat medic, spent 472 days in a bunker. His case appears to be an extreme example of a problem that has long plagued Kyiv’s military."
+      },
+      {
+        "char": "💰",
+        "label": "wall street near record highs",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxZjBka05ETnBzUHMwLVdaWERCTmtvUkRZZm1VcUMzNmNER2s0TFVXaGx5OVNqMzA0SWlHZS1Da1FhY2ZvOFNtbzl6U2ItNWlLWms5c2NfWFlyZ0UzVFJ0QjBXTlduWWY4dWJsZjItellqNnVkSGdLVXZQbw?oc=5",
+        "title": "Wall Street closes near record highs; precious metals rise - Reuters",
+        "summary": "Wall Street closes near record highs; precious metals rise Reuters"
+      },
+      {
+        "char": "🗺️",
+        "label": "israel recognizes somaliland",
+        "url": "https://www.theguardian.com/world/2025/dec/26/israel-first-country-to-recognise-somaliland-sovereign-state",
+        "title": "Israel becomes first country to recognise Somaliland as sovereign state",
+        "summary": "Diplomatic breakthrough criticised by African Union, which said it could have ‘far-reaching implications for peace and stability across the continent’ Israel has become the first country to recognise Somaliland as a sovereign state, a br..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
