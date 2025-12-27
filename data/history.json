@@ -11263,5 +11263,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-27",
+    "emojis": [
+      {
+        "char": "🤖",
+        "label": "china drafts ai regulation rules",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3RsSUFkWDFUWFE2SnFseDE0bHhtR1ptOG5UT0hwNEExSmNjWWw2NnJ5bF9ubU5FODJWQW14VXJpZWJVN0lZelNXYVk4ZWxqaUNweklObDVhZ3dYMGUtUDgydGNIRFVWa045R19XakVJLW1XTS1YcVFZMzdIZnFZZXdmRWZqMGRad0tKRThhaFBHM2xHaWMwN0NuM2EtQ05GdkZINmxQT1V2RjZkMVpZNWFBNXNEZTFyTVU4RQ?oc=5",
+        "title": "China issues drafts rules to regulate AI with human-like interaction - Reuters",
+        "summary": "China issues drafts rules to regulate AI with human-like interaction Reuters"
+      },
+      {
+        "char": "🗳️",
+        "label": "myanmar election called fake",
+        "url": "https://www.nytimes.com/2025/12/27/world/asia/myanmar-election-democracy-junta.html",
+        "title": "In Myanmar, the Election Is Called Fake, but the Human Suffering Is Real",
+        "summary": "A coup set off a brutal civil war and made a poor country poorer. Now its military rulers are seeking a veneer of legitimacy by holding elections."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "venezuela blockade and suffering",
+        "url": "https://www.nytimes.com/2025/12/27/world/americas/venezuela-blockade-1903-us.html",
+        "title": "A Dancing Dictator and Bankers in Chains: The Other Venezuela Blockade",
+        "summary": "A crisis more than a century ago involved U.S. aims to assert military supremacy, a hard-partying dictator and frictions among the great powers."
+      },
+      {
+        "char": "🍽️",
+        "label": "hoda's fight against hunger",
+        "url": "https://www.nytimes.com/2025/12/26/world/middleeast/hoda-gaza-malnutrition-israel.html",
+        "title": "One Gazan Girl’s Fight to Survive Extreme Hunger",
+        "summary": "After Israel sealed Gaza’s borders, Hoda Abu al-Naja, 12, who suffered from celiac disease, spent months seeking the food and care she needed to combat malnutrition."
+      },
+      {
+        "char": "❄️",
+        "label": "winter storm disrupts us travel",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd09qZFdKODl4anY5Ti1oVDhzejBaeW9wSHFzQVZrWkoyU2ZNVXZKMnhFTF96aDlrb09YT0FFRlVGcHdfMGV6X21TcWdIc2ZTby1iR1VNZVFNNHRCdzBUOURVZmNtX3ZGX3NGRGZQZ2k0TU53S2sydGhLRV9oWnBBaER6S1lNdG8wMDFyekgyeFZ6S2g0UVVJNU9TQzBHb01xS1NTREVfcjc2cEdPVlhfazhreWQ3NXFfdDV3?oc=5",
+        "title": "Winter storm bears down on U.S. Northeast, disrupting airline travel - Reuters",
+        "summary": "Winter storm bears down on U.S. Northeast, disrupting airline travel Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
