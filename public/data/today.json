@@ -1,64 +1,43 @@
 {
-  "date": "2025-12-27",
-  "timestamp": "2025-12-27T16:10:44Z",
+  "date": "2025-12-28",
+  "timestamp": "2025-12-28T01:11:18Z",
   "emojis": [
     {
-      "char": "🗳️",
-      "label": "myanmar military election issues",
-      "url": "https://www.bbc.com/news/articles/cwyxller1j5o?at_medium=RSS&at_campaign=rss",
-      "title": "'We will vote but not with our hearts': Inside the election staged by Myanmar's military rulers",
-      "summary": "This is the first election since the army's coup in early 2021 - and it is being widely condemned as a sham."
-    },
-    {
-      "char": "🔥",
-      "label": "hong kong apartment fire investigation",
-      "url": "https://www.nytimes.com/2025/12/26/world/asia/hong-kong-apartment-fire-corruption.html",
-      "title": "What Went Wrong Before Hong Kong’s Inferno",
-      "summary": "Records show how government departments played down residents’ warnings about corrupt practices and substandard materials that fueled the deadly blaze."
-    },
-    {
-      "char": "🇺🇦",
-      "label": "ukraine soldier on the front line",
-      "url": "https://www.nytimes.com/2025/12/27/world/europe/ukraine-russia-frontline.html",
-      "title": "This Ukrainian Soldier Spent More Than a Year on the Front Line",
-      "summary": "Serhii Tyschenko, a Ukrainian combat medic, spent 472 days in a bunker. His case appears to be an extreme example of a problem that has long plagued Kyiv’s military."
-    },
-    {
-      "char": "💰",
-      "label": "wall street near record highs",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxZjBka05ETnBzUHMwLVdaWERCTmtvUkRZZm1VcUMzNmNER2s0TFVXaGx5OVNqMzA0SWlHZS1Da1FhY2ZvOFNtbzl6U2ItNWlLWms5c2NfWFlyZ0UzVFJ0QjBXTlduWWY4dWJsZjItellqNnVkSGdLVXZQbw?oc=5",
-      "title": "Wall Street closes near record highs; precious metals rise - Reuters",
-      "summary": "Wall Street closes near record highs; precious metals rise Reuters"
-    },
-    {
-      "char": "🗺️",
+      "char": "🇮🇱",
       "label": "israel recognizes somaliland",
-      "url": "https://www.theguardian.com/world/2025/dec/26/israel-first-country-to-recognise-somaliland-sovereign-state",
-      "title": "Israel becomes first country to recognise Somaliland as sovereign state",
-      "summary": "Diplomatic breakthrough criticised by African Union, which said it could have ‘far-reaching implications for peace and stability across the continent’ Israel has become the first country to recognise Somaliland as a sovereign state, a br..."
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXZnRVVrc0xuV0ZfOFBhdUx6RE9Ia2U1dGlvOXdlY1R0YWs1NXpXdDVNRXplRDRFX1NEdUZoSHlLdHJFSS1XTzItSjZEbVYwOWtQOHRMVUNVZkthaGsySGQxVGx3TnVua01IeVpxV2FRSmNtV19WRmhXSHYxZ2FIeGFxeENkQnZJNTYzZkpTb0M3TGtldVNmZnFvZk5aaG9WUk54dFJDSDVlbmpHajRabGNrU0JudlhpNUtfRjViSDN0UUU?oc=5",
+      "title": "Israel becomes first country to formally recognise Somaliland as independent state - Reuters",
+      "summary": "Israel becomes first country to formally recognise Somaliland as independent state Reuters"
+    },
+    {
+      "char": "🚄",
+      "label": "california drops trump rail lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGVXOFVQMzRNbFFBX3RNZW01clh3bEhNYm9mWG1HeDVKRFU4VkZVTjRpdVpSWnhrUl8yNE5QSUplM2t2N25SMTA5UDI1T1k3X2tvRUlWUDVfSDBHcm5GNFBoR19wM1NDQUtoYk5oNHdrMFQ4NTBreERrS2F6bEM4LVRSdFcwT3VWNWlULUFZdWJhOUFfNGRlTlNyRGsyZkIyTEFEb1BFakxhbE04LS0wU1U3bzRqYkpYSFdTYlBpWQ?oc=5",
+      "title": "California drops lawsuit over Trump decision to pull $4 billion in high-speed rail funds - Reuters",
+      "summary": "California drops lawsuit over Trump decision to pull $4 billion in high-speed rail funds Reuters"
+    },
+    {
+      "char": "🗳️",
+      "label": "alaa abd el-fattah arrives in uk",
+      "url": "https://www.theguardian.com/world/2025/dec/26/british-egyptian-activist-alaa-abd-el-fattah-arrives-in-uk-after-travel-ban-lifted",
+      "title": "British-Egyptian activist Alaa Abd el-Fattah arrives in UK after travel ban lifted",
+      "summary": "Family say campaigner, who has a son in Brighton, will be able to travel freely between UK and Cairo months after his release from Egyptian jail The British-Egyptian dissident Alaa Abd el-Fattah has arrived in London after the Egyptian g..."
+    },
+    {
+      "char": "💣",
+      "label": "russian strikes on ukraine intensify",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZl9pMVpYVmY2cUk1MXkxekRyZ0pqWWtVZjI1aE9jQ2ZBTFhmNEtFNkc5VngtNHI2ZW55aFRDX2FIOWZEOUo2NWJaX0NDZFVmLUJhcjVmUmhfbmdkdmU5X29zWVVzM0xiVV96WFIycEFvODBBT0FyTkZ6cE1md2UxMFNFZUJyR003TDZnLVZpelc4OUpfYk1NVWdkVHN1YTdnQjhtUlhCRUNpT2dVWlN4bmVnbWZfTFNK?oc=5",
+      "title": "Russian drones, missiles pound Ukraine ahead of Zelenskiy-Trump meeting - Reuters",
+      "summary": "Russian drones, missiles pound Ukraine ahead of Zelenskiy-Trump meeting Reuters"
+    },
+    {
+      "char": "🤝",
+      "label": "thailand-cambodia ceasefire reached",
+      "url": "https://www.bbc.com/news/articles/c0q5je8048xo?at_medium=RSS&at_campaign=rss",
+      "title": "Thailand-Cambodia ceasefire begins after weeks of deadly clashes",
+      "summary": "Almost one million people were displaced when hostilities resumed earlier this month after the first truce broke."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Concern",
-    "emoji": "😔",
-    "rationale": "Today's news highlights significant political turmoil and human suffering, from Myanmar's sham elections to the tragic consequences of negligence in Hong Kong. These issues create a heavy atmosphere of concern for global stability and human",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
