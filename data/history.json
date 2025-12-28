@@ -11527,5 +11527,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-28",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "guinea goes to polls for junta legitimacy",
+        "url": "https://www.nytimes.com/2025/12/28/world/africa/guinea-elections-junta-mining.html",
+        "title": "Guinea Goes to Polls as Ruling Junta Seeks Legitimacy",
+        "summary": "Whoever wins faces the daunting task of feeding the West African country’s poor and navigating the interests of global powers seeking critical minerals, analysts say."
+      },
+      {
+        "char": "🌨️",
+        "label": "deep freeze grips canada, warmest christmas us",
+        "url": "https://www.theguardian.com/world/2025/dec/26/weather-tracker-deep-freeze-canada-us-records-warmest-christmas",
+        "title": "Weather tracker: Deep freeze grips Canada as US records warmest Christmas",
+        "summary": "Temperatures plunge below -50C in the Yukon, while swaths of US experience springlike weather Northern Canada has been gripped by an intense and prolonged cold spell, with temperatures hovering between -20C and -40C for weeks. On Tuesday..."
+      },
+      {
+        "char": "🇭🇳",
+        "label": "trump-backed asfura declared president of hond",
+        "url": "https://www.theguardian.com/world/2025/dec/24/honduras-nasry-tito-asfura-declared-president-donald-trump-backed",
+        "title": "Trump-backed candidate Asfura declared new president of Honduras",
+        "summary": "Winning margin of 28,000 votes announced a month late but before review of all ‘inconsistent’ ballots was completed Donald Trump-backed candidate Nasry “Tito” Asfura has been declared the winner of Honduras’s presidential election after..."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela releases political prisoners",
+        "url": "https://www.theguardian.com/world/2025/dec/26/venezuela-political-prisoner-release",
+        "title": "Venezuela says it released 99 people detained for 2024 election protests",
+        "summary": "Government said the move was due to its ‘unrestricted respect for human rights’ in the face of US aggression Venezuela has said it has carried out its largest release of political prisoners this year, claiming to have freed 99 people det..."
+      },
+      {
+        "char": "🎬",
+        "label": "brigitte bardot, icon of french cinema, dies",
+        "url": "https://www.bbc.com/news/articles/cly92pr8qryo?at_medium=RSS&at_campaign=rss",
+        "title": "French cinema actress Brigitte Bardot dies aged 91",
+        "summary": "The actress was a symbol of sexual liberation in the 1950s but became increasingly controversial after making homophobic and racist slurs."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
