@@ -11395,5 +11395,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-28",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "us strikes against isis in nigeria",
+        "url": "https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss",
+        "title": "US launches strikes against Islamic State in Nigeria",
+        "summary": "Trump tells Politico he ordered the strikes as \"a Christmas present\" - contradicting a statement by Nigerian officials."
+      },
+      {
+        "char": "🇭🇳",
+        "label": "trump-backed candidate wins in honduras",
+        "url": "https://www.theguardian.com/world/2025/dec/24/honduras-nasry-tito-asfura-declared-president-donald-trump-backed",
+        "title": "Trump-backed candidate Asfura declared new president of Honduras",
+        "summary": "Winning margin of 28,000 votes announced a month late but before review of all ‘inconsistent’ ballots was completed Donald Trump-backed candidate Nasry “Tito” Asfura has been declared the winner of Honduras’s presidential election after..."
+      },
+      {
+        "char": "❄️",
+        "label": "deep freeze grips canada, warmest christmas in u",
+        "url": "https://www.theguardian.com/world/2025/dec/26/weather-tracker-deep-freeze-canada-us-records-warmest-christmas",
+        "title": "Weather tracker: Deep freeze grips Canada as US records warmest Christmas",
+        "summary": "Temperatures plunge below -50C in the Yukon, while swaths of US experience springlike weather Northern Canada has been gripped by an intense and prolonged cold spell, with temperatures hovering between -20C and -40C for weeks. On Tuesday..."
+      },
+      {
+        "char": "🤝",
+        "label": "thailand-cambodia ceasefire after clashes",
+        "url": "https://www.nytimes.com/2025/12/26/world/asia/thailand-cambodia-cease-fire-border-war.html",
+        "title": "Thailand and Cambodia Reach Cease-Fire in Brutal Border War",
+        "summary": "The 72-hour cease-fire could pave the way for an end to the fighting, which has killed dozens and displaced thousands over nearly three weeks."
+      },
+      {
+        "char": "🗳️",
+        "label": "myanmar election called fake, suffering real",
+        "url": "https://www.nytimes.com/2025/12/27/world/asia/myanmar-election-democracy-junta.html",
+        "title": "In Myanmar, the Election Is Called Fake, but the Human Suffering Is Real",
+        "summary": "A coup set off a brutal civil war and made a poor country poorer. Now its military rulers are seeking a veneer of legitimacy by holding elections."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
