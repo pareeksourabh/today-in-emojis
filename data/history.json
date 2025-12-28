@@ -11483,5 +11483,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-28",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "zelensky meets trump on peace talks",
+        "url": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky says Russia 'doesn't want peace', ahead of Florida meeting with Trump",
+        "summary": "The pair are expected to discuss territorial concessions and security guarantees during the negotiations."
+      },
+      {
+        "char": "🗳️",
+        "label": "guinea votes for new president",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdERVOURremhkbi1RS095S244Q3RuMnlGcTR5Z0V5R1FQSnhCWnNNbUQzaDNMbHJlV243R2lTbS1rM3hHSGJVT0VYdER0aElwOFUzZ3RfNDVKZnUyOHRVNEtrUEtFaVN1eFdZaS1CdUtGUkladW1lNGU0MnJlelFsendSdUQ0bkV1SlBral91ZlhEeWdBZWhIS2NTOUZ3VE9oZEtqOGR4cHZhQTUtazQ1SzF5OU5zUQ?oc=5",
+        "title": "Guinea votes in presidential election expected to cement Doumbouya's rule - Reuters",
+        "summary": "Guinea votes in presidential election expected to cement Doumbouya's rule Reuters"
+      },
+      {
+        "char": "❄️",
+        "label": "deep freeze grips canada and us",
+        "url": "https://www.theguardian.com/world/2025/dec/26/weather-tracker-deep-freeze-canada-us-records-warmest-christmas",
+        "title": "Weather tracker: Deep freeze grips Canada as US records warmest Christmas",
+        "summary": "Temperatures plunge below -50C in the Yukon, while swaths of US experience springlike weather Northern Canada has been gripped by an intense and prolonged cold spell, with temperatures hovering between -20C and -40C for weeks. On Tuesday..."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "venezuela releases political prisoners",
+        "url": "https://www.theguardian.com/world/2025/dec/26/venezuela-political-prisoner-release",
+        "title": "Venezuela says it released 99 people detained for 2024 election protests",
+        "summary": "Government said the move was due to its ‘unrestricted respect for human rights’ in the face of US aggression Venezuela has said it has carried out its largest release of political prisoners this year, claiming to have freed 99 people det..."
+      },
+      {
+        "char": "🗳️",
+        "label": "central african republic elections",
+        "url": "https://www.theguardian.com/world/2025/dec/28/central-african-republic-goes-to-polls-as-president-seeks-third-term",
+        "title": "Central African Republic goes to polls as president seeks third term",
+        "summary": "Opposition hopes to tap into frustrations of people living in country where conflict remains a daily reality Central African Republic goes to the polls on Sunday with the president, Faustin-Archange Touadéra, seeking a third term. As man..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
