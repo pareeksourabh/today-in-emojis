@@ -11703,5 +11703,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-29",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "zelensky and trump discuss peace",
+        "url": "https://www.nytimes.com/2025/12/29/world/europe/zelensky-trump-ukraine-peace-talks.html",
+        "title": "For Zelensky, Just Keeping Trump Talking About Ukraine Peace Deal Counts as a Win",
+        "summary": "Though discussions produced little tangible progress, President Volodymyr Zelensky of Ukraine at least avoided the type of setbacks that have blighted earlier meetings."
+      },
+      {
+        "char": "🏠",
+        "label": "syrians in turkey consider return",
+        "url": "https://www.bbc.com/news/articles/cd74pxvrp10o?at_medium=RSS&at_campaign=rss",
+        "title": "'There are many challenges': Syrians in Turkey consider return after fall of Assad",
+        "summary": "Syrians in Turkey are weighing up whether it is the right time to return to their homeland."
+      },
+      {
+        "char": "💰",
+        "label": "tax changes loom for us economy",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa05DRzF0bUJZdzhTclVNS1E3R2xHYktxVkRJUkVpSjFZQnlqSUx4QkVUakhyVXdPOUdHa3FLdTUzMjdCTS1zcGJnVGV2TUwtZVl4WnVqZ1U0VWhKUS1xZTc1aGcyUldRMm5uQmlQOUFMWVJoM2tKcFpDUUVBbTlDR3ZOUl9QeWQtbU1hcnNVblVscUtwdmc?oc=5",
+        "title": "Tax changes loom large for US economy in 2026 - Reuters",
+        "summary": "Tax changes loom large for US economy in 2026 Reuters"
+      },
+      {
+        "char": "⚡",
+        "label": "china stages military drills around taiwan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2s3TUlrMTNrV040MHM1V2g5M3dkeTJTMWtrRzFSZWV6NVdyZ1AxMGNfNzhQcldWNHdiY0xsY0s0TnJLOGQ2UEhtNUhxRzQ4Mi1ndWc2SDVUTms3X0lpZWpmdlRyZ1NHZ01Qb25ibFIwcXdvcVZhZS00UV9NLVAtUTNHLWxmZ3pBSzJqRy1nLWUwU2FKTElTdWppNXJRcW1Gd1VnVDgwTGoxMHl1elVVWVN6WQ?oc=5",
+        "title": "China stages record drills designed to encircle Taiwan - Reuters",
+        "summary": "China stages record drills designed to encircle Taiwan Reuters"
+      },
+      {
+        "char": "🗳️",
+        "label": "guinea goes to polls for elections",
+        "url": "https://www.nytimes.com/2025/12/28/world/africa/guinea-elections-junta-mining.html",
+        "title": "Guinea Goes to Polls as Ruling Junta Seeks Legitimacy",
+        "summary": "Whoever wins faces the daunting task of feeding the West African country’s poor and navigating the interests of global powers seeking critical minerals, analysts say."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
