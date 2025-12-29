@@ -11571,5 +11571,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-29",
+    "emojis": [
+      {
+        "char": "🇮🇹",
+        "label": "nine arrested in italy for hamas funding",
+        "url": "https://www.bbc.com/news/articles/cqxq59np394o?at_medium=RSS&at_campaign=rss",
+        "title": "Nine arrested in Italy for allegedly raising millions for Hamas",
+        "summary": "Police say the suspects raised around €7m (£6m) for the militant group over more than two years."
+      },
+      {
+        "char": "✈️",
+        "label": "families demand answers after plane crash",
+        "url": "https://www.nytimes.com/2025/12/28/world/asia/jeju-air-crash-investigation-anniversary.html",
+        "title": "Families Demand Answers a Year After Deadliest Plane Crash in South Korea",
+        "summary": "Many details of the Jeju Air disaster that killed 179 people remain unclear despite multiple investigations by officials and protests by the victims’ families."
+      },
+      {
+        "char": "🌳",
+        "label": "tropical forest co-investment success",
+        "url": "https://www.theguardian.com/environment/2025/dec/25/they-are-scared-of-us-now-how-one-tropical-forest-turned-the-tide-on-loggers",
+        "title": "‘They’re scared of us now’: how co-investment in a tropical forest saw off loggers",
+        "summary": "Low-cost tech and joined-up funding have reduced illegal logging, mining and poaching in the Darién Gap – it’s a success story that could stop deforestation worldwide There are no roads through the Darién Gap. This vast impenetrable fore..."
+      },
+      {
+        "char": "🎬",
+        "label": "brigitte bardot dies at age 91",
+        "url": "https://www.bbc.com/news/articles/cly92pr8qryo?at_medium=RSS&at_campaign=rss",
+        "title": "French cinema actress Brigitte Bardot dies aged 91",
+        "summary": "The actress was a symbol of sexual liberation in the 1950s but became increasingly controversial after making homophobic and racist slurs."
+      },
+      {
+        "char": "🗳️",
+        "label": "central african republic elections",
+        "url": "https://www.theguardian.com/world/2025/dec/28/central-african-republic-goes-to-polls-as-president-seeks-third-term",
+        "title": "Central African Republic goes to polls as president seeks third term",
+        "summary": "Opposition hopes to tap into frustrations of people living in country where conflict remains a daily reality Central African Republic goes to the polls on Sunday with the president, Faustin-Archange Touadéra, seeking a third term. As man..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
