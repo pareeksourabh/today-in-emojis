@@ -11747,5 +11747,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-29",
+    "emojis": [
+      {
+        "char": "🏋️‍♂",
+        "label": "anthony joshua injured in crash",
+        "url": "https://www.theguardian.com/sport/2025/dec/29/anthony-joshua-injured-car-crash-nigeria",
+        "title": "Anthony Joshua injured in car crash in Nigeria that killed two people",
+        "summary": "British former boxing champion sustained minor injuries Two people killed in collision, say police in Ogun State British heavyweight boxer Anthony Joshua was injured in a car crash in Nigeria on Monday morning that killed two people, loc..."
+      },
+      {
+        "char": "❄️",
+        "label": "deep freeze grips canada",
+        "url": "https://www.theguardian.com/world/2025/dec/26/weather-tracker-deep-freeze-canada-us-records-warmest-christmas",
+        "title": "Weather tracker: Deep freeze grips Canada as US records warmest Christmas",
+        "summary": "Temperatures plunge below -50C in the Yukon, while swaths of US experience springlike weather Northern Canada has been gripped by an intense and prolonged cold spell, with temperatures hovering between -20C and -40C for weeks. On Tuesday..."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "bolsonaro treated for hiccups",
+        "url": "https://www.theguardian.com/world/2025/dec/29/brazil-ex-president-jair-bolsonaro-hiccups-treatment",
+        "title": "Brazilian ex-president Bolsonaro treated for persistent hiccups",
+        "summary": "Doctors say they blocked his right phrenic nerve in procedure that took place after jailed former president was hospitalised last week for hernia operation Brazil’s former president Jair Bolsonaro underwent “a phrenic nerve block procedu..."
+      },
+      {
+        "char": "🌍",
+        "label": "trump meets netanyahu in florida",
+        "url": "https://www.bbc.com/news/articles/cwypyq9dvggo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump to meet Netanyahu in Florida as focus turns to Middle East issues",
+        "summary": "They are set to discuss Iran, Lebanon, Syria and Gaza, where the Trump administration wants to see the ceasefire enter its second stage in January."
+      },
+      {
+        "char": "🌳",
+        "label": "tropical forest fights off loggers",
+        "url": "https://www.theguardian.com/environment/2025/dec/25/they-are-scared-of-us-now-how-one-tropical-forest-turned-the-tide-on-loggers",
+        "title": "‘They’re scared of us now’: how co-investment in a tropical forest saw off loggers",
+        "summary": "Low-cost tech and joined-up funding have reduced illegal logging, mining and poaching in the Darién Gap – it’s a success story that could stop deforestation worldwide There are no roads through the Darién Gap. This vast impenetrable fore..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
