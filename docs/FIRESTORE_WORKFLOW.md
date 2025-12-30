@@ -8,7 +8,7 @@ This workflow allows you to post pre-curated editions from Google Cloud Firestor
 
 ### 1. Setup GCP & Firestore
 
-**Create a service account with Firestore read access:**
+**A. Create a service account with Firestore read access:**
 
 ```bash
 # In Google Cloud Console:
@@ -17,6 +17,52 @@ This workflow allows you to post pre-curated editions from Google Cloud Firestor
 3. Grant role: "Cloud Datastore Viewer" or "Cloud Datastore User"
 4. Create a JSON key
 5. Download the JSON key file
+```
+
+**B. Create required Firestore composite index:**
+
+The workflow query requires a composite index. You have two options:
+
+**Option 1: Create via error link (easiest)**
+1. Run the workflow once (it will fail with an index error)
+2. Copy the index creation URL from the error message
+3. Click the URL to open Firebase Console
+4. Click "Create Index" button
+5. Wait 2-5 minutes for index to build
+6. Re-run the workflow
+
+**Option 2: Create manually**
+1. Go to [Firebase Console](https://console.firebase.google.com/)
+2. Select your project
+3. Go to Firestore Database → Indexes tab
+4. Click "Create Index"
+5. Configure:
+   - Collection ID: `editions` (or your collection name)
+   - Fields to index:
+     - `post_type` → Ascending
+     - `timestamp` → Descending
+   - Query scope: Collection
+6. Click "Create"
+7. Wait for index to build (status: "Building" → "Enabled")
+
+**Option 3: Use Firebase CLI**
+```bash
+# Create firestore.indexes.json
+{
+  "indexes": [
+    {
+      "collectionGroup": "editions",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "post_type", "order": "ASCENDING" },
+        { "fieldPath": "timestamp", "order": "DESCENDING" }
+      ]
+    }
+  ]
+}
+
+# Deploy index
+firebase deploy --only firestore:indexes
 ```
 
 **Store the JSON key in GitHub Secrets:**
@@ -263,6 +309,30 @@ cat public/data/today.json
 | **Use Case** | Daily automation | Special posts, emergencies |
 
 ## Troubleshooting
+
+### "Firestore query failed: 400 The query requires an index"
+
+**Cause:** Missing composite index for the query (post_type + timestamp)
+
+**Fix (Easiest):**
+1. The error message contains a direct link to create the index
+2. Copy the URL from the error (looks like: `https://console.firebase.google.com/v1/r/project/.../firestore/indexes?create_composite=...`)
+3. Open the URL in your browser
+4. Click "Create Index" button
+5. Wait 2-5 minutes for the index to build (status will show "Building" then "Enabled")
+6. Re-run the workflow
+
+**Alternative Fix (Manual):**
+1. Go to [Firebase Console](https://console.firebase.google.com/)
+2. Select your project → Firestore Database → Indexes
+3. Click "Create Index"
+4. Set:
+   - Collection: Your collection name (e.g., "editions")
+   - Field 1: `post_type` (Ascending)
+   - Field 2: `timestamp` (Descending)
+5. Click "Create" and wait for it to build
+
+**Note:** This is a **one-time setup**. Once the index is created, the workflow will work indefinitely.
 
 ### "Firestore query failed: 403 Permission Denied"
 

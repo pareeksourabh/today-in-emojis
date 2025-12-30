@@ -244,7 +244,13 @@ If you have pre-curated editions stored in Google Cloud Firestore, you can use t
    - `GCP_PROJECT_ID` — Your Google Cloud project ID
    - `FIRESTORE_COLLECTION` — Firestore collection name (e.g., "editions")
 
-2. **Firestore data structure** — Each document should have:
+2. **Create Firestore composite index** (one-time):
+   - The workflow will fail with an index creation link on first run
+   - Click the link, then "Create Index" button
+   - Wait 2-5 minutes for index to build
+   - Or manually create index on: `post_type` (Ascending) + `timestamp` (Descending)
+
+3. **Firestore data structure** — Each document should have:
    ```json
    {
      "date": "2025-12-30",
@@ -262,7 +268,7 @@ If you have pre-curated editions stored in Google Cloud Firestore, you can use t
    }
    ```
 
-3. **Run the workflow:**
+4. **Run the workflow:**
    - Go to Actions → "Manual Firestore Update & Instagram Post"
    - Click "Run workflow"
    - Choose whether to skip Instagram posting (for testing)
