@@ -1,43 +1,43 @@
 {
   "date": "2025-12-30",
-  "timestamp": "2025-12-30T15:49:05.654Z",
+  "timestamp": "2025-12-30T16:12:21Z",
   "emojis": [
     {
-      "summary": "Diplomatic breakthrough criticised by African Union, which said it could have ‘far-reaching implications for peace and stability across the continent’ Israel has become the first country to recognise Somaliland as a sovereign state, a br...",
-      "char": "🇸🇴",
-      "url": "https://www.theguardian.com/world/2025/dec/26/israel-first-country-to-recognise-somaliland-sovereign-state",
-      "title": "Israel becomes first country to recognise Somaliland as sovereign state",
-      "label": "israel recognises somaliland"
+      "char": "🇨🇳",
+      "label": "china encircles taiwan in military display",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmtCYk90Qlhld3dZZGNtRVFsbE9aTm5RMlY2NzI1MndKa1RoRTNmRlRveWdZUzYyQllQY2FNYXBKWmk5d3BQU2ZJd3ozZEpWLUtIc2Jnc21Kem5Odk9VNUljeFZ5YklqNmVRWUNlMGtlRU81UTVQeW9yZU9kb1pXc0hCdm81WGRZaGpwVy1ubE5FNFQ2SWdwT0UyaGJCUllXd25KX0xaOE1yNTFTMmFhN0xldXEwVFJVSXZ5SHZLUQ?oc=5",
+      "title": "China encircles Taiwan in massive military display - Reuters",
+      "summary": "China encircles Taiwan in massive military display Reuters"
     },
     {
-      "summary": "Yonaguni, a tiny Japanese island near Taiwan, is getting soldiers, radar and missiles. As China’s dispute with Tokyo escalates, some residents are worried.",
-      "char": "🇯🇵",
-      "url": "https://www.nytimes.com/2025/12/30/world/asia/japan-china-island-yonaguni.html",
-      "title": "Yonaguni, the Japanese Island on the Front Lines of China’s Feud with Japan",
-      "label": "china-japan island tensions"
+      "char": "🕊️",
+      "label": "trump hopes for quick gaza ceasefire",
+      "url": "https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump hopes to reach phase two of Gaza ceasefire 'very quickly'",
+      "summary": "The US president also warns Hamas will have \"hell to pay\" if it does not disarm, after talks with Netanyahu."
     },
     {
-      "summary": "Trump alleged that US forces hit ‘very hard’ in what would mark his team’s first land strike on Venezuela if confirmed Donald Trump has claimed that US forces struck a “big facility” in Venezuela last week – but the president did not spe...",
-      "char": "🇻🇪",
-      "url": "https://www.theguardian.com/us-news/2025/dec/29/trump-venezuela-facility-strike",
-      "title": "US struck ‘big facility’ in Venezuela, Trump claimed without offering details",
-      "label": "us strikes facility in venezuela"
+      "char": "📉",
+      "label": "us stocks close below record highs",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRzBzRW1TcWdOd3BwNUo1QVJHcjZ5M1llYzlfaERPWV8wTER2WHlpUHh4UVRtNFdpbElIcnkwRWFxbFlMUms5ci1HZjZkVkdiV0VSTGZyOF9OSXA4ekFSQ0NOOThEQkNDOWxVVnR6cldCS1EyVDBDeVZyaFBQcVdIV3Q1OA?oc=5",
+      "title": "U.S. stocks close below record highs, world indexes set for double-digit 2025 gains - Reuters",
+      "summary": "U.S. stocks close below record highs, world indexes set for double-digit 2025 gains Reuters"
     },
     {
-      "summary": "The high-speed train service connecting Britain and continental Europe was paralyzed on Tuesday during one of the busiest travel weeks of the year.",
       "char": "🚆",
-      "url": "https://www.nytimes.com/2025/12/30/world/europe/eurostar-canceled-channel-tunnel-london-paris.html",
-      "title": "Eurostar Cancels All Trains After Power Failure in Channel Tunnel",
-      "label": "eurostar cancels all trains"
+      "label": "train derailment in mexico kills 13",
+      "url": "https://www.theguardian.com/world/2025/dec/29/mexico-train-derailment-oaxaca",
+      "title": "At least 13 people killed and 98 injured in train derailment in Mexico",
+      "summary": "Train accident in Oaxaca is likely to raise criticisms about public works projects from the previous administration At least 13 people were killed when a train derailed in the Mexican state of Oaxaca, in an accident which is likely to re..."
     },
     {
-      "summary": "Detty December means a month of “back to back to back” partying in Nigeria’s megacity, both for locals and visiting members of the diaspora. Bring your stamina, dancing shoes and wads of cash.",
-      "char": "🎉",
-      "url": "https://www.nytimes.com/2025/12/30/world/africa/detty-december-lagos-nigeria.html",
-      "title": "In Lagos, December Is Time to Get Down and ‘Detty’",
-      "label": "detty december in lagos"
+      "char": "🎨",
+      "label": "fresco restoration painter dies at 94",
+      "url": "https://www.nytimes.com/2025/12/30/world/europe/spain-jesus-fresco-restoration-painter-gimenez-dead.html",
+      "title": "Spanish Woman Scorned, Then Loved, for Botched Fresco Restoration Dies at 94",
+      "summary": "Cecilia Giménez’s repainting of an image of Jesus in 2012 was widely mocked online. But tourists flocked to see her work, reviving her struggling hometown."
     }
   ],
-  "source": "firestore-manual",
+  "source": "ai-openai",
   "post_type": "normal"
 }
