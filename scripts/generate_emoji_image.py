@@ -52,6 +52,17 @@ ESSENCE_EMOJI_FONT_SIZE = 320
 ESSENCE_DATE_FONT_SIZE = 36
 ESSENCE_DATE_TOP_PADDING = 70
 
+# Detail image design constants (for carousel detail slides)
+DETAIL_BG_COLOR = (245, 243, 238)      # Same as normal background
+DETAIL_CARD_COLOR = (255, 255, 255)    # White card
+DETAIL_BORDER_COLOR = (220, 216, 208)  # Subtle border
+DETAIL_TEXT_COLOR = (60, 60, 60)       # Dark gray text
+DETAIL_EMOJI_SIZE = 200                # Larger emoji for single display
+DETAIL_LABEL_SIZE = 48                 # Label text size
+DETAIL_DATE_SIZE = 32                  # Smaller date size
+DETAIL_CARD_RADIUS = 60                # Same rounded corners
+DETAIL_PADDING = 80                    # Same padding
+
 
 def load_emoji_data(path=INPUT_FILE):
     """Load today's emoji data from JSON file."""
@@ -230,6 +241,119 @@ let dateAttributes: [NSAttributedString.Key: Any] = [
 let dateSize = dateText.size(withAttributes: dateAttributes)
 let dateX = ({SIZE} - dateSize.width) / 2
 let dateY = {SIZE} - CGFloat({ESSENCE_DATE_TOP_PADDING}) - dateSize.height
+dateText.draw(at: NSPoint(x: dateX, y: dateY), withAttributes: dateAttributes)
+
+image.unlockFocus()
+
+if let tiffData = image.tiffRepresentation,
+   let bitmapRep = NSBitmapImageRep(data: tiffData),
+   let pngData = bitmapRep.representation(using: .png, properties: [:]) {{
+    try? pngData.write(to: URL(fileURLWithPath: "{output_path}"))
+    print("Success")
+}}
+'''
+
+    try:
+        with tempfile.NamedTemporaryFile(mode='w', suffix='.swift', delete=False) as f:
+            f.write(swift_code)
+            swift_path = f.name
+
+        result = subprocess.run(
+            ['swift', swift_path],
+            capture_output=True,
+            text=True
+        )
+
+        os.unlink(swift_path)
+
+        if result.returncode == 0 and os.path.exists(output_path):
+            return True
+        else:
+            if result.stderr:
+                print(f"[info] Swift error: {result.stderr}", file=sys.stderr)
+            return False
+
+    except Exception as e:
+        print(f"[info] Swift rendering failed: {e}", file=sys.stderr)
+        return False
+
+
+def generate_detail_with_swift(emoji_char, label_text, date_str, output_path):
+    """Generate detail image (single emoji + label) using Swift/AppKit."""
+
+    formatted_date = format_date(date_str)
+    # Capitalize label
+    label_text = label_text.strip()
+    if label_text:
+        label_text = label_text[0].upper() + label_text[1:]
+
+    # Card dimensions
+    card_x = DETAIL_PADDING
+    card_y = DETAIL_PADDING
+    card_w = SIZE - 2 * DETAIL_PADDING
+    card_h = SIZE - 2 * DETAIL_PADDING
+
+    # Convert RGB tuples to normalized values
+    bg_r, bg_g, bg_b = DETAIL_BG_COLOR[0]/255, DETAIL_BG_COLOR[1]/255, DETAIL_BG_COLOR[2]/255
+    border_r, border_g, border_b = DETAIL_BORDER_COLOR[0]/255, DETAIL_BORDER_COLOR[1]/255, DETAIL_BORDER_COLOR[2]/255
+    text_r, text_g, text_b = DETAIL_TEXT_COLOR[0]/255, DETAIL_TEXT_COLOR[1]/255, DETAIL_TEXT_COLOR[2]/255
+
+    swift_code = f'''
+import Cocoa
+
+let size = NSSize(width: {SIZE}, height: {SIZE})
+let image = NSImage(size: size)
+
+image.lockFocus()
+
+// Background
+NSColor(calibratedRed: {bg_r}, green: {bg_g}, blue: {bg_b}, alpha: 1.0).setFill()
+NSRect(origin: .zero, size: size).fill()
+
+// Card with rounded corners
+let cardRect = NSRect(x: {card_x}, y: {card_y}, width: {card_w}, height: {card_h})
+let cardPath = NSBezierPath(roundedRect: cardRect, xRadius: {DETAIL_CARD_RADIUS}, yRadius: {DETAIL_CARD_RADIUS})
+
+NSColor.white.setFill()
+cardPath.fill()
+
+NSColor(calibratedRed: {border_r}, green: {border_g}, blue: {border_b}, alpha: 1.0).setStroke()
+cardPath.lineWidth = {CARD_BORDER_WIDTH}
+cardPath.stroke()
+
+// Emoji (centered)
+let emojiText = "{emoji_char}"
+let emojiFont = NSFont.systemFont(ofSize: {DETAIL_EMOJI_SIZE})
+let emojiAttributes: [NSAttributedString.Key: Any] = [
+    .font: emojiFont
+]
+let emojiSize = emojiText.size(withAttributes: emojiAttributes)
+let emojiX = ({SIZE} - emojiSize.width) / 2
+let emojiY = ({SIZE} - emojiSize.height) / 2 + 40
+emojiText.draw(at: NSPoint(x: emojiX, y: emojiY), withAttributes: emojiAttributes)
+
+// Label (below emoji)
+let labelText = "{label_text}"
+let labelFont = NSFont.systemFont(ofSize: {DETAIL_LABEL_SIZE}, weight: .medium)
+let labelAttributes: [NSAttributedString.Key: Any] = [
+    .font: labelFont,
+    .foregroundColor: NSColor(calibratedRed: {text_r}, green: {text_g}, blue: {text_b}, alpha: 1.0)
+]
+let labelSize = labelText.size(withAttributes: labelAttributes)
+let labelX = ({SIZE} - labelSize.width) / 2
+let labelY = emojiY - 80
+labelText.draw(at: NSPoint(x: labelX, y: labelY), withAttributes: labelAttributes)
+
+// Date (top-right of card)
+let dateText = "{formatted_date}"
+let dateFont = NSFont.systemFont(ofSize: {DETAIL_DATE_SIZE}, weight: .regular)
+let dateAttributes: [NSAttributedString.Key: Any] = [
+    .font: dateFont,
+    .foregroundColor: NSColor(calibratedRed: {text_r}, green: {text_g}, blue: {text_b}, alpha: 0.6)
+]
+let dateSize = dateText.size(withAttributes: dateAttributes)
+let dateX = {SIZE} - {DETAIL_PADDING} - dateSize.width - 20
+let dateY = {SIZE} - {DETAIL_PADDING} - 50
 dateText.draw(at: NSPoint(x: dateX, y: dateY), withAttributes: dateAttributes)
 
 image.unlockFocus()
@@ -568,6 +692,104 @@ def generate_essence_with_playwright(emoji_char, date_str, output_path):
         return False
 
 
+def generate_detail_with_playwright(emoji_char, label_text, date_str, output_path):
+    """Generate detail image (single emoji + label) using Playwright."""
+
+    formatted_date = format_date(date_str)
+    # Capitalize label
+    label_text = label_text.strip()
+    if label_text:
+        label_text = label_text[0].upper() + label_text[1:]
+
+    bg_hex = '#{:02x}{:02x}{:02x}'.format(*DETAIL_BG_COLOR)
+    card_hex = '#{:02x}{:02x}{:02x}'.format(*DETAIL_CARD_COLOR)
+    border_hex = '#{:02x}{:02x}{:02x}'.format(*DETAIL_BORDER_COLOR)
+    text_hex = '#{:02x}{:02x}{:02x}'.format(*DETAIL_TEXT_COLOR)
+
+    html_content = f'''<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        html, body {{
+            width: {SIZE}px;
+            height: {SIZE}px;
+            overflow: hidden;
+        }}
+        body {{
+            background: {bg_hex};
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        }}
+        .card {{
+            width: {SIZE - 2*DETAIL_PADDING}px;
+            height: {SIZE - 2*DETAIL_PADDING}px;
+            background: {card_hex};
+            border: {CARD_BORDER_WIDTH}px solid {border_hex};
+            border-radius: {DETAIL_CARD_RADIUS}px;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }}
+        .emoji {{
+            font-size: {DETAIL_EMOJI_SIZE}px;
+            line-height: 1;
+            font-family: 'Noto Color Emoji', 'Apple Color Emoji', 'Segoe UI Emoji', sans-serif;
+            margin-bottom: 30px;
+        }}
+        .label {{
+            font-size: {DETAIL_LABEL_SIZE}px;
+            font-weight: 500;
+            color: {text_hex};
+            margin-top: 20px;
+        }}
+        .date {{
+            position: absolute;
+            top: 30px;
+            right: 30px;
+            font-size: {DETAIL_DATE_SIZE}px;
+            color: {text_hex};
+            opacity: 0.6;
+        }}
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="date">{formatted_date}</div>
+        <div class="emoji">{emoji_char}</div>
+        <div class="label">{label_text}</div>
+    </div>
+</body>
+</html>'''
+
+    try:
+        from playwright.sync_api import sync_playwright
+
+        with sync_playwright() as p:
+            browser = p.chromium.launch()
+            page = browser.new_page(viewport={'width': SIZE, 'height': SIZE})
+            page.set_content(html_content)
+            page.wait_for_timeout(100)
+            page.screenshot(path=output_path, full_page=False)
+            browser.close()
+
+        if os.path.exists(output_path) and os.path.getsize(output_path) > 1000:
+            return True
+        return False
+
+    except ImportError:
+        print("[info] Playwright not installed", file=sys.stderr)
+        return False
+    except Exception as e:
+        print(f"[info] Playwright rendering failed: {e}", file=sys.stderr)
+        return False
+
+
 def generate_with_pillow(emoji_chars, date_str, output_path):
     """Generate image using Pillow - fallback with limited emoji support."""
     from PIL import Image, ImageDraw, ImageFont
@@ -683,6 +905,35 @@ def generate_essence_with_pillow(emoji_char, date_str, output_path):
     return True
 
 
+def generate_detail_image(emoji_char, label_text, date_str, output_path):
+    """
+    Generate a detail image (single emoji + label) using available rendering method.
+    Returns True on success, False on failure.
+    """
+    success = False
+
+    # Method 1: Swift (macOS)
+    if sys.platform == 'darwin':
+        success = generate_detail_with_swift(emoji_char, label_text, date_str, output_path)
+        if success:
+            return True
+
+    # Method 2: Playwright (best cross-platform)
+    if not success:
+        success = generate_detail_with_playwright(emoji_char, label_text, date_str, output_path)
+        if success:
+            return True
+
+    # Method 3: Pillow fallback
+    # For simplicity, reuse essence rendering as fallback for detail images
+    # (shows just emoji without label, but ensures we have something)
+    if not success:
+        print(f"[warn] Using simplified fallback for detail image", file=sys.stderr)
+        success = generate_essence_with_pillow(emoji_char, date_str, output_path)
+
+    return success
+
+
 def main():
     parser = argparse.ArgumentParser(description='Generate emoji image for Instagram')
     parser.add_argument('--test', action='store_true',
@@ -691,6 +942,8 @@ def main():
                        help='Custom input JSON path')
     parser.add_argument('--output', type=str,
                        help='Custom output path')
+    parser.add_argument('--carousel', action='store_true',
+                       help='Generate carousel images (summary + 5 detail images)')
     args = parser.parse_args()
 
     # Load data
@@ -723,69 +976,137 @@ def main():
     # Prepare output path
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+    # Compute filename_base for all paths
+    timestamp = data.get('timestamp', '')
+    if timestamp:
+        filename_base = timestamp.replace(':', '').replace('T', '-').replace('Z', '')[:15]
+    else:
+        filename_base = date_str
+
     if args.output:
         output_path = args.output
     elif args.test:
         output_path = os.path.join(OUTPUT_DIR, "test.png")
+        filename_base = "test"  # Override for test mode
     else:
-        timestamp = data.get('timestamp', '')
-        if timestamp:
-            filename_base = timestamp.replace(':', '').replace('T', '-').replace('Z', '')[:15]
-        else:
-            filename_base = date_str
         output_path = os.path.join(OUTPUT_DIR, f"{filename_base}.png")
 
     print(f"[info] Output path: {output_path}")
 
+    # Determine if we should generate carousel images
+    generate_carousel = args.carousel or (post_type == 'normal' and not args.test)
+
     if post_type == 'essence':
         print("[info] Generating essence image (single large emoji)...")
+
+        # Try rendering methods for essence
+        success = False
+
+        if sys.platform == 'darwin':
+            print("[info] Trying Swift/AppKit rendering...")
+            success = generate_essence_with_swift(essence_emoji, date_str, output_path)
+            if success:
+                print("[success] Generated with Swift/AppKit")
+
+        if not success:
+            print("[info] Trying Playwright rendering...")
+            success = generate_essence_with_playwright(essence_emoji, date_str, output_path)
+            if success:
+                print("[success] Generated with Playwright")
+
+        if not success:
+            print("[info] Trying Pango/Cairo rendering...")
+            success = generate_essence_with_pango_cairo(essence_emoji, date_str, output_path)
+            if success:
+                print("[success] Generated with Pango/Cairo")
+
+        if not success:
+            print("[info] Trying Pillow rendering (fallback)...")
+            success = generate_essence_with_pillow(essence_emoji, date_str, output_path)
+            if success:
+                print("[warn] Generated with Pillow - emojis may not render correctly")
+
+        if not success:
+            print("[error] Failed to generate essence image", file=sys.stderr)
+            return 1
+
+    elif generate_carousel:
+        print("[info] Generating carousel images (summary + 5 detail images)...")
+
+        # Generate summary image (image 1)
+        print("[info] Generating summary image (1/6)...")
+        success = False
+
+        if sys.platform == 'darwin':
+            success = generate_with_swift(emoji_chars, date_str, output_path)
+        if not success:
+            success = generate_with_playwright(emoji_chars, date_str, output_path)
+        if not success:
+            success = generate_with_pango_cairo(emoji_chars, date_str, output_path)
+        if not success:
+            success = generate_with_pillow(emoji_chars, date_str, output_path)
+
+        if not success:
+            print("[error] Failed to generate summary image", file=sys.stderr)
+            return 1
+
+        print(f"[success] Summary image generated: {output_path}")
+
+        # Generate detail images (images 2-6)
+        for i, emoji in enumerate(emojis, 1):
+            emoji_char = emoji.get('char', '?')
+            label = emoji.get('label', '')
+
+            # Detail image path
+            detail_filename = filename_base + f"-detail-{i}.png"
+            detail_path = os.path.join(OUTPUT_DIR, detail_filename)
+
+            print(f"[info] Generating detail image {i+1}/6 ({emoji_char} - {label})...")
+
+            detail_success = generate_detail_image(emoji_char, label, date_str, detail_path)
+
+            if not detail_success:
+                print(f"[error] Failed to generate detail image {i}", file=sys.stderr)
+                return 1
+
+            print(f"[success] Detail image {i} generated: {detail_path}")
+
+        print(f"[success] Generated 6 carousel images for {timestamp}")
+
     else:
         print("[info] Generating normal image (5 emojis grid)...")
 
-    # Try rendering methods
-    success = False
+        success = False
 
-    # Method 1: Swift (macOS)
-    if sys.platform == 'darwin':
-        print("[info] Trying Swift/AppKit rendering...")
-        if post_type == 'essence':
-            success = generate_essence_with_swift(essence_emoji, date_str, output_path)
-        else:
+        if sys.platform == 'darwin':
+            print("[info] Trying Swift/AppKit rendering...")
             success = generate_with_swift(emoji_chars, date_str, output_path)
-        if success:
-            print("[success] Generated with Swift/AppKit")
+            if success:
+                print("[success] Generated with Swift/AppKit")
 
-    # Method 2: Playwright (Linux - best emoji support)
-    if not success:
-        print("[info] Trying Playwright rendering...")
-        if post_type == 'essence':
-            success = generate_essence_with_playwright(essence_emoji, date_str, output_path)
-        else:
+        if not success:
+            print("[info] Trying Playwright rendering...")
             success = generate_with_playwright(emoji_chars, date_str, output_path)
-        if success:
-            print("[success] Generated with Playwright")
+            if success:
+                print("[success] Generated with Playwright")
 
-    # Method 3: Pango/Cairo with ImageMagick (Linux)
-    if not success:
-        print("[info] Trying Pango/Cairo rendering...")
-        if post_type == 'essence':
-            success = generate_essence_with_pango_cairo(essence_emoji, date_str, output_path)
-        else:
+        if not success:
+            print("[info] Trying Pango/Cairo rendering...")
             success = generate_with_pango_cairo(emoji_chars, date_str, output_path)
-        if success:
-            print("[success] Generated with Pango/Cairo")
+            if success:
+                print("[success] Generated with Pango/Cairo")
 
-    # Method 4: Pillow (fallback - limited emoji support)
-    if not success:
-        print("[info] Trying Pillow rendering (fallback)...")
-        if post_type == 'essence':
-            success = generate_essence_with_pillow(essence_emoji, date_str, output_path)
-        else:
+        if not success:
+            print("[info] Trying Pillow rendering (fallback)...")
             success = generate_with_pillow(emoji_chars, date_str, output_path)
-        if success:
-            print("[warn] Generated with Pillow - emojis may not render correctly")
+            if success:
+                print("[warn] Generated with Pillow - emojis may not render correctly")
 
-    if success and os.path.exists(output_path):
+        if not success:
+            print("[error] Failed to generate image", file=sys.stderr)
+            return 1
+
+    if os.path.exists(output_path):
         file_size = os.path.getsize(output_path)
         print(f"[success] Image saved: {output_path} ({file_size} bytes)")
 

@@ -72,6 +72,15 @@ Each emoji is **clickable** — hover to see the headline, click to read the ful
   - `reaction_click` — Daily sentiment (Like/Neutral/Dislike)
   - `footer_link_click` — Engagement with project info
 
+### 📸 Instagram Integration (Phase 9)
+- **Automated Posting** — Daily posts to Instagram via Graph API
+- **Carousel Posts** — Normal posts feature 6 slides:
+  - Slide 1: Summary image with all 5 emojis
+  - Slides 2-6: Detail images (one emoji + label per slide)
+- **Essence Posts** — Single large emoji capturing the day's emotional essence
+- **Smart Rendering** — Multi-fallback image generation (Swift, Playwright, Pango/Cairo, Pillow)
+- **Duplicate Prevention** — Tracks posted timestamps to avoid re-posting
+
 ### 🔒 Security
 - **Branch Protection** — Admin-only direct pushes
 - **Code Owners** — Automatic review requests
@@ -117,9 +126,36 @@ Each emoji is **clickable** — hover to see the headline, click to read the ful
 3. Headlines sent to OpenAI API with strict JSON schema
 4. AI selects 5 diverse stories and assigns emojis
 5. Script validates response and writes to public/data/today.json
-6. Commit triggers Pages deployment workflow
-7. Site rebuilds with new emojis (no approval needed)
-8. New emojis live within 2-3 minutes
+6. Generate Instagram carousel images (6 total):
+   - Summary image: All 5 emojis
+   - Detail images: One per emoji with label
+7. Commit images and data to GitHub
+8. Wait 180s for GitHub Pages to deploy images
+9. Post to Instagram as carousel (normal) or single image (essence)
+10. Site rebuilds with new emojis (no approval needed)
+11. New emojis live within 2-3 minutes
+```
+
+### Instagram Posting Workflow
+
+**Normal Posts (5x daily):**
+```
+1. Generate 6 carousel images (summary + 5 details)
+2. Upload all 6 to GitHub Pages
+3. Wait for deployment
+4. Create Instagram carousel container with 6 images
+5. Publish carousel post with caption
+6. Track timestamp to prevent duplicates
+```
+
+**Essence Posts (1x daily at 20:00 UTC):**
+```
+1. AI analyzes day's 5 emojis to select essence emoji
+2. Generate single large essence image
+3. Upload to GitHub Pages
+4. Create Instagram single-image post
+5. Publish with emotion-focused caption
+6. No duplicate tracking (always posts)
 ```
 
 ### AI Prompt (Simplified)
@@ -169,12 +205,30 @@ python3 scripts/update_emojis_ai.py
 cat public/data/today.json
 ```
 
+### Generate Instagram Images Locally
+
+```bash
+# Generate test carousel (summary + 5 detail images)
+python3 scripts/generate_emoji_image.py --test --carousel
+
+# Generate from existing data
+python3 scripts/generate_emoji_image.py
+
+# Output images saved to: public/images/daily/
+```
+
+**Carousel Image Structure:**
+- **Summary image:** `YYYY-MM-DD-HHMM.png` — All 5 emojis on a card
+- **Detail images:** `YYYY-MM-DD-HHMM-detail-{1-5}.png` — Individual emoji + label per slide
+
 ### Deploy Your Own
 
 1. **Fork this repo**
 2. **Add secrets** (Settings → Secrets and variables → Actions):
    - `OPENAI_API_KEY` — Your OpenAI API key
    - `PAT` — Personal Access Token (for auto-deployment)
+   - `INSTAGRAM_ACCESS_TOKEN` — Instagram Graph API access token
+   - `INSTAGRAM_BUSINESS_ACCOUNT_ID` — Instagram business account ID
 3. **Enable GitHub Pages** (Settings → Pages → Deploy from GitHub Actions)
 4. **Enable workflows** (Actions → Enable workflows)
 5. **Run manually** or wait for midnight UTC
@@ -196,10 +250,15 @@ today-in-emojis/
 ├── styles/
 │   └── globals.css         # Tailwind styles
 ├── scripts/
-│   └── update_emojis_ai.py # AI emoji generator
+│   ├── update_emojis_ai.py      # AI emoji generator
+│   ├── prepare_daily_post.py    # Post type preparation (normal/essence)
+│   ├── generate_emoji_image.py  # Image generation (carousel/single)
+│   └── post_to_instagram.py     # Instagram posting (carousel/single)
 ├── public/
-│   └── data/
-│       └── today.json      # Current emoji data (deployed)
+│   ├── data/
+│   │   └── today.json           # Current emoji data (deployed)
+│   └── images/
+│       └── daily/               # Generated Instagram images
 ├── data/
 │   ├── today.json          # Legacy path
 │   └── history.json        # Historical archive
@@ -263,7 +322,7 @@ This is a personal experiment, but contributions are welcome!
 
 For detailed development history, see [CHANGELOG.md](CHANGELOG.md).
 
-**Current Phase:** Phase 9 — Instagram Integration & Image Generation (WIP)
+**Current Phase:** Phase 9 — Instagram Integration & Image Generation (Complete)
 
 ### Phase Summary
 - **Phase 1-2:** Discovery & Design

@@ -112,6 +112,28 @@ def get_image_url(data):
 
     return image_url
 
+
+def get_carousel_image_urls(data):
+    """Get the public URLs for carousel images (summary + 5 detail images)."""
+    timestamp = data.get('timestamp', '')
+
+    if timestamp:
+        filename_base = timestamp.replace(':', '').replace('T', '-').replace('Z', '')[:15]
+    else:
+        filename_base = data.get('date', date.today().isoformat())
+
+    # Image URLs: summary + 5 detail images
+    image_urls = []
+
+    # First image: summary (existing template)
+    image_urls.append(f"{GITHUB_PAGES_BASE}/images/daily/{filename_base}.png")
+
+    # Detail images 2-6 (one per emoji)
+    for i in range(1, 6):
+        image_urls.append(f"{GITHUB_PAGES_BASE}/images/daily/{filename_base}-detail-{i}.png")
+
+    return image_urls
+
 def verify_image_accessible(image_url, max_attempts=10):
     """Verify the image URL is publicly accessible."""
     for attempt in range(max_attempts):
@@ -221,6 +243,82 @@ def create_media_container(account_id, access_token, image_url, caption):
     print(f"[success] Media container created: {container_id}")
     return container_id
 
+
+def create_carousel_item_container(account_id, access_token, image_url):
+    """Create a carousel item container (single image for carousel)."""
+    url = f"{GRAPH_API_BASE}/{account_id}/media"
+
+    params = {
+        'image_url': image_url,
+        'is_carousel_item': 'true',
+        'access_token': access_token
+    }
+
+    print(f"[info] Creating carousel item container for: {image_url}")
+
+    response = requests.post(url, params=params)
+
+    if response.status_code != 200:
+        print(f"[error] Failed to create carousel item: {response.status_code}", file=sys.stderr)
+        print(f"[error] Response: {response.text}", file=sys.stderr)
+        return None
+
+    data = response.json()
+    container_id = data.get('id')
+
+    if not container_id:
+        print(f"[error] No container ID in carousel item response: {data}", file=sys.stderr)
+        return None
+
+    print(f"[success] Carousel item container created: {container_id}")
+    return container_id
+
+
+def create_carousel_container(account_id, access_token, image_urls, caption):
+    """Create a carousel container with multiple images."""
+    print(f"[info] Creating carousel with {len(image_urls)} images...")
+
+    # Step 1: Create individual carousel item containers
+    item_container_ids = []
+    for i, image_url in enumerate(image_urls, 1):
+        print(f"[info] Creating carousel item {i}/{len(image_urls)}...")
+        container_id = create_carousel_item_container(account_id, access_token, image_url)
+        if not container_id:
+            print(f"[error] Failed to create carousel item {i}", file=sys.stderr)
+            return None
+        item_container_ids.append(container_id)
+        # Small delay between requests to avoid rate limiting
+        time.sleep(0.5)
+
+    # Step 2: Create the carousel container
+    url = f"{GRAPH_API_BASE}/{account_id}/media"
+
+    params = {
+        'media_type': 'CAROUSEL',
+        'children': ','.join(item_container_ids),
+        'caption': caption,
+        'access_token': access_token
+    }
+
+    print(f"[info] Creating carousel container with {len(item_container_ids)} items...")
+
+    response = requests.post(url, params=params)
+
+    if response.status_code != 200:
+        print(f"[error] Failed to create carousel container: {response.status_code}", file=sys.stderr)
+        print(f"[error] Response: {response.text}", file=sys.stderr)
+        return None
+
+    data = response.json()
+    carousel_container_id = data.get('id')
+
+    if not carousel_container_id:
+        print(f"[error] No carousel container ID in response: {data}", file=sys.stderr)
+        return None
+
+    print(f"[success] Carousel container created: {carousel_container_id}")
+    return carousel_container_id
+
 def check_container_status(account_id, access_token, container_id):
     """Check if the media container is ready for publishing."""
     url = f"{GRAPH_API_BASE}/{container_id}"
@@ -294,6 +392,56 @@ def publish_media(account_id, access_token, container_id):
     print(f"[success] Published to Instagram! Media ID: {media_id}")
     return media_id
 
+
+def post_images(account_id, access_token, image_urls, caption):
+    """
+    Post images to Instagram - supports both single image and carousel posts.
+
+    Args:
+        account_id: Instagram business account ID
+        access_token: Instagram access token
+        image_urls: List of image URLs (1 for single post, 2+ for carousel)
+        caption: Post caption
+
+    Returns:
+        Media ID on success, None on failure
+    """
+    if not isinstance(image_urls, list):
+        image_urls = [image_urls]
+
+    # Verify all images are accessible
+    print(f"[info] Verifying {len(image_urls)} image(s) are accessible...")
+    for i, image_url in enumerate(image_urls, 1):
+        print(f"[info] Verifying image {i}/{len(image_urls)}: {image_url}")
+        if not verify_image_accessible(image_url):
+            print(f"[error] Image {i} not accessible: {image_url}", file=sys.stderr)
+            return None
+
+    # Create container (single or carousel)
+    if len(image_urls) == 1:
+        print(f"[info] Posting single image...")
+        container_id = create_media_container(account_id, access_token, image_urls[0], caption)
+    else:
+        print(f"[info] Posting carousel with {len(image_urls)} images...")
+        container_id = create_carousel_container(account_id, access_token, image_urls, caption)
+
+    if not container_id:
+        print("[error] Failed to create container", file=sys.stderr)
+        return None
+
+    # Wait for container to be ready
+    if not check_container_status(account_id, access_token, container_id):
+        print("[error] Container not ready for publishing", file=sys.stderr)
+        return None
+
+    # Publish
+    media_id = publish_media(account_id, access_token, container_id)
+    if not media_id:
+        print("[error] Failed to publish to Instagram", file=sys.stderr)
+        return None
+
+    return media_id
+
 def main():
     print("[info] Starting Instagram post...")
     print(f"[info] Graph API version: {GRAPH_API_VERSION}")
@@ -319,36 +467,28 @@ def main():
     if post_type == 'essence':
         print(f"[info] Essence post - skipping duplicate check, will post regardless")
 
-    # Get image URL
-    image_url = get_image_url(data)
-    print(f"[info] Image URL: {image_url}")
+    # Get image URLs (single for essence, carousel for normal)
+    if post_type == 'essence':
+        # Essence: single image
+        image_urls = [get_image_url(data)]
+        print(f"[info] Essence post - single image")
+    else:
+        # Normal: carousel with 6 images (summary + 5 details)
+        image_urls = get_carousel_image_urls(data)
+        print(f"[info] Normal post - carousel with {len(image_urls)} images")
 
-    # Verify image is accessible
-    print(f"[info] Verifying image is accessible...")
-    if not verify_image_accessible(image_url):
-        print("[error] Image not accessible, cannot post to Instagram", file=sys.stderr)
-        sys.exit(1)
+    for i, url in enumerate(image_urls, 1):
+        print(f"[info] Image {i}: {url}")
 
     # Generate caption
     caption = generate_caption(data)
     print(f"[info] Caption generated ({len(caption)} chars)")
     print(f"[info] Caption preview: {caption[:100]}...")
 
-    # Create media container
-    container_id = create_media_container(account_id, access_token, image_url, caption)
-    if not container_id:
-        print("[error] Failed to create media container", file=sys.stderr)
-        sys.exit(1)
-
-    # Wait for container to be ready
-    if not check_container_status(account_id, access_token, container_id):
-        print("[error] Container not ready for publishing", file=sys.stderr)
-        sys.exit(1)
-
-    # Publish
-    media_id = publish_media(account_id, access_token, container_id)
+    # Post images using unified abstraction
+    media_id = post_images(account_id, access_token, image_urls, caption)
     if not media_id:
-        print("[error] Failed to publish to Instagram", file=sys.stderr)
+        print("[error] Failed to post to Instagram", file=sys.stderr)
         sys.exit(1)
 
     # Mark as posted to prevent duplicates (only for normal posts)
