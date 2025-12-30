@@ -1,0 +1,164 @@
+name: Manual Firestore Update & Instagram Post
+
+on:
+  workflow_dispatch:
+    inputs:
+      skip_instagram:
+        description: 'Skip Instagram posting (test mode)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+permissions:
+  contents: write
+
+jobs:
+  firestore-update-and-post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-color-emoji
+
+      - name: Install Python dependencies
+        run: |
+          pip install google-cloud-firestore pillow requests playwright
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Write GCP service account credentials
+        env:
+          GCP_SA_KEY_JSON: ${{ secrets.GCP_SA_KEY_JSON }}
+        run: |
+          echo "[info] Writing GCP service account credentials..."
+          echo "$GCP_SA_KEY_JSON" > ./gcp-sa.json
+          chmod 600 ./gcp-sa.json
+          echo "[success] Credentials file created"
+
+      - name: Fetch latest edition from Firestore
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ./gcp-sa.json
+          GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
+          FIRESTORE_COLLECTION: ${{ secrets.FIRESTORE_COLLECTION }}
+        run: |
+          echo "[info] Fetching latest normal edition from Firestore..."
+          python scripts/firestore_fetch_latest.py
+
+      - name: Update local JSON from Firestore data
+        run: |
+          echo "[info] Updating local JSON files..."
+          python scripts/update_local_json_from_firestore.py
+
+      - name: Prepare normal post
+        env:
+          POST_TYPE: normal
+        run: |
+          echo "[info] Preparing normal post..."
+          python scripts/prepare_daily_post.py
+
+      - name: Generate Instagram carousel images
+        run: |
+          echo "[info] Generating Instagram carousel images (summary + 5 details)..."
+          python scripts/generate_emoji_image.py
+
+      - name: Verify generated images
+        run: |
+          echo "[info] Verifying generated images..."
+          ls -lh public/images/daily/*.png | tail -10
+          echo "[success] Images generated"
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          echo "[info] Staging changes..."
+          git add public/data/today.json data/history.json public/images/daily/*.png || true
+
+          if git diff --staged --quiet; then
+            echo "[info] No changes to commit"
+          else
+            echo "[info] Committing changes..."
+            git commit -m "chore(auto): Firestore edition update $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            git push
+            echo "[success] Changes pushed to repository"
+          fi
+
+      - name: Wait for GitHub Pages deployment
+        if: inputs.skip_instagram != 'true'
+        run: |
+          echo "[info] Waiting 180 seconds for GitHub Pages to deploy images..."
+          echo "[info] Images must be publicly accessible for Instagram posting"
+          sleep 180
+          echo "[success] Wait complete"
+
+      - name: Pull latest changes before Instagram post
+        if: inputs.skip_instagram != 'true'
+        run: |
+          echo "[info] Pulling latest changes..."
+          git pull --rebase
+          echo "[success] Repository updated"
+
+      - name: Post to Instagram (Carousel)
+        if: inputs.skip_instagram != 'true'
+        env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_BUSINESS_ACCOUNT_ID: ${{ secrets.INSTAGRAM_BUSINESS_ACCOUNT_ID }}
+        run: |
+          echo "[info] Posting to Instagram..."
+          echo "[info] Post type: normal (6-image carousel)"
+          python scripts/post_to_instagram.py
+        continue-on-error: true
+
+      - name: Commit Instagram post log
+        if: always() && inputs.skip_instagram != 'true'
+        run: |
+          git add data/instagram_posted.json || true
+          if git diff --staged --quiet; then
+            echo "[info] No Instagram log changes"
+          else
+            git commit -m "chore(auto): Update Instagram post log" || true
+            git push || true
+            echo "[success] Instagram log updated"
+          fi
+
+      - name: Cleanup GCP credentials
+        if: always()
+        run: |
+          echo "[info] Cleaning up credentials..."
+          rm -f ./gcp-sa.json
+          echo "[success] Credentials removed"
+
+      - name: Summary
+        if: always()
+        run: |
+          echo ""
+          echo "============================================"
+          echo "  Manual Firestore Update & Post Complete"
+          echo "============================================"
+          echo ""
+          echo "Data source: Firestore (GCP)"
+          echo "Post type: Normal (6-image carousel)"
+          echo "Instagram posting: ${{ inputs.skip_instagram == 'true' && 'SKIPPED' || 'ATTEMPTED' }}"
+          echo ""
+          echo "Updated files:"
+          echo "  - public/data/today.json"
+          echo "  - data/history.json"
+          echo "  - public/images/daily/*.png"
+          echo ""
+          cat public/data/today.json | head -20 || echo "Cannot read today.json"
+          echo ""

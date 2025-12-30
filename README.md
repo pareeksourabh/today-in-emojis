@@ -233,6 +233,53 @@ python3 scripts/generate_emoji_image.py
 4. **Enable workflows** (Actions → Enable workflows)
 5. **Run manually** or wait for midnight UTC
 
+### Manual Firestore Workflow (Alternative Data Source)
+
+If you have pre-curated editions stored in Google Cloud Firestore, you can use the manual workflow to fetch and post them without calling Reuters or OpenAI.
+
+**Setup:**
+
+1. **Add GCP secrets** (Settings → Secrets and variables → Actions):
+   - `GCP_SA_KEY_JSON` — Full service account JSON with Firestore read access
+   - `GCP_PROJECT_ID` — Your Google Cloud project ID
+   - `FIRESTORE_COLLECTION` — Firestore collection name (e.g., "editions")
+
+2. **Firestore data structure** — Each document should have:
+   ```json
+   {
+     "date": "2025-12-30",
+     "timestamp": "2025-12-30T08:33:49Z",
+     "post_type": "normal",
+     "emojis": [
+       {
+         "char": "🌍",
+         "label": "description",
+         "url": "https://...",
+         "title": "Headline",
+         "summary": "Article summary"
+       }
+     ]
+   }
+   ```
+
+3. **Run the workflow:**
+   - Go to Actions → "Manual Firestore Update & Instagram Post"
+   - Click "Run workflow"
+   - Choose whether to skip Instagram posting (for testing)
+
+**What it does:**
+- Fetches latest "normal" edition from Firestore (by timestamp DESC)
+- Updates `public/data/today.json` with Firestore data
+- Generates 6-image carousel (summary + 5 detail images)
+- Posts to Instagram (unless skipped)
+- No calls to Reuters or OpenAI
+
+**Use cases:**
+- Manually curated content
+- Pre-approved editions
+- Testing with known data
+- Emergency posts when AI is unavailable
+
 ---
 
 ## Project Structure
@@ -250,10 +297,12 @@ today-in-emojis/
 ├── styles/
 │   └── globals.css         # Tailwind styles
 ├── scripts/
-│   ├── update_emojis_ai.py      # AI emoji generator
-│   ├── prepare_daily_post.py    # Post type preparation (normal/essence)
-│   ├── generate_emoji_image.py  # Image generation (carousel/single)
-│   └── post_to_instagram.py     # Instagram posting (carousel/single)
+│   ├── update_emojis_ai.py              # AI emoji generator (Reuters + OpenAI)
+│   ├── prepare_daily_post.py            # Post type preparation (normal/essence)
+│   ├── generate_emoji_image.py          # Image generation (carousel/single)
+│   ├── post_to_instagram.py             # Instagram posting (carousel/single)
+│   ├── firestore_fetch_latest.py        # Fetch editions from Firestore (manual workflow)
+│   └── update_local_json_from_firestore.py  # Update local JSON from Firestore data
 ├── public/
 │   ├── data/
 │   │   └── today.json           # Current emoji data (deployed)
@@ -264,8 +313,10 @@ today-in-emojis/
 │   └── history.json        # Historical archive
 ├── .github/
 │   ├── workflows/
-│   │   ├── daily-emoji.yml # Daily update automation
-│   │   └── pages.yml       # Deployment workflow
+│   │   ├── daily-emoji.yml                      # Daily update automation (AI)
+│   │   ├── daily-emoji-essence.yml              # Daily essence post
+│   │   ├── manual_firestore_update_and_post.yml # Manual Firestore workflow
+│   │   └── pages.yml                            # Deployment workflow
 │   └── CODEOWNERS          # Code review settings
 ├── docs/                    # Phase documentation
 │   ├── phase-1/ ... phase-8/
