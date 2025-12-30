@@ -1,64 +1,43 @@
 {
-  "date": "2025-12-29",
-  "timestamp": "2025-12-29T16:11:57Z",
+  "date": "2025-12-30",
+  "timestamp": "2025-12-30T01:03:58Z",
   "emojis": [
     {
-      "char": "🏋️‍♂",
-      "label": "anthony joshua injured in crash",
-      "url": "https://www.theguardian.com/sport/2025/dec/29/anthony-joshua-injured-car-crash-nigeria",
-      "title": "Anthony Joshua injured in car crash in Nigeria that killed two people",
-      "summary": "British former boxing champion sustained minor injuries Two people killed in collision, say police in Ogun State British heavyweight boxer Anthony Joshua was injured in a car crash in Nigeria on Monday morning that killed two people, loc..."
+      "char": "🇧🇷",
+      "label": "bolsonaro's hiccup treatment",
+      "url": "https://www.theguardian.com/world/2025/dec/29/brazil-ex-president-jair-bolsonaro-hiccups-treatment",
+      "title": "Jair Bolsonaro undergoes second procedure to treat persistent hiccups",
+      "summary": "Former Brazilian president underwent a phrenic nerve block while temporarily released from prison for surgery Jair Bolsonaro underwent a second “phrenic nerve block procedure” on Monday to treat persistent hiccups. The treatment went wel..."
+    },
+    {
+      "char": "💣",
+      "label": "isis attack in turkey",
+      "url": "https://www.nytimes.com/2025/12/29/world/middleeast/turkey-isis-raid.html",
+      "title": "ISIS Militants Kill 3 Police Officers in Turkey",
+      "summary": "A raid on a suspected safe house for the terrorist group Islamic State set off a clash that killed the police officers as well as six Turkish militants."
+    },
+    {
+      "char": "🗳️",
+      "label": "guinea's junta leader frontrunner",
+      "url": "https://www.theguardian.com/world/2025/dec/27/guinea-junta-leader-mamady-doumbouya-frontrunner-president-election",
+      "title": "Opposition anger as Guinea’s junta leader is frontrunner to be elected president",
+      "summary": "Mamady Doumbouya accused of betraying his promise to be the restorer of democracy after leading 2021 coup In September 2021, a tall, young colonel in the Guinean army announced that he and his comrades had forcibly seized power and toppl..."
     },
     {
       "char": "❄️",
-      "label": "deep freeze grips canada",
-      "url": "https://www.theguardian.com/world/2025/dec/26/weather-tracker-deep-freeze-canada-us-records-warmest-christmas",
-      "title": "Weather tracker: Deep freeze grips Canada as US records warmest Christmas",
-      "summary": "Temperatures plunge below -50C in the Yukon, while swaths of US experience springlike weather Northern Canada has been gripped by an intense and prolonged cold spell, with temperatures hovering between -20C and -40C for weeks. On Tuesday..."
+      "label": "winter storm ezra disrupts travel",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3dSQXIwbVhrUHAxNmZxMS1rbVNteE9lNmF2dThyQk5zaHBZOXFVdEx5Q3YtdmREcUdWVGpzLTdGQUdnZ2o0bUFwNXl5dGtDM3A2VHVjZWxrbTVMcVBtVF9FNEpITnlBempHU1lRUi04bVM3Rmh3cFJfZDItRkxhNUc4STllelItcUNEVW1QYjdwS3IzMmNEbmlHYUtNNzVCSE5lUU1IbFhkd0I1N1B4TVU5XzNhb1ZmMzBJUGxEMWVnZw?oc=5",
+      "title": "Winter Storm Ezra snarls US travel as meteorologists warn of 'bomb cyclone' - Reuters",
+      "summary": "Winter Storm Ezra snarls US travel as meteorologists warn of 'bomb cyclone' Reuters"
     },
     {
-      "char": "🇧🇷",
-      "label": "bolsonaro treated for hiccups",
-      "url": "https://www.theguardian.com/world/2025/dec/29/brazil-ex-president-jair-bolsonaro-hiccups-treatment",
-      "title": "Brazilian ex-president Bolsonaro treated for persistent hiccups",
-      "summary": "Doctors say they blocked his right phrenic nerve in procedure that took place after jailed former president was hospitalised last week for hernia operation Brazil’s former president Jair Bolsonaro underwent “a phrenic nerve block procedu..."
-    },
-    {
-      "char": "🌍",
-      "label": "trump meets netanyahu in florida",
-      "url": "https://www.bbc.com/news/articles/cwypyq9dvggo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump to meet Netanyahu in Florida as focus turns to Middle East issues",
-      "summary": "They are set to discuss Iran, Lebanon, Syria and Gaza, where the Trump administration wants to see the ceasefire enter its second stage in January."
-    },
-    {
-      "char": "🌳",
-      "label": "tropical forest fights off loggers",
-      "url": "https://www.theguardian.com/environment/2025/dec/25/they-are-scared-of-us-now-how-one-tropical-forest-turned-the-tide-on-loggers",
-      "title": "‘They’re scared of us now’: how co-investment in a tropical forest saw off loggers",
-      "summary": "Low-cost tech and joined-up funding have reduced illegal logging, mining and poaching in the Darién Gap – it’s a success story that could stop deforestation worldwide There are no roads through the Darién Gap. This vast impenetrable fore..."
+      "char": "🚆",
+      "label": "train derailment in mexico",
+      "url": "https://www.theguardian.com/world/2025/dec/29/mexico-train-derailment-oaxaca",
+      "title": "At least 13 people killed and 98 injured in train derailment in Mexico",
+      "summary": "Train accident in Oaxaca is likely to raise criticisms about public works projects from the previous administration At least 13 people were killed when a train derailed in the Mexican state of Oaxaca, in an accident which is likely to re..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "The day is marked by tragic news of a car crash that resulted in fatalities and severe weather conditions causing hardship in Canada, reflecting a somber atmosphere.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

@@ -11791,5 +11791,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-30",
+    "emojis": [
+      {
+        "char": "🇧🇷",
+        "label": "bolsonaro's hiccup treatment",
+        "url": "https://www.theguardian.com/world/2025/dec/29/brazil-ex-president-jair-bolsonaro-hiccups-treatment",
+        "title": "Jair Bolsonaro undergoes second procedure to treat persistent hiccups",
+        "summary": "Former Brazilian president underwent a phrenic nerve block while temporarily released from prison for surgery Jair Bolsonaro underwent a second “phrenic nerve block procedure” on Monday to treat persistent hiccups. The treatment went wel..."
+      },
+      {
+        "char": "💣",
+        "label": "isis attack in turkey",
+        "url": "https://www.nytimes.com/2025/12/29/world/middleeast/turkey-isis-raid.html",
+        "title": "ISIS Militants Kill 3 Police Officers in Turkey",
+        "summary": "A raid on a suspected safe house for the terrorist group Islamic State set off a clash that killed the police officers as well as six Turkish militants."
+      },
+      {
+        "char": "🗳️",
+        "label": "guinea's junta leader frontrunner",
+        "url": "https://www.theguardian.com/world/2025/dec/27/guinea-junta-leader-mamady-doumbouya-frontrunner-president-election",
+        "title": "Opposition anger as Guinea’s junta leader is frontrunner to be elected president",
+        "summary": "Mamady Doumbouya accused of betraying his promise to be the restorer of democracy after leading 2021 coup In September 2021, a tall, young colonel in the Guinean army announced that he and his comrades had forcibly seized power and toppl..."
+      },
+      {
+        "char": "❄️",
+        "label": "winter storm ezra disrupts travel",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3dSQXIwbVhrUHAxNmZxMS1rbVNteE9lNmF2dThyQk5zaHBZOXFVdEx5Q3YtdmREcUdWVGpzLTdGQUdnZ2o0bUFwNXl5dGtDM3A2VHVjZWxrbTVMcVBtVF9FNEpITnlBempHU1lRUi04bVM3Rmh3cFJfZDItRkxhNUc4STllelItcUNEVW1QYjdwS3IzMmNEbmlHYUtNNzVCSE5lUU1IbFhkd0I1N1B4TVU5XzNhb1ZmMzBJUGxEMWVnZw?oc=5",
+        "title": "Winter Storm Ezra snarls US travel as meteorologists warn of 'bomb cyclone' - Reuters",
+        "summary": "Winter Storm Ezra snarls US travel as meteorologists warn of 'bomb cyclone' Reuters"
+      },
+      {
+        "char": "🚆",
+        "label": "train derailment in mexico",
+        "url": "https://www.theguardian.com/world/2025/dec/29/mexico-train-derailment-oaxaca",
+        "title": "At least 13 people killed and 98 injured in train derailment in Mexico",
+        "summary": "Train accident in Oaxaca is likely to raise criticisms about public works projects from the previous administration At least 13 people were killed when a train derailed in the Mexican state of Oaxaca, in an accident which is likely to re..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
