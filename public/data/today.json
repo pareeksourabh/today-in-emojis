@@ -1,41 +1,41 @@
 {
   "date": "2025-12-30",
-  "timestamp": "2025-12-30T07:40:22Z",
+  "timestamp": "2025-12-30T08:33:49Z",
   "emojis": [
     {
-      "char": "🕊️",
-      "label": "zelensky and trump discuss peace",
-      "url": "https://www.nytimes.com/2025/12/29/world/europe/zelensky-trump-ukraine-peace-talks.html",
-      "title": "For Zelensky, Just Keeping Trump Talking About Ukraine Peace Deal Counts as a Win",
-      "summary": "Though discussions produced little tangible progress, President Volodymyr Zelensky of Ukraine at least avoided the type of setbacks that have blighted earlier meetings."
+      "char": "🇨🇳",
+      "label": "china military drills near taiwan",
+      "url": "https://www.nytimes.com/2025/12/29/world/asia/china-taiwan-military-exercises.html",
+      "title": "China Mobilizes Forces Near Taiwan for Live-Fire Drill",
+      "summary": "The exercises ended months of relative calm across the Taiwan Strait, and came after the Trump administration announced plans for arms sales to the island."
+    },
+    {
+      "char": "👩‍⚕️",
+      "label": "bangladesh's first female pm dies",
+      "url": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss",
+      "title": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
+      "summary": "For decades, Zia and ousted PM Sheikh Hasina were bitter rivals - and their feud defined Bangladesh's politics."
+    },
+    {
+      "char": "💼",
+      "label": "trump claims us hit venezuelan facility",
+      "url": "https://www.bbc.com/news/articles/cp8484p7ggmo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says US hit 'big facility' linked to alleged Venezuelan drug boats",
+      "summary": "The US president would not confirm US media reports that the explosion was caused by a CIA drone strike."
     },
     {
       "char": "🚨",
-      "label": "isis attack in turkey",
-      "url": "https://www.nytimes.com/2025/12/29/world/middleeast/turkey-isis-raid.html",
-      "title": "ISIS Militants Kill 3 Police Officers in Turkey",
-      "summary": "A raid on a suspected safe house for the terrorist group Islamic State set off a clash that killed the police officers as well as six Turkish militants."
+      "label": "train derailment in mexico kills 13",
+      "url": "https://www.theguardian.com/world/2025/dec/29/mexico-train-derailment-oaxaca",
+      "title": "At least 13 people killed and 98 injured in train derailment in Mexico",
+      "summary": "Train accident in Oaxaca is likely to raise criticisms about public works projects from the previous administration At least 13 people were killed when a train derailed in the Mexican state of Oaxaca, in an accident which is likely to re..."
     },
     {
-      "char": "🇮🇱",
-      "label": "netanyahu under pressure",
-      "url": "https://www.nytimes.com/2025/12/29/world/middleeast/israel-benjamin-netanyahu-decisions.html",
-      "title": "With Critical Decisions Ahead, Netanyahu Faces Mounting Pressure",
-      "summary": "Prime Minister Benjamin Netanyahu of Israel has a series of vexing choices to make in the year ahead on issues including Gaza, conscription and a judicial overhaul, with elections looming."
-    },
-    {
-      "char": "💰",
-      "label": "iran currency collapse protests",
-      "url": "https://www.nytimes.com/2025/12/29/world/middleeast/iran-currency-collapse-rial-inflation-protests.html",
-      "title": "Iran’s Currency Collapse Pushes Protesters to the Streets",
-      "summary": "High inflation and a currency collapse have squeezed Iranians’ budgets, challenging the country’s leaders."
-    },
-    {
-      "char": "🚑",
-      "label": "anthony joshua car crash",
-      "url": "https://www.bbc.com/news/articles/c8989e1wnj2o?at_medium=RSS&at_campaign=rss",
-      "title": "Anthony Joshua injured in Nigeria car crash that killed two team members",
-      "summary": "The British heavyweight boxer suffered minor injuries in the crash, which killed two team members and close friends."
+      "char": "🌍",
+      "label": "more than 3000 migrants died in 2025",
+      "url": "https://www.theguardian.com/world/2025/dec/29/more-than-3000-migrants-died-spain-figure-down",
+      "title": "More than 3,000 migrants died trying to reach Spain in 2025",
+      "summary": "Tighter border controls caused arrivals to decline sharply but forced people on to more dangerous routes, activists say More than 3,000 people died trying to reach Spain by sea over the past year, a sharp fall from the previous 12 months..."
     }
   ],
   "source": "ai-openai",
