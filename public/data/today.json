@@ -1,43 +1,43 @@
 {
   "date": "2025-12-30",
-  "timestamp": "2025-12-30T12:54:37Z",
+  "timestamp": "2025-12-30T15:49:05.654Z",
   "emojis": [
     {
-      "char": "❄️",
-      "label": "deep freeze in canada and warm us xmas",
-      "url": "https://www.theguardian.com/world/2025/dec/26/weather-tracker-deep-freeze-canada-us-records-warmest-christmas",
-      "title": "Weather tracker: Deep freeze grips Canada as US records warmest Christmas",
-      "summary": "Temperatures plunge below -50C in the Yukon, while swaths of US experience springlike weather Northern Canada has been gripped by an intense and prolonged cold spell, with temperatures hovering between -20C and -40C for weeks. On Tuesday..."
+      "summary": "Diplomatic breakthrough criticised by African Union, which said it could have ‘far-reaching implications for peace and stability across the continent’ Israel has become the first country to recognise Somaliland as a sovereign state, a br...",
+      "char": "🇸🇴",
+      "url": "https://www.theguardian.com/world/2025/dec/26/israel-first-country-to-recognise-somaliland-sovereign-state",
+      "title": "Israel becomes first country to recognise Somaliland as sovereign state",
+      "label": "israel recognises somaliland"
     },
     {
-      "char": "🚗",
-      "label": "anthony joshua's friends die in crash",
-      "url": "https://www.theguardian.com/sport/2025/dec/29/anthony-joshua-injured-car-crash-nigeria",
-      "title": "Anthony Joshua’s camp confirm two of his close friends died in Nigeria car crash",
-      "summary": "British former boxing champion sustained minor injuries Sina Ghami and Kevin ‘Lateef’ Ayodel killed in accident The British heavyweight boxer Anthony Joshua has issued a statement after he was injured in a car crash in Nigeria on Monday..."
+      "summary": "Yonaguni, a tiny Japanese island near Taiwan, is getting soldiers, radar and missiles. As China’s dispute with Tokyo escalates, some residents are worried.",
+      "char": "🇯🇵",
+      "url": "https://www.nytimes.com/2025/12/30/world/asia/japan-china-island-yonaguni.html",
+      "title": "Yonaguni, the Japanese Island on the Front Lines of China’s Feud with Japan",
+      "label": "china-japan island tensions"
     },
     {
+      "summary": "Trump alleged that US forces hit ‘very hard’ in what would mark his team’s first land strike on Venezuela if confirmed Donald Trump has claimed that US forces struck a “big facility” in Venezuela last week – but the president did not spe...",
+      "char": "🇻🇪",
+      "url": "https://www.theguardian.com/us-news/2025/dec/29/trump-venezuela-facility-strike",
+      "title": "US struck ‘big facility’ in Venezuela, Trump claimed without offering details",
+      "label": "us strikes facility in venezuela"
+    },
+    {
+      "summary": "The high-speed train service connecting Britain and continental Europe was paralyzed on Tuesday during one of the busiest travel weeks of the year.",
+      "char": "🚆",
+      "url": "https://www.nytimes.com/2025/12/30/world/europe/eurostar-canceled-channel-tunnel-london-paris.html",
+      "title": "Eurostar Cancels All Trains After Power Failure in Channel Tunnel",
+      "label": "eurostar cancels all trains"
+    },
+    {
+      "summary": "Detty December means a month of “back to back to back” partying in Nigeria’s megacity, both for locals and visiting members of the diaspora. Bring your stamina, dancing shoes and wads of cash.",
       "char": "🎉",
-      "label": "detty december in lagos, nigeria",
       "url": "https://www.nytimes.com/2025/12/30/world/africa/detty-december-lagos-nigeria.html",
       "title": "In Lagos, December Is Time to Get Down and ‘Detty’",
-      "summary": "Detty December means a month of “back to back to back” partying in Nigeria’s megacity, both for locals and visiting members of the diaspora. Bring your stamina, dancing shoes and wads of cash."
-    },
-    {
-      "char": "🚂",
-      "label": "train derailment in mexico kills 13",
-      "url": "https://www.theguardian.com/world/2025/dec/29/mexico-train-derailment-oaxaca",
-      "title": "At least 13 people killed and 98 injured in train derailment in Mexico",
-      "summary": "Train accident in Oaxaca is likely to raise criticisms about public works projects from the previous administration At least 13 people were killed when a train derailed in the Mexican state of Oaxaca, in an accident which is likely to re..."
-    },
-    {
-      "char": "🦈",
-      "label": "great white sharks face extinction",
-      "url": "https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss",
-      "title": "Great white sharks face extinction in Mediterranean, say researchers",
-      "summary": "Overfishing and illegal fishing are contributing to the loss of sharks, including great whites."
+      "label": "detty december in lagos"
     }
   ],
-  "source": "ai-openai",
+  "source": "firestore-manual",
   "post_type": "normal"
 }
