@@ -11879,5 +11879,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2025-12-30",
+    "emojis": [
+      {
+        "char": "📉",
+        "label": "us stocks drop ahead of new year",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWtPN1ZpOENVN0xFMERXdkRqX2dXQTRrVlBlVjNuQjRjc1NUcVhxLVN4YmFxM2ZERk5PejVDNllTM2JHWEFZekJlNFhKQWZSN0p4MVlteV84WVlJc2JlM2cyUDVueDI4RGMzWUJ1ZFhPX2tXMkNLR09DaWpTY0FFcThSTF9ycFRPemJXNGgzTmxCdl9XODdHVEd0d2k4RFBybmRQNTdHYXNnVm5tM3lscVBIdFA3N1QxN1E?oc=5",
+        "title": "US stocks end down as tech shares drop ahead of New Year - Reuters",
+        "summary": "US stocks end down as tech shares drop ahead of New Year Reuters"
+      },
+      {
+        "char": "🌨️",
+        "label": "deep freeze grips canada, warm us xmas",
+        "url": "https://www.theguardian.com/world/2025/dec/26/weather-tracker-deep-freeze-canada-us-records-warmest-christmas",
+        "title": "Weather tracker: Deep freeze grips Canada as US records warmest Christmas",
+        "summary": "Temperatures plunge below -50C in the Yukon, while swaths of US experience springlike weather Northern Canada has been gripped by an intense and prolonged cold spell, with temperatures hovering between -20C and -40C for weeks. On Tuesday..."
+      },
+      {
+        "char": "🇮🇱",
+        "label": "israel recognizes somaliland sovereignty",
+        "url": "https://www.theguardian.com/world/2025/dec/26/israel-first-country-to-recognise-somaliland-sovereign-state",
+        "title": "Israel becomes first country to recognise Somaliland as sovereign state",
+        "summary": "Diplomatic breakthrough criticised by African Union, which said it could have ‘far-reaching implications for peace and stability across the continent’ Israel has become the first country to recognise Somaliland as a sovereign state, a br..."
+      },
+      {
+        "char": "🗳️",
+        "label": "guinea junta leader frontrunner for president",
+        "url": "https://www.theguardian.com/world/2025/dec/27/guinea-junta-leader-mamady-doumbouya-frontrunner-president-election",
+        "title": "Opposition anger as Guinea’s junta leader is frontrunner to be elected president",
+        "summary": "Mamady Doumbouya accused of betraying his promise to be the restorer of democracy after leading 2021 coup In September 2021, a tall, young colonel in the Guinean army announced that he and his comrades had forcibly seized power and toppl..."
+      },
+      {
+        "char": "💰",
+        "label": "iran's currency collapse sparks protests",
+        "url": "https://www.nytimes.com/2025/12/29/world/middleeast/iran-currency-collapse-rial-inflation-protests.html",
+        "title": "Iran’s Currency Collapse Pushes Protesters to the Streets",
+        "summary": "High inflation and a currency collapse have squeezed Iranians’ budgets, challenging the country’s leaders."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
