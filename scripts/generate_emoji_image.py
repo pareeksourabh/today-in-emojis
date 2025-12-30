@@ -53,15 +53,11 @@ ESSENCE_DATE_FONT_SIZE = 36
 ESSENCE_DATE_TOP_PADDING = 70
 
 # Detail image design constants (for carousel detail slides)
-DETAIL_BG_COLOR = (245, 243, 238)      # Same as normal background
-DETAIL_CARD_COLOR = (255, 255, 255)    # White card
-DETAIL_BORDER_COLOR = (220, 216, 208)  # Subtle border
-DETAIL_TEXT_COLOR = (60, 60, 60)       # Dark gray text
-DETAIL_EMOJI_SIZE = 200                # Larger emoji for single display
-DETAIL_LABEL_SIZE = 48                 # Label text size
-DETAIL_DATE_SIZE = 32                  # Smaller date size
-DETAIL_CARD_RADIUS = 60                # Same rounded corners
-DETAIL_PADDING = 80                    # Same padding
+DETAIL_BG_COLOR = (255, 255, 255)      # Pure white background
+DETAIL_TEXT_COLOR = (40, 40, 40)       # Dark text for contrast
+DETAIL_EMOJI_SIZE = 240                # Large emoji for single display
+DETAIL_LABEL_SIZE = 36                 # Refined label text size
+DETAIL_PADDING = 120                   # Generous padding from edges
 
 
 def load_emoji_data(path=INPUT_FILE):
@@ -281,21 +277,13 @@ if let tiffData = image.tiffRepresentation,
 def generate_detail_with_swift(emoji_char, label_text, date_str, output_path):
     """Generate detail image (single emoji + label) using Swift/AppKit."""
 
-    formatted_date = format_date(date_str)
     # Capitalize label
     label_text = label_text.strip()
     if label_text:
         label_text = label_text[0].upper() + label_text[1:]
 
-    # Card dimensions
-    card_x = DETAIL_PADDING
-    card_y = DETAIL_PADDING
-    card_w = SIZE - 2 * DETAIL_PADDING
-    card_h = SIZE - 2 * DETAIL_PADDING
-
     # Convert RGB tuples to normalized values
     bg_r, bg_g, bg_b = DETAIL_BG_COLOR[0]/255, DETAIL_BG_COLOR[1]/255, DETAIL_BG_COLOR[2]/255
-    border_r, border_g, border_b = DETAIL_BORDER_COLOR[0]/255, DETAIL_BORDER_COLOR[1]/255, DETAIL_BORDER_COLOR[2]/255
     text_r, text_g, text_b = DETAIL_TEXT_COLOR[0]/255, DETAIL_TEXT_COLOR[1]/255, DETAIL_TEXT_COLOR[2]/255
 
     swift_code = f'''
@@ -306,22 +294,11 @@ let image = NSImage(size: size)
 
 image.lockFocus()
 
-// Background
+// Pure white background
 NSColor(calibratedRed: {bg_r}, green: {bg_g}, blue: {bg_b}, alpha: 1.0).setFill()
 NSRect(origin: .zero, size: size).fill()
 
-// Card with rounded corners
-let cardRect = NSRect(x: {card_x}, y: {card_y}, width: {card_w}, height: {card_h})
-let cardPath = NSBezierPath(roundedRect: cardRect, xRadius: {DETAIL_CARD_RADIUS}, yRadius: {DETAIL_CARD_RADIUS})
-
-NSColor.white.setFill()
-cardPath.fill()
-
-NSColor(calibratedRed: {border_r}, green: {border_g}, blue: {border_b}, alpha: 1.0).setStroke()
-cardPath.lineWidth = {CARD_BORDER_WIDTH}
-cardPath.stroke()
-
-// Emoji (centered)
+// Emoji (centered, slightly above middle)
 let emojiText = "{emoji_char}"
 let emojiFont = NSFont.systemFont(ofSize: {DETAIL_EMOJI_SIZE})
 let emojiAttributes: [NSAttributedString.Key: Any] = [
@@ -329,10 +306,10 @@ let emojiAttributes: [NSAttributedString.Key: Any] = [
 ]
 let emojiSize = emojiText.size(withAttributes: emojiAttributes)
 let emojiX = ({SIZE} - emojiSize.width) / 2
-let emojiY = ({SIZE} - emojiSize.height) / 2 + 40
+let emojiY = ({SIZE} - emojiSize.height) / 2 + 50
 emojiText.draw(at: NSPoint(x: emojiX, y: emojiY), withAttributes: emojiAttributes)
 
-// Label (below emoji)
+// Label (below emoji, refined typography)
 let labelText = "{label_text}"
 let labelFont = NSFont.systemFont(ofSize: {DETAIL_LABEL_SIZE}, weight: .medium)
 let labelAttributes: [NSAttributedString.Key: Any] = [
@@ -341,20 +318,8 @@ let labelAttributes: [NSAttributedString.Key: Any] = [
 ]
 let labelSize = labelText.size(withAttributes: labelAttributes)
 let labelX = ({SIZE} - labelSize.width) / 2
-let labelY = emojiY - 80
+let labelY = emojiY - 100
 labelText.draw(at: NSPoint(x: labelX, y: labelY), withAttributes: labelAttributes)
-
-// Date (top-right of card)
-let dateText = "{formatted_date}"
-let dateFont = NSFont.systemFont(ofSize: {DETAIL_DATE_SIZE}, weight: .regular)
-let dateAttributes: [NSAttributedString.Key: Any] = [
-    .font: dateFont,
-    .foregroundColor: NSColor(calibratedRed: {text_r}, green: {text_g}, blue: {text_b}, alpha: 0.6)
-]
-let dateSize = dateText.size(withAttributes: dateAttributes)
-let dateX = {SIZE} - {DETAIL_PADDING} - dateSize.width - 20
-let dateY = {SIZE} - {DETAIL_PADDING} - 50
-dateText.draw(at: NSPoint(x: dateX, y: dateY), withAttributes: dateAttributes)
 
 image.unlockFocus()
 
@@ -695,15 +660,12 @@ def generate_essence_with_playwright(emoji_char, date_str, output_path):
 def generate_detail_with_playwright(emoji_char, label_text, date_str, output_path):
     """Generate detail image (single emoji + label) using Playwright."""
 
-    formatted_date = format_date(date_str)
     # Capitalize label
     label_text = label_text.strip()
     if label_text:
         label_text = label_text[0].upper() + label_text[1:]
 
     bg_hex = '#{:02x}{:02x}{:02x}'.format(*DETAIL_BG_COLOR)
-    card_hex = '#{:02x}{:02x}{:02x}'.format(*DETAIL_CARD_COLOR)
-    border_hex = '#{:02x}{:02x}{:02x}'.format(*DETAIL_BORDER_COLOR)
     text_hex = '#{:02x}{:02x}{:02x}'.format(*DETAIL_TEXT_COLOR)
 
     html_content = f'''<!DOCTYPE html>
@@ -720,50 +682,30 @@ def generate_detail_with_playwright(emoji_char, label_text, date_str, output_pat
         body {{
             background: {bg_hex};
             display: flex;
-            justify-content: center;
-            align-items: center;
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-        }}
-        .card {{
-            width: {SIZE - 2*DETAIL_PADDING}px;
-            height: {SIZE - 2*DETAIL_PADDING}px;
-            background: {card_hex};
-            border: {CARD_BORDER_WIDTH}px solid {border_hex};
-            border-radius: {DETAIL_CARD_RADIUS}px;
-            position: relative;
-            display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif;
+            padding: {DETAIL_PADDING}px;
         }}
         .emoji {{
             font-size: {DETAIL_EMOJI_SIZE}px;
             line-height: 1;
             font-family: 'Noto Color Emoji', 'Apple Color Emoji', 'Segoe UI Emoji', sans-serif;
-            margin-bottom: 30px;
+            margin-bottom: 40px;
         }}
         .label {{
             font-size: {DETAIL_LABEL_SIZE}px;
             font-weight: 500;
             color: {text_hex};
-            margin-top: 20px;
-        }}
-        .date {{
-            position: absolute;
-            top: 30px;
-            right: 30px;
-            font-size: {DETAIL_DATE_SIZE}px;
-            color: {text_hex};
-            opacity: 0.6;
+            letter-spacing: 0.3px;
+            text-align: center;
         }}
     </style>
 </head>
 <body>
-    <div class="card">
-        <div class="date">{formatted_date}</div>
-        <div class="emoji">{emoji_char}</div>
-        <div class="label">{label_text}</div>
-    </div>
+    <div class="emoji">{emoji_char}</div>
+    <div class="label">{label_text}</div>
 </body>
 </html>'''
 
