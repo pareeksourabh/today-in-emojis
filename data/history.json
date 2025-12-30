@@ -12011,5 +12011,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-30",
+    "emojis": [
+      {
+        "char": "❄️",
+        "label": "deep freeze in canada and warm us xmas",
+        "url": "https://www.theguardian.com/world/2025/dec/26/weather-tracker-deep-freeze-canada-us-records-warmest-christmas",
+        "title": "Weather tracker: Deep freeze grips Canada as US records warmest Christmas",
+        "summary": "Temperatures plunge below -50C in the Yukon, while swaths of US experience springlike weather Northern Canada has been gripped by an intense and prolonged cold spell, with temperatures hovering between -20C and -40C for weeks. On Tuesday..."
+      },
+      {
+        "char": "🚗",
+        "label": "anthony joshua's friends die in crash",
+        "url": "https://www.theguardian.com/sport/2025/dec/29/anthony-joshua-injured-car-crash-nigeria",
+        "title": "Anthony Joshua’s camp confirm two of his close friends died in Nigeria car crash",
+        "summary": "British former boxing champion sustained minor injuries Sina Ghami and Kevin ‘Lateef’ Ayodel killed in accident The British heavyweight boxer Anthony Joshua has issued a statement after he was injured in a car crash in Nigeria on Monday..."
+      },
+      {
+        "char": "🎉",
+        "label": "detty december in lagos, nigeria",
+        "url": "https://www.nytimes.com/2025/12/30/world/africa/detty-december-lagos-nigeria.html",
+        "title": "In Lagos, December Is Time to Get Down and ‘Detty’",
+        "summary": "Detty December means a month of “back to back to back” partying in Nigeria’s megacity, both for locals and visiting members of the diaspora. Bring your stamina, dancing shoes and wads of cash."
+      },
+      {
+        "char": "🚂",
+        "label": "train derailment in mexico kills 13",
+        "url": "https://www.theguardian.com/world/2025/dec/29/mexico-train-derailment-oaxaca",
+        "title": "At least 13 people killed and 98 injured in train derailment in Mexico",
+        "summary": "Train accident in Oaxaca is likely to raise criticisms about public works projects from the previous administration At least 13 people were killed when a train derailed in the Mexican state of Oaxaca, in an accident which is likely to re..."
+      },
+      {
+        "char": "🦈",
+        "label": "great white sharks face extinction",
+        "url": "https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss",
+        "title": "Great white sharks face extinction in Mediterranean, say researchers",
+        "summary": "Overfishing and illegal fishing are contributing to the loss of sharks, including great whites."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
