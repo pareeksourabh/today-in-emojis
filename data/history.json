@@ -12143,5 +12143,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-31",
+    "emojis": [
+      {
+        "char": "🎭",
+        "label": "actor isiah whitlock jr dies",
+        "url": "https://www.bbc.com/news/articles/cwyw56687z3o?at_medium=RSS&at_campaign=rss",
+        "title": "Isiah Whitlock Jr: The Wire and Veep actor dies at 71",
+        "summary": "Whitlock was known for his notably elongated, profane catchphrase, which he used on The Wire and in films."
+      },
+      {
+        "char": "🌊",
+        "label": "3000 migrants died trying to reach spain",
+        "url": "https://www.theguardian.com/world/2025/dec/29/more-than-3000-migrants-died-spain-figure-down",
+        "title": "More than 3,000 migrants died trying to reach Spain in 2025",
+        "summary": "Tighter border controls caused arrivals to decline sharply but forced people on to more dangerous routes, activists say More than 3,000 people died trying to reach Spain by sea over the past year, a sharp fall from the previous 12 months..."
+      },
+      {
+        "char": "💰",
+        "label": "iran protests over currency crash",
+        "url": "https://www.nytimes.com/2025/12/30/world/middleeast/iran-protests-currency-inflation-universities.html",
+        "title": "Protests Over Iran’s Currency Crash and Inflation Spread to Universities",
+        "summary": "Iranian leaders face pressure over a currency collapse and threats of possible military strikes from Israel and the United States over Tehran’s nuclear activities."
+      },
+      {
+        "char": "⚔️",
+        "label": "tensions over yemen escalate",
+        "url": "https://www.theguardian.com/world/2025/dec/30/saudi-arabia-uae-tension-future-yemen-boiling-point",
+        "title": "Tensions between Saudis and Emiratis over future of Yemen reach boiling point",
+        "summary": "Dispute has potential to create civil war in south of Yemen and spill over into neighbouring countries Tensions between the United Arab Emirates and Saudi Arabia over the future of Yemen and the imminent possibility of the declaration of..."
+      },
+      {
+        "char": "🚗",
+        "label": "anthony joshua's friends die in crash",
+        "url": "https://www.theguardian.com/sport/2025/dec/29/anthony-joshua-injured-car-crash-nigeria",
+        "title": "Anthony Joshua’s camp confirm two of his close friends died in Nigeria car crash",
+        "summary": "British former boxing champion sustained minor injuries Sina Ghami and Kevin ‘Lateef’ Ayodel killed in accident The British heavyweight boxer Anthony Joshua has issued a statement after he was injured in a car crash in Nigeria on Monday..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
