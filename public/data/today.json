@@ -1,34 +1,13 @@
 {
   "date": "2025-12-31",
-  "timestamp": "2025-12-31T04:42:28Z",
+  "timestamp": "2025-12-31T08:33:42Z",
   "emojis": [
     {
-      "char": "🎭",
-      "label": "actor isiah whitlock jr dies",
-      "url": "https://www.bbc.com/news/articles/cwyw56687z3o?at_medium=RSS&at_campaign=rss",
-      "title": "Isiah Whitlock Jr: The Wire and Veep actor dies at 71",
-      "summary": "Whitlock was known for his notably elongated, profane catchphrase, which he used on The Wire and in films."
-    },
-    {
-      "char": "🌊",
-      "label": "3000 migrants died trying to reach spain",
-      "url": "https://www.theguardian.com/world/2025/dec/29/more-than-3000-migrants-died-spain-figure-down",
-      "title": "More than 3,000 migrants died trying to reach Spain in 2025",
-      "summary": "Tighter border controls caused arrivals to decline sharply but forced people on to more dangerous routes, activists say More than 3,000 people died trying to reach Spain by sea over the past year, a sharp fall from the previous 12 months..."
-    },
-    {
-      "char": "💰",
-      "label": "iran protests over currency crash",
-      "url": "https://www.nytimes.com/2025/12/30/world/middleeast/iran-protests-currency-inflation-universities.html",
-      "title": "Protests Over Iran’s Currency Crash and Inflation Spread to Universities",
-      "summary": "Iranian leaders face pressure over a currency collapse and threats of possible military strikes from Israel and the United States over Tehran’s nuclear activities."
-    },
-    {
-      "char": "⚔️",
-      "label": "tensions over yemen escalate",
-      "url": "https://www.theguardian.com/world/2025/dec/30/saudi-arabia-uae-tension-future-yemen-boiling-point",
-      "title": "Tensions between Saudis and Emiratis over future of Yemen reach boiling point",
-      "summary": "Dispute has potential to create civil war in south of Yemen and spill over into neighbouring countries Tensions between the United Arab Emirates and Saudi Arabia over the future of Yemen and the imminent possibility of the declaration of..."
+      "char": "🇺🇦",
+      "label": "russia-ukraine peace deal issues",
+      "url": "https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss",
+      "title": "The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal",
+      "summary": "Two of the main sticking points involve territory and the fate of Europe's biggest nuclear plant, which is currently occupied by Russia."
     },
     {
       "char": "🚗",
@@ -36,6 +15,27 @@
       "url": "https://www.theguardian.com/sport/2025/dec/29/anthony-joshua-injured-car-crash-nigeria",
       "title": "Anthony Joshua’s camp confirm two of his close friends died in Nigeria car crash",
       "summary": "British former boxing champion sustained minor injuries Sina Ghami and Kevin ‘Lateef’ Ayodel killed in accident The British heavyweight boxer Anthony Joshua has issued a statement after he was injured in a car crash in Nigeria on Monday..."
+    },
+    {
+      "char": "🚂",
+      "label": "machu picchu train crash news",
+      "url": "https://www.bbc.com/news/articles/cn9zl309dz8o?at_medium=RSS&at_campaign=rss",
+      "title": "Machu Picchu train crash leaves one dead and dozens injured",
+      "summary": "A train driver died and at least 40 people were injured in the crash on the single-track line to Machu Picchu."
+    },
+    {
+      "char": "🌍",
+      "label": "migrants die trying to reach spain",
+      "url": "https://www.theguardian.com/world/2025/dec/29/more-than-3000-migrants-died-spain-figure-down",
+      "title": "More than 3,000 migrants died trying to reach Spain in 2025",
+      "summary": "Tighter border controls caused arrivals to decline sharply but forced people on to more dangerous routes, activists say More than 3,000 people died trying to reach Spain by sea over the past year, a sharp fall from the previous 12 months..."
+    },
+    {
+      "char": "✈️",
+      "label": "military drone strike in venezuela",
+      "url": "https://www.theguardian.com/world/2025/dec/30/military-drone-strike-venezuela-trump-maduro",
+      "title": "Trump’s shadow war in Venezuela grows, but country’s strongman leader still clings to power",
+      "summary": "Report of a drone attack on a port facility signals new phase in US military campaign against Nicolás Maduro US wargames played out scenarios for Maduro’s fall. None of them ended well for Venezuela Nearly a week after Donald Trump first..."
     }
   ],
   "source": "ai-openai",

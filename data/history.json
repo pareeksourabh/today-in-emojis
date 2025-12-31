@@ -12187,5 +12187,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2025-12-31",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "russia-ukraine peace deal issues",
+        "url": "https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss",
+        "title": "The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal",
+        "summary": "Two of the main sticking points involve territory and the fate of Europe's biggest nuclear plant, which is currently occupied by Russia."
+      },
+      {
+        "char": "🚗",
+        "label": "anthony joshua's friends die in crash",
+        "url": "https://www.theguardian.com/sport/2025/dec/29/anthony-joshua-injured-car-crash-nigeria",
+        "title": "Anthony Joshua’s camp confirm two of his close friends died in Nigeria car crash",
+        "summary": "British former boxing champion sustained minor injuries Sina Ghami and Kevin ‘Lateef’ Ayodel killed in accident The British heavyweight boxer Anthony Joshua has issued a statement after he was injured in a car crash in Nigeria on Monday..."
+      },
+      {
+        "char": "🚂",
+        "label": "machu picchu train crash news",
+        "url": "https://www.bbc.com/news/articles/cn9zl309dz8o?at_medium=RSS&at_campaign=rss",
+        "title": "Machu Picchu train crash leaves one dead and dozens injured",
+        "summary": "A train driver died and at least 40 people were injured in the crash on the single-track line to Machu Picchu."
+      },
+      {
+        "char": "🌍",
+        "label": "migrants die trying to reach spain",
+        "url": "https://www.theguardian.com/world/2025/dec/29/more-than-3000-migrants-died-spain-figure-down",
+        "title": "More than 3,000 migrants died trying to reach Spain in 2025",
+        "summary": "Tighter border controls caused arrivals to decline sharply but forced people on to more dangerous routes, activists say More than 3,000 people died trying to reach Spain by sea over the past year, a sharp fall from the previous 12 months..."
+      },
+      {
+        "char": "✈️",
+        "label": "military drone strike in venezuela",
+        "url": "https://www.theguardian.com/world/2025/dec/30/military-drone-strike-venezuela-trump-maduro",
+        "title": "Trump’s shadow war in Venezuela grows, but country’s strongman leader still clings to power",
+        "summary": "Report of a drone attack on a port facility signals new phase in US military campaign against Nicolás Maduro US wargames played out scenarios for Maduro’s fall. None of them ended well for Venezuela Nearly a week after Donald Trump first..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
