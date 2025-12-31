@@ -1,64 +1,43 @@
 {
-  "date": "2025-12-30",
-  "timestamp": "2025-12-30T16:12:21Z",
+  "date": "2025-12-31",
+  "timestamp": "2025-12-31T01:05:19Z",
   "emojis": [
     {
-      "char": "🇨🇳",
-      "label": "china encircles taiwan in military display",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmtCYk90Qlhld3dZZGNtRVFsbE9aTm5RMlY2NzI1MndKa1RoRTNmRlRveWdZUzYyQllQY2FNYXBKWmk5d3BQU2ZJd3ozZEpWLUtIc2Jnc21Kem5Odk9VNUljeFZ5YklqNmVRWUNlMGtlRU81UTVQeW9yZU9kb1pXc0hCdm81WGRZaGpwVy1ubE5FNFQ2SWdwT0UyaGJCUllXd25KX0xaOE1yNTFTMmFhN0xldXEwVFJVSXZ5SHZLUQ?oc=5",
-      "title": "China encircles Taiwan in massive military display - Reuters",
-      "summary": "China encircles Taiwan in massive military display Reuters"
+      "char": "🇮🇷",
+      "label": "protests in iran over currency crash",
+      "url": "https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss",
+      "title": "Protests spread across Iran for third day after currency hits record low",
+      "summary": "The Iranian rial hit a record low against the US dollar on Sunday, prompting shopkeepers in Tehran to stage protests, which have quickly spread."
+    },
+    {
+      "char": "🇲🇽",
+      "label": "mexico hikes tariffs on china",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVp2alFDR2RmN1BxUzVVeDduekdVNC1WQVo1dWY5cVNGdnEzbWw3d1lRd0Zka0dCUWsxQk1uUEhDbnRsS2lUUDRHcDlhVFBzQXIxTnJJWm1lZEdfQWhETHVjc28wekRfOHhveENwblhuNU95T2hDWEtTcXNxYmJXWkNST0oyZkdveVhtMUkxSF94b0RYOXFjbXV4bUdDUXpmWW1JSDc4Z3JBZk4tbnc?oc=5",
+      "title": "Mexico to hike tariffs on China starting Thursday - Reuters",
+      "summary": "Mexico to hike tariffs on China starting Thursday Reuters"
+    },
+    {
+      "char": "💵",
+      "label": "dollar holds gains after fed minutes",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFBkMFZnMUN4UjRtTXlHNkg1VzZlZWFWbU1qbE5HUVFFUU9Id0NxZ3VsN0tnbkpDVU80TWVSN3k5dnQ5UFBoVU9LdXZaVV9uTWJVZWVNX3BCZVI5R3RFcFdORDlobTlJZEk2WWZaZm1MdnA2aDdUU2YyMkItNzAxN1d4Q2pYYjZsc1hzZDg1VXQ5b1lRU0d0M3NHQnJqa2pzclRnc2pEMVhwbThJZ1lqNA?oc=5",
+      "title": "Dollar holds gains after Fed minutes - Reuters",
+      "summary": "Dollar holds gains after Fed minutes Reuters"
     },
     {
       "char": "🕊️",
-      "label": "trump hopes for quick gaza ceasefire",
-      "url": "https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump hopes to reach phase two of Gaza ceasefire 'very quickly'",
-      "summary": "The US president also warns Hamas will have \"hell to pay\" if it does not disarm, after talks with Netanyahu."
+      "label": "tensions over yemen reach boiling point",
+      "url": "https://www.theguardian.com/world/2025/dec/30/saudi-arabia-uae-tension-future-yemen-boiling-point",
+      "title": "Tensions between Saudis and Emiratis over future of Yemen reach boiling point",
+      "summary": "Dispute has potential to create civil war in south of Yemen and spill over into neighbouring countries Tensions between the United Arab Emirates and Saudi Arabia over the future of Yemen and the imminent possibility of the declaration of..."
     },
     {
-      "char": "📉",
-      "label": "us stocks close below record highs",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRzBzRW1TcWdOd3BwNUo1QVJHcjZ5M1llYzlfaERPWV8wTER2WHlpUHh4UVRtNFdpbElIcnkwRWFxbFlMUms5ci1HZjZkVkdiV0VSTGZyOF9OSXA4ekFSQ0NOOThEQkNDOWxVVnR6cldCS1EyVDBDeVZyaFBQcVdIV3Q1OA?oc=5",
-      "title": "U.S. stocks close below record highs, world indexes set for double-digit 2025 gains - Reuters",
-      "summary": "U.S. stocks close below record highs, world indexes set for double-digit 2025 gains Reuters"
-    },
-    {
-      "char": "🚆",
-      "label": "train derailment in mexico kills 13",
-      "url": "https://www.theguardian.com/world/2025/dec/29/mexico-train-derailment-oaxaca",
-      "title": "At least 13 people killed and 98 injured in train derailment in Mexico",
-      "summary": "Train accident in Oaxaca is likely to raise criticisms about public works projects from the previous administration At least 13 people were killed when a train derailed in the Mexican state of Oaxaca, in an accident which is likely to re..."
-    },
-    {
-      "char": "🎨",
-      "label": "fresco restoration painter dies at 94",
-      "url": "https://www.nytimes.com/2025/12/30/world/europe/spain-jesus-fresco-restoration-painter-gimenez-dead.html",
-      "title": "Spanish Woman Scorned, Then Loved, for Botched Fresco Restoration Dies at 94",
-      "summary": "Cecilia Giménez’s repainting of an image of Jesus in 2012 was widely mocked online. But tourists flocked to see her work, reviving her struggling hometown."
+      "char": "💻",
+      "label": "china mandates domestic equipment for chipmakers",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjMySE96WEh2Vl8xdlRrN0xub3FHWktNY196cjFSNnFtSHVEemc2UEVsNnQ2cm8wd2NSWWN2MjlXTm5fbTl3aHI1MWZNSzNxYklFWEd5Q3RBME9iNzRNaXFnMm5mUzhudE5QRE1mWXRhMXJwekpPUjhybE41eUlhZ3M5SXF0LXdrUG16T2twSGhVWWdQeWJncEVWcTN6dDB6enpTcHluYk9KWEVmdURKVmFR?oc=5",
+      "title": "Exclusive: China mandates 50% domestic equipment rule for chipmakers, sources say - Reuters",
+      "summary": "Exclusive: China mandates 50% domestic equipment rule for chipmakers, sources say Reuters"
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "The day is marked by a tragic train derailment in Mexico resulting in loss of life, alongside tensions in global politics, which evoke a sense of sorrow and concern.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

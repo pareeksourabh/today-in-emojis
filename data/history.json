@@ -12099,5 +12099,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-31",
+    "emojis": [
+      {
+        "char": "🇮🇷",
+        "label": "protests in iran over currency crash",
+        "url": "https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss",
+        "title": "Protests spread across Iran for third day after currency hits record low",
+        "summary": "The Iranian rial hit a record low against the US dollar on Sunday, prompting shopkeepers in Tehran to stage protests, which have quickly spread."
+      },
+      {
+        "char": "🇲🇽",
+        "label": "mexico hikes tariffs on china",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVp2alFDR2RmN1BxUzVVeDduekdVNC1WQVo1dWY5cVNGdnEzbWw3d1lRd0Zka0dCUWsxQk1uUEhDbnRsS2lUUDRHcDlhVFBzQXIxTnJJWm1lZEdfQWhETHVjc28wekRfOHhveENwblhuNU95T2hDWEtTcXNxYmJXWkNST0oyZkdveVhtMUkxSF94b0RYOXFjbXV4bUdDUXpmWW1JSDc4Z3JBZk4tbnc?oc=5",
+        "title": "Mexico to hike tariffs on China starting Thursday - Reuters",
+        "summary": "Mexico to hike tariffs on China starting Thursday Reuters"
+      },
+      {
+        "char": "💵",
+        "label": "dollar holds gains after fed minutes",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFBkMFZnMUN4UjRtTXlHNkg1VzZlZWFWbU1qbE5HUVFFUU9Id0NxZ3VsN0tnbkpDVU80TWVSN3k5dnQ5UFBoVU9LdXZaVV9uTWJVZWVNX3BCZVI5R3RFcFdORDlobTlJZEk2WWZaZm1MdnA2aDdUU2YyMkItNzAxN1d4Q2pYYjZsc1hzZDg1VXQ5b1lRU0d0M3NHQnJqa2pzclRnc2pEMVhwbThJZ1lqNA?oc=5",
+        "title": "Dollar holds gains after Fed minutes - Reuters",
+        "summary": "Dollar holds gains after Fed minutes Reuters"
+      },
+      {
+        "char": "🕊️",
+        "label": "tensions over yemen reach boiling point",
+        "url": "https://www.theguardian.com/world/2025/dec/30/saudi-arabia-uae-tension-future-yemen-boiling-point",
+        "title": "Tensions between Saudis and Emiratis over future of Yemen reach boiling point",
+        "summary": "Dispute has potential to create civil war in south of Yemen and spill over into neighbouring countries Tensions between the United Arab Emirates and Saudi Arabia over the future of Yemen and the imminent possibility of the declaration of..."
+      },
+      {
+        "char": "💻",
+        "label": "china mandates domestic equipment for chipmakers",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjMySE96WEh2Vl8xdlRrN0xub3FHWktNY196cjFSNnFtSHVEemc2UEVsNnQ2cm8wd2NSWWN2MjlXTm5fbTl3aHI1MWZNSzNxYklFWEd5Q3RBME9iNzRNaXFnMm5mUzhudE5QRE1mWXRhMXJwekpPUjhybE41eUlhZ3M5SXF0LXdrUG16T2twSGhVWWdQeWJncEVWcTN6dDB6enpTcHluYk9KWEVmdURKVmFR?oc=5",
+        "title": "Exclusive: China mandates 50% domestic equipment rule for chipmakers, sources say - Reuters",
+        "summary": "Exclusive: China mandates 50% domestic equipment rule for chipmakers, sources say Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
