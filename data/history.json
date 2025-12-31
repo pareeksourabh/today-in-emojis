@@ -12275,5 +12275,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2025-12-31",
+    "emojis": [
+      {
+        "char": "🇧🇩",
+        "label": "bangladesh funeral for former leader",
+        "url": "https://www.nytimes.com/2025/12/31/world/asia/bangladesh-zia-funeral.html",
+        "title": "Bangladeshis Pay Last Respects to Former Leader in Tense Capital",
+        "summary": "Huge crowds turned out to say goodbye to Khaleda Zia, the country’s first female prime minister, amid a huge army presence following recent political violence."
+      },
+      {
+        "char": "🚗",
+        "label": "porsche recalls vehicles over camera issue",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUZQaHBoSkpvN3lxNjZmMVFCZnNWM29FeDZLRG80aHktOFptTlpEZm83bEN3akI1QVRCdi1wMnJ1QjhhMDgtelZBQ2MwWEg0enRaMHMzLU9BNkFlQk1jSXJWUUY3MjNId2dUeUM3VDhHUEw0U1FCWWpBeC1VZzMxR2N0TFBvZzg3V3RvZDBNVldTVDdxY2tUSmI4VVZnNGhMMm5fVkdBUTBwNGVrc01CR1VSNE5Cd3UyOVR2V3puelhzYW9HOFhFN3ZGU0JOUXdnNEo4?oc=5",
+        "title": "Porsche to recall over 173,000 US vehicles over rearview camera image issue - Reuters",
+        "summary": "Porsche to recall over 173,000 US vehicles over rearview camera image issue Reuters"
+      },
+      {
+        "char": "🌊",
+        "label": "flood recovery anger in indonesia",
+        "url": "https://www.nytimes.com/2025/12/31/world/asia/indonesia-flood-recovery-aceh.html",
+        "title": "Slow Flood Recovery Stirs Anger in Far-Flung Corner of Indonesia",
+        "summary": "Protests have erupted in Aceh Province on the northern tip of Sumatra island, where anger and frustration are mounting over what many see as inadequate relief efforts by a distracted government."
+      },
+      {
+        "char": "🕊️",
+        "label": "sydney peace message after terror attack",
+        "url": "https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss",
+        "title": "Sydney sends message of peace for New Year's after Bondi terror attack",
+        "summary": "The words peace and unity were projected onto the Sydney Harbour Bridge as thousands gathered to watch the annual fireworks."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "venezuela releases political prisoners",
+        "url": "https://www.theguardian.com/world/2025/dec/26/venezuela-political-prisoner-release",
+        "title": "Venezuela says it released 99 people detained for 2024 election protests",
+        "summary": "Government said the move was due to its ‘unrestricted respect for human rights’ in the face of US aggression Venezuela has said it has carried out its largest release of political prisoners this year, claiming to have freed 99 people det..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
