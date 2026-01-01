@@ -12495,5 +12495,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-01",
+    "emojis": [
+      {
+        "char": "🔥",
+        "label": "swiss ski resort bar fire",
+        "url": "https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss",
+        "title": "Several dozen feared dead in Swiss ski resort bar fire",
+        "summary": "Around 100 are also injured in fire at Crans-Montana Swiss ski resort bar Le Constellation."
+      },
+      {
+        "char": "🗳️",
+        "label": "trump acknowledges 2020 loss",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLVpUVExlZWZ5STQzTEdNTFhmSUxhYlYyWFBSSTR0eWNyMThYTlRfVnZLU3o5aWhXNGF3NThnNlg1TlpYTUhYOFlqNnZubFpzWWtJblVVVzhtQkdJcWZCUXV1ajlZVUM4T2RCbGZadldXaWhROEg0RXhjc1dvZUIyR1hieGU3alJ1VnlGTVJ3Z3gyVVhJX3VUYW5hUllDQUoxZUF0bjBpTGE1REVuNFVjdlZMTQ?oc=5",
+        "title": "Jack Smith says Trump acknowledged to others that he lost 2020 election - Reuters",
+        "summary": "Jack Smith says Trump acknowledged to others that he lost 2020 election Reuters"
+      },
+      {
+        "char": "🍝",
+        "label": "us cuts proposed pasta tariffs",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQblpScGlvRnlhMERROVpyY3g0a1R0dlBfb1M0bjZHdVEzQnNCbl92cXRwUmx5NnVZeWxiVDFuOG1zb2VGN1J1YnhtWkxIMEZXRVFIXzF1Nl92NUNCbWFrYmh5Q2tjcTc1MDVkQm1zZUR5M2FwMHFNc0hLQ3NEcm9Xck9XdjVFVWwzS0FyMVJYeUVtcUxaQUZBMGRtMklXWVg1cERxRVpyNVNvZ0FtTWsw?oc=5",
+        "title": "Italy says US has sharply cut proposed pasta tariffs after a review - Reuters",
+        "summary": "Italy says US has sharply cut proposed pasta tariffs after a review Reuters"
+      },
+      {
+        "char": "🕊️",
+        "label": "zelensky rejects weak peace deal",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdzVlbF8wRXFxRkE2R0VXd0RBTVNTSWNtT0RidmFLRU96dzV0OW9aSTdFVHdCdUQyMU9pLXZaN01lcHIzZFBEYk9xcjlEX285Xzd3NFpzVF8zUEJ4YTdyRk5DajNGMF9WYlVFM3k4Z2Fja2l1UXdzUjQ0WEM4Qkpicm40d0ZKNVVITTYyaFBNMWFhX2VRNXc1eHlveFhrbmFLS0hhMjc5cy1fUQ?oc=5",
+        "title": "Zelenskiy says he won't sign weak deal that will only prolong war - Reuters",
+        "summary": "Zelenskiy says he won't sign weak deal that will only prolong war Reuters"
+      },
+      {
+        "char": "🎉",
+        "label": "new year fire in amsterdam",
+        "url": "https://www.nytimes.com/2026/01/01/world/europe/amsterdam-fire-church-new-years.html",
+        "title": "A Monumental Church in Amsterdam Is Ravaged by Flames on New Year’s Day",
+        "summary": "Local residents were evacuated after a fire broke out at the Vondelkerk shortly after midnight. The cause of the blaze has not yet been confirmed."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
