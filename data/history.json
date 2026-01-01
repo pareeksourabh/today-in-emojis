@@ -12363,5 +12363,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-01",
+    "emojis": [
+      {
+        "char": "🌊",
+        "label": "more than 3000 migrants died in 2025",
+        "url": "https://www.theguardian.com/world/2025/dec/29/more-than-3000-migrants-died-spain-figure-down",
+        "title": "More than 3,000 migrants died trying to reach Spain in 2025",
+        "summary": "Tighter border controls caused arrivals to decline sharply but forced people on to more dangerous routes, activists say More than 3,000 people died trying to reach Spain by sea over the past year, a sharp fall from the previous 12 months..."
+      },
+      {
+        "char": "🧠",
+        "label": "neuralink plans brain implant production",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMWEwLU1QOHU2WjNFeUM2MEVqSDU3Ujh1UnVFYW5jd0ZqelRCcGR5dlpMZ3pCd0UxaVVPYlRMN0ZQc0lDQ1RfNTJFaG5saTNHcE4ydDNrbEhxNjduWTBkenJiUjhvdnhKc2tRVTg1UXV4QzNiZGF3ZEQxZllLZV9OQ3BuMEtFcS1CMWI1TkZtS2pIZWRvUE1JTVdWSzhVellKQ3c2dkxCWUJGNnNQcjAtX3RqMlhLNVBxOGxjSExUN0tkbjJXSWlHRkJZX0R6ZzRLUkt0WTQ5UGdnQTBvemJJ?oc=5",
+        "title": "Neuralink plans 'high-volume' brain implant production by 2026, Musk says - Reuters",
+        "summary": "Neuralink plans 'high-volume' brain implant production by 2026, Musk says Reuters"
+      },
+      {
+        "char": "🇫🇷",
+        "label": "macron backs social media restrictions",
+        "url": "https://www.nytimes.com/2025/12/31/world/europe/macron-social-media-children-ban-france.html",
+        "title": "President Macron of France Backs Social Media Restrictions for Children",
+        "summary": "French lawmakers are expected next month to discuss a ban on social media for children. In his New Year’s Eve address, the French president restated his support for restricting their access."
+      },
+      {
+        "char": "🚂",
+        "label": "train derailment in mexico kills 13",
+        "url": "https://www.theguardian.com/world/2025/dec/29/mexico-train-derailment-oaxaca",
+        "title": "At least 13 people killed and 98 injured in train derailment in Mexico",
+        "summary": "Train accident in Oaxaca is likely to raise criticisms about public works projects from the previous administration At least 13 people were killed when a train derailed in the Mexican state of Oaxaca, in an accident which is likely to re..."
+      },
+      {
+        "char": "💰",
+        "label": "germany bank heist makes off with millions",
+        "url": "https://www.nytimes.com/2025/12/31/world/europe/germany-heist-bank-robbery.html",
+        "title": "Thieves Make Off With Millions in German Bank Heist",
+        "summary": "The robbers stole valuables with an insured value of at least $36 million from a bank in Gelsenkirchen, western Germany."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

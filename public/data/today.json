@@ -1,30 +1,23 @@
 {
   "date": "2026-01-01",
-  "timestamp": "2026-01-01T01:11:11Z",
+  "timestamp": "2026-01-01T04:52:24Z",
   "emojis": [
     {
-      "char": "🇻🇪",
-      "label": "us struck facility in venezuela",
-      "url": "https://www.theguardian.com/us-news/2025/dec/29/trump-venezuela-facility-strike",
-      "title": "US struck ‘big facility’ in Venezuela, Trump claimed without offering details",
-      "summary": "Trump alleged that US forces hit ‘very hard’ in what would mark his team’s first land strike on Venezuela if confirmed Donald Trump has claimed that US forces struck a “big facility” in Venezuela last week – but the president did not spe..."
+      "char": "🌊",
+      "label": "more than 3000 migrants died in 2025",
+      "url": "https://www.theguardian.com/world/2025/dec/29/more-than-3000-migrants-died-spain-figure-down",
+      "title": "More than 3,000 migrants died trying to reach Spain in 2025",
+      "summary": "Tighter border controls caused arrivals to decline sharply but forced people on to more dangerous routes, activists say More than 3,000 people died trying to reach Spain by sea over the past year, a sharp fall from the previous 12 months..."
     },
     {
-      "char": "📜",
-      "label": "secret russian documents exposed",
-      "url": "https://www.nytimes.com/2025/12/31/world/europe/russia-ombudsman-complaints.html",
-      "title": "How Thousands of Secret Russian Documents Were Exposed",
-      "summary": "Russian journalists learned that a government office inadvertently made thousands of sensitive complaints viewable online, including accounts of abuse and coercion in the military."
+      "char": "🧠",
+      "label": "neuralink plans brain implant production",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMWEwLU1QOHU2WjNFeUM2MEVqSDU3Ujh1UnVFYW5jd0ZqelRCcGR5dlpMZ3pCd0UxaVVPYlRMN0ZQc0lDQ1RfNTJFaG5saTNHcE4ydDNrbEhxNjduWTBkenJiUjhvdnhKc2tRVTg1UXV4QzNiZGF3ZEQxZllLZV9OQ3BuMEtFcS1CMWI1TkZtS2pIZWRvUE1JTVdWSzhVellKQ3c2dkxCWUJGNnNQcjAtX3RqMlhLNVBxOGxjSExUN0tkbjJXSWlHRkJZX0R6ZzRLUkt0WTQ5UGdnQTBvemJJ?oc=5",
+      "title": "Neuralink plans 'high-volume' brain implant production by 2026, Musk says - Reuters",
+      "summary": "Neuralink plans 'high-volume' brain implant production by 2026, Musk says Reuters"
     },
     {
-      "char": "🗳️",
-      "label": "guinea junta chief elected president",
-      "url": "https://www.theguardian.com/world/2025/dec/31/guinea-junta-chief-mamady-doumbouya-elected-president-after-opposition-boycott",
-      "title": "Guinea’s junta chief elected president after opposition boycott",
-      "summary": "Mamady Doumbouya reneged on promise not to stand and hand west African country back to civilian rule The head of Guinea’s junta, Mamady Doumbouya, who had pledged not to run for office after seizing power four years ago, has been elected..."
-    },
-    {
-      "char": "👶",
+      "char": "🇫🇷",
       "label": "macron backs social media restrictions",
       "url": "https://www.nytimes.com/2025/12/31/world/europe/macron-social-media-children-ban-france.html",
       "title": "President Macron of France Backs Social Media Restrictions for Children",
@@ -32,10 +25,17 @@
     },
     {
       "char": "🚂",
-      "label": "train crash in mexico leaves casualties",
+      "label": "train derailment in mexico kills 13",
       "url": "https://www.theguardian.com/world/2025/dec/29/mexico-train-derailment-oaxaca",
       "title": "At least 13 people killed and 98 injured in train derailment in Mexico",
       "summary": "Train accident in Oaxaca is likely to raise criticisms about public works projects from the previous administration At least 13 people were killed when a train derailed in the Mexican state of Oaxaca, in an accident which is likely to re..."
+    },
+    {
+      "char": "💰",
+      "label": "germany bank heist makes off with millions",
+      "url": "https://www.nytimes.com/2025/12/31/world/europe/germany-heist-bank-robbery.html",
+      "title": "Thieves Make Off With Millions in German Bank Heist",
+      "summary": "The robbers stole valuables with an insured value of at least $36 million from a bank in Gelsenkirchen, western Germany."
     }
   ],
   "source": "ai-openai",
