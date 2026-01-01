@@ -1,64 +1,43 @@
 {
-  "date": "2025-12-31",
-  "timestamp": "2025-12-31T16:12:20Z",
+  "date": "2026-01-01",
+  "timestamp": "2026-01-01T01:11:11Z",
   "emojis": [
     {
-      "char": "🇧🇩",
-      "label": "bangladesh funeral for former leader",
-      "url": "https://www.nytimes.com/2025/12/31/world/asia/bangladesh-zia-funeral.html",
-      "title": "Bangladeshis Pay Last Respects to Former Leader in Tense Capital",
-      "summary": "Huge crowds turned out to say goodbye to Khaleda Zia, the country’s first female prime minister, amid a huge army presence following recent political violence."
-    },
-    {
-      "char": "🚗",
-      "label": "porsche recalls vehicles over camera issue",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUZQaHBoSkpvN3lxNjZmMVFCZnNWM29FeDZLRG80aHktOFptTlpEZm83bEN3akI1QVRCdi1wMnJ1QjhhMDgtelZBQ2MwWEg0enRaMHMzLU9BNkFlQk1jSXJWUUY3MjNId2dUeUM3VDhHUEw0U1FCWWpBeC1VZzMxR2N0TFBvZzg3V3RvZDBNVldTVDdxY2tUSmI4VVZnNGhMMm5fVkdBUTBwNGVrc01CR1VSNE5Cd3UyOVR2V3puelhzYW9HOFhFN3ZGU0JOUXdnNEo4?oc=5",
-      "title": "Porsche to recall over 173,000 US vehicles over rearview camera image issue - Reuters",
-      "summary": "Porsche to recall over 173,000 US vehicles over rearview camera image issue Reuters"
-    },
-    {
-      "char": "🌊",
-      "label": "flood recovery anger in indonesia",
-      "url": "https://www.nytimes.com/2025/12/31/world/asia/indonesia-flood-recovery-aceh.html",
-      "title": "Slow Flood Recovery Stirs Anger in Far-Flung Corner of Indonesia",
-      "summary": "Protests have erupted in Aceh Province on the northern tip of Sumatra island, where anger and frustration are mounting over what many see as inadequate relief efforts by a distracted government."
-    },
-    {
-      "char": "🕊️",
-      "label": "sydney peace message after terror attack",
-      "url": "https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss",
-      "title": "Sydney sends message of peace for New Year's after Bondi terror attack",
-      "summary": "The words peace and unity were projected onto the Sydney Harbour Bridge as thousands gathered to watch the annual fireworks."
-    },
-    {
       "char": "🇻🇪",
-      "label": "venezuela releases political prisoners",
-      "url": "https://www.theguardian.com/world/2025/dec/26/venezuela-political-prisoner-release",
-      "title": "Venezuela says it released 99 people detained for 2024 election protests",
-      "summary": "Government said the move was due to its ‘unrestricted respect for human rights’ in the face of US aggression Venezuela has said it has carried out its largest release of political prisoners this year, claiming to have freed 99 people det..."
+      "label": "us struck facility in venezuela",
+      "url": "https://www.theguardian.com/us-news/2025/dec/29/trump-venezuela-facility-strike",
+      "title": "US struck ‘big facility’ in Venezuela, Trump claimed without offering details",
+      "summary": "Trump alleged that US forces hit ‘very hard’ in what would mark his team’s first land strike on Venezuela if confirmed Donald Trump has claimed that US forces struck a “big facility” in Venezuela last week – but the president did not spe..."
+    },
+    {
+      "char": "📜",
+      "label": "secret russian documents exposed",
+      "url": "https://www.nytimes.com/2025/12/31/world/europe/russia-ombudsman-complaints.html",
+      "title": "How Thousands of Secret Russian Documents Were Exposed",
+      "summary": "Russian journalists learned that a government office inadvertently made thousands of sensitive complaints viewable online, including accounts of abuse and coercion in the military."
+    },
+    {
+      "char": "🗳️",
+      "label": "guinea junta chief elected president",
+      "url": "https://www.theguardian.com/world/2025/dec/31/guinea-junta-chief-mamady-doumbouya-elected-president-after-opposition-boycott",
+      "title": "Guinea’s junta chief elected president after opposition boycott",
+      "summary": "Mamady Doumbouya reneged on promise not to stand and hand west African country back to civilian rule The head of Guinea’s junta, Mamady Doumbouya, who had pledged not to run for office after seizing power four years ago, has been elected..."
+    },
+    {
+      "char": "👶",
+      "label": "macron backs social media restrictions",
+      "url": "https://www.nytimes.com/2025/12/31/world/europe/macron-social-media-children-ban-france.html",
+      "title": "President Macron of France Backs Social Media Restrictions for Children",
+      "summary": "French lawmakers are expected next month to discuss a ban on social media for children. In his New Year’s Eve address, the French president restated his support for restricting their access."
+    },
+    {
+      "char": "🚂",
+      "label": "train crash in mexico leaves casualties",
+      "url": "https://www.theguardian.com/world/2025/dec/29/mexico-train-derailment-oaxaca",
+      "title": "At least 13 people killed and 98 injured in train derailment in Mexico",
+      "summary": "Train accident in Oaxaca is likely to raise criticisms about public works projects from the previous administration At least 13 people were killed when a train derailed in the Mexican state of Oaxaca, in an accident which is likely to re..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "The day is marked by a mix of mourning for a respected leader and frustration over slow recovery from disasters, highlighting a sense of sadness and disappointment in societal issues.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
