@@ -12407,5 +12407,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-01",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "brigitte bardot’s legacy of racism",
+        "url": "https://www.nytimes.com/2025/12/31/world/europe/brigitte-bardot-racism-far-right.html",
+        "title": "Brigitte Bardot’s Legacy of Racist Rhetoric",
+        "summary": "The actress, who died this week at 91, was an icon of 1960s cinema. She was also a hero to the French far right."
+      },
+      {
+        "char": "🚆",
+        "label": "train derailment in mexico",
+        "url": "https://www.theguardian.com/world/2025/dec/29/mexico-train-derailment-oaxaca",
+        "title": "At least 13 people killed and 98 injured in train derailment in Mexico",
+        "summary": "Train accident in Oaxaca is likely to raise criticisms about public works projects from the previous administration At least 13 people were killed when a train derailed in the Mexican state of Oaxaca, in an accident which is likely to re..."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran protests and government shutdown",
+        "url": "https://www.nytimes.com/2025/12/31/world/middleeast/iran-shutdown-protests.html",
+        "title": "Most of Iran Shuts Down as Government Grapples With Protests and Economy",
+        "summary": "Amid mounting street protests, businesses, universities and government offices stayed closed Wednesday under government orders, in 21 of 31 provinces, including Tehran."
+      },
+      {
+        "char": "👶",
+        "label": "macron backs social media restrictions",
+        "url": "https://www.nytimes.com/2025/12/31/world/europe/macron-social-media-children-ban-france.html",
+        "title": "President Macron of France Backs Social Media Restrictions for Children",
+        "summary": "French lawmakers are expected next month to discuss a ban on social media for children. In his New Year’s Eve address, the French president restated his support for restricting their access."
+      },
+      {
+        "char": "🗳️",
+        "label": "guinea junta chief elected president",
+        "url": "https://www.theguardian.com/world/2025/dec/31/guinea-junta-chief-mamady-doumbouya-elected-president-after-opposition-boycott",
+        "title": "Guinea’s junta chief elected president after opposition boycott",
+        "summary": "Mamady Doumbouya reneged on promise not to stand and hand west African country back to civilian rule The head of Guinea’s junta, Mamady Doumbouya, who had pledged not to run for office after seizing power four years ago, has been elected..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
