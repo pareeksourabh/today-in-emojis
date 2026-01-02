@@ -12671,5 +12671,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-02",
+    "emojis": [
+      {
+        "char": "💻",
+        "label": "samsung hbm4 chip praised",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0lHYVhQdERpMlRmbGpXX09OelZfYzNKS1Iya0VZNUZ4WlNxX2E2RU02eFNjbUlOMDdUX09rVFR6WnMyOUpCV1BtTWF2SGJ2R2I5X0lpZUVXRlhDTF9GRXZHVTlNXzFoN0pmb1FDeHhWeUpWWmY2Ullwd1o2VGxvNEJheDFSaVdYOGJvdjBTWDN2WlRWZjc3WGh0N01VYWdKVVRkU0hJdEZ2NE9VT1cxUQ?oc=5",
+        "title": "Samsung Electronics says customers praised competitiveness of HBM4 chip - Reuters",
+        "summary": "Samsung Electronics says customers praised competitiveness of HBM4 chip Reuters"
+      },
+      {
+        "char": "🇻🇪",
+        "label": "maduro open to drug talks",
+        "url": "https://www.theguardian.com/world/2026/jan/02/venezuela-maduro-open-to-talks-drug-trafficking-maduro",
+        "title": "Venezuela open to talks on drug trafficking, says Maduro, but refuses to comment on reported US strike on land",
+        "summary": "President Nicolás Maduro reiterated his belief that the US wants to force a change of government in Venezuela and gain access to its vast oil reserves Venezuela is open to negotiating an agreement with the US to combat drug trafficking,..."
+      },
+      {
+        "char": "🕊️",
+        "label": "zelensky peace deal nearly ready",
+        "url": "https://www.bbc.com/news/articles/cddg7100ym2o?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky says peace deal is 90% ready in New Year address",
+        "summary": "Russian President Vladimir Putin used his New Year speech to tell troops that he \"believed in you and our victory\" in Ukraine."
+      },
+      {
+        "char": "🗳️",
+        "label": "trump acknowledged 2020 loss",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLVpUVExlZWZ5STQzTEdNTFhmSUxhYlYyWFBSSTR0eWNyMThYTlRfVnZLU3o5aWhXNGF3NThnNlg1TlpYTUhYOFlqNnZubFpzWWtJblVVVzhtQkdJcWZCUXV1ajlZVUM4T2RCbGZadldXaWhROEg0RXhjc1dvZUIyR1hieGU3alJ1VnlGTVJ3Z3gyVVhJX3VUYW5hUllDQUoxZUF0bjBpTGE1REVuNFVjdlZMTQ?oc=5",
+        "title": "Jack Smith says Trump acknowledged to others that he lost 2020 election - Reuters",
+        "summary": "Jack Smith says Trump acknowledged to others that he lost 2020 election Reuters"
+      },
+      {
+        "char": "⚖️",
+        "label": "us workers challenge trump policy",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN2FOZk5GbzF3aFRrOERvdUlTcWVhZl9QbjV4a1B5YS1TLVFZS2NoY29BNVdNdnpRVmpWX0p6cnA1Wk9YWnFFS2hBUm42OURJOU0wcDdPQ2lJd1NSTXo3WDlObjJjQ3Y3Q1JsZW9qODFtX0cxWWtYWHFvbjlPbVVsOENKOGxMaUZFRWlNR3hVWTlDTGtGcktQX0RsV09GTEJrbF82aFJzSkNic1QzZ09qVEhFOWFYaUZudGtiQ0tEZmlpT2FJR0dMVW0wYkNnaUk0?oc=5",
+        "title": "US federal workers challenge Trump policy on gender-affirming care - Reuters",
+        "summary": "US federal workers challenge Trump policy on gender-affirming care Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
