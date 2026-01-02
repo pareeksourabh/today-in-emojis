@@ -12583,5 +12583,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-02",
+    "emojis": [
+      {
+        "char": "💔",
+        "label": "three killed in peru attack",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUswN3RtMDJOb1NBNVRZdHItSG9Gck1HRHdXRWtNYVdQVDhkQUlZNWJRU1BPS1JTa21oeWpUNk9oUDZoaEVJcTZHYUUtdEE0VkNWVHd1aFlyVU16UTRaM0ZBVTRrclAzMkEtdlF1T0xTY0ZmSjNwazRLeXNqTzg4TGxpanh3N2ZWUnpkS0psdDZWUExkSnoyM2tYQUNWd1lONXM5dWtCaXMxTEFCeHhkNEt5bm1WZw?oc=5",
+        "title": "Three killed in New Year's Eve attack on informal miners in Peru - Reuters",
+        "summary": "Three killed in New Year's Eve attack on informal miners in Peru Reuters"
+      },
+      {
+        "char": "🛰️",
+        "label": "starlink lowers satellite orbit",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHJJOFNxT0d5WnhPVWlkU1MybVI3VlQ3S2FXOFJ6SVVxWUhfUXVCb0JkX0NMbG1HRkJGeE44WG1CSWp6V3NsbWJUQzFGcVJTQnllRGRpdzJGdlYtcDY0Mzlnd0FPNTZPMTByRW5QZFRrU2ZJS1pjZGN6QVdPOWQzeGVGcXNEdFJ1MmdPZ0V4OFE1M1pLVk5jMkIxQm5nb2xHUVkwVnFPd09hN2JUaWZNMnFRd3JtQlF0QmlZ?oc=5",
+        "title": "Starlink plans to lower satellite orbit to enhance safety in 2026 - Reuters",
+        "summary": "Starlink plans to lower satellite orbit to enhance safety in 2026 Reuters"
+      },
+      {
+        "char": "⚔️",
+        "label": "tensions in yemen escalate",
+        "url": "https://www.theguardian.com/world/2025/dec/30/saudi-arabia-uae-tension-future-yemen-boiling-point",
+        "title": "Tensions between Saudis and Emiratis over future of Yemen reach boiling point",
+        "summary": "Dispute has potential to create civil war in south of Yemen and spill over into neighbouring countries Tensions between the United Arab Emirates and Saudi Arabia over the future of Yemen and the imminent possibility of the declaration of..."
+      },
+      {
+        "char": "🗳️",
+        "label": "guinea coup leader wins election",
+        "url": "https://www.nytimes.com/2026/01/01/world/africa/guinea-election-mamady-doumbouya.html",
+        "title": "Guinea’s Coup Leader Wins Election After Barring Leading Opponents",
+        "summary": "Gen. Mamady Doumbouya, who seized power more than four years ago, took over 80 percent of the vote, according to a government-controlled agency that he set up."
+      },
+      {
+        "char": "🔥",
+        "label": "fire in swiss ski resort",
+        "url": "https://www.nytimes.com/2026/01/01/world/europe/switzerland-fire-crans-montana-ski-resort.html",
+        "title": "Fire in Swiss Alps Leaves Dozens of New Year’s Revelers Dead",
+        "summary": "About 40 people celebrating at a ski resort bar were killed, and 115 were injured, many of them young, the authorities said."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
