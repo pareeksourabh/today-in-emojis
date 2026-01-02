@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-01",
-  "timestamp": "2026-01-01T16:12:20Z",
+  "date": "2026-01-02",
+  "timestamp": "2026-01-02T01:05:02Z",
   "emojis": [
     {
+      "char": "🇾🇪",
+      "label": "us allies clash in yemen",
+      "url": "https://www.nytimes.com/2026/01/01/world/middleeast/uae-saudi-arabia-yemen.html",
+      "title": "How Two Powerful U.S. Allies Came to Blows in Yemen",
+      "summary": "Tensions between Saudi Arabia and the United Arab Emirates burst into the open this week with an unusually direct confrontation that has global implications."
+    },
+    {
+      "char": "💶",
+      "label": "bulgaria joins euro zone",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR01IRGJDSEIybjJTdGdVamo5WW5CS3Nnd3dnMEN0VzRxMkFxaHcxSGVYbTZkX09ZODJrUTlxWGpfSlVKUVlHdUZ6cFpQMDl0WmJsUDlkRUlHM0c4TGZ1MlZqdk9BN0VlTnhMQVY1Vkh3Q1A1MUZCc3dQZWptSHpVREJXb0hHRWFKNmxyS3BodzFXYUtSQUdncGE5MGpLbFVHbU1XcEtqZ3k2SkxGRkVJYjNId1NqcUhoekVzVA?oc=5",
+      "title": "Bulgaria celebrates entry into euro zone, lev currency banished into history - Reuters",
+      "summary": "Bulgaria celebrates entry into euro zone, lev currency banished into history Reuters"
+    },
+    {
       "char": "🔥",
-      "label": "swiss ski resort bar fire",
-      "url": "https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss",
-      "title": "Several dozen feared dead in Swiss ski resort bar fire",
-      "summary": "Around 100 are also injured in fire at Crans-Montana Swiss ski resort bar Le Constellation."
+      "label": "fire at new year’s party in switzerland",
+      "url": "https://www.nytimes.com/live/2026/01/01/world/switzerland-explosion-fire",
+      "title": "Dozens Confirmed Dead in Fire at New Year’s Party in Swiss Alps",
+      "summary": "The local police said that their preliminary toll was about 40 dead, with roughly 115 injured, in the early morning blaze at a bar in the resort town of Crans-Montana."
     },
     {
-      "char": "🗳️",
-      "label": "trump acknowledges 2020 loss",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLVpUVExlZWZ5STQzTEdNTFhmSUxhYlYyWFBSSTR0eWNyMThYTlRfVnZLU3o5aWhXNGF3NThnNlg1TlpYTUhYOFlqNnZubFpzWWtJblVVVzhtQkdJcWZCUXV1ajlZVUM4T2RCbGZadldXaWhROEg0RXhjc1dvZUIyR1hieGU3alJ1VnlGTVJ3Z3gyVVhJX3VUYW5hUllDQUoxZUF0bjBpTGE1REVuNFVjdlZMTQ?oc=5",
-      "title": "Jack Smith says Trump acknowledged to others that he lost 2020 election - Reuters",
-      "summary": "Jack Smith says Trump acknowledged to others that he lost 2020 election Reuters"
+      "char": "🇻🇪",
+      "label": "venezuela releases political prisoners",
+      "url": "https://www.theguardian.com/world/2025/dec/26/venezuela-political-prisoner-release",
+      "title": "Venezuela says it released 99 people detained for 2024 election protests",
+      "summary": "Government said the move was due to its ‘unrestricted respect for human rights’ in the face of US aggression Venezuela has said it has carried out its largest release of political prisoners this year, claiming to have freed 99 people det..."
     },
     {
-      "char": "🍝",
-      "label": "us cuts proposed pasta tariffs",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQblpScGlvRnlhMERROVpyY3g0a1R0dlBfb1M0bjZHdVEzQnNCbl92cXRwUmx5NnVZeWxiVDFuOG1zb2VGN1J1YnhtWkxIMEZXRVFIXzF1Nl92NUNCbWFrYmh5Q2tjcTc1MDVkQm1zZUR5M2FwMHFNc0hLQ3NEcm9Xck9XdjVFVWwzS0FyMVJYeUVtcUxaQUZBMGRtMklXWVg1cERxRVpyNVNvZ0FtTWsw?oc=5",
-      "title": "Italy says US has sharply cut proposed pasta tariffs after a review - Reuters",
-      "summary": "Italy says US has sharply cut proposed pasta tariffs after a review Reuters"
-    },
-    {
-      "char": "🕊️",
-      "label": "zelensky rejects weak peace deal",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdzVlbF8wRXFxRkE2R0VXd0RBTVNTSWNtT0RidmFLRU96dzV0OW9aSTdFVHdCdUQyMU9pLXZaN01lcHIzZFBEYk9xcjlEX285Xzd3NFpzVF8zUEJ4YTdyRk5DajNGMF9WYlVFM3k4Z2Fja2l1UXdzUjQ0WEM4Qkpicm40d0ZKNVVITTYyaFBNMWFhX2VRNXc1eHlveFhrbmFLS0hhMjc5cy1fUQ?oc=5",
-      "title": "Zelenskiy says he won't sign weak deal that will only prolong war - Reuters",
-      "summary": "Zelenskiy says he won't sign weak deal that will only prolong war Reuters"
-    },
-    {
-      "char": "🎉",
-      "label": "new year fire in amsterdam",
-      "url": "https://www.nytimes.com/2026/01/01/world/europe/amsterdam-fire-church-new-years.html",
-      "title": "A Monumental Church in Amsterdam Is Ravaged by Flames on New Year’s Day",
-      "summary": "Local residents were evacuated after a fire broke out at the Vondelkerk shortly after midnight. The cause of the blaze has not yet been confirmed."
+      "char": "🚂",
+      "label": "train derailment in mexico",
+      "url": "https://www.theguardian.com/world/2025/dec/29/mexico-train-derailment-oaxaca",
+      "title": "At least 13 people killed and 98 injured in train derailment in Mexico",
+      "summary": "Train accident in Oaxaca is likely to raise criticisms about public works projects from the previous administration At least 13 people were killed when a train derailed in the Mexican state of Oaxaca, in an accident which is likely to re..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "The day is marked by tragic events, including a devastating fire in Switzerland and a church fire in Amsterdam, evoking a deep sense of loss and concern for those affected.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
