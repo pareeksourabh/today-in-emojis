@@ -12715,5 +12715,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-02",
+    "emojis": [
+      {
+        "char": "🪦",
+        "label": "world's oldest cremation pyre",
+        "url": "https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains",
+        "title": "Cremation pyre in Africa thought to be world’s oldest containing adult remains",
+        "summary": "9,500-year-old pyre uncovered in Malawi offers rare insight into rituals of ancient African hunter-gatherer groups A cremation pyre built about 9,500 years ago has been discovered in Africa, offering a fresh glimpse into the complexity o..."
+      },
+      {
+        "char": "🚤",
+        "label": "boat sinks off Gambia",
+        "url": "https://www.bbc.com/news/articles/clynvkwglx4o?at_medium=RSS&at_campaign=rss",
+        "title": "Dozens missing after boat carrying 200 migrants sinks off Gambia",
+        "summary": "It is the latest accident on one of the world’s most dangerous routes used by West Africans trying to reach Spain."
+      },
+      {
+        "char": "💬",
+        "label": "maduro open to us talks",
+        "url": "https://www.bbc.com/news/articles/clyg23lj057o?at_medium=RSS&at_campaign=rss",
+        "title": "Maduro says Venezuela open to US talks on drug trafficking",
+        "summary": "In an interview with state TV, the Venezuelan president also evaded a question about an attack in his country claimed by the US."
+      },
+      {
+        "char": "🩺",
+        "label": "bolsonaro's hiccup treatment",
+        "url": "https://www.theguardian.com/world/2025/dec/29/brazil-ex-president-jair-bolsonaro-hiccups-treatment",
+        "title": "Jair Bolsonaro undergoes second procedure to treat persistent hiccups",
+        "summary": "Former Brazilian president underwent a phrenic nerve block while temporarily released from prison for surgery Jair Bolsonaro underwent a second “phrenic nerve block procedure” on Monday to treat persistent hiccups. The treatment went wel..."
+      },
+      {
+        "char": "🔒",
+        "label": "venezuela frees political prisoners",
+        "url": "https://www.nytimes.com/2026/01/01/world/americas/venezuela-prisoner-release.html",
+        "title": "Venezuela Frees Dozens of Political Prisoners",
+        "summary": "At least 80 people were released, including one with U.S. ties, though more than 800 remain detained in Venezuela for opposing President Nicolás Maduro’s rule, rights groups say."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
