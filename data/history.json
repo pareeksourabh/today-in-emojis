@@ -12847,5 +12847,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-03",
+    "emojis": [
+      {
+        "char": "🇻🇪",
+        "label": "maduro urges trump for talks",
+        "url": "https://www.theguardian.com/world/2026/jan/02/venezuela-maduro-open-to-talks-drug-trafficking-maduro",
+        "title": "Maduro urges Trump to abandon ‘illegal warmongering’ and start ‘serious talks’",
+        "summary": "Venezuelan president warns of a ‘forever war’ similar to Iraq after US counterpart claims first land strike on dock The Venezuelan leader, Nicolás Maduro, has urged Donald Trump to abandon his “illegal warmongering” and begin “serious ta..."
+      },
+      {
+        "char": "🔥",
+        "label": "fire kills 40 in switzerland",
+        "url": "https://www.nytimes.com/2026/01/01/world/europe/switzerland-fire-scene.html",
+        "title": "Witnesses Recount Fire That Killed 40 in Switzerland",
+        "summary": "It was a haven for the young, where they could find hot chocolate when they wanted quiet and affordable drinks when they did not. Then it turned into a place of death."
+      },
+      {
+        "char": "🇺🇦",
+        "label": "zelensky names new chief of staff",
+        "url": "https://www.nytimes.com/2026/01/02/world/europe/zelensky-budanov-ukraine-chief-of-staff-yermak.html",
+        "title": "Ukraine’s Zelensky Names Kyrylo Budanov as New Chief of Staff",
+        "summary": "President Volodymyr Zelensky said that in addition to that appointment, he planned to name a new defense minister as part of “a wave of personnel changes.”"
+      },
+      {
+        "char": "🇮🇷",
+        "label": "trump warns of us intervention in iran",
+        "url": "https://www.nytimes.com/2026/01/02/world/middleeast/trump-iran-protests.html",
+        "title": "Trump Says U.S. Will Intervene if Iran Kills Protesters",
+        "summary": "Mr. Trump’s remarks that he was ready to come to the protesters’ “rescue” are a sharp escalation as protests over economic hardship turned deadly."
+      },
+      {
+        "char": "🇬🇳",
+        "label": "guinea's coup leader wins election",
+        "url": "https://www.nytimes.com/2026/01/01/world/africa/guinea-election-mamady-doumbouya.html",
+        "title": "Guinea’s Coup Leader Wins Election After Barring Leading Opponents",
+        "summary": "Gen. Mamady Doumbouya, who seized power more than four years ago, took over 80 percent of the vote, according to a government-controlled agency that he set up."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
