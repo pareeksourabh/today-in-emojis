@@ -13155,5 +13155,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-04",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "european leaders torn over venezuela",
+        "url": "https://www.theguardian.com/world/2026/jan/04/venezuela-european-leaders-divided-and-torn-in-response-to-us-ousting-of-maduro",
+        "title": "European leaders appear torn in face of new world order after Venezuela attack",
+        "summary": "Leaders struggle to square welcome for ejection of Maduro with support for international law Venezuela crisis: latest updates European leaders emerged divided and torn as they tried to welcome the ejection of Venezuela’s authoritarian pr..."
+      },
+      {
+        "char": "🛢️",
+        "label": "trump's focus on venezuelan oil",
+        "url": "https://www.theguardian.com/world/2026/jan/04/trump-new-focus-venezuelan-oil-war-on-drugs",
+        "title": "Trump’s focus on Venezuelan oil reinforces claim action was never about ‘war on drugs’",
+        "summary": "US president claims US will take back ‘stolen’ oil, but experts say no legal claim to natural reserves exists Venezuela crisis – latest updates Hailing the US military operation to capture Nicolás Maduro as spectacular, extraordinary, an..."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran faces economic challenges",
+        "url": "https://www.nytimes.com/2026/01/04/world/middleeast/iran-protests.html",
+        "title": "Iran Faces Economic Challenges and Military Threats",
+        "summary": "Officials said that leaders were in survival mode amid anti-government protests and the prospect of again coming into the cross hairs of Israel and the United States."
+      },
+      {
+        "char": "⚽",
+        "label": "bangladesh withdraws from t20 world cup",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGlTOWJJV3hkcmFzR25FUXdOd1hkQml6QkdfMFFTdWlEZ2V4alNNOEZkdlh4NFIzb3E2M2s5d3hITTBMZHlZVW9LUnRZd0JZS05pOTBoMUx2S0ZjYkwyaWRKYVRDV0k3b2pWTkdKOExjeVpPRGVqazZiNmdBZlo1VTI5ZHduTTg4VmxpQzV2Y0tpbHl4c0xrYzNnYkxibklxTDBZNlFJZmxqaTN3dGc?oc=5",
+        "title": "Bangladesh say they will not play T20 World Cup matches in India - Reuters",
+        "summary": "Bangladesh say they will not play T20 World Cup matches in India Reuters"
+      },
+      {
+        "char": "📰",
+        "label": "us captures venezuela's president",
+        "url": "https://www.theguardian.com/world/2026/jan/03/why-trump-us-attacked-caracas-captured-venezuela-president-nicolas-maduro",
+        "title": "Why has the US captured Venezuela’s president and what happens next?",
+        "summary": "Donald Trump’s capture of Nicolás Maduro follows months of military campaign and years of strained relationship US attacks Venezuela – live updates The US carried out airstrikes across Venezuela overnight on Friday, with explosions rocki..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
