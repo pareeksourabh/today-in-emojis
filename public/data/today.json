@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-03",
-  "timestamp": "2026-01-03T16:10:59Z",
+  "date": "2026-01-04",
+  "timestamp": "2026-01-04T01:12:02Z",
   "emojis": [
     {
+      "char": "💰",
+      "label": "ethiopia bond restructuring deal",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTHlIWEVjM2tIZ1ZhN1Jjc2w5SEtqbUVIeUR4ejBYUFFkTGtyaWdiSjhYQzNKWU43RzJqQnR4ZFhTbFhWemozcjBMNjVJMWt3eVczTGRPeHBzel9PdEtzTTlNcEo1UXZVMjY4ckZPM3dVNDFSVW5ybWxfdjdfNWt0SjlDX0FIRXZwY1hiS3cyY01oOTNOOEtULTFRWXBZN3ZJYVc0Y0JsUWpQTVc0bjVVdENlTnhmUkZDZGVEb1lobndTenl5U2c?oc=5",
+      "title": "Ethiopia strikes draft restructuring deal on $1 billion bond with bondholder group - Reuters",
+      "summary": "Ethiopia strikes draft restructuring deal on $1 billion bond with bondholder group Reuters"
+    },
+    {
+      "char": "🇻🇪",
+      "label": "delcy rodriguez leads venezuela",
+      "url": "https://www.nytimes.com/2026/01/03/world/americas/delcy-rodriguez-venezuela-politics.html",
+      "title": "Delcy Rodríguez, Venezuela’s new leader, boasts leftist credentials",
+      "summary": "The interim leader is known for hewing to left-wing ideals, facing sanctions by the U.S. and European Union and building bridges with Venezuela’s business community."
+    },
+    {
+      "char": "🕊️",
+      "label": "ukraine security guarantees importance",
+      "url": "https://www.nytimes.com/2026/01/03/world/europe/ukraine-russia-trump-peace-security-guarantees.html",
+      "title": "Why Security Guarantees Are So Crucial, and Thorny, for Ukraine",
+      "summary": "While Kyiv has reported progress in negotiations, and is accelerating talks in the coming days, major questions remain unresolved about which countries will provide what kind of security for how long."
+    },
+    {
+      "char": "🚨",
+      "label": "missile attack in kharkiv",
+      "url": "https://www.bbc.com/news/articles/cx2lnk3486xo?at_medium=RSS&at_campaign=rss",
+      "title": "Missile attack on Kharkiv kills two including child, authorities say",
+      "summary": "Russian officials say reports of the missile strike are untrue, suggesting the explosion was caused by Ukrainian ammunition."
+    },
+    {
       "char": "🔥",
-      "label": "swiss bar fire investigation",
-      "url": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss",
-      "title": "Swiss open criminal case against managers of ski resort bar after deadly fire",
-      "summary": "It comes after a preliminary investigation found the likely cause was sparklers on champagne bottles being carried too close to the ceiling."
-    },
-    {
-      "char": "🇺🇸",
-      "label": "trump warns iran over protests",
-      "url": "https://www.nytimes.com/2026/01/02/world/middleeast/trump-iran-protests.html",
-      "title": "Trump Says U.S. Will Intervene if Iran Kills Protesters",
-      "summary": "Mr. Trump’s remarks that he was ready to come to the protesters’ “rescue” are a sharp escalation as protests over economic hardship turned deadly."
-    },
-    {
-      "char": "⚔️",
-      "label": "yemen military action against separatists",
-      "url": "https://www.nytimes.com/2026/01/02/world/middleeast/yemen-separatists-government.html",
-      "title": "Yemen Sends Its Military to Push Out Separatist Faction",
-      "summary": "The Saudi-backed government in Yemen said it would send forces to reclaim territory from a group that the United Arab Emirates supports."
-    },
-    {
-      "char": "❄️",
-      "label": "japan shelters due to heavy snow",
-      "url": "https://www.bbc.com/news/articles/cj3vmekg7ddo?at_medium=RSS&at_campaign=rss",
-      "title": "More than 100 shelter overnight in Japan shrine due to heavy snow",
-      "summary": "Visitors of the Mitsumine Shrine spent the night there after roads around it were shut off."
-    },
-    {
-      "char": "🤕",
-      "label": "anthony joshua's driver charged",
-      "url": "https://www.theguardian.com/world/2026/jan/02/anthony-joshuas-driver-charged-with-dangerous-driving-after-fatal-crash-in-nigeria",
-      "title": "Anthony Joshua’s driver charged with dangerous driving after fatal crash in Nigeria",
-      "summary": "British boxer was injured in collision that killed his personal trainer Latif Ayodele and strength coach Sina Ghami Nigerian police have charged Anthony Joshua’s driver with causing death by dangerous driving after a fatal crash that kil..."
+      "label": "swiss fire negligence charges",
+      "url": "https://www.nytimes.com/2026/01/03/world/europe/swiss-fire-bar-managers-charged.html",
+      "title": "Managers of Swiss Bar Are Suspected of Negligence in Deadly Fire, Police Say",
+      "summary": "The Swiss authorities say small fireworks on beverage bottles probably ignited foam insulation on the bar’s basement ceiling, setting off the broader blaze."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "The day is marked by tragic events including a deadly fire, a fatal crash, and escalating violence in protests, evoking a deep sense of sorrow and concern.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
