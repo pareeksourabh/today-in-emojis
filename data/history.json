@@ -13111,5 +13111,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-04",
+    "emojis": [
+      {
+        "char": "🇸🇦",
+        "label": "tensions between saudis and emiratis",
+        "url": "https://www.theguardian.com/world/2025/dec/30/saudi-arabia-uae-tension-future-yemen-boiling-point",
+        "title": "Tensions between Saudis and Emiratis over future of Yemen reach boiling point",
+        "summary": "Dispute has potential to create civil war in south of Yemen and spill over into neighbouring countries Tensions between the United Arab Emirates and Saudi Arabia over the future of Yemen and the imminent possibility of the declaration of..."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "trump says us will run venezuela",
+        "url": "https://www.bbc.com/news/articles/cd9enjeey3go?at_medium=RSS&at_campaign=rss",
+        "title": "Trump says US will 'run' Venezuela and 'fix oil infrastructure'",
+        "summary": "The US launched strikes on Venezuela on Saturday in which Maduro and his wife were captured by US forces."
+      },
+      {
+        "char": "🎾",
+        "label": "raducanu pulls out of osaka clash",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONms2UHdENzAwNFgtdkZsdktEZFRZSUd0QktkNVdBcnhud3JQaS1kX1d0RElmUjE1V0VBbmQtajNWX1ZfWU95TlducWxvOV83UTJHUHJfYTFqdHFLLVEyNms2UUo1YnVaZnlZVlpHLUJPRUptR2JER05QbEZkclZ3U0tMdUJncGdqZWRYbG4wNEI2SHpHM2tablUwNlRsWl81N0dzeWozc0s5ZWdKRnlLNFdYXy1KTFk?oc=5",
+        "title": "Raducanu pulls out of Osaka clash at United Cup as fitness concerns resurface - Reuters",
+        "summary": "Raducanu pulls out of Osaka clash at United Cup as fitness concerns resurface Reuters"
+      },
+      {
+        "char": "🔥",
+        "label": "cremation pyre in africa oldest remains",
+        "url": "https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains",
+        "title": "Cremation pyre in Africa thought to be world’s oldest containing adult remains",
+        "summary": "9,500-year-old pyre uncovered in Malawi offers rare insight into rituals of ancient African hunter-gatherer groups A cremation pyre built about 9,500 years ago has been discovered in Africa, offering a fresh glimpse into the complexity o..."
+      },
+      {
+        "char": "🚨",
+        "label": "anthony joshua's driver charged",
+        "url": "https://www.theguardian.com/world/2026/jan/02/anthony-joshuas-driver-charged-with-dangerous-driving-after-fatal-crash-in-nigeria",
+        "title": "Anthony Joshua’s driver charged with dangerous driving after fatal crash in Nigeria",
+        "summary": "British boxer was injured in collision that killed his personal trainer Latif Ayodele and strength coach Sina Ghami Nigerian police have charged Anthony Joshua’s driver with causing death by dangerous driving after a fatal crash that kil..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
