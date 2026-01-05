@@ -13375,5 +13375,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-05",
+    "emojis": [
+      {
+        "char": "🇩🇰",
+        "label": "denmark warns trump on greenland threats",
+        "url": "https://www.nytimes.com/2026/01/05/world/europe/trump-greenland-denmark.html",
+        "title": "Denmark Tells Trump to ‘Stop the Threats’ About Greenland",
+        "summary": "The Danish prime minister told President Trump to back down after he repeated his threat to acquire Greenland in the wake of the U.S. military raid in Venezuela."
+      },
+      {
+        "char": "🐟",
+        "label": "record bluefin tuna auction in tokyo",
+        "url": "https://www.bbc.com/news/articles/c8d0q16zvzgo?at_medium=RSS&at_campaign=rss",
+        "title": "Bluefin tuna fetches record $3.2m at Tokyo auction",
+        "summary": "The 243kg fish went to a man known as the Tuna King, who said \"the year's first tuna brings good luck\"."
+      },
+      {
+        "char": "🚗",
+        "label": "anthony joshua's driver charged in nigeria",
+        "url": "https://www.theguardian.com/world/2026/jan/02/anthony-joshuas-driver-charged-with-dangerous-driving-after-fatal-crash-in-nigeria",
+        "title": "Anthony Joshua’s driver charged with dangerous driving after fatal crash in Nigeria",
+        "summary": "British boxer was injured in collision that killed his personal trainer Latif Ayodele and strength coach Sina Ghami Nigerian police have charged Anthony Joshua’s driver with causing death by dangerous driving after a fatal crash that kil..."
+      },
+      {
+        "char": "🪦",
+        "label": "oldest cremation pyre found in africa",
+        "url": "https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains",
+        "title": "Cremation pyre in Africa thought to be world’s oldest containing adult remains",
+        "summary": "9,500-year-old pyre uncovered in Malawi offers rare insight into rituals of ancient African hunter-gatherer groups A cremation pyre built about 9,500 years ago has been discovered in Africa, offering a fresh glimpse into the complexity o..."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "maduro arrives at courthouse amid tensions",
+        "url": "https://www.nytimes.com/live/2026/01/05/world/venezuela-maduro-trump",
+        "title": "Venezuela Live Updates: Maduro Arrives at Courthouse as Trump Expands Threats",
+        "summary": "Nicolás Maduro, the ousted Venezuelan leader, and his wife were set to be arraigned on drug trafficking and other charges in Manhattan. President Trump’s suggestion of U.S. action against Colombia and Greenland drew sharp responses from..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
