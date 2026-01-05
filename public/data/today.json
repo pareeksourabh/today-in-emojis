@@ -39,5 +39,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "concern",
+    "emoji": "😨",
+    "rationale": "The day's news reflects a mix of geopolitical tension and tragic incidents, especially with Trump's threats and the fatal crash involving Anthony Joshua's driver, creating an overall atmosphere of anxiety.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
