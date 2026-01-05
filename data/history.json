@@ -13287,5 +13287,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-05",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "guinea's junta chief elected president",
+        "url": "https://www.theguardian.com/world/2025/dec/31/guinea-junta-chief-mamady-doumbouya-elected-president-after-opposition-boycott",
+        "title": "Guinea’s junta chief elected president after opposition boycott",
+        "summary": "Mamady Doumbouya reneged on promise not to stand and hand west African country back to civilian rule The head of Guinea’s junta, Mamady Doumbouya, who had pledged not to run for office after seizing power four years ago, has been elected..."
+      },
+      {
+        "char": "🔥",
+        "label": "deadly bar fire in swiss town",
+        "url": "https://www.nytimes.com/2026/01/04/world/europe/crans-montana-victims.html",
+        "title": "‘No One Is Ready for This’: How a Deadly Bar Fire Upended a Swiss Town",
+        "summary": "In Crans-Montana, the ski resort where at least 40 people died in a New Year’s Day blaze, many were struggling to process one of the worst such disasters in Switzerland’s history."
+      },
+      {
+        "char": "💵",
+        "label": "dollar rallies amid us data",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUi0weWFMc1hOUWgzTzdTek1jQk5HN0hQS0xEVlFVVEJvRy1idk40Y0RyNHVOdHF0Q2sza1pWbVdhOTV3QzRac19QdHhmelJZaFpnRXA1anNzTVNTazI1Y3czOXlPZWlKeWlSVnhfM0QySEtjcG1feTN2U3pORTZ3emluQ29qMEN0SFBTM01HWlFfT08zX3FFdEw0R09kWXNvZkE?oc=5",
+        "title": "Dollar rallies as traders look past Venezuela to flurry of US data - Reuters",
+        "summary": "Dollar rallies as traders look past Venezuela to flurry of US data Reuters"
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukrainian politics reawakens",
+        "url": "https://www.nytimes.com/2026/01/04/world/europe/ukraine-politics-cabinet-zelensky.html",
+        "title": "Ukrainian Politics Has Reawakened. Zelensky Must Tread Carefully.",
+        "summary": "The Ukrainian leader is reshuffling his cabinet as a corruption scandal reshapes the political landscape at a pivotal point in peace negotiations."
+      },
+      {
+        "char": "⚖️",
+        "label": "maduro's capture and us response",
+        "url": "https://www.nytimes.com/2026/01/04/world/americas/trump-latin-america-venezuela.html",
+        "title": "Maduro’s Capture Shows Trump’s Goal to Dominate the Americas",
+        "summary": "Latin America was already struggling with how to handle President Trump’s interventions in the region. Then he attacked Venezuela."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
