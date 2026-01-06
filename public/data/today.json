@@ -1,41 +1,41 @@
 {
   "date": "2026-01-06",
-  "timestamp": "2026-01-06T12:55:06Z",
+  "timestamp": "2026-01-06T16:13:16Z",
   "emojis": [
     {
+      "char": "🇮🇱",
+      "label": "israel's foreign minister visits somaliland",
+      "url": "https://www.bbc.com/news/articles/cwyrexdgzn9o?at_medium=RSS&at_campaign=rss",
+      "title": "Israel's foreign minister on historic visit to Somaliland",
+      "summary": "In a controversial move, Israel became the first nation to acknowledge Somaliland as an independent state."
+    },
+    {
+      "char": "📰",
+      "label": "venezuela detains journalists amid unrest",
+      "url": "https://www.bbc.com/news/articles/cd6w4y0eq70o?at_medium=RSS&at_campaign=rss",
+      "title": "Venezuelan security forces detain journalists as armed police patrol streets",
+      "summary": "Venezuelans describe their fear of speaking out as 14 media workers are detained and police check people's social media."
+    },
+    {
       "char": "📈",
-      "label": "trump on us oil in venezuela",
-      "url": "https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump claims US oil firms could be 'up and running' in Venezuela within 18 months",
-      "summary": "Trump is open about his ambitions for scaled-up US operations, but analysts say such plans would take time."
+      "label": "zelensky replaces security service chief",
+      "url": "https://www.bbc.com/news/articles/cpv7myg2nw4o?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky replaces Ukraine's powerful security service chief",
+      "summary": "The Ukrainian president has come under heavy criticism for his reshuffling of one the country's most successful security agencies."
     },
     {
       "char": "⚖️",
-      "label": "hypnotherapist trial in france",
+      "label": "hypnotherapist on trial for serious crimes",
       "url": "https://www.bbc.com/news/articles/c5y5wylpweqo?at_medium=RSS&at_campaign=rss",
       "title": "Self-proclaimed hypnotherapist on trial in France for drugging and raping women",
       "summary": "Cyril Zattara is charged with raping 14 women over a decade, as well as secretly filming others."
     },
     {
-      "char": "💰",
-      "label": "us aid conditions for un",
-      "url": "https://www.theguardian.com/global-development/2026/jan/01/us-aid-cuts-conditions-un-humanitarian-pledge-ocha",
-      "title": "US ‘adapt, shrink or die’ terms for $2bn aid pot will mean UN bowing down to Washington, say experts",
-      "summary": "Afghanistan and Yemen excluded from list of 17 priority countries chosen by Trump administration to receive aid laden with demands The $2bn (£1.5bn) of aid the US pledged this week may have been hailed as “bold and ambitious” by the UN b..."
-    },
-    {
       "char": "🔥",
-      "label": "swiss ski bar fire inspection",
-      "url": "https://www.bbc.com/news/articles/cdx4zxk1np0o?at_medium=RSS&at_campaign=rss",
-      "title": "Swiss ski bar not inspected for five years before deadly fire, mayor says",
-      "summary": "The New Year's Eve fire at a bar in Crans-Montana killed 40 people and injured 116."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "guinea junta chief elected",
-      "url": "https://www.theguardian.com/world/2025/dec/31/guinea-junta-chief-mamady-doumbouya-elected-president-after-opposition-boycott",
-      "title": "Guinea’s junta chief elected president after opposition boycott",
-      "summary": "Mamady Doumbouya reneged on promise not to stand and hand west African country back to civilian rule The head of Guinea’s junta, Mamady Doumbouya, who had pledged not to run for office after seizing power four years ago, has been elected..."
+      "label": "cremation pyre in africa is world's oldest",
+      "url": "https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains",
+      "title": "Cremation pyre in Africa thought to be world’s oldest containing adult remains",
+      "summary": "9,500-year-old pyre uncovered in Malawi offers rare insight into rituals of ancient African hunter-gatherer groups A cremation pyre built about 9,500 years ago has been discovered in Africa, offering a fresh glimpse into the complexity o..."
     }
   ],
   "source": "ai-openai",

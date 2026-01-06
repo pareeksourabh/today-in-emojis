@@ -13595,5 +13595,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-06",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israel's foreign minister visits somaliland",
+        "url": "https://www.bbc.com/news/articles/cwyrexdgzn9o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel's foreign minister on historic visit to Somaliland",
+        "summary": "In a controversial move, Israel became the first nation to acknowledge Somaliland as an independent state."
+      },
+      {
+        "char": "📰",
+        "label": "venezuela detains journalists amid unrest",
+        "url": "https://www.bbc.com/news/articles/cd6w4y0eq70o?at_medium=RSS&at_campaign=rss",
+        "title": "Venezuelan security forces detain journalists as armed police patrol streets",
+        "summary": "Venezuelans describe their fear of speaking out as 14 media workers are detained and police check people's social media."
+      },
+      {
+        "char": "📈",
+        "label": "zelensky replaces security service chief",
+        "url": "https://www.bbc.com/news/articles/cpv7myg2nw4o?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky replaces Ukraine's powerful security service chief",
+        "summary": "The Ukrainian president has come under heavy criticism for his reshuffling of one the country's most successful security agencies."
+      },
+      {
+        "char": "⚖️",
+        "label": "hypnotherapist on trial for serious crimes",
+        "url": "https://www.bbc.com/news/articles/c5y5wylpweqo?at_medium=RSS&at_campaign=rss",
+        "title": "Self-proclaimed hypnotherapist on trial in France for drugging and raping women",
+        "summary": "Cyril Zattara is charged with raping 14 women over a decade, as well as secretly filming others."
+      },
+      {
+        "char": "🔥",
+        "label": "cremation pyre in africa is world's oldest",
+        "url": "https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains",
+        "title": "Cremation pyre in Africa thought to be world’s oldest containing adult remains",
+        "summary": "9,500-year-old pyre uncovered in Malawi offers rare insight into rituals of ancient African hunter-gatherer groups A cremation pyre built about 9,500 years ago has been discovered in Africa, offering a fresh glimpse into the complexity o..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
