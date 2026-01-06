@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-05",
-  "timestamp": "2026-01-05T16:14:28Z",
+  "date": "2026-01-06",
+  "timestamp": "2026-01-06T01:04:54Z",
   "emojis": [
     {
-      "char": "🇩🇰",
-      "label": "denmark warns trump on greenland threats",
-      "url": "https://www.nytimes.com/2026/01/05/world/europe/trump-greenland-denmark.html",
-      "title": "Denmark Tells Trump to ‘Stop the Threats’ About Greenland",
-      "summary": "The Danish prime minister told President Trump to back down after he repeated his threat to acquire Greenland in the wake of the U.S. military raid in Venezuela."
-    },
-    {
-      "char": "🐟",
-      "label": "record bluefin tuna auction in tokyo",
-      "url": "https://www.bbc.com/news/articles/c8d0q16zvzgo?at_medium=RSS&at_campaign=rss",
-      "title": "Bluefin tuna fetches record $3.2m at Tokyo auction",
-      "summary": "The 243kg fish went to a man known as the Tuna King, who said \"the year's first tuna brings good luck\"."
-    },
-    {
-      "char": "🚗",
-      "label": "anthony joshua's driver charged in nigeria",
-      "url": "https://www.theguardian.com/world/2026/jan/02/anthony-joshuas-driver-charged-with-dangerous-driving-after-fatal-crash-in-nigeria",
-      "title": "Anthony Joshua’s driver charged with dangerous driving after fatal crash in Nigeria",
-      "summary": "British boxer was injured in collision that killed his personal trainer Latif Ayodele and strength coach Sina Ghami Nigerian police have charged Anthony Joshua’s driver with causing death by dangerous driving after a fatal crash that kil..."
-    },
-    {
-      "char": "🪦",
-      "label": "oldest cremation pyre found in africa",
-      "url": "https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains",
-      "title": "Cremation pyre in Africa thought to be world’s oldest containing adult remains",
-      "summary": "9,500-year-old pyre uncovered in Malawi offers rare insight into rituals of ancient African hunter-gatherer groups A cremation pyre built about 9,500 years ago has been discovered in Africa, offering a fresh glimpse into the complexity o..."
-    },
-    {
       "char": "🇻🇪",
-      "label": "maduro arrives at courthouse amid tensions",
-      "url": "https://www.nytimes.com/live/2026/01/05/world/venezuela-maduro-trump",
-      "title": "Venezuela Live Updates: Maduro Arrives at Courthouse as Trump Expands Threats",
-      "summary": "Nicolás Maduro, the ousted Venezuelan leader, and his wife were set to be arraigned on drug trafficking and other charges in Manhattan. President Trump’s suggestion of U.S. action against Colombia and Greenland drew sharp responses from..."
+      "label": "venezuela swears in interim president",
+      "url": "https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss",
+      "title": "Venezuela swears in interim president after defiant Maduro pleads not guilty in US court",
+      "summary": "Delcy Rodriguez said she was pained by what she called the \"kidnapping\" of Maduro and his wife."
+    },
+    {
+      "char": "⚖️",
+      "label": "brazil judge considers asset sales block",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUk5OGk5S0ZOSW5NdGlSbHIyMW0tbmtzbmFqRUlNN2djekVKeHhrZkl6V2JyTkxDS3RXc2xJTG9ETDBEQnkxNk9uUE55Y0hLTVFzaDZEVlh0Y0JSZTQ4NVdmNFhKMEg2TGpDakRrVkJVVXdIWVh5Zmk0Uy1na1prX255UTFxbG1VM3VwQkJra2dqN2N2NjFtU2hfaXhLVFZUSFV0LWQwaUk1MkNMc3Z5MGVxbnc?oc=5",
+      "title": "Brazil judge considers blocking asset sales in Banco Master case - Reuters",
+      "summary": "Brazil judge considers blocking asset sales in Banco Master case Reuters"
+    },
+    {
+      "char": "🖥️",
+      "label": "ai images of maduro go viral",
+      "url": "https://www.theguardian.com/technology/2026/jan/05/maduro-venezuela-ai-images",
+      "title": "AI images of Maduro capture reap millions of views on social media",
+      "summary": "Lack of verified information and rapidly advanced AI tools make it difficult to separate fact from fiction on US attack Minutes after Donald Trump announced a “large-scale strike” against Venezuela early on Saturday morning, false and mi..."
+    },
+    {
+      "char": "🌍",
+      "label": "trump wants to buy greenland",
+      "url": "https://www.nytimes.com/2026/01/05/world/europe/trump-greenland-why.html",
+      "title": "Why Trump Wants Greenland",
+      "summary": "President Trump has reiterated his interest in annexing Denmark’s semiautonomous territory, saying it is vital for America’s national security."
+    },
+    {
+      "char": "🧑‍⚖️",
+      "label": "maduro pleads not guilty in court",
+      "url": "https://www.theguardian.com/us-news/2026/jan/05/maduro-pleads-not-guilty",
+      "title": "Deposed Maduro pleads not guilty after capture in shock US attack on Venezuela",
+      "summary": "President protests innocence in US court as countries at UN meeting condemn Donald Trump’s ‘crime of aggression’ Venezuela crisis – latest updates The deposed Venezuelan president Nicolás Maduro pleaded not guilty to drugs, weapons and n..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "concern",
-    "emoji": "😨",
-    "rationale": "The day's news reflects a mix of geopolitical tension and tragic incidents, especially with Trump's threats and the fatal crash involving Anthony Joshua's driver, creating an overall atmosphere of anxiety.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
