@@ -13507,5 +13507,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-06",
+    "emojis": [
+      {
+        "char": "🪦",
+        "label": "world's oldest cremation pyre",
+        "url": "https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains",
+        "title": "Cremation pyre in Africa thought to be world’s oldest containing adult remains",
+        "summary": "9,500-year-old pyre uncovered in Malawi offers rare insight into rituals of ancient African hunter-gatherer groups A cremation pyre built about 9,500 years ago has been discovered in Africa, offering a fresh glimpse into the complexity o..."
+      },
+      {
+        "char": "🤝",
+        "label": "south korea-china ties",
+        "url": "https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss",
+        "title": "Selfies and smiles: South Korea seeks 'new phase' in ties with China",
+        "summary": "South Korea's Lee Jae Myung snapped selfies with China's Xi Jinping as he pursues better ties with China in a four-day visit."
+      },
+      {
+        "char": "⚖️",
+        "label": "maduro pleads not guilty",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFpoYkhTS3R3aFBseGhmS2hSTHNpVjRmWUlhT1Vnak1MMjJNQ2xHOUc0Ykw3aEtGeVB6Q0R3WDJrVHZvOUd1YlNnc0liNWxjSGFHeGNGdFJrdml3aDZHZUJVajcxTV9zNVZtZU85U2JPYm1rblhVaWplQTVUdHRqcUxMUzVSdzVyRGp6SEdNTTBVR1lreHVvbHpZNnJ2Uk5KeHVjTDFIdUc1aTB5ZFNrRmtsTTVEUm9sSUxqYQ?oc=5",
+        "title": "Maduro pleads not guilty to drug charges, saying he was 'kidnapped' - Reuters",
+        "summary": "Maduro pleads not guilty to drug charges, saying he was 'kidnapped' Reuters"
+      },
+      {
+        "char": "🇻🇪",
+        "label": "american detained in venezuela",
+        "url": "https://www.nytimes.com/2026/01/05/world/americas/james-luckey-lange-american-detained-venezuela-counterintelligence.html",
+        "title": "James Luckey-Lange, American Detained in Venezuela, Is Being Held by Country’s Counterintelligence",
+        "summary": "The location of James Luckey-Lange of New York City, who went missing in Venezuela in early December, was previously unknown."
+      },
+      {
+        "char": "🌍",
+        "label": "tensions over yemen's future",
+        "url": "https://www.theguardian.com/world/2025/dec/30/saudi-arabia-uae-tension-future-yemen-boiling-point",
+        "title": "Tensions between Saudis and Emiratis over future of Yemen reach boiling point",
+        "summary": "Dispute has potential to create civil war in south of Yemen and spill over into neighbouring countries Tensions between the United Arab Emirates and Saudi Arabia over the future of Yemen and the imminent possibility of the declaration of..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
