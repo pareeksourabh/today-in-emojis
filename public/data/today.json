@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-06",
-  "timestamp": "2026-01-06T16:13:16Z",
+  "date": "2026-01-07",
+  "timestamp": "2026-01-07T01:05:39Z",
   "emojis": [
     {
       "char": "🇮🇱",
-      "label": "israel's foreign minister visits somaliland",
-      "url": "https://www.bbc.com/news/articles/cwyrexdgzn9o?at_medium=RSS&at_campaign=rss",
-      "title": "Israel's foreign minister on historic visit to Somaliland",
-      "summary": "In a controversial move, Israel became the first nation to acknowledge Somaliland as an independent state."
+      "label": "israel divided over investigation",
+      "url": "https://www.nytimes.com/2026/01/06/world/middleeast/israel-october-7-commission.html",
+      "title": "Why Israel Is Divided Over How to Investigate Oct. 7 Failures",
+      "summary": "Prime Minister Benjamin Netanyahu has proposed a commission with members chosen in a way that departs from existing law."
     },
     {
-      "char": "📰",
-      "label": "venezuela detains journalists amid unrest",
-      "url": "https://www.bbc.com/news/articles/cd6w4y0eq70o?at_medium=RSS&at_campaign=rss",
-      "title": "Venezuelan security forces detain journalists as armed police patrol streets",
-      "summary": "Venezuelans describe their fear of speaking out as 14 media workers are detained and police check people's social media."
-    },
-    {
-      "char": "📈",
-      "label": "zelensky replaces security service chief",
-      "url": "https://www.bbc.com/news/articles/cpv7myg2nw4o?at_medium=RSS&at_campaign=rss",
-      "title": "Zelensky replaces Ukraine's powerful security service chief",
-      "summary": "The Ukrainian president has come under heavy criticism for his reshuffling of one the country's most successful security agencies."
-    },
-    {
-      "char": "⚖️",
-      "label": "hypnotherapist on trial for serious crimes",
-      "url": "https://www.bbc.com/news/articles/c5y5wylpweqo?at_medium=RSS&at_campaign=rss",
-      "title": "Self-proclaimed hypnotherapist on trial in France for drugging and raping women",
-      "summary": "Cyril Zattara is charged with raping 14 women over a decade, as well as secretly filming others."
+      "char": "🇻🇪",
+      "label": "venezuela oil deal with us",
+      "url": "https://www.theguardian.com/world/2026/jan/07/venezuela-oil-trump-us-latest",
+      "title": "Venezuela ‘turning over’ up to 50m barrels of oil to the US, Trump says",
+      "summary": "The president’s announcement comes as Venezuela seeks to avoid deep cuts in output amid an ongoing blockade on exports imposed by the US Donald Trump has said Venezuela will be “turning over” 30 to 50m barrels of sanctioned oil to the US..."
     },
     {
       "char": "🔥",
-      "label": "cremation pyre in africa is world's oldest",
+      "label": "oldest cremation pyre found",
       "url": "https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains",
       "title": "Cremation pyre in Africa thought to be world’s oldest containing adult remains",
       "summary": "9,500-year-old pyre uncovered in Malawi offers rare insight into rituals of ancient African hunter-gatherer groups A cremation pyre built about 9,500 years ago has been discovered in Africa, offering a fresh glimpse into the complexity o..."
+    },
+    {
+      "char": "💰",
+      "label": "fed banks vote on discount rate",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0VGaUtXd2YwY0NsM05iZGlHQ0NiSzhOczFxQ1NVbG1VUDVmZXdrRW8yVEZUR2hCeDJ5c2ExTElKd3ZXYU9lVmNkWUZTUUgtRlI3V0hia1FORUtkWDJjdHdMZlVjVWR2cS13MnFsU0kwbWdrT0VYQTgwS0djWnotSnRfTE1fOXVjZVk4UFlGSk5rcVNCYk5RV0dMYnBjVTFPaWxTekc2Q1ZfMWFnRXVMSTdmUjRmUQ?oc=5",
+      "title": "Majority of Fed banks voted against December change to discount rate - Reuters",
+      "summary": "Majority of Fed banks voted against December change to discount rate Reuters"
+    },
+    {
+      "char": "❄️",
+      "label": "snow chaos across europe",
+      "url": "https://www.bbc.com/news/articles/czjg37p34r3o?at_medium=RSS&at_campaign=rss",
+      "title": "Six dead and hundreds of flights cancelled as snow causes chaos across Europe",
+      "summary": "Hundreds of flights have been cancelled in Amsterdam and Paris, with thousands of people stranded."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😨",
-    "emoji": "😨",
-    "rationale": "Today's news highlights significant tension and fear, particularly in Venezuela where journalists are detained, alongside disturbing criminal cases in France. The overall atmosphere is one of anxiety and uncertainty.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
