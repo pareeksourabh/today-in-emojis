@@ -13771,5 +13771,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-07",
+    "emojis": [
+      {
+        "char": "🇵🇸",
+        "label": "displaced palestinians await border reopening",
+        "url": "https://www.nytimes.com/video/world/middleeast/100000010590402/palestinians-egypt-gaza-border.html",
+        "title": "Displaced Palestinians in Egypt Await Reopening of Gaza Border",
+        "summary": "Tens of thousands of Palestinians in Egypt face an uncertain future as they navigate obstacles to staying in the country and returning home to Gaza. The New York Times spoke to a family that remains separated despite a truce in the terri..."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela's environmental future questions",
+        "url": "https://www.nytimes.com/2026/01/06/climate/the-unanswered-questions-about-venezuelas-environmental-future.html",
+        "title": "The Unanswered Questions About Venezuela’s Environmental Future",
+        "summary": "The Trump administration has made no secret that it covets Venezuela’s oil reserves. What happens next could have serious implications for the planet."
+      },
+      {
+        "char": "🛢️",
+        "label": "trump says venezuela will send oil to us",
+        "url": "https://www.nytimes.com/live/2026/01/07/world/venezuela-us-trump",
+        "title": "Live Updates: Trump Says Venezuela Will Send Oil to U.S.",
+        "summary": "If confirmed, the move would be the start of President Trump’s plan to exploit the country’s vast reserves after U.S. forces captured President Nicolás Maduro."
+      },
+      {
+        "char": "🔥",
+        "label": "families shocked by deadly ski bar fire",
+        "url": "https://www.bbc.com/news/articles/c74wexkd598o?at_medium=RSS&at_campaign=rss",
+        "title": "Families shocked Swiss ski bar was not inspected for years before deadly fire",
+        "summary": "The New Year's Eve fire at a bar in Crans-Montana killed 40 people and injured 116."
+      },
+      {
+        "char": "🇬🇱",
+        "label": "us discusses options to acquire greenland",
+        "url": "https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&at_campaign=rss",
+        "title": "US discussing options to acquire Greenland, including use of military, says White House",
+        "summary": "It came as European allies rallied behind Denmark, which is pushing back against Trump's ambitions for the Arctic island."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
