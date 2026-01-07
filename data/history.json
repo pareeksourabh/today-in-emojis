@@ -13815,5 +13815,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-07",
+    "emojis": [
+      {
+        "char": "📈",
+        "label": "wall street mixed as ai rally cools",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYWZaV05sTmNkWFZ1b1VQakJBRVIwdEVlZ0JYbFU2WndPZlE2R1hqRUM2SUJJemotaG96U2hFOXJGNE56b0V5UmZ5X2FDbWFpc1JkeWM1SF9Tbnc4X0lDMmpqWWZaQXJ4YmFvM0UwLXBMUEowUE44dVg0RFBIZkx5YVdfLXVaTVJKQjNLQk4zRWZNQTZJTjg0cUpWaW5yTlpBVmcyMWJPS0NQUQ?oc=5",
+        "title": "Wall Street mixed as AI-driven rally cools, investors assess labor data - Reuters",
+        "summary": "Wall Street mixed as AI-driven rally cools, investors assess labor data Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "buy greenland? trump's free hand",
+        "url": "https://www.nytimes.com/2026/01/07/world/europe/trump-greenland-denmark-us-defense-pact.html",
+        "title": "Buy Greenland? Take It? Why? An Old Pact Already Gives Trump a Free Hand.",
+        "summary": "Analysts say the Cold War agreement allows the president to increase the American military presence almost at will."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "opposition leader machado on venezuela",
+        "url": "https://www.bbc.com/news/articles/c0er4qd3115o?at_medium=RSS&at_campaign=rss",
+        "title": "Opposition leader Machado says her coalition should lead Venezuela",
+        "summary": "President Trump has publicly dismissed the Nobel winner Machado saying she doesn't have local support and respect."
+      },
+      {
+        "char": "🕊️",
+        "label": "yemen separatist leader refuses talks",
+        "url": "https://www.nytimes.com/2026/01/07/world/middleeast/yemen-separatist-leader-zubaidi-saudi-arabia-uae.html",
+        "title": "Yemen Separatist Leader Refuses to Attend Talks, Deepening Saudi Arabia-UAE Clash",
+        "summary": "Southern Yemen has been engulfed in a proxy conflict that pits two U.S. allies, Saudi Arabia and the United Arab Emirates, against each other."
+      },
+      {
+        "char": "⚓",
+        "label": "us seizes russian-flagged oil tanker",
+        "url": "https://www.theguardian.com/world/2026/jan/07/russia-submarine-escort-shadow-fleet-tanker-us-sanctions",
+        "title": "US seizes Russian-flagged oil tanker in Atlantic after two-week pursuit",
+        "summary": "US coastguard reportedly boards the Marinera, facing no resistance but risking confrontation with Moscow Europe live – latest updates The US has seized a Russian-flagged oil tanker in the Atlantic Ocean in a high-stakes operation that co..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
