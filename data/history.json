@@ -13683,5 +13683,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-07",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "european allies support ukraine",
+        "url": "https://www.nytimes.com/2026/01/06/world/europe/ukraine-talks-europe.html",
+        "title": "European Allies Agree to Key Security Provisions for Ukraine",
+        "summary": "Britain and France firmed up a postwar troop commitment in Ukraine, though Russia has said it will reject any deal that allows NATO-country forces in Ukraine."
+      },
+      {
+        "char": "❄️",
+        "label": "snow chaos in europe",
+        "url": "https://www.bbc.com/news/articles/czjg37p34r3o?at_medium=RSS&at_campaign=rss",
+        "title": "Six dead and hundreds of flights cancelled as snow causes chaos across Europe",
+        "summary": "Hundreds of flights have been cancelled in Amsterdam and Paris, with thousands of people stranded."
+      },
+      {
+        "char": "🔥",
+        "label": "deadly fire in swiss bar",
+        "url": "https://www.nytimes.com/2026/01/06/world/europe/switzerland-le-constellation-fire-inspections.html",
+        "title": "Swiss Bar Hit by Deadly Fire Was Not Inspected for 6 Years, Authorities Say",
+        "summary": "Officials in Crans-Montana, the Swiss alpine resort town where a bar fire killed 40 people last week, are facing growing accusations of lax oversight."
+      },
+      {
+        "char": "🛢️",
+        "label": "venezuela oil export deal",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHBYYWc5Vk5TTVYtRWcxTjliNXNQU0ItMXJWcWRCRklaMnNLSkg0S05kaGpjcTN1dnJKRzBsVkRxeC1zQXRYVlUyX29zLWhiNzNwWWNXaFhCQ3hXcE1RTXl4SmRId3FuQ19TeW01dm93TWtVYVEzbmVKa2tBSTZ4T09rM3RCanBqQmpCdGxZUlQ4Ulk2MXR4alFULVQ0aTVVZlM4NWRZR3owMlE?oc=5",
+        "title": "Venezuela to export $2 billion worth of oil to US in deal with Washington - Reuters",
+        "summary": "Venezuela to export $2 billion worth of oil to US in deal with Washington Reuters"
+      },
+      {
+        "char": "⚖️",
+        "label": "iran protests investigation",
+        "url": "https://www.nytimes.com/2026/01/06/world/middleeast/iran-protests-violence.html",
+        "title": "Iran Says It’s Investigating Violence at Weekend Protests",
+        "summary": "Rights groups accuse security forces of killing protesters and storming a hospital in the province of Ilam. State media claimed that some protesters were armed."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
