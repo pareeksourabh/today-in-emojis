@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-07",
-  "timestamp": "2026-01-07T16:15:39Z",
+  "date": "2026-01-08",
+  "timestamp": "2026-01-08T01:05:11Z",
   "emojis": [
     {
-      "char": "📈",
-      "label": "wall street mixed as ai rally cools",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYWZaV05sTmNkWFZ1b1VQakJBRVIwdEVlZ0JYbFU2WndPZlE2R1hqRUM2SUJJemotaG96U2hFOXJGNE56b0V5UmZ5X2FDbWFpc1JkeWM1SF9Tbnc4X0lDMmpqWWZaQXJ4YmFvM0UwLXBMUEowUE44dVg0RFBIZkx5YVdfLXVaTVJKQjNLQk4zRWZNQTZJTjg0cUpWaW5yTlpBVmcyMWJPS0NQUQ?oc=5",
-      "title": "Wall Street mixed as AI-driven rally cools, investors assess labor data - Reuters",
-      "summary": "Wall Street mixed as AI-driven rally cools, investors assess labor data Reuters"
-    },
-    {
-      "char": "🌍",
-      "label": "buy greenland? trump's free hand",
-      "url": "https://www.nytimes.com/2026/01/07/world/europe/trump-greenland-denmark-us-defense-pact.html",
-      "title": "Buy Greenland? Take It? Why? An Old Pact Already Gives Trump a Free Hand.",
-      "summary": "Analysts say the Cold War agreement allows the president to increase the American military presence almost at will."
+      "char": "🚢",
+      "label": "us seizes russian tanker linked to venezuela",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2hDdVNjbFU4RVFKNkJfSjM5MU9mWUU4c19oRFJaOHVwR3pQb2FBaElnZHY2VC1Sbks2d3l3UDE0NktabkFTSWU2bXIxSDd1TTJzNnZETUY4ZkpXazVuSi1DLTZNRk5LVWhFY1R6czltcmVJaGNqYVI2clA1cnFSdld4ekJUeXJSc1QxNE1PZ09VOU5xS3ZCYWxhQndZYTFjaFBfRHBGNlM?oc=5",
+      "title": "US seizes Russian-flagged tanker, another tied to Venezuela as Trump widens oil push - Reuters",
+      "summary": "US seizes Russian-flagged tanker, another tied to Venezuela as Trump widens oil push Reuters"
     },
     {
       "char": "🇻🇪",
-      "label": "opposition leader machado on venezuela",
-      "url": "https://www.bbc.com/news/articles/c0er4qd3115o?at_medium=RSS&at_campaign=rss",
-      "title": "Opposition leader Machado says her coalition should lead Venezuela",
-      "summary": "President Trump has publicly dismissed the Nobel winner Machado saying she doesn't have local support and respect."
+      "label": "maduro's repression intensifies in venezuela",
+      "url": "https://www.nytimes.com/2026/01/07/world/americas/venezuela-repression.html",
+      "title": "Maduro Is Gone, but Repression in Venezuela Has Intensified",
+      "summary": "Security forces have boarded buses, searched phones and interrogated people, looking for evidence that they welcomed the capture of Nicolás Maduro."
     },
     {
       "char": "🕊️",
-      "label": "yemen separatist leader refuses talks",
-      "url": "https://www.nytimes.com/2026/01/07/world/middleeast/yemen-separatist-leader-zubaidi-saudi-arabia-uae.html",
-      "title": "Yemen Separatist Leader Refuses to Attend Talks, Deepening Saudi Arabia-UAE Clash",
-      "summary": "Southern Yemen has been engulfed in a proxy conflict that pits two U.S. allies, Saudi Arabia and the United Arab Emirates, against each other."
+      "label": "un rights chief on israeli apartheid",
+      "url": "https://www.bbc.com/news/articles/cly9erv6p15o?at_medium=RSS&at_campaign=rss",
+      "title": "UN rights chief says Israeli policy in West Bank 'resembles apartheid system'",
+      "summary": "Israel says Volker Türk's office makes \"absurd\" accusations in a report that details what the UN calls \"systemic discrimination\" against Palestinians."
     },
     {
       "char": "⚓",
-      "label": "us seizes russian-flagged oil tanker",
-      "url": "https://www.theguardian.com/world/2026/jan/07/russia-submarine-escort-shadow-fleet-tanker-us-sanctions",
-      "title": "US seizes Russian-flagged oil tanker in Atlantic after two-week pursuit",
-      "summary": "US coastguard reportedly boards the Marinera, facing no resistance but risking confrontation with Moscow Europe live – latest updates The US has seized a Russian-flagged oil tanker in the Atlantic Ocean in a high-stakes operation that co..."
+      "label": "us seizes shadow fleet tankers",
+      "url": "https://www.bbc.com/news/articles/c5y2v8ngl14o?at_medium=RSS&at_campaign=rss",
+      "title": "US seizes two 'shadow fleet' tankers linked to Venezuelan oil",
+      "summary": "The ships were boarded by US forces in predawn operations in the North Atlantic and the Caribbean Sea."
+    },
+    {
+      "char": "🦍",
+      "label": "rare mountain gorilla twins born",
+      "url": "https://www.bbc.com/news/articles/c86v3y45pyyo?at_medium=RSS&at_campaign=rss",
+      "title": "Rare mountain gorilla twins born in Africa's oldest national park",
+      "summary": "Trackers in DR Congo's Virunga National Park spotted the babies being hugged by their mother on Saturday."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "concerned",
-    "emoji": "😨",
-    "rationale": "The news reflects a mix of geopolitical tensions and economic uncertainty, raising concerns about global stability and investor sentiment.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

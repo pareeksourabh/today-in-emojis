@@ -13859,5 +13859,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-08",
+    "emojis": [
+      {
+        "char": "🚢",
+        "label": "us seizes russian tanker linked to venezuela",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2hDdVNjbFU4RVFKNkJfSjM5MU9mWUU4c19oRFJaOHVwR3pQb2FBaElnZHY2VC1Sbks2d3l3UDE0NktabkFTSWU2bXIxSDd1TTJzNnZETUY4ZkpXazVuSi1DLTZNRk5LVWhFY1R6czltcmVJaGNqYVI2clA1cnFSdld4ekJUeXJSc1QxNE1PZ09VOU5xS3ZCYWxhQndZYTFjaFBfRHBGNlM?oc=5",
+        "title": "US seizes Russian-flagged tanker, another tied to Venezuela as Trump widens oil push - Reuters",
+        "summary": "US seizes Russian-flagged tanker, another tied to Venezuela as Trump widens oil push Reuters"
+      },
+      {
+        "char": "🇻🇪",
+        "label": "maduro's repression intensifies in venezuela",
+        "url": "https://www.nytimes.com/2026/01/07/world/americas/venezuela-repression.html",
+        "title": "Maduro Is Gone, but Repression in Venezuela Has Intensified",
+        "summary": "Security forces have boarded buses, searched phones and interrogated people, looking for evidence that they welcomed the capture of Nicolás Maduro."
+      },
+      {
+        "char": "🕊️",
+        "label": "un rights chief on israeli apartheid",
+        "url": "https://www.bbc.com/news/articles/cly9erv6p15o?at_medium=RSS&at_campaign=rss",
+        "title": "UN rights chief says Israeli policy in West Bank 'resembles apartheid system'",
+        "summary": "Israel says Volker Türk's office makes \"absurd\" accusations in a report that details what the UN calls \"systemic discrimination\" against Palestinians."
+      },
+      {
+        "char": "⚓",
+        "label": "us seizes shadow fleet tankers",
+        "url": "https://www.bbc.com/news/articles/c5y2v8ngl14o?at_medium=RSS&at_campaign=rss",
+        "title": "US seizes two 'shadow fleet' tankers linked to Venezuelan oil",
+        "summary": "The ships were boarded by US forces in predawn operations in the North Atlantic and the Caribbean Sea."
+      },
+      {
+        "char": "🦍",
+        "label": "rare mountain gorilla twins born",
+        "url": "https://www.bbc.com/news/articles/c86v3y45pyyo?at_medium=RSS&at_campaign=rss",
+        "title": "Rare mountain gorilla twins born in Africa's oldest national park",
+        "summary": "Trackers in DR Congo's Virunga National Park spotted the babies being hugged by their mother on Saturday."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
