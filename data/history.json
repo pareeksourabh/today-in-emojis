@@ -14123,5 +14123,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-09",
+    "emojis": [
+      {
+        "char": "🔥",
+        "label": "tehran protests escalate",
+        "url": "https://www.bbc.com/news/videos/c78e9vmn7dgo?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: Buildings in Tehran set on fire as demonstrations spread across Iran",
+        "summary": "In video verified by BBC Persian, protesters in Iran can be heard chanting anti-government slogans."
+      },
+      {
+        "char": "🚢",
+        "label": "shadow fleet emerges",
+        "url": "https://www.nytimes.com/2026/01/08/world/europe/russia-shadow-fleet-venezuela.html",
+        "title": "Hoisting Russian Flags, ‘Shadow Fleet’ Edges Into the Light",
+        "summary": "The Marinera, which was seized by the U.S., isn’t the only ship from the “shadow fleet” of oil tankers to switch lately to a Russian identity, seeking protection."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "brazil vetoes bolsonaro bill",
+        "url": "https://www.theguardian.com/world/2026/jan/08/brazil-president-lula-vetoes-bill-jair-bolsonaro-prison-sentence",
+        "title": "Brazilian president vetoes bill reducing Jair Bolsonaro’s prison sentence",
+        "summary": "Luiz Inácio Lula da Silva rejects bill passed by congress as he marks anniversary of 2023 Brasília riots Brazil’s president, Luiz Inácio Lula da Silva, has vetoed a bill that would dramatically reduce the prison sentence of the country’s..."
+      },
+      {
+        "char": "🗳️",
+        "label": "venezuela releases prisoners",
+        "url": "https://www.bbc.com/news/articles/c0mkwl2g499o?at_medium=RSS&at_campaign=rss",
+        "title": "Venezuelan government begins releasing political prisoners",
+        "summary": "The US, which recently captured its President Nicolás Maduro, has long demanded the detainees be freed."
+      },
+      {
+        "char": "🌐",
+        "label": "iran internet shutdown",
+        "url": "https://www.nytimes.com/2026/01/08/world/middleeast/iran-protests-internet-shutdown.html",
+        "title": "Iran Is Cut Off From Internet as Protests Calling for Regime Change Intensify",
+        "summary": "As protests swelled around the country, Iran’s internet was shut down, and the heads of its judiciary and its security services warned of a harsh response amid calls for “freedom, freedom.”"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
