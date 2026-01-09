@@ -14079,5 +14079,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-09",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "italy warns on deepfake ai content",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXpIVFIwR0d5YVV1eTBYOE5JdFpaSkRPWi1zbHhhcUVweVlzNlFOT3d5a2ttS1VrWWpKZjNkOUx1UzNfbFZBajhRN25jX1RxbV9vbWhmeGRmQmRfdVRUbmkxV2lJcFJrUld4QnI2eHVGLUE2bHd0YlF1aTA1Y2JlbnV2OGhnY01Mb1RscGY2Wk1aS1hiMHpCNWtGajRqX3ZlN2ZQOEtodFc3ajVSa21HbmV3?oc=5",
+        "title": "Italy’s privacy watchdog warns Grok over deepfake AI content - Reuters",
+        "summary": "Italy’s privacy watchdog warns Grok over deepfake AI content Reuters"
+      },
+      {
+        "char": "🚢",
+        "label": "shadow fleet ships reflagged to russia",
+        "url": "https://www.theguardian.com/business/2026/jan/08/shadow-fleet-ships-sanctioned-oil-reflagged-russia-lloyds-list-analysis",
+        "title": "‘Shadow fleet’ ships moving sanctioned oil reflagged to Russia at rising rate",
+        "summary": "Lloyd’s List analysis suggests 40 suspicious vessels joined Russian registry last year, with 17 reflagged last month Two oil tankers under US sanctions sailing through Channel towards Russia Forty ships accused of belonging to a large “s..."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "venezuela releases detainees for peace",
+        "url": "https://www.theguardian.com/world/2026/jan/08/venezuela-to-release-important-number-of-detainees",
+        "title": "Venezuela says it is releasing an important number of detainees to ‘consolidate peace’",
+        "summary": "Opposition leader María Corina Machado hails move to tackle ‘injustice’ as Spain’s foreign ministry confirms release of five Spanish nationals Five days after the US seized Nicolás Maduro, Venezuela has announced it is releasing an “impo..."
+      },
+      {
+        "char": "💰",
+        "label": "trump mulls payments to greenlanders",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYUlaQlRtVXVZbDU3LW1XVG52blFpQXdJaDA1SWNRajNnY2h3VjBXdG84S1pmX2s2Y2tuWlFDUktOcUlSS1BBSXowYU1wcFdCVThscmxJUm5ldHFvWE02NHY0bElSaU14czBrT3Fkc2lTV2x4dEo3RWpoZnh4bGh1YlFSTHh0eHlQWkctX24tOHlzTHl4RWp6VjYwYnV2Z21LT2FsS2lGWTZkYUFfQ0Jr?oc=5",
+        "title": "Exclusive: Trump administration mulls payments to sway Greenlanders to join US - Reuters",
+        "summary": "Exclusive: Trump administration mulls payments to sway Greenlanders to join US Reuters"
+      },
+      {
+        "char": "🎾",
+        "label": "tennis kenya admits amateur error",
+        "url": "https://www.bbc.com/sport/tennis/articles/cx2gr00ndmyo?at_medium=RSS&at_campaign=rss",
+        "title": "Tennis Kenya admits it shouldn't have let amateur compete after viral defeat",
+        "summary": "The organisers of a professional women's tournament which has gone viral because of a wildcard player's poor performance acknowledge she should not have been allowed to play."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

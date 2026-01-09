@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-08",
-  "timestamp": "2026-01-08T16:15:06Z",
+  "date": "2026-01-09",
+  "timestamp": "2026-01-09T01:06:07Z",
   "emojis": [
     {
-      "char": "⚡",
-      "label": "russian strikes knock out power in ukraine",
-      "url": "https://www.nytimes.com/2026/01/08/world/europe/ukraine-dnipro-power-russia-strike-heat.html",
-      "title": "Russian Strikes Knock Out Power in Dnipro Region of Ukraine",
-      "summary": "The Ukrainian authorities urged residents in the Dnipropetrovsk region to stock up on water as crews raced to restore service."
+      "char": "📰",
+      "label": "italy warns on deepfake ai content",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXpIVFIwR0d5YVV1eTBYOE5JdFpaSkRPWi1zbHhhcUVweVlzNlFOT3d5a2ttS1VrWWpKZjNkOUx1UzNfbFZBajhRN25jX1RxbV9vbWhmeGRmQmRfdVRUbmkxV2lJcFJrUld4QnI2eHVGLUE2bHd0YlF1aTA1Y2JlbnV2OGhnY01Mb1RscGY2Wk1aS1hiMHpCNWtGajRqX3ZlN2ZQOEtodFc3ajVSa21HbmV3?oc=5",
+      "title": "Italy’s privacy watchdog warns Grok over deepfake AI content - Reuters",
+      "summary": "Italy’s privacy watchdog warns Grok over deepfake AI content Reuters"
     },
     {
-      "char": "🔫",
-      "label": "us immigration agent fatally shoots woman",
-      "url": "https://www.bbc.com/news/articles/c0jvnl4j1n4o?at_medium=RSS&at_campaign=rss",
-      "title": "US immigration agent fatally shoots woman in Minneapolis",
-      "summary": "Trump says the woman was attempting to run over ICE agents. Local leaders disagree."
+      "char": "🚢",
+      "label": "shadow fleet ships reflagged to russia",
+      "url": "https://www.theguardian.com/business/2026/jan/08/shadow-fleet-ships-sanctioned-oil-reflagged-russia-lloyds-list-analysis",
+      "title": "‘Shadow fleet’ ships moving sanctioned oil reflagged to Russia at rising rate",
+      "summary": "Lloyd’s List analysis suggests 40 suspicious vessels joined Russian registry last year, with 17 reflagged last month Two oil tankers under US sanctions sailing through Channel towards Russia Forty ships accused of belonging to a large “s..."
     },
     {
-      "char": "⛴️",
-      "label": "us seizes russian-flagged oil tanker",
-      "url": "https://www.theguardian.com/world/2026/jan/07/russia-submarine-escort-shadow-fleet-tanker-us-sanctions",
-      "title": "US seizes Russian-flagged oil tanker in Atlantic after two-week pursuit",
-      "summary": "US European Command says it boarded the Marinera over alleged sanctions violations, a move that risks confrontation with Moscow The US has seized a Russian-flagged oil tanker in the Atlantic Ocean in a high-stakes operation that could ri..."
+      "char": "🇻🇪",
+      "label": "venezuela releases detainees for peace",
+      "url": "https://www.theguardian.com/world/2026/jan/08/venezuela-to-release-important-number-of-detainees",
+      "title": "Venezuela says it is releasing an important number of detainees to ‘consolidate peace’",
+      "summary": "Opposition leader María Corina Machado hails move to tackle ‘injustice’ as Spain’s foreign ministry confirms release of five Spanish nationals Five days after the US seized Nicolás Maduro, Venezuela has announced it is releasing an “impo..."
     },
     {
-      "char": "🇨🇴",
-      "label": "thousands protest in colombia over trump",
-      "url": "https://www.theguardian.com/world/2026/jan/08/colombia-protests-after-trump-venezuela-military-action",
-      "title": "‘Out with the Yanks!’: Thousands protest in Colombia as anger builds over Trump’s intervention in Venezuela",
-      "summary": "President Gustavo Petro called for demonstrations after Trump said he was interested in military action in Colombia Thousands of protesters have taken to the streets of cities across Colombia to decry Donald Trump’s threats to expand his..."
+      "char": "💰",
+      "label": "trump mulls payments to greenlanders",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYUlaQlRtVXVZbDU3LW1XVG52blFpQXdJaDA1SWNRajNnY2h3VjBXdG84S1pmX2s2Y2tuWlFDUktOcUlSS1BBSXowYU1wcFdCVThscmxJUm5ldHFvWE02NHY0bElSaU14czBrT3Fkc2lTV2x4dEo3RWpoZnh4bGh1YlFSTHh0eHlQWkctX24tOHlzTHl4RWp6VjYwYnV2Z21LT2FsS2lGWTZkYUFfQ0Jr?oc=5",
+      "title": "Exclusive: Trump administration mulls payments to sway Greenlanders to join US - Reuters",
+      "summary": "Exclusive: Trump administration mulls payments to sway Greenlanders to join US Reuters"
     },
     {
-      "char": "🪦",
-      "label": "world's oldest cremation pyre found in africa",
-      "url": "https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains",
-      "title": "Cremation pyre in Africa thought to be world’s oldest containing adult remains",
-      "summary": "9,500-year-old pyre uncovered in Malawi offers rare insight into rituals of ancient African hunter-gatherer groups A cremation pyre built about 9,500 years ago has been discovered in Africa, offering a fresh glimpse into the complexity o..."
+      "char": "🎾",
+      "label": "tennis kenya admits amateur error",
+      "url": "https://www.bbc.com/sport/tennis/articles/cx2gr00ndmyo?at_medium=RSS&at_campaign=rss",
+      "title": "Tennis Kenya admits it shouldn't have let amateur compete after viral defeat",
+      "summary": "The organisers of a professional women's tournament which has gone viral because of a wildcard player's poor performance acknowledge she should not have been allowed to play."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "The day's news reflects a mix of tragedy and unrest, from power outages in Ukraine to protests in Colombia, creating a heavy and somber atmosphere.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
