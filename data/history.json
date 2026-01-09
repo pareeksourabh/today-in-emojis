@@ -14255,5 +14255,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-09",
+    "emojis": [
+      {
+        "char": "🏔️",
+        "label": "swiss ski bar fire incident",
+        "url": "https://www.bbc.com/news/articles/c4g0mq520zeo?at_medium=RSS&at_campaign=rss",
+        "title": "Owner of Swiss ski bar held in custody after deadly New Year's Eve fire",
+        "summary": "Jacques Moretti is being held as a potential flight risk, Swiss media reports say."
+      },
+      {
+        "char": "📞",
+        "label": "trump averts crisis with colombia",
+        "url": "https://www.nytimes.com/2026/01/09/world/americas/trump-petro-colombia-phone-call.html",
+        "title": "How an Abrupt Call Between Trump and Colombia’s President Averted a Crisis",
+        "summary": "President Gustavo Petro said that the new tone between the leaders was “friendly,” but he also resurfaced his deep disagreements with President Trump."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "protests in iran overview",
+        "url": "https://www.nytimes.com/2026/01/03/world/middleeast/iran-protests-inflation-currency.html",
+        "title": "What to Know About the Protests in Iran",
+        "summary": "Galloping inflation, a currency crisis and anger at the regime have fueled demonstrations across the country."
+      },
+      {
+        "char": "⚓",
+        "label": "us seizes tanker linked to venezuela",
+        "url": "https://www.theguardian.com/world/2026/jan/09/us-venezuela-oil-tanker-seizure",
+        "title": "US in process of seizing fifth tanker in effort to control Venezuelan oil",
+        "summary": "The Olina, seized in the Caribbean, was falsely flying the flag of Timor Leste, according to a public shipping database US politics live – latest updates The US is in the process of seizing the Olina tanker in the Caribbean near Trinidad..."
+      },
+      {
+        "char": "🚗",
+        "label": "anthony joshua's driver charged",
+        "url": "https://www.theguardian.com/world/2026/jan/02/anthony-joshuas-driver-charged-with-dangerous-driving-after-fatal-crash-in-nigeria",
+        "title": "Anthony Joshua’s driver charged with dangerous driving after fatal crash in Nigeria",
+        "summary": "British boxer was injured in collision that killed his personal trainer Latif Ayodele and strength coach Sina Ghami Nigerian police have charged Anthony Joshua’s driver with causing death by dangerous driving after a fatal crash that kil..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
