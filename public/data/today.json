@@ -1,21 +1,7 @@
 {
   "date": "2026-01-10",
-  "timestamp": "2026-01-10T12:50:11Z",
+  "timestamp": "2026-01-10T16:10:43Z",
   "emojis": [
-    {
-      "char": "🕊️",
-      "label": "yemeni separatists disbanding",
-      "url": "https://www.nytimes.com/2026/01/09/world/middleeast/yemeni-separatists-disband.html",
-      "title": "Yemeni Separatists Say They Are Disbanding, but Move Is in Dispute",
-      "summary": "A delegation from the Southern Transitional Council in Riyadh announced its dissolution, but members abroad rejected the news amid fears it was not voluntary."
-    },
-    {
-      "char": "🔥",
-      "label": "oldest cremation pyre found",
-      "url": "https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains",
-      "title": "Cremation pyre in Africa thought to be world’s oldest containing adult remains",
-      "summary": "9,500-year-old pyre uncovered in Malawi offers rare insight into rituals of ancient African hunter-gatherer groups A cremation pyre built about 9,500 years ago has been discovered in Africa, offering a fresh glimpse into the complexity o..."
-    },
     {
       "char": "🇻🇪",
       "label": "trump cancels attacks on venezuela",
@@ -24,18 +10,32 @@
       "summary": "US president does not elaborate on alleged plan for fresh strikes but says large naval presence in region will remain US politics live – latest updates Donald Trump has claimed that he cancelled a second wave of attacks on Venezuela beca..."
     },
     {
-      "char": "🌍",
-      "label": "greenlanders fear geopolitical storm",
-      "url": "https://www.bbc.com/news/articles/cgrd2e7p9reo?at_medium=RSS&at_campaign=rss",
-      "title": "Greenlanders fear for future as island embroiled in geopolitical storm",
-      "summary": "Islanders want a bigger say in their ties with Denmark, but also on the world stage too."
+      "char": "💰",
+      "label": "us aid cuts conditions for un",
+      "url": "https://www.theguardian.com/global-development/2026/jan/01/us-aid-cuts-conditions-un-humanitarian-pledge-ocha",
+      "title": "US ‘adapt, shrink or die’ terms for $2bn aid pot will mean UN bowing down to Washington, say experts",
+      "summary": "Afghanistan and Yemen excluded from list of 17 priority countries chosen by Trump administration to receive aid laden with demands The $2bn (£1.5bn) of aid the US pledged this week may have been hailed as “bold and ambitious” by the UN b..."
     },
     {
-      "char": "🏥",
-      "label": "rescuers search after landfill collapse",
-      "url": "https://www.bbc.com/news/articles/cn42jqlqy4xo?at_medium=RSS&at_campaign=rss",
-      "title": "Rescuers race to find dozens missing after deadly landfill collapse in Philippines",
-      "summary": "The landslide happened when a mountain of rubbish collapsed at a landfill site in the central Philippines."
+      "char": "🕯️",
+      "label": "oldest cremation pyre found in africa",
+      "url": "https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains",
+      "title": "Cremation pyre in Africa thought to be world’s oldest containing adult remains",
+      "summary": "9,500-year-old pyre uncovered in Malawi offers rare insight into rituals of ancient African hunter-gatherer groups A cremation pyre built about 9,500 years ago has been discovered in Africa, offering a fresh glimpse into the complexity o..."
+    },
+    {
+      "char": "✈️",
+      "label": "eu backs mercosur deal with latin america",
+      "url": "https://www.theguardian.com/world/2026/jan/09/eu-states-back-controversial-mercosur-deal-with-latin-american-countries",
+      "title": "EU states back controversial Mercosur deal with Latin American countries",
+      "summary": "Agreement after 25 years of negotiations prompts farmers to block roads in Paris, Brussels and Warsaw European Union member states have backed the biggest ever free trade agreement with a group of Latin American countries, ending 25 year..."
+    },
+    {
+      "char": "⚖️",
+      "label": "gambia supreme court hears fgm case",
+      "url": "https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban",
+      "title": "Attempt to overturn the Gambia’s ban on FGM heard by supreme court",
+      "summary": "Case brought by Muslim leaders and MP follows failed 2024 bid and seen as part of global anti-women’s rights backlash A group of religious leaders and an MP in the Gambia have launched efforts to overturn a ban on female genital mutilati..."
     }
   ],
   "source": "ai-openai",
