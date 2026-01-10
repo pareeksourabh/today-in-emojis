@@ -14387,5 +14387,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-10",
+    "emojis": [
+      {
+        "char": "🏦",
+        "label": "trump seeks $100bn for venezuela oil",
+        "url": "https://www.bbc.com/news/articles/c205dx61x76o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump seeks $100bn for Venezuela oil, but Exxon boss says country 'uninvestable'",
+        "summary": "Oil executives expressed caution, with one executive saying Venezuela had seized their assets twice."
+      },
+      {
+        "char": "🔥",
+        "label": "night of swiss ski bar fire 'apocalyptic'",
+        "url": "https://www.bbc.com/news/articles/cn7jxm7jkg1o?at_medium=RSS&at_campaign=rss",
+        "title": "Night of Swiss ski bar fire 'apocalyptic', woman tells Crans-Montana memorial",
+        "summary": "A woman named Marie who was in a bar opposite Le Constellation helped the injured as they ran from the flames."
+      },
+      {
+        "char": "⚖️",
+        "label": "gambia's supreme court hears fgm case",
+        "url": "https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban",
+        "title": "Attempt to overturn the Gambia’s ban on FGM heard by supreme court",
+        "summary": "Case brought by Muslim leaders and MP follows failed 2024 bid and seen as part of global anti-women’s rights backlash A group of religious leaders and an MP in the Gambia have launched efforts to overturn a ban on female genital mutilati..."
+      },
+      {
+        "char": "🕊️",
+        "label": "yemeni separatists say they are disbanding",
+        "url": "https://www.nytimes.com/2026/01/09/world/middleeast/yemeni-separatists-disband.html",
+        "title": "Yemeni Separatists Say They Are Disbanding, but Move Is in Dispute",
+        "summary": "A delegation from the Southern Transitional Council in Riyadh announced its dissolution, but members abroad rejected the news amid fears it was not voluntary."
+      },
+      {
+        "char": "💣",
+        "label": "russia uses nuclear-capable missile in ukraine",
+        "url": "https://www.nytimes.com/2026/01/08/world/europe/russia-ukraine-nuclear-capable-missile.html",
+        "title": "Russia Says It Used Nuclear-Capable Missile to Strike Western Ukraine",
+        "summary": "The attack seemed intended to send a message to Europe as it strongly backs Kyiv in the peace talks."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
