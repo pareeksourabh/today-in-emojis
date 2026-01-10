@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-09",
-  "timestamp": "2026-01-09T16:12:56Z",
+  "date": "2026-01-10",
+  "timestamp": "2026-01-10T01:03:33Z",
   "emojis": [
     {
-      "char": "🏔️",
-      "label": "swiss ski bar fire incident",
-      "url": "https://www.bbc.com/news/articles/c4g0mq520zeo?at_medium=RSS&at_campaign=rss",
-      "title": "Owner of Swiss ski bar held in custody after deadly New Year's Eve fire",
-      "summary": "Jacques Moretti is being held as a potential flight risk, Swiss media reports say."
+      "char": "🇻🇪",
+      "label": "trump's push for venezuela investment",
+      "url": "https://www.nytimes.com/live/2026/01/09/world/venezuela-trump-us",
+      "title": "Venezuela Updates: Trump’s Push to Invest in Venezuela Gets a Tepid Response From Oil Executives",
+      "summary": "Meeting with leaders of Exxon Mobil, Chevron and other oil companies, the president said he wanted the industry to invest $100 billion in rebuilding the infrastructure in Venezuela."
     },
     {
-      "char": "📞",
-      "label": "trump averts crisis with colombia",
-      "url": "https://www.nytimes.com/2026/01/09/world/americas/trump-petro-colombia-phone-call.html",
-      "title": "How an Abrupt Call Between Trump and Colombia’s President Averted a Crisis",
-      "summary": "President Gustavo Petro said that the new tone between the leaders was “friendly,” but he also resurfaced his deep disagreements with President Trump."
+      "char": "🤖",
+      "label": "germany combats harmful ai manipulation",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGJoeHFOOE1uaTRFMExpdE5OT0M0bTRHMENkNWhvX0EtV2lTemRaanRoUjBHRmpzUTQwOWhxMDhoV3dINzg2dmpaNUtOMXpFOVdxaWFGQnhuU2dzQ2l1Sll6blY4V1A0TjlZNUd1ZnVWUXZORDZ4cTgtaktjb0hWcGlEbDljaEJQMmFUdjJILWpJZVIxOVYyYS1tOGdVdEVtR1lqaHN3LTRZWVBZdnNhdUdB?oc=5",
+      "title": "Germany plans measures to combat harmful AI image manipulation - Reuters",
+      "summary": "Germany plans measures to combat harmful AI image manipulation Reuters"
+    },
+    {
+      "char": "🌍",
+      "label": "us aid cuts conditions spark debate",
+      "url": "https://www.theguardian.com/global-development/2026/jan/01/us-aid-cuts-conditions-un-humanitarian-pledge-ocha",
+      "title": "US ‘adapt, shrink or die’ terms for $2bn aid pot will mean UN bowing down to Washington, say experts",
+      "summary": "Afghanistan and Yemen excluded from list of 17 priority countries chosen by Trump administration to receive aid laden with demands The $2bn (£1.5bn) of aid the US pledged this week may have been hailed as “bold and ambitious” by the UN b..."
     },
     {
       "char": "🇮🇷",
-      "label": "protests in iran overview",
-      "url": "https://www.nytimes.com/2026/01/03/world/middleeast/iran-protests-inflation-currency.html",
-      "title": "What to Know About the Protests in Iran",
-      "summary": "Galloping inflation, a currency crisis and anger at the regime have fueled demonstrations across the country."
+      "label": "iran protests swell as leader vows resistance",
+      "url": "https://www.nytimes.com/2026/01/09/world/middleeast/iran-protests-ayatollah-khamenei.html",
+      "title": "Iran’s Supreme Leader Vows to ‘Not Back Down’ as Protests Swell",
+      "summary": "After days of fierce protest, Ayatollah Ali Khamenei accused protesters of trying to “please” President Trump. Iranian authorities signaled further crackdowns on the demonstrations."
     },
     {
-      "char": "⚓",
-      "label": "us seizes tanker linked to venezuela",
-      "url": "https://www.theguardian.com/world/2026/jan/09/us-venezuela-oil-tanker-seizure",
-      "title": "US in process of seizing fifth tanker in effort to control Venezuelan oil",
-      "summary": "The Olina, seized in the Caribbean, was falsely flying the flag of Timor Leste, according to a public shipping database US politics live – latest updates The US is in the process of seizing the Olina tanker in the Caribbean near Trinidad..."
-    },
-    {
-      "char": "🚗",
-      "label": "anthony joshua's driver charged",
-      "url": "https://www.theguardian.com/world/2026/jan/02/anthony-joshuas-driver-charged-with-dangerous-driving-after-fatal-crash-in-nigeria",
-      "title": "Anthony Joshua’s driver charged with dangerous driving after fatal crash in Nigeria",
-      "summary": "British boxer was injured in collision that killed his personal trainer Latif Ayodele and strength coach Sina Ghami Nigerian police have charged Anthony Joshua’s driver with causing death by dangerous driving after a fatal crash that kil..."
+      "char": "⚖️",
+      "label": "gambia's supreme court hears fgm case",
+      "url": "https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban",
+      "title": "Attempt to overturn the Gambia’s ban on FGM heard by supreme court",
+      "summary": "Case brought by Muslim leaders and MP follows failed 2024 bid and seen as part of global anti-women’s rights backlash A group of religious leaders and an MP in the Gambia have launched efforts to overturn a ban on female genital mutilati..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sadness",
-    "emoji": "😢",
-    "rationale": "The news items reflect a series of tragic events, including a deadly fire and a fatal crash, highlighting a day filled with sorrow and concern for those affected.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

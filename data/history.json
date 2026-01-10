@@ -14299,5 +14299,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-01-10",
+    "emojis": [
+      {
+        "char": "🇻🇪",
+        "label": "trump's push for venezuela investment",
+        "url": "https://www.nytimes.com/live/2026/01/09/world/venezuela-trump-us",
+        "title": "Venezuela Updates: Trump’s Push to Invest in Venezuela Gets a Tepid Response From Oil Executives",
+        "summary": "Meeting with leaders of Exxon Mobil, Chevron and other oil companies, the president said he wanted the industry to invest $100 billion in rebuilding the infrastructure in Venezuela."
+      },
+      {
+        "char": "🤖",
+        "label": "germany combats harmful ai manipulation",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGJoeHFOOE1uaTRFMExpdE5OT0M0bTRHMENkNWhvX0EtV2lTemRaanRoUjBHRmpzUTQwOWhxMDhoV3dINzg2dmpaNUtOMXpFOVdxaWFGQnhuU2dzQ2l1Sll6blY4V1A0TjlZNUd1ZnVWUXZORDZ4cTgtaktjb0hWcGlEbDljaEJQMmFUdjJILWpJZVIxOVYyYS1tOGdVdEVtR1lqaHN3LTRZWVBZdnNhdUdB?oc=5",
+        "title": "Germany plans measures to combat harmful AI image manipulation - Reuters",
+        "summary": "Germany plans measures to combat harmful AI image manipulation Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "us aid cuts conditions spark debate",
+        "url": "https://www.theguardian.com/global-development/2026/jan/01/us-aid-cuts-conditions-un-humanitarian-pledge-ocha",
+        "title": "US ‘adapt, shrink or die’ terms for $2bn aid pot will mean UN bowing down to Washington, say experts",
+        "summary": "Afghanistan and Yemen excluded from list of 17 priority countries chosen by Trump administration to receive aid laden with demands The $2bn (£1.5bn) of aid the US pledged this week may have been hailed as “bold and ambitious” by the UN b..."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran protests swell as leader vows resistance",
+        "url": "https://www.nytimes.com/2026/01/09/world/middleeast/iran-protests-ayatollah-khamenei.html",
+        "title": "Iran’s Supreme Leader Vows to ‘Not Back Down’ as Protests Swell",
+        "summary": "After days of fierce protest, Ayatollah Ali Khamenei accused protesters of trying to “please” President Trump. Iranian authorities signaled further crackdowns on the demonstrations."
+      },
+      {
+        "char": "⚖️",
+        "label": "gambia's supreme court hears fgm case",
+        "url": "https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban",
+        "title": "Attempt to overturn the Gambia’s ban on FGM heard by supreme court",
+        "summary": "Case brought by Muslim leaders and MP follows failed 2024 bid and seen as part of global anti-women’s rights backlash A group of religious leaders and an MP in the Gambia have launched efforts to overturn a ban on female genital mutilati..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
