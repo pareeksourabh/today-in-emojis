@@ -14651,5 +14651,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-11",
+    "emojis": [
+      {
+        "char": "✊",
+        "label": "minneapolis protests against ICE",
+        "url": "https://www.bbc.com/news/articles/cvgpnwnqygro?at_medium=RSS&at_campaign=rss",
+        "title": "Thousands march and dozens arrested in Minneapolis protests against ICE",
+        "summary": "Days after the death of Renee Good, protests continue in Minneapolis and cities across the US."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "us citizens flee venezuela",
+        "url": "https://www.theguardian.com/us-news/2026/jan/10/us-citizens-venezuela-paramilitaries",
+        "title": "US urges its citizens to flee Venezuela amid reports of paramilitaries",
+        "summary": "State department says armed ‘colectivos’ appear to be setting up roadblocks and searching vehicles for Americans The United States has urged its citizens to leave Venezuela immediately amid reports that armed paramilitaries are trying to..."
+      },
+      {
+        "char": "💰",
+        "label": "trump's oil safety promise in venezuela",
+        "url": "https://www.theguardian.com/us-news/2026/jan/09/trump-oil-company-executives-meeting-venezuela",
+        "title": "Trump promises oil companies ‘total safety’ in Venezuela as he urges them to invest billions",
+        "summary": "Country is ‘uninvestable’ today, president told, but CEOs signal they are ready to spend with support Donald Trump promised oil giants “total safety, total security” in Venezuela in an effort to persuade them to invest $100bn in the coun..."
+      },
+      {
+        "char": "🧬",
+        "label": "oldest cremation pyre in africa",
+        "url": "https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains",
+        "title": "Cremation pyre in Africa thought to be world’s oldest containing adult remains",
+        "summary": "9,500-year-old pyre uncovered in Malawi offers rare insight into rituals of ancient African hunter-gatherer groups A cremation pyre built about 9,500 years ago has been discovered in Africa, offering a fresh glimpse into the complexity o..."
+      },
+      {
+        "char": "🔥",
+        "label": "bushfires destroy buildings in australia",
+        "url": "https://www.bbc.com/news/articles/c75xdg2p36lo?at_medium=RSS&at_campaign=rss",
+        "title": "One person dead and 300 buildings destroyed in Australia bushfires",
+        "summary": "A state of emergency has been declared in Victoria as thousands of firefighters battle the blaze."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
