@@ -1,41 +1,41 @@
 {
   "date": "2026-01-11",
-  "timestamp": "2026-01-11T04:52:04Z",
+  "timestamp": "2026-01-11T08:31:23Z",
   "emojis": [
     {
-      "char": "🇮🇷",
-      "label": "iran protests and unrest",
-      "url": "https://www.nytimes.com/article/iran-protests-inflation-currency.html",
-      "title": "Why Are Iranians Protesting? What to Know About the Unrest.",
-      "summary": "Demonstrations that began as outrage at the state of the economy have spread to cities across the country, amid an escalating crackdown by the authorities."
-    },
-    {
-      "char": "💣",
-      "label": "us strikes islamic state in syria",
-      "url": "https://www.bbc.com/news/articles/cly9597r4qpo?at_medium=RSS&at_campaign=rss",
-      "title": "US military strikes Islamic State group targets in Syria, officials say",
-      "summary": "US President Donald Trump ordered the \"large-scale strikes\" on Saturday, US Central Command announced."
-    },
-    {
-      "char": "🧠",
-      "label": "canada's mystery brain disease",
-      "url": "https://www.bbc.com/news/articles/c623r47d67lo?at_medium=RSS&at_campaign=rss",
-      "title": "'The answer cannot be nothing': The battle over Canada's mystery brain disease",
-      "summary": "A small Canadian province feared it had a mystery neurological illness on its hands. The search for answers set off a battle for the truth."
+      "char": "🇻🇪",
+      "label": "trump's oil safety promise in venezuela",
+      "url": "https://www.theguardian.com/us-news/2026/jan/09/trump-oil-company-executives-meeting-venezuela",
+      "title": "Trump promises oil companies ‘total safety’ in Venezuela as he urges them to invest billions",
+      "summary": "Country is ‘uninvestable’ today, president told, but CEOs signal they are ready to spend with support Donald Trump promised oil giants “total safety, total security” in Venezuela in an effort to persuade them to invest $100bn in the coun..."
     },
     {
       "char": "🚨",
-      "label": "rescuers in philippines landfill collapse",
+      "label": "nicaragua arrests linked to maduro",
+      "url": "https://www.theguardian.com/world/2026/jan/10/nicaraguan-authorities-arrests-dozens-for-reportedly-supporting-maduro-capture",
+      "title": "Nicaraguan authorities arrest dozens for reportedly supporting Maduro capture",
+      "summary": "Human rights groups say ‘at least 60 arbitrary arrests’ have occurred for celebrating the US military operation Authorities in Nicaragua have arrested at least 60 people for reportedly celebrating or expressing support for the capture of..."
+    },
+    {
+      "char": "🌊",
+      "label": "rescuers search for missing in landfill",
       "url": "https://www.bbc.com/news/articles/cn42jqlqy4xo?at_medium=RSS&at_campaign=rss",
       "title": "Rescuers race to find dozens missing in deadly Philippines landfill collapse",
       "summary": "The landslide happened when a mountain of rubbish collapsed at a landfill site in the central Philippines."
     },
     {
-      "char": "🇻🇪",
-      "label": "us citizens flee venezuela",
-      "url": "https://www.theguardian.com/us-news/2026/jan/10/us-citizens-venezuela-paramilitaries",
-      "title": "US urges its citizens to flee Venezuela amid reports of paramilitaries",
-      "summary": "State department says armed ‘colectivos’ appear to be setting up roadblocks and searching vehicles for Americans The United States has urged its citizens to leave Venezuela immediately amid reports that armed paramilitaries are trying to..."
+      "char": "📉",
+      "label": "iran protests amid economic turmoil",
+      "url": "https://www.nytimes.com/2026/01/10/world/europe/iran-protests-economy-currency-collapse.html",
+      "title": "Inside Iran’s Protests: How a Plunging Currency Set Off Wide Unrest",
+      "summary": "In a serious challenge to Iran’s authoritarian government, angry protests have spread from the markets and universities of major cities to the impoverished towns in the hinterland."
+    },
+    {
+      "char": "⚖️",
+      "label": "gambia's fgm ban supreme court case",
+      "url": "https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban",
+      "title": "Attempt to overturn the Gambia’s ban on FGM heard by supreme court",
+      "summary": "Case brought by Muslim leaders and MP follows failed 2024 bid and seen as part of global anti-women’s rights backlash A group of religious leaders and an MP in the Gambia have launched efforts to overturn a ban on female genital mutilati..."
     }
   ],
   "source": "ai-openai",
