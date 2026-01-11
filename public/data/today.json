@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-10",
-  "timestamp": "2026-01-10T16:10:43Z",
+  "date": "2026-01-11",
+  "timestamp": "2026-01-11T01:11:42Z",
   "emojis": [
     {
-      "char": "🇻🇪",
-      "label": "trump cancels attacks on venezuela",
-      "url": "https://www.theguardian.com/world/2026/jan/09/trump-venezuela-leadership-meeting-opposition-machado",
-      "title": "Trump claims he has cancelled second wave of attacks on Venezuela",
-      "summary": "US president does not elaborate on alleged plan for fresh strikes but says large naval presence in region will remain US politics live – latest updates Donald Trump has claimed that he cancelled a second wave of attacks on Venezuela beca..."
+      "char": "🛢️",
+      "label": "exxon eyes venezuela return",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVmlOemhhM3dleHVQUjE0a1hJNHpmZTRELS1QRWxqREdzd0FDeUN1aklNS0ZHN1BxR1ZfclJfc1QzRUsyTGRWNk5PVzJYT2VFc3FmYzA1MnRYX0s3Qmw2S3R2SktlcmREak9JTzgtSHQwRmtjY2FVejFIdFpDbzRVZFozaVh5SF9rdldzOTJrQ2xIQk16RDk0N3VjRUJsSDZBbHB1UkRJc0Y?oc=5",
+      "title": "Exxon studies Venezuela return as Chevron plots immediate production bump - Reuters",
+      "summary": "Exxon studies Venezuela return as Chevron plots immediate production bump Reuters"
     },
     {
-      "char": "💰",
-      "label": "us aid cuts conditions for un",
-      "url": "https://www.theguardian.com/global-development/2026/jan/01/us-aid-cuts-conditions-un-humanitarian-pledge-ocha",
-      "title": "US ‘adapt, shrink or die’ terms for $2bn aid pot will mean UN bowing down to Washington, say experts",
-      "summary": "Afghanistan and Yemen excluded from list of 17 priority countries chosen by Trump administration to receive aid laden with demands The $2bn (£1.5bn) of aid the US pledged this week may have been hailed as “bold and ambitious” by the UN b..."
+      "char": "🇾🇪",
+      "label": "yemeni separatists disband",
+      "url": "https://www.nytimes.com/2026/01/09/world/middleeast/yemeni-separatists-disband.html",
+      "title": "Yemeni Separatists Say They Are Disbanding, but Move Is in Dispute",
+      "summary": "A delegation from the Southern Transitional Council in Riyadh announced its dissolution, but members abroad rejected the news amid fears it was not voluntary."
     },
     {
-      "char": "🕯️",
-      "label": "oldest cremation pyre found in africa",
-      "url": "https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains",
-      "title": "Cremation pyre in Africa thought to be world’s oldest containing adult remains",
-      "summary": "9,500-year-old pyre uncovered in Malawi offers rare insight into rituals of ancient African hunter-gatherer groups A cremation pyre built about 9,500 years ago has been discovered in Africa, offering a fresh glimpse into the complexity o..."
+      "char": "🇮🇷",
+      "label": "iran protests over currency collapse",
+      "url": "https://www.nytimes.com/2026/01/10/world/europe/iran-protests-economy-currency-collapse.html",
+      "title": "Inside Iran’s Protests: How a Plunging Currency Set Off Wide Unrest",
+      "summary": "In a serious challenge to Iran’s authoritarian government, angry protests have spread from the markets and universities of major cities to the impoverished towns in the hinterland."
     },
     {
-      "char": "✈️",
-      "label": "eu backs mercosur deal with latin america",
-      "url": "https://www.theguardian.com/world/2026/jan/09/eu-states-back-controversial-mercosur-deal-with-latin-american-countries",
-      "title": "EU states back controversial Mercosur deal with Latin American countries",
-      "summary": "Agreement after 25 years of negotiations prompts farmers to block roads in Paris, Brussels and Warsaw European Union member states have backed the biggest ever free trade agreement with a group of Latin American countries, ending 25 year..."
+      "char": "🇺🇸",
+      "label": "us warns citizens in venezuela",
+      "url": "https://www.theguardian.com/us-news/2026/jan/10/us-citizens-venezuela-paramilitaries",
+      "title": "US urges its citizens to flee Venezuela amid reports of paramilitaries",
+      "summary": "State department says armed ‘colectivos’ appear to be setting up roadblocks and searching vehicles for Americans The United States has urged its citizens to leave Venezuela immediately amid reports that armed paramilitaries are trying to..."
     },
     {
-      "char": "⚖️",
-      "label": "gambia supreme court hears fgm case",
-      "url": "https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban",
-      "title": "Attempt to overturn the Gambia’s ban on FGM heard by supreme court",
-      "summary": "Case brought by Muslim leaders and MP follows failed 2024 bid and seen as part of global anti-women’s rights backlash A group of religious leaders and an MP in the Gambia have launched efforts to overturn a ban on female genital mutilati..."
+      "char": "💔",
+      "label": "tragedy in nigeria crash",
+      "url": "https://www.theguardian.com/world/2026/jan/02/anthony-joshuas-driver-charged-with-dangerous-driving-after-fatal-crash-in-nigeria",
+      "title": "Anthony Joshua’s driver charged with dangerous driving after fatal crash in Nigeria",
+      "summary": "British boxer was injured in collision that killed his personal trainer Latif Ayodele and strength coach Sina Ghami Nigerian police have charged Anthony Joshua’s driver with causing death by dangerous driving after a fatal crash that kil..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😡",
-    "emoji": "😡",
-    "rationale": "The news reflects significant political tensions and controversies, particularly relating to US foreign policy and women's rights, which evoke feelings of anger and frustration.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
