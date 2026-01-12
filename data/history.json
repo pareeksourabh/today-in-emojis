@@ -14783,5 +14783,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-12",
+    "emojis": [
+      {
+        "char": "🇮🇳",
+        "label": "india-bangladesh tensions ahead of elections",
+        "url": "https://www.nytimes.com/2026/01/11/world/asia/india-bangladesh-tensions.html",
+        "title": "India’s Ties With Bangladesh Fray as Elections Loom",
+        "summary": "A simmering dispute between the neighbors, who share one of the largest land borders in the world, has escalated with diplomatic protests and a sports boycott."
+      },
+      {
+        "char": "💔",
+        "label": "bride and groom killed in gas explosion",
+        "url": "https://www.bbc.com/news/articles/c4gr7nlx421o?at_medium=RSS&at_campaign=rss",
+        "title": "Bride and groom killed by gas explosion day after Pakistan wedding",
+        "summary": "Eight people were killed after a gas cylinder exploded at a house the morning after the wedding celebration."
+      },
+      {
+        "char": "⚔️",
+        "label": "syrian military takes aleppo neighborhoods",
+        "url": "https://www.nytimes.com/2026/01/11/world/middleeast/syria-military-aleppo.html",
+        "title": "Syrian Military Takes Aleppo Neighborhoods After Clashes With Kurds",
+        "summary": "The takeover ended one of the worst outbreaks of violence between the central government and the Kurdish-led forces since the end of the civil war just over a year ago."
+      },
+      {
+        "char": "🌨️",
+        "label": "thousands stranded in lapland due to cold",
+        "url": "https://www.bbc.com/news/articles/c74vnxlvl40o?at_medium=RSS&at_campaign=rss",
+        "title": "Thousands of tourists stranded in Lapland as cold grounds flights",
+        "summary": "All flights out of Kittila airport in northern Finland were cancelled on Sunday with temperatures falling as low as -38C."
+      },
+      {
+        "char": "📉",
+        "label": "trump says he will talk to musk about iran",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ3k5cVJoMmVWM0NCMTM2cnVpbUJ4QXlUQ3BGaFRncFlSbmxnNjRzR1NkdExDclJPeUlzZUJXc1dkRWE4aEZHWFlMZEVySUduMDI1bkY2Q1BhZTJsaWNDWVRrVnJSUERGMnpEalp6WW9vdzQ0WnBIZXYzZENlUldya3BfT0tvVGFnN1FJaWhycEtQNlUwWnlOb285cXhDN1pvb0w4ZnBn?oc=5",
+        "title": "Trump says he will talk to Musk about restoring internet in Iran​ - Reuters",
+        "summary": "Trump says he will talk to Musk about restoring internet in Iran​ Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
