@@ -14871,5 +14871,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-12",
+    "emojis": [
+      {
+        "char": "🇩🇪",
+        "label": "weimar republic and democracy",
+        "url": "https://www.nytimes.com/2026/01/12/world/europe/weimar-germany-democracy-failure-warning.html",
+        "title": "The Weimar Republic Shaped the 20th Century. Can Today’s Leaders Avoid Its Fate?",
+        "summary": "A fragile democracy, the Weimar Republic, briefly took hold in Germany before the Nazis seized power. Now, Weimar’s collapse is seen as a warning."
+      },
+      {
+        "char": "🇺🇸",
+        "label": "federal agents sent to minnesota",
+        "url": "https://www.bbc.com/news/articles/cpv7knz8e8mo?at_medium=RSS&at_campaign=rss",
+        "title": "More federal agents to be sent to Minnesota, Trump administration says",
+        "summary": "The move comes after protests against immigration enforcement have been held across the US after a woman was shot by an ICE agent."
+      },
+      {
+        "char": "💣",
+        "label": "us airstrikes in nigeria",
+        "url": "https://www.theguardian.com/world/2026/jan/08/questions-targeting-impact-us-airstrikes-in-nigeria",
+        "title": "Two weeks on, questions linger over targeting and impact of US airstrikes in Nigeria",
+        "summary": "Very little information has been shared about strikes in Sokoto state Two weeks after the US carried out Christmas Day airstrikes in north-west Nigeria on what it described as Islamic State fighters, questions remain over the specific gr..."
+      },
+      {
+        "char": "🇸🇾",
+        "label": "syria military takes aleppo",
+        "url": "https://www.nytimes.com/2026/01/11/world/middleeast/syria-military-aleppo.html",
+        "title": "Syrian Military Takes Aleppo Neighborhoods After Clashes With Kurds",
+        "summary": "The takeover ended one of the worst outbreaks of violence between the central government and the Kurdish-led forces since the end of the civil war just over a year ago."
+      },
+      {
+        "char": "🛢️",
+        "label": "us oil producers and venezuela",
+        "url": "https://www.theguardian.com/us-news/2026/jan/12/us-oil-producers-global-supply-glut-venezuela",
+        "title": "US frackers were already facing a global oil supply glut. Trump’s Venezuelan dream could make it worse",
+        "summary": "Picture is as murky as a barrel of oil, with US companies in 2026 expecting their first production drop in four years US shale-oil producers were already contending with oil prices at four-year lows. News that they may soon face a signif..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
