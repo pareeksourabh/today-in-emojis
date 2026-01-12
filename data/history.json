@@ -14827,5 +14827,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-12",
+    "emojis": [
+      {
+        "char": "🎸",
+        "label": "bob weir, grateful dead co-founder dies",
+        "url": "https://www.bbc.com/news/articles/cly95x9qe4ko?at_medium=RSS&at_campaign=rss",
+        "title": "Bob Weir, Grateful Dead co-founder, dies aged 78",
+        "summary": "Weir was a fixture in the psychedelic rock group and its various spin-offs over 60 years."
+      },
+      {
+        "char": "🇮🇳",
+        "label": "india’s ties with bangladesh fray",
+        "url": "https://www.nytimes.com/2026/01/11/world/asia/india-bangladesh-tensions.html",
+        "title": "India’s Ties With Bangladesh Fray as Elections Loom",
+        "summary": "A simmering dispute between the neighbors, who share one of the largest land borders in the world, has escalated with diplomatic protests and a sports boycott."
+      },
+      {
+        "char": "🌍",
+        "label": "japan hunts rare earth as china tightens",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWjA1NHVyLU1UT0NwZDE4MmhVNjZFNlJPWXUyRWwwdDk4Z080Y3oyTmQwMDdac1ZBYnJUWk9xdklLYU5mbjNPREFDeE5wQkRkcUV0aVV2YlplQlcxR0p4Smk4YnV3amxnRnVvVVJoQ0YzQWlvY1hiemRPQlR1RG9DZHBESEE1NWxWM21ZaDlnRE1ZYW1qN2NOX3ExeEpHcDdfZWV3ZlAxV0J1UXVpb3R3?oc=5",
+        "title": "Japan sets sail on rare earth hunt as China tightens supplies - Reuters",
+        "summary": "Japan sets sail on rare earth hunt as China tightens supplies Reuters"
+      },
+      {
+        "char": "🏫",
+        "label": "ukraine schools aim to turn kids into national",
+        "url": "https://www.nytimes.com/2026/01/11/world/europe/occupied-ukraine-russia-schools-indoctrination.html",
+        "title": "Schools in Occupied Ukraine Aim to Turn Children Into Russian Nationalists",
+        "summary": "Required lessons are heavy on militarism and pro-Russian, anti-Ukrainian propaganda. Some people make an arduous escape, partly to avoid the indoctrination."
+      },
+      {
+        "char": "✊",
+        "label": "minneapolis protests against ice arrests",
+        "url": "https://www.bbc.com/news/articles/cvgpnwnqygro?at_medium=RSS&at_campaign=rss",
+        "title": "Thousands march and dozens arrested in Minneapolis protests against ICE",
+        "summary": "Days after the death of Renee Good, protests continue in Minneapolis and cities across the US."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

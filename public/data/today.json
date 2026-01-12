@@ -1,41 +1,41 @@
 {
   "date": "2026-01-12",
-  "timestamp": "2026-01-12T04:55:13Z",
+  "timestamp": "2026-01-12T08:37:28Z",
   "emojis": [
     {
+      "char": "🎸",
+      "label": "bob weir, grateful dead co-founder dies",
+      "url": "https://www.bbc.com/news/articles/cly95x9qe4ko?at_medium=RSS&at_campaign=rss",
+      "title": "Bob Weir, Grateful Dead co-founder, dies aged 78",
+      "summary": "Weir was a fixture in the psychedelic rock group and its various spin-offs over 60 years."
+    },
+    {
       "char": "🇮🇳",
-      "label": "india-bangladesh tensions ahead of elections",
+      "label": "india’s ties with bangladesh fray",
       "url": "https://www.nytimes.com/2026/01/11/world/asia/india-bangladesh-tensions.html",
       "title": "India’s Ties With Bangladesh Fray as Elections Loom",
       "summary": "A simmering dispute between the neighbors, who share one of the largest land borders in the world, has escalated with diplomatic protests and a sports boycott."
     },
     {
-      "char": "💔",
-      "label": "bride and groom killed in gas explosion",
-      "url": "https://www.bbc.com/news/articles/c4gr7nlx421o?at_medium=RSS&at_campaign=rss",
-      "title": "Bride and groom killed by gas explosion day after Pakistan wedding",
-      "summary": "Eight people were killed after a gas cylinder exploded at a house the morning after the wedding celebration."
+      "char": "🌍",
+      "label": "japan hunts rare earth as china tightens",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWjA1NHVyLU1UT0NwZDE4MmhVNjZFNlJPWXUyRWwwdDk4Z080Y3oyTmQwMDdac1ZBYnJUWk9xdklLYU5mbjNPREFDeE5wQkRkcUV0aVV2YlplQlcxR0p4Smk4YnV3amxnRnVvVVJoQ0YzQWlvY1hiemRPQlR1RG9DZHBESEE1NWxWM21ZaDlnRE1ZYW1qN2NOX3ExeEpHcDdfZWV3ZlAxV0J1UXVpb3R3?oc=5",
+      "title": "Japan sets sail on rare earth hunt as China tightens supplies - Reuters",
+      "summary": "Japan sets sail on rare earth hunt as China tightens supplies Reuters"
     },
     {
-      "char": "⚔️",
-      "label": "syrian military takes aleppo neighborhoods",
-      "url": "https://www.nytimes.com/2026/01/11/world/middleeast/syria-military-aleppo.html",
-      "title": "Syrian Military Takes Aleppo Neighborhoods After Clashes With Kurds",
-      "summary": "The takeover ended one of the worst outbreaks of violence between the central government and the Kurdish-led forces since the end of the civil war just over a year ago."
+      "char": "🏫",
+      "label": "ukraine schools aim to turn kids into national",
+      "url": "https://www.nytimes.com/2026/01/11/world/europe/occupied-ukraine-russia-schools-indoctrination.html",
+      "title": "Schools in Occupied Ukraine Aim to Turn Children Into Russian Nationalists",
+      "summary": "Required lessons are heavy on militarism and pro-Russian, anti-Ukrainian propaganda. Some people make an arduous escape, partly to avoid the indoctrination."
     },
     {
-      "char": "🌨️",
-      "label": "thousands stranded in lapland due to cold",
-      "url": "https://www.bbc.com/news/articles/c74vnxlvl40o?at_medium=RSS&at_campaign=rss",
-      "title": "Thousands of tourists stranded in Lapland as cold grounds flights",
-      "summary": "All flights out of Kittila airport in northern Finland were cancelled on Sunday with temperatures falling as low as -38C."
-    },
-    {
-      "char": "📉",
-      "label": "trump says he will talk to musk about iran",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ3k5cVJoMmVWM0NCMTM2cnVpbUJ4QXlUQ3BGaFRncFlSbmxnNjRzR1NkdExDclJPeUlzZUJXc1dkRWE4aEZHWFlMZEVySUduMDI1bkY2Q1BhZTJsaWNDWVRrVnJSUERGMnpEalp6WW9vdzQ0WnBIZXYzZENlUldya3BfT0tvVGFnN1FJaWhycEtQNlUwWnlOb285cXhDN1pvb0w4ZnBn?oc=5",
-      "title": "Trump says he will talk to Musk about restoring internet in Iran​ - Reuters",
-      "summary": "Trump says he will talk to Musk about restoring internet in Iran​ Reuters"
+      "char": "✊",
+      "label": "minneapolis protests against ice arrests",
+      "url": "https://www.bbc.com/news/articles/cvgpnwnqygro?at_medium=RSS&at_campaign=rss",
+      "title": "Thousands march and dozens arrested in Minneapolis protests against ICE",
+      "summary": "Days after the death of Renee Good, protests continue in Minneapolis and cities across the US."
     }
   ],
   "source": "ai-openai",
