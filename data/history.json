@@ -15135,5 +15135,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-13",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "canada trade rethink due to trump",
+        "url": "https://www.theguardian.com/world/2026/jan/12/carney-heads-to-beijing-as-trump-america-first-agenda-forces-canada-into-trade-rethink",
+        "title": "Carney heads to Beijing as Trump’s America First agenda forces Canada into trade rethink",
+        "summary": "Canada’s PM seeks to smooth over past ructions in relationship with China as trade war takes its toll During the final stretch of Canada’s spring election campaign, Mark Carney told a debate audience that China was the country’s “biggest..."
+      },
+      {
+        "char": "🛑",
+        "label": "end of deportation protection for somalis",
+        "url": "https://www.bbc.com/news/articles/cz0p9ld5egjo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump administration moves to end deportation protection for Somalis",
+        "summary": "As the US cracks down on illegal immigration in Minneapolis, home to a large Somali community, it will end protections for many in the country legally."
+      },
+      {
+        "char": "⚖️",
+        "label": "death penalty for ex-south korean president",
+        "url": "https://www.nytimes.com/2026/01/13/world/asia/south-korea-yoon-death-penalty.html",
+        "title": "Prosecutors Seek Death Penalty for Former South Korea President",
+        "summary": "Former President Yoon Suk Yeol faces an insurrection​ charge after his failed attempt to put his country under martial law in 2024."
+      },
+      {
+        "char": "🌍",
+        "label": "world bank report on developing countries",
+        "url": "https://www.theguardian.com/business/2026/jan/13/developing-countries-poorer-world-bank-report",
+        "title": "Quarter of developing countries poorer than in 2019, World Bank finds",
+        "summary": "Global growth ‘downshifted’ since Covid pandemic and sub-Saharan Africa particularly affected, report says Business live – latest updates A quarter of countries in the developing world are poorer than they were in 2019 before the Covid p..."
+      },
+      {
+        "char": "🧬",
+        "label": "gene-edited scientist in china",
+        "url": "https://www.nytimes.com/2026/01/13/world/asia/china-gene-edited-scientist-he-jiankui.html",
+        "title": "China’s ‘Dr. Frankenstein’ Thinks Time Is on His Side",
+        "summary": "He Jiankui spent three years in prison after creating gene-edited babies. Now back at work, he sees a greater opening for researchers who push boundaries."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
