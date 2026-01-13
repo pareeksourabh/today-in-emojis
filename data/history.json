@@ -15003,5 +15003,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-13",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "world court hears genocide case",
+        "url": "https://www.nytimes.com/2026/01/12/world/asia/myanmar-icj-rohingya.html",
+        "title": "World Court Hears Groundbreaking Genocide Case Against Myanmar",
+        "summary": "The case was brought to the World Court by a country not directly affected by the alleged genocide of the Rohingya, a precedent for similar claims against other countries, including Israel."
+      },
+      {
+        "char": "🛢️",
+        "label": "us oil supply glut worsens",
+        "url": "https://www.theguardian.com/us-news/2026/jan/12/us-oil-producers-global-supply-glut-venezuela",
+        "title": "US frackers were already facing a global oil supply glut. Trump’s Venezuelan dream could make it worse",
+        "summary": "Picture is as murky as a barrel of oil, with US companies in 2026 expecting their first production drop in four years US shale-oil producers were already contending with oil prices at four-year lows. News that they may soon face a signif..."
+      },
+      {
+        "char": "💼",
+        "label": "citigroup to cut 1,000 jobs",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTzFlT3FScWNESE1YOEJjcHFyWktvYl92OWpaSVYyNVBXSUVEWEFLSW51ekxvb203Y2Y3UE1sSjFBLVRQZWd5VmMzNkxCMHB3TlhiaVlZN0Q0dmppWHRWN0Rzbk9qRkhKVVFxeURHY1ZYRFJjQkxxaVZ4Sy1RR2c1cVFKM25fSTl0OFpLZ0VBdTVOLWR1SVBzaEd6cUlOaFNxeVE5dWg3cjhjWFR0aHNn?oc=5",
+        "title": "Citigroup set to cut about 1,000 jobs this week, source says - Reuters",
+        "summary": "Citigroup set to cut about 1,000 jobs this week, source says Reuters"
+      },
+      {
+        "char": "📉",
+        "label": "fed chairs condemn powell probe",
+        "url": "https://www.bbc.com/news/articles/c394xwdve9lo?at_medium=RSS&at_campaign=rss",
+        "title": "Former Fed chairs condemn criminal investigation into Jerome Powell",
+        "summary": "Three former heads of the central bank say the probe seeks to undermine the Fed's independence and \"has no place\" in the US."
+      },
+      {
+        "char": "👩‍⚖️",
+        "label": "gambia supreme court hears fgm case",
+        "url": "https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban",
+        "title": "Attempt to overturn the Gambia’s ban on FGM heard by supreme court",
+        "summary": "Case brought by Muslim leaders and MP follows failed 2024 bid and seen as part of global anti-women’s rights backlash A group of religious leaders and an MP in the Gambia have launched efforts to overturn a ban on female genital mutilati..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
