@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-12",
-  "timestamp": "2026-01-12T16:15:06Z",
+  "date": "2026-01-13",
+  "timestamp": "2026-01-13T01:01:52Z",
   "emojis": [
     {
-      "char": "💡",
-      "label": "ghana clears energy debts",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczdycHhrYXhBYXM4SmdoNGNhaEhxZHJwcmtVeVk1eGlTemlWdzZNNEN3Q2ctWUo1b3lSMFNpMDZQdmRHVE51RjNmWjBRVUhpQUtNNzZvSjZ1THZKalFPR0VQbHQ0UnlBQTZ4N2k5TzV3WFMyZDlPenk4QXJteXE3UWdiTlBYNm1qYm9qbEFTZmJFcFo3b1I3Zy05WVFkREgyQzJDaGNNZVNkVk92akpjTE12eUtrTkdzOHlpQ0QyWGFDWHAzdV9GS0dUWktiOVhw?oc=5",
-      "title": "Ghana clears $1.47 billion in energy debts, finance ministry says - Reuters",
-      "summary": "Ghana clears $1.47 billion in energy debts, finance ministry says Reuters"
+      "char": "🗳️",
+      "label": "weimar republic and democracy",
+      "url": "https://www.nytimes.com/2026/01/12/world/europe/weimar-germany-democracy-failure-warning.html",
+      "title": "The Weimar Republic Shaped the 20th Century. Can Today’s Leaders Avoid Its Fate?",
+      "summary": "A fragile democracy, the Weimar Republic, briefly took hold in Germany before the Nazis seized power. Now, Weimar’s collapse is seen as a warning."
     },
     {
-      "char": "🛢️",
-      "label": "trump's oil threats to venezuela",
-      "url": "https://www.theguardian.com/us-news/2026/jan/12/us-oil-producers-global-supply-glut-venezuela",
-      "title": "US frackers were already facing a global oil supply glut. Trump’s Venezuelan dream could make it worse",
-      "summary": "Picture is as murky as a barrel of oil, with US companies in 2026 expecting their first production drop in four years US shale-oil producers were already contending with oil prices at four-year lows. News that they may soon face a signif..."
+      "char": "🇮🇷",
+      "label": "iran protests and government response",
+      "url": "https://www.nytimes.com/2026/01/11/world/middleeast/iran-president-protests-economy-response.html",
+      "title": "As Death Toll Surges in Iran, Leaders Take Tough Line Against Protesters",
+      "summary": "Despite an internet blackout, reports are emerging of a rise in deadly violence as protests spurred by economic woes have snowballed into a mass movement."
     },
     {
-      "char": "✈️",
-      "label": "us airstrikes impact in nigeria",
-      "url": "https://www.theguardian.com/world/2026/jan/08/questions-targeting-impact-us-airstrikes-in-nigeria",
-      "title": "Two weeks on, questions linger over targeting and impact of US airstrikes in Nigeria",
-      "summary": "Very little information has been shared about strikes in Sokoto state Two weeks after the US carried out Christmas Day airstrikes in north-west Nigeria on what it described as Islamic State fighters, questions remain over the specific gr..."
+      "char": "📱",
+      "label": "india's smartphone security proposal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV2V0OXNGSE9lamh5NU1odi1qcG5BUmM2a2VTeUxCODU0WGdzSWhhX3FOZERwc2J0NG9RVmx3Z2RjRzQ5Z2lFcmdpQU9uOUMybm1kOWNZSEhxUFV2aTlnQjJQSlhMTUZ4WkhEN1RvSGQxS28zSmVEMlJPTWkwTlkwSG9qSzA5ZHVTWFVTWDBMd3BXNnI1Z2tLaWVXQ2NJWjlSY3lXM2dWU3daTlFxbEwyOTR0RnBla3BwdDh6NG1Nb00?oc=5",
+      "title": "Exclusive: India proposes forcing smartphone makers to give source code in security overhaul - Reuters",
+      "summary": "Exclusive: India proposes forcing smartphone makers to give source code in security overhaul Reuters"
     },
     {
-      "char": "🧑‍⚕️",
-      "label": "adichie accuses hospital negligence",
-      "url": "https://www.theguardian.com/books/2026/jan/12/chimamanda-ngozi-adichie-accuses-lagos-hospital-negligence-son-death",
-      "title": "Author Chimamanda Ngozi Adichie accuses Lagos hospital of negligence after son’s death",
-      "summary": "Lawyers for Adichie and her husband serve Euracare hospital with legal notice after death of 21-month-old The Nigerian author Chimamanda Ngozi Adichie has accused a Lagos hospital of negligence after the death of one of her 21-month-old..."
+      "char": "🤝",
+      "label": "trump meets venezuelan opposition",
+      "url": "https://www.bbc.com/news/articles/cr7jzpr95yvo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump to meet Venezuelan opposition leader Machado at the White House",
+      "summary": "Machado, the winner of 2025 Nobel Peace Prize, had offered to share the honour with Trump, an award the president has long coveted."
     },
     {
-      "char": "🤖",
-      "label": "elon musk's ai images investigation",
-      "url": "https://www.nytimes.com/2026/01/12/world/europe/grok-ai-images-x-elon-musk-uk.html",
-      "title": "Elon Musk’s X Under UK Investigation Over Grok’s Sexualized A.I. Images",
-      "summary": "A British regulator said it had started a formal investigation into Mr. Musk’s chatbot over the spread of illegal images."
+      "char": "🔥",
+      "label": "oldest cremation pyre discovered",
+      "url": "https://www.theguardian.com/science/2026/jan/01/cremation-pyre-in-africa-thought-to-be-worlds-oldest-containing-adult-remains",
+      "title": "Cremation pyre in Africa thought to be world’s oldest containing adult remains",
+      "summary": "9,500-year-old pyre uncovered in Malawi offers rare insight into rituals of ancient African hunter-gatherer groups A cremation pyre built about 9,500 years ago has been discovered in Africa, offering a fresh glimpse into the complexity o..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "concerned",
-    "emoji": "😔",
-    "rationale": "Today's news reflects a mixture of troubling events, including economic struggles, tragic incidents, and ongoing investigations, indicating a general sense of unease and concern.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
