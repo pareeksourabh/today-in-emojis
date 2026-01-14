@@ -15311,5 +15311,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-14",
+    "emojis": [
+      {
+        "char": "🛢️",
+        "label": "oil supply concerns in iran",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeXU3SXpmdGNYbndTN19NdEQ2bjE3R0ktWTZGTVBZYThBaDU2NVR4VDBCUEJQeEFKYjROd2o1eTFsMXhtQk9uMjZGY2UzakRLSzRkU2ZaeXpXU1QzeExpcFQ0YW9iejRfTUl3SW5XRFFUbU05NUFrbU02MmZnTEd2VHlweDkxQlE5WF9PS0hPU2lUeUZnZE1DMUh3U21NbUh0NEx2elpqTjdZeXBsZHU2ekgzVjhQYm5TWXZVZw?oc=5",
+        "title": "Oil climbs on concerns over potential supply disruption in Iran amid threats - Reuters",
+        "summary": "Oil climbs on concerns over potential supply disruption in Iran amid threats Reuters"
+      },
+      {
+        "char": "🗳️",
+        "label": "uganda election threats",
+        "url": "https://www.bbc.com/news/articles/c62vd7542rno?at_medium=RSS&at_campaign=rss",
+        "title": "Uganda election chief says he has had threats over results declaration",
+        "summary": "This follows comments by a presidential assistant that Bobi Wine would not be declared president, even if he wins."
+      },
+      {
+        "char": "⚖️",
+        "label": "gambia fgm supreme court case",
+        "url": "https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban",
+        "title": "Attempt to overturn the Gambia’s ban on FGM heard by supreme court",
+        "summary": "Case brought by Muslim leaders and MP follows failed 2024 bid and seen as part of global anti-women’s rights backlash A group of religious leaders and an MP in the Gambia have launched efforts to overturn a ban on female genital mutilati..."
+      },
+      {
+        "char": "📈",
+        "label": "china trade surplus despite tariffs",
+        "url": "https://www.bbc.com/news/articles/c9wx1v84rzyo?at_medium=RSS&at_campaign=rss",
+        "title": "China announces record $1tn trade surplus despite Trump tariffs",
+        "summary": "Beijing reported the largest-ever trade surplus at $1.19tn as China diversified its trade."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "trump warns iran over protests",
+        "url": "https://www.bbc.com/news/articles/cqj2qgw8w08o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump vows 'very strong action' if Iran executes protesters",
+        "summary": "Relatives of an arrested protester tell BBC Persian he is due to be executed on Wednesday, as the death toll from demonstrations reportedly exceeds 2,400."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
