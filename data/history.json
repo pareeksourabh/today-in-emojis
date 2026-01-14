@@ -15223,5 +15223,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-14",
+    "emojis": [
+      {
+        "char": "🇫🇷",
+        "label": "marine le pen appeals electoral ban",
+        "url": "https://www.nytimes.com/2026/01/13/world/europe/marine-le-pen-trial-appeal-electoral-ban.html",
+        "title": "Marine Le Pen Is Appealing a Decision to Bar Her From Office.",
+        "summary": "Ms. Le Pen, whose far-right party leads polls in France, was convicted last year of embezzlement. The outcome of her appeal, which started on Tuesday, will determine if she can run for president next year."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "trump threatens exxonmobil in venezuela",
+        "url": "https://www.theguardian.com/us-news/2026/jan/12/donald-trump-threatens-block-exxonmobil-venezuela",
+        "title": "Trump threatens to block ExxonMobil from Venezuela after CEO calls country ‘uninvestable’",
+        "summary": "US president says company is ‘playing too cute’ after CEO responds sceptically to his push for oil investment after deposing Nicolás Maduro Donald Trump has said he might block ExxonMobil from investing in Venezuela after the oil company..."
+      },
+      {
+        "char": "📉",
+        "label": "quarter of developing countries poorer",
+        "url": "https://www.theguardian.com/business/2026/jan/13/developing-countries-poorer-world-bank-report",
+        "title": "Quarter of developing countries poorer than in 2019, World Bank finds",
+        "summary": "Global growth ‘downshifted’ since Covid pandemic and sub-Saharan Africa particularly affected, report says Business live – latest updates A quarter of countries in the developing world are poorer than they were in 2019 before the Covid p..."
+      },
+      {
+        "char": "🌍",
+        "label": "uganda cuts internet before election",
+        "url": "https://www.nytimes.com/2026/01/13/world/africa/uganda-election-internet.html",
+        "title": "Uganda Cuts Internet Days Before Presidential Election",
+        "summary": "The authorities say the decision was made to prevent the spread of misinformation as President Yoweri Museveni seeks his seventh term in office."
+      },
+      {
+        "char": "🧬",
+        "label": "china's gene-edited scientist speaks",
+        "url": "https://www.nytimes.com/2026/01/13/world/asia/china-gene-edited-scientist-he-jiankui.html",
+        "title": "China’s ‘Dr. Frankenstein’ Thinks Time Is on His Side",
+        "summary": "He Jiankui spent three years in prison after creating gene-edited babies. Now back at work, he sees a greater opening for researchers who push boundaries."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
