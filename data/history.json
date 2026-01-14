@@ -15355,5 +15355,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-14",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "us airstrikes in nigeria",
+        "url": "https://www.theguardian.com/world/2026/jan/08/questions-targeting-impact-us-airstrikes-in-nigeria",
+        "title": "Two weeks on, questions linger over targeting and impact of US airstrikes in Nigeria",
+        "summary": "Very little information has been shared about strikes in Sokoto state Two weeks after the US carried out Christmas Day airstrikes in north-west Nigeria on what it described as Islamic State fighters, questions remain over the specific gr..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "carney in beijing",
+        "url": "https://www.nytimes.com/2026/01/14/world/canada/carney-trip-china-relations-trump.html",
+        "title": "Mark Carney Heads to Beijing to Discuss Canada-China Relations as U.S. Outlook Darkens",
+        "summary": "The prime minister is seeking new markets for Canadian goods and to mend relations with China after years of deep acrimony between the two nations."
+      },
+      {
+        "char": "🌎",
+        "label": "trump's feud with colombia",
+        "url": "https://www.theguardian.com/world/2026/jan/12/trump-latin-america-feud-colombia-gustavo-petro",
+        "title": "Trump’s other Latin American feud: why Colombia’s Petro is not Maduro",
+        "summary": "Leftwing leader rallies his supporters as US president accuses him of drug trafficking and threatens military action A leftwing South American firebrand calls for his followers to rally in public squares nationwide to defend his country’..."
+      },
+      {
+        "char": "🎬",
+        "label": "netflix's warner bros offer",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU2kyMW9NeU5TOTZ0OHpYNHFjZUFwZjFVR2ctSnFLUk5yZ3NUeURfd05QNDBXYk9tSWlRRzdkeFgzV1lRN1pkaHlfV1FlUDZhY1k0bjU0alRBZ00wVmp2VldrUmpVS0tYcWpuQmFIOTM1MTNsOWFSb1RDVEpsSXNPLTRPUkIzejVxemlUVG5OVng4eGJlaDZwZEVOOGtiLWNHdmdILS1oekNFcmhDaXF4a0NFaEtrblBLemItR0dXVnhkUm5FN3g2NGNkLUhkcmNBLXA5eg?oc=5",
+        "title": "Netflix prepares all-cash offer for Warner Bros, source says - Reuters",
+        "summary": "Netflix prepares all-cash offer for Warner Bros, source says Reuters"
+      },
+      {
+        "char": "🛢️",
+        "label": "us oil plan for venezuela",
+        "url": "https://www.theguardian.com/environment/2026/jan/12/us-plan-to-exploit-venezuelas-oil-could-eat-up-13-of-carbon-budget-to-keep-15c-limit",
+        "title": "US plan to exploit Venezuela’s oil could eat up 13% of carbon budget to keep 1.5C limit",
+        "summary": "Exclusive: ClimatePartner analysis shows how move would risk plunging Earth further into climate catastrophe US plans to exploit Venezuela’s oil reserves could by 2050 consume more than a tenth of the world’s remaining carbon budget to l..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
