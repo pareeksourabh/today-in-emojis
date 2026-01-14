@@ -1,20 +1,34 @@
 {
   "date": "2026-01-14",
-  "timestamp": "2026-01-14T04:50:33Z",
+  "timestamp": "2026-01-14T08:35:38Z",
   "emojis": [
     {
-      "char": "🇫🇷",
-      "label": "marine le pen appeals electoral ban",
-      "url": "https://www.nytimes.com/2026/01/13/world/europe/marine-le-pen-trial-appeal-electoral-ban.html",
-      "title": "Marine Le Pen Is Appealing a Decision to Bar Her From Office.",
-      "summary": "Ms. Le Pen, whose far-right party leads polls in France, was convicted last year of embezzlement. The outcome of her appeal, which started on Tuesday, will determine if she can run for president next year."
+      "char": "⚖️",
+      "label": "tesla mediation in racism lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc0tYeTE0UFpSUWlSMFUyQlo0ZVlmR2ZkSGFFeVFIWnUxbDJvNTc1aFhYNFl2STlFUUFubURuUTNmQmZIbVZLUkljQXBJa0JOZmN4YjFOaFlIN3hBZ01leHI4ZVdpVndHbl9FMW5FTzRkdDdJSklXUGNCQjR4aXdoUEZfOGdhQTRwNjZGaTkwQ0JrNVJLdFg4RW55eEl4TENzdGhCNW04NnJ3NklFUy1ERnpISXFaWjduZVN4RW1rSmRpMGRO?oc=5",
+      "title": "Tesla agrees to mediation that could resolve US agency's racism lawsuit - Reuters",
+      "summary": "Tesla agrees to mediation that could resolve US agency's racism lawsuit Reuters"
     },
     {
-      "char": "🇻🇪",
-      "label": "trump threatens exxonmobil in venezuela",
-      "url": "https://www.theguardian.com/us-news/2026/jan/12/donald-trump-threatens-block-exxonmobil-venezuela",
-      "title": "Trump threatens to block ExxonMobil from Venezuela after CEO calls country ‘uninvestable’",
-      "summary": "US president says company is ‘playing too cute’ after CEO responds sceptically to his push for oil investment after deposing Nicolás Maduro Donald Trump has said he might block ExxonMobil from investing in Venezuela after the oil company..."
+      "char": "🌍",
+      "label": "global oil supply glut worsens",
+      "url": "https://www.theguardian.com/us-news/2026/jan/12/us-oil-producers-global-supply-glut-venezuela",
+      "title": "US frackers were already facing a global oil supply glut. Trump’s Venezuelan dream could make it worse",
+      "summary": "Picture is as murky as a barrel of oil, with US companies in 2026 expecting their first production drop in four years US shale-oil producers were already contending with oil prices at four-year lows. News that they may soon face a signif..."
+    },
+    {
+      "char": "🌡️",
+      "label": "global temperatures dip but heat records loom",
+      "url": "https://www.bbc.com/news/articles/c5y5p9rzd4ko?at_medium=RSS&at_campaign=rss",
+      "title": "Global temperatures dipped in 2025 but more heat records on way, scientists warn",
+      "summary": "The last three years were Earth's hottest on record, as humanity's carbon emissions continue to heat the planet."
+    },
+    {
+      "char": "💻",
+      "label": "nvidia ai chips sale to china approved",
+      "url": "https://www.bbc.com/news/articles/cg4erx1n04lo?at_medium=RSS&at_campaign=rss",
+      "title": "US approves sale of Nvidia's advanced AI chips to China",
+      "summary": "Nvidia has been caught in a tug-of-war between the US and China as the countries compete for AI dominance."
     },
     {
       "char": "📉",
@@ -22,20 +36,6 @@
       "url": "https://www.theguardian.com/business/2026/jan/13/developing-countries-poorer-world-bank-report",
       "title": "Quarter of developing countries poorer than in 2019, World Bank finds",
       "summary": "Global growth ‘downshifted’ since Covid pandemic and sub-Saharan Africa particularly affected, report says Business live – latest updates A quarter of countries in the developing world are poorer than they were in 2019 before the Covid p..."
-    },
-    {
-      "char": "🌍",
-      "label": "uganda cuts internet before election",
-      "url": "https://www.nytimes.com/2026/01/13/world/africa/uganda-election-internet.html",
-      "title": "Uganda Cuts Internet Days Before Presidential Election",
-      "summary": "The authorities say the decision was made to prevent the spread of misinformation as President Yoweri Museveni seeks his seventh term in office."
-    },
-    {
-      "char": "🧬",
-      "label": "china's gene-edited scientist speaks",
-      "url": "https://www.nytimes.com/2026/01/13/world/asia/china-gene-edited-scientist-he-jiankui.html",
-      "title": "China’s ‘Dr. Frankenstein’ Thinks Time Is on His Side",
-      "summary": "He Jiankui spent three years in prison after creating gene-edited babies. Now back at work, he sees a greater opening for researchers who push boundaries."
     }
   ],
   "source": "ai-openai",
