@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-13",
-  "timestamp": "2026-01-13T16:16:46Z",
+  "date": "2026-01-14",
+  "timestamp": "2026-01-14T01:07:58Z",
   "emojis": [
     {
-      "char": "🇨🇦",
-      "label": "canada trade rethink due to trump",
-      "url": "https://www.theguardian.com/world/2026/jan/12/carney-heads-to-beijing-as-trump-america-first-agenda-forces-canada-into-trade-rethink",
-      "title": "Carney heads to Beijing as Trump’s America First agenda forces Canada into trade rethink",
-      "summary": "Canada’s PM seeks to smooth over past ructions in relationship with China as trade war takes its toll During the final stretch of Canada’s spring election campaign, Mark Carney told a debate audience that China was the country’s “biggest..."
+      "char": "💊",
+      "label": "novo nordisk flags headwinds",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcWpIaFktYUJYVDd6enFvLU5OTU1kRFl3SlpmU2xrMWRrMmI5aW9PYmdtM0hTZmdINm4xN2hFQ1ZIMzBiTG9Pc0NXYWY5XzZkeWkzbV91UmJPMk9YQkhFbnZ2a2QwVVlyX2JZcTNoVEFwS29XcWtzRGpfaGpNeDNfNkF3UWRoUFVkbU9IRzNfUkZnQ2ltM19mT25uN3VjSkVDNmNHczZDOXY0WDFlT0F1Vm5XM1FiaUtxeUxhZC00VEtWMmtyUXBGM0w3WTI?oc=5",
+      "title": "Novo Nordisk flags near-term headwinds in international operations - Reuters",
+      "summary": "Novo Nordisk flags near-term headwinds in international operations Reuters"
     },
     {
-      "char": "🛑",
-      "label": "end of deportation protection for somalis",
-      "url": "https://www.bbc.com/news/articles/cz0p9ld5egjo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump administration moves to end deportation protection for Somalis",
-      "summary": "As the US cracks down on illegal immigration in Minneapolis, home to a large Somali community, it will end protections for many in the country legally."
-    },
-    {
-      "char": "⚖️",
-      "label": "death penalty for ex-south korean president",
-      "url": "https://www.nytimes.com/2026/01/13/world/asia/south-korea-yoon-death-penalty.html",
-      "title": "Prosecutors Seek Death Penalty for Former South Korea President",
-      "summary": "Former President Yoon Suk Yeol faces an insurrection​ charge after his failed attempt to put his country under martial law in 2024."
+      "char": "🏛️",
+      "label": "us senators define crypto rules",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOGZDVXZHRnhPcnk0QjdET3hFamVpQTVDalNwV3F1VXU0X1RRRG4xQ290X2NNTXA2cjBWWk9vNDloYW1wTlZLVG5GRXdheS0zMXNGa2Zadmh2V3BmTnIwMHVaaGRiWVJ6YTlNMHFtQ0VLSVZ5ZEpLV1pXNzhWbWhyY0hMemd2ZG9ld0FHNXAyV2lLUF9ZdVc1V1NmNU1haTdsX0NuZmwxTmEtY3FtdlhMdF9yY3lsRHpkUGpxUG5hNA?oc=5",
+      "title": "US senators introduce long-awaited bill to define crypto market rules - Reuters",
+      "summary": "US senators introduce long-awaited bill to define crypto market rules Reuters"
     },
     {
       "char": "🌍",
-      "label": "world bank report on developing countries",
+      "label": "quarter of developing countries poorer",
       "url": "https://www.theguardian.com/business/2026/jan/13/developing-countries-poorer-world-bank-report",
       "title": "Quarter of developing countries poorer than in 2019, World Bank finds",
       "summary": "Global growth ‘downshifted’ since Covid pandemic and sub-Saharan Africa particularly affected, report says Business live – latest updates A quarter of countries in the developing world are poorer than they were in 2019 before the Covid p..."
     },
     {
-      "char": "🧬",
-      "label": "gene-edited scientist in china",
-      "url": "https://www.nytimes.com/2026/01/13/world/asia/china-gene-edited-scientist-he-jiankui.html",
-      "title": "China’s ‘Dr. Frankenstein’ Thinks Time Is on His Side",
-      "summary": "He Jiankui spent three years in prison after creating gene-edited babies. Now back at work, he sees a greater opening for researchers who push boundaries."
+      "char": "⚖️",
+      "label": "marine le pen appeals electoral ban",
+      "url": "https://www.nytimes.com/2026/01/13/world/europe/marine-le-pen-trial-appeal-electoral-ban.html",
+      "title": "Marine Le Pen Is Appealing a Decision to Bar Her From Office.",
+      "summary": "Ms. Le Pen, whose far-right party leads polls in France, was convicted last year of embezzlement. The outcome of her appeal, which started on Tuesday, will determine if she can run for president next year."
+    },
+    {
+      "char": "🛢️",
+      "label": "trump threatens exxonmobil in venezuela",
+      "url": "https://www.theguardian.com/us-news/2026/jan/12/donald-trump-threatens-block-exxonmobil-venezuela",
+      "title": "Trump threatens to block ExxonMobil from Venezuela after CEO calls country ‘uninvestable’",
+      "summary": "US president says company is ‘playing too cute’ after CEO responds sceptically to his push for oil investment after deposing Nicolás Maduro Donald Trump has said he might block ExxonMobil from investing in Venezuela after the oil company..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "concerned",
-    "emoji": "😨",
-    "rationale": "Today's news reflects significant global issues, including trade tensions, immigration policy changes, and economic struggles in developing countries, creating a sense of unease about the future.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
