@@ -15575,5 +15575,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-15",
+    "emojis": [
+      {
+        "char": "📉",
+        "label": "china's growth slows to 4.5% in 2026",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOS1QX29MMWpjUmxiYkZhSWtveU91MlB2ZUdUcTFUN21pVS1ZamhzVGFzVXNKemgwMjdMdWxJa2J2aUFFUFEydWg1MjVRdzk0bHFpZ3VUUVJGOWV6SDRIZXFObjM0Y0VxUWFuYnpZNkVtSGhKSzhIdkxnbmFValNtaHU5NDl5cG5tSFFLVDBfOHhYNEk3Zl8wcHo4R0x5Y19wX0RQODlJbEdWY2w0QktoRGRCeTNUUQ?oc=5",
+        "title": "China's growth set to slow to 4.5% in 2026, raising pressure on policymakers: Reuters poll - Reuters",
+        "summary": "China's growth set to slow to 4.5% in 2026, raising pressure on policymakers: Reuters poll Reuters"
+      },
+      {
+        "char": "🗳️",
+        "label": "uganda's election delayed by issues",
+        "url": "https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine",
+        "title": "Voting in Uganda’s general election delayed by technical and logistical issues",
+        "summary": "Some polling stations have no ballot papers and some machines to check ID are not working, local reports say Voting in Uganda’s general election has been delayed in many parts of the country because of technical and logistical issues, ag..."
+      },
+      {
+        "char": "❄️",
+        "label": "zelensky declares energy emergency",
+        "url": "https://www.bbc.com/news/articles/cq6vm677z76o?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky declares energy emergency as biting cold persists",
+        "summary": "The move comes as US President Donald Trump said Ukraine is \"less ready\" than the Russian president to make a peace deal."
+      },
+      {
+        "char": "🚆",
+        "label": "survivors of crane collapse on train",
+        "url": "https://www.nytimes.com/2026/01/15/world/asia/thailand-train-crane-survivors.html",
+        "title": "‘Squished Between Chairs’ on a Train: How Some Passengers Survived a Crane Collapse",
+        "summary": "Some travelers were able to squeeze out of mangled cars and others were rescued by residents, after the accident in northeastern Thailand. Dozens did not survive."
+      },
+      {
+        "char": "🛢️",
+        "label": "big oil giants hesitant on trump's vision",
+        "url": "https://www.theguardian.com/business/2026/jan/15/trump-big-oil-venezuela",
+        "title": "Why big oil giants may not rush to buy into Donald Trump’s Venezuelan vision",
+        "summary": "It may well be safer, easier and cheaper for US companies to procure whatever oil the US economy needs at home There are a few reasons that Donald Trump – now self-anointed acting President of Venezuela , as well as the United States – m..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
