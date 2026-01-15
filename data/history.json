@@ -15487,5 +15487,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-15",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "carney visits china for talks",
+        "url": "https://www.nytimes.com/2026/01/14/world/canada/carney-trip-china-relations-trump.html",
+        "title": "Mark Carney Heads to Beijing to Discuss Canada-China Relations as U.S. Outlook Darkens",
+        "summary": "The prime minister is seeking new markets for Canadian goods and to mend relations with China after years of deep acrimony between the two nations."
+      },
+      {
+        "char": "💣",
+        "label": "trump's allies oppose iran bombing",
+        "url": "https://www.nytimes.com/2026/01/14/world/middleeast/gulf-trump-iran.html",
+        "title": "Trump’s Gulf Allies Do Not Want Him to Bomb Iran",
+        "summary": "While several of the Gulf Arab countries harbor little love for Iran, they worry that the consequences of rising tensions could blow back on them."
+      },
+      {
+        "char": "📈",
+        "label": "tsmc reports record profit",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTFZXT0Vid3oyeTI0Q2h6bW44WC1PbERKTWxtYzZLVmw1NTBVLW9JMVI0dGtwVmZvbmFxNy1GX0dmczJiT29WNTNLMC1rUlRoMEFRT3JlTFZmSGE4YWRFemJBWDc5c1lLeFBwb2RlVU5qQy1VeFN3T2lmN0dnbjVSa0lQY1p3RFJMNXNMVjdMcUllTE8tWGd2bUgxbGhIUQ?oc=5",
+        "title": "TSMC Q4 profit jumps 35% to record, beats expectations - Reuters",
+        "summary": "TSMC Q4 profit jumps 35% to record, beats expectations Reuters"
+      },
+      {
+        "char": "🚆",
+        "label": "thai train crash kills 32",
+        "url": "https://www.bbc.com/news/articles/cm2yvnen1qyo?at_medium=RSS&at_campaign=rss",
+        "title": "'It was terrifying': Residents describe carnage after Thai train crash kills 32",
+        "summary": "The BBC arrived at a grim scene in the evening, with rescuers still pulling bodies out of the mangled train."
+      },
+      {
+        "char": "🌍",
+        "label": "greenland's climate significance",
+        "url": "https://www.nytimes.com/2026/01/14/world/europe/greenland-climate.html",
+        "title": "Why Greenland Matters for a Warming World",
+        "summary": "The fate of the world’s largest island has outsize importance for billions of people on the planet, because as the climate warms, Greenland is losing ice. That has consequences."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
