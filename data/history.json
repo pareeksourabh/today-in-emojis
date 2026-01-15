@@ -15443,5 +15443,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-15",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "trump ends tps for somalis",
+        "url": "https://www.theguardian.com/us-news/2026/jan/13/trump-administration-ends-tps-somalia",
+        "title": "Trump administration ends temporary protected status for Somalis in US",
+        "summary": "Critics condemn ‘bigoted attack’ as Trump bids to revoke citizenship of naturalized immigrants convicted of fraud The Trump administration is terminating temporary protected status (TPS) for Somalis living in the United States, giving hu..."
+      },
+      {
+        "char": "🩺",
+        "label": "adichie accuses hospital negligence",
+        "url": "https://www.theguardian.com/books/2026/jan/12/chimamanda-ngozi-adichie-accuses-lagos-hospital-negligence-son-death",
+        "title": "Author Chimamanda Ngozi Adichie accuses Lagos hospital of negligence after son’s death",
+        "summary": "Lawyers for Adichie and her husband serve Euracare hospital with legal notice after death of 21-month-old The Nigerian author Chimamanda Ngozi Adichie has accused a Lagos hospital of negligence after the death of one of her 21-month-old..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "quebec premier resigns",
+        "url": "https://www.nytimes.com/2026/01/14/world/americas/quebec-leader-resignation.html",
+        "title": "Quebec Premier François Legault Resigns Ahead of Elections",
+        "summary": "Premier François Legault became Canada’s most popular provincial leader during the pandemic thanks to his reassuring, avuncular persona. But missteps sank his hopes for a third term."
+      },
+      {
+        "char": "🔍",
+        "label": "fbi searches reporter's home",
+        "url": "https://www.bbc.com/news/articles/cvgp19zx3vjo?at_medium=RSS&at_campaign=rss",
+        "title": "FBI searches home of Washington Post reporter in classified documents probe",
+        "summary": "Attorney General Bondi accused the journalist of reporting classified information allegedly leaked by a federal contractor, who she said has been arrested."
+      },
+      {
+        "char": "⚖️",
+        "label": "gambia fgm ban supreme court case",
+        "url": "https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban",
+        "title": "Attempt to overturn the Gambia’s ban on FGM heard by supreme court",
+        "summary": "Case brought by Muslim leaders and MP follows failed 2024 bid and seen as part of global anti-women’s rights backlash A group of religious leaders and an MP in the Gambia have launched efforts to overturn a ban on female genital mutilati..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
