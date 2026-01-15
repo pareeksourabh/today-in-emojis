@@ -39,5 +39,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The news highlights distressing situations, such as economic slowdowns, election delays due to technical issues, and a tragic train accident with fatalities. Overall, the day carries a heavy emotional weight.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
