@@ -15531,5 +15531,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-15",
+    "emojis": [
+      {
+        "char": "🇻🇪",
+        "label": "trump discusses venezuela's future",
+        "url": "https://www.theguardian.com/us-news/2026/jan/15/trump-maria-corina-machado-venezuela",
+        "title": "Trump to discuss Venezuela’s future with Machado after Maduro’s capture",
+        "summary": "Venezuelan opposition leader and Nobel prize winner had been sidelined by White House after US seized Maduro Donald Trump will host María Corina Machado , the Venezuelan opposition leader and 2025 Nobel peace prize winner, at the White H..."
+      },
+      {
+        "char": "🩺",
+        "label": "adichie accuses hospital negligence",
+        "url": "https://www.theguardian.com/books/2026/jan/12/chimamanda-ngozi-adichie-accuses-lagos-hospital-negligence-son-death",
+        "title": "Author Chimamanda Ngozi Adichie accuses Lagos hospital of negligence after son’s death",
+        "summary": "Lawyers for Adichie and her husband serve Euracare hospital with legal notice after death of 21-month-old The Nigerian author Chimamanda Ngozi Adichie has accused a Lagos hospital of negligence after the death of one of her 21-month-old..."
+      },
+      {
+        "char": "🔫",
+        "label": "federal agent shoots man in minneapolis",
+        "url": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
+        "title": "Federal agent shoots Minneapolis man in leg after shovel attack, officials say",
+        "summary": "The agent was acting in self-defence after being attacked with a shovel, said the Department of Homeland Security."
+      },
+      {
+        "char": "🌍",
+        "label": "quarter of countries poorer since 2019",
+        "url": "https://www.theguardian.com/business/2026/jan/13/developing-countries-poorer-world-bank-report",
+        "title": "Quarter of developing countries poorer than in 2019, World Bank finds",
+        "summary": "Global growth ‘downshifted’ since Covid pandemic and sub-Saharan Africa particularly affected, report says Business live – latest updates A quarter of countries in the developing world are poorer than they were in 2019 before the Covid p..."
+      },
+      {
+        "char": "🗳️",
+        "label": "uganda's election delayed by issues",
+        "url": "https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine",
+        "title": "Voting in Uganda’s general election delayed by technical and logistical issues",
+        "summary": "Some polling stations have no ballot papers and some machines to check ID are not working, local reports say Voting in Uganda’s general election has been delayed in many parts of the country because of technical and logistical issues, ag..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
