@@ -15751,5 +15751,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-16",
+    "emojis": [
+      {
+        "char": "🇨🇳",
+        "label": "china restricts nvidia chips",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeTh0cnZaQUdrUW5CVjlmRjgxb3R2aVdma1NpdkRjcktKLWJNRHhqcHNiSnNua0FDMkRQMThVaXVYWExock1XSTB3SHpIU1gtb0ZSVExheTVzdUtXSWpMckRiQjB5OENzVUR5Z214U1M1cjF6SmNVVno0RGlPZkFXU0RUbm43YWgyUlJXSWs1SERWOWZBNkdWcHhqRm9zZy1XbDFITC1wbXdqT0FwLU5kV3kxWHB1LWZNSUpnbGFYQ3M?oc=5",
+        "title": "Exclusive: China's customs agents told Nvidia's H200 chips are not permitted, sources say - Reuters",
+        "summary": "Exclusive: China's customs agents told Nvidia's H200 chips are not permitted, sources say Reuters"
+      },
+      {
+        "char": "📰",
+        "label": "substack threatens news industry",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOTZsVkRRZ3FlcjNCd3pwamtfdGFheDlPRDFJNVRTaktWeGpTVVpSbmNoVkwwVUhxcldXNm9hMF9BbVA4ZE1telpOd1cyQzd4d1JLQmNpSGw2ei1QUmxnNlJHTWVZejJkQmV1TllnZV9KUkpXNVFzeHpJTVRPc3lLR2FqdFRzM0JNaXJuX3RSS01qbF82ZGZOVTJydVoyczVrdFFwNFg4X2ZTbk9NRUE?oc=5",
+        "title": "Breakingviews - Seductive Substack threatens to break news again - Reuters",
+        "summary": "Breakingviews - Seductive Substack threatens to break news again Reuters"
+      },
+      {
+        "char": "🇮🇹",
+        "label": "italy and japan leaders bond",
+        "url": "https://www.nytimes.com/2026/01/16/world/asia/meloni-takaichi-italy-japan.html",
+        "title": "Right-Wing Leaders of Italy and Japan Become Fast Friends",
+        "summary": "At a meeting in Tokyo, Prime Ministers Giorgia Meloni of Italy and Sanae Takaichi of Japan bonded over being conservative women at the pinnacle of power."
+      },
+      {
+        "char": "⚖️",
+        "label": "trump sued by us citizens",
+        "url": "https://www.theguardian.com/us-news/live/2026/jan/15/us-politics-latest-news-updates-donald-trump-venezuela-maria-corina-machado",
+        "title": "Three US citizens sue Trump with the ACLU over encounters with ICE agents – as it happened",
+        "summary": "This live blog is now closed. Trump news at a glance: The medal may be in Trump’s hands, but peace prize is not his, Nobel officials say Donald Trump is in Washington today. He’s due to meet with Mariá Corina Machado – Venezuela’s opposi..."
+      },
+      {
+        "char": "🌧️",
+        "label": "floods hit south africa",
+        "url": "https://www.theguardian.com/environment/2026/jan/16/weather-tracer-extreme-rainfall-inundates-south-africa-mozambique-flood-warning",
+        "title": "Extreme rainfall inundates South Africa and Mozambique",
+        "summary": "Flood warning raised to highest level with roads washed away and rain forcing evacuation of Kruger national park Large areas of north-eastern South Africa and neighbouring Mozambique have been inundated for several days with exceptionall..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
