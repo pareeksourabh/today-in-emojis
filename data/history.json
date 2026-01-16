@@ -15707,5 +15707,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-16",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israel wary of iran intervention",
+        "url": "https://www.nytimes.com/2026/01/15/world/middleeast/israel-iran-protests-netanyahu.html",
+        "title": "Why Israel Is Wary of Intervening in Iran",
+        "summary": "Israel is unlikely to do much to try to precipitate a regime change in Iran, seeing the government as far from the brink of collapse and the current protests as insufficient to push it to that point."
+      },
+      {
+        "char": "🛢️",
+        "label": "big oil and trump's venezuela vision",
+        "url": "https://www.theguardian.com/business/2026/jan/15/trump-big-oil-venezuela",
+        "title": "Why big oil giants may not rush to buy into Donald Trump’s Venezuelan vision",
+        "summary": "It may well be safer, easier and cheaper for US companies to procure whatever oil the US economy needs at home There are a few reasons that Donald Trump – now self-anointed acting president of Venezuela , as well as the United States – m..."
+      },
+      {
+        "char": "🦠",
+        "label": "insecticide wraps cut malaria in babies",
+        "url": "https://www.theguardian.com/global-development/2026/jan/16/cloth-wraps-treated-with-insecticide-cut-malaria-cases-in-babies",
+        "title": "Cloth wraps treated with ‘dirt cheap’ insecticide cut malaria cases in babies",
+        "summary": "Soaking fabrics in a commonly used insect repellent is a simple and effective tool as mosquito bites become more common during daytime, study shows From Africa to Latin America to Asia, babies have been carried in cloth wraps on their mo..."
+      },
+      {
+        "char": "🏛️",
+        "label": "south korean leader jailed over martial law",
+        "url": "https://www.nytimes.com/2026/01/16/world/asia/skorea-yoon-prison-martial-law.html",
+        "title": "Ex-South Korean Leader Gets Prison Term in First Ruling Over Martial Law",
+        "summary": "A court handed down five years in prison to former President Yoon Suk Yeol, who is facing multiple trials stemming from his short-lived imposition of martial law."
+      },
+      {
+        "char": "🇺🇬",
+        "label": "uganda election goes ahead despite delays",
+        "url": "https://www.nytimes.com/2026/01/15/world/africa/uganda-election-museveni.html",
+        "title": "Uganda’s Election Goes Ahead, Despite Major Delays at the Polls",
+        "summary": "Technical failures at polling places caused major disruptions, and the opposition has warned of protests and government vote rigging."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
