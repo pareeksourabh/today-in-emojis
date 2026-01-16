@@ -15795,5 +15795,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-16",
+    "emojis": [
+      {
+        "char": "🇮🇷",
+        "label": "iran protests and executions",
+        "url": "https://www.nytimes.com/2026/01/15/world/middleeast/iran-protests-erfan-soltani-execution.html",
+        "title": "Iran Backpedals on Executions Threat but Casts Protesters as ‘Terrorists’",
+        "summary": "Iran’s judiciary said there was no death penalty issued for Erfan Soltani, whose case drew international outcry. Analysts say the government is using fear and intimidation to keep people off the streets."
+      },
+      {
+        "char": "📈",
+        "label": "global equity funds inflows",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaXI4T0JuaTY3bG5YVnRMV1NCVk94RkhkTmhnaWJDYU54aXV0ekNYN1BLemwtbWF5cVBRRHNlbEdIM0NWaTJkalY0alQ2MWFFZ3JDQ09qVUxpd1BxQkV6SU5PUDFGSm5XN0htc2xlRFRjZVdxSkZIeUFIbGZjUmxjTGt3?oc=5",
+        "title": "Global equity funds log strongest weekly inflows in 3-1/2 months - Reuters",
+        "summary": "Global equity funds log strongest weekly inflows in 3-1/2 months Reuters"
+      },
+      {
+        "char": "🇺🇸",
+        "label": "trump administration mistake",
+        "url": "https://www.theguardian.com/us-news/2026/jan/16/trump-administration-mistake-college-student-detained",
+        "title": "Trump administration says deporting college student trying to surprise family was a ‘mistake’",
+        "summary": "Any Lucía López Belloza was detained at Boston’s airport in November and flown to Honduras two days later The Trump administration apologized in court for a “mistake” in the deportation of a Massachusetts college student who was detained..."
+      },
+      {
+        "char": "🌧️",
+        "label": "extreme rainfall in south africa",
+        "url": "https://www.theguardian.com/environment/2026/jan/16/weather-tracer-extreme-rainfall-inundates-south-africa-mozambique-flood-warning",
+        "title": "Extreme rainfall inundates South Africa and Mozambique",
+        "summary": "Flood warning raised to highest level with roads washed away and rain forcing evacuation of Kruger national park Large areas of north-eastern South Africa and neighbouring Mozambique have been inundated for several days with exceptionall..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada and china partnership",
+        "url": "https://www.theguardian.com/world/2026/jan/16/china-canada-partnership-new-global-realities-carney-xi-jinping",
+        "title": "Canada PM hails strategic partnership with China to adapt to ‘new global realities’",
+        "summary": "Mark Carney holds talks with Xi Jinping on rare Beijing trip as Canada seeks to diversify trade links away from US Business live – latest updates Canada’s prime minister, Mark Carney, has hailed a “new strategic partnership” with China a..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
