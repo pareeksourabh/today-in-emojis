@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-16",
-  "timestamp": "2026-01-16T16:14:04Z",
+  "date": "2026-01-17",
+  "timestamp": "2026-01-17T01:03:08Z",
   "emojis": [
     {
       "char": "🇮🇷",
-      "label": "iran protests and executions",
-      "url": "https://www.nytimes.com/2026/01/15/world/middleeast/iran-protests-erfan-soltani-execution.html",
-      "title": "Iran Backpedals on Executions Threat but Casts Protesters as ‘Terrorists’",
-      "summary": "Iran’s judiciary said there was no death penalty issued for Erfan Soltani, whose case drew international outcry. Analysts say the government is using fear and intimidation to keep people off the streets."
+      "label": "exiled prince supports iran protests",
+      "url": "https://www.bbc.com/news/articles/c70lx085z85o?at_medium=RSS&at_campaign=rss",
+      "title": "Exiled crown prince urges world to help protesters topple Iran's government",
+      "summary": "Reza Pahlavi, a US-based opposition figure, called on the world to target Iran's Revolutionary Guards leadership."
     },
     {
-      "char": "📈",
-      "label": "global equity funds inflows",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaXI4T0JuaTY3bG5YVnRMV1NCVk94RkhkTmhnaWJDYU54aXV0ekNYN1BLemwtbWF5cVBRRHNlbEdIM0NWaTJkalY0alQ2MWFFZ3JDQ09qVUxpd1BxQkV6SU5PUDFGSm5XN0htc2xlRFRjZVdxSkZIeUFIbGZjUmxjTGt3?oc=5",
-      "title": "Global equity funds log strongest weekly inflows in 3-1/2 months - Reuters",
-      "summary": "Global equity funds log strongest weekly inflows in 3-1/2 months Reuters"
+      "char": "🇨🇦",
+      "label": "canada partners with china for trade",
+      "url": "https://www.theguardian.com/world/2026/jan/16/china-canada-partnership-new-global-realities-carney-xi-jinping",
+      "title": "Canada PM hails strategic partnership with China to adapt to ‘new global realities’",
+      "summary": "Mark Carney holds talks with Xi Jinping on rare Beijing trip as Canada seeks to diversify trade links away from US Business live – latest updates Canada’s prime minister, Mark Carney, has hailed a “new strategic partnership” with China a..."
     },
     {
-      "char": "🇺🇸",
-      "label": "trump administration mistake",
-      "url": "https://www.theguardian.com/us-news/2026/jan/16/trump-administration-mistake-college-student-detained",
-      "title": "Trump administration says deporting college student trying to surprise family was a ‘mistake’",
-      "summary": "Any Lucía López Belloza was detained at Boston’s airport in November and flown to Honduras two days later The Trump administration apologized in court for a “mistake” in the deportation of a Massachusetts college student who was detained..."
+      "char": "🕵️‍♂",
+      "label": "cia director meets venezuelan leader",
+      "url": "https://www.bbc.com/news/articles/cvgjn5yyeljo?at_medium=RSS&at_campaign=rss",
+      "title": "CIA director had two-hour meeting with new Venezuelan leader in Caracas",
+      "summary": "The pair discussed economic opportunities and preventing Venezuela becoming a place for \"America's adversaries\", a US official said."
     },
     {
       "char": "🌧️",
-      "label": "extreme rainfall in south africa",
+      "label": "extreme rainfall hits south africa",
       "url": "https://www.theguardian.com/environment/2026/jan/16/weather-tracer-extreme-rainfall-inundates-south-africa-mozambique-flood-warning",
       "title": "Extreme rainfall inundates South Africa and Mozambique",
       "summary": "Flood warning raised to highest level with roads washed away and rain forcing evacuation of Kruger national park Large areas of north-eastern South Africa and neighbouring Mozambique have been inundated for several days with exceptionall..."
     },
     {
-      "char": "🇨🇦",
-      "label": "canada and china partnership",
-      "url": "https://www.theguardian.com/world/2026/jan/16/china-canada-partnership-new-global-realities-carney-xi-jinping",
-      "title": "Canada PM hails strategic partnership with China to adapt to ‘new global realities’",
-      "summary": "Mark Carney holds talks with Xi Jinping on rare Beijing trip as Canada seeks to diversify trade links away from US Business live – latest updates Canada’s prime minister, Mark Carney, has hailed a “new strategic partnership” with China a..."
+      "char": "🇺🇬",
+      "label": "uganda election violence reported",
+      "url": "https://www.theguardian.com/world/2026/jan/16/uganda-election-early-results-show-museveni-in-lead-as-violence-reported",
+      "title": "Uganda’s opposition leader ‘taken by army’ as Museveni nears re-election",
+      "summary": "Bobi Wine flown to unknown location, his party says, hours after security forces allegedly killed 10 of his campaigners The Ugandan opposition leader Bobi Wine was taken from his house and brought to an unknown location on Friday, his pa..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "The day presents a mix of troubling news, including threats of violence in Iran, extreme weather causing devastation, and deportation issues. This creates an overall sense of concern and sadness about the state of global affairs.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
