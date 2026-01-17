@@ -39,5 +39,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "Today's news highlights significant geopolitical tensions and human rights issues, particularly in relations with China and Venezuela, leading to an overall sense of unease about global stability.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
