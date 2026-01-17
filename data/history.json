@@ -15927,5 +15927,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-17",
+    "emojis": [
+      {
+        "char": "🌧️",
+        "label": "extreme rainfall in south africa",
+        "url": "https://www.theguardian.com/environment/2026/jan/16/weather-tracer-extreme-rainfall-inundates-south-africa-mozambique-flood-warning",
+        "title": "Extreme rainfall inundates South Africa and Mozambique",
+        "summary": "Flood warning raised to highest level with roads washed away and rain forcing evacuation of Kruger national park Large areas of north-eastern South Africa and neighbouring Mozambique have been inundated for several days with exceptionall..."
+      },
+      {
+        "char": "🗳️",
+        "label": "uganda's election results",
+        "url": "https://www.bbc.com/news/articles/c78vzye1l2no?at_medium=RSS&at_campaign=rss",
+        "title": "Uganda's president heads for victory as his main rival cries foul",
+        "summary": "President Museveni has about 75% of the vote with results in from more than half of all polling stations."
+      },
+      {
+        "char": "🕊️",
+        "label": "iran protests quelled",
+        "url": "https://www.nytimes.com/2026/01/16/world/middleeast/iran-protests-deadly-crackdown.html",
+        "title": "Iran Protests Quelled Since Deadly Crackdown, Residents Say",
+        "summary": "“There is massive disappointment and disillusionment,” one Tehran resident said. A human rights group acknowledged that demonstrations had been subdued since Sunday, with thousands of people detained."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "cia meets venezuelan leader",
+        "url": "https://www.bbc.com/news/articles/cvgjn5yyeljo?at_medium=RSS&at_campaign=rss",
+        "title": "CIA director had two-hour meeting with new Venezuelan leader in Caracas",
+        "summary": "The pair discussed economic opportunities and preventing Venezuela becoming a place for \"America's adversaries\", a US official said."
+      },
+      {
+        "char": "📚",
+        "label": "bolsonaro reduces sentence",
+        "url": "https://www.theguardian.com/world/2026/jan/16/brazil-jair-bolsonaro-reduce-sentence-reading-books",
+        "title": "Brazil’s Bolsonaro finds novel way to reduce 27-year sentence: reading books",
+        "summary": "Former president convicted for coup plot to take advantage of law that knocks four days off jail term for each book read Jair Bolsonaro’s lawyers appear to have been reading up on the country’s penal code and have found a way to help the..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
