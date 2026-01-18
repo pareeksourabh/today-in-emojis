@@ -16059,5 +16059,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-18",
+    "emojis": [
+      {
+        "char": "💊",
+        "label": "paracetamol safe in pregnancy",
+        "url": "https://www.bbc.com/news/articles/c74vdgkw1kzo?at_medium=RSS&at_campaign=rss",
+        "title": "Paracetamol is safe in pregnancy, says study refuting Trump autism claims",
+        "summary": "Researchers say their gold-standard review should put an end to the debate over use of the common painkiller during pregnancy."
+      },
+      {
+        "char": "🎤",
+        "label": "julio iglesias denies abuse claims",
+        "url": "https://www.theguardian.com/world/2026/jan/16/julio-iglesias-denies-sexual-abuse-claims-of-two-former-female-employees",
+        "title": "Julio Iglesias denies sexual abuse claims of two former female employees",
+        "summary": "Women allege Spanish singer subjected them ‘to inappropriate touching, insults and humiliation … in atmosphere of control’ The Spanish singer Julio Iglesias has broken his silence over allegations that he sexually abused two women who wo..."
+      },
+      {
+        "char": "🇪🇺",
+        "label": "eu phase-out of chinese suppliers",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdU5teElqVzdPcVpjQV82dnB0SXdkdTl4cjFBTWJiXzRlZFltbHBLLWg3NmxYQmI1alFkUVRtdVhGRksxR2VIWTQtNlJmYTVMZ3FjTEdpOG5PejVyWnd2X3NWZldJUlJnZjZreXpRSGlicDh1RkVLZXFHOWhva25vRWRjNy00eEhYSnVWTWpNX1VsOEdMNmloX0gzSGk4czVzSFlyUXA3M2ZsN00?oc=5",
+        "title": "EU moves to force the phase-out of Chinese suppliers from key infrastructure, FT reports - Reuters",
+        "summary": "EU moves to force the phase-out of Chinese suppliers from key infrastructure, FT reports Reuters"
+      },
+      {
+        "char": "🗳️",
+        "label": "iran's supreme leader unbending",
+        "url": "https://www.nytimes.com/2026/01/17/world/middleeast/iran-ayatollah-khamenei.html",
+        "title": "Iran’s Supreme Leader, Unbending Over Time",
+        "summary": "Ayatollah Ali Khamenei has built his 37-year rule on uncompromising repression. His answer to the current protests is no different."
+      },
+      {
+        "char": "🦍",
+        "label": "twin baby gorillas born in drc",
+        "url": "https://www.theguardian.com/environment/2026/jan/17/twin-baby-mountain-gorilla-virunga-drc-survival-conservation-aoe",
+        "title": "Rare twins born in DRC raise cautious hope for endangered mountain gorillas",
+        "summary": "Virunga park ranger says babies are well cared for by mother Mafuko but high infant mortality makes first weeks critical It was noon by the time Jacques Katutu first saw the newborn mountain gorillas. Cradled in the arms of their mother,..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
