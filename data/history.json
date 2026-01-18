@@ -16103,5 +16103,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-18",
+    "emojis": [
+      {
+        "char": "🏦",
+        "label": "jpmorgan confirms trump's claim",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzhWblJSeXFRLXBRdUNKbmxRMDlILUdTTzNQNVY2Z1BKdlF0bU83TTRyXzNHbHQ0akxNNkk5bVY2MEZGb0dXZHdDaWdlTzNHNmpzcWthN2x6OFRRa0xyaU1SWWpHQlViMVEyQktBdU1MNUJjRk9kaFFESWx0WjZXOS1fZ2tlOU0ybFE4Z0t4amRsa1dScW9rWjlvQlJBMnpqUWZkU19ROFF4SDJ6VEpZ?oc=5",
+        "title": "JPMorgan confirms Trump assertion that bank CEO Dimon was not offered Fed chair job - Reuters",
+        "summary": "JPMorgan confirms Trump assertion that bank CEO Dimon was not offered Fed chair job Reuters"
+      },
+      {
+        "char": "🙇‍♂️",
+        "label": "japanese mayor apologises for remarks",
+        "url": "https://www.bbc.com/news/articles/czejwl2z80lo?at_medium=RSS&at_campaign=rss",
+        "title": "Japanese mayor apologises after calling staff 'human scum'",
+        "summary": "Yokohama mayor Takeharu Yamanaka admits using the terms \"idiot\" and \"human scum\" to disparage staff."
+      },
+      {
+        "char": "🏔️",
+        "label": "avalanches kill skiers in alps",
+        "url": "https://www.bbc.com/news/articles/c3r1v7gqdp8o?at_medium=RSS&at_campaign=rss",
+        "title": "Avalanches kill five off-piste skiers in Austrian Alps",
+        "summary": "A number of people have died in the Alps over the past week, as heavy snowfall has hit the region."
+      },
+      {
+        "char": "🇺🇬",
+        "label": "museveni declared ugandan election winner",
+        "url": "https://www.nytimes.com/2026/01/17/world/africa/uganda-bobi-wine-museveni.html",
+        "title": "Uganda’s President Museveni Is Declared Election Winner",
+        "summary": "Bobi Wine, the main opposition candidate, accused the government of vote rigging and has called for street protests."
+      },
+      {
+        "char": "🚀",
+        "label": "nasa's moon rocket arrives for launch",
+        "url": "https://www.bbc.com/news/articles/cly148lvyevo?at_medium=RSS&at_campaign=rss",
+        "title": "Nasa's mega Moon rocket arrives at launch pad for Artemis II mission",
+        "summary": "Final preparations now get underway for the first crewed mission to the Moon in more than 50 years."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
