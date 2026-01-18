@@ -39,5 +39,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Mixed Emotions",
+    "emoji": "🙂",
+    "rationale": "Today reflects a blend of pride and anticipation from the Moroccan diaspora alongside somber news of tragedy and political unrest. The excitement of the upcoming football final contrasts sharply with the losses and tensions reported in Iraq",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
