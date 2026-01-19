@@ -1,20 +1,27 @@
 {
   "date": "2026-01-19",
-  "timestamp": "2026-01-19T04:56:07Z",
+  "timestamp": "2026-01-19T08:37:47Z",
   "emojis": [
     {
-      "char": "🌍",
-      "label": "fears of digital isolation in iran",
-      "url": "https://www.bbc.com/news/articles/cg5gegrdq3go?at_medium=RSS&at_campaign=rss",
-      "title": "Fears Iran's internet shutdown could lead to 'extreme digital isolation'",
-      "summary": "Internet monitor FilterWatch warns that authorities are trying to cut the country off from international connectivity."
+      "char": "🕊️",
+      "label": "israel opposes trump's peace board",
+      "url": "https://www.bbc.com/news/articles/cd0y453yd90o?at_medium=RSS&at_campaign=rss",
+      "title": "Israel pushes back on Trump's picks for executives on Gaza 'Board of Peace'",
+      "summary": "Israel says it is unhappy it was not consulted, and Palestinians have also been critical."
+    },
+    {
+      "char": "📉",
+      "label": "stocks and dollar hit by tariffs",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObnpRdjNjdUV5bGo4bW1mdFEtOHYxcVg2c3U3UU5scDQ5eklVRl9DM3JzbFZjNkM5eWFuQlhvZG5EcDNtek5sNEtGREc4SXBhSktleWF2RVFuUW82R29UbTYydHo5Y2VFbjlQSE1QWXVtSHZ1N3JHcG9MWHpsdEJhWkI5QQ?oc=5",
+      "title": "Stocks, dollar take tariff hit; gold gets safety bid - Reuters",
+      "summary": "Stocks, dollar take tariff hit; gold gets safety bid Reuters"
     },
     {
       "char": "🚆",
       "label": "high-speed train crash in spain",
       "url": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment/spain-high-speed-train-derailment",
       "title": "High-Speed Train Crash in Spain Leaves at Least 21 Dead",
-      "summary": "After the rear carriages of one train derailed onto the opposite track, another train passing by collided with it."
+      "summary": "A high-speed train smashed into another train after derailing in the southern province of Córdoba, officials said. The cause of the accident was not immediately clear."
     },
     {
       "char": "🔥",
@@ -24,18 +31,11 @@
       "summary": "Fires blaze through 8,500 hectares, forcing 50,000 people to evacuate as firefighters struggle to extinguish flames Wildfires raging across central and southern Chile have killed at least 18 people, scorched thousands of hectares of fore..."
     },
     {
-      "char": "📚",
-      "label": "bolsonaro reduces sentence by reading",
-      "url": "https://www.theguardian.com/world/2026/jan/16/brazil-jair-bolsonaro-reduce-sentence-reading-books",
-      "title": "Brazil’s Bolsonaro finds novel way to reduce 27-year sentence: reading books",
-      "summary": "Former president convicted for coup plot to take advantage of law that knocks four days off jail term for each book read Jair Bolsonaro’s lawyers appear to have been reading up on the country’s penal code and have found a way to help the..."
-    },
-    {
-      "char": "🐒",
-      "label": "rare twins born in drc gorillas",
-      "url": "https://www.theguardian.com/environment/2026/jan/17/twin-baby-mountain-gorilla-virunga-drc-survival-conservation-aoe",
-      "title": "Rare twins born in DRC raise cautious hope for endangered mountain gorillas",
-      "summary": "Virunga park ranger says babies are well cared for by mother Mafuko but high infant mortality makes first weeks critical It was noon by the time Jacques Katutu first saw the newborn mountain gorillas. Cradled in the arms of their mother,..."
+      "char": "🇺🇬",
+      "label": "uganda's president calls opponents terrorists",
+      "url": "https://www.theguardian.com/world/2026/jan/18/ugandas-president-calls-opponents-terrorists-in-victory-speech",
+      "title": "Uganda’s president calls opponents 'terrorists' in victory speech",
+      "summary": "Yoweri Museveni wins seventh term but poll criticised by observers and rights groups over repression of opposition and internet blackout Uganda’s president, Yoweri Museveni, fresh from winning a seventh term in office at 81, said on Sund..."
     }
   ],
   "source": "ai-openai",

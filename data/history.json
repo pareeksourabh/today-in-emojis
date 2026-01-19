@@ -16367,5 +16367,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-19",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "israel opposes trump's peace board",
+        "url": "https://www.bbc.com/news/articles/cd0y453yd90o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel pushes back on Trump's picks for executives on Gaza 'Board of Peace'",
+        "summary": "Israel says it is unhappy it was not consulted, and Palestinians have also been critical."
+      },
+      {
+        "char": "📉",
+        "label": "stocks and dollar hit by tariffs",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObnpRdjNjdUV5bGo4bW1mdFEtOHYxcVg2c3U3UU5scDQ5eklVRl9DM3JzbFZjNkM5eWFuQlhvZG5EcDNtek5sNEtGREc4SXBhSktleWF2RVFuUW82R29UbTYydHo5Y2VFbjlQSE1QWXVtSHZ1N3JHcG9MWHpsdEJhWkI5QQ?oc=5",
+        "title": "Stocks, dollar take tariff hit; gold gets safety bid - Reuters",
+        "summary": "Stocks, dollar take tariff hit; gold gets safety bid Reuters"
+      },
+      {
+        "char": "🚆",
+        "label": "high-speed train crash in spain",
+        "url": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment/spain-high-speed-train-derailment",
+        "title": "High-Speed Train Crash in Spain Leaves at Least 21 Dead",
+        "summary": "A high-speed train smashed into another train after derailing in the southern province of Córdoba, officials said. The cause of the accident was not immediately clear."
+      },
+      {
+        "char": "🔥",
+        "label": "chile declares state of catastrophe",
+        "url": "https://www.theguardian.com/world/2026/jan/18/chile-president-declares-state-of-catastrophe-as-wildfires-kill",
+        "title": "Chilean president declares state of catastrophe as wildfires kill at least 18",
+        "summary": "Fires blaze through 8,500 hectares, forcing 50,000 people to evacuate as firefighters struggle to extinguish flames Wildfires raging across central and southern Chile have killed at least 18 people, scorched thousands of hectares of fore..."
+      },
+      {
+        "char": "🇺🇬",
+        "label": "uganda's president calls opponents terrorists",
+        "url": "https://www.theguardian.com/world/2026/jan/18/ugandas-president-calls-opponents-terrorists-in-victory-speech",
+        "title": "Uganda’s president calls opponents 'terrorists' in victory speech",
+        "summary": "Yoweri Museveni wins seventh term but poll criticised by observers and rights groups over repression of opposition and internet blackout Uganda’s president, Yoweri Museveni, fresh from winning a seventh term in office at 81, said on Sund..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
