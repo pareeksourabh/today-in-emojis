@@ -16279,5 +16279,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-19",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "us soldiers on standby for deployment",
+        "url": "https://www.bbc.com/news/articles/c74v0pxg2nvo?at_medium=RSS&at_campaign=rss",
+        "title": "Around 1,500 US soldiers on standby for deployment to Minneapolis, officials say",
+        "summary": "The troops are an option should Donald Trump decide to use them to quell anti-ICE protests in the city, an official tells CBS News."
+      },
+      {
+        "char": "🌍",
+        "label": "trade war over greenland reignited",
+        "url": "https://www.nytimes.com/2026/01/18/world/europe/greenland-us-trade-war.html",
+        "title": "After Trump Reignites a Trade War Over Greenland, Europe Weighs Hitting Back",
+        "summary": "Europe’s dependence on the United States for NATO security limits its options. Its strongest response would be a trade “bazooka,” and other options are possible."
+      },
+      {
+        "char": "🕊️",
+        "label": "jewish family charges antisemitism",
+        "url": "https://www.nytimes.com/2026/01/18/world/middleeast/jewish-family-iraq-embassy-.html",
+        "title": "France’s Embassy in Iraq Is a Spoil of Antisemitism, Jewish Family Charges",
+        "summary": "A Jewish family that fled Iraq generations ago rented its home to France for use as an embassy, but Paris long ago stopped paying it rent, after Iraq stripped Jews of property."
+      },
+      {
+        "char": "🔥",
+        "label": "chile wildfires kill 18, state of catastrophe",
+        "url": "https://www.theguardian.com/world/2026/jan/18/chile-president-declares-state-of-catastrophe-as-wildfires-kill",
+        "title": "Chilean president declares state of catastrophe as wildfires kill at least 18",
+        "summary": "Fires blaze through 8,500 hectares, forcing 50,000 people to evacuate as firefighters struggle to extinguish flames Wildfires raging across central and southern Chile have killed at least 18 people, scorched thousands of hectares of fore..."
+      },
+      {
+        "char": "🐒",
+        "label": "twins born raise hope for gorillas",
+        "url": "https://www.theguardian.com/environment/2026/jan/17/twin-baby-mountain-gorilla-virunga-drc-survival-conservation-aoe",
+        "title": "Rare twins born in DRC raise cautious hope for endangered mountain gorillas",
+        "summary": "Virunga park ranger says babies are well cared for by mother Mafuko but high infant mortality makes first weeks critical It was noon by the time Jacques Katutu first saw the newborn mountain gorillas. Cradled in the arms of their mother,..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
