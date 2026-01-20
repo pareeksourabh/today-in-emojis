@@ -16675,5 +16675,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-20",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "colombian ex-paramilitary leader jailed",
+        "url": "https://www.theguardian.com/world/2026/jan/20/colombia-ex-paramilitary-leader-salvatore-mancuso-jailed-crimes-against-indigenous-groups",
+        "title": "Colombian ex-paramilitary leader jailed for crimes against Indigenous groups",
+        "summary": "Salvatore Mancuso given 40-year sentence, which could be reduced after truth and reparation activities A Colombian court has sentenced a former paramilitary leader to 40 years in prison for crimes committed against Indigenous communities..."
+      },
+      {
+        "char": "🏖️",
+        "label": "australia shuts beaches after shark attacks",
+        "url": "https://www.nytimes.com/2026/01/20/world/australia/australia-sydney-shark-attacks.html",
+        "title": "After Four Shark Attacks in 48 Hours, Australia Shuts Dozens of Beaches",
+        "summary": "Many of the closed beaches were in Sydney, the site of three of the attacks."
+      },
+      {
+        "char": "🚆",
+        "label": "spain train crash recovery continues",
+        "url": "https://www.bbc.com/news/articles/c5y2qjy9l4yo?at_medium=RSS&at_campaign=rss",
+        "title": "Spain train crash recovery continues as investigators probe 'gap' in rail",
+        "summary": "Authorities say the twisted train wreckage makes it difficult to recover people trapped inside."
+      },
+      {
+        "char": "🌍",
+        "label": "kurdish-led forces pull out of camp",
+        "url": "https://www.bbc.com/news/articles/c4g39w8k8zwo?at_medium=RSS&at_campaign=rss",
+        "title": "Kurdish-led forces pull out of camp for IS families during clashes in Syria",
+        "summary": "The move comes amid continuing clashes with Syrian government forces despite a ceasefire agreement."
+      },
+      {
+        "char": "🔥",
+        "label": "chile declares state of catastrophe",
+        "url": "https://www.theguardian.com/world/2026/jan/18/chile-president-declares-state-of-catastrophe-as-wildfires-kill",
+        "title": "Chilean president declares state of catastrophe as wildfires kill at least 18",
+        "summary": "Fires blaze through 8,500 hectares, forcing 50,000 people to evacuate as firefighters struggle to extinguish flames Wildfires raging across central and southern Chile have killed at least 18 people, scorched thousands of hectares of fore..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
