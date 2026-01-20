@@ -16631,5 +16631,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-20",
+    "emojis": [
+      {
+        "char": "🇺🇬",
+        "label": "bobi wine won't contest uganda election",
+        "url": "https://www.bbc.com/news/articles/c394pk4p707o?at_medium=RSS&at_campaign=rss",
+        "title": "Bobi Wine tells the BBC from hiding he will not contest Uganda election results in court",
+        "summary": "The losing presidential candidate calls for \"peaceful change\", saying Uganda's judiciary is not independent."
+      },
+      {
+        "char": "🛢️",
+        "label": "oil steadies amid us tariff threats",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQnh4aFFfczdGSlFrb2VYbWFqcDBqeUh1R2QwYTg2eTJGaXVsaWFaLVRQZGEzc1YweU1WcTNPQlRhcHRtRlBfVnRMSV85ajAyVDJUaXMyMHJDeFJVUDBmMlB2TDdjSVpBZG5uTzFubWpPQlFELTVKMXJjUmZfSXY1RUV1NXVlWWc0VmpnRDhKTC1pX3JKR2xzYVpoR002Mnl3?oc=5",
+        "title": "Oil steadies as investors assess US tariff threats over Greenland - Reuters",
+        "summary": "Oil steadies as investors assess US tariff threats over Greenland Reuters"
+      },
+      {
+        "char": "🔥",
+        "label": "chile declares state of catastrophe",
+        "url": "https://www.theguardian.com/world/2026/jan/18/chile-president-declares-state-of-catastrophe-as-wildfires-kill",
+        "title": "Chilean president declares state of catastrophe as wildfires kill at least 18",
+        "summary": "Fires blaze through 8,500 hectares, forcing 50,000 people to evacuate as firefighters struggle to extinguish flames Wildfires raging across central and southern Chile have killed at least 18 people, scorched thousands of hectares of fore..."
+      },
+      {
+        "char": "🗳️",
+        "label": "venezuela political prisoner released",
+        "url": "https://www.nytimes.com/2026/01/20/world/americas/venezuela-prisoner-release.html",
+        "title": "A Venezuelan Political Prisoner Finally Comes Home",
+        "summary": "Ángel Godoy was thrown into jail after writing columns that angered the government of President Nicolás Maduro. Now his family is trying to make up for lost time."
+      },
+      {
+        "char": "💰",
+        "label": "oxfam reveals wealth inequality issues",
+        "url": "https://www.theguardian.com/global-development/2026/jan/19/brazen-political-influence-rich-laid-bare-wealth-billionaires-inequality-poverty-instability-oxfam",
+        "title": "‘Brazen’ political influence of rich laid bare as wealth of billionaires reaches $18.3tn, says Oxfam",
+        "summary": "Governments opting for oligarchy while brutally repressing protests over austerity and lack of jobs, charity report says The world saw a record number of billionaires created last year, with a collective wealth of $18.3tn (£13.7tn), whil..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
