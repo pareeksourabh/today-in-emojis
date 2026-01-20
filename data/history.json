@@ -16499,5 +16499,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-20",
+    "emojis": [
+      {
+        "char": "🇲🇩",
+        "label": "moldova withdraws from russia-led group",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVHhvQzd1LS1rM1d5VjlIVHVxbjFhZ1gtcjBPOEZCSmVaWjhjVERvRVpvaWV2ZVdUNFgxeUJFNV91aHU0OEdMN0U1d2p0SGZLYlA3WkdVS29tUWF0RWYzOFBXZzNxU2ZjaC1mOW9uU1dYYjVtNVdaYTQ1bHkycWtzYlI5T0dyRGpIeW5TWHJSeEJTRU5qN055aEg4Zw?oc=5",
+        "title": "Moldova proceeds with withdrawal from Russia-led CIS group - Reuters",
+        "summary": "Moldova proceeds with withdrawal from Russia-led CIS group Reuters"
+      },
+      {
+        "char": "🚆",
+        "label": "spain train collision kills 40",
+        "url": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment",
+        "title": "Spain Scrutinizes Break in Track After 2 Trains Collide, Killing 40",
+        "summary": "Crews were working to retrieve bodies after two high-speed trains derailed in southern Spain. The regional authorities said 41 people were hospitalized, with a dozen of them in intensive care."
+      },
+      {
+        "char": "🇺🇬",
+        "label": "museveni wins ugandan election",
+        "url": "https://www.theguardian.com/world/2026/jan/17/yoweri-museveni-wins-ugandan-election-as-opponent-condemns-fake-result",
+        "title": "Yoweri Museveni wins Ugandan election as opponent condemns ‘fake result’",
+        "summary": "Museveni’s opponent, Bobi Wine, alleges that members of polling staff were kidnapped and called for peaceful protests Yoweri Museveni, has won the Ugandan election and his seventh term with more than 70% of the vote, state election autho..."
+      },
+      {
+        "char": "💰",
+        "label": "oxfam report on billionaire wealth",
+        "url": "https://www.theguardian.com/global-development/2026/jan/19/brazen-political-influence-rich-laid-bare-wealth-billionaires-inequality-poverty-instability-oxfam",
+        "title": "‘Brazen’ political influence of rich laid bare as wealth of billionaires reaches $18.3tn, says Oxfam",
+        "summary": "Governments opting for oligarchy while brutally repressing protests over austerity and lack of jobs, charity report says The world saw a record number of billionaires created last year, with a collective wealth of $18.3tn (£13.7tn), whil..."
+      },
+      {
+        "char": "🕊️",
+        "label": "valentino, iconic designer, dies",
+        "url": "https://www.bbc.com/news/articles/cdx4rpxxvg7o?at_medium=RSS&at_campaign=rss",
+        "title": "Italian fashion designer Valentino dies aged 93",
+        "summary": "One of the giants of 20th century fashion, his creations were worn by celebrities including Elizabeth Taylor, Julia Roberts and Gwyneth Paltrow."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
