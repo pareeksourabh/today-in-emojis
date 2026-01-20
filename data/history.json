@@ -16587,5 +16587,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-20",
+    "emojis": [
+      {
+        "char": "🏛️",
+        "label": "supreme court tests trump's power",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNVVQUmw0NlJUYmc2T21lQWpod1E0dkUzVUlfTWM0WWxlcWs2eXdONzdVUTlnbzJnYlVjMm5BNGJlc0FfNkQ5MFRSVENtNkRNOFE0Szg1ejFjSF9MdHMwenZpTFRRMHQxcUFhc0d5d2pDb0w0VXhVSmhiaUozdVpFdEZha1ZYbzM4eGtEVGRvcFlDRVRhS1AxLU5ZbTV5bmNKTkR0ZlcyVlBQQ3RNbkdwSHd2SFZGdjZXdDkxQ1dadGlwSDZqYzB2MjV3dllGUEVSNnJ4NU03bUttRF83cGM5cnoxVTNhRDcxeFE?oc=5",
+        "title": "Supreme Court tests limits of Trump's power over the economy in fight over Fed's Lisa Cook - Reuters",
+        "summary": "Supreme Court tests limits of Trump's power over the economy in fight over Fed's Lisa Cook Reuters"
+      },
+      {
+        "char": "⚔️",
+        "label": "clashes in syrian prisons",
+        "url": "https://www.nytimes.com/2026/01/19/world/middleeast/syria-prisons-isis.html",
+        "title": "Clashes Erupt Around Syrian Prisons Holding Islamic State Fighters",
+        "summary": "New tensions flared a day after a Kurdish-led militia agreed to hand over control of prisons holding some 8,000 Islamic State fighters to the Syrian government."
+      },
+      {
+        "char": "📉",
+        "label": "ceo revenue confidence hits low",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZHVZcWNMTi1SMVN5X2tMSlBYandoZy02LUJnOEgxdldKSEVYUmROalhrMHJ3aXhqUTBiamEwVWVvbTB3MlNLaUppZUtMMnlXekhQRzM0dE1Mdjl6cEZsR2RCOVgxai1kVzdsaTM2azlqd1FnVm9GcTNIa2txTVdZaXlGM1hrSzd5dXlnX1d6STJOdHJkcVVsZVZ6Qi1tbjRORlE?oc=5",
+        "title": "CEO revenue confidence hits 5-year low - PwC survey - Reuters",
+        "summary": "CEO revenue confidence hits 5-year low - PwC survey Reuters"
+      },
+      {
+        "char": "🚆",
+        "label": "spain train collision kills 40",
+        "url": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment",
+        "title": "Spain Scrutinizes Break in Track After 2 Trains Collide, Killing 40",
+        "summary": "Crews were working to retrieve bodies after two high-speed trains derailed in southern Spain. The regional authorities said 41 people were hospitalized, with a dozen of them in intensive care."
+      },
+      {
+        "char": "🐒",
+        "label": "rare twins born in drc",
+        "url": "https://www.theguardian.com/environment/2026/jan/17/twin-baby-mountain-gorilla-virunga-drc-survival-conservation-aoe",
+        "title": "Rare twins born in DRC raise cautious hope for endangered mountain gorillas",
+        "summary": "Virunga park ranger says babies are well cared for by mother Mafuko but high infant mortality makes first weeks critical It was noon by the time Jacques Katutu first saw the newborn mountain gorillas. Cradled in the arms of their mother,..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
