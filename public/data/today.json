@@ -1,41 +1,41 @@
 {
   "date": "2026-01-21",
-  "timestamp": "2026-01-21T08:36:54Z",
+  "timestamp": "2026-01-21T13:00:24Z",
   "emojis": [
     {
+      "char": "⛪",
+      "label": "nigeria church abductions confirmed",
+      "url": "https://www.bbc.com/news/articles/c4grw9vg7y4o?at_medium=RSS&at_campaign=rss",
+      "title": "Nigeria police confirm mass church abductions after previous denial",
+      "summary": "More than 160 people were reportedly taken from three churches in the northern Kaduna state."
+    },
+    {
+      "char": "⚖️",
+      "label": "life sentence for shinzo abe's killer",
+      "url": "https://www.nytimes.com/2026/01/20/world/asia/japan-shinzo-abe-killer-verdict.html",
+      "title": "Man Gets Life in Prison for Killing Shinzo Abe, Former Leader of Japan",
+      "summary": "Tetsuya Yamagami, 45, had admitted to shooting Mr. Abe, Japan’s longest-serving prime minister; but his case divided Japan."
+    },
+    {
+      "char": "🌍",
+      "label": "us urges africa to remember generosity",
+      "url": "https://www.theguardian.com/us-news/2026/jan/20/us-diplomats-urged-to-remind-african-leaders-of-us-generosity-despite-usaid-closing",
+      "title": "Head of US Africa bureau urges staff to highlight US ‘generosity’ despite aid cuts",
+      "summary": "Email sent to diplomats by state department office’s new boss is labelled ‘racist’ after dismissing Africa as a priority US diplomats have been encouraged to “unabashedly and aggressively” remind African governments about the “generosity..."
+    },
+    {
       "char": "🔥",
-      "label": "mall fire horror stories",
-      "url": "https://www.bbc.com/news/articles/c1ev4z4n5dzo?at_medium=RSS&at_campaign=rss",
-      "title": "Locked exits, panic and desperate calls for help: Survivors tell of mall fire horror",
-      "summary": "The BBC speaks to eyewitnesses and survivors of the fire that ripped through a busy Pakistan shopping centre."
+      "label": "chile declares state of catastrophe",
+      "url": "https://www.theguardian.com/world/2026/jan/18/chile-president-declares-state-of-catastrophe-as-wildfires-kill",
+      "title": "Chilean president declares state of catastrophe as wildfires kill at least 18",
+      "summary": "Fires blaze through 8,500 hectares, forcing 50,000 people to evacuate as firefighters struggle to extinguish flames Wildfires raging across central and southern Chile have killed at least 18 people, scorched thousands of hectares of fore..."
     },
     {
-      "char": "📈",
-      "label": "rio tinto beats output estimates",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNME9JSU9ya01DcXF1MzFzdC1wdUdPQl9IZXZrcXNCekZxNWxRV1kwRjM5NjRmNHM0aVUwT0QzMWFVZnNKZmNRdENER0dCMlFmOUxHdUhaT1hUMm9KYmlNQXNMZUZ4czFKbENoR0x4cGg3X01lSlVIbGRLSWpyczMwV3hmVXB3OW9DbGc4anEzVG51YjBpcElEazJyVDg?oc=5",
-      "title": "Rio Tinto's fourth-quarter iron ore, copper output beat estimates - Reuters",
-      "summary": "Rio Tinto's fourth-quarter iron ore, copper output beat estimates Reuters"
-    },
-    {
-      "char": "🤖",
-      "label": "openai to offer chatbot ads",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb3JTcG56RkpzMTRmV2hJcmdZRHhEd19FcDNTNTZTTjA5dHQzMlVjR2l4eHVWOFRhS3hXcUR1ZkJYZ0JJNVc2RzFhWm1ZMUlsOE5jQkNBOHR0blkzRWNlaklmTXRURmZWZWx0aFRMa09UZ2FXTEMxelEzN1JxTHNmR2REVzhFaERrM09TSkI0cHRrN2xnTVpSNmlid2VoSEdzNEw4VWlDYnVCWFRwQXpGd2lTVHVnTFJTbV9LaTgtaW9Kdw?oc=5",
-      "title": "OpenAI to start offering chatbot ads to advertisers, The Information reports - Reuters",
-      "summary": "OpenAI to start offering chatbot ads to advertisers, The Information reports Reuters"
-    },
-    {
-      "char": "🇻🇪",
-      "label": "venezuelan political prisoner released",
-      "url": "https://www.nytimes.com/2026/01/20/world/americas/venezuela-prisoner-release.html",
-      "title": "A Venezuelan Political Prisoner Finally Comes Home",
-      "summary": "Ángel Godoy was thrown into jail after writing columns that angered the government of President Nicolás Maduro. Now his family is trying to make up for lost time."
-    },
-    {
-      "char": "🚆",
-      "label": "train driver killed in spain crash",
-      "url": "https://www.bbc.com/news/articles/c1m78xl0gmpo?at_medium=RSS&at_campaign=rss",
-      "title": "Train driver killed in second deadly Spain rail crash in days",
-      "summary": "At least 37 people have been injured, five seriously, in a second crash, after Sunday's two-train collision in Andalusia."
+      "char": "🚂",
+      "label": "spain train crash investigation ongoing",
+      "url": "https://www.nytimes.com/2026/01/20/world/europe/spain-train-crash-track-investigation.html",
+      "title": "As Spain Mourns Train Crash Victims, Investigators Focus on Track",
+      "summary": "Officials on Tuesday were struggling to identify bodies from the crash near the southern city of Córdoba, which killed at least 41 people."
     }
   ],
   "source": "ai-openai",
