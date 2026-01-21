@@ -16807,5 +16807,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-21",
+    "emojis": [
+      {
+        "char": "🔥",
+        "label": "mall fire horror stories",
+        "url": "https://www.bbc.com/news/articles/c1ev4z4n5dzo?at_medium=RSS&at_campaign=rss",
+        "title": "Locked exits, panic and desperate calls for help: Survivors tell of mall fire horror",
+        "summary": "The BBC speaks to eyewitnesses and survivors of the fire that ripped through a busy Pakistan shopping centre."
+      },
+      {
+        "char": "📈",
+        "label": "rio tinto beats output estimates",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNME9JSU9ya01DcXF1MzFzdC1wdUdPQl9IZXZrcXNCekZxNWxRV1kwRjM5NjRmNHM0aVUwT0QzMWFVZnNKZmNRdENER0dCMlFmOUxHdUhaT1hUMm9KYmlNQXNMZUZ4czFKbENoR0x4cGg3X01lSlVIbGRLSWpyczMwV3hmVXB3OW9DbGc4anEzVG51YjBpcElEazJyVDg?oc=5",
+        "title": "Rio Tinto's fourth-quarter iron ore, copper output beat estimates - Reuters",
+        "summary": "Rio Tinto's fourth-quarter iron ore, copper output beat estimates Reuters"
+      },
+      {
+        "char": "🤖",
+        "label": "openai to offer chatbot ads",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb3JTcG56RkpzMTRmV2hJcmdZRHhEd19FcDNTNTZTTjA5dHQzMlVjR2l4eHVWOFRhS3hXcUR1ZkJYZ0JJNVc2RzFhWm1ZMUlsOE5jQkNBOHR0blkzRWNlaklmTXRURmZWZWx0aFRMa09UZ2FXTEMxelEzN1JxTHNmR2REVzhFaERrM09TSkI0cHRrN2xnTVpSNmlid2VoSEdzNEw4VWlDYnVCWFRwQXpGd2lTVHVnTFJTbV9LaTgtaW9Kdw?oc=5",
+        "title": "OpenAI to start offering chatbot ads to advertisers, The Information reports - Reuters",
+        "summary": "OpenAI to start offering chatbot ads to advertisers, The Information reports Reuters"
+      },
+      {
+        "char": "🇻🇪",
+        "label": "venezuelan political prisoner released",
+        "url": "https://www.nytimes.com/2026/01/20/world/americas/venezuela-prisoner-release.html",
+        "title": "A Venezuelan Political Prisoner Finally Comes Home",
+        "summary": "Ángel Godoy was thrown into jail after writing columns that angered the government of President Nicolás Maduro. Now his family is trying to make up for lost time."
+      },
+      {
+        "char": "🚆",
+        "label": "train driver killed in spain crash",
+        "url": "https://www.bbc.com/news/articles/c1m78xl0gmpo?at_medium=RSS&at_campaign=rss",
+        "title": "Train driver killed in second deadly Spain rail crash in days",
+        "summary": "At least 37 people have been injured, five seriously, in a second crash, after Sunday's two-train collision in Andalusia."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

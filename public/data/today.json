@@ -1,41 +1,41 @@
 {
   "date": "2026-01-21",
-  "timestamp": "2026-01-21T04:50:39Z",
+  "timestamp": "2026-01-21T08:36:54Z",
   "emojis": [
     {
+      "char": "🔥",
+      "label": "mall fire horror stories",
+      "url": "https://www.bbc.com/news/articles/c1ev4z4n5dzo?at_medium=RSS&at_campaign=rss",
+      "title": "Locked exits, panic and desperate calls for help: Survivors tell of mall fire horror",
+      "summary": "The BBC speaks to eyewitnesses and survivors of the fire that ripped through a busy Pakistan shopping centre."
+    },
+    {
+      "char": "📈",
+      "label": "rio tinto beats output estimates",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNME9JSU9ya01DcXF1MzFzdC1wdUdPQl9IZXZrcXNCekZxNWxRV1kwRjM5NjRmNHM0aVUwT0QzMWFVZnNKZmNRdENER0dCMlFmOUxHdUhaT1hUMm9KYmlNQXNMZUZ4czFKbENoR0x4cGg3X01lSlVIbGRLSWpyczMwV3hmVXB3OW9DbGc4anEzVG51YjBpcElEazJyVDg?oc=5",
+      "title": "Rio Tinto's fourth-quarter iron ore, copper output beat estimates - Reuters",
+      "summary": "Rio Tinto's fourth-quarter iron ore, copper output beat estimates Reuters"
+    },
+    {
+      "char": "🤖",
+      "label": "openai to offer chatbot ads",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb3JTcG56RkpzMTRmV2hJcmdZRHhEd19FcDNTNTZTTjA5dHQzMlVjR2l4eHVWOFRhS3hXcUR1ZkJYZ0JJNVc2RzFhWm1ZMUlsOE5jQkNBOHR0blkzRWNlaklmTXRURmZWZWx0aFRMa09UZ2FXTEMxelEzN1JxTHNmR2REVzhFaERrM09TSkI0cHRrN2xnTVpSNmlid2VoSEdzNEw4VWlDYnVCWFRwQXpGd2lTVHVnTFJTbV9LaTgtaW9Kdw?oc=5",
+      "title": "OpenAI to start offering chatbot ads to advertisers, The Information reports - Reuters",
+      "summary": "OpenAI to start offering chatbot ads to advertisers, The Information reports Reuters"
+    },
+    {
+      "char": "🇻🇪",
+      "label": "venezuelan political prisoner released",
+      "url": "https://www.nytimes.com/2026/01/20/world/americas/venezuela-prisoner-release.html",
+      "title": "A Venezuelan Political Prisoner Finally Comes Home",
+      "summary": "Ángel Godoy was thrown into jail after writing columns that angered the government of President Nicolás Maduro. Now his family is trying to make up for lost time."
+    },
+    {
       "char": "🚆",
-      "label": "spain train crash investigation",
-      "url": "https://www.nytimes.com/2026/01/20/world/europe/spain-train-crash-track-investigation.html",
-      "title": "As Spain Mourns Train Crash Victims, Investigators Focus on Track",
-      "summary": "Officials on Tuesday were struggling to identify bodies from the crash near the southern city of Córdoba, which killed at least 41 people."
-    },
-    {
-      "char": "🇺🇬",
-      "label": "museveni wins ugandan election",
-      "url": "https://www.theguardian.com/world/2026/jan/17/yoweri-museveni-wins-ugandan-election-as-opponent-condemns-fake-result",
-      "title": "Yoweri Museveni wins Ugandan election as opponent condemns ‘fake result’",
-      "summary": "Museveni’s opponent, Bobi Wine, alleges that members of polling staff were kidnapped and called for peaceful protests Yoweri Museveni, has won the Ugandan election and his seventh term with more than 70% of the vote, state election autho..."
-    },
-    {
-      "char": "💣",
-      "label": "isis attack on restaurant in afghanistan",
-      "url": "https://www.nytimes.com/2026/01/20/world/asia/isis-kabul-bomb-china.html",
-      "title": "Islamic State Claims Deadly Attack on Chinese Restaurant in Afghanistan",
-      "summary": "A bombing that killed seven people and injured a dozen more at a noodle restaurant in a busy area of Kabul is likely to heighten China’s growing security concerns in Afghanistan."
-    },
-    {
-      "char": "🌍",
-      "label": "guatemala state of emergency declared",
-      "url": "https://www.theguardian.com/world/2026/jan/19/guatemala-state-of-emergency-police-officers-killed-prison-gang-violence",
-      "title": "Guatemala declares state of emergency after eight police officers killed in prison gang violence",
-      "summary": "President announces 30-day order after inmates also took 46 people hostage at three prisons Guatemala’s president has declared a 30-day nationwide state of emergency to combat criminal gangs after authorities accused them of killing eigh..."
-    },
-    {
-      "char": "🦈",
-      "label": "australia shark attacks lead to beach closures",
-      "url": "https://www.nytimes.com/2026/01/20/world/australia/australia-sydney-shark-attacks.html",
-      "title": "After Four Shark Attacks in 48 Hours, Australia Shuts Dozens of Beaches",
-      "summary": "Many of the closed beaches were in Sydney, the site of three of the attacks."
+      "label": "train driver killed in spain crash",
+      "url": "https://www.bbc.com/news/articles/c1m78xl0gmpo?at_medium=RSS&at_campaign=rss",
+      "title": "Train driver killed in second deadly Spain rail crash in days",
+      "summary": "At least 37 people have been injured, five seriously, in a second crash, after Sunday's two-train collision in Andalusia."
     }
   ],
   "source": "ai-openai",
