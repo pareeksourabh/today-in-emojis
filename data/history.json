@@ -16763,5 +16763,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-21",
+    "emojis": [
+      {
+        "char": "🚆",
+        "label": "spain train crash investigation",
+        "url": "https://www.nytimes.com/2026/01/20/world/europe/spain-train-crash-track-investigation.html",
+        "title": "As Spain Mourns Train Crash Victims, Investigators Focus on Track",
+        "summary": "Officials on Tuesday were struggling to identify bodies from the crash near the southern city of Córdoba, which killed at least 41 people."
+      },
+      {
+        "char": "🇺🇬",
+        "label": "museveni wins ugandan election",
+        "url": "https://www.theguardian.com/world/2026/jan/17/yoweri-museveni-wins-ugandan-election-as-opponent-condemns-fake-result",
+        "title": "Yoweri Museveni wins Ugandan election as opponent condemns ‘fake result’",
+        "summary": "Museveni’s opponent, Bobi Wine, alleges that members of polling staff were kidnapped and called for peaceful protests Yoweri Museveni, has won the Ugandan election and his seventh term with more than 70% of the vote, state election autho..."
+      },
+      {
+        "char": "💣",
+        "label": "isis attack on restaurant in afghanistan",
+        "url": "https://www.nytimes.com/2026/01/20/world/asia/isis-kabul-bomb-china.html",
+        "title": "Islamic State Claims Deadly Attack on Chinese Restaurant in Afghanistan",
+        "summary": "A bombing that killed seven people and injured a dozen more at a noodle restaurant in a busy area of Kabul is likely to heighten China’s growing security concerns in Afghanistan."
+      },
+      {
+        "char": "🌍",
+        "label": "guatemala state of emergency declared",
+        "url": "https://www.theguardian.com/world/2026/jan/19/guatemala-state-of-emergency-police-officers-killed-prison-gang-violence",
+        "title": "Guatemala declares state of emergency after eight police officers killed in prison gang violence",
+        "summary": "President announces 30-day order after inmates also took 46 people hostage at three prisons Guatemala’s president has declared a 30-day nationwide state of emergency to combat criminal gangs after authorities accused them of killing eigh..."
+      },
+      {
+        "char": "🦈",
+        "label": "australia shark attacks lead to beach closures",
+        "url": "https://www.nytimes.com/2026/01/20/world/australia/australia-sydney-shark-attacks.html",
+        "title": "After Four Shark Attacks in 48 Hours, Australia Shuts Dozens of Beaches",
+        "summary": "Many of the closed beaches were in Sydney, the site of three of the attacks."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
