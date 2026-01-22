@@ -17027,5 +17027,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-22",
+    "emojis": [
+      {
+        "char": "🇪🇺",
+        "label": "eu suspends us trade deal approval",
+        "url": "https://www.bbc.com/news/articles/c4gwp2me3gzo?at_medium=RSS&at_campaign=rss",
+        "title": "EU suspends approval of US trade deal",
+        "summary": "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland."
+      },
+      {
+        "char": "💃",
+        "label": "maduro's dance goes viral in venezuela",
+        "url": "https://www.nytimes.com/2026/01/21/world/americas/maduro-venezuela-dancing-tiktok.html",
+        "title": "After Maduro’s Last Dance, a New Rhythm Goes Viral in Venezuela",
+        "summary": "For years, Nicolás Maduro and his movement used song and dance to rally support. Now, millions of Venezuelans are dancing to a different political tune."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "trump says canada should be grateful",
+        "url": "https://www.theguardian.com/us-news/2026/jan/21/trump-canada-mark-carney",
+        "title": "Trump says Canada should be grateful for ‘freebies’ it gets from the US",
+        "summary": "US president singles out Mark Carney day after prime minister warned world is undergoing geopolitical ‘rupture’ Trump news at a glance: at Davos, president rambles, backs down and touts ‘future deal’ on Greenland Donald Trump has said Ca..."
+      },
+      {
+        "char": "📰",
+        "label": "filipino journalist gets prison sentence",
+        "url": "https://www.nytimes.com/2026/01/22/world/asia/philippines-cumpio-journalist-prison.html",
+        "title": "Filipino Journalist Gets Prison in Case Seen as Attack on Free Press",
+        "summary": "Frenchie Mae Cumpio and her former roommate were convicted of financing terrorism and sentenced to up to 18 years in prison."
+      },
+      {
+        "char": "⚖️",
+        "label": "colombian ex-paramilitary leader jailed",
+        "url": "https://www.theguardian.com/world/2026/jan/20/colombia-ex-paramilitary-leader-salvatore-mancuso-jailed-crimes-against-indigenous-groups",
+        "title": "Colombian ex-paramilitary leader jailed for crimes against Indigenous groups",
+        "summary": "Salvatore Mancuso given 40-year sentence, which could be reduced after truth and reparation activities A Colombian court has sentenced a former paramilitary leader to 40 years in prison for crimes committed against Indigenous communities..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
