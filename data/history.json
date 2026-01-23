@@ -17335,5 +17335,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-23",
+    "emojis": [
+      {
+        "char": "🔒",
+        "label": "yemen's secret prisons exposed",
+        "url": "https://www.bbc.com/news/articles/c3r117w55q4o?at_medium=RSS&at_campaign=rss",
+        "title": "'I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons",
+        "summary": "The BBC sees sites on former United Arab Emirates bases in Yemen where detainees say they were abused."
+      },
+      {
+        "char": "🕊️",
+        "label": "iran protest victims' treatment",
+        "url": "https://www.nytimes.com/2026/01/23/world/middleeast/iran-protests-victims-bodies.html",
+        "title": "As Iran Grieves, Accounts Emerge of Disrespectful Treatment of Protest Victims",
+        "summary": "Witness testimony and videos from Tehran’s largest cemetery show disrespectful treatment of the dead after a brutal government crackdown."
+      },
+      {
+        "char": "👓",
+        "label": "mandela's items court win",
+        "url": "https://www.bbc.com/news/articles/cp822g353y6o?at_medium=RSS&at_campaign=rss",
+        "title": "Mandela's prison key, sunglasses and shirt can be sold after daughter wins court battle",
+        "summary": "The authorities tried to stop their export arguing they were part of the country's heritage."
+      },
+      {
+        "char": "🌍",
+        "label": "trump's peace board logo",
+        "url": "https://www.theguardian.com/us-news/2026/jan/22/trump-board-peace-davos-un",
+        "title": "Davos onlookers notice Trump’s ‘board of peace’ logo resembles UN emblem",
+        "summary": "The US president unveiled the board with a gold logo whose resemblance to the UN emblem sparked European criticism Donald Trump ’s newly launched “board of peace” already has a logo – and perceptive eyes have noted its close resemblance..."
+      },
+      {
+        "char": "🍺",
+        "label": "uk pubs tax increase fight",
+        "url": "https://www.nytimes.com/2026/01/23/world/europe/uk-pubs-rates-u-turn.html",
+        "title": "No Beer for You: How British Pubs Fought a Tax Increase",
+        "summary": "More than 1,400 pubs declared a ban on Labour lawmakers in response to a plan to raise business rates significantly. The move got attention, and results."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
