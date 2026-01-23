@@ -17203,5 +17203,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-23",
+    "emojis": [
+      {
+        "char": "🚢",
+        "label": "france seizes russian oil tanker",
+        "url": "https://www.bbc.com/news/articles/cdexxr2y907o?at_medium=RSS&at_campaign=rss",
+        "title": "France seizes suspected Russian 'shadow fleet' oil tanker in the Mediterranean",
+        "summary": "The vessel, named Grinch, was stopped by the French navy as it travelled through waters between Spain and Morocco."
+      },
+      {
+        "char": "🏗️",
+        "label": "us plans new gaza skyscrapers",
+        "url": "https://www.bbc.com/news/articles/cy7mmpljze7o?at_medium=RSS&at_campaign=rss",
+        "title": "US unveils plans for 'New Gaza' with skyscrapers",
+        "summary": "\"We're going to be very successful in Gaza,\" President Trump says, as his administration laid out its vision for post-war reconstruction."
+      },
+      {
+        "char": "💰",
+        "label": "etf targets gold and bitcoin",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTRfd2pCS09CZnZWU20tMzhpT21VMl9vaFBfaktYN3U3aktRSk9RT1o0ZVZvWm9OaGVtMy1IYm9NVlZNb2VEcURybnBPaUxHMVU4NV9WVUxKR094QlRpbzl3TEwyVWppZzJNd24yMy0yWVVaODN6SjFfU2RGRkxyR3pVS25TS0hCYmZ4d1o0M0ZadzRCcmNGcV9YVjhuOTJrZkhFM1RQeXJ1LUJ2YUxjLWd3MGtpZGJVbTVSRVF6VQ?oc=5",
+        "title": "Bitwise and Proficio Capital Partners ETF targets gold, metals, bitcoin as alternative to currencies - Reuters",
+        "summary": "Bitwise and Proficio Capital Partners ETF targets gold, metals, bitcoin as alternative to currencies Reuters"
+      },
+      {
+        "char": "📉",
+        "label": "amazon plans job cuts",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTklKREZqYVlQdlQ0UW1WaXdPdmlwUDRnTFVVXzQ0cTN3VnVkRnJaaEcxc1paU2llY2pST2lkaGRQYm1hVFlYQ2czQXEtLUhrT0RaQk9NcGpLR2ZyVHFDZ1hPWGJETmt6UDBpSW03UkxIeVpwQ20yaUVTdmozVkNkcE1RSlBOcnpWekN1VTNYTmhDUWZ6UFpEeXdqZjNEYlEtYm1QWXJNLS1zdjhZRWdSLTlQMDk3NHJuM3Y3Nnc1czdxN0tHUWc?oc=5",
+        "title": "Exclusive: Amazon plans thousands more corporate job cuts next week, sources say - Reuters",
+        "summary": "Exclusive: Amazon plans thousands more corporate job cuts next week, sources say Reuters"
+      },
+      {
+        "char": "🎬",
+        "label": "tânia maria is new film icon",
+        "url": "https://www.nytimes.com/2026/01/22/world/americas/tania-maria-brazil-the-secret-agent.html",
+        "title": "Tânia Maria Is Brazil’s Newest Film Icon",
+        "summary": "Clad in florals and puffing on a cigarette, Tânia Maria has captivated audiences with a striking, if brief, performance in “The Secret Agent,” Brazil’s latest Oscar nominee."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
