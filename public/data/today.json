@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-22",
-  "timestamp": "2026-01-22T16:18:48Z",
+  "date": "2026-01-23",
+  "timestamp": "2026-01-23T01:07:32Z",
   "emojis": [
     {
-      "char": "🇪🇺",
-      "label": "trump’s rift with europe",
-      "url": "https://www.nytimes.com/2026/01/21/world/europe/trump-rift-europe.html",
-      "title": "Trump’s Rift With Europe Is Clear. Europe Must Decide What to Do About It.",
-      "summary": "After President Trump aired his disdain for Europe, its leaders will gather in Brussels Thursday to take stock of what comes next."
+      "char": "🇩🇰",
+      "label": "greenland talks on us bases",
+      "url": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-deal-framework.html",
+      "title": "After Trump’s Ultimatum, Greenland Talks Include Sovereign U.S. Bases, No Drilling for Russia",
+      "summary": "Negotiators have discussed proposals to check Russian and Chinese influence in the Arctic and transfer sovereignty over pockets of Greenlandic land to the United States, an idea opposed by Denmark."
     },
     {
-      "char": "💃",
-      "label": "maduro’s viral dance in venezuela",
-      "url": "https://www.nytimes.com/2026/01/21/world/americas/maduro-venezuela-dancing-tiktok.html",
-      "title": "After Maduro’s Last Dance, a New Rhythm Goes Viral in Venezuela",
-      "summary": "For years, Nicolás Maduro and his movement used song and dance to rally support. Now, millions of Venezuelans are dancing to a different political tune."
+      "char": "🇻🇪",
+      "label": "venezuela detention news",
+      "url": "https://www.nytimes.com/2026/01/22/world/americas/edmundo-gonzalez-rafael-tudares-detention.html",
+      "title": "Venezuela’s Edmundo González Said His Son-in-Law Was Freed From Detention",
+      "summary": "Edmundo González, seen by many as the real winner of Venezuela’s 2024 election, said his son-in-law was released after more than a year in detention."
     },
     {
-      "char": "🗳️",
-      "label": "museveni wins ugandan election",
-      "url": "https://www.theguardian.com/world/2026/jan/17/yoweri-museveni-wins-ugandan-election-as-opponent-condemns-fake-result",
-      "title": "Yoweri Museveni wins Ugandan election as opponent condemns ‘fake result’",
-      "summary": "Museveni’s opponent, Bobi Wine, alleges that members of polling staff were kidnapped and called for peaceful protests Yoweri Museveni, has won the Ugandan election and his seventh term with more than 70% of the vote, state election autho..."
+      "char": "💼",
+      "label": "shell exit from argentina's shale",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNkJfSzljakg3a3dKQkhCMVZjUUg5NkVPSEkyRmVCT1JVSWh5ZjBBUEFXVkVJODFGbnpZeTNkRlExcEhndjFIaU9tNmFQMzE5bWtYNnQ5ZnVLaXJnUTU3T0x3anJVMFBTNFFkbzFDYm5QMjMtSnlQb3RQcUpBWjhiVDRFdFdrY2lXZWNiYW9FZUJobTQ1Qk9WRjhmaDlHNFVzUnczcDdnenJPbjN4dEQyd1k4ZXNfMm53YXc?oc=5",
+      "title": "Exclusive: Shell considers exit from Argentina's Vaca Muerta shale play, sources say - Reuters",
+      "summary": "Exclusive: Shell considers exit from Argentina's Vaca Muerta shale play, sources say Reuters"
     },
     {
-      "char": "🌍",
-      "label": "actionaid to decolonise funding",
-      "url": "https://www.theguardian.com/global-development/2026/jan/22/actionaid-rethink-child-sponsorship-decolonise-funding",
-      "title": "ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work",
-      "summary": "Development charity’s new co-chief executives signal shift from controversial sponsor a child scheme launched in 1972 to long-term grassroots funding Child sponsorship schemes that allow donors to handpick children to support in poor cou..."
+      "char": "🎬",
+      "label": "oscar nominations surprise takeaways",
+      "url": "https://www.bbc.com/news/articles/cp3zzv40422o?at_medium=RSS&at_campaign=rss",
+      "title": "Eight surprise takeaways from the Oscar nominations",
+      "summary": "Paul Mescal and Chase Infiniti missed out, while other actors carried their films to a nomination."
     },
     {
-      "char": "🔫",
-      "label": "shooting in australia's town",
-      "url": "https://www.nytimes.com/2026/01/22/world/australia/australia-lake-cargelligo-shooting.html",
-      "title": "Three Dead After Shooting in Rural Australian Town",
-      "summary": "The killings happened on a day when Australians were honoring the victims of the Bondi Beach massacre, and just after gun laws were tightened."
+      "char": "🏗️",
+      "label": "plans for new gaza skyscrapers",
+      "url": "https://www.bbc.com/news/articles/cy7mmpljze7o?at_medium=RSS&at_campaign=rss",
+      "title": "US unveils plans for 'New Gaza' with skyscrapers",
+      "summary": "\"We're going to be very successful in Gaza,\" President Trump says, as his administration laid out its vision for post-war reconstruction."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sadness",
-    "emoji": "😢",
-    "rationale": "The day is marked by troubling news, including a tragic shooting in Australia and political unrest in Uganda, evoking a sense of sorrow and concern for human safety and political stability.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

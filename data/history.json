@@ -17159,5 +17159,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-23",
+    "emojis": [
+      {
+        "char": "🇩🇰",
+        "label": "greenland talks on us bases",
+        "url": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-deal-framework.html",
+        "title": "After Trump’s Ultimatum, Greenland Talks Include Sovereign U.S. Bases, No Drilling for Russia",
+        "summary": "Negotiators have discussed proposals to check Russian and Chinese influence in the Arctic and transfer sovereignty over pockets of Greenlandic land to the United States, an idea opposed by Denmark."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "venezuela detention news",
+        "url": "https://www.nytimes.com/2026/01/22/world/americas/edmundo-gonzalez-rafael-tudares-detention.html",
+        "title": "Venezuela’s Edmundo González Said His Son-in-Law Was Freed From Detention",
+        "summary": "Edmundo González, seen by many as the real winner of Venezuela’s 2024 election, said his son-in-law was released after more than a year in detention."
+      },
+      {
+        "char": "💼",
+        "label": "shell exit from argentina's shale",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNkJfSzljakg3a3dKQkhCMVZjUUg5NkVPSEkyRmVCT1JVSWh5ZjBBUEFXVkVJODFGbnpZeTNkRlExcEhndjFIaU9tNmFQMzE5bWtYNnQ5ZnVLaXJnUTU3T0x3anJVMFBTNFFkbzFDYm5QMjMtSnlQb3RQcUpBWjhiVDRFdFdrY2lXZWNiYW9FZUJobTQ1Qk9WRjhmaDlHNFVzUnczcDdnenJPbjN4dEQyd1k4ZXNfMm53YXc?oc=5",
+        "title": "Exclusive: Shell considers exit from Argentina's Vaca Muerta shale play, sources say - Reuters",
+        "summary": "Exclusive: Shell considers exit from Argentina's Vaca Muerta shale play, sources say Reuters"
+      },
+      {
+        "char": "🎬",
+        "label": "oscar nominations surprise takeaways",
+        "url": "https://www.bbc.com/news/articles/cp3zzv40422o?at_medium=RSS&at_campaign=rss",
+        "title": "Eight surprise takeaways from the Oscar nominations",
+        "summary": "Paul Mescal and Chase Infiniti missed out, while other actors carried their films to a nomination."
+      },
+      {
+        "char": "🏗️",
+        "label": "plans for new gaza skyscrapers",
+        "url": "https://www.bbc.com/news/articles/cy7mmpljze7o?at_medium=RSS&at_campaign=rss",
+        "title": "US unveils plans for 'New Gaza' with skyscrapers",
+        "summary": "\"We're going to be very successful in Gaza,\" President Trump says, as his administration laid out its vision for post-war reconstruction."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
