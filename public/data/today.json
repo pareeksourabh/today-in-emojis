@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-23",
-  "timestamp": "2026-01-23T16:15:19Z",
+  "date": "2026-01-24",
+  "timestamp": "2026-01-24T01:03:57Z",
   "emojis": [
     {
-      "char": "🔒",
-      "label": "yemen's secret prisons exposed",
-      "url": "https://www.bbc.com/news/articles/c3r117w55q4o?at_medium=RSS&at_campaign=rss",
-      "title": "'I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons",
-      "summary": "The BBC sees sites on former United Arab Emirates bases in Yemen where detainees say they were abused."
+      "char": "🎤",
+      "label": "prosecutors end investigation into julio",
+      "url": "https://www.nytimes.com/2026/01/23/world/europe/julio-iglesias-abuse-investigation.html",
+      "title": "Prosecutors in Spain End Investigation Into Julio Iglesias",
+      "summary": "Two women accused the singer, 82, of abusing them in the Caribbean and filed a complaint in Spain, but Spanish officials said that they did not have jurisdiction over the claim."
     },
     {
-      "char": "🕊️",
-      "label": "iran protest victims' treatment",
-      "url": "https://www.nytimes.com/2026/01/23/world/middleeast/iran-protests-victims-bodies.html",
-      "title": "As Iran Grieves, Accounts Emerge of Disrespectful Treatment of Protest Victims",
-      "summary": "Witness testimony and videos from Tehran’s largest cemetery show disrespectful treatment of the dead after a brutal government crackdown."
-    },
-    {
-      "char": "👓",
-      "label": "mandela's items court win",
-      "url": "https://www.bbc.com/news/articles/cp822g353y6o?at_medium=RSS&at_campaign=rss",
-      "title": "Mandela's prison key, sunglasses and shirt can be sold after daughter wins court battle",
-      "summary": "The authorities tried to stop their export arguing they were part of the country's heritage."
+      "char": "🪖",
+      "label": "house rejects trump's military resolution",
+      "url": "https://www.theguardian.com/us-news/2026/jan/22/house-war-powers-resolution-trump-military-venezuela",
+      "title": "House rejects resolution that would bar Trump from sending troops to Venezuela",
+      "summary": "Vote on legislation falls just short of number needed for passage, showing Mike Johnson’s tenuous hold on majority The US House has rejected a resolution that would have prevented Donald Trump from sending US military forces to Venezuela..."
     },
     {
       "char": "🌍",
-      "label": "trump's peace board logo",
-      "url": "https://www.theguardian.com/us-news/2026/jan/22/trump-board-peace-davos-un",
-      "title": "Davos onlookers notice Trump’s ‘board of peace’ logo resembles UN emblem",
-      "summary": "The US president unveiled the board with a gold logo whose resemblance to the UN emblem sparked European criticism Donald Trump ’s newly launched “board of peace” already has a logo – and perceptive eyes have noted its close resemblance..."
+      "label": "actionaid to rethink child sponsorship",
+      "url": "https://www.theguardian.com/global-development/2026/jan/22/actionaid-rethink-child-sponsorship-decolonise-funding",
+      "title": "ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work",
+      "summary": "Development charity’s new co-chief executives signal shift from controversial sponsor a child scheme launched in 1972 to long-term grassroots funding Child sponsorship schemes that allow donors to handpick children to support in poor cou..."
     },
     {
-      "char": "🍺",
-      "label": "uk pubs tax increase fight",
-      "url": "https://www.nytimes.com/2026/01/23/world/europe/uk-pubs-rates-u-turn.html",
-      "title": "No Beer for You: How British Pubs Fought a Tax Increase",
-      "summary": "More than 1,400 pubs declared a ban on Labour lawmakers in response to a plan to raise business rates significantly. The move got attention, and results."
+      "char": "❄️",
+      "label": "us braces for dangerous winter storm",
+      "url": "https://www.bbc.com/news/articles/c0r44l05q52o?at_medium=RSS&at_campaign=rss",
+      "title": "US braces for 'extremely dangerous' winter storm",
+      "summary": "The National Weather Service warns the winter blast \"will pose a life-threatening risk of hypothermia\"."
+    },
+    {
+      "char": "🇺🇸",
+      "label": "trump withdraws invitation to canada",
+      "url": "https://www.theguardian.com/us-news/2026/jan/22/trump-withdraws-invitation-canada",
+      "title": "Trump withdraws invitation for Canada to join his global ‘board of peace’",
+      "summary": "While leaders of many liberal democracies declined to sign on, Mark Carney had, before Davos, accepted in principle Donald Trump withdrew on Thursday an invitation for Canada to join his “board of peace” initiative aimed at resolving glo..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "The day reflects a somber mood with reports of human rights abuses and disrespect towards victims, highlighting suffering and injustice around the world.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
