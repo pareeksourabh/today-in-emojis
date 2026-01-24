@@ -17423,5 +17423,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-24",
+    "emojis": [
+      {
+        "char": "🎤",
+        "label": "julio iglesias complaint dropped",
+        "url": "https://www.theguardian.com/world/2026/jan/23/spanish-prosecutors-drop-julio-iglesias-complaint",
+        "title": "Spanish prosecutors drop sexual assault complaint against Julio Iglesias",
+        "summary": "Court says alleged abuse and trafficking offences occurred outside Spain, leaving it without jurisdiction Spanish prosecutors have shelved a complaint brought by two women who have accused the singer Julio Iglesias of sexual assault and..."
+      },
+      {
+        "char": "🇵🇪",
+        "label": "peru president secret meetings",
+        "url": "https://www.nytimes.com/2026/01/23/world/americas/peru-president-chinese-businessmen-meetings.html",
+        "title": "Peru’s President May Be Ousted Over Secret Meetings with Chinese Businessmen",
+        "summary": "Leaked videos have prompted a scandal involving President José Jerí and two Chinese men under investigation."
+      },
+      {
+        "char": "💼",
+        "label": "us lawmakers scrutinize tiktok deal",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRVoyVXBnWGI2RzVpblB4eHFTbUNPZndoUnJtQXJIRDQ3WmdaTGtqZkFpbEhEQXg0RVFxYkV4ZlFoZC13UlY4cHpfUVBDbm9qdVJKRW9BNGV1Q2tuUjZ4bVBpWDlmaWpUUzREdTIyTGhoT3M1QmtkNlNDNi00dEhXczIwamlXT2haTU1NVGo3NzN2bjBQVGM4Szk2b3ladll6c2lZaXBTZWwwVll5dXYxdV9n?oc=5",
+        "title": "US lawmakers say TikTok joint venture deal needs scrutiny from Congress - Reuters",
+        "summary": "US lawmakers say TikTok joint venture deal needs scrutiny from Congress Reuters"
+      },
+      {
+        "char": "📹",
+        "label": "venezuela leaked video struggle",
+        "url": "https://www.theguardian.com/world/2026/jan/23/venezuela-leaked-video-delcy-rodriguez-maduro",
+        "title": "Leaked video shows Venezuela regime’s desperate struggle to control message",
+        "summary": "Interim leader Delcy Rodríguez told influencers of US threat to kill leaders if they did not cooperate after capture of Maduro The communications minister holds a phone up to a microphone before a gathering of regime-friendly influencers..."
+      },
+      {
+        "char": "💉",
+        "label": "guinea-bissau vaccine study halted",
+        "url": "https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study",
+        "title": "‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended",
+        "summary": "Despite US pushback, officials in west Africa say controversial hepatitis B study on pause amid ethics concerns US health officials insisted it was still on. African health leaders said it was cancelled . At the heart of the controversy..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
