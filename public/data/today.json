@@ -1,41 +1,41 @@
 {
   "date": "2026-01-24",
-  "timestamp": "2026-01-24T08:31:34Z",
+  "timestamp": "2026-01-24T12:51:05Z",
   "emojis": [
     {
+      "char": "🛡️",
+      "label": "pentagon shifts defense strategy",
+      "url": "https://www.bbc.com/news/articles/cj9r8ezym3ro?at_medium=RSS&at_campaign=rss",
+      "title": "Pentagon to offer 'more limited' support to US allies in defence strategy shift",
+      "summary": "The US will also offer “more limited” support to US allies, according to a new national defence strategy document."
+    },
+    {
+      "char": "🇬🇧",
+      "label": "trump's impact on britain",
+      "url": "https://www.nytimes.com/2026/01/24/world/europe/trump-uk-changes.html",
+      "title": "How a Year of Trump Changed Britain",
+      "summary": "Prime Minister Keir Starmer stood firm over Greenland. But his center-left government and the country as a whole have been buffeted by President Trump."
+    },
+    {
+      "char": "⚔️",
+      "label": "china's military purge continues",
+      "url": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
+      "title": "China’s Highest-Ranking General Removed as Xi’s Military Purge Reaches the Top",
+      "summary": "General Zhang Youxia had appeared to be President Xi Jinping’s trusted second-in-command. He has now joined the long list of generals and admirals under investigation."
+    },
+    {
       "char": "🚢",
-      "label": "trump's armada heads to iran",
+      "label": "us armada heads to iran",
       "url": "https://www.nytimes.com/2026/01/23/world/middleeast/trump-armada-iran-naval-force.html",
       "title": "Trump Says U.S. ‘Armada’ Is Heading to Iran, Raising Pressure on Regime",
       "summary": "President Trump said the United States was “watching Iran” and sending a naval force there, despite also saying that his threats had halted executions."
     },
     {
-      "char": "🤖",
-      "label": "ai jobs mantra at davos",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRXZXZ1Z2WEozYnlJaVZreHBfbU50UGVGdkcyLUdoUVhNd1VIRlRfTFlWNnBoM0R6M0F2X2ZwMjZyY01vdXJKa2FfUXFVRUZMU25QZnVNVkp0YWlUcDRqc1c0NUF5NFdLdTJpdVF0WnpKYlNjcWpFOHBuMTYyUHRiRG9RLTBXWkZadC1raXlnWmpLUWZ3V18zVXdGQ1h0eFBQdXA2Ng?oc=5",
-      "title": "'Jobs, jobs, jobs' the AI mantra in Davos as fears take back seat - Reuters",
-      "summary": "'Jobs, jobs, jobs' the AI mantra in Davos as fears take back seat Reuters"
-    },
-    {
-      "char": "🇻🇳",
-      "label": "vietnam leader pledges prosperity",
-      "url": "https://www.nytimes.com/2026/01/23/world/asia/vietnam-lam-power-congress.html",
-      "title": "Vietnam’s Leader Consolidates Power, Pledging ‘New Era of Prosperity’",
-      "summary": "To Lam, the head of Vietnam’s Communist Party, will also become president of the nation. His new stature comes with new risks."
-    },
-    {
-      "char": "🚨",
-      "label": "canadian snowboarder arrested",
-      "url": "https://www.nytimes.com/2026/01/23/world/canada/ryan-wedding-arrest.html",
-      "title": "Ryan Wedding, Canadian Ex-Snowboarder Accused of Running Drug Ring, Is Arrested",
-      "summary": "Ryan Wedding, 44, who competed in snowboarding in the 2002 Winter Olympics, has been charged with murder and smuggling cocaine into the United States."
-    },
-    {
       "char": "🕊️",
-      "label": "ukraine peace talks continue",
-      "url": "https://www.bbc.com/news/articles/c3edde1pwx8o?at_medium=RSS&at_campaign=rss",
-      "title": "High stakes but low expectations for Ukraine talks with Russia and US",
-      "summary": "Donald Trump is pushing hard for a peace deal - but major issues between Russia and Ukraine are still unresolved, writes Sarah Rainsford."
+      "label": "peace talks in abu dhabi",
+      "url": "https://www.nytimes.com/2026/01/23/world/europe/ukraine-russia-war-us-peace-talks-abu-dhabi.html",
+      "title": "Ukrainian, Russian and U.S. Officials Meet in Abu Dhabi for Peace Talks",
+      "summary": "In the past, Ukrainian and Russian negotiators have relied on Americans to mediate, and it was unclear how the talks would play out."
     }
   ],
   "source": "ai-openai",

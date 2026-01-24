@@ -17511,5 +17511,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-24",
+    "emojis": [
+      {
+        "char": "🛡️",
+        "label": "pentagon shifts defense strategy",
+        "url": "https://www.bbc.com/news/articles/cj9r8ezym3ro?at_medium=RSS&at_campaign=rss",
+        "title": "Pentagon to offer 'more limited' support to US allies in defence strategy shift",
+        "summary": "The US will also offer “more limited” support to US allies, according to a new national defence strategy document."
+      },
+      {
+        "char": "🇬🇧",
+        "label": "trump's impact on britain",
+        "url": "https://www.nytimes.com/2026/01/24/world/europe/trump-uk-changes.html",
+        "title": "How a Year of Trump Changed Britain",
+        "summary": "Prime Minister Keir Starmer stood firm over Greenland. But his center-left government and the country as a whole have been buffeted by President Trump."
+      },
+      {
+        "char": "⚔️",
+        "label": "china's military purge continues",
+        "url": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
+        "title": "China’s Highest-Ranking General Removed as Xi’s Military Purge Reaches the Top",
+        "summary": "General Zhang Youxia had appeared to be President Xi Jinping’s trusted second-in-command. He has now joined the long list of generals and admirals under investigation."
+      },
+      {
+        "char": "🚢",
+        "label": "us armada heads to iran",
+        "url": "https://www.nytimes.com/2026/01/23/world/middleeast/trump-armada-iran-naval-force.html",
+        "title": "Trump Says U.S. ‘Armada’ Is Heading to Iran, Raising Pressure on Regime",
+        "summary": "President Trump said the United States was “watching Iran” and sending a naval force there, despite also saying that his threats had halted executions."
+      },
+      {
+        "char": "🕊️",
+        "label": "peace talks in abu dhabi",
+        "url": "https://www.nytimes.com/2026/01/23/world/europe/ukraine-russia-war-us-peace-talks-abu-dhabi.html",
+        "title": "Ukrainian, Russian and U.S. Officials Meet in Abu Dhabi for Peace Talks",
+        "summary": "In the past, Ukrainian and Russian negotiators have relied on Americans to mediate, and it was unclear how the talks would play out."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
