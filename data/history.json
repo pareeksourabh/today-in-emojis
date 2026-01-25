@@ -17731,5 +17731,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-25",
+    "emojis": [
+      {
+        "char": "🇬🇼",
+        "label": "guinea-bissau vaccine study halted",
+        "url": "https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study",
+        "title": "‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended",
+        "summary": "Despite US pushback, officials in west Africa say controversial hepatitis B study on pause amid ethics concerns US health officials insisted it was still on. African health leaders said it was cancelled . At the heart of the controversy..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "trump withdraws canada invitation",
+        "url": "https://www.theguardian.com/us-news/2026/jan/22/trump-withdraws-invitation-canada",
+        "title": "Trump withdraws invitation for Canada to join his global ‘board of peace’",
+        "summary": "While leaders of many liberal democracies declined to sign on, Mark Carney had, before Davos, accepted in principle Donald Trump withdrew on Thursday an invitation for Canada to join his “board of peace” initiative aimed at resolving glo..."
+      },
+      {
+        "char": "🏋️‍♂",
+        "label": "japan's leader avoids sumo ring",
+        "url": "https://www.nytimes.com/2026/01/25/world/asia/japan-takaichi-sumo-gender.html",
+        "title": "Why Japan’s Leader Won’t Enter the Male-Dominated Sumo Ring",
+        "summary": "Sanae Takaichi, the first woman to lead Japan as prime minister, skipped a sumo awards ceremony, reflecting her cautious approach to gender issues."
+      },
+      {
+        "char": "🏅",
+        "label": "canadian snowboarder arrested",
+        "url": "https://www.theguardian.com/world/2026/jan/23/ryan-wedding-arrested",
+        "title": "Canadian Olympic snowboarder turned alleged cocaine kingpin in US custody",
+        "summary": "Ryan Wedding turned himself in at US consulate in Mexico City and is due to appear in court in California on Monday Ryan Wedding, the Canadian Olympic snowboarder turned alleged drug kingpin , has been arrested after turning himself in a..."
+      },
+      {
+        "char": "💰",
+        "label": "vanguard tops $1 trillion in assets",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFMtRm1IRjB6Q2ZmSUZ6VS1HV3VPbTZ2Z1htZ0RvT0FsNkRHSlhhVWQzbnRvZzJEeXA0RkVlYnM4QjRJZ2YyWE0yOTMzMHczbUJKcDFxQXJEUDItdUFON20zT0oyejRSSDlLSlQtbjFscFZpSTJ0REk5VXVleDZIZVRyTUplMnFtZTZjbGJndTgxTHgyOUE3bXczMWRqVFU?oc=5",
+        "title": "Vanguard tops $1 trillion in assets outside the US, FT reports - Reuters",
+        "summary": "Vanguard tops $1 trillion in assets outside the US, FT reports Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

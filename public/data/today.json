@@ -1,7 +1,14 @@
 {
   "date": "2026-01-25",
-  "timestamp": "2026-01-25T08:31:54Z",
+  "timestamp": "2026-01-25T12:53:14Z",
   "emojis": [
+    {
+      "char": "🇬🇼",
+      "label": "guinea-bissau vaccine study halted",
+      "url": "https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study",
+      "title": "‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended",
+      "summary": "Despite US pushback, officials in west Africa say controversial hepatitis B study on pause amid ethics concerns US health officials insisted it was still on. African health leaders said it was cancelled . At the heart of the controversy..."
+    },
     {
       "char": "🇨🇦",
       "label": "trump withdraws canada invitation",
@@ -10,32 +17,25 @@
       "summary": "While leaders of many liberal democracies declined to sign on, Mark Carney had, before Davos, accepted in principle Donald Trump withdrew on Thursday an invitation for Canada to join his “board of peace” initiative aimed at resolving glo..."
     },
     {
-      "char": "⚖️",
-      "label": "julio iglesias complaint dropped",
-      "url": "https://www.theguardian.com/world/2026/jan/23/spanish-prosecutors-drop-julio-iglesias-complaint",
-      "title": "Spanish prosecutors drop sexual assault complaint against Julio Iglesias",
-      "summary": "Court says alleged abuse and trafficking offences occurred outside Spain, leaving it without jurisdiction Spanish prosecutors have shelved a complaint brought by two women who have accused the singer Julio Iglesias of sexual assault and..."
+      "char": "🏋️‍♂",
+      "label": "japan's leader avoids sumo ring",
+      "url": "https://www.nytimes.com/2026/01/25/world/asia/japan-takaichi-sumo-gender.html",
+      "title": "Why Japan’s Leader Won’t Enter the Male-Dominated Sumo Ring",
+      "summary": "Sanae Takaichi, the first woman to lead Japan as prime minister, skipped a sumo awards ceremony, reflecting her cautious approach to gender issues."
     },
     {
-      "char": "🇺🇬",
-      "label": "uganda president calls opponents terrorists",
-      "url": "https://www.theguardian.com/world/2026/jan/18/ugandas-president-calls-opponents-terrorists-in-victory-speech",
-      "title": "Uganda’s president calls opponents 'terrorists' in victory speech",
-      "summary": "Yoweri Museveni wins seventh term but poll criticised by observers and rights groups over repression of opposition and internet blackout Uganda’s president, Yoweri Museveni, fresh from winning a seventh term in office at 81, said on Sund..."
+      "char": "🏅",
+      "label": "canadian snowboarder arrested",
+      "url": "https://www.theguardian.com/world/2026/jan/23/ryan-wedding-arrested",
+      "title": "Canadian Olympic snowboarder turned alleged cocaine kingpin in US custody",
+      "summary": "Ryan Wedding turned himself in at US consulate in Mexico City and is due to appear in court in California on Monday Ryan Wedding, the Canadian Olympic snowboarder turned alleged drug kingpin , has been arrested after turning himself in a..."
     },
     {
-      "char": "🇨🇳",
-      "label": "xi's purge of military general",
-      "url": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
-      "title": "Xi’s Purge of China’s Military Brings Its Top General Down",
-      "summary": "The ouster of Gen. Zhang Youxia, who was second only to Xi Jinping in the military hierarchy, marks “the total annihilation of the high command,” one analyst said."
-    },
-    {
-      "char": "🕊️",
-      "label": "syria extends ceasefire with kurds",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT01iMTM5Vkh1U2hlYXBnUnFHdVF1ZjBJT1BEVUs3c1pXOE5MNXplb2ZpT3pXZ05nVFVaOTFadlJibndzUVRncHNBUGVFN2xfSjVZc1NLUVo0OGVVeHEzV1daTEIwRmdmQzdIYkJLUFExeEtjcVF6R3FWZXNSUWZ3U0xxakt1QmllVlZwTDB6aXdvaUxpRzdEQWJxbG9GdFVXTkh4UjdldzVDaXVPQjg5RlUtQWw5ZFE2NUFkU2Nqcw?oc=5",
-      "title": "Syria extends ceasefire with Kurdish forces by 15 days - Reuters",
-      "summary": "Syria extends ceasefire with Kurdish forces by 15 days Reuters"
+      "char": "💰",
+      "label": "vanguard tops $1 trillion in assets",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFMtRm1IRjB6Q2ZmSUZ6VS1HV3VPbTZ2Z1htZ0RvT0FsNkRHSlhhVWQzbnRvZzJEeXA0RkVlYnM4QjRJZ2YyWE0yOTMzMHczbUJKcDFxQXJEUDItdUFON20zT0oyejRSSDlLSlQtbjFscFZpSTJ0REk5VXVleDZIZVRyTUplMnFtZTZjbGJndTgxTHgyOUE3bXczMWRqVFU?oc=5",
+      "title": "Vanguard tops $1 trillion in assets outside the US, FT reports - Reuters",
+      "summary": "Vanguard tops $1 trillion in assets outside the US, FT reports Reuters"
     }
   ],
   "source": "ai-openai",
