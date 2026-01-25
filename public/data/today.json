@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-24",
-  "timestamp": "2026-01-24T16:11:02Z",
+  "date": "2026-01-25",
+  "timestamp": "2026-01-25T01:12:34Z",
   "emojis": [
     {
-      "char": "🕊️",
-      "label": "peace talks end amid conflict",
-      "url": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-      "title": "Two days of peace talks end as Russia continues Ukraine attacks",
-      "summary": "There is no apparent breakthrough as the three-way talks conclude and Russia maintains its bombardment."
+      "char": "🇨🇦",
+      "label": "trump withdraws canada invitation",
+      "url": "https://www.theguardian.com/us-news/2026/jan/22/trump-withdraws-invitation-canada",
+      "title": "Trump withdraws invitation for Canada to join his global ‘board of peace’",
+      "summary": "While leaders of many liberal democracies declined to sign on, Mark Carney had, before Davos, accepted in principle Donald Trump withdrew on Thursday an invitation for Canada to join his “board of peace” initiative aimed at resolving glo..."
     },
     {
-      "char": "🇺🇸",
-      "label": "trump threatens canada with tariffs",
-      "url": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump threatens Canada with 100% tariffs over China trade deal",
-      "summary": "Trump made the threat in a social media post as tensions rise between the US and its northern neighbour."
+      "char": "🇨🇳",
+      "label": "xi's military purge in china",
+      "url": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
+      "title": "Xi’s Purge of China’s Military Brings Its Top General Down",
+      "summary": "The ouster of Gen. Zhang Youxia, who was second only to Xi Jinping in the military hierarchy, marks “the total annihilation of the high command,” one analyst said."
     },
     {
-      "char": "🌍",
-      "label": "actionaid to rethink child sponsorship",
-      "url": "https://www.theguardian.com/global-development/2026/jan/22/actionaid-rethink-child-sponsorship-decolonise-funding",
-      "title": "ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work",
-      "summary": "Development charity’s new co-chief executives signal shift from controversial sponsor a child scheme launched in 1972 to long-term grassroots funding Child sponsorship schemes that allow donors to handpick children to support in poor cou..."
+      "char": "🇺🇬",
+      "label": "uganda's president calls opponents terrorists",
+      "url": "https://www.theguardian.com/world/2026/jan/18/ugandas-president-calls-opponents-terrorists-in-victory-speech",
+      "title": "Uganda’s president calls opponents 'terrorists' in victory speech",
+      "summary": "Yoweri Museveni wins seventh term but poll criticised by observers and rights groups over repression of opposition and internet blackout Uganda’s president, Yoweri Museveni, fresh from winning a seventh term in office at 81, said on Sund..."
     },
     {
-      "char": "⚓",
-      "label": "trump sends armada to iran",
-      "url": "https://www.nytimes.com/2026/01/23/world/middleeast/trump-armada-iran-naval-force.html",
-      "title": "Trump Says U.S. ‘Armada’ Is Heading to Iran, Raising Pressure on Regime",
-      "summary": "President Trump said the United States was “watching Iran” and sending a naval force there, despite also saying that his threats had halted executions."
+      "char": "🇪🇺",
+      "label": "what europe learned from greenland crisis",
+      "url": "https://www.nytimes.com/2026/01/24/world/europe/sovereignty-european-union-nato.html",
+      "title": "What Europe Learned From the Greenland Crisis",
+      "summary": "Territorial integrity is a core tenet of Europe that is at risk from Russian and American imperialism. Brussels has fought back."
     },
     {
-      "char": "🦈",
-      "label": "boy dies from shark attack in sydney",
-      "url": "https://www.bbc.com/news/articles/c2k98ql703no?at_medium=RSS&at_campaign=rss",
-      "title": "Boy, 12, dies from injuries after Sydney shark attack",
-      "summary": "Nico Antic was swimming in Sydney Harbour when he was attacked last Sunday."
+      "char": "🇪🇸",
+      "label": "prosecutors drop case against julio iglesias",
+      "url": "https://www.theguardian.com/world/2026/jan/23/spanish-prosecutors-drop-julio-iglesias-complaint",
+      "title": "Spanish prosecutors drop sexual assault complaint against Julio Iglesias",
+      "summary": "Court says alleged abuse and trafficking offences occurred outside Spain, leaving it without jurisdiction Spanish prosecutors have shelved a complaint brought by two women who have accused the singer Julio Iglesias of sexual assault and..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Sadness",
-    "emoji": "😢",
-    "rationale": "The day's news is filled with tragic events and heightened tensions, from a child's death to ongoing conflicts and threats, creating a somber atmosphere.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

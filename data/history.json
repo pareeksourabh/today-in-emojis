@@ -17599,5 +17599,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-25",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "trump withdraws canada invitation",
+        "url": "https://www.theguardian.com/us-news/2026/jan/22/trump-withdraws-invitation-canada",
+        "title": "Trump withdraws invitation for Canada to join his global ‘board of peace’",
+        "summary": "While leaders of many liberal democracies declined to sign on, Mark Carney had, before Davos, accepted in principle Donald Trump withdrew on Thursday an invitation for Canada to join his “board of peace” initiative aimed at resolving glo..."
+      },
+      {
+        "char": "🇨🇳",
+        "label": "xi's military purge in china",
+        "url": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
+        "title": "Xi’s Purge of China’s Military Brings Its Top General Down",
+        "summary": "The ouster of Gen. Zhang Youxia, who was second only to Xi Jinping in the military hierarchy, marks “the total annihilation of the high command,” one analyst said."
+      },
+      {
+        "char": "🇺🇬",
+        "label": "uganda's president calls opponents terrorists",
+        "url": "https://www.theguardian.com/world/2026/jan/18/ugandas-president-calls-opponents-terrorists-in-victory-speech",
+        "title": "Uganda’s president calls opponents 'terrorists' in victory speech",
+        "summary": "Yoweri Museveni wins seventh term but poll criticised by observers and rights groups over repression of opposition and internet blackout Uganda’s president, Yoweri Museveni, fresh from winning a seventh term in office at 81, said on Sund..."
+      },
+      {
+        "char": "🇪🇺",
+        "label": "what europe learned from greenland crisis",
+        "url": "https://www.nytimes.com/2026/01/24/world/europe/sovereignty-european-union-nato.html",
+        "title": "What Europe Learned From the Greenland Crisis",
+        "summary": "Territorial integrity is a core tenet of Europe that is at risk from Russian and American imperialism. Brussels has fought back."
+      },
+      {
+        "char": "🇪🇸",
+        "label": "prosecutors drop case against julio iglesias",
+        "url": "https://www.theguardian.com/world/2026/jan/23/spanish-prosecutors-drop-julio-iglesias-complaint",
+        "title": "Spanish prosecutors drop sexual assault complaint against Julio Iglesias",
+        "summary": "Court says alleged abuse and trafficking offences occurred outside Spain, leaving it without jurisdiction Spanish prosecutors have shelved a complaint brought by two women who have accused the singer Julio Iglesias of sexual assault and..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
