@@ -17775,5 +17775,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-25",
+    "emojis": [
+      {
+        "char": "🇮🇷",
+        "label": "iran's leadership struggles",
+        "url": "https://www.nytimes.com/2026/01/24/world/middleeast/iran-protests-ayatollah-revolutionary-guards.html",
+        "title": "Iran’s Leadership Stumbles After War and Unrest",
+        "summary": "The bloody crackdown offers hints about growing tensions inside the country’s ruling system as the cleric’s rule comes under strain."
+      },
+      {
+        "char": "✈️",
+        "label": "airbus ceo warns of trade risks",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQUdSdnc5UzlJWGx6ZUhxa0lraWJSR1hORlF6dC1IM29Nc1lIWjhDa2lmWG5Sai0yOWFHWUR0MzdPeFFhd1V4Vm1UYjRnWmttbTBadlNzM0FXUE5xWHlXOWJKd3Z4N2RyMU5HWmJQUmc2VUZYZzBLNVMwZldVTTBDN0dSNUludXVhQ2xzb1RfU2c3dllkY3RQRk51UHhUUW9lMXUyWm10VjQ5aTJSaVpqbWg5eUx5c1dGRWZlVA?oc=5",
+        "title": "Exclusive: Airbus CEO warns of new risks after 'significant' trade damage - Reuters",
+        "summary": "Exclusive: Airbus CEO warns of new risks after 'significant' trade damage Reuters"
+      },
+      {
+        "char": "🎤",
+        "label": "doctor apologizes for tiktok comments",
+        "url": "https://www.bbc.com/news/articles/czx11kw42jeo?at_medium=RSS&at_campaign=rss",
+        "title": "Cosmetic doctor sorry for picking apart singer Troye Sivan's looks on TikTok",
+        "summary": "The singer hit out at Dr Zayn Khalid Majeed - who says he will try to have a positive impact with his content."
+      },
+      {
+        "char": "🤝",
+        "label": "ukraine peace talks end positively",
+        "url": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
+        "title": "Ukraine Peace Talks End on Positive Note as Zelensky Teases Future Meeting",
+        "summary": "President Volodymyr Zelensky of Ukraine said that rare three-way negotiations between Ukrainian, Russian and American teams in Abu Dhabi had been “constructive.”"
+      },
+      {
+        "char": "⚡",
+        "label": "us storm causes widespread outages",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVEyVXRZNG9QZFhkTkNHR3YzbmlRMVU1SmNDQnlNRktKbTM2Y3pZZ0hJbklXajBCZjloazFDaFo0RVZpcTlSYUJnbkxUblIzQ3ZCNnJIQ0Z6QlJXd3lWa3VXQzJFSG1jRkVLOUhuM0FUVDduVk45RXB0NHNKSmpGeVhTQ28xZVhmV2VKYTRHenVfenRwOURrSHk3T3BHSDA1ODUtWDR1NzI?oc=5",
+        "title": "US storm leaves 670,000 without power, forces thousands of flight cancellations - Reuters",
+        "summary": "US storm leaves 670,000 without power, forces thousands of flight cancellations Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
