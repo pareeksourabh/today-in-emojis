@@ -39,5 +39,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "⚖️",
+    "emoji": "⚖️",
+    "rationale": "The day presents a mix of turmoil, with tensions in Iran and significant impacts from a storm, yet it also holds a glimmer of hope with positive developments in Ukraine peace talks. The balance of struggles and progress reflects the complex",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
