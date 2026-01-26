@@ -17907,5 +17907,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-26",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "trump withdraws canada invitation",
+        "url": "https://www.theguardian.com/us-news/2026/jan/22/trump-withdraws-invitation-canada",
+        "title": "Trump withdraws invitation for Canada to join his global ‘board of peace’",
+        "summary": "While leaders of many liberal democracies declined to sign on, Mark Carney had, before Davos, accepted in principle Donald Trump withdrew on Thursday an invitation for Canada to join his “board of peace” initiative aimed at resolving glo..."
+      },
+      {
+        "char": "❄️",
+        "label": "winter storm hits us",
+        "url": "https://www.bbc.com/news/articles/c1klrmz90yjo?at_medium=RSS&at_campaign=rss",
+        "title": "At least seven dead and 800,000 without power as major winter storm hits US",
+        "summary": "Almost half of US states have declared emergencies as officials warn of \"life threatening conditions\" that could affect 180 million people."
+      },
+      {
+        "char": "💰",
+        "label": "oxfam report on billionaire wealth",
+        "url": "https://www.theguardian.com/global-development/2026/jan/19/brazen-political-influence-rich-laid-bare-wealth-billionaires-inequality-poverty-instability-oxfam",
+        "title": "‘Brazen’ political influence of rich laid bare as wealth of billionaires reaches $18.3tn, says Oxfam",
+        "summary": "Governments opting for oligarchy while brutally repressing protests over austerity and lack of jobs, charity report says The world saw a record number of billionaires created last year, with a collective wealth of $18.3tn (£13.7tn), whil..."
+      },
+      {
+        "char": "🗣️",
+        "label": "uganda president calls opponents terrorists",
+        "url": "https://www.theguardian.com/world/2026/jan/18/ugandas-president-calls-opponents-terrorists-in-victory-speech",
+        "title": "Uganda’s president calls opponents 'terrorists' in victory speech",
+        "summary": "Yoweri Museveni wins seventh term but poll criticised by observers and rights groups over repression of opposition and internet blackout Uganda’s president, Yoweri Museveni, fresh from winning a seventh term in office at 81, said on Sund..."
+      },
+      {
+        "char": "⚔️",
+        "label": "xi's china top general's fall",
+        "url": "https://www.nytimes.com/2026/01/26/world/asia/china-xi-zhang-youxia-military.html",
+        "title": "In Xi’s China, Top General’s Fall Shows Precariousness of Power",
+        "summary": "A combat veteran, Zhang Youxia was once seen as the most trusted man in Xi Jinping’s military. Now he is the most public example of disloyalty to Mr. Xi."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
