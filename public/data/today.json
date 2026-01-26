@@ -39,5 +39,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "heartbroken",
+    "emoji": "😢",
+    "rationale": "Today's news is filled with tragic events, including loss of life from drowning, violence, and natural disasters. The overwhelming sadness from these stories reflects a deeply heartbroken sentiment.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
