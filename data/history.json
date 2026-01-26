@@ -17819,5 +17819,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-26",
+    "emojis": [
+      {
+        "char": "⛪",
+        "label": "kenya's ex-deputy president attacked",
+        "url": "https://www.bbc.com/news/articles/cpqyxew338po?at_medium=RSS&at_campaign=rss",
+        "title": "Kenya's ex-deputy president alleges assassination attempt in church attack",
+        "summary": "The interior minister condemned the attack, which police say they are investigating."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "venezuela frees political prisoners",
+        "url": "https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss",
+        "title": "Venezuela frees dozens of political prisoners, human rights group says",
+        "summary": "It is the latest batch of detainees freed since the US seized Venezuelan President Nicolás Maduro in a raid."
+      },
+      {
+        "char": "💱",
+        "label": "currency markets watch japan's yen",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkgzNVlrTllaT2Y4V2ladDJXTS1aWlpJOF96am9IY1RTcWNHWDZjSEhEVWVlTHhYWE1jdDI5elRaM0hMRFRnZUtrZnF0ZWVnakE2MEcxNm1BQVZTSFVPWXBIUWtyTklsZUppeUV5M01LbWJJbmRZRDVSS1FuS3doUjI1UlllUkFMQ3RTZ3hRM05wbHRXNFlLTkhVbVpyZDA?oc=5",
+        "title": "Currency markets on guard for intervention in Japan's yen - Reuters",
+        "summary": "Currency markets on guard for intervention in Japan's yen Reuters"
+      },
+      {
+        "char": "🇨🇦",
+        "label": "trump threatens canada with tariffs",
+        "url": "https://www.theguardian.com/us-news/2026/jan/24/trump-canada-tariff-threat-venezuela-oil",
+        "title": "Trump threatens Canada with 100% tariff over possible deal with China",
+        "summary": "President also claims US refineries will process seized Venezuelan oil, saying ‘we take the oil’ Donald Trump on Saturday said he would impose a 100% tariff on all Canadian imports if the North American country makes a trade deal with Ch..."
+      },
+      {
+        "char": "🔍",
+        "label": "families search for missing in venezuela",
+        "url": "https://www.nytimes.com/2026/01/25/world/americas/in-venezuela-families-search-for-relatives-who-are-detained-and-missing.html",
+        "title": "In Venezuela, Families Search for Relatives Who Are Detained and Missing",
+        "summary": "Even as dozens of political prisoners have been freed, at least 66 people taken by state authorities and never heard from again remain missing, relatives and rights groups say."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
