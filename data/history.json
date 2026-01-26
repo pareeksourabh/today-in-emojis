@@ -17995,5 +17995,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-26",
+    "emojis": [
+      {
+        "char": "🌊",
+        "label": "hundreds feared dead in mediterranean",
+        "url": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
+        "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
+        "summary": "Fifty killed in one incident as Italian authorities estimate 380 people may have drowned last week Europe live – latest updates Up to 380 people may have drowned attempting to cross the Mediterranean last week as Cyclone Harry battered s..."
+      },
+      {
+        "char": "💰",
+        "label": "goldman sachs ceo's pay rises 20%",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1kzWWgyTVNSOHpzUTNCc0VWN2d4WVUxU2lQNGpyejVvUVljUkp2WTBCUkFEYWZ6d1hBamFBUGszaS1wOFhtZkpjbHZteGxWQ2pCODkxaTRyd2tvd0YybzJvRVA1eDdWZVFqMHVHWkJQSUwtTzQ1TllMS1g4aGJ3aWEwOUhzRW9Nc2Z6NjNRTnhETVhScHQtVy1ZWmw3UzA?oc=5",
+        "title": "Goldman Sachs CEO David Solomon's 2025 compensation rises over 20% - Reuters",
+        "summary": "Goldman Sachs CEO David Solomon's 2025 compensation rises over 20% Reuters"
+      },
+      {
+        "char": "⚔️",
+        "label": "drone fighting in ukraine war",
+        "url": "https://www.nytimes.com/2026/01/26/world/europe/ukraine-russia-winter-snow-donetsk-dnipro.html",
+        "title": "Shift to Drone Fighting in Ukraine War Means No Winter Lull",
+        "summary": "Shifts in tactics and technology in Ukraine mean that the pace of fighting is no longer decided by whether tanks can navigate frozen fields."
+      },
+      {
+        "char": "🏈",
+        "label": "gunmen attack football match in mexico",
+        "url": "https://www.theguardian.com/world/2026/jan/26/gunmen-invade-salamanca-football-match-guanajuato-mexico-crime",
+        "title": "Gunmen open fire at football match in Mexico, killing at least 11",
+        "summary": "Mayor of Salamanca in Guanajuato state says attack is part of ‘crime wave’ as he appeals to president for help Gunmen opened fire at a football match in central Mexico on Sunday, killing at least 11 people and wounding 12, authorities sa..."
+      },
+      {
+        "char": "🌍",
+        "label": "crocodile warnings in southern africa",
+        "url": "https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa",
+        "title": "Crocodile warnings as floods devastate southern Africa",
+        "summary": "More than 100 people killed and hundreds of thousands displaced in South Africa, Mozambique and Zimbabwe Devastating floods have killed more than 100 people in southern Africa since the beginning of the year and displaced hundreds of tho..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
