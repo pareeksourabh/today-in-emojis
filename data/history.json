@@ -18127,5 +18127,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-27",
+    "emojis": [
+      {
+        "char": "🎶",
+        "label": "all-night concerts in myanmar",
+        "url": "https://www.nytimes.com/2026/01/27/world/asia/myanmar-concert-zat-pwe-war.html",
+        "title": "All-Night Concerts in War-Ravaged Myanmar",
+        "summary": "But the shows, which combine dance, drama and music, are also part of an effort by Myanmar’s military rulers to project a veneer of legitimacy."
+      },
+      {
+        "char": "🌍",
+        "label": "actionaid's decolonisation plan",
+        "url": "https://www.theguardian.com/global-development/2026/jan/22/actionaid-rethink-child-sponsorship-decolonise-funding",
+        "title": "ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work",
+        "summary": "Development charity’s new co-chief executives signal shift from controversial sponsor a child scheme launched in 1972 to long-term grassroots funding Child sponsorship schemes that allow donors to handpick children to support in poor cou..."
+      },
+      {
+        "char": "⚔️",
+        "label": "drone fighting in ukraine war",
+        "url": "https://www.nytimes.com/2026/01/26/world/europe/ukraine-russia-winter-snow-donetsk-dnipro.html",
+        "title": "Shift to Drone Fighting in Ukraine War Means No Winter Lull",
+        "summary": "Shifts in tactics and technology in Ukraine mean that the pace of fighting is no longer decided by whether tanks can navigate frozen fields."
+      },
+      {
+        "char": "⚽",
+        "label": "gunmen attack football match in mexico",
+        "url": "https://www.theguardian.com/world/2026/jan/26/gunmen-invade-salamanca-football-match-guanajuato-mexico-crime",
+        "title": "Gunmen open fire at football match in Mexico, killing at least 11",
+        "summary": "Mayor of Salamanca in Guanajuato state says attack is part of ‘wave of violence’ as he appeals to president for help Gunmen opened fire at a football match in central Mexico on Sunday, killing at least 11 people and wounding 12, in the l..."
+      },
+      {
+        "char": "🌊",
+        "label": "floods devastate southern africa",
+        "url": "https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa",
+        "title": "Crocodile warnings as floods devastate southern Africa",
+        "summary": "More than 100 people killed and hundreds of thousands displaced in South Africa, Mozambique and Zimbabwe Devastating floods have killed more than 100 people in southern Africa since the beginning of the year and displaced hundreds of tho..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
