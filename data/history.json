@@ -18171,5 +18171,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-27",
+    "emojis": [
+      {
+        "char": "🇪🇺",
+        "label": "trump's liability for europe's far right",
+        "url": "https://www.nytimes.com/2026/01/27/world/europe/trump-liability-europe-far-right-populists.html",
+        "title": "How Trump’s Threats to Greenland Made Him a Liability for Europe’s Far Right",
+        "summary": "Europe’s nationalist leaders once saw President Trump as an ideological ally. Now, as he threatens European sovereignty, they are seeking distance — at least for the moment."
+      },
+      {
+        "char": "🌱",
+        "label": "uk supermarkets push for soy safeguards",
+        "url": "https://www.theguardian.com/environment/2026/jan/26/uk-supermarkets-push-for-amazon-soy-safeguards-after-brazil-scraps-ban",
+        "title": "UK supermarkets push for Amazon soy safeguards after traders abandon ban",
+        "summary": "European retailers urge traders to adhere to commitments after Brazilian lawmakers wreck forest protection pact Leading British and European retailers are trying to salvage the core elements of the Amazon soy moratorium after the world’s..."
+      },
+      {
+        "char": "❄️",
+        "label": "toronto's record snowfall cleanup",
+        "url": "https://www.theguardian.com/world/2026/jan/26/toronto-snowstorm-record-snowfall-total",
+        "title": "Toronto digs itself out after largest snowfall in city’s history",
+        "summary": "Some parts of city were buried under nearly 60cm of snow and over 500 flights were cancelled Sunday Toronto is beginning to dig itself out from the largest snowfall in the city’s history, a process which officials say is likely to take “..."
+      },
+      {
+        "char": "🌊",
+        "label": "hundreds feared dead in med crossing",
+        "url": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
+        "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
+        "summary": "Fifty killed in one incident as Italian authorities estimate 380 people may have drowned last week Up to 380 people may have drowned attempting to cross the Mediterranean last week as Cyclone Harry battered southern Italy and Malta, the..."
+      },
+      {
+        "char": "🏅",
+        "label": "canadian ex-olympian drug trafficking case",
+        "url": "https://www.theguardian.com/us-news/2026/jan/26/canadian-ryan-wedding-ex-olympian-drug-trafficking",
+        "title": "Canadian ex-Olympian pleads not guilty to 17 felonies including drug trafficking",
+        "summary": "Authorities allege Ryan Wedding, 44, ‘turned to a life of crime’ after his snowboarding career ended Ryan Wedding, the Canadian former Olympic snowboarder accused of cocaine distribution and orchestrating several murders, appeared on Mon..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
