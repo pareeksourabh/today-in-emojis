@@ -18083,5 +18083,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-27",
+    "emojis": [
+      {
+        "char": "🌧️",
+        "label": "oil slips amid winter storm",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb2lkRjVBOFlEeVVncjBUNDlmZldsTmpBM3I0NnJ3TUhud3hHT3B2S1YtWHNSRGs4MWZ1NVc0VzFSN2pSeWcxX21obXBLZ0xXb2ZLLXJXNTNUSWJ4WjB0aUtXVlA5RUdfUHFXYVFXbDNjdk5mclNhVklCenAtbzZHV05VNllVdVkxTWRra1V4TUF6amwyRE5vcGNDSWFpQl9NY0Zj?oc=5",
+        "title": "Oil slips even as US winter storm curbs crude output - Reuters",
+        "summary": "Oil slips even as US winter storm curbs crude output Reuters"
+      },
+      {
+        "char": "🇮🇱",
+        "label": "israel to reopen gaza border",
+        "url": "https://www.nytimes.com/2026/01/26/world/middleeast/israel-gaza-egypt-rafah-crossing.html",
+        "title": "Israel Says It Will Reopen Gaza-Egypt Border Crossing in Days",
+        "summary": "The Rafah crossing will open at the end of Israel’s search for the remains of the last captive in Gaza."
+      },
+      {
+        "char": "📈",
+        "label": "trump raises tariffs on korea",
+        "url": "https://www.bbc.com/news/articles/cwyw3ynwe37o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump raises US tariffs on South Korea imports to 25%",
+        "summary": "Trump has accused Seoul of \"not living up\" to a trade deal that was reached last year."
+      },
+      {
+        "char": "🕊️",
+        "label": "russia continues peace talks",
+        "url": "https://www.nytimes.com/2026/01/26/world/europe/russia-ukraine-war-peace-talks.html",
+        "title": "Russia Says Talks to End War in Ukraine Will Continue",
+        "summary": "Ukrainian and Russian officials left rare direct talks last weekend in a somewhat optimistic mood. But Russia may be simply stalling for time, analysts said."
+      },
+      {
+        "char": "⚽",
+        "label": "gunmen attack football match",
+        "url": "https://www.theguardian.com/world/2026/jan/26/gunmen-invade-salamanca-football-match-guanajuato-mexico-crime",
+        "title": "Gunmen open fire at football match in Mexico, killing at least 11",
+        "summary": "Mayor of Salamanca in Guanajuato state says attack is part of ‘wave of violence’ as he appeals to president for help Gunmen opened fire at a football match in central Mexico on Sunday, killing at least 11 people and wounding 12, in the l..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
