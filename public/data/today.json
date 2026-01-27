@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-26",
-  "timestamp": "2026-01-26T16:18:34Z",
+  "date": "2026-01-27",
+  "timestamp": "2026-01-27T01:11:33Z",
   "emojis": [
     {
-      "char": "🌊",
-      "label": "hundreds feared dead in mediterranean",
-      "url": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
-      "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
-      "summary": "Fifty killed in one incident as Italian authorities estimate 380 people may have drowned last week Europe live – latest updates Up to 380 people may have drowned attempting to cross the Mediterranean last week as Cyclone Harry battered s..."
+      "char": "🇳🇬",
+      "label": "nigerian officers trial over coup",
+      "url": "https://www.bbc.com/news/articles/c9dv4wlw3yzo?at_medium=RSS&at_campaign=rss",
+      "title": "Nigerian officers to face trial over coup-plot allegations",
+      "summary": "Following an investigation some of the 16 detained last year are accused of planning to unseat President Bola Tinubu."
     },
     {
-      "char": "💰",
-      "label": "goldman sachs ceo's pay rises 20%",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1kzWWgyTVNSOHpzUTNCc0VWN2d4WVUxU2lQNGpyejVvUVljUkp2WTBCUkFEYWZ6d1hBamFBUGszaS1wOFhtZkpjbHZteGxWQ2pCODkxaTRyd2tvd0YybzJvRVA1eDdWZVFqMHVHWkJQSUwtTzQ1TllMS1g4aGJ3aWEwOUhzRW9Nc2Z6NjNRTnhETVhScHQtVy1ZWmw3UzA?oc=5",
-      "title": "Goldman Sachs CEO David Solomon's 2025 compensation rises over 20% - Reuters",
-      "summary": "Goldman Sachs CEO David Solomon's 2025 compensation rises over 20% Reuters"
+      "char": "🇮🇱",
+      "label": "israel to reopen gaza border crossing",
+      "url": "https://www.nytimes.com/2026/01/26/world/middleeast/israel-gaza-egypt-rafah-crossing.html",
+      "title": "Israel Says It Will Reopen Gaza-Egypt Border Crossing in Days",
+      "summary": "The Rafah crossing will open at the end of Israel’s search for the remains of the last captive in Gaza."
     },
     {
-      "char": "⚔️",
-      "label": "drone fighting in ukraine war",
-      "url": "https://www.nytimes.com/2026/01/26/world/europe/ukraine-russia-winter-snow-donetsk-dnipro.html",
-      "title": "Shift to Drone Fighting in Ukraine War Means No Winter Lull",
-      "summary": "Shifts in tactics and technology in Ukraine mean that the pace of fighting is no longer decided by whether tanks can navigate frozen fields."
+      "char": "🇻🇪",
+      "label": "baker hughes sees revenue in venezuela",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM1dPcW92cmtxZUxyTEZsWDlUejNkRUxRczJTd3ZOS0Jfc0VtN3JFU2wyM0ZsY3VTSVdncFZQZXZjMUhwVHdhRzhjTGNUdW1GQWJwV081S05UUjU0bU5pcHY4Rk94Y3BoVTNQNUk5eVhSRWZWSGFyZXdSV0Y1WndPS1ByQmVfY05UVWxjVVpoVXpCQzM3cFd1bDNPZVpxTDBIYzMxSVRyNV9HdTQ1bnFIWg?oc=5",
+      "title": "Baker Hughes sees significant revenue opportunity in Venezuela - Reuters",
+      "summary": "Baker Hughes sees significant revenue opportunity in Venezuela Reuters"
     },
     {
-      "char": "🏈",
-      "label": "gunmen attack football match in mexico",
-      "url": "https://www.theguardian.com/world/2026/jan/26/gunmen-invade-salamanca-football-match-guanajuato-mexico-crime",
-      "title": "Gunmen open fire at football match in Mexico, killing at least 11",
-      "summary": "Mayor of Salamanca in Guanajuato state says attack is part of ‘crime wave’ as he appeals to president for help Gunmen opened fire at a football match in central Mexico on Sunday, killing at least 11 people and wounding 12, authorities sa..."
-    },
-    {
-      "char": "🌍",
+      "char": "🌧️",
       "label": "crocodile warnings in southern africa",
       "url": "https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa",
       "title": "Crocodile warnings as floods devastate southern Africa",
       "summary": "More than 100 people killed and hundreds of thousands displaced in South Africa, Mozambique and Zimbabwe Devastating floods have killed more than 100 people in southern Africa since the beginning of the year and displaced hundreds of tho..."
+    },
+    {
+      "char": "⚓",
+      "label": "us warships near iran amid tensions",
+      "url": "https://www.nytimes.com/2026/01/26/world/middleeast/us-warships-gulf-waters-iran-retaliation-threats.html",
+      "title": "As U.S. Warships Get Closer, Iran Ramps Up Threats to Retaliate",
+      "summary": "Iran and its militia allies say they will respond aggressively in the region if attacked. A U.S. aircraft carrier and warships are approaching the region."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "heartbroken",
-    "emoji": "😢",
-    "rationale": "Today's news is filled with tragic events, including loss of life from drowning, violence, and natural disasters. The overwhelming sadness from these stories reflects a deeply heartbroken sentiment.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
