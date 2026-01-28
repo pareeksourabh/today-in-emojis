@@ -18303,5 +18303,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-28",
+    "emojis": [
+      {
+        "char": "🇮🇹",
+        "label": "ice agents join olympics delegation",
+        "url": "https://www.nytimes.com/2026/01/27/world/europe/italy-ice-olympics.html",
+        "title": "ICE Agents Will Join Olympics Delegation in Italy. Many Italians are Angry.",
+        "summary": "The Italian government said it had requested clarification from American diplomats after D.H.S. said that ICE agents would help secure the U.S. Olympic delegation next week in northern Italy."
+      },
+      {
+        "char": "🕰️",
+        "label": "doomsday clock set closer to midnight",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVEtOZ3JIYS1CMHBtaDZ0eU5RTlZRMFk5MnBJNWJZN2tYLW5lNzRtUWVWc1ByYVIyM20yYVc5Y09yQWtaMjlMUHdTTkhKbGJGR0ZvZFY1d013M2ZRVlNJTVViRTFZZHpCSWVHMXJIcmk3azhtX3ZNd290SmRrTF82MmUtY2dqTHd0eTg3RDFRWWFLVXJQZXFhZGthTFQyekFCYnlHMXBiWUxuVUp5emFj?oc=5",
+        "title": "Atomic scientists set 'Doomsday Clock' closer to midnight than ever - Reuters",
+        "summary": "Atomic scientists set 'Doomsday Clock' closer to midnight than ever Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "actionaid to rethink child sponsorship",
+        "url": "https://www.theguardian.com/global-development/2026/jan/22/actionaid-rethink-child-sponsorship-decolonise-funding",
+        "title": "ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work",
+        "summary": "Development charity’s new co-chief executives signal shift from controversial sponsor a child scheme launched in 1972 to long-term grassroots funding Child sponsorship schemes that allow donors to handpick children to support in poor cou..."
+      },
+      {
+        "char": "💵",
+        "label": "trump says dollar value is great",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfZEZVVW9CdmxFTm4yNTlfUC10QVFHNE1Ya29ycDVrUktZWHBJRHhIRjNadm5ZYjcxNi1RWkdlS0VzZ2JtdW1XeWQxZDV1Vng0T012Ny1JZ2xoaS1Bd3luNGJUOVYxR1hDQVpianhCR2c3MDA2V2Z6WjZRcUhfenM?oc=5",
+        "title": "Trump says value of the dollar is 'great', currency hits 4-year low - Reuters",
+        "summary": "Trump says value of the dollar is 'great', currency hits 4-year low Reuters"
+      },
+      {
+        "char": "🇻🇪",
+        "label": "us doubts about venezuela leader",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVTJUY2VHM3ZYYkh2akd5OUtfLWhsb3FwWmdrN3Z2ekhFWUdZdmV4dHowS25UUzJramxHQThHX3FGcVBNUzRUMTlTUFpNRDZMMmM3eW02R2NxRjllQ2NPdnVtRUhHWWJneUpWRFNSR2xUNXlFeFBxMlZTdzZySTNnNnhRdU8zcDlsNG1nZkZNOURNRVY3VlYyMHVsMjdOXzNaWGh3WW5nR1lydmFHWWFQNW42UQ?oc=5",
+        "title": "Exclusive: US intelligence raises doubts about Venezuela leader's cooperation - Reuters",
+        "summary": "Exclusive: US intelligence raises doubts about Venezuela leader's cooperation Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
