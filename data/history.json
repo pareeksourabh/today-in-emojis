@@ -18347,5 +18347,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-28",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "trump's powers over gaza",
+        "url": "https://www.nytimes.com/2026/01/27/world/middleeast/board-of-peace-trump-gaza.html",
+        "title": "Board of Peace Set to Hand Trump Sweeping Powers Over Gaza",
+        "summary": "A draft resolution revealed some of the plans for the new international body, which met for the first time last week amid criticism from some U.S. allies."
+      },
+      {
+        "char": "🇲🇽",
+        "label": "mexico cancels oil shipment to cuba",
+        "url": "https://www.theguardian.com/world/2026/jan/27/mexico-cuba-trump-oil",
+        "title": "Mexico’s president says cancellation of oil shipment to Cuba is ‘sovereign’ decision",
+        "summary": "Claudia Sheinbaum denied move was response to pressure from the US, after Trump said ‘zero’ oil would go to Cuba Mexico has cancelled a shipment of oil to Cuba , the country’s president, Claudia Sheinbaum, appeared to confirm on Tuesday,..."
+      },
+      {
+        "char": "💔",
+        "label": "floods devastate southern africa",
+        "url": "https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa",
+        "title": "Crocodile warnings as floods devastate southern Africa",
+        "summary": "More than 100 people killed and hundreds of thousands displaced in South Africa, Mozambique and Zimbabwe Devastating floods have killed more than 100 people in southern Africa since the beginning of the year and displaced hundreds of tho..."
+      },
+      {
+        "char": "💵",
+        "label": "dollar staggers after trump comments",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTDNLM0VRX002dDIybURyQllSVXh3OTQyVk1BeUZDaVNNa3htaDlkeGI3czYyTGE4UUg0eTJpQTFfN1MtRnY0eUxxbl9WNl9POXdUS19wZjlJcENhMnZNcThKbDRVcE5UZ0xuNHE2eTlNVFJMVGliWGdqVDlBbGtfTXpoWjNWU0dTWjFKSkhRbHljbmJvSzI0YUx6QmZYeWlfS3l5Nks0Zw?oc=5",
+        "title": "Dollar staggers near 4-year low after knockback from Trump comments - Reuters",
+        "summary": "Dollar staggers near 4-year low after knockback from Trump comments Reuters"
+      },
+      {
+        "char": "🎶",
+        "label": "concerts in war-torn myanmar",
+        "url": "https://www.nytimes.com/2026/01/27/world/asia/myanmar-concert-zat-pwe-war.html",
+        "title": "All-Night Concerts in War-Ravaged Myanmar",
+        "summary": "But the shows, which combine dance, drama and music, are also part of an effort by Myanmar’s military rulers to project a veneer of legitimacy."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
