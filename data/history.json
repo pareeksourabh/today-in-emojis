@@ -18391,5 +18391,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-28",
+    "emojis": [
+      {
+        "char": "🚚",
+        "label": "volvo's profit outlook improves",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmtLU0ZsZG5Ndm54bWJHOTBfbExxLWF0a3NHN0gwZnU3VHpWNnFvcVp4azNjTHIxZDBYMjlRR2xRZ2hEa1FVTmRnOGFVTUxhbndGeXhidGhta2pTOFhhc0dkSnZQSkowUTB2dVhCVUdiMlJwcXMwS0JlR3dwalY5dWZ0OVlLRFJVUUJaZkhGR3l6SmVtNTJlekF6ZHFhZkJJQVQ1QVhn?oc=5",
+        "title": "Truckmaker Volvo flags improved outlook after quarterly profit drop - Reuters",
+        "summary": "Truckmaker Volvo flags improved outlook after quarterly profit drop Reuters"
+      },
+      {
+        "char": "👩‍⚖️",
+        "label": "south korean first lady jailed",
+        "url": "https://www.nytimes.com/2026/01/28/world/asia/korea-first-lady-kim-keon-hee-jail.html",
+        "title": "The Rise and Fall of South Korean First Lady Kim Keon Hee",
+        "summary": "Kim Keon Hee is the first former presidential spouse in South Korea to be convicted on a criminal charge. Her downfall began after her husband declared martial law."
+      },
+      {
+        "char": "🇺🇸",
+        "label": "trump's tariff threat on south korea",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeC10cGZUNGFNSGhlLWFfd1NHQl9SeTVxZ3hDZ2JLSmNfcUtuZHlaUVd3cjJzTzYzUUFvazFuVWRrNHlSV2tNdVZ4UDdkeFU5eWlqWHYtUmVfV2thVDZLaFMtbUJZQm1NUUJNQlJKWDM5eW9ST2EtR3B1czY3aHNtbzVLXzBYZWdqQnpnUzBaVEFna3JSa1dtaDZ2cFU0OWRkdW51N2U0OVliSHZxZ2FONUdUMXQwc1pIbVpBeTRraVItSHZO?oc=5",
+        "title": "Trump says 'we'll work something out with South Korea' after tariff threat - Reuters",
+        "summary": "Trump says 'we'll work something out with South Korea' after tariff threat Reuters"
+      },
+      {
+        "char": "📰",
+        "label": "iran protesters report brutal crackdown",
+        "url": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
+        "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
+        "summary": "Young Iranians able tell the BBC how they saw friends and other people die as security forces crushed protests earlier this month."
+      },
+      {
+        "char": "👶",
+        "label": "five-year-old deported to honduras",
+        "url": "https://www.theguardian.com/us-news/2026/jan/27/five-year-old-girl-us-citizen-and-mother-deported-honduras",
+        "title": "Five-year-old deported to Honduras despite being US citizen is latest child victim of Trump crackdown",
+        "summary": "Mother whose visa application was pending says she will send girl back to US soon accompanied by another relative Five-year-old Génesis Ester Gutiérrez Castellanos misses her cousins, classmates and kindergarten teachers in Austin, Texas..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
