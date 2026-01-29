@@ -18655,5 +18655,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-29",
+    "emojis": [
+      {
+        "char": "🇬🇼",
+        "label": "guinea-bissau vaccine study halted",
+        "url": "https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study",
+        "title": "‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended",
+        "summary": "Despite US pushback, officials in west Africa say controversial hepatitis B study on pause amid ethics concerns US health officials insisted it was still on. African health leaders said it was cancelled . At the heart of the controversy..."
+      },
+      {
+        "char": "🇨🇳",
+        "label": "uk's starmer meets xi in beijing",
+        "url": "https://www.nytimes.com/2026/01/28/world/asia/china-starmer-xi-jinping.html",
+        "title": "U.K.’s Starmer Meets Xi Jinping in Beijing as Ties Warm",
+        "summary": "Prime Minister Keir Starmer of Britain is seeking to promote economic ties for growth, offering China’s leader, Xi Jinping, a way to court one of America’s allies."
+      },
+      {
+        "char": "🇫🇷",
+        "label": "macron boosted by trump duel",
+        "url": "https://www.nytimes.com/2026/01/29/world/europe/macron-france-trump-sunglasses-boost.html",
+        "title": "How His Duel With Trump Boosted Emmanuel Macron, France’s Embattled President",
+        "summary": "Dismissed as a lame duck, Emmanuel Macron has clawed back some influence after his defense of Greenland and Denmark. Will quieter domestic politics allow him to secure his legacy?"
+      },
+      {
+        "char": "💥",
+        "label": "gunfire at airport in niger",
+        "url": "https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports",
+        "title": "Planes hit by gunfire and blasts heard at airport in Niger capital – reports",
+        "summary": "Source says two aircraft on ground ‘destroyed’ although authorities yet to comment on situation Gunfire and loud blasts have been heard at the main airport in the Nigerien capital of Niamey, according to the Reuters news agency and an in..."
+      },
+      {
+        "char": "⚖️",
+        "label": "china executes scam mafia members",
+        "url": "https://www.bbc.com/news/articles/cx2gdrvy9gjo?at_medium=RSS&at_campaign=rss",
+        "title": "China executes 11 members of Myanmar scam mafia",
+        "summary": "China executes 11 members of the Ming family that ran scam centres in Myanmar, state media report."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
