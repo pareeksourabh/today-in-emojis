@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-28",
-  "timestamp": "2026-01-28T16:21:42Z",
+  "date": "2026-01-29",
+  "timestamp": "2026-01-29T01:16:13Z",
   "emojis": [
     {
-      "char": "🚆",
+      "char": "🇪🇺",
+      "label": "eu must act on defence outsourcing",
+      "url": "https://www.bbc.com/news/articles/czej2z3zz9jo?at_medium=RSS&at_campaign=rss",
+      "title": "Europe must act urgently and stop outsourcing defence, says EU's Kallas",
+      "summary": "The EU foreign policy chief's remarks come days after Nato's secretary general said Europe needed the US for its defence."
+    },
+    {
+      "char": "🤝",
+      "label": "putin welcomes new syrian leader",
+      "url": "https://www.nytimes.com/2026/01/28/world/europe/russia-putin-syria-al-sharaa-meeting.html",
+      "title": "Putin, Still Harboring Assad, Welcomes New Syrian Leader to Moscow Again",
+      "summary": "This is the second time that President Vladimir V. Putin has hosted President Ahmed al-Sharaa since the fall of the Russia-backed Syrian dictator Bashar al-Assad."
+    },
+    {
+      "char": "💔",
+      "label": "hundreds feared dead in med crossing",
+      "url": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
+      "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
+      "summary": "Fifty killed in one incident as Italian authorities estimate 380 people may have drowned last week Up to 380 people may have drowned attempting to cross the Mediterranean last week as Cyclone Harry battered southern Italy and Malta, the..."
+    },
+    {
+      "char": "💉",
+      "label": "guinea-bissau vaccine study suspended",
+      "url": "https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study",
+      "title": "‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended",
+      "summary": "Despite US pushback, officials in west Africa say controversial hepatitis B study on pause amid ethics concerns US health officials insisted it was still on. African health leaders said it was cancelled . At the heart of the controversy..."
+    },
+    {
+      "char": "🚂",
       "label": "ukraine train attack aftermath",
       "url": "https://www.nytimes.com/2026/01/28/world/europe/ukraine-train-attack.html",
       "title": "After Russian Strike Kills Five, Train Sheds Burned Cars and Carries On",
       "summary": "One Ukrainian passenger, who escaped injury after stepping out of a carriage for a cigarette, recalled carrying a bloodied woman away from the burning train."
-    },
-    {
-      "char": "💼",
-      "label": "corporate america job cuts",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHBFT1dHTEpuMzFVSjN6Y1lHVUxWd2RUZDNmV3lMc2U3bFB3X3h2NjVzUnU1Z1p0U29qbVotMkdiLTV0czlJTlBpbnI4Tk1RLUY3UHhZOGoyX2JoMVRlLVFfNjdFanI4U2lyd1ZPYl9ILU5OQzNMY2lIRHR0bW85THY4TGZKdXI1LXF2RmZOdF91VW9TZjlmVml1SG05WTVKRlhucmx6cGttLVZORmN5d05pbzNqZFE?oc=5",
-      "title": "Corporate America continues job cuts in 2026 in efficiency push - Reuters",
-      "summary": "Corporate America continues job cuts in 2026 in efficiency push Reuters"
-    },
-    {
-      "char": "👩‍⚖️",
-      "label": "omar responds to attack",
-      "url": "https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss",
-      "title": "'I don't let bullies win,' says US congresswoman Omar after substance thrown at her",
-      "summary": "The Minnesota Democrat was uninjured and continued to speak at her event, after being sprayed with an unidentified liquid."
-    },
-    {
-      "char": "📉",
-      "label": "amazon job cuts confirmed",
-      "url": "https://www.bbc.com/news/articles/cx2ywzxlxnlo?at_medium=RSS&at_campaign=rss",
-      "title": "Amazon confirms 16,000 job cuts after accidental email",
-      "summary": "The technology giant confirmed the redundancies hours after it told staff in an email sent in error."
-    },
-    {
-      "char": "⚓",
-      "label": "south africa iran naval drills",
-      "url": "https://www.nytimes.com/2026/01/28/world/africa/south-africa-iran-navy-drills-trump.html",
-      "title": "After Naval Drills With Iran, South Africa Faces New U.S. Attacks",
-      "summary": "The exercises were the second time in six months that President Cyril Ramaphosa appeared to be blindsided by his own military regarding relations with Tehran."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sadness",
-    "emoji": "😢",
-    "rationale": "The day's news is marked by tragedy and loss, particularly with the devastating impact of the Russian strike in Ukraine and the ongoing job cuts affecting many workers, evoking a sense of sorrow and concern.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

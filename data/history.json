@@ -18479,5 +18479,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-29",
+    "emojis": [
+      {
+        "char": "🇪🇺",
+        "label": "eu must act on defence outsourcing",
+        "url": "https://www.bbc.com/news/articles/czej2z3zz9jo?at_medium=RSS&at_campaign=rss",
+        "title": "Europe must act urgently and stop outsourcing defence, says EU's Kallas",
+        "summary": "The EU foreign policy chief's remarks come days after Nato's secretary general said Europe needed the US for its defence."
+      },
+      {
+        "char": "🤝",
+        "label": "putin welcomes new syrian leader",
+        "url": "https://www.nytimes.com/2026/01/28/world/europe/russia-putin-syria-al-sharaa-meeting.html",
+        "title": "Putin, Still Harboring Assad, Welcomes New Syrian Leader to Moscow Again",
+        "summary": "This is the second time that President Vladimir V. Putin has hosted President Ahmed al-Sharaa since the fall of the Russia-backed Syrian dictator Bashar al-Assad."
+      },
+      {
+        "char": "💔",
+        "label": "hundreds feared dead in med crossing",
+        "url": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
+        "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
+        "summary": "Fifty killed in one incident as Italian authorities estimate 380 people may have drowned last week Up to 380 people may have drowned attempting to cross the Mediterranean last week as Cyclone Harry battered southern Italy and Malta, the..."
+      },
+      {
+        "char": "💉",
+        "label": "guinea-bissau vaccine study suspended",
+        "url": "https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study",
+        "title": "‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended",
+        "summary": "Despite US pushback, officials in west Africa say controversial hepatitis B study on pause amid ethics concerns US health officials insisted it was still on. African health leaders said it was cancelled . At the heart of the controversy..."
+      },
+      {
+        "char": "🚂",
+        "label": "ukraine train attack aftermath",
+        "url": "https://www.nytimes.com/2026/01/28/world/europe/ukraine-train-attack.html",
+        "title": "After Russian Strike Kills Five, Train Sheds Burned Cars and Carries On",
+        "summary": "One Ukrainian passenger, who escaped injury after stepping out of a carriage for a cigarette, recalled carrying a bloodied woman away from the burning train."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
