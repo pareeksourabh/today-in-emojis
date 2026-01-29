@@ -18523,5 +18523,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-29",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "actionaid to rethink sponsorship",
+        "url": "https://www.theguardian.com/global-development/2026/jan/22/actionaid-rethink-child-sponsorship-decolonise-funding",
+        "title": "ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work",
+        "summary": "Development charity’s new co-chief executives signal shift from controversial sponsor a child scheme launched in 1972 to long-term grassroots funding Child sponsorship schemes that allow donors to handpick children to support in poor cou..."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran's internet returning",
+        "url": "https://www.bbc.com/news/articles/cz7y2ddgl23o?at_medium=RSS&at_campaign=rss",
+        "title": "Iran's internet is returning - but not for everyone",
+        "summary": "The country cut off internet access on 8 January following a government crackdown on protesters."
+      },
+      {
+        "char": "💉",
+        "label": "guinea-bissau vaccine study suspended",
+        "url": "https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study",
+        "title": "‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended",
+        "summary": "Despite US pushback, officials in west Africa say controversial hepatitis B study on pause amid ethics concerns US health officials insisted it was still on. African health leaders said it was cancelled . At the heart of the controversy..."
+      },
+      {
+        "char": "🤝",
+        "label": "putin welcomes new syrian leader",
+        "url": "https://www.nytimes.com/2026/01/28/world/europe/russia-putin-syria-al-sharaa-meeting.html",
+        "title": "Putin, Still Harboring Assad, Welcomes New Syrian Leader to Moscow Again",
+        "summary": "This is the second time that President Vladimir V. Putin has hosted President Ahmed al-Sharaa since the fall of the Russia-backed Syrian dictator Bashar al-Assad."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "delcy rodriguez's potential impact",
+        "url": "https://www.theguardian.com/world/2026/jan/28/can-venezuelas-delcy-rodriguez-become-a-latin-american-deng-xiaoping",
+        "title": "Can Venezuela’s Delcy Rodríguez become a Latin American Deng Xiaoping?",
+        "summary": "Maduro’s Sorbonne-educated successor is talking up an era of ‘reform and opening up’ modelled on China’s post-Mao boom After years of political and social upheaval, hunger and despair, the Great Helmsman departs and is replaced by a fran..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
