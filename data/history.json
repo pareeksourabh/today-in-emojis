@@ -18875,5 +18875,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-30",
+    "emojis": [
+      {
+        "char": "📈",
+        "label": "south korean stocks hit record high",
+        "url": "https://www.nytimes.com/2026/01/30/world/asia/south-korea-stock-boom-kospi.html",
+        "title": "South Korean Stocks, Kospi Index Are Trading at a Record High",
+        "summary": "Spurred by government policies and the global A.I. boom, the market’s value has jumped by hundreds of billions of dollars. Individual investors have piled in."
+      },
+      {
+        "char": "⚖️",
+        "label": "couple caned for sex and alcohol offences",
+        "url": "https://www.bbc.com/news/articles/c23ryxre907o?at_medium=RSS&at_campaign=rss",
+        "title": "Indonesian couple caned 140 times for sex and alcohol offences",
+        "summary": "Caning is a common but controversial punishment for violating Islamic law in Aceh province."
+      },
+      {
+        "char": "🌍",
+        "label": "south africa and israel expel envoys",
+        "url": "https://www.bbc.com/news/articles/cvgn8ejljqwo?at_medium=RSS&at_campaign=rss",
+        "title": "South Africa and Israel expel each other's envoys in diplomatic row",
+        "summary": "South Africa accuses the Israeli envoy of insulting President Ramaphosa. Israel says the expulsion is \"baseless\"."
+      },
+      {
+        "char": "✈️",
+        "label": "trump reopens airspace over venezuela",
+        "url": "https://www.theguardian.com/world/2026/jan/29/trump-reopens-commercial-airspace-venezuela",
+        "title": "Trump orders immediate reopening of commercial airspace over Venezuela",
+        "summary": "Order allows direct flights from US to Venezuela, as major oil companies already on ground to assess potential operations Donald Trump has ordered the immediate reopening of commercial airspace over Venezuela , weeks after US military fo..."
+      },
+      {
+        "char": "🌧️",
+        "label": "winter storms cause outages in north america",
+        "url": "https://www.theguardian.com/us-news/2026/jan/30/weather-tracker-winter-storms-cause-death-and-outages-across-eastern-north-america",
+        "title": "Weather tracker: Winter storms cause death and outages across eastern north America",
+        "summary": "Millions told to stay home in US and more than a million are left without power, while Australia faces record heatwave Cold weather across a vast swathe of the eastern US has been the likely cause of at least 49 deaths in the past week...."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

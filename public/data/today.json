@@ -1,20 +1,27 @@
 {
   "date": "2026-01-30",
-  "timestamp": "2026-01-30T13:06:27Z",
+  "timestamp": "2026-01-30T16:23:15Z",
   "emojis": [
     {
-      "char": "🇿🇦",
-      "label": "south africa expels israeli envoy",
-      "url": "https://www.bbc.com/news/articles/cvgn8ejljqwo?at_medium=RSS&at_campaign=rss",
-      "title": "South Africa expels Israeli envoy over 'violations of diplomatic norms'",
-      "summary": "Ariel Siedman has been given 72 hours to leave South Africa, the foreign affairs ministry says."
+      "char": "📈",
+      "label": "south korean stocks hit record high",
+      "url": "https://www.nytimes.com/2026/01/30/world/asia/south-korea-stock-boom-kospi.html",
+      "title": "South Korean Stocks, Kospi Index Are Trading at a Record High",
+      "summary": "Spurred by government policies and the global A.I. boom, the market’s value has jumped by hundreds of billions of dollars. Individual investors have piled in."
     },
     {
-      "char": "🇫🇷",
-      "label": "france halts sale of antennas",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUkhqVm1xWUZuQjkyMURMVFpmc3JUTUUxM2ROWVNPblhZaExkc0tybHJuVDdBaldtbU9EcHlXanRBanFMS0FQV0swcWk5ZVd3cld6UjZXVGswdDhOazBlamM4dGNRNGFiei1wVldCODJrSFVfdVA1ZHpmUUtVc2ExVlR0Q2g3LW1yYnNxNlI0Z0t0b1dCMGY5RXdMMFVqeEJEZS1xRkVqWGZuUmtxakNQV21hV0NkODZZQ0NiZXBxUGYtTnd3dHNEN2RB?oc=5",
-      "title": "France halted Eutelsat's sale of ground antennas, Finance Minister says - Reuters",
-      "summary": "France halted Eutelsat's sale of ground antennas, Finance Minister says Reuters"
+      "char": "⚖️",
+      "label": "couple caned for sex and alcohol offences",
+      "url": "https://www.bbc.com/news/articles/c23ryxre907o?at_medium=RSS&at_campaign=rss",
+      "title": "Indonesian couple caned 140 times for sex and alcohol offences",
+      "summary": "Caning is a common but controversial punishment for violating Islamic law in Aceh province."
+    },
+    {
+      "char": "🌍",
+      "label": "south africa and israel expel envoys",
+      "url": "https://www.bbc.com/news/articles/cvgn8ejljqwo?at_medium=RSS&at_campaign=rss",
+      "title": "South Africa and Israel expel each other's envoys in diplomatic row",
+      "summary": "South Africa accuses the Israeli envoy of insulting President Ramaphosa. Israel says the expulsion is \"baseless\"."
     },
     {
       "char": "✈️",
@@ -24,18 +31,11 @@
       "summary": "Order allows direct flights from US to Venezuela, as major oil companies already on ground to assess potential operations Donald Trump has ordered the immediate reopening of commercial airspace over Venezuela , weeks after US military fo..."
     },
     {
-      "char": "🏦",
-      "label": "santander uk names new ceo",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUVqNDdDclRMeVE1eG04UlBlbzlXRVVoOXdvYWlUWVZqaTRpRW1PS285ZlZ1Ymp5cnV1aEpmLU0wTjZrbzhSaGVpeURyT3pjTDdMQWVhclg3VERwQVpubEk3U2ZnSE1UWHNDSVJYekJnRXJZUnVpYUsyeDNpQ0hITFZrVFk1LWFuenBTSlFudmN0aG5TcUNqX0pHSzZVMDUxWGRXZ1NNSVdXN0VkOWRKSUFR?oc=5",
-      "title": "Santander UK names Mahesh Aditya as CEO - Reuters",
-      "summary": "Santander UK names Mahesh Aditya as CEO Reuters"
-    },
-    {
-      "char": "⚓",
-      "label": "panama voids canal port contracts",
-      "url": "https://www.bbc.com/news/articles/c338ygzl7meo?at_medium=RSS&at_campaign=rss",
-      "title": "Panama voids Hong Kong-based firm's canal port contracts",
-      "summary": "The move follows Donald Trump's previous claim the US was taking the crucial Panama canal \"back\" from China."
+      "char": "🌧️",
+      "label": "winter storms cause outages in north america",
+      "url": "https://www.theguardian.com/us-news/2026/jan/30/weather-tracker-winter-storms-cause-death-and-outages-across-eastern-north-america",
+      "title": "Weather tracker: Winter storms cause death and outages across eastern north America",
+      "summary": "Millions told to stay home in US and more than a million are left without power, while Australia faces record heatwave Cold weather across a vast swathe of the eastern US has been the likely cause of at least 49 deaths in the past week...."
     }
   ],
   "source": "ai-openai",
