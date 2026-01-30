@@ -18831,5 +18831,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-30",
+    "emojis": [
+      {
+        "char": "🇿🇦",
+        "label": "south africa expels israeli envoy",
+        "url": "https://www.bbc.com/news/articles/cvgn8ejljqwo?at_medium=RSS&at_campaign=rss",
+        "title": "South Africa expels Israeli envoy over 'violations of diplomatic norms'",
+        "summary": "Ariel Siedman has been given 72 hours to leave South Africa, the foreign affairs ministry says."
+      },
+      {
+        "char": "🇫🇷",
+        "label": "france halts sale of antennas",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUkhqVm1xWUZuQjkyMURMVFpmc3JUTUUxM2ROWVNPblhZaExkc0tybHJuVDdBaldtbU9EcHlXanRBanFMS0FQV0swcWk5ZVd3cld6UjZXVGswdDhOazBlamM4dGNRNGFiei1wVldCODJrSFVfdVA1ZHpmUUtVc2ExVlR0Q2g3LW1yYnNxNlI0Z0t0b1dCMGY5RXdMMFVqeEJEZS1xRkVqWGZuUmtxakNQV21hV0NkODZZQ0NiZXBxUGYtTnd3dHNEN2RB?oc=5",
+        "title": "France halted Eutelsat's sale of ground antennas, Finance Minister says - Reuters",
+        "summary": "France halted Eutelsat's sale of ground antennas, Finance Minister says Reuters"
+      },
+      {
+        "char": "✈️",
+        "label": "trump reopens airspace over venezuela",
+        "url": "https://www.theguardian.com/world/2026/jan/29/trump-reopens-commercial-airspace-venezuela",
+        "title": "Trump orders immediate reopening of commercial airspace over Venezuela",
+        "summary": "Order allows direct flights from US to Venezuela, as major oil companies already on ground to assess potential operations Donald Trump has ordered the immediate reopening of commercial airspace over Venezuela , weeks after US military fo..."
+      },
+      {
+        "char": "🏦",
+        "label": "santander uk names new ceo",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUVqNDdDclRMeVE1eG04UlBlbzlXRVVoOXdvYWlUWVZqaTRpRW1PS285ZlZ1Ymp5cnV1aEpmLU0wTjZrbzhSaGVpeURyT3pjTDdMQWVhclg3VERwQVpubEk3U2ZnSE1UWHNDSVJYekJnRXJZUnVpYUsyeDNpQ0hITFZrVFk1LWFuenBTSlFudmN0aG5TcUNqX0pHSzZVMDUxWGRXZ1NNSVdXN0VkOWRKSUFR?oc=5",
+        "title": "Santander UK names Mahesh Aditya as CEO - Reuters",
+        "summary": "Santander UK names Mahesh Aditya as CEO Reuters"
+      },
+      {
+        "char": "⚓",
+        "label": "panama voids canal port contracts",
+        "url": "https://www.bbc.com/news/articles/c338ygzl7meo?at_medium=RSS&at_campaign=rss",
+        "title": "Panama voids Hong Kong-based firm's canal port contracts",
+        "summary": "The move follows Donald Trump's previous claim the US was taking the crucial Panama canal \"back\" from China."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
