@@ -19007,5 +19007,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-01-31",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "venezuela opens oil sector to foreign investment",
+        "url": "https://www.theguardian.com/world/2026/jan/30/venezuela-approves-bill-to-open-oil-sector-to-foreign-investment-after-us-pressure",
+        "title": "Venezuela approves bill to open oil sector to foreign investment after US pressure",
+        "summary": "Law will give private companies more control but experts unsure whether changes go far enough for US Venezuela’s acting president has signed into law a bill making significant changes to the country’s oil sector after pressure from the U..."
+      },
+      {
+        "char": "🛬",
+        "label": "islamic state attacks airport in niger",
+        "url": "https://www.theguardian.com/world/2026/jan/30/niger-airport-airbase-attack-islamic-state",
+        "title": "Islamic State claims attack on international airport and airbase in Niger",
+        "summary": "Motorcycle-riding militants launch strikes using heavy weaponry and drones, damaging planes belonging to Ivorian carrier and Togolese airline Islamic State in the Sahel has claimed responsibility for an audacious assault at the internati..."
+      },
+      {
+        "char": "❄️",
+        "label": "winter storms cause outages in north america",
+        "url": "https://www.theguardian.com/us-news/2026/jan/30/weather-tracker-winter-storms-cause-death-and-outages-across-eastern-north-america",
+        "title": "Weather tracker: Winter storms cause death and outages across eastern north America",
+        "summary": "Millions told to stay home in US and more than a million are left without power, while Australia faces record heatwave Cold weather across a vast swathe of the eastern US has been the likely cause of at least 49 deaths in the past week...."
+      },
+      {
+        "char": "📈",
+        "label": "south korean stocks hit record high",
+        "url": "https://www.nytimes.com/2026/01/30/world/asia/south-korea-stock-boom-kospi.html",
+        "title": "South Korean Stocks, Kospi Index Are Trading at a Record High",
+        "summary": "Spurred by government policies and the global A.I. boom, the market’s value has jumped by hundreds of billions of dollars. Individual investors have piled in."
+      },
+      {
+        "char": "⚖️",
+        "label": "panama court cancels hong kong contracts",
+        "url": "https://www.theguardian.com/world/2026/jan/30/court-ends-hong-kong-china-panama-canal-contracts",
+        "title": "Panama supreme court cancels Hong Kong company’s canal contracts",
+        "summary": "Panama’s president says strategic waterway will operate as normal after ruling that advances US policy aims Panama’s president said ports at each end of the Panama canal would operate as usual after the country’s supreme court ruled the..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
