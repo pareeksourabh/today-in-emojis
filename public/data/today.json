@@ -1,64 +1,43 @@
 {
-  "date": "2026-01-30",
-  "timestamp": "2026-01-30T16:23:15Z",
+  "date": "2026-01-31",
+  "timestamp": "2026-01-31T01:12:45Z",
   "emojis": [
     {
-      "char": "📈",
-      "label": "south korean stocks hit record high",
-      "url": "https://www.nytimes.com/2026/01/30/world/asia/south-korea-stock-boom-kospi.html",
-      "title": "South Korean Stocks, Kospi Index Are Trading at a Record High",
-      "summary": "Spurred by government policies and the global A.I. boom, the market’s value has jumped by hundreds of billions of dollars. Individual investors have piled in."
-    },
-    {
       "char": "⚖️",
-      "label": "couple caned for sex and alcohol offences",
-      "url": "https://www.bbc.com/news/articles/c23ryxre907o?at_medium=RSS&at_campaign=rss",
-      "title": "Indonesian couple caned 140 times for sex and alcohol offences",
-      "summary": "Caning is a common but controversial punishment for violating Islamic law in Aceh province."
+      "label": "luigi mangione trial ruling",
+      "url": "https://www.bbc.com/news/articles/c78egdg3r0po?at_medium=RSS&at_campaign=rss",
+      "title": "Luigi Mangione will not face death penalty if convicted, judge rules",
+      "summary": "A judge dismisses two federal counts against the 27-year-old, but he still faces state murder charges."
     },
     {
-      "char": "🌍",
-      "label": "south africa and israel expel envoys",
-      "url": "https://www.bbc.com/news/articles/cvgn8ejljqwo?at_medium=RSS&at_campaign=rss",
-      "title": "South Africa and Israel expel each other's envoys in diplomatic row",
-      "summary": "South Africa accuses the Israeli envoy of insulting President Ramaphosa. Israel says the expulsion is \"baseless\"."
+      "char": "🛢️",
+      "label": "trump tariffs on cuba oil",
+      "url": "https://www.theguardian.com/us-news/2026/jan/29/trump-tariffs-cuba-oil",
+      "title": "Trump threatens tariffs on goods from countries that sell oil to Cuba",
+      "summary": "White House cites Cuba’s ties to hostile powers as order ratchets up Trump’s pressure to topple its government Donald Trump signed an executive order on Thursday laying the groundwork to slap tariffs on goods from countries that provide..."
     },
     {
-      "char": "✈️",
-      "label": "trump reopens airspace over venezuela",
-      "url": "https://www.theguardian.com/world/2026/jan/29/trump-reopens-commercial-airspace-venezuela",
-      "title": "Trump orders immediate reopening of commercial airspace over Venezuela",
-      "summary": "Order allows direct flights from US to Venezuela, as major oil companies already on ground to assess potential operations Donald Trump has ordered the immediate reopening of commercial airspace over Venezuela , weeks after US military fo..."
-    },
-    {
-      "char": "🌧️",
-      "label": "winter storms cause outages in north america",
+      "char": "❄️",
+      "label": "winter storms cause outages",
       "url": "https://www.theguardian.com/us-news/2026/jan/30/weather-tracker-winter-storms-cause-death-and-outages-across-eastern-north-america",
       "title": "Weather tracker: Winter storms cause death and outages across eastern north America",
       "summary": "Millions told to stay home in US and more than a million are left without power, while Australia faces record heatwave Cold weather across a vast swathe of the eastern US has been the likely cause of at least 49 deaths in the past week...."
+    },
+    {
+      "char": "💉",
+      "label": "measles cases rise in sc",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTTlyLXVfdnlTZXY0Y0lJR0tQZ2VfbjQ1WGp0MHRTeXhYTVk3OTdzMkdCOVA1ZUpwZEwwbnlOUG1NaU45d0JoYmh6Y2lJZ0xKZUJsV2I4RVVSZDdmd0dxT3hYTUo3SHI0MjdaNzZMZEhxLXhOdk4yQVNhUGJOMTFlMXhxSTdXLVBVRkpSc2VSNlRVNkw1a0dtMGszU2dVcjRNS3R0SzRaN3R3cjc3Uk1meXZjNVdBVVNZWTRsWEItUC1ubzNqbjl5bFJiVk0wNWc5N0d4dWNkYmtEUnA0?oc=5",
+      "title": "Measles cases in South Carolina rise by 58 to 847, state health department says - Reuters",
+      "summary": "Measles cases in South Carolina rise by 58 to 847, state health department says Reuters"
+    },
+    {
+      "char": "🌍",
+      "label": "200 killed in mine collapse",
+      "url": "https://www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say",
+      "title": "More than 200 killed in coltan mine collapse in eastern DRC, officials say",
+      "summary": "Rubaya mine produces about 15% of the world’s coltan, which is processed into tantalum, used in mobile phones More than 200 people were killed this week in a collapse at the Rubaya coltan mine in eastern Democratic Republic of Congo, Lum..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😨",
-    "emoji": "😨",
-    "rationale": "The day reveals a mix of significant accomplishments like record stock highs, contrasted starkly by severe human rights violations and tragic weather events causing loss of life. This combination creates an unsettling atmosphere.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
