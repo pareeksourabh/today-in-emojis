@@ -19315,5 +19315,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-01",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "russian strike kills twelve in ukraine",
+        "url": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
+        "title": "Twelve killed by Russian strike near bus in Ukraine, official says",
+        "summary": "Seven others were reported injured in the strike on Sunday, according to preliminary information."
+      },
+      {
+        "char": "🔥",
+        "label": "teenager dies from bar fire injuries",
+        "url": "https://www.bbc.com/news/articles/c0lxr1ne52ro?at_medium=RSS&at_campaign=rss",
+        "title": "Teenager dies from Swiss bar fire injuries, bringing death toll to 41",
+        "summary": "The 18-year-old Swiss national died at a hospital in Zurich, the local prosecutor said."
+      },
+      {
+        "char": "🔗",
+        "label": "epstein linked to mandelson payments",
+        "url": "https://www.bbc.com/news/articles/cn82elvzpz7o?at_medium=RSS&at_campaign=rss",
+        "title": "Epstein sent $75,000 to accounts linked to Mandelson, files suggest",
+        "summary": "Lord Mandelson says he has no record or recollection of receiving the sums and does not know if the documents are authentic."
+      },
+      {
+        "char": "🌍",
+        "label": "gazans may get lifeline to the world",
+        "url": "https://www.nytimes.com/2026/01/31/world/middleeast/gaza-medical-evacuation-rafah-crossing.html",
+        "title": "These Gazans May Finally Get a Lifeline to the World",
+        "summary": "Thousands of Palestinians are waiting to be evacuated for medical treatment as the border between Gaza and Egypt looks set to reopen in the coming days."
+      },
+      {
+        "char": "🗳️",
+        "label": "costa rica polls amid authoritarian fears",
+        "url": "https://www.theguardian.com/world/2026/feb/01/costa-rica-polls-fears-authoritarian-turn-laura-fernandez",
+        "title": "Costa Rica heads to polls amid fears of authoritarian turn",
+        "summary": "Voters to choose president and 57 members of congress, with current president’s hardline pick Laura Fernández expected to win first round Costa Rica heads to the polls on Sunday in an election dominated by increasing insecurity and warni..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
