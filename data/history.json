@@ -19139,5 +19139,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-01",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "trump threatens tariffs on cuba oil",
+        "url": "https://www.theguardian.com/us-news/2026/jan/29/trump-tariffs-cuba-oil",
+        "title": "Trump threatens tariffs on goods from countries that sell oil to Cuba",
+        "summary": "White House cites Cuba’s ties to hostile powers as order ratchets up Trump’s pressure to topple its government Donald Trump signed an executive order on Thursday laying the groundwork to slap tariffs on goods from countries that provide..."
+      },
+      {
+        "char": "💣",
+        "label": "israel launches attack in gaza",
+        "url": "https://www.nytimes.com/2026/01/31/world/middleeast/israel-strikes-gaza-rafah-reopening.html",
+        "title": "Israel Launches Attack in Gaza",
+        "summary": "A local health official said at least 26 people had been killed in the attacks, which the Israeli military said had targeted Hamas commanders."
+      },
+      {
+        "char": "❄️",
+        "label": "winter storms cause death and outages",
+        "url": "https://www.theguardian.com/us-news/2026/jan/30/weather-tracker-winter-storms-cause-death-and-outages-across-eastern-north-america",
+        "title": "Weather tracker: Winter storms cause death and outages across eastern north America",
+        "summary": "Millions told to stay home in US and more than a million are left without power, while Australia faces record heatwave Cold weather across a vast swathe of the eastern US has been the likely cause of at least 49 deaths in the past week...."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "pierre poilievre retains leadership",
+        "url": "https://www.nytimes.com/2026/01/31/world/americas/canada-pierre-poilievre-conservatives.html",
+        "title": "Pierre Poilievre Is Retained as Leader of Canada’s Conservatives",
+        "summary": "Pierre Poilievre, a populist who led the Conservative Party to defeat last year, was retained as its leader on Friday, despite his dismal poll numbers."
+      },
+      {
+        "char": "⚔️",
+        "label": "xi's military purge may set back taiwan",
+        "url": "https://www.nytimes.com/2026/01/29/world/asia/xi-military-purge-taiwan.html",
+        "title": "Xi’s Military Purge May Set Back His Taiwan Ambitions",
+        "summary": "By ousting his top generals, Xi Jinping has secured absolute control but also hollowed out the command structure preparing for possible war over Taiwan."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
