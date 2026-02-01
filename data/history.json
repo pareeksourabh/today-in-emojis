@@ -19227,5 +19227,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-01",
+    "emojis": [
+      {
+        "char": "🚗",
+        "label": "waymo seeks $16 billion funding",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNWVmT3gwSk9TUnF5ckFWdU9UQk5ON2RpWTdmVVlONTRGaVRpQkt3Q2w2ZEFvbkhqSDM1cTNxUVFqUU9hMzhwVm0wekhqbzFBRXdjOHlNYWNHblpzYjV4S1N4Rlc3WFhEU2FHa29ieXdDTmw0Q2JmMkRIT1FpRkZyODk0TlR5UTF6SWZqQWQ2bjFDWnp5S1k0T2VhVE5nVnV6a0kzb2xjOW55STBVZDNMaG4xSGVzWVFYcGZtX0xrakZURk56b2ZhYmdjU3haTHVMUUZ1bFJmTTliNlY5NUVR?oc=5",
+        "title": "Waymo seeking about $16 billion near $110 billion valuation, Bloomberg News reports - Reuters",
+        "summary": "Waymo seeking about $16 billion near $110 billion valuation, Bloomberg News reports Reuters"
+      },
+      {
+        "char": "🇲🇲",
+        "label": "myanmar government in exile struggles",
+        "url": "https://www.nytimes.com/2026/02/01/world/asia/myanmar-coup-anniversary-government.html",
+        "title": "Years After Coup, Myanmar’s Government in Exile Teeters on Irrelevance",
+        "summary": "The National Unity Government was formed as a pro-democracy alternative to the junta. But, critics say, it has failed to achieve most of its goals."
+      },
+      {
+        "char": "✈️",
+        "label": "islamic state attacks airport in niger",
+        "url": "https://www.theguardian.com/world/2026/jan/30/niger-airport-airbase-attack-islamic-state",
+        "title": "Islamic State claims attack on international airport and airbase in Niger",
+        "summary": "Motorcycle-riding militants launch strikes using heavy weaponry and drones, damaging planes belonging to Ivorian carrier and Togolese airline Islamic State in the Sahel has claimed responsibility for an audacious assault at the internati..."
+      },
+      {
+        "char": "❄️",
+        "label": "winter storms cause outages in usa",
+        "url": "https://www.theguardian.com/us-news/2026/jan/30/weather-tracker-winter-storms-cause-death-and-outages-across-eastern-north-america",
+        "title": "Weather tracker: Winter storms cause death and outages across eastern north America",
+        "summary": "Millions told to stay home in US and more than a million are left without power, while Australia faces record heatwave Cold weather across a vast swathe of the eastern US has been the likely cause of at least 49 deaths in the past week...."
+      },
+      {
+        "char": "💣",
+        "label": "bomb attacks in balochistan, pakistan",
+        "url": "https://www.bbc.com/news/articles/cn42nedxqyqo?at_medium=RSS&at_campaign=rss",
+        "title": "Deadly gun and bomb attacks hit Pakistan's Balochistan province",
+        "summary": "The Pakistani military says 18 civilians and 15 security forces were killed and its response killed more than 90 attackers."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
