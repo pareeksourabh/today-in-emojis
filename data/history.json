@@ -19403,5 +19403,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-02",
+    "emojis": [
+      {
+        "char": "🇲🇽",
+        "label": "mexico's tariffs on cuba's oil",
+        "url": "https://www.theguardian.com/world/2026/jan/30/mexico-sheinbaum-trump-tariffs-cuba-oil-crisis",
+        "title": "Mexico president says Trump tariffs on Cuba’s oil suppliers could trigger humanitarian crisis",
+        "summary": "Island country only has oil enough to last 15-20 days, and 12-hour blackouts have become commonplace Mexico ’s president, Claudia Sheinbaum , has warned that Donald Trump ’s move to slap new tariffs on countries sending oil to Cuba could..."
+      },
+      {
+        "char": "🌍",
+        "label": "rafah border crossing in gaza",
+        "url": "https://www.nytimes.com/2026/02/01/world/middleeast/rafah-crossing-gaza-egypt-israel.html",
+        "title": "What to Know About the Rafah Border Crossing in Gaza",
+        "summary": "The only crossing that connects Gaza with Egypt is reopening after nearly a year of closures. This will allow residents to leave for medical care or return to homes and families in the territory."
+      },
+      {
+        "char": "⚖️",
+        "label": "study on war crimes and international law",
+        "url": "https://www.theguardian.com/law/2026/feb/02/more-than-100000-civilians-killed-war-crimes-out-of-control-study",
+        "title": "International law meant to limit effects of war at breaking point, study finds",
+        "summary": "Report covering 23 conflicts over last 18 months concludes more than 100,000 civilians have been killed as war crimes rage out of control An authoritative survey of 23 armed conflicts over the last 18 months has concluded that internatio..."
+      },
+      {
+        "char": "💣",
+        "label": "miners killed by russian strike in ukraine",
+        "url": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
+        "title": "Twelve miners killed by Russian strike in Ukraine, officials say",
+        "summary": "Fifteen others were reported injured in the strike near a bus carrying the workers on Sunday."
+      },
+      {
+        "char": "💔",
+        "label": "200 killed in coltan mine collapse",
+        "url": "https://www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say",
+        "title": "More than 200 killed in coltan mine collapse in eastern DRC, officials say",
+        "summary": "Rubaya mine produces about 15% of the world’s coltan, which is processed into tantalum, used in mobile phones More than 200 people were killed this week in a collapse at the Rubaya coltan mine in eastern Democratic Republic of Congo, Lum..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
