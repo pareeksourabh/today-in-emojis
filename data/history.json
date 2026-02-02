@@ -19359,5 +19359,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-02",
+    "emojis": [
+      {
+        "char": "✝️",
+        "label": "trump and christian genocide in nigeria",
+        "url": "https://www.nytimes.com/2026/02/01/world/africa/nigeria-christians-trump.html",
+        "title": "How Trump Took Up the ‘Christian Genocide’ Cause in Nigeria",
+        "summary": "A yearslong effort to convince Washington of religious persecution is shifting foreign policy toward the West African nation, with major consequences."
+      },
+      {
+        "char": "🇲🇽",
+        "label": "mexico warns of humanitarian crisis",
+        "url": "https://www.theguardian.com/world/2026/jan/30/mexico-sheinbaum-trump-tariffs-cuba-oil-crisis",
+        "title": "Mexico president says Trump tariffs on Cuba’s oil suppliers could trigger humanitarian crisis",
+        "summary": "Island country only has oil enough to last 15-20 days, and 12-hour blackouts have become commonplace Mexico ’s president, Claudia Sheinbaum , has warned that Donald Trump ’s move to slap new tariffs on countries sending oil to Cuba could..."
+      },
+      {
+        "char": "💣",
+        "label": "explosions in iran raise tensions",
+        "url": "https://www.nytimes.com/2026/01/31/world/middleeast/iran-explosions-jitters.html",
+        "title": "Explosions in Iran Spread Jitters and Rumors Amid Anticipation of Attacks",
+        "summary": "Deadly blasts, including one that may have been caused by a gas leak, raised anxiety in the country. “Society is waiting for war,” one Iranian said."
+      },
+      {
+        "char": "🗳️",
+        "label": "costa rica fears authoritarian turn",
+        "url": "https://www.theguardian.com/world/2026/feb/01/costa-rica-polls-fears-authoritarian-turn-laura-fernandez",
+        "title": "Costa Rica heads to polls amid fears of authoritarian turn",
+        "summary": "Voters to choose president and 57 members of congress, with current president’s hardline pick Laura Fernández expected to win first round Costa Rica heads to the polls on Sunday in an election dominated by increasing insecurity and warni..."
+      },
+      {
+        "char": "⚖️",
+        "label": "court ends panama canal contracts",
+        "url": "https://www.theguardian.com/world/2026/jan/30/court-ends-hong-kong-china-panama-canal-contracts",
+        "title": "Panama supreme court cancels Hong Kong company’s canal contracts",
+        "summary": "Panama’s president says strategic waterway will operate as normal after ruling that advances US policy aims Panama’s president said ports at each end of the Panama canal would operate as usual after the country’s supreme court ruled the..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
