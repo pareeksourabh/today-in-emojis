@@ -19667,5 +19667,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-03",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "ukraine under attack",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlBuNklvRHU5MVg4THZMa2VRMmlRZVpEb2FmX0pNNlJCNXNHbS1CWW5NaG5pbUNLZG05ZDlhcHgwQUV4Tm1mbXVuV2cyaXp5ZGZyNnJkeEJPdC0xR0NYYU8tOWVTX3NXSmNPUHhWSEg2dWlDZEFEYWhCOGdPdWFsMlM1SXYxU1Q1NlhTcFRfLVB0SDM4OGRYVDQxNVNpd0g3?oc=5",
+        "title": "Ukraine's capital of Kyiv, other cities under Russian attack, officials say - Reuters",
+        "summary": "Ukraine's capital of Kyiv, other cities under Russian attack, officials say Reuters"
+      },
+      {
+        "char": "🇨🇷",
+        "label": "costa rica election",
+        "url": "https://www.theguardian.com/world/2026/feb/02/laura-fernandez-wins-costa-rica-president-latin-america-rightwing",
+        "title": "Fernández wins Costa Rican presidency, steering Latin America further right",
+        "summary": "Rightwing populist elected in landslide after promising to crack down on rising violence linked to cocaine trade The rightwing populist Laura Fernández has won Costa Rica’s presidential election in a landslide after promising to crack do..."
+      },
+      {
+        "char": "🇮🇱",
+        "label": "rafah border reopening",
+        "url": "https://www.bbc.com/news/articles/c99kdjdj9l8o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel reopens Gaza's key Rafah border crossing with Egypt",
+        "summary": "Only dozens of Palestinians and no goods will be able to cross in both directions each day."
+      },
+      {
+        "char": "🚗",
+        "label": "china bans hidden door handles",
+        "url": "https://www.bbc.com/news/articles/cp37g5nxe3lo?at_medium=RSS&at_campaign=rss",
+        "title": "China bans hidden car door handles over safety concerns",
+        "summary": "It makes China the first country to stop the use of designs first made popular by Elon Musk's Tesla."
+      },
+      {
+        "char": "🔥",
+        "label": "pantanal wildfires journey",
+        "url": "https://www.theguardian.com/artanddesign/2026/feb/02/lalo-de-almeida-photographer-journey-through-pantanal-wildfires-brazil",
+        "title": "‘Pure apocalypse’: a photographer’s journey through the Pantanal wildfires",
+        "summary": "Ahead of a major exhibition in London documenting the South American wetland as it faces unprecedented threat, Lalo de Almeida recounts the stories behind his award-winning images Lalo de Almeida is a documentary photographer based in Sã..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

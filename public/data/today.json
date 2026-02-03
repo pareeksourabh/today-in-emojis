@@ -1,41 +1,41 @@
 {
   "date": "2026-02-03",
-  "timestamp": "2026-02-03T05:17:05Z",
+  "timestamp": "2026-02-03T08:42:29Z",
   "emojis": [
     {
+      "char": "🇺🇦",
+      "label": "ukraine under attack",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlBuNklvRHU5MVg4THZMa2VRMmlRZVpEb2FmX0pNNlJCNXNHbS1CWW5NaG5pbUNLZG05ZDlhcHgwQUV4Tm1mbXVuV2cyaXp5ZGZyNnJkeEJPdC0xR0NYYU8tOWVTX3NXSmNPUHhWSEg2dWlDZEFEYWhCOGdPdWFsMlM1SXYxU1Q1NlhTcFRfLVB0SDM4OGRYVDQxNVNpd0g3?oc=5",
+      "title": "Ukraine's capital of Kyiv, other cities under Russian attack, officials say - Reuters",
+      "summary": "Ukraine's capital of Kyiv, other cities under Russian attack, officials say Reuters"
+    },
+    {
       "char": "🇨🇷",
-      "label": "fernández wins costa rica presidency",
+      "label": "costa rica election",
       "url": "https://www.theguardian.com/world/2026/feb/02/laura-fernandez-wins-costa-rica-president-latin-america-rightwing",
       "title": "Fernández wins Costa Rican presidency, steering Latin America further right",
       "summary": "Rightwing populist elected in landslide after promising to crack down on rising violence linked to cocaine trade The rightwing populist Laura Fernández has won Costa Rica’s presidential election in a landslide after promising to crack do..."
     },
     {
-      "char": "🌪️",
-      "label": "cyclone fytia floods madagascar",
-      "url": "https://www.theguardian.com/environment/2026/feb/02/weather-tracker-cyclone-fytia-madagascar-floods",
-      "title": "Weather tracker: Cyclone Fytia in Madagascar kills several people and floods homes",
-      "summary": "Island’s first tropical storm of season may bring 150mm of rain – meanwhile, eastern Europe freezes with possible night-time lows of -30C At least three people have died and nearly 30,000 people have been affected by flooding after Madag..."
+      "char": "🇮🇱",
+      "label": "rafah border reopening",
+      "url": "https://www.bbc.com/news/articles/c99kdjdj9l8o?at_medium=RSS&at_campaign=rss",
+      "title": "Israel reopens Gaza's key Rafah border crossing with Egypt",
+      "summary": "Only dozens of Palestinians and no goods will be able to cross in both directions each day."
     },
     {
-      "char": "🏊‍♂️",
-      "label": "teen swims to save family off coast",
-      "url": "https://www.bbc.com/news/articles/cx20zkkq54go?at_medium=RSS&at_campaign=rss",
-      "title": "'Superhuman' teen swims hours to save family stranded off Australian coast",
-      "summary": "The 13-year-old swam 4km in rough water after his mother and siblings were swept out to sea off the coast of Western Australia."
+      "char": "🚗",
+      "label": "china bans hidden door handles",
+      "url": "https://www.bbc.com/news/articles/cp37g5nxe3lo?at_medium=RSS&at_campaign=rss",
+      "title": "China bans hidden car door handles over safety concerns",
+      "summary": "It makes China the first country to stop the use of designs first made popular by Elon Musk's Tesla."
     },
     {
-      "char": "🚀",
-      "label": "spacex seeks nod for satellite data centers",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXhhaHFaeXdaUjVLMG42UGk1VVBpZUhQSFRoQ2dwcVF0M0JKR1h0RHhIblowY3E2TkhXaWlJR1ZKMmlTUGlxd1FaakhueG91WEVDamJtSDBLaFo3ZDliaFhLOXRlYXR3aUEtbG5TS0hzaEN1cDIxbklEcGczQjhaVHk3UW11bmRkaFpRS1dib01pVHh5eGdqMHVjRWRodTkzSHdHTE4wM3NTUVprd1lJakhOSXktRU5uUXZ2OFpZbzI?oc=5",
-      "title": "SpaceX seeks FCC nod for solar-powered satellite data centers for AI - Reuters",
-      "summary": "SpaceX seeks FCC nod for solar-powered satellite data centers for AI Reuters"
-    },
-    {
-      "char": "⚖️",
-      "label": "study finds war crimes out of control",
-      "url": "https://www.theguardian.com/law/2026/feb/02/more-than-100000-civilians-killed-war-crimes-out-of-control-study",
-      "title": "International law meant to limit effects of war at breaking point, study finds",
-      "summary": "Report covering 23 conflicts over last 18 months concludes more than 100,000 civilians have been killed as war crimes rage out of control An authoritative survey of 23 armed conflicts over the last 18 months has concluded that internatio..."
+      "char": "🔥",
+      "label": "pantanal wildfires journey",
+      "url": "https://www.theguardian.com/artanddesign/2026/feb/02/lalo-de-almeida-photographer-journey-through-pantanal-wildfires-brazil",
+      "title": "‘Pure apocalypse’: a photographer’s journey through the Pantanal wildfires",
+      "summary": "Ahead of a major exhibition in London documenting the South American wetland as it faces unprecedented threat, Lalo de Almeida recounts the stories behind his award-winning images Lalo de Almeida is a documentary photographer based in Sã..."
     }
   ],
   "source": "ai-openai",
