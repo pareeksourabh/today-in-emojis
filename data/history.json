@@ -19975,5 +19975,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-04",
+    "emojis": [
+      {
+        "char": "🚨",
+        "label": "tanzanian drug trafficker arrested",
+        "url": "https://www.bbc.com/news/articles/c3948e28e0yo?at_medium=RSS&at_campaign=rss",
+        "title": "'Notorious Tanzanian drug trafficker' arrested during raid in Zambia",
+        "summary": "Ahmed Muharram is among several suspects arrested in a major crackdown on marijuana trafficking."
+      },
+      {
+        "char": "📈",
+        "label": "us payrolls increase amid job losses",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkd1RmVsc3hwTmlBQjhYS0FiYWJ0MlV6ZzFfYndKaEhkMUExX1RtUnRuOERRLWQ5X25PY0pJRHJsVHFsOXpnaVFUX2RwZkx5YTZnMFI5UTNpRnJnX2RoOV9hNnpta2RMQjZSSEU2Um5zVFM2UHdmTFMtZFlVNTY5aE11WWlfcGpleWJlOXFYMllQQVJQZDJ3ZHRfMjRxai1z?oc=5",
+        "title": "US private payrolls increase modestly in January amid manufacturing job losses - Reuters",
+        "summary": "US private payrolls increase modestly in January amid manufacturing job losses Reuters"
+      },
+      {
+        "char": "🕊️",
+        "label": "ukrainians consider land surrender",
+        "url": "https://www.nytimes.com/2026/02/04/world/europe/ukraine-russia-war-donbas-region.html",
+        "title": "For Peace, More Ukrainians Consider the Once Unthinkable: Surrendering Land",
+        "summary": "Polls show a growing acceptance of territorial concessions among a war-weary public, if Ukraine receives strong security guarantees."
+      },
+      {
+        "char": "⚖️",
+        "label": "epstein legal claims surface",
+        "url": "https://www.bbc.com/news/articles/ckgkjj5e28ko?at_medium=RSS&at_campaign=rss",
+        "title": "Andrew and Epstein asked exotic dancer for 'sex acts,' legal letter claims",
+        "summary": "Lawyers for the unnamed woman claim she was 'treated like a prostitute' at Jeffrey Epstein's home."
+      },
+      {
+        "char": "🌍",
+        "label": "opposition leader in hiding in uganda",
+        "url": "https://www.theguardian.com/world/2026/feb/04/uganda-opposition-leader-bobi-wine-in-hiding-muhoozi-kainerugaba-feud",
+        "title": "Ugandan opposition leader still in hiding as feud with president’s son escalates",
+        "summary": "Bobi Wine’s whereabouts unknown since he fled what he said was night raid on his home by police and military Bobi Wine, Uganda’s most prominent opposition figure, remains in hiding nearly three weeks after a disputed election , as a high..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
