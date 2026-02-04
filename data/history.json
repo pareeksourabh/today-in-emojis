@@ -19931,5 +19931,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-04",
+    "emojis": [
+      {
+        "char": "🎥",
+        "label": "bbc joins colombian commandos vs gangs",
+        "url": "https://www.bbc.com/news/articles/c04105ywkkqo?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: BBC joins Colombian commandos fighting 'never-ending battle' against drug gangs",
+        "summary": "As the US and Colombian presidents meet, Orla Guerin joins a police unit tasked with finding and destroying jungle cocaine labs."
+      },
+      {
+        "char": "🛑",
+        "label": "trump-led abuses threaten human rights",
+        "url": "https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
+        "title": "Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says",
+        "summary": "Rights group says growing authoritarianism and abuses in US, Russia and China threaten global rules-based order The world is in a “democratic recession” with almost three-quarters of the global population now living under autocratic rule..."
+      },
+      {
+        "char": "💔",
+        "label": "israeli strikes kill 20 in gaza",
+        "url": "https://www.bbc.com/news/articles/cpqyg0g5r0po?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli strikes kill 20 in Gaza, hospitals say, after soldier wounded by gunfire",
+        "summary": "Hospitals say several children were among those killed in strikes that Israel's military says it launched after a gun attack on its troops."
+      },
+      {
+        "char": "🎙️",
+        "label": "podcast on betting catastrophic events",
+        "url": "https://www.theguardian.com/news/audio/2026/feb/04/the-people-betting-on-catastrophic-world-events-podcast",
+        "title": "The people betting on catastrophic world events – podcast",
+        "summary": "Prediction markets allow you to put money on everything from the US attacking Iran to Jesus returning. Saahil Desai explains their dizzying rise In the early hours of 3 January, Donald Trump ordered a surprise attack on the Venezuelan ca..."
+      },
+      {
+        "char": "🌍",
+        "label": "gulf allies clash amid trump's influence",
+        "url": "https://www.nytimes.com/2026/02/04/world/middleeast/emirates-saudi-arabia-rift.html",
+        "title": "Gloves Come Off in Gulf as Trump’s Closest Arab Allies Clash",
+        "summary": "A feud between Saudi Arabia and the United Arab Emirates is reshaping conflicts and alliances across the Middle East and Africa."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
