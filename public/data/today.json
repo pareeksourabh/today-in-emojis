@@ -1,64 +1,43 @@
 {
-  "date": "2026-02-03",
-  "timestamp": "2026-02-03T16:38:04Z",
+  "date": "2026-02-04",
+  "timestamp": "2026-02-04T01:15:35Z",
   "emojis": [
     {
-      "char": "🇪🇺",
-      "label": "social media bans in europe",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzZRaXhzbEEwaDVRWDV2N0lZVnJ5TXdFSURhSG5rQ0JteWhFSnhHb1JYaUh2QlFuVkp2VkplYW9HZ1JJVWJyZWhTRHJTc044UUdabjNuV2dRSWRwM0U0R2s2cVZqYVRSQkNDdEMzbTRGTW1IYXBLWmxvV2d3dlBEWTMxRlRPN2s5aW15NkhJeWszRzBTdG51WTNXQVl1RS05SFNpQXA5ZmI2UXQyOW1ZbTlB?oc=5",
-      "title": "Social media groups face Europe backlash as Spain, Greece weigh teen bans - Reuters",
-      "summary": "Social media groups face Europe backlash as Spain, Greece weigh teen bans Reuters"
+      "char": "🗳️",
+      "label": "trump's human rights abuses report",
+      "url": "https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
+      "title": "Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says",
+      "summary": "Rights group says growing authoritarianism and abuses in US, Russia and China threaten global rules-based order The world is in a “democratic recession” with almost three-quarters of the global population now living under autocratic rule..."
     },
     {
-      "char": "🇮🇹",
-      "label": "italy winter olympics logistics",
+      "char": "✈️",
+      "label": "us shoots down iranian drone",
+      "url": "https://www.bbc.com/news/articles/c3dmjn7n985o?at_medium=RSS&at_campaign=rss",
+      "title": "US says it shot down Iranian drone flying towards aircraft carrier",
+      "summary": "A US military spokesman says the drone was shot down while approaching an American vessel in the Arabian Sea."
+    },
+    {
+      "char": "🎮",
+      "label": "take-two raises gta vi forecast",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1VKdDhNZ1ZOQlQtVU5JZkVUOWJvWjk5Tk5QMTZKd2ZOWlVYblE1TWlENkh3Q2NJVTB3cVpaSXZvWTBSUmVXVGNSc2FPZjI4VldIUkpyY2VTSVJvMTJfMjBYdnVVRWxkMVR5ZEkwUWtBUzNIdmU0T0hhQmtQQlNTejZ5RU9nTFFPQlphbzE4V1h0dEwxdElGcEIxVTlBZFZf?oc=5",
+      "title": "Take-Two raises annual bookings forecast, sticks with 'GTA VI' November launch - Reuters",
+      "summary": "Take-Two raises annual bookings forecast, sticks with 'GTA VI' November launch Reuters"
+    },
+    {
+      "char": "🏅",
+      "label": "italy's winter olympics logistics",
       "url": "https://www.nytimes.com/2026/02/03/world/europe/italy-winter-olympics-logistical-nightmare.html",
       "title": "This is How Hard It Will Be to Get Around Italy’s Winter Olympics",
       "summary": "The Games in northern Italy, which start on Friday, will be spread across 8,500 square miles. Long distances, narrow roads, complex connections and snowfall will make it a logistical nightmare."
     },
     {
-      "char": "🇵🇸",
-      "label": "palestinians return to gaza",
-      "url": "https://www.nytimes.com/2026/02/03/world/middleeast/palestinians-gaza-return.html",
-      "title": "Palestinians Return to Gaza for First Time in Nearly Two Years",
-      "summary": "Only 12 returnees reunited with families. Some said their arrival carried larger weight, defying any notion of permanently displacing Gazans."
-    },
-    {
-      "char": "🇧🇷",
-      "label": "brazilian influencer arrested",
-      "url": "https://www.theguardian.com/us-news/2026/feb/02/rightwing-brazilian-influencer-junior-pena-arrested-by-ice",
-      "title": "Brazilian influencer who defended US immigration crackdown arrested by ICE",
-      "summary": "Trump supporter Júnior Pena falsely claimed migrants being rounded up, including Brazilians, were ‘all crooks’ A rightwing Brazilian influencer who claimed Donald Trump’s immigration crackdown targeted only “crooks” has been arrested by..."
-    },
-    {
-      "char": "📄",
-      "label": "epstein documents taken down",
-      "url": "https://www.bbc.com/news/articles/cn0k65pnxjxo?at_medium=RSS&at_campaign=rss",
-      "title": "Thousands of Epstein documents taken down after victims identified",
-      "summary": "The US Department of Justice faces criticism from victims after names and unredacted images included in latest release."
+      "char": "🌍",
+      "label": "venezuela's authoritarian system eases",
+      "url": "https://www.nytimes.com/2026/02/03/world/americas/venezuela-rodriguez-maduro-authoritarian.html",
+      "title": "After Maduro’s Capture, Venezuela’s Authoritarian System Shows Signs of Easing",
+      "summary": "A sweeping amnesty proposal, tests of censorship limits and opposition leaders emerging from hiding are fueling hopes for democratic changes. But skepticism abounds."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "The day reflects a sense of sadness and concern, with news highlighting social media backlash, the emotional weight of returnees to Gaza, and the troubling implications of legal actions against influencers and victims.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

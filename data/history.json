@@ -19799,5 +19799,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-04",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "trump's human rights abuses report",
+        "url": "https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
+        "title": "Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says",
+        "summary": "Rights group says growing authoritarianism and abuses in US, Russia and China threaten global rules-based order The world is in a “democratic recession” with almost three-quarters of the global population now living under autocratic rule..."
+      },
+      {
+        "char": "✈️",
+        "label": "us shoots down iranian drone",
+        "url": "https://www.bbc.com/news/articles/c3dmjn7n985o?at_medium=RSS&at_campaign=rss",
+        "title": "US says it shot down Iranian drone flying towards aircraft carrier",
+        "summary": "A US military spokesman says the drone was shot down while approaching an American vessel in the Arabian Sea."
+      },
+      {
+        "char": "🎮",
+        "label": "take-two raises gta vi forecast",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1VKdDhNZ1ZOQlQtVU5JZkVUOWJvWjk5Tk5QMTZKd2ZOWlVYblE1TWlENkh3Q2NJVTB3cVpaSXZvWTBSUmVXVGNSc2FPZjI4VldIUkpyY2VTSVJvMTJfMjBYdnVVRWxkMVR5ZEkwUWtBUzNIdmU0T0hhQmtQQlNTejZ5RU9nTFFPQlphbzE4V1h0dEwxdElGcEIxVTlBZFZf?oc=5",
+        "title": "Take-Two raises annual bookings forecast, sticks with 'GTA VI' November launch - Reuters",
+        "summary": "Take-Two raises annual bookings forecast, sticks with 'GTA VI' November launch Reuters"
+      },
+      {
+        "char": "🏅",
+        "label": "italy's winter olympics logistics",
+        "url": "https://www.nytimes.com/2026/02/03/world/europe/italy-winter-olympics-logistical-nightmare.html",
+        "title": "This is How Hard It Will Be to Get Around Italy’s Winter Olympics",
+        "summary": "The Games in northern Italy, which start on Friday, will be spread across 8,500 square miles. Long distances, narrow roads, complex connections and snowfall will make it a logistical nightmare."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela's authoritarian system eases",
+        "url": "https://www.nytimes.com/2026/02/03/world/americas/venezuela-rodriguez-maduro-authoritarian.html",
+        "title": "After Maduro’s Capture, Venezuela’s Authoritarian System Shows Signs of Easing",
+        "summary": "A sweeping amnesty proposal, tests of censorship limits and opposition leaders emerging from hiding are fueling hopes for democratic changes. But skepticism abounds."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
