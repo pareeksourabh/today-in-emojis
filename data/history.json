@@ -19843,5 +19843,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-04",
+    "emojis": [
+      {
+        "char": "🌊",
+        "label": "boy swims to save family from sea",
+        "url": "https://www.bbc.com/news/articles/cly3ezj3rg3o?at_medium=RSS&at_campaign=rss",
+        "title": "'I was thinking about mum': Boy, 13, swims for hours to save family swept out to sea",
+        "summary": "Austin Applebee recounts his 'superhuman' swim which saved the lives of his mother and siblings in Australia."
+      },
+      {
+        "char": "🏛️",
+        "label": "palestinians return to gaza after 2 years",
+        "url": "https://www.nytimes.com/2026/02/03/world/middleeast/palestinians-gaza-return.html",
+        "title": "Palestinians Return to Gaza for First Time in Nearly Two Years",
+        "summary": "Only 12 returnees were allowed to cross the newly reopened border with Egypt on the first day, far fewer than the expected number."
+      },
+      {
+        "char": "📉",
+        "label": "mondelez forecasts muted 2026 sales",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS3pScXJOQTFSV3U0VV9sS2tDRVFUcFp6S21mbEIxMmtRa0Jza2NFa3Y1ei1xbVhxX0JHTXZfSlJpNC04VTNyanhfN25SalRDMkpUZ1lYajhmSlpKcF96ZG54N1pRV0V1TU5TMXl0Skw4NjljWTRDQWZBWDdCcTBBLXBDQkhKS3FNaE1jWnRSZWVtLXlNSmxnaVBURnBMYmRTSGpiNDRJZENnS3V2?oc=5",
+        "title": "Mondelez forecasts muted 2026 as price hikes push consumers away - Reuters",
+        "summary": "Mondelez forecasts muted 2026 as price hikes push consumers away Reuters"
+      },
+      {
+        "char": "🤝",
+        "label": "trump and colombian president meet",
+        "url": "https://www.theguardian.com/world/2026/feb/03/colombian-president-and-trump-put-aside-insults-for-amicable-white-house-meeting",
+        "title": "Colombian president and Trump put aside insults for amicable White House meeting",
+        "summary": "Leaders had been trading hostile remarks for months but Gustavo Petro’s visit ended with warm words from US counterpart After months of trading insults – from “sick man” and “drug trafficking leader” on one side, to “accomplice to genoci..."
+      },
+      {
+        "char": "⚖️",
+        "label": "judge blocks tps for haitians",
+        "url": "https://www.theguardian.com/us-news/2026/feb/02/trump-administration-blocked-tps-haitians",
+        "title": "Judge blocks Trump administration’s stripping of Haitians’ protected status",
+        "summary": "Up to 350,000 Haitians legally live and work in the US due to being granted temporary protected status A federal judge has blocked the Trump administration from stripping temporary protected status from up to 350,000 Haitians , a status..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
