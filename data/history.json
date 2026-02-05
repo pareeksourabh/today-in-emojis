@@ -20195,5 +20195,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-05",
+    "emojis": [
+      {
+        "char": "🇳🇬",
+        "label": "nigeria sends troops to fight jihadists",
+        "url": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
+        "title": "Nigeria sends troops to villages attacked by jihadist fighters",
+        "summary": "President says army will ‘checkmate barbaric terrorists’ who attacked Woro and Nuku in Kwara state, killing 170 people Nigeria will deploy an army battalion to a district in the west of the country where suspected jihadist fighters kille..."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "venezuela's cultural center plan criticized",
+        "url": "https://www.theguardian.com/world/2026/feb/05/el-helicoide-delcy-rodriguez-venezuela",
+        "title": "Venezuela plan to turn notorious prison into cultural centre scrubs past horrors, critics say",
+        "summary": "The move is among several measures the acting president has touted since Maduro’s capture – yet critics say it erases Venezuela’s long history of repression It was designed in the 1950s to be the world’s first “drive-through shopping cen..."
+      },
+      {
+        "char": "🇺🇸",
+        "label": "us tackles china's mineral dominance",
+        "url": "https://www.bbc.com/news/articles/c5y41r5rzrno?at_medium=RSS&at_campaign=rss",
+        "title": "US launches plan to tackle China's critical minerals dominance",
+        "summary": "The event was attended by representatives of more than 50 countries, the White House said."
+      },
+      {
+        "char": "🎭",
+        "label": "rethinking shakespeare in shanghai",
+        "url": "https://www.nytimes.com/2026/02/05/world/asia/shakespeare-china-othello-shanghai.html",
+        "title": "Rethinking Shakespeare in Shanghai",
+        "summary": "A recent production of “Othello” proves that small creative flowers can grow between the dreary slabs of cultural concrete laid by the Communist Party."
+      },
+      {
+        "char": "🇺🇬",
+        "label": "uganda opposition leader in hiding",
+        "url": "https://www.theguardian.com/world/2026/feb/04/uganda-opposition-leader-bobi-wine-in-hiding-muhoozi-kainerugaba-feud",
+        "title": "Ugandan opposition leader still in hiding as feud with president’s son escalates",
+        "summary": "Bobi Wine’s whereabouts unknown since he fled what he said was night raid on his home by police and military Bobi Wine, Uganda’s most prominent opposition figure, remains in hiding nearly three weeks after a disputed election , as a high..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
