@@ -20063,5 +20063,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-05",
+    "emojis": [
+      {
+        "char": "🎬",
+        "label": "trump stays out of streaming fight",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdUF0djhTc2d0UGRwaDQwZmE3UmZtLVVwYlZyTEVLZUV3Vm5QUGM5TFhtcXd6SEt4NWxlM2cySHNadUgxZ2RfQUk1cTVLZjlyZmV2bncyNUx2Tm0yd0tVc2x5YXNsZExqRk9Pcm83R1JtX3BFN2swdzZZeGxnbFE1cFFmd2RGbHc3LVZZOHd5S1IzbnFkMHk4TC1qeS1DNVVoS0VJNFl4UUV1QUhpQUIyNW55V3dMVzd2dDFBVWFzZDlWdHo4a0E?oc=5",
+        "title": "Trump says he will stay out of Netflix-Paramount fight over Warner Bros - Reuters",
+        "summary": "Trump says he will stay out of Netflix-Paramount fight over Warner Bros Reuters"
+      },
+      {
+        "char": "📚",
+        "label": "south korea's cram school culture",
+        "url": "https://www.nytimes.com/2026/02/04/world/asia/south-korea-cram-schools-childhood-stress.html",
+        "title": "South Korea Questions Cram School Culture and Childhood Stress",
+        "summary": "Academic pressure has become so intense that even preschoolers are taking private extracurricular classes, raising worries about children’s rights."
+      },
+      {
+        "char": "🔫",
+        "label": "gunmen kill dozens in nigeria",
+        "url": "https://www.bbc.com/news/articles/ckgvllk3lx9o?at_medium=RSS&at_campaign=rss",
+        "title": "Gunmen kill dozens in Nigeria as US military deployment confirmed",
+        "summary": "Shops and homes were torched in an attack on two villages in the western state of Kwara, a lawmaker says."
+      },
+      {
+        "char": "🍞",
+        "label": "hunger crisis in afghanistan",
+        "url": "https://www.nytimes.com/2026/02/04/world/asia/afghanistan-us-aid-cuts.html",
+        "title": "In Afghanistan, a Trail of Hunger and Death Behind U.S. Aid Cuts",
+        "summary": "Afghanistan has plunged deeper into a crisis marked by levels of child hunger unseen in 25 years and the closure of almost 450 health centers."
+      },
+      {
+        "char": "📉",
+        "label": "asia shares slump amid tech selloff",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0REb3NYTDI0Q2hsREcyMFlmaEUyUnRZdS11ZHVLXzVPYzRwTmZiMm9yZVZ2S0IzazJIbWtHbnlhc3FWbVRlQW9fMkY0Y1VQU1doQy1mZG04cmMySjh4V1dqY19JelpxZEJTUzNmOVVYcmF3dEdHbnFrNWo2NWxOZmFyc1BUZ3J5U3BjM3ZoYnZUenN0?oc=5",
+        "title": "Asia shares slump as global tech selloff spooks investors, silver tumbles again - Reuters",
+        "summary": "Asia shares slump as global tech selloff spooks investors, silver tumbles again Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
