@@ -20107,5 +20107,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-05",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "rafah crossing reopening for sick",
+        "url": "https://www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza",
+        "title": "Handful of sick and wounded Palestinians allowed through Rafah crossing on first day",
+        "summary": "Numbers Israel permitted to enter Egypt after reopening border were far lower than expected following delays A small number of sick and wounded Palestinians have begun crossing into Egypt to seek medical treatment after Israel permitted..."
+      },
+      {
+        "char": "⚖️",
+        "label": "judge blocks tps for haitians",
+        "url": "https://www.theguardian.com/us-news/2026/feb/02/trump-administration-blocked-tps-haitians",
+        "title": "Judge blocks Trump administration’s stripping of Haitians’ protected status",
+        "summary": "Up to 350,000 Haitians legally live and work in the US due to being granted temporary protected status A federal judge has blocked the Trump administration from stripping temporary protected status from up to 350,000 Haitians , a status..."
+      },
+      {
+        "char": "📚",
+        "label": "south korea's cram school culture",
+        "url": "https://www.nytimes.com/2026/02/04/world/asia/south-korea-cram-schools-childhood-stress.html",
+        "title": "South Korea Questions Cram School Culture and Childhood Stress",
+        "summary": "Academic pressure has become so intense that even preschoolers are taking private extracurricular classes, raising worries about children’s rights."
+      },
+      {
+        "char": "💔",
+        "label": "nigerian singer's death from snakebite",
+        "url": "https://www.theguardian.com/global-development/2026/feb/04/death-of-nigerian-singer-highlights-crisis-of-preventable-snakebite-fatalities",
+        "title": "Death of Nigerian singer after snakebite highlights crisis of ‘preventable’ fatalities",
+        "summary": "Ifunanya Nwangene died in hospital after being bitten in her Abuja home, raising questions about the availability of effective antivenoms In a last message to her friends, Ifunanya Nwangene wrote: “Please come.” The 26-year-old singer an..."
+      },
+      {
+        "char": "🕊️",
+        "label": "ukrainians consider land surrender",
+        "url": "https://www.nytimes.com/2026/02/04/world/europe/ukraine-russia-war-donbas-region.html",
+        "title": "For Peace, More Ukrainians Consider the Once Unthinkable: Surrendering Land",
+        "summary": "Polls show a growing acceptance of territorial concessions among a war-weary public, if Ukraine receives strong security guarantees."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
