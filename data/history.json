@@ -20283,5 +20283,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-06",
+    "emojis": [
+      {
+        "char": "🇳🇴",
+        "label": "norway investigates pm over epstein links",
+        "url": "https://www.bbc.com/news/articles/cy8y6w2nl0qo?at_medium=RSS&at_campaign=rss",
+        "title": "Norway investigates former PM Jagland over alleged Epstein links",
+        "summary": "Police say Thorbjørn Jagland is suspected of \"aggravated corruption\", requesting for his immunity to be revoked."
+      },
+      {
+        "char": "🍹",
+        "label": "mayor of tequila accused of shakedown",
+        "url": "https://www.nytimes.com/2026/02/05/world/americas/mexico-tequila-mayor-arrested.html",
+        "title": "Mayor of Tequila, Mexico, Is Accused of Shaking Down Tequila Companies",
+        "summary": "The mayor of the city that is the birthplace of the bottled spirit is the latest official to be arrested as Mexico targets cartel-related corruption."
+      },
+      {
+        "char": "🔫",
+        "label": "gunmen kill over 160 in nigeria attacks",
+        "url": "https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
+        "title": "Gunmen kill more than 160 people in attacks on two west Nigeria villages",
+        "summary": "Local politician says armed men rounded up residents, bound their hands behind their backs and shot them More than 160 people have been killed in two villages in western Nigeria in the country’s deadliest armed assaults this year, as com..."
+      },
+      {
+        "char": "🌍",
+        "label": "us and iran talks amid conflict fears",
+        "url": "https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss",
+        "title": "US and Iran talks to begin as fears of direct conflict continue",
+        "summary": "The US has built up its military presence in the Middle East in response to Iran's violent crackdown on protests."
+      },
+      {
+        "char": "🏗️",
+        "label": "cortina residents angry about olympics work",
+        "url": "https://www.nytimes.com/2026/02/05/world/europe/cortina-olympics-construction-italy.html",
+        "title": "Residents of Cortina, a Winter Olympics Hub, Are Angry About All the Construction",
+        "summary": "In Cortina d’Ampezzo, a hub for the Games in northern Italy, some residents, including a former Olympian, are annoyed about all the construction. Others are annoyed that they’re annoyed."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
