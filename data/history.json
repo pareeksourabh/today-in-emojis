@@ -20239,5 +20239,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-06",
+    "emojis": [
+      {
+        "char": "🏗️",
+        "label": "cortina olympics construction issues",
+        "url": "https://www.nytimes.com/2026/02/05/world/europe/cortina-olympics-construction-italy.html",
+        "title": "Residents of Cortina, a Winter Olympics Hub, Are Angry About All the Construction",
+        "summary": "In Cortina d’Ampezzo, a hub for the Games in northern Italy, some residents, including a former Olympian, are annoyed about all the construction. Others are annoyed that they’re annoyed."
+      },
+      {
+        "char": "🕊️",
+        "label": "ukraine-russia peace talks impasse",
+        "url": "https://www.nytimes.com/2026/02/05/world/europe/russia-ukraine-peace-talks.html",
+        "title": "Ukraine-Russia Talks End With Little Progress and Hints of Impasse",
+        "summary": "American negotiators trumpeted plans for a prisoner swap, but that was small recompense for months of diplomatic efforts by the Trump administration."
+      },
+      {
+        "char": "🚔",
+        "label": "toronto police organized crime arrests",
+        "url": "https://www.theguardian.com/world/2026/feb/05/toronto-police-organized-crime-canada",
+        "title": "Eight current and former Toronto police arrested in organized crime inquiry",
+        "summary": "Investigation exposes ‘corrosive’ reach of organized crime in Canada, with links to bribes, drug trade and a murder plot At least eight current and former Toronto police officers have been arrested following a sweeping investigation that..."
+      },
+      {
+        "char": "💼",
+        "label": "news corp quarterly revenue growth",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLUc4dnJZS1VTVGhnZU5TTUo1S2VQbTBXYU1rTzdRYXBhOE5aWXZITEs4MnV6WGJ4a1E3TTdtWm1LMGVTQ2NaU09mN1h1SEVoN2pSMHprWHRGUTFQTVNOZUQ2YXpqSHlaQ2MwZ0RXbmc4VVBNN3hvT19vcEIyWXpVZFJNWmpIQ0p2U2Utelp0RXlfZw?oc=5",
+        "title": "News Corp beats quarterly revenue estimates on growth in Dow Jones unit - Reuters",
+        "summary": "News Corp beats quarterly revenue estimates on growth in Dow Jones unit Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "military operation displaces people in pakistan",
+        "url": "https://www.nytimes.com/2026/02/05/world/asia/pakistan-military-operation-displaced-people.html",
+        "title": "Thousands Displaced by Military Operation in Pakistan",
+        "summary": "Some 60,000 evacuees have been left in limbo by confusion and political disputes as Pakistan battles insurgents on its border with Afghanistan."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

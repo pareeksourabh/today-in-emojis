@@ -1,64 +1,43 @@
 {
-  "date": "2026-02-05",
-  "timestamp": "2026-02-05T16:31:15Z",
+  "date": "2026-02-06",
+  "timestamp": "2026-02-06T01:15:55Z",
   "emojis": [
     {
-      "char": "🇳🇬",
-      "label": "nigeria sends troops to fight jihadists",
-      "url": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
-      "title": "Nigeria sends troops to villages attacked by jihadist fighters",
-      "summary": "President says army will ‘checkmate barbaric terrorists’ who attacked Woro and Nuku in Kwara state, killing 170 people Nigeria will deploy an army battalion to a district in the west of the country where suspected jihadist fighters kille..."
+      "char": "🏗️",
+      "label": "cortina olympics construction issues",
+      "url": "https://www.nytimes.com/2026/02/05/world/europe/cortina-olympics-construction-italy.html",
+      "title": "Residents of Cortina, a Winter Olympics Hub, Are Angry About All the Construction",
+      "summary": "In Cortina d’Ampezzo, a hub for the Games in northern Italy, some residents, including a former Olympian, are annoyed about all the construction. Others are annoyed that they’re annoyed."
     },
     {
-      "char": "🇻🇪",
-      "label": "venezuela's cultural center plan criticized",
-      "url": "https://www.theguardian.com/world/2026/feb/05/el-helicoide-delcy-rodriguez-venezuela",
-      "title": "Venezuela plan to turn notorious prison into cultural centre scrubs past horrors, critics say",
-      "summary": "The move is among several measures the acting president has touted since Maduro’s capture – yet critics say it erases Venezuela’s long history of repression It was designed in the 1950s to be the world’s first “drive-through shopping cen..."
+      "char": "🕊️",
+      "label": "ukraine-russia peace talks impasse",
+      "url": "https://www.nytimes.com/2026/02/05/world/europe/russia-ukraine-peace-talks.html",
+      "title": "Ukraine-Russia Talks End With Little Progress and Hints of Impasse",
+      "summary": "American negotiators trumpeted plans for a prisoner swap, but that was small recompense for months of diplomatic efforts by the Trump administration."
     },
     {
-      "char": "🇺🇸",
-      "label": "us tackles china's mineral dominance",
-      "url": "https://www.bbc.com/news/articles/c5y41r5rzrno?at_medium=RSS&at_campaign=rss",
-      "title": "US launches plan to tackle China's critical minerals dominance",
-      "summary": "The event was attended by representatives of more than 50 countries, the White House said."
+      "char": "🚔",
+      "label": "toronto police organized crime arrests",
+      "url": "https://www.theguardian.com/world/2026/feb/05/toronto-police-organized-crime-canada",
+      "title": "Eight current and former Toronto police arrested in organized crime inquiry",
+      "summary": "Investigation exposes ‘corrosive’ reach of organized crime in Canada, with links to bribes, drug trade and a murder plot At least eight current and former Toronto police officers have been arrested following a sweeping investigation that..."
     },
     {
-      "char": "🎭",
-      "label": "rethinking shakespeare in shanghai",
-      "url": "https://www.nytimes.com/2026/02/05/world/asia/shakespeare-china-othello-shanghai.html",
-      "title": "Rethinking Shakespeare in Shanghai",
-      "summary": "A recent production of “Othello” proves that small creative flowers can grow between the dreary slabs of cultural concrete laid by the Communist Party."
+      "char": "💼",
+      "label": "news corp quarterly revenue growth",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLUc4dnJZS1VTVGhnZU5TTUo1S2VQbTBXYU1rTzdRYXBhOE5aWXZITEs4MnV6WGJ4a1E3TTdtWm1LMGVTQ2NaU09mN1h1SEVoN2pSMHprWHRGUTFQTVNOZUQ2YXpqSHlaQ2MwZ0RXbmc4VVBNN3hvT19vcEIyWXpVZFJNWmpIQ0p2U2Utelp0RXlfZw?oc=5",
+      "title": "News Corp beats quarterly revenue estimates on growth in Dow Jones unit - Reuters",
+      "summary": "News Corp beats quarterly revenue estimates on growth in Dow Jones unit Reuters"
     },
     {
-      "char": "🇺🇬",
-      "label": "uganda opposition leader in hiding",
-      "url": "https://www.theguardian.com/world/2026/feb/04/uganda-opposition-leader-bobi-wine-in-hiding-muhoozi-kainerugaba-feud",
-      "title": "Ugandan opposition leader still in hiding as feud with president’s son escalates",
-      "summary": "Bobi Wine’s whereabouts unknown since he fled what he said was night raid on his home by police and military Bobi Wine, Uganda’s most prominent opposition figure, remains in hiding nearly three weeks after a disputed election , as a high..."
+      "char": "🌍",
+      "label": "military operation displaces people in pakistan",
+      "url": "https://www.nytimes.com/2026/02/05/world/asia/pakistan-military-operation-displaced-people.html",
+      "title": "Thousands Displaced by Military Operation in Pakistan",
+      "summary": "Some 60,000 evacuees have been left in limbo by confusion and political disputes as Pakistan battles insurgents on its border with Afghanistan."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The day is marked by significant global unrest, with violent attacks in Nigeria and ongoing political turmoil in Uganda, highlighting a sense of apprehension about safety and governance.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
