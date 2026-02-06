@@ -20415,5 +20415,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-06",
+    "emojis": [
+      {
+        "char": "📉",
+        "label": "amazon shares slide over ai returns",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3dyM1otRVRWSDA1bzdsLWdIWUxGT0FTSmlBMUdGMEprdURNRkJGYjhjTFJ5ZUJVNmxNdjFOa1I5MUtxbTdPcmY4MENKclhUbTBydFpGdVZWNVYzM1ZXWGJKOHVraWNRMTlodFBpaDRNTTJpLVFKdDVVT0hlcUhvczljc0hiU01UdWpTZ3U2VUdfMGc4SVdqSl84QlV1Rmo3RkNTR0YzT29Obm4zVzRxS1pBQlJFT2NRTWtOWng2SXg?oc=5",
+        "title": "Amazon shares slide as $200 billion outlay fans fears over AI returns - Reuters",
+        "summary": "Amazon shares slide as $200 billion outlay fans fears over AI returns Reuters"
+      },
+      {
+        "char": "🏅",
+        "label": "pope warns against olympics propaganda",
+        "url": "https://www.nytimes.com/2026/02/06/world/europe/pope-leo-milan-olympics-letter.html",
+        "title": "As Olympics Open, Pope Leo Warns Against Using Sports for ‘Propaganda or National Supremacy’",
+        "summary": "The Milan-Cortina Games are overlapping with a moment of geopolitical turbulence as conflicts rage, national leaders issue threats and alliances are strained."
+      },
+      {
+        "char": "🤝",
+        "label": "us and iran set for talks in oman",
+        "url": "https://www.nytimes.com/2026/02/06/world/europe/us-iran-talks-oman.html",
+        "title": "U.S. and Iran Set for Talks in Oman",
+        "summary": "Abbas Araghchi, the minister, said the two sides had agreed to continue negotiations at a later date. The U.S. delegation had yet to comment."
+      },
+      {
+        "char": "🕊️",
+        "label": "nigeria sends troops after jihadist attacks",
+        "url": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
+        "title": "‘They killed my sons’: chief of Nigerian village where jihadists massacred hundreds recounts night of terror",
+        "summary": "Umar Bio Salihu, 53, the local head of Woro in Kwara state, says gunmen ‘just came in and started shooting’ The traditional chief of a village in western Nigeria where jihadists massacred residents earlier this week has recounted a night..."
+      },
+      {
+        "char": "🔒",
+        "label": "maduro's frontman alex saab detained",
+        "url": "https://www.theguardian.com/world/2026/feb/05/nicolas-maduro-alex-saab-caracas-venezuela",
+        "title": "Maduro’s alleged frontman Alex Saab reportedly detained in Caracas",
+        "summary": "FBI and Venezuela’s intelligence agency also reportedly arrest billionaire media mogul Raúl Gorrín at same address A close and powerful associate of the deposed Venezuelan president Nicolás Maduro has reportedly been detained during a jo..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
