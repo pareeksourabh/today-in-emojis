@@ -20591,5 +20591,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-07",
+    "emojis": [
+      {
+        "char": "🤝",
+        "label": "trump talks with iran",
+        "url": "https://www.nytimes.com/2026/02/06/world/europe/us-iran-talks-oman.html",
+        "title": "Trump Says Talks With Iran Were Good, but There’s More Work to Do",
+        "summary": "President Trump said the negotiations would resume next week. Abbas Araghchi, the Iranian foreign minister, said the talks were off to a “good start.”"
+      },
+      {
+        "char": "🏅",
+        "label": "olympics and global harmony",
+        "url": "https://www.nytimes.com/2026/02/06/world/europe/olympics-world-order-war.html",
+        "title": "The Olympics Are a Show Of Global Harmony. The World is Anything But.",
+        "summary": "The Winter Games, which officially open in Italy on Friday, are rooted in international cooperation. That feels out of place to some in a world where old rules no longer apply."
+      },
+      {
+        "char": "⚰️",
+        "label": "funeral home abuse case",
+        "url": "https://www.bbc.com/news/articles/c0q4q7w237yo?at_medium=RSS&at_campaign=rss",
+        "title": "Colorado funeral home director sentenced to 40 years for corpse abuse",
+        "summary": "Nearly 200 decaying bodies were discovered at the Return to Nature home after officials investigated a foul smell."
+      },
+      {
+        "char": "🐌",
+        "label": "bermuda snail thrives again",
+        "url": "https://www.theguardian.com/environment/2026/feb/07/bermuda-snail-thought-to-be-extinct-now-thrives-after-a-decades-effort",
+        "title": "Bermuda snail thought to be extinct now thrives after a decade’s effort",
+        "summary": "Special pods at Chester zoo helped conservationists breed and release more than 100,000 greater Bermuda snails A button-sized snail once feared extinct in its Bermudian home is thriving again after conservationists bred and released more..."
+      },
+      {
+        "char": "💼",
+        "label": "malawi businesses protest tax",
+        "url": "https://www.theguardian.com/global-development/2026/feb/07/businesses-close-protest-malawi-tax-changes-electronic-invoicing-system",
+        "title": "Thousands of Malawi businesses close in protest over tax changes",
+        "summary": "Peaceful demonstrations force a delay in measures aimed at improving revenue collection but which many fear will be fatal for small traders Demonstrations across Malawi’s four main cities during the past week have achieved a delay in the..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
