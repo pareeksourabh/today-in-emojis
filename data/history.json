@@ -20503,5 +20503,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-07",
+    "emojis": [
+      {
+        "char": "🔫",
+        "label": "gunmen attack in nigeria",
+        "url": "https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
+        "title": "Gunmen kill more than 160 people in attacks on two west Nigeria villages",
+        "summary": "Local politician says armed men rounded up residents, bound their hands behind their backs and shot them More than 160 people have been killed in two villages in western Nigeria in the country’s deadliest armed assaults this year, as com..."
+      },
+      {
+        "char": "🤝",
+        "label": "trump talks with iran",
+        "url": "https://www.nytimes.com/2026/02/06/world/europe/us-iran-talks-oman.html",
+        "title": "Trump Says Talks With Iran Were Good, but There’s More Work to Do",
+        "summary": "President Trump said the negotiations would resume next week. Abbas Araghchi, the Iranian foreign minister, said the talks were off to a “good start.”"
+      },
+      {
+        "char": "🍏",
+        "label": "apple's ai chatbots in carplay",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTJBQUJweHczY0tHQXZDbl85VS04TFo5SzlNN3RzaGRPdTN1VzAwRERyZlA3UTlaM01FUnhGTnJYOVFvbFk5Y3NZWDlLZURfTlAtYkRVZUJUWjVYbTg1VTFHYkRkTG9vYkpwSi1rM0tKbG04bVhoVUNQTEFrOTlEc0k0Y0d4ZFlwQi1hekZoRFM0dDdZTEpGWUI4SHdyd1ozbWFmcWtvMHl1RkFMMEc1U1lvMG43ZVhNZkFJR2JHalA?oc=5",
+        "title": "Apple plans to allow external voice-controlled AI chatbots in CarPlay, Bloomberg News reports - Reuters",
+        "summary": "Apple plans to allow external voice-controlled AI chatbots in CarPlay, Bloomberg News reports Reuters"
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada-france consulates in greenland",
+        "url": "https://www.theguardian.com/world/2026/feb/06/canada-and-france-open-greenland-consulates-in-show-of-denmark-support",
+        "title": "Canada and France open Greenland consulates in show of Denmark support",
+        "summary": "Founding of diplomatic outposts in Nuuk comes after US made efforts to secure control of Arctic island Opposition to US has hardened in western Europe after Greenland threat, poll finds Canada and France are to open diplomatic consulates..."
+      },
+      {
+        "char": "💣",
+        "label": "suicide bombing in pakistan",
+        "url": "https://www.nytimes.com/2026/02/06/world/asia/pakistan-mosque-attack-islamabad.html",
+        "title": "Suicide Bombing Kills 31 at Mosque in Pakistan’s Capital",
+        "summary": "The bombing, during Friday prayers, was the second major attack in recent months in Islamabad, raising concerns that extremist violence is spreading far from Pakistan’s border areas."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
