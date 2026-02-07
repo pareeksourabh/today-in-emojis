@@ -1,64 +1,43 @@
 {
-  "date": "2026-02-06",
-  "timestamp": "2026-02-06T16:29:47Z",
+  "date": "2026-02-07",
+  "timestamp": "2026-02-07T01:14:53Z",
   "emojis": [
     {
-      "char": "📉",
-      "label": "amazon shares slide over ai returns",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3dyM1otRVRWSDA1bzdsLWdIWUxGT0FTSmlBMUdGMEprdURNRkJGYjhjTFJ5ZUJVNmxNdjFOa1I5MUtxbTdPcmY4MENKclhUbTBydFpGdVZWNVYzM1ZXWGJKOHVraWNRMTlodFBpaDRNTTJpLVFKdDVVT0hlcUhvczljc0hiU01UdWpTZ3U2VUdfMGc4SVdqSl84QlV1Rmo3RkNTR0YzT29Obm4zVzRxS1pBQlJFT2NRTWtOWng2SXg?oc=5",
-      "title": "Amazon shares slide as $200 billion outlay fans fears over AI returns - Reuters",
-      "summary": "Amazon shares slide as $200 billion outlay fans fears over AI returns Reuters"
+      "char": "📰",
+      "label": "trump's fed chief nominee joke",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZVR5dS1RY2RNX1FHRmFPR3pvNUFzaEFKT3VnWHRJSXlPLTRYdlVIa0oyYVpRWDZzNUEtMXVienhwbTRyZUpmZzJzWFRzb1ljdG9RWC1Ld1drV256UmpuUGtaUXB0VzR2d0RsYVZmRkpHTXBKR1ZVcktzaUJrTGZMTk82cE1NOXoxcHVwQ3VWR053RWJGS25IUEppTEMxb29RcEFYcjBsNzliZV9ZZmF1VEx0WU5lRmRwYmY1TUE4TFM?oc=5",
+      "title": "Bessent says Trump's comment about suing his Fed chief nominee was a joke - Reuters",
+      "summary": "Bessent says Trump's comment about suing his Fed chief nominee was a joke Reuters"
     },
     {
-      "char": "🏅",
-      "label": "pope warns against olympics propaganda",
+      "char": "👑",
+      "label": "queen coin portrait criticism",
+      "url": "https://www.bbc.com/news/articles/c70l0wzww50o?at_medium=RSS&at_campaign=rss",
+      "title": "Coin portrait of late Queen draws criticism in Australia",
+      "summary": "The Royal Australian Mint has defended the design of the coins, which mark 100 years since Queen Elizabeth II's birth."
+    },
+    {
+      "char": "⛷️",
+      "label": "pope warns against sports propaganda",
       "url": "https://www.nytimes.com/2026/02/06/world/europe/pope-leo-milan-olympics-letter.html",
-      "title": "As Olympics Open, Pope Leo Warns Against Using Sports for ‘Propaganda or National Supremacy’",
+      "title": "As Olympics Open, Pope Warns Against Using Sports for ‘Propaganda’",
       "summary": "The Milan-Cortina Games are overlapping with a moment of geopolitical turbulence as conflicts rage, national leaders issue threats and alliances are strained."
     },
     {
-      "char": "🤝",
-      "label": "us and iran set for talks in oman",
-      "url": "https://www.nytimes.com/2026/02/06/world/europe/us-iran-talks-oman.html",
-      "title": "U.S. and Iran Set for Talks in Oman",
-      "summary": "Abbas Araghchi, the minister, said the two sides had agreed to continue negotiations at a later date. The U.S. delegation had yet to comment."
+      "char": "🇨🇦",
+      "label": "canada-france greenland consulates",
+      "url": "https://www.theguardian.com/world/2026/feb/06/canada-and-france-open-greenland-consulates-in-show-of-denmark-support",
+      "title": "Canada and France open Greenland consulates in show of Denmark support",
+      "summary": "Founding of diplomatic outposts in Nuuk comes after US made efforts to secure control of Arctic island Opposition to US has hardened in western Europe after Greenland threat, poll finds Canada and France are to open diplomatic consulates..."
     },
     {
-      "char": "🕊️",
-      "label": "nigeria sends troops after jihadist attacks",
-      "url": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
-      "title": "‘They killed my sons’: chief of Nigerian village where jihadists massacred hundreds recounts night of terror",
-      "summary": "Umar Bio Salihu, 53, the local head of Woro in Kwara state, says gunmen ‘just came in and started shooting’ The traditional chief of a village in western Nigeria where jihadists massacred residents earlier this week has recounted a night..."
-    },
-    {
-      "char": "🔒",
-      "label": "maduro's frontman alex saab detained",
-      "url": "https://www.theguardian.com/world/2026/feb/05/nicolas-maduro-alex-saab-caracas-venezuela",
-      "title": "Maduro’s alleged frontman Alex Saab reportedly detained in Caracas",
-      "summary": "FBI and Venezuela’s intelligence agency also reportedly arrest billionaire media mogul Raúl Gorrín at same address A close and powerful associate of the deposed Venezuelan president Nicolás Maduro has reportedly been detained during a jo..."
+      "char": "🕌",
+      "label": "suicide bombing in pakistan mosque",
+      "url": "https://www.nytimes.com/2026/02/06/world/asia/pakistan-mosque-attack-islamabad.html",
+      "title": "Suicide Bombing Kills 31 at Mosque in Pakistan’s Capital",
+      "summary": "The bombing, during Friday prayers, was the second major attack in recent months in Islamabad, raising concerns that extremist violence is spreading far from Pakistan’s border areas."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "The news reflects a day filled with sorrow and fear, particularly highlighted by the tragic events in Nigeria and the concerns over economic stability with Amazon's share slide. The overall tone suggests a heavy emotional weight.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

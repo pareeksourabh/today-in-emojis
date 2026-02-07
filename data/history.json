@@ -20459,5 +20459,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-07",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "trump's fed chief nominee joke",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZVR5dS1RY2RNX1FHRmFPR3pvNUFzaEFKT3VnWHRJSXlPLTRYdlVIa0oyYVpRWDZzNUEtMXVienhwbTRyZUpmZzJzWFRzb1ljdG9RWC1Ld1drV256UmpuUGtaUXB0VzR2d0RsYVZmRkpHTXBKR1ZVcktzaUJrTGZMTk82cE1NOXoxcHVwQ3VWR053RWJGS25IUEppTEMxb29RcEFYcjBsNzliZV9ZZmF1VEx0WU5lRmRwYmY1TUE4TFM?oc=5",
+        "title": "Bessent says Trump's comment about suing his Fed chief nominee was a joke - Reuters",
+        "summary": "Bessent says Trump's comment about suing his Fed chief nominee was a joke Reuters"
+      },
+      {
+        "char": "👑",
+        "label": "queen coin portrait criticism",
+        "url": "https://www.bbc.com/news/articles/c70l0wzww50o?at_medium=RSS&at_campaign=rss",
+        "title": "Coin portrait of late Queen draws criticism in Australia",
+        "summary": "The Royal Australian Mint has defended the design of the coins, which mark 100 years since Queen Elizabeth II's birth."
+      },
+      {
+        "char": "⛷️",
+        "label": "pope warns against sports propaganda",
+        "url": "https://www.nytimes.com/2026/02/06/world/europe/pope-leo-milan-olympics-letter.html",
+        "title": "As Olympics Open, Pope Warns Against Using Sports for ‘Propaganda’",
+        "summary": "The Milan-Cortina Games are overlapping with a moment of geopolitical turbulence as conflicts rage, national leaders issue threats and alliances are strained."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada-france greenland consulates",
+        "url": "https://www.theguardian.com/world/2026/feb/06/canada-and-france-open-greenland-consulates-in-show-of-denmark-support",
+        "title": "Canada and France open Greenland consulates in show of Denmark support",
+        "summary": "Founding of diplomatic outposts in Nuuk comes after US made efforts to secure control of Arctic island Opposition to US has hardened in western Europe after Greenland threat, poll finds Canada and France are to open diplomatic consulates..."
+      },
+      {
+        "char": "🕌",
+        "label": "suicide bombing in pakistan mosque",
+        "url": "https://www.nytimes.com/2026/02/06/world/asia/pakistan-mosque-attack-islamabad.html",
+        "title": "Suicide Bombing Kills 31 at Mosque in Pakistan’s Capital",
+        "summary": "The bombing, during Friday prayers, was the second major attack in recent months in Islamabad, raising concerns that extremist violence is spreading far from Pakistan’s border areas."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
