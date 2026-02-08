@@ -20679,5 +20679,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-08",
+    "emojis": [
+      {
+        "char": "🇫🇷",
+        "label": "france investigates ex-minister over epstein",
+        "url": "https://www.bbc.com/news/articles/crkrk567d7zo?at_medium=RSS&at_campaign=rss",
+        "title": "France investigates ex-minister Jack Lang over Epstein links",
+        "summary": "The socialist grandee quits his role at a prestigious institute as he is investigated for the \"laundering of tax-fraud proceeds\"."
+      },
+      {
+        "char": "🇸🇦",
+        "label": "saudis announce new investments in syria",
+        "url": "https://www.nytimes.com/2026/02/07/world/middleeast/saudi-arabia-investment-syria-al-sharaa.html",
+        "title": "Saudis Announce New Investments in Syria, a Sign of Deepening Ties",
+        "summary": "Saudi and Syrian officials announced deals ranging from aviation to telecommunications, offering a much-needed boost to Syria’s battered economy."
+      },
+      {
+        "char": "🇺🇦",
+        "label": "russian strikes pummel ukraine’s power grid",
+        "url": "https://www.nytimes.com/2026/02/07/world/europe/russia-strikes-ukraine-energy.html",
+        "title": "Russian Strikes Pummel Ukraine’s Power Grid",
+        "summary": "The drone and missile bombardments were the latest attacks on Ukrainian energy infrastructure during a winter freeze, as peace talks have made little progress."
+      },
+      {
+        "char": "🌪️",
+        "label": "tropical cyclone mitchell approaches australia",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM2dBUVV0OEdPU0tTN29BalpIUmxrN3RqNTBjSHJSRXBNWkpjcDM4LVNNQ2JqVndYU0N3V2tYeFBBR2h5WUk2MFZtWDZsX2xvLXlXd25VelJVTDR6TE54cm1mRG9iWWJNbHk2WmdLb2M5aFZvOHVvTmJzdDFHNTQxRHgtOTVMaTZHbkswT19YdnUxRTJmQ0tOanJtcWRad0JFc2pFeXRrYS1MX1Q3LUNlOGQwRkxTVW9sOEhfQmFfTHRUVmd0NHU1QTBQV19kUQ?oc=5",
+        "title": "Tropical Cyclone Mitchell approaches Western Australia's Pilbara region, ports closed - Reuters",
+        "summary": "Tropical Cyclone Mitchell approaches Western Australia's Pilbara region, ports closed Reuters"
+      },
+      {
+        "char": "🕌",
+        "label": "a mosque bombing undercuts pakistan’s bid for",
+        "url": "https://www.nytimes.com/2026/02/07/world/asia/pakistan-mosque-bombing.html",
+        "title": "A Mosque Bombing Undercuts Pakistan’s Bid for Security",
+        "summary": "Pakistan has made headway against the Islamic State and other militants, but a bloody suicide attack showed how fragile its progress has been."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
