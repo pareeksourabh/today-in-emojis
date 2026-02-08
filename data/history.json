@@ -20723,5 +20723,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-08",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "japanese people brave snow to vote",
+        "url": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
+        "title": "Japanese people brave snow to vote in snap election",
+        "summary": "A coalition led by Takaichi is expected to clinch a decisive win, according to polls."
+      },
+      {
+        "char": "🚨",
+        "label": "france investigates ex-minister over epstein",
+        "url": "https://www.bbc.com/news/articles/crkrk567d7zo?at_medium=RSS&at_campaign=rss",
+        "title": "France investigates ex-minister Jack Lang over Epstein links",
+        "summary": "The socialist grandee quits his role at a prestigious institute as he is investigated for the \"laundering of tax-fraud proceeds\"."
+      },
+      {
+        "char": "🛰️",
+        "label": "iran missile and nuclear sites under scrutiny",
+        "url": "https://www.nytimes.com/2026/02/06/world/middleeast/iran-missile-nuclear-repairs.html",
+        "title": "Iran Is at Work on Missile and Nuclear Sites, Satellite Images Show",
+        "summary": "Repairs at key missile sites began soon after they were hit by Israeli and U.S. strikes last year, but work at Iran’s nuclear facilities has been slower."
+      },
+      {
+        "char": "💔",
+        "label": "drone attack kills 24 in sudan",
+        "url": "https://www.theguardian.com/world/2026/feb/07/sudan-rsf-drone-attack-rahad-kills-displaced-people",
+        "title": "RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group",
+        "summary": "Eight children including two infants among dead in vehicle carrying displaced people, says Sudan Doctors Network A drone attack by a paramilitary group has hit a vehicle carrying displaced families in central Sudan, killing at least 24 p..."
+      },
+      {
+        "char": "🐌",
+        "label": "bermuda snail thought extinct now thrives",
+        "url": "https://www.theguardian.com/environment/2026/feb/07/bermuda-snail-thought-to-be-extinct-now-thrives-after-a-decades-effort",
+        "title": "Bermuda snail thought to be extinct now thrives after a decade’s effort",
+        "summary": "Special pods at Chester zoo helped conservationists breed and release more than 100,000 greater Bermuda snails A button-sized snail once feared extinct in its Bermudian home is thriving again after conservationists bred and released more..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
