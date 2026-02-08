@@ -20855,5 +20855,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-08",
+    "emojis": [
+      {
+        "char": "🔪",
+        "label": "four indian students injured in russia",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVmZpWUxOdmloSnZ4bHB3R1EyMFdxak93NGFNNTZKUzFCMFp3NW1HUmFrQVRDcTQtOFQzSGNYc1pvUThWZHktTDVlZ1dmbF91NEhYNWNrdGVNQ0VoazgyR01wT3ByUUh1MENqUzdTSmFVS3oxbkVsLTZody1XeHcyNDZ3YUhkQ0VOU0t3MXR0MUlqSXpEYy1NdXdndXBJYnRnYlloV3ZVLW9Gb2FLQV9FOHJtRkhfdU0?oc=5",
+        "title": "Four Indian students injured in knife attack in Russia, embassy says - Reuters",
+        "summary": "Four Indian students injured in knife attack in Russia, embassy says Reuters"
+      },
+      {
+        "char": "🗳️",
+        "label": "what to know about thailand's election",
+        "url": "https://www.nytimes.com/2026/02/07/world/asia/thailand-election-what-to-know.html",
+        "title": "What to Know About Thailand’s Election",
+        "summary": "The progressive People’s Party was leading in surveys conducted before Sunday’s election, but the country has a history of overturning voters’ will."
+      },
+      {
+        "char": "🇦🇺",
+        "label": "australia's opposition coalition reunites",
+        "url": "https://www.bbc.com/news/articles/cg7e981e4n5o?at_medium=RSS&at_campaign=rss",
+        "title": "Australia's opposition coalition reunites after row over hate-speech laws",
+        "summary": "The Nationals had split from the Liberals citing free speech concerns over laws brought in after the Bondi Beach attack."
+      },
+      {
+        "char": "🕵️‍♂",
+        "label": "man found dead in police corruption probe",
+        "url": "https://www.bbc.com/news/articles/c0j5pg0597po?at_medium=RSS&at_campaign=rss",
+        "title": "Man named in South Africa's police corruption probe found dead",
+        "summary": "Reports say Wiandre Pretorius, who last week said he survived an assassination attempt, shot himself."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran insists on right to enrichment",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjBPTFdGTjl1ZEs5VE5CMGFON19ZRTJ3dHFsdGVXWE92cDZMcF82S3oxQi1sQnM4UW5GX0lraldONkxsYkhUWHlGbHA1R240QXJjNnE5X3o4OWViTU93ZTROSkpidmt6dTVlM3ZrcWhfSjJGTGZ1X0toc3UtSzIwYW5CeW5wTUc0Rm42S0xYa3JmWEJ4U1dfXzFDTjZzZm5pLXF4SlBUWm1fUDR3WXc?oc=5",
+        "title": "Iran insists on right to enrichment, ready for confidence-building - Reuters",
+        "summary": "Iran insists on right to enrichment, ready for confidence-building Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
