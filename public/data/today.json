@@ -1,64 +1,43 @@
 {
-  "date": "2026-02-08",
-  "timestamp": "2026-02-08T16:15:56Z",
+  "date": "2026-02-09",
+  "timestamp": "2026-02-09T01:22:06Z",
   "emojis": [
     {
-      "char": "🔪",
-      "label": "four indian students injured in russia",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVmZpWUxOdmloSnZ4bHB3R1EyMFdxak93NGFNNTZKUzFCMFp3NW1HUmFrQVRDcTQtOFQzSGNYc1pvUThWZHktTDVlZ1dmbF91NEhYNWNrdGVNQ0VoazgyR01wT3ByUUh1MENqUzdTSmFVS3oxbkVsLTZody1XeHcyNDZ3YUhkQ0VOU0t3MXR0MUlqSXpEYy1NdXdndXBJYnRnYlloV3ZVLW9Gb2FLQV9FOHJtRkhfdU0?oc=5",
-      "title": "Four Indian students injured in knife attack in Russia, embassy says - Reuters",
-      "summary": "Four Indian students injured in knife attack in Russia, embassy says Reuters"
+      "char": "🥇",
+      "label": "curling champion at olympics",
+      "url": "https://www.nytimes.com/2026/02/08/world/europe/winter-olympics-milan-cortina-stefi-constantini-italy.html",
+      "title": "A Curling Champion Is Italy’s Hometown Hero at the Olympic Games",
+      "summary": "Stefania Constantini worked in a clothes shop until her sports career took off. The champion curler is now one of Italy’s best hopes at the Winter Games."
+    },
+    {
+      "char": "🇻🇪",
+      "label": "venezuela's socialist party struggles",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONDIwc0FMR29fcmphRWtrNXFmVmswT2F5eXI5OWoybklrdHltX3pNb1dJbTg2amZ6ZlJXYnBvRk52MUZTR2NqX1FjdUlYMDNWcXZ5c2ZXWTh5QkhudElRRXkyQl90VHEzX25yT2RIdF9DMnY4cjZTSjd0dlkxLVF4YUhXaW1FeWZiYTk3ZjdHYmo5a3M1cVdMdDBsWjAxZmNXMENkcVVGbTU3czc4c25NWFk3YlRHWUJHdWt0N0dKaVo1RmtHWmloSXhB?oc=5",
+      "title": "Distrust, desertions, and dwindling bonuses undermine Socialist Party’s grip on Venezuela - Reuters",
+      "summary": "Distrust, desertions, and dwindling bonuses undermine Socialist Party’s grip on Venezuela Reuters"
     },
     {
       "char": "🗳️",
-      "label": "what to know about thailand's election",
-      "url": "https://www.nytimes.com/2026/02/07/world/asia/thailand-election-what-to-know.html",
-      "title": "What to Know About Thailand’s Election",
-      "summary": "The progressive People’s Party was leading in surveys conducted before Sunday’s election, but the country has a history of overturning voters’ will."
+      "label": "japan's pm wins election",
+      "url": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
+      "title": "Japan's PM Takaichi on course to win snap election by landslide",
+      "summary": "Her ruling coalition is set to clinch a decisive win, taking two-thirds of the seats in the House of Representatives."
     },
     {
-      "char": "🇦🇺",
-      "label": "australia's opposition coalition reunites",
-      "url": "https://www.bbc.com/news/articles/cg7e981e4n5o?at_medium=RSS&at_campaign=rss",
-      "title": "Australia's opposition coalition reunites after row over hate-speech laws",
-      "summary": "The Nationals had split from the Liberals citing free speech concerns over laws brought in after the Bondi Beach attack."
+      "char": "💔",
+      "label": "drone attack in sudan kills 24",
+      "url": "https://www.theguardian.com/world/2026/feb/07/sudan-rsf-drone-attack-rahad-kills-displaced-people",
+      "title": "RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group",
+      "summary": "Eight children including two infants among dead in vehicle carrying displaced people, says Sudan Doctors Network A drone attack by a paramilitary group has hit a vehicle carrying displaced families in central Sudan, killing at least 24 p..."
     },
     {
-      "char": "🕵️‍♂",
-      "label": "man found dead in police corruption probe",
-      "url": "https://www.bbc.com/news/articles/c0j5pg0597po?at_medium=RSS&at_campaign=rss",
-      "title": "Man named in South Africa's police corruption probe found dead",
-      "summary": "Reports say Wiandre Pretorius, who last week said he survived an assassination attempt, shot himself."
-    },
-    {
-      "char": "🇮🇷",
-      "label": "iran insists on right to enrichment",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjBPTFdGTjl1ZEs5VE5CMGFON19ZRTJ3dHFsdGVXWE92cDZMcF82S3oxQi1sQnM4UW5GX0lraldONkxsYkhUWHlGbHA1R240QXJjNnE5X3o4OWViTU93ZTROSkpidmt6dTVlM3ZrcWhfSjJGTGZ1X0toc3UtSzIwYW5CeW5wTUc0Rm42S0xYa3JmWEJ4U1dfXzFDTjZzZm5pLXF4SlBUWm1fUDR3WXc?oc=5",
-      "title": "Iran insists on right to enrichment, ready for confidence-building - Reuters",
-      "summary": "Iran insists on right to enrichment, ready for confidence-building Reuters"
+      "char": "🇹🇭",
+      "label": "thailand's progressive party image",
+      "url": "https://www.nytimes.com/2026/02/07/world/asia/thailand-election-peoples-party.html",
+      "title": "In Bid to Lead Thailand, a Progressive Party Softens Its Image",
+      "summary": "Sunday’s election is a test for the progressive, pro-democracy movement in Thailand, which has been blocked from taking power despite success at the polls."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sadness",
-    "emoji": "😢",
-    "rationale": "The day's news reflects distressing incidents, including violence against students and tragic deaths, overshadowing any positive developments.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
