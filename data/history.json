@@ -21163,5 +21163,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-10",
+    "emojis": [
+      {
+        "char": "🌉",
+        "label": "trump threatens new us-canada bridge",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbE84TW05VHlfVHZCLThmdlFVdjViUXNfNFBXNFpVUDhFV1dQNVZEMng3anh5NEx0TkdzYi13elBRQWJhc1J3dzVwM25uNks1OHFOTFBBcTVMeElWRGJRaXlRcUY4Njg1bXB0ZnlhLUh6bXRaUlctUms3R2VEVEtfbDRKWFBNNXlHV0JXYUd3alV5RGpaVm9WVzZlaEttbTRrLW9OTURBaVBET0hwVkZ5YmFXQmk5bzF6d29UZ1QwNA?oc=5",
+        "title": "Trump threatens to bar new US-Canada bridge from opening, demands talks with Ottawa - Reuters",
+        "summary": "Trump threatens to bar new US-Canada bridge from opening, demands talks with Ottawa Reuters"
+      },
+      {
+        "char": "💰",
+        "label": "bp reports profits and suspends buybacks",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS19XeWFpUl9DcTNpY2lEN2lTLTBndS1BbmpPMm85ZGRnRExkbTNqTlpFR3JpQUVTY21yR01zUHZMQmxLMjRNbDd4cWx6NVNYY3lhQzgybzNkcUtINnMyZEN6eWdrNG41VnV4VEY3Rmd5STkwRWVFN2R5V1YyZlAtcnozakw1Y3pEWFVteG1hSE5wcXVCMmZBY21uaXRkd2FuMnd3Y0djUWZrZjdpWmh1SzFybw?oc=5",
+        "title": "BP reports profits in line with expectations, suspends buybacks - Reuters",
+        "summary": "BP reports profits in line with expectations, suspends buybacks Reuters"
+      },
+      {
+        "char": "🇯🇵",
+        "label": "japan's leader rescues her party",
+        "url": "https://www.nytimes.com/2026/02/09/world/asia/japan-election-takaichi-analysis.html",
+        "title": "How Japan’s Leader, Sanae Takaichi, Rescued Her Party from the Abyss",
+        "summary": "Sanae Takaichi, Japan’s first female prime minister, harnessed her personal popularity and a shift to the right among voters to achieve a record election win."
+      },
+      {
+        "char": "🚤",
+        "label": "migrant boat capsizes in mediterranean",
+        "url": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
+        "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
+        "summary": "Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libyan coast, the UN migration agency said on Monda..."
+      },
+      {
+        "char": "📉",
+        "label": "barclays reports profit rise and targets",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYS1VOV9kVk1sWW1BQ3d5MEppb0poajRXX2o3bjdqY1ptTG1YeTRVejVONWlTUGt1SHpTc29fYmU1OWV2ektDOGhQcHpINC1pMUtQck1BNkJtb3E0bFp6bDBxcHhuQlY4SDNTNHM1VXFzRy1oc2Q1ZTF3MGlUVUlabmt4cEd3cW1CN1dYZVg4N0VsTWRGenhzRWZNeUdEVG96Vi1fZTJ3cXpGZ1Zfd0tuSHVOVQ?oc=5",
+        "title": "Barclays reports annual profit rise of 12%, announces new targets - Reuters",
+        "summary": "Barclays reports annual profit rise of 12%, announces new targets Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
