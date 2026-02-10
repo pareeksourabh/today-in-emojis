@@ -21251,5 +21251,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-10",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "drone attack in sudan kills 24",
+        "url": "https://www.theguardian.com/world/2026/feb/07/sudan-rsf-drone-attack-rahad-kills-displaced-people",
+        "title": "RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group",
+        "summary": "Eight children including two infants among dead in vehicle carrying displaced people, says Sudan Doctors Network A drone attack by a paramilitary group has hit a vehicle carrying displaced families in central Sudan, killing at least 24 p..."
+      },
+      {
+        "char": "🎤",
+        "label": "chappell roan leaves talent agency",
+        "url": "https://www.bbc.com/news/articles/cewz1keql5no?at_medium=RSS&at_campaign=rss",
+        "title": "Chappell Roan leaves talent agency led by Casey Wasserman after Epstein fallout",
+        "summary": "Wasserman's flirtatious emails to Ghislaine Maxwell were revealed in the Epstein files."
+      },
+      {
+        "char": "🍈",
+        "label": "malaysian farmers face durian turmoil",
+        "url": "https://www.nytimes.com/2026/02/10/world/asia/durian-malaysia-china-demand.html",
+        "title": "A Shift in Chinese Taste for Durian Throws Malaysian Farmers Into Turmoil",
+        "summary": "Malaysian durian farmers saw immense profits over the last decade as China snapped up their produce. But tastes have shifted."
+      },
+      {
+        "char": "🌍",
+        "label": "macron urges europe to act as power",
+        "url": "https://www.bbc.com/news/articles/ce8n1zdnpd3o?at_medium=RSS&at_campaign=rss",
+        "title": "Macron urges Europe to start acting like world power",
+        "summary": "The French president warns of growing threats from China, Russia and now the US, saying Europe faces a \"wake-up call\"."
+      },
+      {
+        "char": "🌌",
+        "label": "cancellation of chile sky project celebrated",
+        "url": "https://www.theguardian.com/world/2026/feb/10/project-cancelled-chile-worlds-clearest-skies",
+        "title": "Astronomers celebrate cancellation of $10bn Chile project that threatened clearest skies in the world",
+        "summary": "Astronomers had warned that proximity of INNA facility to telescopes would have irreparably damaged observation The scientific community is celebrating the cancellation of a project which would have threatened the clearest skies in the w..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
