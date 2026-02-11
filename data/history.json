@@ -21471,5 +21471,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-11",
+    "emojis": [
+      {
+        "char": "🛩️",
+        "label": "us reopens airspace over texas",
+        "url": "https://www.bbc.com/news/articles/cqxdwjn578do?at_medium=RSS&at_campaign=rss",
+        "title": "US reopens airspace over Texas border town after 'drone incursion'",
+        "summary": "The FAA had closed the airspace around El Paso for more than a week citing security measures, but then quickly said flights could resume."
+      },
+      {
+        "char": "💉",
+        "label": "moderna shares fall after fda decline",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdlcyemNIZDNxUGE0WjRmX2JWTHZlbWE4OGZPdVJpbERTYWZudXBTd3dyY2w3ZEJuR2JBSXhZWjVoN19pZ0o4dk5qYVhIdG11cWVzak5lazYwRDE0Um5fcXAxcEZ0cjYtSURlQkVTTTRTaVEzS2FITVJpUWR5RVlSSUNKVWtpRHpJdjVnY3BucXhHbTJaNi1OazU2QnNXSzZFVmxnNmpMMktSNjZNeWNUcW5vV0ZBcGxkUlI4bXZNMzR5WldDVXFOWUlEZ28?oc=5",
+        "title": "Moderna shares fall as FDA declines to review new flu vaccine - Reuters",
+        "summary": "Moderna shares fall as FDA declines to review new flu vaccine Reuters"
+      },
+      {
+        "char": "🚀",
+        "label": "eutelsat secures financing for satellites",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZjF3TUh4dXh2aGRWS3UyRnhNeDNDclFyRWtNVjFfQm0wMWtFRVZnX19PbWh5UHdqS2MxX29JdW52RnlaYWFmeHIxMDF4UUJYR096NkhsSHZLMERqSEZSUnZVVkhES1BZem96YmVZZmlSbU1RS2hLN0V3X1d2YXhLTEdHQThaMkR2Sjl0UE9QZzRBc1djZHBmUHZiZ2xqYkxoUkFhWm9La0VNTFZOVk9STDZXbTJ0QW8?oc=5",
+        "title": "Eutelsat secures 1 billion euros financing for Oneweb Satellite Procurement - Reuters",
+        "summary": "Eutelsat secures 1 billion euros financing for Oneweb Satellite Procurement Reuters"
+      },
+      {
+        "char": "🇺🇦",
+        "label": "russia nears capture of key ukrainian towns",
+        "url": "https://www.nytimes.com/2026/02/10/world/europe/russia-ukraine-battlefield-huliaipole-pokrovsk.html",
+        "title": "Russia Nears Capture of Key Ukrainian Towns After Year of Grinding Assaults",
+        "summary": "Russian troops have advanced at a glacial pace in recent months, but gains in southern and eastern Ukraine could give Moscow an edge in U.S.-mediated peace talks."
+      },
+      {
+        "char": "🏙️",
+        "label": "homeless shiver on streets of milan",
+        "url": "https://www.nytimes.com/2026/02/11/world/europe/olympics-homeless-milan.html",
+        "title": "Away From Pomp of Olympics, Homeless Shiver on Streets of Milan",
+        "summary": "Six homeless people have died in the Italian city in recent weeks, highlighting the widening inequality as the Games unfold there."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
