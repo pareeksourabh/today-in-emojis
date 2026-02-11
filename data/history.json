@@ -21427,5 +21427,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-11",
+    "emojis": [
+      {
+        "char": "💉",
+        "label": "moderna flu vaccine review declined",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdlcyemNIZDNxUGE0WjRmX2JWTHZlbWE4OGZPdVJpbERTYWZudXBTd3dyY2w3ZEJuR2JBSXhZWjVoN19pZ0o4dk5qYVhIdG11cWVzak5lazYwRDE0Um5fcXAxcEZ0cjYtSURlQkVTTTRTaVEzS2FITVJpUWR5RVlSSUNKVWtpRHpJdjVnY3BucXhHbTJaNi1OazU2QnNXSzZFVmxnNmpMMktSNjZNeWNUcW5vV0ZBcGxkUlI4bXZNMzR5WldDVXFOWUlEZ28?oc=5",
+        "title": "Moderna shares fall as FDA declines to review new flu vaccine - Reuters",
+        "summary": "Moderna shares fall as FDA declines to review new flu vaccine Reuters"
+      },
+      {
+        "char": "🕵️‍♂",
+        "label": "man released in guthrie case",
+        "url": "https://www.bbc.com/news/articles/cr5l4yy3ezmo?at_medium=RSS&at_campaign=rss",
+        "title": "Police release man detained in connection to Nancy Guthrie disappearance",
+        "summary": "Police had searched the home of the person, who was taken into custody at a traffic stop."
+      },
+      {
+        "char": "🇮🇱",
+        "label": "israeli president's visit sparks protests",
+        "url": "https://www.nytimes.com/2026/02/10/world/australia/australia-herzog-protest-violence.html",
+        "title": "How the Israeli President’s Visit to Australia Created a ‘Tinder Box’",
+        "summary": "Isaac Herzog’s trip led to widespread rallies and tested the restrictions on protests that Australia installed after a deadly attack on a Jewish celebration."
+      },
+      {
+        "char": "🔗",
+        "label": "mandelson ties to epstein revealed",
+        "url": "https://www.nytimes.com/2026/02/10/world/europe/ties-peter-mandelson-jeffrey-epstein.html",
+        "title": "The Ties That Bound the UK’s ‘Prince of Darkness’ Peter Mandelson to Jeffrey Epstein",
+        "summary": "For years Peter Mandelson, a senior British politician, concealed the depth of his friendship with the convicted sex offender Jeffrey Epstein, until new files were released."
+      },
+      {
+        "char": "🔫",
+        "label": "canada school shooting leaves 10 dead",
+        "url": "https://www.theguardian.com/world/2026/feb/11/canada-school-shooting-ten-dead-including-suspect-in-attack-on-tumbler-ridge-secondary-school-and-residence-police-say",
+        "title": "Canada shooting: 10 dead including suspect in attack on Tumbler Ridge high school, police say",
+        "summary": "More than 25 people are injured, including two with life-threatening injuries, after shooting at secondary school and local residence Tumbler Ridge school shooting: latest updates What we know so far about the Tumbler Ridge shooting Nine..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
