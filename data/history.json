@@ -21295,5 +21295,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-11",
+    "emojis": [
+      {
+        "char": "🎶",
+        "label": "ebo taylor, highlife pioneer dies",
+        "url": "https://www.theguardian.com/music/2026/feb/09/ebo-taylor-ghanaian-highlife-pioneer-dies-age-90",
+        "title": "Ebo Taylor, Ghanaian highlife pioneer and guitarist, dies age 90",
+        "summary": "Taylor, who did for Ghanaian music what his friend Fela Kuti did for Nigeria, has been called the greatest rhythm guitarist in history Ghanaian musician Ebo Taylor, a definitive force behind the highlife genre, has died age 90. His son K..."
+      },
+      {
+        "char": "📉",
+        "label": "malawi businesses protest tax changes",
+        "url": "https://www.theguardian.com/global-development/2026/feb/07/businesses-close-protest-malawi-tax-changes-electronic-invoicing-system",
+        "title": "Thousands of Malawi businesses close in protest over tax changes",
+        "summary": "Peaceful demonstrations force a delay in measures aimed at improving revenue collection but which many fear will be fatal for small traders Demonstrations across Malawi’s four main cities during the past week have achieved a delay in the..."
+      },
+      {
+        "char": "✈️",
+        "label": "pilot praised for crash-landing plane",
+        "url": "https://www.bbc.com/news/articles/c2d1pz3pxewo?at_medium=RSS&at_campaign=rss",
+        "title": "Pilot praised after crash-landing faulty Somali passenger plane on seashore",
+        "summary": "All 55 people on board survived after the plane failed to land on the runway near the shoreline."
+      },
+      {
+        "char": "⚖️",
+        "label": "french teacher charged with abuse",
+        "url": "https://www.bbc.com/news/articles/czx4dnky0dzo?at_medium=RSS&at_campaign=rss",
+        "title": "French former teacher charged with abusing 89 teens dating back to 1960s",
+        "summary": "Jacques Leveugle allegedly kept a diary of the abuse which also spanned several countries, prompting police to appeal for more victims to come forward."
+      },
+      {
+        "char": "🌍",
+        "label": "spain and portugal hit by deadly storm",
+        "url": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
+        "title": "Weather tracker: Spain and Portugal hit by third deadly storm in two weeks",
+        "summary": "Storm Marta sweeps Iberian peninsula just days after Storms Kristin and Leonardo brought deadly flooding and major damage Spain and Portugal have endured another storm over the weekend, just days after the deadly flooding and major damag..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
