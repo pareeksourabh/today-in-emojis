@@ -21339,5 +21339,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-11",
+    "emojis": [
+      {
+        "char": "⚔️",
+        "label": "us military strike in pacific",
+        "url": "https://www.theguardian.com/us-news/2026/feb/09/us-military-strike-pacific",
+        "title": "US says two people killed in military strike on boat in Pacific",
+        "summary": "Officials say rescuers searching for lone survivor after latest attack on what Pentagon says are suspected drug smugglers The US military’s Southern Command, which oversee operations in Latin America and the Caribbean, announced that it..."
+      },
+      {
+        "char": "🕊️",
+        "label": "hamas draft plan for weapons",
+        "url": "https://www.nytimes.com/2026/02/10/world/middleeast/hamas-weapons-draft-plan.html",
+        "title": "Hamas Would Keep Some Weapons Initially in Draft Gaza Plan",
+        "summary": "Israel is unlikely to withdraw its troops from the enclave before Hamas and other militant groups lay down their arms."
+      },
+      {
+        "char": "👨‍🏫",
+        "label": "teacher charged with abuse",
+        "url": "https://www.bbc.com/news/articles/czx4dnky0dzo?at_medium=RSS&at_campaign=rss",
+        "title": "French former teacher charged with abusing 89 teens dating back to 1960s",
+        "summary": "Jacques Leveugle allegedly kept a diary of the abuse which also spanned several countries, prompting police to appeal for more victims to come forward."
+      },
+      {
+        "char": "🔫",
+        "label": "israelis protest gun crime",
+        "url": "https://www.nytimes.com/2026/02/10/world/middleeast/israelis-protest-surge-in-gun-crime-within-arab-community.html",
+        "title": "Israelis Protest Surge in Gun Crime Within Arab Community",
+        "summary": "Palestinian and Jewish citizens of Israel joined forces to demand government action in the face of a spiraling death toll from criminal violence among Arabs."
+      },
+      {
+        "char": "🌪️",
+        "label": "spain hit by deadly storm",
+        "url": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
+        "title": "Weather tracker: Spain and Portugal hit by third deadly storm in two weeks",
+        "summary": "Storm Marta sweeps Iberian peninsula just days after Storms Kristin and Leonardo brought deadly flooding and major damage Spain and Portugal have endured another storm over the weekend, just days after the deadly flooding and major damag..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
