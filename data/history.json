@@ -21559,5 +21559,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-12",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "us house votes to overturn tariffs",
+        "url": "https://www.bbc.com/news/articles/clyz2142e77o?at_medium=RSS&at_campaign=rss",
+        "title": "US House votes to overturn Trump's tariffs on Canada",
+        "summary": "Six Republican lawmakers joined Democrats to back a resolution that seeks to end the tariffs Trump imposed on Canada last year."
+      },
+      {
+        "char": "🔫",
+        "label": "canada school shooting leaves nine dead",
+        "url": "https://www.theguardian.com/world/2026/feb/11/canada-school-shooting-ten-dead-including-suspect-in-attack-on-tumbler-ridge-secondary-school-and-residence-police-say",
+        "title": "Canada shooting: Nine dead including suspect in attack on Tumbler Ridge high school, police say",
+        "summary": "More than 25 people injured, including two with life-threatening injuries, after shooting at secondary school and local residence Tumbler Ridge school shooting: latest updates What we know so far about the Tumbler Ridge shooting Nine peo..."
+      },
+      {
+        "char": "🤖",
+        "label": "pentagon pushes ai expansion on networks",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0U1RXJEbmlES18yOTNLc0x4VlNzYS0yYzhWS0dGbjlLTklPQnRlZUZ5QVowNVU5LTlfYmtkREFNa01oSGNiSUpXc2xqODFpby1BdzZlV0ZNQ2pjdTNMWTJKUmFsUFNiRlc4TWJmSzhSMVIzZEVfUnEtS0xfOTlRUlRZUFBWR2VsR2xLTDNqd204WFctTWpVOEMwQ29tQ0c2dVhhUVoteWJmRjlDVmxwSFJEVQ?oc=5",
+        "title": "Exclusive: Pentagon pushing AI companies to expand on classified networks, sources say - Reuters",
+        "summary": "Exclusive: Pentagon pushing AI companies to expand on classified networks, sources say Reuters"
+      },
+      {
+        "char": "🧑‍🎤",
+        "label": "uk police investigate prince andrew",
+        "url": "https://www.nytimes.com/2026/02/11/world/europe/epstein-prince-andrew-uk-investigation.html",
+        "title": "U.K. Police Weigh Whether to Formally Investigate Former Prince Andrew Over Epstein Accusations",
+        "summary": "The police are weighing whether to formally investigate Andrew Mountbatten-Windsor over accusations he shared confidential information with Jeffrey Epstein."
+      },
+      {
+        "char": "🏚️",
+        "label": "homeless shiver on streets of milan",
+        "url": "https://www.nytimes.com/2026/02/11/world/europe/olympics-homeless-milan.html",
+        "title": "Away From Pomp of Olympics, Homeless Shiver on Streets of Milan",
+        "summary": "Six homeless people have died in the Italian city in recent weeks, highlighting the widening inequality as the Games unfold there."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
