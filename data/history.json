@@ -21647,5 +21647,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-12",
+    "emojis": [
+      {
+        "char": "🎭",
+        "label": "olympic figure skating copyright issues",
+        "url": "https://www.nytimes.com/2026/02/12/world/europe/winter-olympics-figure-skating-music-copyright.html",
+        "title": "Olympic Figure Skaters Are on Thin Ice Over Music Copyright Rules",
+        "summary": "Several athletes have found themselves caught up in controversies over musical choices before and during one of the biggest competitions of their careers."
+      },
+      {
+        "char": "🔫",
+        "label": "canadian school shooting tragedy",
+        "url": "https://www.theguardian.com/world/2026/feb/11/tumbler-ridge-canada-shooting-school-mark-carney",
+        "title": "Canadian police identify suspect in school massacre that left nine dead",
+        "summary": "A teacher and five students among those killed in attack in Tumbler Ridge, British Columbia, on Tuesday Canadian police have identified the suspect who carried out a school massacre in remote British Columbia as an 18-year old with a his..."
+      },
+      {
+        "char": "🌊",
+        "label": "boat tragedy in sudan",
+        "url": "https://www.bbc.com/news/articles/cp851zp41m5o?at_medium=RSS&at_campaign=rss",
+        "title": "At least 21 dead after boat sinks on Sudan's River Nile",
+        "summary": "Search efforts are continuing for the missing passengers, who included children."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran revolution anniversary",
+        "url": "https://www.nytimes.com/2026/02/11/world/europe/iran-revolution-anniversary.html",
+        "title": "Iran Commemorates Revolution, With U.S. Warships Lurking Off the Coast",
+        "summary": "The authoritarian clerical regime in Tehran came to power in 1979. Today, it presides over a country that is deeply polarized and under threat of an American attack."
+      },
+      {
+        "char": "📚",
+        "label": "orhan pamuk's netflix series",
+        "url": "https://www.nytimes.com/2026/02/12/world/europe/orhan-pamuk-istanbul-turkey-museum-of-innocence.html",
+        "title": "Turkish Nobel Novelist Orhan Pamuk Gets the Netflix Series He Wanted",
+        "summary": "After publishing more than 20 books and winning a Nobel Prize, the Turkish author fought to bring a celebrated novel to the screen — on his own terms."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
