@@ -21691,5 +21691,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-12",
+    "emojis": [
+      {
+        "char": "👧",
+        "label": "kim jong un names daughter as heir",
+        "url": "https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss",
+        "title": "Kim Jong Un chooses teen daughter as heir, says Seoul",
+        "summary": "South Korea's spy agency says Ki Ju Ae's prominent public presence indicates she is the chosen heir."
+      },
+      {
+        "char": "🔫",
+        "label": "tumbler ridge shooting in canada",
+        "url": "https://www.nytimes.com/2026/02/11/world/americas/canada-tumbler-ridge-shooting.html",
+        "title": "Tumbler Ridge Shooting: What We Know About the Deadly Mass Shooting in Canada",
+        "summary": "The police identified an 18-year-old as the suspect believed to have fatally shot eight people in Tumbler Ridge, British Columbia, before killing herself."
+      },
+      {
+        "char": "🇺🇸",
+        "label": "trump nominee faces scrutiny",
+        "url": "https://www.theguardian.com/us-news/2026/feb/12/trump-nominee-jeremy-carl-racist-views",
+        "title": "Trump’s pick for top diplomatic role faces scrutiny over ‘white supremacist’ views",
+        "summary": "Jeremy Carl, assistant secretary of state nominee, has espoused ‘racist, antisemitic’ views, says non-profit leader US politics live – latest updates Donald Trump ’s pick for a top diplomatic post has championed “white supremacist, racis..."
+      },
+      {
+        "char": "⛸️",
+        "label": "olympic figure skating copyright issues",
+        "url": "https://www.nytimes.com/2026/02/12/world/europe/winter-olympics-figure-skating-music-copyright.html",
+        "title": "Olympic Figure Skaters Are on Thin Ice Over Music Copyright Rules",
+        "summary": "Some Olympic athletes have found themselves caught up in controversies over musical choices before and during one of the biggest competitions of their careers."
+      },
+      {
+        "char": "🌪️",
+        "label": "spain and portugal hit by deadly storm",
+        "url": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
+        "title": "Weather tracker: Spain and Portugal hit by third deadly storm in two weeks",
+        "summary": "Storm Marta sweeps Iberian peninsula just days after Storms Kristin and Leonardo brought deadly flooding and major damage Spain and Portugal have endured another storm over the weekend, just days after the deadly flooding and major damag..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
