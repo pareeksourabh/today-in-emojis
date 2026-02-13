@@ -1,64 +1,43 @@
 {
-  "date": "2026-02-12",
-  "timestamp": "2026-02-12T16:43:45Z",
+  "date": "2026-02-13",
+  "timestamp": "2026-02-13T01:24:24Z",
   "emojis": [
     {
-      "char": "👧",
-      "label": "kim jong un names daughter as heir",
-      "url": "https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss",
-      "title": "Kim Jong Un chooses teen daughter as heir, says Seoul",
-      "summary": "South Korea's spy agency says Ki Ju Ae's prominent public presence indicates she is the chosen heir."
+      "char": "🎸",
+      "label": "ebo taylor, highlife pioneer dies",
+      "url": "https://www.theguardian.com/music/2026/feb/09/ebo-taylor-ghanaian-highlife-pioneer-dies-age-90",
+      "title": "Ebo Taylor, Ghanaian highlife pioneer and guitarist, dies age 90",
+      "summary": "Taylor, who did for Ghanaian music what his friend Fela Kuti did for Nigeria, has been called the greatest rhythm guitarist in history Ghanaian musician Ebo Taylor, a definitive force behind the highlife genre, has died age 90. His son K..."
     },
     {
-      "char": "🔫",
-      "label": "tumbler ridge shooting in canada",
-      "url": "https://www.nytimes.com/2026/02/11/world/americas/canada-tumbler-ridge-shooting.html",
-      "title": "Tumbler Ridge Shooting: What We Know About the Deadly Mass Shooting in Canada",
-      "summary": "The police identified an 18-year-old as the suspect believed to have fatally shot eight people in Tumbler Ridge, British Columbia, before killing herself."
+      "char": "🌍",
+      "label": "israel's role in africa explored",
+      "url": "https://www.nytimes.com/2026/02/12/world/africa/israel-somaliland-mideast-trump.html",
+      "title": "What is Israel Doing in Africa?",
+      "summary": "The region has become a critical theater for global rivalries amid Israel’s recognition of breakaway Somaliland and Washington’s counterterrorism efforts."
     },
     {
-      "char": "🇺🇸",
-      "label": "trump nominee faces scrutiny",
-      "url": "https://www.theguardian.com/us-news/2026/feb/12/trump-nominee-jeremy-carl-racist-views",
-      "title": "Trump’s pick for top diplomatic role faces scrutiny over ‘white supremacist’ views",
-      "summary": "Jeremy Carl, assistant secretary of state nominee, has espoused ‘racist, antisemitic’ views, says non-profit leader US politics live – latest updates Donald Trump ’s pick for a top diplomatic post has championed “white supremacist, racis..."
+      "char": "🚤",
+      "label": "migrant boat tragedy in mediterranean",
+      "url": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
+      "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
+      "summary": "Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libyan coast, the UN migration agency said on Monda..."
     },
     {
-      "char": "⛸️",
-      "label": "olympic figure skating copyright issues",
-      "url": "https://www.nytimes.com/2026/02/12/world/europe/winter-olympics-figure-skating-music-copyright.html",
-      "title": "Olympic Figure Skaters Are on Thin Ice Over Music Copyright Rules",
-      "summary": "Some Olympic athletes have found themselves caught up in controversies over musical choices before and during one of the biggest competitions of their careers."
+      "char": "📉",
+      "label": "pinterest revenue forecast downbeat",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVRjLWJFZlctRmNzOWFrWnlTMDFuNEJmeXpGSEI1RG5wSk96RmhPTjdRak5CZ3lJWm9ZaWhWUzVCUC1EV2lGdVhaLVQ4NU91QW5WQXBOTjVjcWdQR21MRm9IOENDRC1uZTVPTlVjV1RIQ0dUVEtaMjJ2dEREbUFkdzN0LTBxbzV2MkhjZ01TUlk5b09JYl81SHlBYXotRkE2TG1IZlZrSV9rdTVETmRRUFU1YnJMU0Fod3ptaHNMTVd6SHZidnFaX1dwWTFWeDlqUnNfWUJB?oc=5",
+      "title": "Pinterest forecasts downbeat revenue as it battles for digital ad dollars; shares plunge - Reuters",
+      "summary": "Pinterest forecasts downbeat revenue as it battles for digital ad dollars; shares plunge Reuters"
     },
     {
-      "char": "🌪️",
-      "label": "spain and portugal hit by deadly storm",
-      "url": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
-      "title": "Weather tracker: Spain and Portugal hit by third deadly storm in two weeks",
-      "summary": "Storm Marta sweeps Iberian peninsula just days after Storms Kristin and Leonardo brought deadly flooding and major damage Spain and Portugal have endured another storm over the weekend, just days after the deadly flooding and major damag..."
+      "char": "🗳️",
+      "label": "venezuela protests for change",
+      "url": "https://www.theguardian.com/world/2026/feb/12/venezuela-protests-activists-nicolas-maduro-donald-trump-caracas",
+      "title": "‘Big step forwards’: emboldened activists take to the streets of Venezuela",
+      "summary": "Protesters are enjoying greater freedom of expression since Nicolás Maduro’s downfall despite lack of regime change Protesters have taken to the streets of cities across Venezuela in the latest sign of an embryonic political shift after..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "The day's news is marked by tragic events, including a mass shooting in Canada and severe storms causing devastation in Spain and Portugal, creating a heavy atmosphere of sorrow.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

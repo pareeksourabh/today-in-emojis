@@ -21735,5 +21735,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-13",
+    "emojis": [
+      {
+        "char": "🎸",
+        "label": "ebo taylor, highlife pioneer dies",
+        "url": "https://www.theguardian.com/music/2026/feb/09/ebo-taylor-ghanaian-highlife-pioneer-dies-age-90",
+        "title": "Ebo Taylor, Ghanaian highlife pioneer and guitarist, dies age 90",
+        "summary": "Taylor, who did for Ghanaian music what his friend Fela Kuti did for Nigeria, has been called the greatest rhythm guitarist in history Ghanaian musician Ebo Taylor, a definitive force behind the highlife genre, has died age 90. His son K..."
+      },
+      {
+        "char": "🌍",
+        "label": "israel's role in africa explored",
+        "url": "https://www.nytimes.com/2026/02/12/world/africa/israel-somaliland-mideast-trump.html",
+        "title": "What is Israel Doing in Africa?",
+        "summary": "The region has become a critical theater for global rivalries amid Israel’s recognition of breakaway Somaliland and Washington’s counterterrorism efforts."
+      },
+      {
+        "char": "🚤",
+        "label": "migrant boat tragedy in mediterranean",
+        "url": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
+        "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
+        "summary": "Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libyan coast, the UN migration agency said on Monda..."
+      },
+      {
+        "char": "📉",
+        "label": "pinterest revenue forecast downbeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVRjLWJFZlctRmNzOWFrWnlTMDFuNEJmeXpGSEI1RG5wSk96RmhPTjdRak5CZ3lJWm9ZaWhWUzVCUC1EV2lGdVhaLVQ4NU91QW5WQXBOTjVjcWdQR21MRm9IOENDRC1uZTVPTlVjV1RIQ0dUVEtaMjJ2dEREbUFkdzN0LTBxbzV2MkhjZ01TUlk5b09JYl81SHlBYXotRkE2TG1IZlZrSV9rdTVETmRRUFU1YnJMU0Fod3ptaHNMTVd6SHZidnFaX1dwWTFWeDlqUnNfWUJB?oc=5",
+        "title": "Pinterest forecasts downbeat revenue as it battles for digital ad dollars; shares plunge - Reuters",
+        "summary": "Pinterest forecasts downbeat revenue as it battles for digital ad dollars; shares plunge Reuters"
+      },
+      {
+        "char": "🗳️",
+        "label": "venezuela protests for change",
+        "url": "https://www.theguardian.com/world/2026/feb/12/venezuela-protests-activists-nicolas-maduro-donald-trump-caracas",
+        "title": "‘Big step forwards’: emboldened activists take to the streets of Venezuela",
+        "summary": "Protesters are enjoying greater freedom of expression since Nicolás Maduro’s downfall despite lack of regime change Protesters have taken to the streets of cities across Venezuela in the latest sign of an embryonic political shift after..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
