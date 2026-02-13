@@ -1,41 +1,41 @@
 {
   "date": "2026-02-13",
-  "timestamp": "2026-02-13T05:24:03Z",
+  "timestamp": "2026-02-13T08:50:02Z",
   "emojis": [
     {
+      "char": "📉",
+      "label": "cbs news layoffs of 15% staff",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdS1ZaC1TeFNXYzhqTzFnSVdmbG05ZDJuNEw1NWJtYjRpcHFNQjVKWGJ0aEJmNVpjTXE5YWZfamhrRkowX2s5VURkckpxbVo3MDNhTWdXT2g5ZWxISGVmQWREektJOFZ5ZlV1dHVxVEt5SnZhYWx5Tk0wRFNvX20tZ0JKdGFhNjc4N3JEd013V2RsZ09iVVRHdkxTMXpUZjBBM2tLdGlCNVZQRHpfRDVmblR1cHVEYU1hT01LRVJSZXBMRGc1YWctUmlnWTJCd0Rn?oc=5",
+      "title": "CBS News considering new round of layoffs, could cut at least 15% of staff, Variety says - Reuters",
+      "summary": "CBS News considering new round of layoffs, could cut at least 15% of staff, Variety says Reuters"
+    },
+    {
+      "char": "🚢",
+      "label": "japan seizes chinese fishing boat",
+      "url": "https://www.nytimes.com/2026/02/13/world/asia/japan-seizes-chinese-boat.html",
+      "title": "Japan Seizes Chinese Fishing Boat; Move Likely to Add to Tensions",
+      "summary": "The seizure of the trawler, which Japan said was sailing in its waters in the East China Sea, is likely to add to tensions between Tokyo and Beijing."
+    },
+    {
       "char": "🌍",
-      "label": "what is israel doing in africa?",
-      "url": "https://www.nytimes.com/2026/02/12/world/africa/israel-somaliland-mideast-trump.html",
-      "title": "What is Israel Doing in Africa?",
-      "summary": "The region has become a critical theater for global rivalries amid Israel’s recognition of breakaway Somaliland and Washington’s counterterrorism efforts."
+      "label": "ebo taylor, highlife pioneer dies",
+      "url": "https://www.theguardian.com/music/2026/feb/09/ebo-taylor-ghanaian-highlife-pioneer-dies-age-90",
+      "title": "Ebo Taylor, Ghanaian highlife pioneer and guitarist, dies age 90",
+      "summary": "Taylor, who did for Ghanaian music what his friend Fela Kuti did for Nigeria, has been called the greatest rhythm guitarist in history Ghanaian musician Ebo Taylor, a definitive force behind the highlife genre, has died age 90. His son K..."
     },
     {
-      "char": "💰",
-      "label": "fed policy tighter than thought",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUTdaRXBaNTBDOE41blZfNnFtWWdkUjVHMWlyNzhXc2RrZ1MzZno0d21DT1lVZ181eFdhZ1NDZmd1TW1EajVPUTZKWi1fbFZSVW1lVXJWWnY2c1pTWXBQekdQMFZHZy1GaElFeEMzV2g3dmNaVFcyM3g2LW5qNmc2Z2RUNGFJLUZ6YnFKVVo5YzBDU0FZenExVmdvMUlJbnQ4TWFhVmlmcUlzT1Zja3A2NGl3?oc=5",
-      "title": "Fed policy is tighter than thought, inflation not a problem, Miran says - Reuters",
-      "summary": "Fed policy is tighter than thought, inflation not a problem, Miran says Reuters"
+      "char": "🚁",
+      "label": "drones used by drug cartels at border?",
+      "url": "https://www.nytimes.com/2026/02/12/world/americas/mexico-drone-border-cartels.html",
+      "title": "Do Drug Cartels Actually Use Drones at the Border?",
+      "summary": "U.S. officials warn that cartel-operated drones on the border pose a major threat. Mexican officials are less certain. Analysts say the answer is likely in between."
     },
     {
-      "char": "⚛️",
-      "label": "iran fortifies nuclear site",
-      "url": "https://www.bbc.com/news/articles/cwygxz81330o?at_medium=RSS&at_campaign=rss",
-      "title": "Iran fortifies underground complex near nuclear site, satellite images show",
-      "summary": "The activity comes at a time of heightened tensions as talks between Iranian and US officials continue over Iran's nuclear programme."
-    },
-    {
-      "char": "👧",
-      "label": "kim jong un chooses daughter as heir",
-      "url": "https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss",
-      "title": "Kim Jong Un chooses teen daughter as heir, says Seoul",
-      "summary": "South Korea's spy agency says Ki Ju Ae's prominent public presence indicates she is the chosen heir."
-    },
-    {
-      "char": "🚤",
-      "label": "migrant boat capsizes in mediterranean",
-      "url": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
-      "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
-      "summary": "Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libyan coast, the UN migration agency said on Monda..."
+      "char": "🌀",
+      "label": "spain and portugal hit by deadly storm",
+      "url": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
+      "title": "Weather tracker: Spain and Portugal hit by third deadly storm in two weeks",
+      "summary": "Storm Marta sweeps Iberian peninsula just days after Storms Kristin and Leonardo brought deadly flooding and major damage Spain and Portugal have endured another storm over the weekend, just days after the deadly flooding and major damag..."
     }
   ],
   "source": "ai-openai",
