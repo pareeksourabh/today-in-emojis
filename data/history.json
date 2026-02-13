@@ -21911,5 +21911,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-13",
+    "emojis": [
+      {
+        "char": "🎸",
+        "label": "ebo taylor, highlife pioneer dies",
+        "url": "https://www.theguardian.com/music/2026/feb/09/ebo-taylor-ghanaian-highlife-pioneer-dies-age-90",
+        "title": "Ebo Taylor, Ghanaian highlife pioneer and guitarist, dies age 90",
+        "summary": "Taylor, who did for Ghanaian music what his friend Fela Kuti did for Nigeria, has been called the greatest rhythm guitarist in history Ghanaian musician Ebo Taylor, a definitive force behind the highlife genre, has died age 90. His son K..."
+      },
+      {
+        "char": "🏅",
+        "label": "wives compete in scary olympic sport",
+        "url": "https://www.nytimes.com/2026/02/13/world/europe/kim-meylemans-nicole-silveira-wives-olympics.html",
+        "title": "Heated Rivalry and Marital Bliss: Two Wives Go Head to Head in a Scary Olympic Sport",
+        "summary": "One represents Belgium and the other Brazil in skeleton, in which the racer slides near-blind down an ice track at well over 80 miles per hour."
+      },
+      {
+        "char": "🗳️",
+        "label": "bangladesh votes for constitutional change",
+        "url": "https://www.nytimes.com/2026/02/13/world/asia/bangladesh-election-referendum-constitution.html",
+        "title": "Bangladeshis Vote in Droves for Constitutional Change in Referendum",
+        "summary": "Eight out of 10 voters backed reforms intended to safeguard democracy and increase women’s participation in politics."
+      },
+      {
+        "char": "🚨",
+        "label": "venezuelan politician detained by ice",
+        "url": "https://www.nytimes.com/2026/02/13/world/americas/carlos-roberto-garcia-asylum-ice-venezuela.html",
+        "title": "Venezuelan Politician Living in Exile in the US is Detained by ICE",
+        "summary": "Carlos Roberto García, an ex-mayor opposed to the Maduro regime, fled Venezuela in 2017. He faces deportation to a country with a long history of punishing political dissidents."
+      },
+      {
+        "char": "🖼️",
+        "label": "leak damages painting at the louvre",
+        "url": "https://www.bbc.com/news/articles/c7951d1pgewo?at_medium=RSS&at_campaign=rss",
+        "title": "Leak damages 19th Century painting in latest Louvre setback",
+        "summary": "A catalogue of incidents at the world's most visited museum have placed museum bosses come under increasing scrutiny."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
