@@ -21867,5 +21867,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-13",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "munich security conference updates",
+        "url": "https://www.nytimes.com/live/2026/02/13/world/munich-security-conference",
+        "title": "Live Updates: Munich Security Conference Begins Amid Trans-Atlantic Turmoil",
+        "summary": "Some officials at Europe’s most influential security summit are hoping for a reprieve from President Trump’s blunt-force diplomacy. Others fear new disdain and recriminations."
+      },
+      {
+        "char": "💊",
+        "label": "sanofi's new ceo faces challenges",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY3Bqc0xyMUxuVlVOd3lRQnd6V01SLWQ1bFduckpWQUdIb3NpZUZzM3J4SWEwWUZXVFprcW5SZy1pNlJSaHdjeXN6TUZnS21hN3VaMXZ6dnlQdXZWMXRmaGRWcnB5Sm5ZZHA4S2s3ODBsQ2dpNlAxcTVjc1g3T2t3V0Jhb1VYMDlYRDJ3dEF5dlIyUjdWSWFtdDJZVlpLOGR2LTFBQmlZZ2lnU2RjaDRhVVhGTlZHXzdGTC1zci1ua0IzdUp2?oc=5",
+        "title": "Sanofi's new CEO needs to fix drug pipeline and navigate Trump - Reuters",
+        "summary": "Sanofi's new CEO needs to fix drug pipeline and navigate Trump Reuters"
+      },
+      {
+        "char": "🗳️",
+        "label": "tarique rahman elected leader",
+        "url": "https://www.nytimes.com/2026/02/13/world/asia/bangladesh-election-tarique-rahman.html",
+        "title": "Tarique Rahman Is Elected Bangladesh’s New Leader",
+        "summary": "Tarique Rahman, the scion of a political dynasty, returned to sweep his party into government with a promise of change. Some have doubts."
+      },
+      {
+        "char": "🚨",
+        "label": "canada school shooting suspect's home visits",
+        "url": "https://www.theguardian.com/world/2026/feb/12/police-visited-home-of-tumbler-ridge-suspect-multiple-times-over-mental-health-concerns",
+        "title": "Police visited home of Canada school shooting suspect multiple times over mental health concerns",
+        "summary": "Canadian authorities seized firearms from the residence approximately two years ago but later returned them Police have said they were called on multiple occasions to the home of the teenage suspect behind one of Canada’s deadliest schoo..."
+      },
+      {
+        "char": "🌊",
+        "label": "migrant boat tragedy in mediterranean",
+        "url": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
+        "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
+        "summary": "Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libyan coast, the UN migration agency said on Monda..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
