@@ -21955,5 +21955,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-14",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "impact of shutdown on airports",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzFJQVVFZ2dPcmE0M0NCU19HNktIZUNxaUdfbl94NkZKTDQ4U3FUX2Q1c1VORkdtdkpfOURheTJleE1zQ09FV3NLOXJESFBpak5lSkQ2OVNEUy15dEk2eWhpREN6Z3lBamFfU0t2Nm4tWlI5SXhFTlJPMVR3VGpnYnFUUzJxbzc3c2h3SkU2b1BiVjVqa1d2Zmw1eVhwb2dFVlZ6R3kxU296dXFjZExSSUVKUzUxMUFjTTJneDh5R0d1RXpsNUx3cUxpUDZadFdCckFWV0FR?oc=5",
+        "title": "Airlines, travel groups warn of impact of partial government shutdown on airport screeners - Reuters",
+        "summary": "Airlines, travel groups warn of impact of partial government shutdown on airport screeners Reuters"
+      },
+      {
+        "char": "🎮",
+        "label": "canada school deaths suspect",
+        "url": "https://www.theguardian.com/world/2026/feb/13/canada-school-deaths-suspect-created-shooting-simulator-roblox",
+        "title": "Canada school deaths suspect created shooting simulator on gaming platform",
+        "summary": "Roblox says it has removed account after massacre that left nine people including the shooter dead The 18-year-old suspect in a high school shooting in British Columbia had previously created a mass shooting simulator on the gaming platf..."
+      },
+      {
+        "char": "🌍",
+        "label": "macron on global stability",
+        "url": "https://www.nytimes.com/live/2026/02/13/world/munich-security-conference",
+        "title": "Macron Insists Europe Remains Central to Global Stability",
+        "summary": "President Emmanuel Macron stressed European “fortitude” while speaking at the Munich Security Conference."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "venezuela oil sales changes",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYlpIcnByOVNtTnFpeDhBZFJSYmJwd0F5MF9rajl1Nkg2NHBITE1GS0NQdXJzZFVDMXI0VWZpd2ZuYlFMWXJLUG9hU256N295RFhibFdZeXREQkJzU0lwaUxOcFhicEJqRDh3bGNmQjhtekZBOHhZa21jVWs5UG9uRGxYWWJJQ2xIUWI1aXNLb0tqdEw3YWpyeWZoaFJCSlRQRW5RVW5ORElqeE4wTmtVMTdpVzllOVVidXBvT1lxZl91T19JNWUxdw?oc=5",
+        "title": "Exclusive: Venezuela's PDVSA selling oil only to individually licensed companies, sources say - Reuters",
+        "summary": "Exclusive: Venezuela's PDVSA selling oil only to individually licensed companies, sources say Reuters"
+      },
+      {
+        "char": "🕊️",
+        "label": "hebron mayor on israel control",
+        "url": "https://www.bbc.com/news/articles/crl4ne5er5zo?at_medium=RSS&at_campaign=rss",
+        "title": "'We are not protected' says Hebron mayor as Israel expands West Bank control",
+        "summary": "Palestinians say an Israeli power grab shuts them out of decisions on planning and development in West Bank."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
