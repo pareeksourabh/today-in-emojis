@@ -22043,5 +22043,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-14",
+    "emojis": [
+      {
+        "char": "🎬",
+        "label": "paramount taps ex-trump official",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOWhXV3lLaWtPQXRkeVp2dktJWTdBc3RmbFg2MkJkMnVoSnJkckRmYzNBblBRSEhnTGQwVWwtaEVObGxsYU5Ub181U3U4WFh1aVZ3bTl6bVc4ZFZWcE43MF9tTDkwVlpuNzVPQkNhOTFjNFRGeUNvOUM5UDEtT21QWmQwT2lnc3h2MGpXTDZ1UFF3YmZ2bUI1ZlFwWXIzamdTZ1VTZzRsZjh5QmVRdFNEYWJ0RkdTV0g0QXpYeUtoVnVsY0JhYUM1aQ?oc=5",
+        "title": "Paramount taps ex-Trump official as public policy VP amid Warner Bros bid - Reuters",
+        "summary": "Paramount taps ex-Trump official as public policy VP amid Warner Bros bid Reuters"
+      },
+      {
+        "char": "🗳️",
+        "label": "tarique rahman elected leader",
+        "url": "https://www.nytimes.com/2026/02/13/world/asia/bangladesh-election-tarique-rahman.html",
+        "title": "Tarique Rahman Is Elected Bangladesh’s New Leader",
+        "summary": "Tarique Rahman, the scion of a political dynasty, returned to sweep his party into government with a promise of change. Some have doubts."
+      },
+      {
+        "char": "💼",
+        "label": "malawi businesses protest tax changes",
+        "url": "https://www.theguardian.com/global-development/2026/feb/07/businesses-close-protest-malawi-tax-changes-electronic-invoicing-system",
+        "title": "Thousands of Malawi businesses close in protest over tax changes",
+        "summary": "Peaceful demonstrations force a delay in measures aimed at improving revenue collection but which many fear will be fatal for small traders Demonstrations across Malawi’s four main cities during the past week have achieved a delay in the..."
+      },
+      {
+        "char": "🌍",
+        "label": "rubio addresses munich security conf.",
+        "url": "https://www.nytimes.com/live/2026/02/14/world/munich-security-conference-rubio",
+        "title": "Live Updates: Marco Rubio Addresses Munich Security Conference",
+        "summary": "European leaders were hoping for a relatively friendly speech from the secretary of state, whom they largely praise as a constructive partner on security issues."
+      },
+      {
+        "char": "🇮🇱",
+        "label": "israel expands west bank control",
+        "url": "https://www.bbc.com/news/articles/crl4ne5er5zo?at_medium=RSS&at_campaign=rss",
+        "title": "'We are not protected' says Hebron mayor as Israel expands West Bank control",
+        "summary": "Palestinians say an Israeli power grab shuts them out of decisions on planning and development in West Bank."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
