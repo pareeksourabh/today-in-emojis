@@ -22131,5 +22131,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-14",
+    "emojis": [
+      {
+        "char": "🇯🇵",
+        "label": "japan releases chinese captain",
+        "url": "https://www.nytimes.com/2026/02/14/world/asia/japan-china-boat-captain-release.html",
+        "title": "Japan Releases Chinese Boat Captain After Detaining Him for 30 Hours",
+        "summary": "The captain’s arrest had raised fears of a broader diplomatic confrontation between Japan and China, which have been at odds for months."
+      },
+      {
+        "char": "🕊️",
+        "label": "life in beirut beneath drones",
+        "url": "https://www.nytimes.com/2026/02/14/world/middleeast/beirut-drones-sound-israel-airstrikes.html",
+        "title": "Life in Beirut Beneath the Drones",
+        "summary": "More than a year into a cease-fire, the mechanical whir of Israeli drones above the Lebanese capital is a reminder that, in many ways, the war never really ended."
+      },
+      {
+        "char": "🗳️",
+        "label": "bangladesh's new leader elected",
+        "url": "https://www.nytimes.com/2026/02/13/world/asia/bangladesh-election-tarique-rahman.html",
+        "title": "Tarique Rahman Is Elected Bangladesh’s New Leader",
+        "summary": "Tarique Rahman, the scion of a political dynasty, returned to sweep his party into government with a promise of change. Some have doubts."
+      },
+      {
+        "char": "🌍",
+        "label": "brazil embraces polyamory",
+        "url": "https://www.nytimes.com/2026/02/14/world/americas/brazil-polyamory-non-monogamy-catholic.html",
+        "title": "Brazil, the World’s Largest Catholic Nation, Embraces Polyamory",
+        "summary": "More people in a still largely conservative and religious nation are rejecting monogamy as they seek new definitions of romance, and of family."
+      },
+      {
+        "char": "⚖️",
+        "label": "uk ban on palestine action unlawful",
+        "url": "https://www.nytimes.com/2026/02/13/world/europe/uk-palestine-action-ban-court-ruling.html",
+        "title": "UK Ban on Palestine Action Is Unlawful, Court Finds",
+        "summary": "The High Court said the ban on Palestine Action as a terrorist group was disproportionate and breached free speech rights. The government said it would appeal, and the ban remained in place for now."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
