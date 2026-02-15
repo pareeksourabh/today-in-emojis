@@ -1,7 +1,14 @@
 {
   "date": "2026-02-15",
-  "timestamp": "2026-02-15T13:02:35Z",
+  "timestamp": "2026-02-15T16:14:57Z",
   "emojis": [
+    {
+      "char": "🚨",
+      "label": "us deports nine migrants in secret",
+      "url": "https://www.nytimes.com/2026/02/14/world/africa/us-secret-deportation-cameroon.html",
+      "title": "U.S. Deports Nine Migrants in Secret, Ignoring Legal Protections",
+      "summary": "Most had court orders protecting them from removal to their home countries, so they were sent to detention in Cameroon."
+    },
     {
       "char": "🇨🇺",
       "label": "cuban crisis worsens with oil shortage",
@@ -10,32 +17,25 @@
       "summary": "Diplomats in Havana are preparing for an alternative Trump tactic: the country being starved until people take to the streets and the US can step in Among the verdant gardens of Havana’s diplomatic quarter, Siboney, ambassadors from coun..."
     },
     {
-      "char": "🛂",
-      "label": "venezuelan deportee fears return ordeal",
-      "url": "https://www.theguardian.com/us-news/2026/feb/14/venezuelan-illegally-deported-return-fears",
-      "title": "Venezuelan deportee can return to US but fears repeat of ordeal: ‘I’m not over that nightmare yet’",
-      "summary": "Luis Muñoz Pinto, 27, who was sent to notoriously brutal prison in El Salvador, would like to clear his name after US judge’s ruling A US federal judge’s order that some of the Venezuelan men sent by the Trump administration to a notorio..."
+      "char": "⚖️",
+      "label": "epstein files redactions under scrutiny",
+      "url": "https://www.nytimes.com/2026/02/14/world/europe/france-epstein-files.html",
+      "title": "French Prosecutors to Investigate Diplomat as Part of Epstein Probe",
+      "summary": "The Paris prosecutor’s office said it was looking into three new complaints with links to the files and revisiting an earlier investigation into an Epstein associate who died in 2022."
     },
     {
-      "char": "🇨🇦",
-      "label": "china's wang yi meets canadian minister",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMGFNN3JhTkNPMkhWdlhQZ2RwVXlGVzVZNDYwQTFCLTVsa1hVeEJSVHczY0JCU3lHZDY0RUxEcEpGd1NGNy1UMXg4ZlQ1TlBiOFZOVFAyS1dieWU4QkFBdUtYWDJad2liakZMNHNrc3hGUUVONldHeGN2OWNNZk9zZGhfSXJvTlJtYXZzWGZqY0Fqek5PY2dSUDEtR1N2ajZZVThxeHhudDlrSVM3WjY5NjJUSVRtQ2hMcVFFVjdNOA?oc=5",
-      "title": "China's Wang Yi meets Canada foreign minister at Munich forum, Xinhua says - Reuters",
-      "summary": "China's Wang Yi meets Canada foreign minister at Munich forum, Xinhua says Reuters"
+      "char": "🛥️",
+      "label": "migrant boat capsizes in mediterranean",
+      "url": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
+      "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
+      "summary": "Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libyan coast, the UN migration agency said on Monda..."
     },
     {
-      "char": "🦠",
-      "label": "navalny poisoned with dart frog toxin",
-      "url": "https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&at_campaign=rss",
-      "title": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
-      "summary": "There is no innocent explanation for the toxin being found in samples taken from Navalny's body, Foreign Office says."
-    },
-    {
-      "char": "🚬",
-      "label": "australians turn to black market for smokes",
-      "url": "https://www.nytimes.com/2026/02/15/world/asia/how-40-a-pack-cigarettes-pushed-australians-to-the-black-market.html",
-      "title": "How $40-a-Pack Cigarettes Pushed Australians to the Black Market",
-      "summary": "Tax hikes made cigarettes in Australia the most expensive in the world. They have also helped fuel a multibillion-dollar criminal enterprise in bootleg tobacco."
+      "char": "🎉",
+      "label": "brazil wins first winter olympics medal",
+      "url": "https://www.nytimes.com/2026/02/14/world/olympics/brazil-kazakhstan-gold-medals-winter-olympics.html",
+      "title": "Lucas Pinheiro Braathen of Brazil and Mikhail Shaidorov of Kazakhstan Win Olympic Gold Medals",
+      "summary": "A Brazilian skier secured South America’s maiden medal at a Winter Games the day after a Kazakh figure skater won his nation’s first winter gold in 32 years."
     }
   ],
   "source": "ai-openai",
