@@ -22219,5 +22219,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-15",
+    "emojis": [
+      {
+        "char": "👁️",
+        "label": "imran khan's eyesight treatment",
+        "url": "https://www.nytimes.com/2026/02/14/world/asia/pakistan-imran-khan-eyesight.html",
+        "title": "Pakistan Accused of Denying Treatment for Imran Khan’s Failing Eyesight",
+        "summary": "The lawyer for the former prime minister claimed he had lost 85 percent of the vision in his right eye because of delayed treatment in prison."
+      },
+      {
+        "char": "🚀",
+        "label": "spacex starlink in vietnam",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT0o4M0NIZGhOelFEck9BdTBpU2FPQ29DLVpwUWI4S0VSd0Z3d0ppdkgwdkhCUl9mVGNJU3V4eFM5Yl9QSDRVY25wMXVZQ29ZQTBTeDR0M2pWNWM2OGlWcEcycGhKU1BoZXhqMDVkeFhmc2daUXViY2F3Z2pPSFJEQjBZUTdVZUkwbERDTFBvdjVLVjZ3bGRjeUdIWDRFYnNSWVpFQTlhUEhUU0k3a2tHQw?oc=5",
+        "title": "SpaceX's Starlink gets nod for satellite internet in Vietnam - Reuters",
+        "summary": "SpaceX's Starlink gets nod for satellite internet in Vietnam Reuters"
+      },
+      {
+        "char": "🤖",
+        "label": "us military uses ai in venezuela raid",
+        "url": "https://www.theguardian.com/technology/2026/feb/14/us-military-anthropic-ai-model-claude-venezuela-raid",
+        "title": "US military used Anthropic’s AI model Claude in Venezuela raid, report says",
+        "summary": "Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir Technologies Claude, the AI model developed by Anthropic , was used by the US military during its operation to kidnap Nicolás Maduro from Venezue..."
+      },
+      {
+        "char": "💉",
+        "label": "who blasts vaccine trial in guinea-bissau",
+        "url": "https://www.bbc.com/news/articles/c78j5k2gk02o?at_medium=RSS&at_campaign=rss",
+        "title": "Planned US-funded baby vaccine trial in Guinea-Bissau blasted by WHO",
+        "summary": "Giving some newborns in Guinea-Bissau an established hepatitis B treatment but not others is \"unethical\", it says."
+      },
+      {
+        "char": "🌪️",
+        "label": "spain and portugal hit by deadly storm",
+        "url": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
+        "title": "Weather tracker: Spain and Portugal hit by third deadly storm in two weeks",
+        "summary": "Storm Marta sweeps Iberian peninsula just days after Storms Kristin and Leonardo brought deadly flooding and major damage Spain and Portugal have endured another storm over the weekend, just days after the deadly flooding and major damag..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
