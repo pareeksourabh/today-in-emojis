@@ -1,64 +1,43 @@
 {
-  "date": "2026-02-14",
-  "timestamp": "2026-02-14T16:14:58Z",
+  "date": "2026-02-15",
+  "timestamp": "2026-02-15T01:24:13Z",
   "emojis": [
     {
-      "char": "🇯🇵",
-      "label": "japan releases chinese captain",
-      "url": "https://www.nytimes.com/2026/02/14/world/asia/japan-china-boat-captain-release.html",
-      "title": "Japan Releases Chinese Boat Captain After Detaining Him for 30 Hours",
-      "summary": "The captain’s arrest had raised fears of a broader diplomatic confrontation between Japan and China, which have been at odds for months."
-    },
-    {
       "char": "🕊️",
-      "label": "life in beirut beneath drones",
+      "label": "life in beirut beneath the drones",
       "url": "https://www.nytimes.com/2026/02/14/world/middleeast/beirut-drones-sound-israel-airstrikes.html",
       "title": "Life in Beirut Beneath the Drones",
       "summary": "More than a year into a cease-fire, the mechanical whir of Israeli drones above the Lebanese capital is a reminder that, in many ways, the war never really ended."
     },
     {
-      "char": "🗳️",
-      "label": "bangladesh's new leader elected",
-      "url": "https://www.nytimes.com/2026/02/13/world/asia/bangladesh-election-tarique-rahman.html",
-      "title": "Tarique Rahman Is Elected Bangladesh’s New Leader",
-      "summary": "Tarique Rahman, the scion of a political dynasty, returned to sweep his party into government with a promise of change. Some have doubts."
+      "char": "🐱",
+      "label": "chief mouser palmerston dies",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/14/cat-chief-mouser-uk-foreign-office-dies-bermuda-palmerston",
+      "title": "Chief mouser Palmerston dies after swapping Foreign Office for Bermuda",
+      "summary": "Social media account for Palmerston, who retired in 2020, announces death of ‘Diplocat extraordinaire’ Palmerston, a rescue cat who became the chief mouser of the Foreign Office, has died in Bermuda. The cat, adopted from Battersea Dogs..."
+    },
+    {
+      "char": "🏅",
+      "label": "brazil wins first winter olympics medal",
+      "url": "https://www.nytimes.com/2026/02/14/world/olympics/brazil-kazakhstan-gold-medals-winter-olympics.html",
+      "title": "Lucas Pinheiro Braathen of Brazil and Mikhail Shaidorov of Kazakhstan Win Olympic Gold Medals",
+      "summary": "A Brazilian skier secured South America’s maiden medal at a Winter Games the day after a Kazakh figure skater won his nation’s first gold in 32 years."
+    },
+    {
+      "char": "🔫",
+      "label": "assailants kill in northwest nigeria",
+      "url": "https://www.theguardian.com/world/2026/feb/14/assailants-kill-raids-northwest-nigeria-villages-residents-say",
+      "title": "Assailants kill at least 30 in north-west Nigerian villages, residents say",
+      "summary": "Residents who escaped violence tell of bandits riding in on motorbikes and shooting indiscriminately Armed assailants on motorbikes killed at least 30 people and burned houses and shops during raids on three villages in north-west Nigeri..."
     },
     {
       "char": "🌍",
-      "label": "brazil embraces polyamory",
-      "url": "https://www.nytimes.com/2026/02/14/world/americas/brazil-polyamory-non-monogamy-catholic.html",
-      "title": "Brazil, the World’s Largest Catholic Nation, Embraces Polyamory",
-      "summary": "More people in a still largely conservative and religious nation are rejecting monogamy as they seek new definitions of romance, and of family."
-    },
-    {
-      "char": "⚖️",
-      "label": "uk ban on palestine action unlawful",
-      "url": "https://www.nytimes.com/2026/02/13/world/europe/uk-palestine-action-ban-court-ruling.html",
-      "title": "UK Ban on Palestine Action Is Unlawful, Court Finds",
-      "summary": "The High Court said the ban on Palestine Action as a terrorist group was disproportionate and breached free speech rights. The government said it would appeal, and the ban remained in place for now."
+      "label": "iran regime change rallies worldwide",
+      "url": "https://www.nytimes.com/2026/02/14/world/europe/iran-regime-rallies-munich.html",
+      "title": "Thousands Rally for Iran Regime Change in Cities Around the World",
+      "summary": "People protesting the Iranian government gathered near the security conference in Munich, as well as in other cities. More U.S.-Iran talks are expected Tuesday."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "The day reflects a complex mix of tension and unresolved issues in international relations and societal changes, leading to a sense of sadness and concern about the state of the world.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
