@@ -1,64 +1,43 @@
 {
-  "date": "2026-02-15",
-  "timestamp": "2026-02-15T16:14:57Z",
+  "date": "2026-02-16",
+  "timestamp": "2026-02-16T01:20:33Z",
   "emojis": [
     {
-      "char": "🚨",
-      "label": "us deports nine migrants in secret",
+      "char": "🎥",
+      "label": "russian 'pick-up artist' accused in ghana",
+      "url": "https://www.bbc.com/news/articles/c9wn5p299eko?at_medium=RSS&at_campaign=rss",
+      "title": "Russian 'pick-up artist' accused of secretly filming women in Ghana",
+      "summary": "Ghana has called on Russia to extradite the man, who is accused of recording sexual encounters without consent."
+    },
+    {
+      "char": "🗳️",
+      "label": "islamist party’s rise in bangladesh",
+      "url": "https://www.nytimes.com/2026/02/15/world/asia/bangladesh-election-students-islam.html",
+      "title": "Islamist Party’s Rise Overshadows Student Revolution in Bangladesh",
+      "summary": "The party is dedicated to running the country under Islamic law, but ran on a more moderate platform. It gained far more seats in last week’s election than it ever had before."
+    },
+    {
+      "char": "🌍",
+      "label": "europe today looks different from trump's view",
+      "url": "https://www.nytimes.com/2026/02/15/world/europe/europe-rubio-munich.html",
+      "title": "Europe Today Looks Different From the One Trump’s Team Describes",
+      "summary": "Secretary of State Marco Rubio appealed to European leaders in Munich by stressing Christian and cultural bonds that are no longer universal."
+    },
+    {
+      "char": "🛂",
+      "label": "u.s. deports nine migrants in secret",
       "url": "https://www.nytimes.com/2026/02/14/world/africa/us-secret-deportation-cameroon.html",
       "title": "U.S. Deports Nine Migrants in Secret, Ignoring Legal Protections",
       "summary": "Most had court orders protecting them from removal to their home countries, so they were sent to detention in Cameroon."
     },
     {
-      "char": "🇨🇺",
-      "label": "cuban crisis worsens with oil shortage",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/feb/15/cuba-crisis-oil-shortage-venezuela-donald-trump-havana",
-      "title": "No fuel, no tourists, no cash – this was the week the Cuban crisis got real",
-      "summary": "Diplomats in Havana are preparing for an alternative Trump tactic: the country being starved until people take to the streets and the US can step in Among the verdant gardens of Havana’s diplomatic quarter, Siboney, ambassadors from coun..."
-    },
-    {
-      "char": "⚖️",
-      "label": "epstein files redactions under scrutiny",
-      "url": "https://www.nytimes.com/2026/02/14/world/europe/france-epstein-files.html",
-      "title": "French Prosecutors to Investigate Diplomat as Part of Epstein Probe",
-      "summary": "The Paris prosecutor’s office said it was looking into three new complaints with links to the files and revisiting an earlier investigation into an Epstein associate who died in 2022."
-    },
-    {
-      "char": "🛥️",
-      "label": "migrant boat capsizes in mediterranean",
-      "url": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
-      "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
-      "summary": "Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libyan coast, the UN migration agency said on Monda..."
-    },
-    {
-      "char": "🎉",
-      "label": "brazil wins first winter olympics medal",
-      "url": "https://www.nytimes.com/2026/02/14/world/olympics/brazil-kazakhstan-gold-medals-winter-olympics.html",
-      "title": "Lucas Pinheiro Braathen of Brazil and Mikhail Shaidorov of Kazakhstan Win Olympic Gold Medals",
-      "summary": "A Brazilian skier secured South America’s maiden medal at a Winter Games the day after a Kazakh figure skater won his nation’s first winter gold in 32 years."
+      "char": "🕊️",
+      "label": "hundreds of thousands join iran protests",
+      "url": "https://www.bbc.com/news/articles/czr0lykl4g4o?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds of thousands join Iran protests around the world",
+      "summary": "Munich, Los Angeles, and Toronto saw the largest crowds, with smaller rallies also taking place in Tel Aviv and Libson."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sadness",
-    "emoji": "😢",
-    "rationale": "The news today reflects a somber reality with tragic events involving migrants and escalating crises, overshadowing the few moments of triumph in sports.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
