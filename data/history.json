@@ -22483,5 +22483,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-16",
+    "emojis": [
+      {
+        "char": "🤖",
+        "label": "will a.i. kill translation jobs?",
+        "url": "https://www.nytimes.com/2026/02/15/world/europe/artificial-intelligence-language-translation.html",
+        "title": "Will A.I. Kill Translation Jobs?",
+        "summary": "Popular paperbacks are being translated with the help of machines, raising anxiety among professionals in the field."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuban crisis deepens with oil shortage",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/feb/15/cuba-crisis-oil-shortage-venezuela-donald-trump-havana",
+        "title": "No fuel, no tourists, no cash – this was the week the Cuban crisis got real",
+        "summary": "Diplomats in Havana are preparing for an alternative Trump tactic: the country being starved until people take to the streets and the US can step in Among the verdant gardens of Havana’s diplomatic quarter, Siboney, ambassadors from coun..."
+      },
+      {
+        "char": "🔫",
+        "label": "bondi beach shooting accused faces court",
+        "url": "https://www.bbc.com/news/articles/c3rzwe7lr4jo?at_medium=RSS&at_campaign=rss",
+        "title": "Bondi Beach shooting accused faces court for the first time",
+        "summary": "The 24-year-old faces 59 charges, including 15 counts of murder and one of committing a terrorist attack."
+      },
+      {
+        "char": "🎸",
+        "label": "ebo taylor, highlife pioneer, dies at 90",
+        "url": "https://www.theguardian.com/music/2026/feb/09/ebo-taylor-ghanaian-highlife-pioneer-dies-age-90",
+        "title": "Ebo Taylor, Ghanaian highlife pioneer and guitarist, dies age 90",
+        "summary": "Taylor, who did for Ghanaian music what his friend Fela Kuti did for Nigeria, has been called the greatest rhythm guitarist in history Ghanaian musician Ebo Taylor, a definitive force behind the highlife genre, has died age 90. His son K..."
+      },
+      {
+        "char": "🌍",
+        "label": "us boards second oil tanker in indian ocean",
+        "url": "https://www.theguardian.com/world/2026/feb/15/us-forces-board-second-venezuelalinked-oil-tanker-in-indian-ocean",
+        "title": "US boards second oil tanker in Indian Ocean after it fled Venezuelan raid",
+        "summary": "Pentagon tracked sanctioned Veronica III from Caribbean Sea after it left Venezuela on day Maduro was captured US military forces boarded another sanctioned tanker in the Indian Ocean after tracking the vessel from the Caribbean Sea in a..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
