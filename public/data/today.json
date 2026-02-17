@@ -1,64 +1,43 @@
 {
-  "date": "2026-02-16",
-  "timestamp": "2026-02-16T16:28:17Z",
+  "date": "2026-02-17",
+  "timestamp": "2026-02-17T01:19:43Z",
   "emojis": [
     {
-      "char": "🎸",
-      "label": "ebo taylor, highlife pioneer dies",
-      "url": "https://www.theguardian.com/music/2026/feb/09/ebo-taylor-ghanaian-highlife-pioneer-dies-age-90",
-      "title": "Ebo Taylor, Ghanaian highlife pioneer and guitarist, dies age 90",
-      "summary": "Taylor, who did for Ghanaian music what his friend Fela Kuti did for Nigeria, has been called the greatest rhythm guitarist in history Ghanaian musician Ebo Taylor, a definitive force behind the highlife genre, has died age 90. His son K..."
+      "char": "⚖️",
+      "label": "albanian pm judiciary issues",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHhEWHU2ckxtNE4wV2ZHUFlBeDdyeW10RTJvNVBVcUxNR01hZGo1aVVad1lJQmxDSHd6RkVCOTEtcnQtNDFJTUdWTVRyZU92MDZJcGpJV0o1QThJdXJ5MGZYeklfLWNRMUVGMkFlbmJzY1lxTGt1WjRieDRLS0ZuYkIyTDZUQ3k2WkoxdEZPUDNaN3RhQl8td3dVRQ?oc=5",
+      "title": "Albanian PM seeks to stop judiciary from suspending ministers - Reuters",
+      "summary": "Albanian PM seeks to stop judiciary from suspending ministers Reuters"
     },
     {
-      "char": "💰",
-      "label": "louvre ticket scam costs $12 million",
-      "url": "https://www.nytimes.com/2026/02/16/arts/louvre-museum-ticket-scam-arrests.html",
-      "title": "Ticket Scam Cost the Louvre $12 Million, Investigators Say",
-      "summary": "The Paris prosecutor’s office said that a network involving museum employees and tour guides had been operating for a decade. Investigators also believe the fraud occurred at Versailles Palace."
+      "char": "🏡",
+      "label": "venezuela property prices rise",
+      "url": "https://www.nytimes.com/2026/02/16/world/americas/venezuela-real-estate-rush.html",
+      "title": "Prices Jump as Venezuelans Abroad Consider Buying Property Back Home",
+      "summary": "Nicolás Maduro’s capture and talk of oil investment have pushed prices higher, even as brokers say enthusiasm is outpacing demand in a weak economy."
     },
     {
-      "char": "🇨🇦",
-      "label": "canada cold shoulder to us arms makers",
-      "url": "https://www.nytimes.com/2026/02/15/world/canada/canada-military-spending.html",
-      "title": "Canada Gives U.S. Arms Makers the Cold Shoulder on Military Spending",
-      "summary": "Canada plans to unveil a new strategy that will shift its current reliance on American companies to Canadian military suppliers."
+      "char": "⛴️",
+      "label": "us boards oil tanker in ocean",
+      "url": "https://www.theguardian.com/world/2026/feb/15/us-forces-board-second-venezuelalinked-oil-tanker-in-indian-ocean",
+      "title": "US boards second oil tanker in Indian Ocean after it fled Venezuelan raid",
+      "summary": "Pentagon tracked sanctioned Veronica III from Caribbean Sea after it left Venezuela on day Maduro was captured US military forces boarded another sanctioned tanker in the Indian Ocean after tracking the vessel from the Caribbean Sea in a..."
     },
     {
-      "char": "🔫",
-      "label": "bondi beach shooting accused faces court",
-      "url": "https://www.bbc.com/news/articles/c3rzwe7lr4jo?at_medium=RSS&at_campaign=rss",
-      "title": "Bondi Beach shooting accused faces court for the first time",
-      "summary": "The 24-year-old faces 59 charges, including 15 counts of murder and one of committing a terrorist attack."
+      "char": "🎙️",
+      "label": "podcast on is plot foiled",
+      "url": "https://www.theguardian.com/news/audio/2026/feb/16/how-an-undercover-cop-foiled-an-is-plot-to-massacre-britains-jews-podcast",
+      "title": "How an undercover cop foiled an IS plot to massacre Britain’s Jews – podcast",
+      "summary": "The Guardian’s community affairs correspondent, Chris Osuh , reports on the plot by two IS terrorists to massacre Jews in Manchester, and how it was thwarted by an undercover sting Walid Saadaoui had once worked as a holiday entertainer,..."
     },
     {
-      "char": "🌍",
-      "label": "mexico disappearances surge by 200%",
-      "url": "https://www.theguardian.com/world/2026/feb/16/mexico-disappearances-increase",
-      "title": "Disappearances in Mexico surge by 200% over 10 years",
-      "summary": "More than 130,000 people considered missing or disappeared in Mexico as drug cartels expand It was a bright morning in August 2022 when Ángel Montenegro was taken. A 31-year-old construction worker, Montenegro had been out all night drin..."
+      "char": "🇮🇷",
+      "label": "iran protests and mood",
+      "url": "https://www.nytimes.com/2026/02/16/world/middleeast/iran-protests-crackdown-mood.html",
+      "title": "Rage. Grief. Anxiety. The New Mood in Iran.",
+      "summary": "In the aftermath of another wave of antigovernment unrest, Iran is gripped by a mood of collective grief and uncertainty about the future."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sadness",
-    "emoji": "😢",
-    "rationale": "The day is marked by the passing of Ebo Taylor, a significant cultural figure, alongside troubling news of increased violence and crime in various regions, contributing to an overall feeling of sorrow.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

@@ -22615,5 +22615,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-17",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "albanian pm judiciary issues",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHhEWHU2ckxtNE4wV2ZHUFlBeDdyeW10RTJvNVBVcUxNR01hZGo1aVVad1lJQmxDSHd6RkVCOTEtcnQtNDFJTUdWTVRyZU92MDZJcGpJV0o1QThJdXJ5MGZYeklfLWNRMUVGMkFlbmJzY1lxTGt1WjRieDRLS0ZuYkIyTDZUQ3k2WkoxdEZPUDNaN3RhQl8td3dVRQ?oc=5",
+        "title": "Albanian PM seeks to stop judiciary from suspending ministers - Reuters",
+        "summary": "Albanian PM seeks to stop judiciary from suspending ministers Reuters"
+      },
+      {
+        "char": "🏡",
+        "label": "venezuela property prices rise",
+        "url": "https://www.nytimes.com/2026/02/16/world/americas/venezuela-real-estate-rush.html",
+        "title": "Prices Jump as Venezuelans Abroad Consider Buying Property Back Home",
+        "summary": "Nicolás Maduro’s capture and talk of oil investment have pushed prices higher, even as brokers say enthusiasm is outpacing demand in a weak economy."
+      },
+      {
+        "char": "⛴️",
+        "label": "us boards oil tanker in ocean",
+        "url": "https://www.theguardian.com/world/2026/feb/15/us-forces-board-second-venezuelalinked-oil-tanker-in-indian-ocean",
+        "title": "US boards second oil tanker in Indian Ocean after it fled Venezuelan raid",
+        "summary": "Pentagon tracked sanctioned Veronica III from Caribbean Sea after it left Venezuela on day Maduro was captured US military forces boarded another sanctioned tanker in the Indian Ocean after tracking the vessel from the Caribbean Sea in a..."
+      },
+      {
+        "char": "🎙️",
+        "label": "podcast on is plot foiled",
+        "url": "https://www.theguardian.com/news/audio/2026/feb/16/how-an-undercover-cop-foiled-an-is-plot-to-massacre-britains-jews-podcast",
+        "title": "How an undercover cop foiled an IS plot to massacre Britain’s Jews – podcast",
+        "summary": "The Guardian’s community affairs correspondent, Chris Osuh , reports on the plot by two IS terrorists to massacre Jews in Manchester, and how it was thwarted by an undercover sting Walid Saadaoui had once worked as a holiday entertainer,..."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran protests and mood",
+        "url": "https://www.nytimes.com/2026/02/16/world/middleeast/iran-protests-crackdown-mood.html",
+        "title": "Rage. Grief. Anxiety. The New Mood in Iran.",
+        "summary": "In the aftermath of another wave of antigovernment unrest, Iran is gripped by a mood of collective grief and uncertainty about the future."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
