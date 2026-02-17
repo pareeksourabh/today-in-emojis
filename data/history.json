@@ -22747,5 +22747,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-17",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "eu ill-prepared for climate change",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMnI1bEFvT3MybFlaSFQ5Y0RaRHAzUUZrd0k2cTF2ZWVNeThYVjRLOTdsVFhzZ25ZTHNvXzF1Q2lFSWU5bzVpSEhuenM0MFV6Z3dRazgwSl8yc050OG1IS09RTHhJVzh1eUY2Zko1RmxoLU1EN0JsUVNON0stYTFiVnZxVEgyS1VqZmdVTVhDcVMzbk5DUnNvUExSdnFWd2ZOZ1VlenYzUHRhRUZs?oc=5",
+        "title": "EU ill-prepared for worsening climate change, advisers say - Reuters",
+        "summary": "EU ill-prepared for worsening climate change, advisers say Reuters"
+      },
+      {
+        "char": "💰",
+        "label": "global investors warn of overinvestment",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWFMTmgzUUdUTGdQNW5tRXJXMEtzZUFmNVlZel9TYUZ2LWZXeGIyZ1V5THMtZjVIa2hZbWtpbjRMNTlwZG1DRUM2VWpVdFN3SE9QTUNxUl9UMU9zT3V1aHdYSGsyV0hiLTI2RGRIc21IcEYxaW44ZUdKRmM4MXBDZVBieldvdmhrcWVpN2RYRDF2aTh1NnFJUWpva1k1d1R0M1ExcHBaM1hZVEhJOXFlTmFn?oc=5",
+        "title": "Global investors stay 'uber-bullish' but warn companies are overinvesting - Reuters",
+        "summary": "Global investors stay 'uber-bullish' but warn companies are overinvesting Reuters"
+      },
+      {
+        "char": "⚛️",
+        "label": "us and iran resume nuclear talks",
+        "url": "https://www.nytimes.com/2026/02/17/us/politics/us-iran-nuclear-talks.html",
+        "title": "U.S. and Iran Resume Nuclear Talks Amid Rising Tensions",
+        "summary": "President Trump has called on Iran to reach an immediate accord or else face the threat of a possible U.S. attack."
+      },
+      {
+        "char": "🚤",
+        "label": "migrant boat capsizes in mediterranean",
+        "url": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
+        "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
+        "summary": "Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libyan coast, the UN migration agency said on Monda..."
+      },
+      {
+        "char": "🏛️",
+        "label": "senator considers white house run",
+        "url": "https://www.bbc.com/news/articles/cy9gdvl4zv4o?at_medium=RSS&at_campaign=rss",
+        "title": "US Senator Mark Kelly tells BBC he will 'seriously consider' White House run",
+        "summary": "The former Navy captain and astronaut says \"we're in some seriously challenging times\"."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
