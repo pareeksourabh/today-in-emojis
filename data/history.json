@@ -22879,5 +22879,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-18",
+    "emojis": [
+      {
+        "char": "🇰🇭",
+        "label": "cambodian pm accuses thailand of occupation",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmRrRUdRZGdtRlRkcGZMWHhMaHQyejNvY3A1dGtKZ1E0elBUQ1U3Zkc5YWNvOVE3MmJIMkphR3dPS1ZscjdTM1R6LWdOczFPSlF1eExlRHF1azQ4MlRXVDZpVmtzU2JPNHZ2dWx2YXBwN1Q5OUsteDdkUHA2dGlXeDllOVlyaXV0MmdWY2xac0dDX0NMZmVteUxkeWFmU01XXzlpRDZZM1BfVzRUX3hwMFIzNk9ucC1vMExVTllkVFIwckxySkhCZVJFNDE?oc=5",
+        "title": "Exclusive: Cambodian PM says Thailand is occupying territory after Trump-brokered ceasefire - Reuters",
+        "summary": "Exclusive: Cambodian PM says Thailand is occupying territory after Trump-brokered ceasefire Reuters"
+      },
+      {
+        "char": "🇺🇦",
+        "label": "trump's challenges in ukraine war",
+        "url": "https://www.nytimes.com/2026/02/17/world/europe/trump-ukraine-war-putin.html",
+        "title": "Trump Said He’d End the War in Ukraine in a Day. It’s Harder Than He Thought.",
+        "summary": "Russian attacks and Ukrainian civilian deaths rose as President Trump’s peace talks dragged on during his first year back in the White House."
+      },
+      {
+        "char": "🤖",
+        "label": "ai's role in court apologies questioned",
+        "url": "https://www.nytimes.com/2026/02/17/world/asia/new-zealand-court-ai-apology.html",
+        "title": "Question of True Remorse When A.I. Helps Write Your Court Apology",
+        "summary": "The use of artificial intelligence gave a New Zealand judge pause about the genuineness of the remorse expressed in the apology. It reflects a wider discussion about using A.I. for personal communication."
+      },
+      {
+        "char": "🇵🇪",
+        "label": "peru's president impeached after four months",
+        "url": "https://www.theguardian.com/world/2026/feb/17/perus-president-ousted-in-express-impeachment-after-just-four-months",
+        "title": "Peru’s president ousted in ‘express impeachment’ after just four months",
+        "summary": "Interim president José Jerí voted out by country’s congress amid scandal concerning secretive meetings Peru’s interim president has been forced out of office in an “express impeachment” after a political scandal over his secretive meetin..."
+      },
+      {
+        "char": "🎙️",
+        "label": "podcast on foiling is plot in britain",
+        "url": "https://www.theguardian.com/news/audio/2026/feb/16/how-an-undercover-cop-foiled-an-is-plot-to-massacre-britains-jews-podcast",
+        "title": "How an undercover cop foiled an IS plot to massacre Britain’s Jews – podcast",
+        "summary": "The Guardian’s community affairs correspondent, Chris Osuh , reports on the plot by two IS terrorists to massacre Jews in Manchester, and how it was thwarted by an undercover sting Walid Saadaoui had once worked as a holiday entertainer,..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
