@@ -1,64 +1,43 @@
 {
-  "date": "2026-02-17",
-  "timestamp": "2026-02-17T16:42:27Z",
+  "date": "2026-02-18",
+  "timestamp": "2026-02-18T01:22:08Z",
   "emojis": [
     {
+      "char": "🚤",
+      "label": "migrant boat tragedy in mediterranean",
+      "url": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
+      "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
+      "summary": "Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libyan coast, the UN migration agency said on Monda..."
+    },
+    {
+      "char": "🤖",
+      "label": "ai court apology debate",
+      "url": "https://www.nytimes.com/2026/02/17/world/asia/new-zealand-court-ai-apology.html",
+      "title": "Question of True Remorse When A.I. Helps Write Your Court Apology",
+      "summary": "The use of artificial intelligence gave a New Zealand judge pause about the genuineness of the remorse expressed in the apology. It reflects a wider discussion about using A.I. for personal communication."
+    },
+    {
+      "char": "🇲🇽",
+      "label": "mexico challenges uk asylum",
+      "url": "https://www.theguardian.com/world/2026/feb/17/mexican-president-challenges-uk-asylum-given-to-woman-accused-of-corruption",
+      "title": "Mexican president challenges UK asylum given to woman accused of corruption",
+      "summary": "Karime Macías, ex-wife of a state governor, is wanted for allegedly pilfering nearly £5m of public money and now lives in London The Mexican president, Claudia Sheinbaum, has said her government will send a formal letter of complaint to..."
+    },
+    {
       "char": "🔫",
-      "label": "assailants kill in nigeria",
-      "url": "https://www.theguardian.com/world/2026/feb/14/assailants-kill-raids-northwest-nigeria-villages-residents-say",
-      "title": "Assailants kill at least 32 in north-west Nigerian villages, residents say",
-      "summary": "Residents who escaped violence tell of bandits riding in on motorbikes and shooting indiscriminately Armed assailants on motorbikes killed at least 32 people and burned houses and shops during raids on three villages in north-west Nigeri..."
-    },
-    {
-      "char": "🤝",
-      "label": "trump involved in iran talks",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnZYQkdIc0tZb0lNYVFEbGhSVUw0UmZWbmdfbXhuekhEMDF0UGttZFZWMGo3a3I2dER4Y3o3STlXTE5QY0RFYzN6ODlDWU0zR21za0VZWFBodmg1MHpCdlY5NEIxdnlnRjRBTmZ1MFJ2eXZ2ckY0c3Q1S3YycTR4RFg0TDY1TnBVUjBaa1pyWkZxUy1la1JuZHNyaUVra2RZdW1aMDRtLW1yQQ?oc=5",
-      "title": "Trump says he will be involved indirectly in Iran talks - Reuters",
-      "summary": "Trump says he will be involved indirectly in Iran talks Reuters"
-    },
-    {
-      "char": "💰",
-      "label": "bayer settles roundup cases",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ0ZqVXZSaVhEYVl2eUliWUV1MTE2T2M5WW96aTNsaE1OcnhzZzJValFCZ2NEWGFDclVjZVVkMmUyc3ZGZzZqRkI1STJfblBUVjlGMllibTEzc3JqZW9zYmhQczBDVUQzU0NGcllqeHBqWUdzNnQwX2ozUThTQWF2UFVvbUMyLW5nVS01U3lWbVNwS2JYUTRNelo1dFQtTk1HNWlyRFRwRVRxb0VFb0t1NHByOTBiSzJWekRfS1g4M21melB1MlBtV09BWVpfOWc?oc=5",
-      "title": "Bayer to make $10.5 bln push to settle roundup cases, Bloomberg reports - Reuters",
-      "summary": "Bayer to make $10.5 bln push to settle roundup cases, Bloomberg reports Reuters"
+      "label": "nine arrested in france student death",
+      "url": "https://www.bbc.com/news/articles/cvgj1qrqd47o?at_medium=RSS&at_campaign=rss",
+      "title": "Nine arrested in France over death of far-right student",
+      "summary": "Quentin Deranque died on Saturday, two days after being beaten in Lyon by masked men believed to be far-left militants."
     },
     {
       "char": "🎉",
-      "label": "a rio carnival party",
+      "label": "rio carnival party celebration",
       "url": "https://www.nytimes.com/2026/02/17/world/americas/a-rio-carnival-party-that-goes-on-and-on.html",
       "title": "A Rio Carnival Party That Goes On and On",
       "summary": "The Boi Tolo, one of the city’s most iconic street parties, has come to represent the glittery, gritty grass-roots celebration far from the glamour of the official parades."
-    },
-    {
-      "char": "📉",
-      "label": "luxury stocks volatility",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRnpPLXg4UkJVTVpjZE1GMTNEYVQ0MG9KWDdNM1FKS3pjSFg1S0ZzS0tuS3JVbjdHanVpLUtpdjFudE96b3dNQXdmZGpORkloRjhfNHFXVnFoVG95Vm9hTVBVTG1rY2p1ZUtvU3VQOVl4aVFWYllqYWpWRTJYcDV2U1lSWmhQY1JpTGYxcnBDbFIxcGdxY2pDVDFEeml1b2ktai1uMF81clBjOWp4N2lFamNjdFhIZ0ZwWWViRExEbjlvQVdkUUwwYVR3?oc=5",
-      "title": "Luxury stocks' volatility highlights AI jitters, hedge fund positioning - Reuters",
-      "summary": "Luxury stocks' volatility highlights AI jitters, hedge fund positioning Reuters"
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sadness",
-    "emoji": "😢",
-    "rationale": "The day is marked by tragic violence in Nigeria resulting in numerous deaths, overshadowing any potential positive news. This evokes a deep sense of sorrow and concern for the affected communities.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

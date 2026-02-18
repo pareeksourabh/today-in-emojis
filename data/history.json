@@ -22835,5 +22835,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-18",
+    "emojis": [
+      {
+        "char": "🚤",
+        "label": "migrant boat tragedy in mediterranean",
+        "url": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
+        "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
+        "summary": "Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libyan coast, the UN migration agency said on Monda..."
+      },
+      {
+        "char": "🤖",
+        "label": "ai court apology debate",
+        "url": "https://www.nytimes.com/2026/02/17/world/asia/new-zealand-court-ai-apology.html",
+        "title": "Question of True Remorse When A.I. Helps Write Your Court Apology",
+        "summary": "The use of artificial intelligence gave a New Zealand judge pause about the genuineness of the remorse expressed in the apology. It reflects a wider discussion about using A.I. for personal communication."
+      },
+      {
+        "char": "🇲🇽",
+        "label": "mexico challenges uk asylum",
+        "url": "https://www.theguardian.com/world/2026/feb/17/mexican-president-challenges-uk-asylum-given-to-woman-accused-of-corruption",
+        "title": "Mexican president challenges UK asylum given to woman accused of corruption",
+        "summary": "Karime Macías, ex-wife of a state governor, is wanted for allegedly pilfering nearly £5m of public money and now lives in London The Mexican president, Claudia Sheinbaum, has said her government will send a formal letter of complaint to..."
+      },
+      {
+        "char": "🔫",
+        "label": "nine arrested in france student death",
+        "url": "https://www.bbc.com/news/articles/cvgj1qrqd47o?at_medium=RSS&at_campaign=rss",
+        "title": "Nine arrested in France over death of far-right student",
+        "summary": "Quentin Deranque died on Saturday, two days after being beaten in Lyon by masked men believed to be far-left militants."
+      },
+      {
+        "char": "🎉",
+        "label": "rio carnival party celebration",
+        "url": "https://www.nytimes.com/2026/02/17/world/americas/a-rio-carnival-party-that-goes-on-and-on.html",
+        "title": "A Rio Carnival Party That Goes On and On",
+        "summary": "The Boi Tolo, one of the city’s most iconic street parties, has come to represent the glittery, gritty grass-roots celebration far from the glamour of the official parades."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
