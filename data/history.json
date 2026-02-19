@@ -23143,5 +23143,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-19",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "russia-ukraine peace talks end",
+        "url": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss",
+        "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
+        "summary": "The second day of negotiations between Ukraine and Russia ended after just two hours."
+      },
+      {
+        "char": "🏅",
+        "label": "russia returns to paralympics",
+        "url": "https://www.nytimes.com/2026/02/18/world/europe/russia-paralympics-italy.html",
+        "title": "Russia’s Exile From World Sports Will End Next Month at Paralympics",
+        "summary": "Six Russian athletes and four Belarusians will be allowed to represent their nations, officials said. The decision could pave the way for a Russian team to compete at the 2028 Summer Games in Los Angeles."
+      },
+      {
+        "char": "🚢",
+        "label": "migrant boat capsizes in mediterranean",
+        "url": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
+        "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
+        "summary": "Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libyan coast, the UN migration agency said on Monda..."
+      },
+      {
+        "char": "🤖",
+        "label": "ai adoption crucial for countries",
+        "url": "https://www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne",
+        "title": "Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne",
+        "summary": "Without AI you will be a ‘weaker and poorer nation’, says former UK chancellor two months into job at US firm The former chancellor George Osborne has said countries that do not embrace the kind of powerful AI systems made by his new emp..."
+      },
+      {
+        "char": "🔫",
+        "label": "iran security official fires on crowd",
+        "url": "https://www.bbc.com/news/articles/cly8q62qe71o?at_medium=RSS&at_campaign=rss",
+        "title": "Iran security official appears to fire on crowd at cemetery",
+        "summary": "It happened as people gathered to commemorate those killed during the government’s brutal crackdown on protesters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

@@ -1,41 +1,41 @@
 {
   "date": "2026-02-19",
-  "timestamp": "2026-02-19T05:23:53Z",
+  "timestamp": "2026-02-19T08:51:18Z",
   "emojis": [
+    {
+      "char": "🕊️",
+      "label": "russia-ukraine peace talks end",
+      "url": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss",
+      "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
+      "summary": "The second day of negotiations between Ukraine and Russia ended after just two hours."
+    },
+    {
+      "char": "🏅",
+      "label": "russia returns to paralympics",
+      "url": "https://www.nytimes.com/2026/02/18/world/europe/russia-paralympics-italy.html",
+      "title": "Russia’s Exile From World Sports Will End Next Month at Paralympics",
+      "summary": "Six Russian athletes and four Belarusians will be allowed to represent their nations, officials said. The decision could pave the way for a Russian team to compete at the 2028 Summer Games in Los Angeles."
+    },
+    {
+      "char": "🚢",
+      "label": "migrant boat capsizes in mediterranean",
+      "url": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
+      "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
+      "summary": "Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libyan coast, the UN migration agency said on Monda..."
+    },
+    {
+      "char": "🤖",
+      "label": "ai adoption crucial for countries",
+      "url": "https://www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne",
+      "title": "Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne",
+      "summary": "Without AI you will be a ‘weaker and poorer nation’, says former UK chancellor two months into job at US firm The former chancellor George Osborne has said countries that do not embrace the kind of powerful AI systems made by his new emp..."
+    },
     {
       "char": "🔫",
       "label": "iran security official fires on crowd",
       "url": "https://www.bbc.com/news/articles/cly8q62qe71o?at_medium=RSS&at_campaign=rss",
       "title": "Iran security official appears to fire on crowd at cemetery",
       "summary": "It happened as people gathered to commemorate those killed during the government’s brutal crackdown on protesters"
-    },
-    {
-      "char": "🌐",
-      "label": "us plans online portal for content bans",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0tEVGJBTkpMU2lHZktRcE92UFcxRG1PTGdhaEVvV2R4WGxwTkdrRC1DZjdpU1N2eldpUDFtZkVtMEpTOGxlUUNtTG9LSWs2NXBDYUJoVjhfaWR2dGdxZEJGRFNUblRDV3pKbW1WdkdadUZwbUd6ak5GLTRDcm9pc2UwNWw2T1R6bnAzeDVPY3F4eTRPX3JaMUNCSlVIeFk4bXFj?oc=5",
-      "title": "Exclusive: US plans online portal to bypass content bans in Europe and elsewhere - Reuters",
-      "summary": "Exclusive: US plans online portal to bypass content bans in Europe and elsewhere Reuters"
-    },
-    {
-      "char": "🚤",
-      "label": "us strikes on alleged drug boats",
-      "url": "https://www.theguardian.com/us-news/2026/feb/17/us-military-boats-strikes",
-      "title": "US says 11 people killed in latest strikes on alleged drug boats",
-      "summary": "Three boats targeted in eastern Pacific and Caribbean as Trump continues pursuit of alleged ‘narco-terrorists’ US military officials have said American forces launched assaults on three alleged drug-smuggling boats, killing 11 in one of..."
-    },
-    {
-      "char": "🏔️",
-      "label": "eight skiers dead after avalanche",
-      "url": "https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&at_campaign=rss",
-      "title": "Eight skiers found dead after California avalanche",
-      "summary": "Fifteen skiers went missing on Tuesday following a massive avalanche in California's Lake Tahoe region. One person remains missing but is presumed dead."
-    },
-    {
-      "char": "⚖️",
-      "label": "icc judges under trump sanctions",
-      "url": "https://www.theguardian.com/law/2026/feb/18/international-criminal-court-icc-judges-trump-sanctions",
-      "title": "Credit cards cancelled, Google accounts closed: ICC judges on life under Trump sanctions",
-      "summary": "Kimberly Prost and Luz del Carmen Ibáñez Carranza vow US reprisals will not affect work of international criminal court When the Canadian Kimberly Prost learned Donald Trump’s administration had imposed sanctions on her, it came as a sho..."
     }
   ],
   "source": "ai-openai",
