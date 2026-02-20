@@ -23319,5 +23319,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-20",
+    "emojis": [
+      {
+        "char": "🏦",
+        "label": "citi boosts private bank leadership",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVBUZkdISFBGOXRDS081UlBSMFA2Z1ZsVDU3Y3FIX2EtVDQ5aFRuVjRsNUxrbzhQTnF5RGZwVDA4OXJNOHNHNmEtS2p6cjdLRTh4MTNtbkdKMVJ3R2MtRW9sb3NERVprcE1qTWFIbWxOd1dBZURWUHdzRmRkdEMxWUZ1YWxfbmFxMS1mWGVleUFYREs2bVM1N1NKS1NCbHdqdlczRndfT3JOQlYyV3c?oc=5",
+        "title": "Citi bolsters private bank leadership in North America push - Reuters",
+        "summary": "Citi bolsters private bank leadership in North America push Reuters"
+      },
+      {
+        "char": "✊",
+        "label": "veteran dissident released",
+        "url": "https://www.bbc.com/news/articles/cn0ewjdgrkzo?at_medium=RSS&at_campaign=rss",
+        "title": "Veteran dissident who refused exile released",
+        "summary": "Mikola Statkevich, who spent more than five years in prison in his native Belarus, is now recovering from a stroke at home, his wife says."
+      },
+      {
+        "char": "💻",
+        "label": "europe worries about trump tech blowup",
+        "url": "https://www.nytimes.com/2026/02/19/world/europe/europe-united-states-trump-digital-services-act.html",
+        "title": "Europe Worries About Another Trump Blowup, This One on Tech",
+        "summary": "Even as trade tensions between the United States and the European Union seem to calm, officials are concerned that a showdown is brewing over the bloc’s digital rules."
+      },
+      {
+        "char": "👑",
+        "label": "prince andrew released amid epstein case",
+        "url": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein",
+        "title": "Britain Updates: Former Prince Andrew Is Released After Being Arrested Amid Epstein Revelations",
+        "summary": "Andrew Mountbatten-Windsor, who is still under investigation, was seen leaving police custody on Thursday evening after being detained on suspicions of misconduct in public office."
+      },
+      {
+        "char": "🇵🇪",
+        "label": "peru president ousted after four months",
+        "url": "https://www.theguardian.com/world/2026/feb/17/perus-president-ousted-in-express-impeachment-after-just-four-months",
+        "title": "Peru’s president ousted in ‘express impeachment’ after just four months",
+        "summary": "Interim president José Jerí voted out by country’s congress amid scandal concerning secretive meetings Peru’s interim president has been forced out of office in an “express impeachment” after a political scandal over his secretive meetin..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
