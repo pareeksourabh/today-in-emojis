@@ -23451,5 +23451,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-20",
+    "emojis": [
+      {
+        "char": "🔒",
+        "label": "new cybersecurity rules for us defense",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2pkNDRGMWRQWmx5Z3ZfX01BRzZkdE9tNDRjSXpyX3hsTTlqV2FjMEZvVzAyN1A5eHFtQl9HRm56QkpVeTVobGFGY2JJa3FwWWl0Wm84dFNvRVlkR2xrY2l4OXAtMUo5cmVSZmNPS0FkTndSRGVMYjdiTnMwZzhoZ3FhOVNwVVJaTms2WXFqUERycktYXzNPNVdtanNmX1NOY1hZamUta2UxT2wxN3FTbFZPN2l5Mjk0SzVzNFZOanBJOWxTZ1FLbXNzeUxWczBEMFE?oc=5",
+        "title": "New cybersecurity rules for US defense industry create barrier for some small suppliers - Reuters",
+        "summary": "New cybersecurity rules for US defense industry create barrier for some small suppliers Reuters"
+      },
+      {
+        "char": "👑",
+        "label": "prince andrew's arrest shakes royal family",
+        "url": "https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-arrest-epstein-royal-family-uk.html",
+        "title": "Former Prince Andrew’s Arrest Upends Royal Family’s Effort to Move Past His Scandal",
+        "summary": "King Charles III’s family, long rocked by infighting and grievous losses, is facing what could be the gravest threat to its moral authority in more than a generation."
+      },
+      {
+        "char": "🇧🇴",
+        "label": "evo morales reappears in bolivia",
+        "url": "https://www.theguardian.com/world/2026/feb/20/bolivia-evo-morales-public-appearance",
+        "title": "Bolivia’s ex-leader Evo Morales reappears after months-long unexplained absence",
+        "summary": "Long-serving socialist former leader Evo Morales has reappeared in his political stronghold after almost seven weeks of unexplained absence Bolivia’s long-serving socialist former leader, Evo Morales , reappeared on Thursday in his polit..."
+      },
+      {
+        "char": "📱",
+        "label": "israeli tech used to crack activist's phone",
+        "url": "https://www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report",
+        "title": "Kenyan authorities used Israeli tech to crack activist’s phone, report claims",
+        "summary": "Citizen Lab report suggests Cellebrite software was used to break into Boniface Mwangi’s phone while he was under arrest When Boniface Mwangi, the prominent Kenyan pro-democracy activist who plans to run for president in 2027 , had his p..."
+      },
+      {
+        "char": "⚔️",
+        "label": "us military strikes kill 11 on drug boats",
+        "url": "https://www.theguardian.com/us-news/2026/feb/17/us-military-boats-strikes",
+        "title": "US says 11 people killed in latest strikes on alleged drug boats",
+        "summary": "Three boats targeted in eastern Pacific and Caribbean as Trump continues pursuit of alleged ‘narco-terrorists’ US military officials have said American forces launched assaults on three alleged drug-smuggling boats, killing 11 in one of..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
