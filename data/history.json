@@ -23407,5 +23407,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-20",
+    "emojis": [
+      {
+        "char": "📱",
+        "label": "kenya uses tech to crack phones",
+        "url": "https://www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report",
+        "title": "Kenyan authorities used Israeli tech to crack activist’s phone, report claims",
+        "summary": "Citizen Lab report suggests Cellebrite software was used to break into Boniface Mwangi’s phone while he was under arrest When Boniface Mwangi, the prominent Kenyan pro-democracy activist who plans to run for president in 2027 , had his p..."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "venezuela opposition politician released",
+        "url": "https://www.bbc.com/news/articles/cy57en3590no?at_medium=RSS&at_campaign=rss",
+        "title": "Venezuelan opposition politician released after amnesty law passed",
+        "summary": "Juan Pablo Guanipa announces that he has been freed after \"almost nine months\" of imprisonment."
+      },
+      {
+        "char": "🎬",
+        "label": "china's banned films director speaks",
+        "url": "https://www.nytimes.com/2026/02/20/world/asia/lou-ye-china-film-director.html",
+        "title": "China’s ‘King of Banned Films’ Wants to Change the Subject",
+        "summary": "Acclaimed overseas for defying censors, Lou Ye is more interested in reaching Chinese audiences, as he holds up a cinematic mirror to their lives in modern China."
+      },
+      {
+        "char": "🚢",
+        "label": "new blockade strangles cuba",
+        "url": "https://www.nytimes.com/2026/02/20/world/americas/cuba-oil-blockade-trump.html",
+        "title": "A New U.S. Blockade Is Strangling Cuba",
+        "summary": "An analysis of ship movements shows that the Trump administration is isolating the island at one of its most vulnerable moments."
+      },
+      {
+        "char": "👶",
+        "label": "olympics star eclipsed by toddler",
+        "url": "https://www.nytimes.com/2026/02/20/world/europe/francesca-lollobrigida-toddler-mothers-italy.html",
+        "title": "Olympics Gold Medalist Eclipsed By Her Toddler",
+        "summary": "A champion speedskater spoke to reporters with her toddler. The focus on her child was among several instances at the Olympics that highlighted the complexities working mothers face in Italy."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
