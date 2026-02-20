@@ -23363,5 +23363,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-20",
+    "emojis": [
+      {
+        "char": "🇮🇩",
+        "label": "indonesia secures tariff deal with us",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdld0elJlakRDRWNvMWoxUmF6NklxZnpueEtfT21QVE15dkdPcXo4NkpSMHNQdkREOEVGN2lDSFYzVEF2MmRKcVBud1Y1TjlpbEN3ME82NVVQOTdNTGpNWWxXdldxN1BXcXRkZGFCajVIS3NxX0p3RWF3T2hWcE14SVFSMVl6d1MwWjdkUXlORm5YU2tCVFZjZXlBMlNvRmNvSHZxMGhpbkEtMkI1dU1lYW9adnFjeDZEYVZ0T1ZBbDUtdw?oc=5",
+        "title": "Indonesia secures 19% tariff deal with US, palm oil and other commodities exempt - Reuters",
+        "summary": "Indonesia secures 19% tariff deal with US, palm oil and other commodities exempt Reuters"
+      },
+      {
+        "char": "🇧🇴",
+        "label": "morales reappears after absence",
+        "url": "https://www.theguardian.com/world/2026/feb/20/bolivia-evo-morales-public-appearance",
+        "title": "Bolivia’s ex-leader Evo Morales reappears after months-long unexplained absence",
+        "summary": "Long-serving socialist former leader Evo Morales has reappeared in his political stronghold after almost seven weeks of unexplained absence Bolivia’s long-serving socialist former leader, Evo Morales , reappeared on Thursday in his polit..."
+      },
+      {
+        "char": "💼",
+        "label": "citi boosts private bank leadership",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVBUZkdISFBGOXRDS081UlBSMFA2Z1ZsVDU3Y3FIX2EtVDQ5aFRuVjRsNUxrbzhQTnF5RGZwVDA4OXJNOHNHNmEtS2p6cjdLRTh4MTNtbkdKMVJ3R2MtRW9sb3NERVprcE1qTWFIbWxOd1dBZURWUHdzRmRkdEMxWUZ1YWxfbmFxMS1mWGVleUFYREs2bVM1N1NKS1NCbHdqdlczRndfT3JOQlYyV3c?oc=5",
+        "title": "Citi bolsters private bank leadership in North America push - Reuters",
+        "summary": "Citi bolsters private bank leadership in North America push Reuters"
+      },
+      {
+        "char": "⚖️",
+        "label": "un finds genocide hallmarks in sudan",
+        "url": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
+        "title": "RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds",
+        "summary": "Report details harrowing 18-month occupation of North Darfur capital, showing destruction aimed at ethnic communities The siege and capture of the Sudanese city of El Fasher by the paramilitary Rapid Support Forces group last October bor..."
+      },
+      {
+        "char": "🎤",
+        "label": "epstein's record label investment files",
+        "url": "https://www.bbc.com/news/articles/czx41k51595o?at_medium=RSS&at_campaign=rss",
+        "title": "Epstein eyed record label investment to access women, files suggest",
+        "summary": "His associate said the music industry was \"related to P\", a way Epstein apparently often referred to women."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
