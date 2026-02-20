@@ -1,64 +1,43 @@
 {
-  "date": "2026-02-19",
-  "timestamp": "2026-02-19T16:37:52Z",
+  "date": "2026-02-20",
+  "timestamp": "2026-02-20T01:17:11Z",
   "emojis": [
     {
-      "char": "🤖",
-      "label": "modi's ai unity pose awkwardness",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3FnTEFHaWNaS0Y3YkNyWnl6blhSQnY1Z3NfNldwOTV6OUt0YThSYld4ZjQ1M0Y5aFVnLWNkZHlpMzVsUklXTUp4azgtelZyaXU5TEhicmEwc2paTUtGSWlwd3JjdmJKY1lYMmotZjNtTnJJM1RZY041LVNzamJhbGZFc0JEQU0wUWFsaHVQdGxlNEwyNVczYjFmSDNHSGhrbHVXNnNKRzJHQQ?oc=5",
-      "title": "Modi's AI unity pose turns awkward for Altman and Amodei - Reuters",
-      "summary": "Modi's AI unity pose turns awkward for Altman and Amodei Reuters"
-    },
-    {
-      "char": "⚖️",
-      "label": "south korean ex-leader sentenced",
-      "url": "https://www.nytimes.com/live/2026/02/19/world/yoon-korea-martial-law-president",
-      "title": "South Korean Ex-Leader Is Sentenced to Life in Prison",
-      "summary": "Former President Yoon Suk Yeol was found guilty of masterminding an insurrection when he imposed martial law in 2024. It was the country’s ​biggest criminal trial in decades."
-    },
-    {
-      "char": "📉",
-      "label": "pernod ricard's sales and profits slide",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHpJWWk5cFB5NGtXelNEaS1YQXUyOV9vUUJ0OHlQSkw1SnF3Y1BQaXdySzFReTcxekcxaUstMWpKWmRYWnk5bjFOMnJPNW9KWW9oZVNZRFRyakxaMUp0eGgtcVh5VnJ6XzQ3cUdWMkJWdTgwOWlCM1l0bjNka1F2UmdRUnR5elpLRnllVWNWWFlmVGhtajN1Tl9yaEREUkRub2Q3NV9IQld4c3o2Qm1UZlJDWVQ?oc=5",
-      "title": "Pernod Ricard's sales, profits slide on demand slump in main markets - Reuters",
-      "summary": "Pernod Ricard's sales, profits slide on demand slump in main markets Reuters"
-    },
-    {
-      "char": "🌍",
-      "label": "us military strikes on drug boats",
-      "url": "https://www.theguardian.com/us-news/2026/feb/17/us-military-boats-strikes",
-      "title": "US says 11 people killed in latest strikes on alleged drug boats",
-      "summary": "Three boats targeted in eastern Pacific and Caribbean as Trump continues pursuit of alleged ‘narco-terrorists’ US military officials have said American forces launched assaults on three alleged drug-smuggling boats, killing 11 in one of..."
-    },
-    {
-      "char": "🔒",
+      "char": "🇬🇧",
       "label": "british couple sentenced in iran",
       "url": "https://www.nytimes.com/2026/02/19/world/middleeast/british-couple-foreman-iran-prison.html",
       "title": "British Couple Held in Iran Is Sentenced to 10 Years in Prison, Family Says",
       "summary": "Craig and Lindsay Foreman were arrested last year during a motorcycle tour around the world. Their relatives and the British government have rejected Iranian charges of “security crimes.”"
+    },
+    {
+      "char": "🇲🇽",
+      "label": "mexico challenges uk asylum case",
+      "url": "https://www.theguardian.com/world/2026/feb/17/mexican-president-challenges-uk-asylum-given-to-woman-accused-of-corruption",
+      "title": "Mexican president challenges UK asylum given to woman accused of corruption",
+      "summary": "Karime Macías, ex-wife of a state governor, is wanted for allegedly pilfering nearly £5m of public money and now lives in London The Mexican president, Claudia Sheinbaum, has said her government will send a formal letter of complaint to..."
+    },
+    {
+      "char": "💰",
+      "label": "digital euro costs eu banks billions",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT3NsbXVROWZIdWNzb3NoM3pEeVNVRnZlSlJkS0E1djBfb29EcG0td1F4QWdPcFFWcnhjMDVMTktBdldwa0JGQTQ4TWJBM1RLV0lmZ0hidFZ4RHc2dk1OY1JDSHJ1YU5YWjRIbE9XYXczX1V3LXRwYVNucHN5ZVdCOWhFWmFJd0pfQUZjdVBzT2NNcGxKSXhSVWVoTTI3T2dPdDZfbTNReDlXdS1mZlo0aURncUNJYjh0SGF2NQ?oc=5",
+      "title": "Digital euro to cost EU banks 4-6 billion euros over 4 years, ECB estimates - Reuters",
+      "summary": "Digital euro to cost EU banks 4-6 billion euros over 4 years, ECB estimates Reuters"
+    },
+    {
+      "char": "🏛️",
+      "label": "peru's president ousted after months",
+      "url": "https://www.theguardian.com/world/2026/feb/17/perus-president-ousted-in-express-impeachment-after-just-four-months",
+      "title": "Peru’s president ousted in ‘express impeachment’ after just four months",
+      "summary": "Interim president José Jerí voted out by country’s congress amid scandal concerning secretive meetings Peru’s interim president has been forced out of office in an “express impeachment” after a political scandal over his secretive meetin..."
+    },
+    {
+      "char": "🌍",
+      "label": "un calls sudan atrocities genocide",
+      "url": "https://www.bbc.com/news/articles/cpqw74d81jqo?at_medium=RSS&at_campaign=rss",
+      "title": "Sudan atrocities are 'hallmarks of genocide', UN says",
+      "summary": "A UN fact-finding mission issued the report after investigating the capture of el-Fasher by the Rapid Support Forces."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "Today's news reflects a series of troubling events, including harsh sentences and violent military actions, creating a somber atmosphere. The overall sentiment leans towards sadness and concern for justice and human rights.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
