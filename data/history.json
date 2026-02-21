@@ -23583,5 +23583,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-21",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "writer and former news corp director dies",
+        "url": "https://www.bbc.com/news/articles/cp8150xj36wo?at_medium=RSS&at_campaign=rss",
+        "title": "Anna Murdoch-Mann, writer and former News Corp director, dies aged 81",
+        "summary": "The author, journalist and philanthropist died at home in Florida, according to Rupert Murdoch's news outlets."
+      },
+      {
+        "char": "⚔️",
+        "label": "kenyans fighting for russia in ukraine",
+        "url": "https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
+        "title": "More than 1,000 Kenyans lured to fight for Russia in Ukraine war, report says",
+        "summary": "Intelligence findings read to parliament say ‘rogue’ agencies and individuals recruiting Kenyan nationals to frontline More than 1,000 Kenyans have been lured to fight for Russia in its war with Ukraine, according to an intelligence repo..."
+      },
+      {
+        "char": "⚖️",
+        "label": "icc judges under trump sanctions",
+        "url": "https://www.theguardian.com/law/2026/feb/18/international-criminal-court-icc-judges-trump-sanctions",
+        "title": "Credit cards cancelled, Google accounts closed: ICC judges on life under Trump sanctions",
+        "summary": "Kimberly Prost and Luz del Carmen Ibáñez Carranza vow US reprisals will not affect work of international criminal court When the Canadian Kimberly Prost learned Donald Trump’s administration had imposed sanctions on her, it came as a sho..."
+      },
+      {
+        "char": "💰",
+        "label": "us economy growth forecast for 2026",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSC03QnVoN3FCU3ctVkoxYXl5ZXE2ZmFsbWt6ZDQ1RFFDMzlHUElET2NWbEdpZmZhTS1VaTdNR2lmS0FDdjhWVWNwaVhNYTJHSEs0cmx5cl9WRTktVUsyM19xR1M3UjFKYXhyMXBpNTg5aGVpX3hWNzJrU1ZLc2xkTXY3Vk5UTXRZOFFFZUo2WE03RW1hNG1Uc1p3emRPNHA4STk0?oc=5",
+        "title": "US economy can grow at least 3.5% in 2026, Bessent tells Fox News - Reuters",
+        "summary": "US economy can grow at least 3.5% in 2026, Bessent tells Fox News Reuters"
+      },
+      {
+        "char": "🏛️",
+        "label": "supreme court ruling on tariffs",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEpzQWxRWm82RURTNkdXQzdQaXJfUE5vZlg3STJ5bXpNRDlqREw4OE5iZzVNRzI2ZFVqZm12aWlHelpCbGlCYjBaYXUzeXVteGM1bzJIUzRucWU1cGpXR3c0Q3BhWndfTkY1MHNqU3cwRGFhci1MVFg1R2MwdkV4YUZINkhGREwwdjVFbUw5R2VtZWpTcXVFdjUzSkR2cXZaeVRhYjk5WW5NNWZLNnBLQldTZDY?oc=5",
+        "title": "Supreme Court tariff ruling clouds Fed's rate path after a year of upheaval - Reuters",
+        "summary": "Supreme Court tariff ruling clouds Fed's rate path after a year of upheaval Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
