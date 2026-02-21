@@ -1,13 +1,27 @@
 {
-  "date": "2026-02-20",
-  "timestamp": "2026-02-20T16:23:45Z",
+  "date": "2026-02-21",
+  "timestamp": "2026-02-21T01:14:57Z",
   "emojis": [
     {
-      "char": "🔒",
-      "label": "new cybersecurity rules for us defense",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2pkNDRGMWRQWmx5Z3ZfX01BRzZkdE9tNDRjSXpyX3hsTTlqV2FjMEZvVzAyN1A5eHFtQl9HRm56QkpVeTVobGFGY2JJa3FwWWl0Wm84dFNvRVlkR2xrY2l4OXAtMUo5cmVSZmNPS0FkTndSRGVMYjdiTnMwZzhoZ3FhOVNwVVJaTms2WXFqUERycktYXzNPNVdtanNmX1NOY1hZamUta2UxT2wxN3FTbFZPN2l5Mjk0SzVzNFZOanBJOWxTZ1FLbXNzeUxWczBEMFE?oc=5",
-      "title": "New cybersecurity rules for US defense industry create barrier for some small suppliers - Reuters",
-      "summary": "New cybersecurity rules for US defense industry create barrier for some small suppliers Reuters"
+      "char": "🕊️",
+      "label": "ukrainian women share stories of violence",
+      "url": "https://www.nytimes.com/2026/02/20/world/europe/russian-soldiers-sexual-violence-ukraine.html",
+      "title": "Ukrainian Women Tell Their Stories of Sexual Violence by Russian Soldiers",
+      "summary": "Hundreds of Ukrainian women and girls have reported sexual violence by Russian troops during the four-year war in Ukraine."
+    },
+    {
+      "char": "⚖️",
+      "label": "supreme court ruling on trump tariffs",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNajA3aGtUWWtrRTJiQkZhYmFpME9LMzBTaXd2WDRVZjlCZVF4aDFVYV9jQUk1ZXIxT21kQWgwaWhoQk44ajdzLU9Rb3lyTzFPTzhHeVlNSWp6dXVFN2pjTnpJdkpRN3pLUDBzWEZCSkw3NjVJZjRGUnZvci1rQ3UzTEF0cEVkTDU2eFAxQktMZ0NPZkdUNjBHdVF6eVB3QndrUVhjUjZ0ei1CRWI2cmtBSzhVck4tTm90LV9xSll1LVd0UQ?oc=5",
+      "title": "Industry reaction to US Supreme Court ruling on Trump's global tariffs - Reuters",
+      "summary": "Industry reaction to US Supreme Court ruling on Trump's global tariffs Reuters"
+    },
+    {
+      "char": "🇰🇪",
+      "label": "kenyans fighting for russia in ukraine",
+      "url": "https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
+      "title": "More than 1,000 Kenyans lured to fight for Russia in Ukraine war, report says",
+      "summary": "Intelligence findings read to parliament say ‘rogue’ agencies and individuals recruiting Kenyan nationals to frontline More than 1,000 Kenyans have been lured to fight for Russia in its war with Ukraine, according to an intelligence repo..."
     },
     {
       "char": "👑",
@@ -17,48 +31,13 @@
       "summary": "King Charles III’s family, long rocked by infighting and grievous losses, is facing what could be the gravest threat to its moral authority in more than a generation."
     },
     {
-      "char": "🇧🇴",
-      "label": "evo morales reappears in bolivia",
-      "url": "https://www.theguardian.com/world/2026/feb/20/bolivia-evo-morales-public-appearance",
-      "title": "Bolivia’s ex-leader Evo Morales reappears after months-long unexplained absence",
-      "summary": "Long-serving socialist former leader Evo Morales has reappeared in his political stronghold after almost seven weeks of unexplained absence Bolivia’s long-serving socialist former leader, Evo Morales , reappeared on Thursday in his polit..."
-    },
-    {
-      "char": "📱",
-      "label": "israeli tech used to crack activist's phone",
-      "url": "https://www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report",
-      "title": "Kenyan authorities used Israeli tech to crack activist’s phone, report claims",
-      "summary": "Citizen Lab report suggests Cellebrite software was used to break into Boniface Mwangi’s phone while he was under arrest When Boniface Mwangi, the prominent Kenyan pro-democracy activist who plans to run for president in 2027 , had his p..."
-    },
-    {
-      "char": "⚔️",
-      "label": "us military strikes kill 11 on drug boats",
-      "url": "https://www.theguardian.com/us-news/2026/feb/17/us-military-boats-strikes",
-      "title": "US says 11 people killed in latest strikes on alleged drug boats",
-      "summary": "Three boats targeted in eastern Pacific and Caribbean as Trump continues pursuit of alleged ‘narco-terrorists’ US military officials have said American forces launched assaults on three alleged drug-smuggling boats, killing 11 in one of..."
+      "char": "🇨🇺",
+      "label": "new blockade strangles cuba's economy",
+      "url": "https://www.nytimes.com/2026/02/20/world/americas/cuba-oil-blockade-trump.html",
+      "title": "A New U.S. Blockade Is Strangling Cuba",
+      "summary": "An analysis of ship movements shows that the Trump administration is isolating the island at one of its most vulnerable moments."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "The news reflects a day filled with unsettling developments, including threats to political stability and tragic violence, creating an overall somber atmosphere.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
