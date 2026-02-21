@@ -23539,5 +23539,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-21",
+    "emojis": [
+      {
+        "char": "🇰🇪",
+        "label": "kenyans fighting for russia in ukraine",
+        "url": "https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
+        "title": "More than 1,000 Kenyans lured to fight for Russia in Ukraine war, report says",
+        "summary": "Intelligence findings read to parliament say ‘rogue’ agencies and individuals recruiting Kenyan nationals to frontline More than 1,000 Kenyans have been lured to fight for Russia in its war with Ukraine, according to an intelligence repo..."
+      },
+      {
+        "char": "🤖",
+        "label": "countries must embrace ai or fall behind",
+        "url": "https://www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne",
+        "title": "Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne",
+        "summary": "Without AI you will be a ‘weaker and poorer nation’, says former UK chancellor two months into job at US firm The former chancellor George Osborne has said countries that do not embrace the kind of powerful AI systems made by his new emp..."
+      },
+      {
+        "char": "🦙",
+        "label": "giant tortoise reintroduced to galapagos",
+        "url": "https://www.theguardian.com/world/2026/feb/20/floreana-giant-tortoise-reintroduced-to-galapagos-island-after-almost-200-years",
+        "title": "Floreana giant tortoise reintroduced to Galápagos island after almost 200 years",
+        "summary": "Subspecies driven to extinction by hungry whalers returns after ‘back breeding’ programme using partial descendants Giant tortoises, the life-giving engineers of remote small island ecosystems, are plodding over the Galápagos island of F..."
+      },
+      {
+        "char": "👑",
+        "label": "prince andrew's arrest shakes royal family",
+        "url": "https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-arrest-epstein-royal-family-uk.html",
+        "title": "Former Prince Andrew’s Arrest Upends Royal Family’s Effort to Move Past His Scandal",
+        "summary": "King Charles III’s family, long rocked by infighting and grievous losses, is facing what could be the gravest threat to its moral authority in more than a generation."
+      },
+      {
+        "char": "⚖️",
+        "label": "icc judges face life under trump sanctions",
+        "url": "https://www.theguardian.com/law/2026/feb/18/international-criminal-court-icc-judges-trump-sanctions",
+        "title": "Credit cards cancelled, Google accounts closed: ICC judges on life under Trump sanctions",
+        "summary": "Kimberly Prost and Luz del Carmen Ibáñez Carranza vow US reprisals will not affect work of international criminal court When the Canadian Kimberly Prost learned Donald Trump’s administration had imposed sanctions on her, it came as a sho..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
