@@ -23671,5 +23671,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-21",
+    "emojis": [
+      {
+        "char": "🐢",
+        "label": "tortoise reintroduced to galápagos",
+        "url": "https://www.theguardian.com/world/2026/feb/20/floreana-giant-tortoise-reintroduced-to-galapagos-island-after-almost-200-years",
+        "title": "Floreana giant tortoise reintroduced to Galápagos island after almost 200 years",
+        "summary": "Subspecies driven to extinction by hungry whalers returns after ‘back breeding’ programme using partial descendants Giant tortoises, the life-giving engineers of remote small island ecosystems, are plodding over the Galápagos island of F..."
+      },
+      {
+        "char": "💼",
+        "label": "trump tariff impacts on economies",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON1FHRzZCU0dTdFlpWUpBRlU4MmxXYWQ0eDNYaUJ5cXJxbElXd0RDOTFiU19XeFB6YkJLWWFsOENMNk5uYWdvS2RXdFNlU01ZbFd1MnkxS2t1UVBoSDBTblF3bXNic2hwNllyYkpqem9hRGo5WHdsYVJoQWhSeE9ZQ2lnYXJZVFJCX29wVnhSOVYwZW9MTzRaZ3ZMUkh6NkRPODFpVjRTdHNIRGlwcHRSXw?oc=5",
+        "title": "Asian economies weigh impact of fresh Trump tariff moves, confusion - Reuters",
+        "summary": "Asian economies weigh impact of fresh Trump tariff moves, confusion Reuters"
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuban forces exit venezuela",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUpOZlNMNUV4TzFHR1dTR1ZZYncyNlFoVkFYcUdKZkZHWUV5cmJXQzFnOXF3aXNIaHR1X1NOcEN1OHZnRnR4Qmk2XzVFY0tlbEtFMkRkaXVrdDFnXzFMXzFuaG80RnQwQkZFOW01ZVJGTXJCV1JvMWh6WVI4anZmYTFWVWhodEZJYXVydkg5VU93VFpfSnhraWZLOUVPZ09lakIwdHFNaFJoUQ?oc=5",
+        "title": "Exclusive: Cuban security forces exit Venezuela as US pressure mounts - Reuters",
+        "summary": "Exclusive: Cuban security forces exit Venezuela as US pressure mounts Reuters"
+      },
+      {
+        "char": "⚖️",
+        "label": "us military strikes on drug boats",
+        "url": "https://www.theguardian.com/us-news/2026/feb/17/us-military-boats-strikes",
+        "title": "US says 11 people killed in latest strikes on alleged drug boats",
+        "summary": "Three boats targeted in eastern Pacific and Caribbean as Trump continues pursuit of alleged ‘narco-terrorists’ US military officials have said American forces launched assaults on three alleged drug-smuggling boats, killing 11 in one of..."
+      },
+      {
+        "char": "📱",
+        "label": "israeli tech cracks activist's phone",
+        "url": "https://www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report",
+        "title": "Kenyan authorities used Israeli tech to crack activist’s phone, report claims",
+        "summary": "Citizen Lab report suggests Cellebrite software was used to break into Boniface Mwangi’s phone while he was under arrest When Boniface Mwangi, the prominent Kenyan pro-democracy activist who plans to run for president in 2027 , had his p..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
