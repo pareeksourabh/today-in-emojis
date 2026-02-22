@@ -23847,5 +23847,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-22",
+    "emojis": [
+      {
+        "char": "🌊",
+        "label": "bodies recovered from lake baikal",
+        "url": "https://www.bbc.com/news/articles/czd8y96mldyo?at_medium=RSS&at_campaign=rss",
+        "title": "Divers recover bodies of seven Chinese tourists from bottom of Lake Baikal",
+        "summary": "A Russian driver also died when their mini-bus plunged under the ice to the bottom of the lake in Siberia."
+      },
+      {
+        "char": "🇨🇳",
+        "label": "trump meets xi amid tensions",
+        "url": "https://www.nytimes.com/2026/02/22/world/asia/trump-xi-jinping-meeting-china.html",
+        "title": "Trump Looks Ahead to Summit With China’s Xi, but Tariffs and Taiwan Loom",
+        "summary": "President Trump said his planned meeting with President Xi Jinping would be a grand display, but tensions over trade and defense could dampen the mood."
+      },
+      {
+        "char": "🇵🇪",
+        "label": "peru elects interim president",
+        "url": "https://www.theguardian.com/world/2026/feb/19/jose-maria-balcazar-elected-peru-interim-president",
+        "title": "Leftist who defended child marriage elected as Peru’s interim president",
+        "summary": "José María Balcázar, who argued for marriage at 14 and above, replaces José Jerí who was voted out after a scandal Peru’s congress has elected José María Balcázar, an octogenarian leftist lawmaker who has defended child marriage, as the..."
+      },
+      {
+        "char": "⚔️",
+        "label": "genocide hallmarks in sudan",
+        "url": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
+        "title": "RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds",
+        "summary": "Report details harrowing 18-month occupation of North Darfur capital, showing destruction aimed at ethnic communities The siege and capture of the Sudanese city of El Fasher by the paramilitary Rapid Support Forces group last October bor..."
+      },
+      {
+        "char": "🏈",
+        "label": "viking receiver dies at 25",
+        "url": "https://www.bbc.com/sport/american-football/articles/cpw0qye140do?at_medium=RSS&at_campaign=rss",
+        "title": "Minnesota Vikings receiver Moore dies aged 25",
+        "summary": "The Minnesota Vikings have paid tribute to Rondale Moore after the 25-year-old's death."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
