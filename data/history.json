@@ -23803,5 +23803,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-02-22",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "icc judges under trump sanctions",
+        "url": "https://www.theguardian.com/law/2026/feb/18/international-criminal-court-icc-judges-trump-sanctions",
+        "title": "Credit cards cancelled, Google accounts closed: ICC judges on life under Trump sanctions",
+        "summary": "Kimberly Prost and Luz del Carmen Ibáñez Carranza vow US reprisals will not affect work of international criminal court When the Canadian Kimberly Prost learned Donald Trump’s administration had imposed sanctions on her, it came as a sho..."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran's preparation for war",
+        "url": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html",
+        "title": "Inside Iran’s Preparation for War and Plans for Survival",
+        "summary": "Supreme Leader Ayatollah Ali Khamenei has entrusted Ali Larijani, the top national security official, to ensure the Islamic Republic endures possible war and assassination."
+      },
+      {
+        "char": "💰",
+        "label": "fat bonuses for family doctors",
+        "url": "https://www.nytimes.com/2026/02/22/world/canada/fat-signing-bonuses-and-concierge-service-for-family-doctors.html",
+        "title": "Fat Signing Bonuses, and Concierge Service, for Family Doctors",
+        "summary": "In a country where a quarter of the population lacks a family doctor, Canadian communities compete in a zero-sum battle to recruit family doctors."
+      },
+      {
+        "char": "🏅",
+        "label": "norway's olympic medal haul",
+        "url": "https://www.nytimes.com/2026/02/22/world/europe/2026-winter-olympics-klaebo-norway-epstein.html",
+        "title": "Johannes Hoesflot Klaebo Leads Norway to Record Olympic Medal Haul",
+        "summary": "Norway, led by the cross-country skiing sensation Johannes Hoesflot Klaebo, topped the medal table for the fourth straight Winter Games."
+      },
+      {
+        "char": "🐢",
+        "label": "giant tortoises return to galapagos",
+        "url": "https://www.theguardian.com/world/2026/feb/20/floreana-giant-tortoise-reintroduced-to-galapagos-island-after-almost-200-years",
+        "title": "Floreana giant tortoise reintroduced to Galápagos island after almost 200 years",
+        "summary": "Subspecies driven to extinction by hungry whalers returns after ‘back breeding’ programme using partial descendants Giant tortoises, the life-giving engineers of remote small island ecosystems, are plodding over the Galápagos island of F..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
