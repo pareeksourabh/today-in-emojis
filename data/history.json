@@ -23715,5 +23715,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-22",
+    "emojis": [
+      {
+        "char": "🇮🇷",
+        "label": "attacking iran riskier than maduro",
+        "url": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-military-operation-venezuela.html",
+        "title": "Why Attacking Iran Could Be Riskier Than Capturing Maduro",
+        "summary": "Iran’s extensive military abilities and network of regional proxies could draw the United States into a prolonged conflict."
+      },
+      {
+        "char": "🏒",
+        "label": "how olympic experts keep ice intact",
+        "url": "https://www.nytimes.com/2026/02/21/world/europe/olympics-ice-maintenance-zamboni-drama.html",
+        "title": "How Olympic Experts Keep the Ice Intact",
+        "summary": "A team of skilled technicians and drivers keep the frozen surface at the right temperature and thickness. The challenge? Each event needs a different kind of ice."
+      },
+      {
+        "char": "📺",
+        "label": "doj probes netflix's power over filmmakers",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYVBhR1lVZVVRYTZtWEFPOTlZdU9GcFRpdERDczhIMy1heG14MDdtdWFuWUExSW02QzJqTFY5SW9kX09IRmljVVctZzNQc0E3VEhJSktGbXU0OUJCNzVEOVRnOWljVHc1Z1NUXzhfaEdJUG1rUGhMUTVIM3JxejY5ZEdJTG4wNWRYaEhlM2hYTloyQXAxWmkyZHl4NldOdTBoV0RESEdBZFhBTUlPRlFFdXFKSjNtaE41M1hHbVNROGNDaHBrYmtzNHNCbmJ3UkZTcjgxZVR4cG9IWHhnYjRiTEVNOA?oc=5",
+        "title": "DOJ Probes Netflix's Power Over Filmmakers In Warner Deal Review - Bloomberg News - TradingView",
+        "summary": "DOJ Probes Netflix's Power Over Filmmakers In Warner Deal Review - Bloomberg News TradingView"
+      },
+      {
+        "char": "🌕",
+        "label": "nasa may delay artemis ii moon mission",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQclpPVTFhQzZlQTZBb2hTYUY4dkZiazVwREVOTS1Ec1Jzbk5RQ0hLdkFTOEFMQ2s3ODRyVkk0Q2x6NkV3dklyR2VxNkVBNzJHUEcyNWFDZ2hfUXQ0aklUQkM5bXNaNWgwUUM3c0FvVW1nTEdoU0ZyVU1sRl9YbWJxTndNcG00N2drOThnRWZuemJVSmEwQXNQNVVGM0stblRIcVBxWDBtcTBfOWczN3c4?oc=5",
+        "title": "NASA may take moon mission Artemis II rocket back to assembly site, affecting March launch window - Reuters",
+        "summary": "NASA may take moon mission Artemis II rocket back to assembly site, affecting March launch window Reuters"
+      },
+      {
+        "char": "📰",
+        "label": "rsf siege in sudan hallmarks of genocide",
+        "url": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
+        "title": "RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds",
+        "summary": "Report details harrowing 18-month occupation of North Darfur capital, showing destruction aimed at ethnic communities The siege and capture of the Sudanese city of El Fasher by the paramilitary Rapid Support Forces group last October bor..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
