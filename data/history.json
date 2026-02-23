@@ -23935,5 +23935,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-23",
+    "emojis": [
+      {
+        "char": "🕵️‍♂",
+        "label": "russia's shadow war revealed",
+        "url": "https://www.nytimes.com/2026/02/22/world/europe/russia-sabotage-europe.html",
+        "title": "The Ex-Taxi Driver at the Center of Russia’s Shadow War",
+        "summary": "The Kremlin’s sabotage campaign against European allies of Ukraine has been escalating. It needs people like Aleksei Kolosovsky, 42, to carry it out."
+      },
+      {
+        "char": "📚",
+        "label": "iran student protests continue",
+        "url": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html",
+        "title": "Iran Students Protest for Second Day Despite State Crackdown",
+        "summary": "Student groups reported protests at universities in Iran’s two largest cities as the government grapples with domestic discontent and the threat of U.S. strikes."
+      },
+      {
+        "char": "⛪",
+        "label": "st. francis' remains displayed",
+        "url": "https://www.nytimes.com/2026/02/22/world/europe/italy-saint-francis-remains-assisi.html",
+        "title": "St. Francis’ Remains, Rarely Seen, Go on Display in Assisi",
+        "summary": "The bones of Italy’s patron saint will be shown to the public for a month, to mark the 800th anniversary of his death."
+      },
+      {
+        "char": "💣",
+        "label": "explosions in western ukraine",
+        "url": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&at_campaign=rss",
+        "title": "Explosions kill police officer and injure 25 in western Ukraine",
+        "summary": "Twenty-five people were injured by explosions overnight in what officials are calling a terror attack."
+      },
+      {
+        "char": "📱",
+        "label": "israeli tech used against activists",
+        "url": "https://www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report",
+        "title": "Kenyan authorities used Israeli tech to crack activist’s phone, report claims",
+        "summary": "Citizen Lab report suggests Cellebrite software was used to break into Boniface Mwangi’s phone while he was under arrest When Boniface Mwangi, the prominent Kenyan pro-democracy activist who plans to run for president in 2027 , had his p..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

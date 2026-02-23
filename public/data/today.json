@@ -1,64 +1,43 @@
 {
-  "date": "2026-02-22",
-  "timestamp": "2026-02-22T16:14:54Z",
+  "date": "2026-02-23",
+  "timestamp": "2026-02-23T01:20:00Z",
   "emojis": [
     {
-      "char": "🇺🇦",
-      "label": "russia attacks ukraine ahead of invasion",
-      "url": "https://www.nytimes.com/2026/02/22/world/europe/ukraine-russia-attacks-lviv.html",
-      "title": "Russia Attacks Ukraine Ahead of Invasion’s 4th Anniversary",
-      "summary": "At least one man was killed in Kyiv as Moscow launched a wave of drones and missiles, days after the latest round of U.S.-mediated talks to end the war."
+      "char": "🕵️‍♂",
+      "label": "russia's shadow war revealed",
+      "url": "https://www.nytimes.com/2026/02/22/world/europe/russia-sabotage-europe.html",
+      "title": "The Ex-Taxi Driver at the Center of Russia’s Shadow War",
+      "summary": "The Kremlin’s sabotage campaign against European allies of Ukraine has been escalating. It needs people like Aleksei Kolosovsky, 42, to carry it out."
     },
     {
-      "char": "🐢",
-      "label": "giant tortoises return to galápagos",
-      "url": "https://www.bbc.com/news/articles/c9wn1jrzk4go?at_medium=RSS&at_campaign=rss",
-      "title": "Giant tortoises return to Galápagos island after nearly 200 years",
-      "summary": "The native species was driven to extinction by sailors in the 1800s. Now, 158 juvenile giant tortoises have been reintroduced to the island."
+      "char": "📚",
+      "label": "iran student protests continue",
+      "url": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html",
+      "title": "Iran Students Protest for Second Day Despite State Crackdown",
+      "summary": "Student groups reported protests at universities in Iran’s two largest cities as the government grapples with domestic discontent and the threat of U.S. strikes."
     },
     {
-      "char": "⚖️",
-      "label": "icc judges on life under trump sanctions",
-      "url": "https://www.theguardian.com/law/2026/feb/18/international-criminal-court-icc-judges-trump-sanctions",
-      "title": "Credit cards cancelled, Google accounts closed: ICC judges on life under Trump sanctions",
-      "summary": "Kimberly Prost and Luz del Carmen Ibáñez Carranza vow US reprisals will not affect work of international criminal court When the Canadian Kimberly Prost learned Donald Trump’s administration had imposed sanctions on her, it came as a sho..."
+      "char": "⛪",
+      "label": "st. francis' remains displayed",
+      "url": "https://www.nytimes.com/2026/02/22/world/europe/italy-saint-francis-remains-assisi.html",
+      "title": "St. Francis’ Remains, Rarely Seen, Go on Display in Assisi",
+      "summary": "The bones of Italy’s patron saint will be shown to the public for a month, to mark the 800th anniversary of his death."
     },
     {
-      "char": "🌍",
-      "label": "arab leaders condemn us ambassador's remarks",
-      "url": "https://www.nytimes.com/2026/02/22/world/middleeast/huckabee-israel-tucker-carlson.html",
-      "title": "Arab Leaders Condemn Remarks by U.S. Ambassador to Israel",
-      "summary": "The ambassador, Mike Huckabee, seemed to endorse Israeli control of lands stretching from Egypt to Iraq. He said his comments were taken out of context."
+      "char": "💣",
+      "label": "explosions in western ukraine",
+      "url": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&at_campaign=rss",
+      "title": "Explosions kill police officer and injure 25 in western Ukraine",
+      "summary": "Twenty-five people were injured by explosions overnight in what officials are calling a terror attack."
     },
     {
-      "char": "🏅",
-      "label": "klaebo leads norway to olympic medal haul",
-      "url": "https://www.nytimes.com/2026/02/22/world/europe/2026-winter-olympics-klaebo-norway-epstein.html",
-      "title": "Johannes Hoesflot Klaebo Leads Norway to Record Olympic Medal Haul",
-      "summary": "Norway, led by the cross-country skiing sensation Johannes Hoesflot Klaebo, topped the medal table for the fourth straight Winter Games."
+      "char": "📱",
+      "label": "israeli tech used against activists",
+      "url": "https://www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report",
+      "title": "Kenyan authorities used Israeli tech to crack activist’s phone, report claims",
+      "summary": "Citizen Lab report suggests Cellebrite software was used to break into Boniface Mwangi’s phone while he was under arrest When Boniface Mwangi, the prominent Kenyan pro-democracy activist who plans to run for president in 2027 , had his p..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "Today's news highlights significant conflict and loss, particularly with the ongoing violence in Ukraine. While there are moments of hope, such as the reintroduction of giant tortoises, the overall atmosphere is overshadowed by sorrow and a",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
