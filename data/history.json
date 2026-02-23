@@ -24067,5 +24067,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-02-23",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "eu support for ukraine stumbles",
+        "url": "https://www.nytimes.com/2026/02/23/world/europe/ukraine-war-russia-eu-hungary.html",
+        "title": "EU Support for Ukraine Stumbles as Hungary Looks to Delay Aid",
+        "summary": "Hungary said that it would block both the latest sanctions package on Russia and a financial aid package to Kyiv worth about $106 billion."
+      },
+      {
+        "char": "📉",
+        "label": "australia's lendlease hits low",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNDk1UEltTXVnMWlZTVRYYk1GdF9QV05nSVZiUld3MF9Kc3UxQmN0SzgtYmZfYWRwcG9NamVraDRoTFdUMmlDUWZMVURqampNSElyeVZhODhKQmN5cVp0UElzVEdGUGR4SkFOUVpfazNIY3ZMRGFRVEpRSFA2dXZ0WGNYazNpN1BfUktndDJaSFR6WGlYbGdpMWhVYVVYUDRsOVYtUE41SjRteE1nRFk4SXI5SG44NmtrNTFBVFFRQmlJNUNPWUVIX1d3?oc=5",
+        "title": "Australia's Lendlease hits near four‑decade low after swinging to first‑half loss - Reuters",
+        "summary": "Australia's Lendlease hits near four‑decade low after swinging to first‑half loss Reuters"
+      },
+      {
+        "char": "⚖️",
+        "label": "court upholds jailing of activists",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSzJucVBnNjlYa2RSaWRRN2pkTlZTMDAwZkhhVnlScE9vNHR6b3RvRGpjcWZqUHpoVzVMSC0zQjlsR3VqWS0wR2h6N0VKTjhBcE16M2tUcjI3d3RweU5PaXZvUkpQeHdHZi1xMzhCd0o3aTc0Q1ZQOW1vWmd2Mm9lOW1jRk1SSmVScU84Mks1TkVxQV9OdmZfbEZDOVNYdWNYT3FsV1BSQ1AyT29HdWQydnBfa0FzVGs?oc=5",
+        "title": "Court upholds jailing of 12 activists in 'Hong Kong 47' subversion case - Reuters",
+        "summary": "Court upholds jailing of 12 activists in 'Hong Kong 47' subversion case Reuters"
+      },
+      {
+        "char": "🕊️",
+        "label": "rsf siege in sudan has genocide hallmarks",
+        "url": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
+        "title": "RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds",
+        "summary": "Report details harrowing 18-month occupation of North Darfur capital, showing destruction aimed at ethnic communities The siege and capture of the Sudanese city of El Fasher by the paramilitary Rapid Support Forces group last October bor..."
+      },
+      {
+        "char": "💰",
+        "label": "us to stop collecting illegal tariffs",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY3NQdjRRSTVMSGhHMmtFWTMzdFZvUUMzZkdZX0lHeThaay13OGZyVHVMOTREdjltVEZqV0RaTkJ3a2Z0NjdPYXU2MFAyc2dDM1RvYThIZzNWdVViWmJ4cHNzZjJtTms5TFE3ejhFMmJMdENsVWZzUDU2WWJ0S2RxOFZpVGswMnMxbnE3RWVKeGE4N2NVbG5zUThMeEhQQXJTMmFqSmxZS08wTnJIazFyRDd3RG5Vbm1aMEE?oc=5",
+        "title": "US to stop collecting tariffs deemed illegal by Supreme Court on Tuesday - Reuters",
+        "summary": "US to stop collecting tariffs deemed illegal by Supreme Court on Tuesday Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
