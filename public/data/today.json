@@ -39,5 +39,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "Today's news reflects a mix of sorrow and distress, particularly with ongoing protests in Iran and the violent aftermath of a cartel raid in Mexico. The emotional weight of these events casts a gloomy shadow over the day.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
