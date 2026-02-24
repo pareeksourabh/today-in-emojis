@@ -24155,5 +24155,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-24",
+    "emojis": [
+      {
+        "char": "🇮🇷",
+        "label": "iran's rulers risk us demands",
+        "url": "https://www.nytimes.com/2026/02/23/world/middleeast/iran-us-nuclear-talks-war.html",
+        "title": "For Iran’s Rulers, Refusing U.S. Demands Is a Risk Worth Taking",
+        "summary": "The government in Tehran sees capitulating to Washington’s demands on uranium enrichment and ballistic missiles as riskier to its survival than going to war, analysts say."
+      },
+      {
+        "char": "🏗️",
+        "label": "paris landmark getting a makeover",
+        "url": "https://www.nytimes.com/2026/02/23/world/europe/tour-montparnasse-paris-makeover-piano.html",
+        "title": "Tour Montparnasse Is One of Paris’s Uglier Landmarks. It’s Getting a Makeover.",
+        "summary": "The Tour Montparnasse is one of Paris’s least-loved landmarks. After half a century, it’s finally being remodeled."
+      },
+      {
+        "char": "💰",
+        "label": "mexico battles after cartel boss killing",
+        "url": "https://www.theguardian.com/world/2026/feb/23/mexico-trump-cartel-boss-killing",
+        "title": "Mexico faces uphill battle to appease kingpin Trump after cartel boss’s killing",
+        "summary": "Trump tells Mexico to ‘step up’ effort to combat cartels even after military operation kills drug lord known as ‘El Mencho’ Violence in Mexico after military kills notorious drug cartel boss – a visual guide With schools still closed, fl..."
+      },
+      {
+        "char": "🪖",
+        "label": "soldiers sent to curb violence in mexico",
+        "url": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
+        "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
+        "summary": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces."
+      },
+      {
+        "char": "🔍",
+        "label": "mugabe's son charged with crimes",
+        "url": "https://www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes",
+        "title": "Robert Mugabe’s son charged with attempted murder over Johannesburg shooting",
+        "summary": "Bellarmine Chatunga Mugabe, known for lavish lifestyle, also accused of theft and being illegal immigrant after man allegedly shot in back A son of the late Zimbabwean president Robert Mugabe has been charged with attempted murder after..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

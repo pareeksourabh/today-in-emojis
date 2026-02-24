@@ -1,64 +1,43 @@
 {
-  "date": "2026-02-23",
-  "timestamp": "2026-02-23T16:40:22Z",
+  "date": "2026-02-24",
+  "timestamp": "2026-02-24T01:18:27Z",
   "emojis": [
     {
-      "char": "🏅",
-      "label": "russian athletes compete amid boycott",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkRFU3BMVUVNSmRRbm01bG1EWXJ3c0NXRng0UVNQSnUwS3VlVEJ1aHZsQXlJdTBPcENYOGZORmhrcVdCeDMxZDM5TWlnTGRaU0M3YTkxbVl4cVZhVDdIcUFUMlpBaFE2RzFTb2U2a1FBdTU2cktxRDE0Rjg4MXp4UmFLd2x3WTd5Mm9QUzBQdUF2T3kyVFdGTlhYV3h2aHpVelJwMWJCcy1kX0U?oc=5",
-      "title": "IPC stands firm on Russian athletes competing amid boycott warnings - Reuters",
-      "summary": "IPC stands firm on Russian athletes competing amid boycott warnings Reuters"
+      "char": "🇮🇷",
+      "label": "iran's rulers risk us demands",
+      "url": "https://www.nytimes.com/2026/02/23/world/middleeast/iran-us-nuclear-talks-war.html",
+      "title": "For Iran’s Rulers, Refusing U.S. Demands Is a Risk Worth Taking",
+      "summary": "The government in Tehran sees capitulating to Washington’s demands on uranium enrichment and ballistic missiles as riskier to its survival than going to war, analysts say."
     },
     {
-      "char": "✊",
-      "label": "iran students protest despite crackdown",
-      "url": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html",
-      "title": "Iran Students Protest for Second Day Despite State Crackdown",
-      "summary": "Student groups reported protests at universities in Iran’s two largest cities as the government grapples with domestic discontent and the threat of U.S. strikes."
+      "char": "🏗️",
+      "label": "paris landmark getting a makeover",
+      "url": "https://www.nytimes.com/2026/02/23/world/europe/tour-montparnasse-paris-makeover-piano.html",
+      "title": "Tour Montparnasse Is One of Paris’s Uglier Landmarks. It’s Getting a Makeover.",
+      "summary": "The Tour Montparnasse is one of Paris’s least-loved landmarks. After half a century, it’s finally being remodeled."
     },
     {
-      "char": "💵",
-      "label": "dollar loses safe-haven status",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2dpWHhwV0hVci1uT3RLdTk2UG9vczVBUTBIdEdoVF9IaXRIb3Z2YkU4WV9IV3g2TzdLM3NDX0RGX1JaQWtBd2d4Tlk0MkdWQmlhbWlXc0NqM3pjTzVaUXRNelVORGN2NGVDRFhnNEh0WkxqOEEwTFE0bXpGaUNuaWtsdUNNbHo0V0plUk9UdmRaY0VGb0NFRzR5dTFKMGRyS3EwVkhCdFloQmpRMkJhOA?oc=5",
-      "title": "Dollar has lost some of its safe-haven status, ING report says - Reuters",
-      "summary": "Dollar has lost some of its safe-haven status, ING report says Reuters"
+      "char": "💰",
+      "label": "mexico battles after cartel boss killing",
+      "url": "https://www.theguardian.com/world/2026/feb/23/mexico-trump-cartel-boss-killing",
+      "title": "Mexico faces uphill battle to appease kingpin Trump after cartel boss’s killing",
+      "summary": "Trump tells Mexico to ‘step up’ effort to combat cartels even after military operation kills drug lord known as ‘El Mencho’ Violence in Mexico after military kills notorious drug cartel boss – a visual guide With schools still closed, fl..."
     },
     {
-      "char": "🔫",
-      "label": "operation kills cartel boss in mexico",
-      "url": "https://www.nytimes.com/live/2026/02/23/world/mexico",
-      "title": "Live Updates: Operation That Killed Cartel Boss Left Dozens Dead, Mexican Authorities Say",
-      "summary": "Officials said at least 62 people died in the raid that caught “El Mencho,” the longtime head of a powerful cartel, and the violence that followed."
+      "char": "🪖",
+      "label": "soldiers sent to curb violence in mexico",
+      "url": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
+      "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
+      "summary": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces."
     },
     {
-      "char": "🚨",
-      "label": "el mencho killed, violence erupts",
-      "url": "https://www.nytimes.com/2026/02/23/world/americas/el-mencho-killed-mexico-cartel.html",
-      "title": "Drug Lord ‘El Mencho’ Was Killed in Mexico. What’s Next for the Cartel He Led?",
-      "summary": "The death of Nemesio Oseguera Cervantes dealt a major blow to the Jalisco New Generation Cartel, but few believe it spells the end for the powerful group."
+      "char": "🔍",
+      "label": "mugabe's son charged with crimes",
+      "url": "https://www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes",
+      "title": "Robert Mugabe’s son charged with attempted murder over Johannesburg shooting",
+      "summary": "Bellarmine Chatunga Mugabe, known for lavish lifestyle, also accused of theft and being illegal immigrant after man allegedly shot in back A son of the late Zimbabwean president Robert Mugabe has been charged with attempted murder after..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "Today's news reflects a mix of sorrow and distress, particularly with ongoing protests in Iran and the violent aftermath of a cartel raid in Mexico. The emotional weight of these events casts a gloomy shadow over the day.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
