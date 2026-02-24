@@ -24331,5 +24331,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-24",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "genocide hallmarks in sudan",
+        "url": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
+        "title": "RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds",
+        "summary": "Report details harrowing 18-month occupation of North Darfur capital, showing destruction aimed at ethnic communities The siege and capture of the Sudanese city of El Fasher by the paramilitary Rapid Support Forces group last October bor..."
+      },
+      {
+        "char": "🔫",
+        "label": "executions by russian soldiers",
+        "url": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&at_campaign=rss",
+        "title": "Russian soldiers tell BBC they saw fellow troops executed on commanders' orders",
+        "summary": "Four men expose the horror and brutality of conditions in the Ukraine war, with two saying they saw soldiers being shot for refusing orders."
+      },
+      {
+        "char": "🇲🇽",
+        "label": "mexico caught between trump and cartels",
+        "url": "https://www.nytimes.com/2026/02/24/world/americas/trump-sheinbaum-us-mexico-cartel.html",
+        "title": "Mexico Is Caught Between Trump and the Cartels",
+        "summary": "President Trump has demanded President Claudia Sheinbaum confront the cartels. The killing of “El Mencho” suggests it might be working — but could come at a cost."
+      },
+      {
+        "char": "💰",
+        "label": "russia's war economy costs",
+        "url": "https://www.nytimes.com/2026/02/24/world/europe/russia-ukraine-war-future.html",
+        "title": "Russia Remade Its Economy for War, but It’s Come at a Huge Cost",
+        "summary": "About half of the country’s federal budget goes toward the fight in Ukraine, money that does little to support its long-term development."
+      },
+      {
+        "char": "🐅",
+        "label": "tigers die in thai park",
+        "url": "https://www.bbc.com/news/articles/cly833zjp4po?at_medium=RSS&at_campaign=rss",
+        "title": "Probe under way after illness kills 72 tigers in Thai tourist park",
+        "summary": "Authorities say samples showed the canine distemper virus, but have not confirmed where it came from."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
