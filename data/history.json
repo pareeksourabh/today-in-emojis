@@ -24243,5 +24243,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-24",
+    "emojis": [
+      {
+        "char": "🇫🇷",
+        "label": "france summons us ambassador",
+        "url": "https://www.nytimes.com/2026/02/23/world/europe/france-us-ambassador-kushner-activist-killing.html",
+        "title": "France Summons U.S. Ambassador Over Comments on Activist’s Killing",
+        "summary": "Charles Kushner, President Trump’s envoy to Paris, was called in after the State Department cited “violent radical leftism” in the beating death of Quentin Deranque, 23."
+      },
+      {
+        "char": "💊",
+        "label": "probe after illness kills 72 tigers",
+        "url": "https://www.bbc.com/news/articles/cly833zjp4po?at_medium=RSS&at_campaign=rss",
+        "title": "Probe under way after illness kills 72 tigers in Thai tourist park",
+        "summary": "Authorities said samples showed the canine distemper virus, but have not confirmed where it came from."
+      },
+      {
+        "char": "💣",
+        "label": "explosion near moscow kills officer",
+        "url": "https://www.bbc.com/news/articles/czx4pyx9g46o?at_medium=RSS&at_campaign=rss",
+        "title": "Explosion near Moscow rail hub kills police officer",
+        "summary": "The unidentified suspect also died and two other officers were injured, Russian officials say."
+      },
+      {
+        "char": "🌍",
+        "label": "settlers drive family off land in west bank",
+        "url": "https://www.nytimes.com/2026/02/23/world/palestinian-west-bank-settlers-displacement.html",
+        "title": "Settlers in the Israeli-Occupied West Bank Drive a Palestinian Family Off Its Land",
+        "summary": "For two years, settlers attacked Rezeq Abu Naim’s land in the Israeli-occupied West Bank at all hours and in all manners. After another violent incursion over the weekend, his family abandoned their home."
+      },
+      {
+        "char": "🔫",
+        "label": "mugabe's son charged with attempted murder",
+        "url": "https://www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes",
+        "title": "Robert Mugabe’s son charged with attempted murder over Johannesburg shooting",
+        "summary": "Bellarmine Chatunga Mugabe, known for lavish lifestyle, also accused of theft and being illegal immigrant after man allegedly shot in back A son of the late Zimbabwean president Robert Mugabe has been charged with attempted murder after..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
