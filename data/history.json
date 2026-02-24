@@ -24287,5 +24287,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-24",
+    "emojis": [
+      {
+        "char": "🇬🇭",
+        "label": "ghana airport name change",
+        "url": "https://www.bbc.com/news/articles/c178n9yxk10o?at_medium=RSS&at_campaign=rss",
+        "title": "Ghana drops coup leader's name from main airport on putsch anniversary",
+        "summary": "Supporters of the move said the Kotoka name contradicted the country’s democratic values."
+      },
+      {
+        "char": "🇲🇽",
+        "label": "mexico sends soldiers after drug lord's death",
+        "url": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
+        "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
+        "summary": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces."
+      },
+      {
+        "char": "🕊️",
+        "label": "iran's rulers risk in nuclear talks",
+        "url": "https://www.nytimes.com/2026/02/23/world/middleeast/iran-us-nuclear-talks-war.html",
+        "title": "For Iran’s Rulers, Refusing U.S. Demands Is a Risk Worth Taking",
+        "summary": "The government in Tehran sees capitulating to Washington’s demands on uranium enrichment and ballistic missiles as riskier to its survival than going to war, analysts say."
+      },
+      {
+        "char": "🎭",
+        "label": "robert carradine dies at 71",
+        "url": "https://www.bbc.com/news/articles/cy0dqpjjprno?at_medium=RSS&at_campaign=rss",
+        "title": "Robert Carradine, Lizzie McGuire and Revenge of the Nerds star, dies aged 71",
+        "summary": "His family says the actor took his own life after living with bipolar disorder for nearly two decades."
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukraine battlefield drones dominate",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSHBjOHUyX0d6cFpXeFNXcWlxbTJ5c0VlZDBUZkxnQTM1VEF2d1pKdVllWWdHLWJvMVdCTlZ0UXFFUnQ0VHRGbExSeGx3TzI1eUtwTEFvdXJsbk5wbGlxZDJsN2x1TmtjVVdVZVJ6d3FDbnY0VTZ5ZUpHcUR4YmF3Wml3MUtFR2x3N1hxMF90VEdoZWZFWHRXSV9VblVXOEZERlNWNnVuMkZvWWMteU9nMnBVNEZ2VkxlaXdaVjJpdmI?oc=5",
+        "title": "Drones dominate Ukraine battlefield four years into fighting - Reuters",
+        "summary": "Drones dominate Ukraine battlefield four years into fighting Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
