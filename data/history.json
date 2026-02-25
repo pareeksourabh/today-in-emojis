@@ -24419,5 +24419,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-02-25",
+    "emojis": [
+      {
+        "char": "🇷🇺",
+        "label": "russia bans telegram app",
+        "url": "https://www.nytimes.com/2026/02/24/world/europe/russia-telegram-pavel-durov-terrorism.html",
+        "title": "Russia Moves Closer to Banning Telegram App, Saying It Foments Terrorism",
+        "summary": "News of an investigation into Pavel Durov, the app’s billionaire founder, deepened a crackdown on what remains of the free Russian internet."
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukraine remembers its dead",
+        "url": "https://www.bbc.com/news/articles/clyg7r3nd3ko?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine remembers its dead as war enters a fifth year",
+        "summary": "Events were held across Ukraine to mark four years since Russia launched its full-scale invasion."
+      },
+      {
+        "char": "🇯🇵",
+        "label": "japan to deploy missiles near taiwan",
+        "url": "https://www.bbc.com/news/articles/cd9gj1w2kn1o?at_medium=RSS&at_campaign=rss",
+        "title": "Japan to deploy missiles on island near Taiwan by 2031",
+        "summary": "The remote Yonaguni island lies on the frontlines of self-governing Taiwan's growing tensions with China."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "brazil trial for rio councillor murder",
+        "url": "https://www.theguardian.com/world/2026/feb/24/brazil-supreme-court-trial-rio-marielle-franco-murder",
+        "title": "Brazilian politicians accused of ordering murder of Rio councillor go on trial",
+        "summary": "Chiquinho and Domingos Brazão accused of ordering shooting of Marielle Franco and her driver in 2018 Brazil’s supreme court has opened the trial of politicians accused of ordering the 2018 murder of Rio de Janeiro councillor Marielle Fra..."
+      },
+      {
+        "char": "🌧️",
+        "label": "floods and landslides in brazil",
+        "url": "https://www.theguardian.com/world/2026/feb/24/floods-landslides-brazil-kill-after-record-rainfall",
+        "title": "Floods and landslides in Brazil kill at least 30 after record rainfall",
+        "summary": "Firefighters search for 39 people missing in debris after river burst and houses were swept away Three firefighters pulled a man’s body from the mud amid the rubble of houses swept away in a landslide in south-eastern Brazil, where 30 pe..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
