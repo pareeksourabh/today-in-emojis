@@ -1,7 +1,14 @@
 {
-  "date": "2026-02-24",
-  "timestamp": "2026-02-24T16:52:14Z",
+  "date": "2026-02-25",
+  "timestamp": "2026-02-25T01:23:00Z",
   "emojis": [
+    {
+      "char": "🇺🇦",
+      "label": "ukrainians resist peace trade",
+      "url": "https://www.nytimes.com/2026/02/24/world/europe/ukraine-war-donetsk.html",
+      "title": "These Ukrainians Don’t Want to Be Traded to Russia for Peace",
+      "summary": "Four years into the war, a major sticking point in talks is control of the eastern Donetsk region. Residents could face an agonizing choice if Ukraine gives up the territory."
+    },
     {
       "char": "🕊️",
       "label": "genocide hallmarks in sudan",
@@ -10,55 +17,27 @@
       "summary": "Report details harrowing 18-month occupation of North Darfur capital, showing destruction aimed at ethnic communities The siege and capture of the Sudanese city of El Fasher by the paramilitary Rapid Support Forces group last October bor..."
     },
     {
-      "char": "🔫",
-      "label": "executions by russian soldiers",
-      "url": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&at_campaign=rss",
-      "title": "Russian soldiers tell BBC they saw fellow troops executed on commanders' orders",
-      "summary": "Four men expose the horror and brutality of conditions in the Ukraine war, with two saying they saw soldiers being shot for refusing orders."
-    },
-    {
-      "char": "🇲🇽",
-      "label": "mexico caught between trump and cartels",
-      "url": "https://www.nytimes.com/2026/02/24/world/americas/trump-sheinbaum-us-mexico-cartel.html",
-      "title": "Mexico Is Caught Between Trump and the Cartels",
-      "summary": "President Trump has demanded President Claudia Sheinbaum confront the cartels. The killing of “El Mencho” suggests it might be working — but could come at a cost."
+      "char": "🎨",
+      "label": "louvre director resigns after heist",
+      "url": "https://www.nytimes.com/2026/02/24/world/europe/louvre-director-resigns-heist.html",
+      "title": "Louvre Director Resigns, Months After Crown Jewels Were Stolen in Heist",
+      "summary": "Laurence des Cars’s departure is the latest setback for the world’s largest museum. Her tenure was marred by labor strikes, water leaks, a ticket scam and security lapses, which led to the heist in October."
     },
     {
       "char": "💰",
-      "label": "russia's war economy costs",
-      "url": "https://www.nytimes.com/2026/02/24/world/europe/russia-ukraine-war-future.html",
-      "title": "Russia Remade Its Economy for War, but It’s Come at a Huge Cost",
-      "summary": "About half of the country’s federal budget goes toward the fight in Ukraine, money that does little to support its long-term development."
+      "label": "el mencho tracked via partner",
+      "url": "https://www.theguardian.com/world/2026/feb/23/el-mencho-mexican-drug-cartel-boss-killing-violence",
+      "title": "Mexican drug cartel boss ‘El Mencho’ tracked through romantic partner",
+      "summary": "Killing of Jalisco New Generation Cartel leader sparks wave of violence across western Mexico Analysis: Mexico faces uphill battle to appease kingpin Trump Who was El Mencho? Mexican authorities tracked down and killed “El Mencho”, one o..."
     },
     {
-      "char": "🐅",
-      "label": "tigers die in thai park",
-      "url": "https://www.bbc.com/news/articles/cly833zjp4po?at_medium=RSS&at_campaign=rss",
-      "title": "Probe under way after illness kills 72 tigers in Thai tourist park",
-      "summary": "Authorities say samples showed the canine distemper virus, but have not confirmed where it came from."
+      "char": "🌧️",
+      "label": "brazil floods kill 30",
+      "url": "https://www.theguardian.com/world/2026/feb/24/floods-landslides-brazil-kill-after-record-rainfall",
+      "title": "Floods and landslides in Brazil kill at least 30 after record rainfall",
+      "summary": "Firefighters search for 39 people missing in debris after river burst and houses were swept away Three firefighters pulled a man’s body from the mud amid the rubble of houses swept away in a landslide in south-eastern Brazil, where 30 pe..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sadness",
-    "emoji": "😢",
-    "rationale": "Today's news reflects deep tragedies and injustices, from genocidal actions in Sudan to the brutal realities faced by soldiers in Ukraine. These stories evoke a profound sense of sorrow for the suffering and loss experienced globally.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
