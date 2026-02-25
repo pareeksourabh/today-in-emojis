@@ -24551,5 +24551,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-25",
+    "emojis": [
+      {
+        "char": "💊",
+        "label": "zambia us health aid deal",
+        "url": "https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets",
+        "title": "US accused of ‘shameless exploitation’ over proposed Zambian health aid deal",
+        "summary": "Leaked draft of $1bn memorandum of understanding reveals mandatory targets, sharing of data, and reported access to mining concessions The US has been accused of “shameless exploitation” over a health financing agreement with Zambia wort..."
+      },
+      {
+        "char": "⚽",
+        "label": "futsal hero in afghanistan",
+        "url": "https://www.nytimes.com/2026/02/25/world/asia/afghanistan-futsal-alireza-ahmadi.html",
+        "title": "Futsal Phenom in Afghanistan Is a Hero the Taliban Didn’t Expect",
+        "summary": "A triumph in indoor soccer has turned Alireza Ahmadi, 17, and other players from the Hazara minority, long marginalized in Afghanistan, into national heroes."
+      },
+      {
+        "char": "🌍",
+        "label": "pope's visit to africa",
+        "url": "https://www.nytimes.com/2026/02/25/world/europe/pope-africa-visit.html",
+        "title": "Pope Leo to Visit Africa, Signaling Continent’s Importance to Catholicism",
+        "summary": "The number of Roman Catholics is growing faster in Africa than anywhere else, according to the Vatican."
+      },
+      {
+        "char": "🌧️",
+        "label": "floods and landslides in brazil",
+        "url": "https://www.theguardian.com/world/2026/feb/24/floods-landslides-brazil-kill-after-record-rainfall",
+        "title": "Floods and landslides in Brazil kill at least 30 after record rainfall",
+        "summary": "Firefighters search for 39 people missing in debris after river burst and houses were swept away Three firefighters pulled a man’s body from the mud amid the rubble of houses swept away in a landslide in south-eastern Brazil, where 30 pe..."
+      },
+      {
+        "char": "🔫",
+        "label": "rsf siege in sudan",
+        "url": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
+        "title": "RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds",
+        "summary": "Report details harrowing 18-month occupation of North Darfur capital, showing destruction aimed at ethnic communities The siege and capture of the Sudanese city of El Fasher by the paramilitary Rapid Support Forces group last October bor..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
