@@ -24683,5 +24683,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-26",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "brazilian politician brothers convicted",
+        "url": "https://www.theguardian.com/world/2026/feb/25/brazil-politician-brothers-convicted-murder",
+        "title": "Brazilian politician brothers convicted of ordering murder of Rio city councillor",
+        "summary": "João Francisco Inácio Brazão and Domingos Inácio Brazão sentenced for murder of Marielle Franco, a gay Black woman and rising political star Two influential Brazilian politician brothers have been convicted by Brazil’s supreme court of o..."
+      },
+      {
+        "char": "🌍",
+        "label": "women arrested in uganda for kissing",
+        "url": "https://www.theguardian.com/global-development/2026/feb/26/women-arrested-uganda-kissing-public-lgbtq-laws",
+        "title": "Two women arrested in Uganda for allegedly kissing in public could face life sentence",
+        "summary": "Wendy Faith and Alesi Diana Denise were taken into custody under laws that have outraged LGBTQ+ community and rights activists Two women have been arrested and detained in Uganda after allegedly kissing in public, an act of “same-sex act..."
+      },
+      {
+        "char": "🏺",
+        "label": "royal artillery denies access to treasure",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/24/royal-artillery-access-looted-asante-treasure-ghana",
+        "title": "Royal Artillery under fire after denying access to looted Asante treasure",
+        "summary": "‘Extraordinary’ golden lamb’s head pillaged in 1874 from what is now Ghana remains hidden in officers’ mess The Royal Artillery is facing criticism after it emerged they are refusing public access to an “extraordinary object” looted by t..."
+      },
+      {
+        "char": "👑",
+        "label": "prince andrew's royal succession issue",
+        "url": "https://www.nytimes.com/2026/02/25/world/europe/uk-royal-line-succession-prince-andrew-epstein.html",
+        "title": "How the UK Could Remove Former Prince Andrew From the Royal Line of Succession",
+        "summary": "Despite his connections with the sex offender Jeffrey Epstein, the former prince is eighth in line to the British throne. That could change."
+      },
+      {
+        "char": "🌊",
+        "label": "devastating mediterranean storms",
+        "url": "https://www.theguardian.com/world/2026/feb/26/recent-mediterranean-storms-tragedies-spain-portugal-morocco",
+        "title": "‘A devastating force’: how recent Mediterranean storms turned to tragedies",
+        "summary": "Atmospheric machine-gun has fired storm after deadly storm at the region this year, leaving a trail of widespread destruction For Andrés Sánchez Barea, in Spain, it was the fear that arose when water started to spurt from plug sockets. F..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
