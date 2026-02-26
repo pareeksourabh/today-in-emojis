@@ -1,64 +1,43 @@
 {
-  "date": "2026-02-25",
-  "timestamp": "2026-02-25T16:55:23Z",
+  "date": "2026-02-26",
+  "timestamp": "2026-02-26T01:17:31Z",
   "emojis": [
     {
-      "char": "💊",
-      "label": "zambia us health aid deal",
-      "url": "https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets",
-      "title": "US accused of ‘shameless exploitation’ over proposed Zambian health aid deal",
-      "summary": "Leaked draft of $1bn memorandum of understanding reveals mandatory targets, sharing of data, and reported access to mining concessions The US has been accused of “shameless exploitation” over a health financing agreement with Zambia wort..."
+      "char": "👑",
+      "label": "prince andrew's arrest reactions",
+      "url": "https://www.nytimes.com/2026/02/25/world/europe/windsor-reaction-prince-andrew.html",
+      "title": "Former Prince Andrew’s Arrest Is Met With Strong Reactions and Apathy in Windsor",
+      "summary": "“Her children have let her down,” said one woman, referring to Queen Elizabeth II. Andrew Mountbatten-Windsor’s fall from grace drew strong reactions from some. Others said they just did not care."
     },
     {
-      "char": "⚽",
-      "label": "futsal hero in afghanistan",
-      "url": "https://www.nytimes.com/2026/02/25/world/asia/afghanistan-futsal-alireza-ahmadi.html",
-      "title": "Futsal Phenom in Afghanistan Is a Hero the Taliban Didn’t Expect",
-      "summary": "A triumph in indoor soccer has turned Alireza Ahmadi, 17, and other players from the Hazara minority, long marginalized in Afghanistan, into national heroes."
-    },
-    {
-      "char": "🌍",
-      "label": "pope's visit to africa",
-      "url": "https://www.nytimes.com/2026/02/25/world/europe/pope-africa-visit.html",
-      "title": "Pope Leo to Visit Africa, Signaling Continent’s Importance to Catholicism",
-      "summary": "The number of Roman Catholics is growing faster in Africa than anywhere else, according to the Vatican."
+      "char": "🇨🇺",
+      "label": "cuba border guards kill four",
+      "url": "https://www.theguardian.com/world/2026/feb/25/cuba-says-border-guards-killed-four-gunmen-on-us-registered-speedboat",
+      "title": "Cuba says border guards killed four people on US-registered speedboat",
+      "summary": "Rare clash off island’s coast took place amid oil embargo and heightened tensions between two countries The Cuban interior ministry has said that border guards killed four people and wounded six more on a speedboat bearing a Florida regi..."
     },
     {
       "char": "🌧️",
-      "label": "floods and landslides in brazil",
+      "label": "brazil floods and landslides",
       "url": "https://www.theguardian.com/world/2026/feb/24/floods-landslides-brazil-kill-after-record-rainfall",
       "title": "Floods and landslides in Brazil kill at least 30 after record rainfall",
       "summary": "Firefighters search for 39 people missing in debris after river burst and houses were swept away Three firefighters pulled a man’s body from the mud amid the rubble of houses swept away in a landslide in south-eastern Brazil, where 30 pe..."
     },
     {
-      "char": "🔫",
-      "label": "rsf siege in sudan",
-      "url": "https://www.theguardian.com/world/2026/feb/19/rsf-siege-el-fasher-sudan-hallmarks-of-genocide-un-mission-north-darfur",
-      "title": "RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds",
-      "summary": "Report details harrowing 18-month occupation of North Darfur capital, showing destruction aimed at ethnic communities The siege and capture of the Sudanese city of El Fasher by the paramilitary Rapid Support Forces group last October bor..."
+      "char": "⚖️",
+      "label": "mugabe's son charged with crimes",
+      "url": "https://www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes",
+      "title": "Robert Mugabe’s son charged with attempted murder over Johannesburg shooting",
+      "summary": "Bellarmine Chatunga Mugabe, known for lavish lifestyle, also accused of theft and being illegal immigrant after man allegedly shot in back A son of the late Zimbabwean president Robert Mugabe has been charged with attempted murder after..."
+    },
+    {
+      "char": "📰",
+      "label": "ukraine war resilience",
+      "url": "https://www.nytimes.com/2026/02/25/world/europe/ukrainian-war-resilience.html",
+      "title": "Thanks, Ukrainians Say, but Please Stop Calling Us Resilient",
+      "summary": "Ukraine must project strength to secure continued Western support. But its people want the world to know they are not superhuman."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "Today's news highlights significant tragedies, including natural disasters and humanitarian crises, which evoke a deep sense of loss and sadness.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
