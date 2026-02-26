@@ -39,5 +39,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "😨",
+    "emoji": "😨",
+    "rationale": "The day is marked by a mix of fear and uncertainty, particularly highlighted by the devastating storms in the Mediterranean and the alarming charges against Mugabe's son. These events evoke concern about safety and turmoil.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
