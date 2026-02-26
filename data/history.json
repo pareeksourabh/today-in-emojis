@@ -24727,5 +24727,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-02-26",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "brazilian politicians on trial",
+        "url": "https://www.theguardian.com/world/2026/feb/24/brazil-supreme-court-trial-rio-marielle-franco-murder",
+        "title": "Brazilian politicians accused of ordering murder of Rio councillor go on trial",
+        "summary": "Chiquinho and Domingos Brazão accused of ordering shooting of Marielle Franco and her driver in 2018 Brazil’s supreme court has opened the trial of politicians accused of ordering the 2018 murder of Rio de Janeiro councillor Marielle Fra..."
+      },
+      {
+        "char": "🏺",
+        "label": "royal artillery looted treasure",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/24/royal-artillery-access-looted-asante-treasure-ghana",
+        "title": "Royal Artillery under fire after denying access to looted Asante treasure",
+        "summary": "‘Extraordinary’ golden lamb’s head pillaged in 1874 from what is now Ghana remains hidden in officers’ mess The Royal Artillery is facing criticism after it emerged they are refusing public access to an “extraordinary object” looted by t..."
+      },
+      {
+        "char": "🕊️",
+        "label": "us iran crucial talks",
+        "url": "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-nuclear-talks.html",
+        "title": "A Deal or War? Crucial Talks Begin Between U.S. and Iran.",
+        "summary": "President Trump has kept up a steady drumbeat of threats and built up U.S. troops in the region. Iran’s task is to give him a win but also preserve some semblance of nuclear enrichment."
+      },
+      {
+        "char": "🚤",
+        "label": "cuba speedboat armed infiltration",
+        "url": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
+        "title": "Cuba says group shot on US-registered speedboat planned 'armed infiltration'",
+        "summary": "The passengers were Cuban nationals living in the US, the Cuban government says."
+      },
+      {
+        "char": "🎨",
+        "label": "macron's cultural legacy at risk",
+        "url": "https://www.nytimes.com/2026/02/26/world/europe/louvre-macron-cultural-legacy.html",
+        "title": "President Emmanuel Macron’s Cultural Legacy At Risk After Louvre Chief Resigns",
+        "summary": "President Emmanuel Macron has championed a refurbishment of the museum, but the fallout from a sensational heist has put his plans at risk."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
