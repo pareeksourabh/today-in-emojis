@@ -24903,5 +24903,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-02-27",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "jack dorsey's block cuts jobs",
+        "url": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss",
+        "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
+        "summary": "The Twitter co-founder says he believes the majority of firms will make similar changes \"within the next year.\""
+      },
+      {
+        "char": "🇨🇳",
+        "label": "china wants germany in its corner",
+        "url": "https://www.nytimes.com/2026/02/26/world/asia/merz-china-analysis.html",
+        "title": "China Wants Germany in Its Corner. It’s Not That Easy.",
+        "summary": "China’s play for U.S. allies has a problem: As Germany’s leader showed, Europe’s grievances with Beijing may run deeper than its frustration with Trump."
+      },
+      {
+        "char": "🚸",
+        "label": "poland plans social-media ban for kids",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0wxdTdZcUtyZlpsQTBjektPeXZ2VmNOcWFlNENDZ2pwdWIwdWx6c3k5LTZXTmFVZEJIRGJUN3Z3dHFIbnJIVHdyUjZyRWxNNjdEVFBWT3g0NlRHeVBUTmRNS1A4U3NOa3lzdEUxOXpyZGdvRTZKX3hxYTZ1eXJFQXRhNjlDWE1pNjU2Q3psbDV1cXV4cDdWcUVRZ1hiZEFXd0NQRlJaZHZZSHR0a281N2N0VV84emJfVk5iMEp2cjMyUWYwRUNMag?oc=5",
+        "title": "Poland plans social-media ban for children under 15, Bloomberg News reports - Reuters",
+        "summary": "Poland plans social-media ban for children under 15, Bloomberg News reports Reuters"
+      },
+      {
+        "char": "💰",
+        "label": "nintendo plans $1.9 billion share sale",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX2JMcDJILUFUdGlqaU01THAyeXFlajJIU1Q1LWxocmFfYncweXpxMVZ2R1NWUm1TckRmVGg2YVREOVFra3RCOXEtZnUxdTU3QUdjMUJwb0toamtqQ2lzSXdDeXRxdk1qcUNZZzlfbWk2ZjBNSW5ndzV4Vk1BSEtoOFlzaDVEcUZ2clQ5UnZXa1BnUDcwVjRtdVRJSU80N2ZVYWFSSGp5bDZ5a2t1Uk50T0poWThrTWRxdHZBSTJ1aU0yR2tsQ3JwVDFrSUZqTWNPdlZxUEJFckZXNVktUEhiZlB6Z1VWRXljLThBWHpB?oc=5",
+        "title": "Exclusive: Nintendo plans around $1.9 billion share sale by Kyoto bank and others, sources say - Reuters",
+        "summary": "Exclusive: Nintendo plans around $1.9 billion share sale by Kyoto bank and others, sources say Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "rising anger over us health funding pacts",
+        "url": "https://www.theguardian.com/global-development/2026/feb/27/rising-anger-over-lop-sided-immoral-us-health-funding-pacts-africa-countries",
+        "title": "Rising anger over ‘lop-sided’ and ‘immoral’ US health funding pacts with African countries",
+        "summary": "Zimbabwe refuses to sign agreement and Kenya faces a court case over data sharing as new aid deals come under scrutiny A series of bilateral health agreements being negotiated between African countries and the administration of President..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
