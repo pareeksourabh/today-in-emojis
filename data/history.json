@@ -24991,5 +24991,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-27",
+    "emojis": [
+      {
+        "char": "📉",
+        "label": "global equity fund inflows cool",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONzhxU2tKZ0tNTEdFN3htdVE4eXA0ZlVKT3dDRTNnNklaU19GVkhFZEFfeFNxdHAzOTBhQzNBRFdESHVQWG9HTktWU0tvX25pQ01fZG1nYThOcXB4dk5uQXAxaG0wMmY0M3h2bDBjR3ZHTDc3dXFLUFNmMVI0d29YUHJ3?oc=5",
+        "title": "Global equity fund inflows cool to a five-week low on AI concerns - Reuters",
+        "summary": "Global equity fund inflows cool to a five-week low on AI concerns Reuters"
+      },
+      {
+        "char": "❄️",
+        "label": "russians without heat or power",
+        "url": "https://www.nytimes.com/2026/02/27/world/europe/russia-blackouts-heating-breakdowns.html",
+        "title": "Some Russians Go Without Heat or Power in Winter, as Energy System Falls Into Disrepair",
+        "summary": "A dozen major blackouts and central heating cutoffs across the country have affected hundreds of thousands during a brutal winter."
+      },
+      {
+        "char": "🏛️",
+        "label": "uk withdraws embassy staff from tehran",
+        "url": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
+        "title": "UK withdraws Tehran embassy staff as US-Iran tension sparks concern across region",
+        "summary": "The US embassy in Israel has also told some non-emergency staff they can leave the country if they wish."
+      },
+      {
+        "char": "💼",
+        "label": "argentina labor law overhaul",
+        "url": "https://www.theguardian.com/world/2026/feb/27/argentina-labor-law-overhaul",
+        "title": "‘More exploitation, fewer rights’: Argentina braces for sweeping overhaul of labor laws",
+        "summary": "Javier Milei’s boosters say law will revive employment, but critics decry cuts to severance and longer working hours Argentina ’s senate is poised to approve a sweeping overhaul of labour laws aimed at weakening trade unions and lowering..."
+      },
+      {
+        "char": "🚀",
+        "label": "israel missile defense concerns",
+        "url": "https://www.nytimes.com/2026/02/27/world/middleeast/israel-stockpile-missile-interceptors.html",
+        "title": "Israel Facing Prospect of War With a Depleted Missile Defense",
+        "summary": "The June 2025 conflict with Iran depleted Israeli and U.S. stocks of antiballistic missiles. If there is another war, the pressure will be on to destroy Iranian missiles before they can be launched."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
