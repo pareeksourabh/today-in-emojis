@@ -1,64 +1,43 @@
 {
-  "date": "2026-02-26",
-  "timestamp": "2026-02-26T16:42:40Z",
+  "date": "2026-02-27",
+  "timestamp": "2026-02-27T01:16:18Z",
   "emojis": [
     {
-      "char": "📝",
-      "label": "first writing 40,000 years earlier",
-      "url": "https://www.bbc.com/news/articles/cvgknj7yyv2o?at_medium=RSS&at_campaign=rss",
-      "title": "First writing may be 40,000 years earlier than thought",
-      "summary": "Scientists believe they have found evidence of written thoughts of Stone Age people on ancient objects."
+      "char": "📉",
+      "label": "fed forecasts more rate cuts this year",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzhuRFBVTHVhZXlEcTE4dDd0UURqNkViSzNZLVBLT0s5QXlRVUZNcWpkYTF3VTNtSjJ5QllZNEpwbFFRVVdKTEJQNVFIWWo3VmxFWjAyR0dwUzlWcjAwTGFPaGY4THpvZVV5UDdya1kxVW91M0NmcW84aWNKZFMtMnBnVFRvTjZYLTFudWVyX3RVdWxUM3QyZVJYNVVuLXdxQ3hMaGtqbnduemE3ak9j?oc=5",
+      "title": "Fed's Goolsbee forecasts several more rate cuts this year, but not soon - Reuters",
+      "summary": "Fed's Goolsbee forecasts several more rate cuts this year, but not soon Reuters"
     },
     {
-      "char": "✈️",
-      "label": "ukraine air-raid alarms explained",
-      "url": "https://www.nytimes.com/2026/02/26/world/europe/ukraine-russia-kharkiv-air-raid-alarms.html",
-      "title": "The Secret of How Ukraine’s Lifesaving Air-Raid Alarms Work",
-      "summary": "Many in Ukraine assume that the alerts are automated. A rare look inside an emergency-response center reveals the specialists who do the pressure-packed job."
+      "char": "🇩🇪",
+      "label": "germany's business ties with china",
+      "url": "https://www.nytimes.com/2026/02/26/world/europe/germany-china-merz-europe-business.html",
+      "title": "Europe Needs Some Space From China and Trump. Its Firms Don’t.",
+      "summary": "Germany’s chancellor seeks to reduce Europe’s reliance on China and the United States. He speaks with a bluntness that few business leaders share."
+    },
+    {
+      "char": "💣",
+      "label": "russia strikes before us-ukraine talks",
+      "url": "https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html",
+      "title": "Russia Launches Big Strikes Before U.S.-Ukraine Talks in Geneva",
+      "summary": "Ukrainian officials said they hoped that trilateral peace negotiations could take place next week."
     },
     {
       "char": "🌊",
-      "label": "devastating storms in mediterranean",
-      "url": "https://www.theguardian.com/world/2026/feb/26/recent-mediterranean-storms-tragedies-spain-portugal-morocco",
-      "title": "‘A devastating force’: how recent storms turned to tragedies across the western Mediterranean",
-      "summary": "Atmospheric machine-gun has fired storm after deadly storm at the region this year, leaving a trail of widespread destruction For Andrés Sánchez Barea, in Spain, it was the fear that arose when water started to spurt from plug sockets. F..."
+      "label": "caribbean leaders call for dialogue",
+      "url": "https://www.theguardian.com/world/2026/feb/25/caricom-summit-2026-caribbean-leaders-us-military-strikes",
+      "title": "Caribbean leaders call for ‘de-escalation and dialogue’ amid US oil embargo on Cuba",
+      "summary": "Four-day Caricom summit dominated by debate about US interventions in the region as military strikes against suspected drug boats continue US interventions dominated speeches at a summit of 15 nations from the Caribbean and the Americas..."
     },
     {
-      "char": "🇨🇳",
-      "label": "china seeks germany's support",
-      "url": "https://www.nytimes.com/2026/02/26/world/asia/merz-china-analysis.html",
-      "title": "China Wants Germany in Its Corner. It’s Not That Easy.",
-      "summary": "China’s play for U.S. allies has a problem: As Germany’s leader showed, Europe’s grievances with Beijing may run deeper than its frustration with Trump."
-    },
-    {
-      "char": "⚖️",
-      "label": "mugabe's son charged with murder",
-      "url": "https://www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes",
-      "title": "Robert Mugabe’s son charged with attempted murder over Johannesburg shooting",
-      "summary": "Bellarmine Chatunga Mugabe, known for lavish lifestyle, also accused of theft and being illegal immigrant after man allegedly shot in back A son of the late Zimbabwean president Robert Mugabe has been charged with attempted murder after..."
+      "char": "🏳️‍🌈",
+      "label": "uganda arrests women for public kissing",
+      "url": "https://www.theguardian.com/global-development/2026/feb/26/women-arrested-uganda-kissing-public-lgbtq-laws",
+      "title": "Two women arrested in Uganda for allegedly kissing in public could face life sentence",
+      "summary": "Wendy Faith and Alesi Diana Denise were taken into custody under laws that have outraged LGBTQ+ community and rights activists Two women have been arrested and detained in Uganda after allegedly kissing in public, an act of “same-sex act..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😨",
-    "emoji": "😨",
-    "rationale": "The day is marked by a mix of fear and uncertainty, particularly highlighted by the devastating storms in the Mediterranean and the alarming charges against Mugabe's son. These events evoke concern about safety and turmoil.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
