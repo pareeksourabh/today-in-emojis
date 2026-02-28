@@ -25035,5 +25035,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-02-28",
+    "emojis": [
+      {
+        "char": "🇨🇺",
+        "label": "cuba vows to fight aggression",
+        "url": "https://www.theguardian.com/world/2026/feb/26/what-to-know-cuba-boat-attack",
+        "title": "Cuba vows to fight ‘terrorist aggression’ after attack from US-registered boat",
+        "summary": "Cuban president says country will ‘defend itself with determination’ after deadly coastal assault by exiles What we know so far about the deadly boat shooting off Cuba’s coast Cuba has vowed to defend itself against any “terrorist and me..."
+      },
+      {
+        "char": "💰",
+        "label": "goldman bucks credit trend",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS0hNOUhxdmlVc2NKM21OT2d3Y3ZqZHpyWUR1eTRrSnVOU2diTGVKODhPS2tCNXhBdGxKOUJ6Ymk5RjB2X3hIVjRxYXJjWF9pc3FhdVdnTFZxc3BuTW83QlpWYlJFeW1mekstMWRMZll1NlNnTXpUVU4zbTZSYXZYYVZJMENGQUxscFJZSVNIRTUwNl9sdFdRM0pEeVphWEZmNG16OW5MdGNxMjlFYnEyMDhHMXNVdjVMZ19FZmE0VndCZw?oc=5",
+        "title": "Goldman bucks private credit redemption trend as AI disruption fears mount - Reuters",
+        "summary": "Goldman bucks private credit redemption trend as AI disruption fears mount Reuters"
+      },
+      {
+        "char": "❄️",
+        "label": "russia faces winter blackouts",
+        "url": "https://www.nytimes.com/2026/02/27/world/europe/russia-blackouts-heating-breakdowns.html",
+        "title": "Some Russians Go Without Heat or Power in Winter, as Energy System Falls Into Disrepair",
+        "summary": "A dozen major blackouts and central heating cutoffs across the country have affected hundreds of thousands during a brutal winter."
+      },
+      {
+        "char": "🇭🇺",
+        "label": "hungary strains for votes",
+        "url": "https://www.nytimes.com/2026/02/27/world/europe/hungary-orban-europe.html",
+        "title": "Hungary Plays Spoiler in Europe as Orban Strains for Votes at Home",
+        "summary": "Facing a serious election challenge, Prime Minister Viktor Orban is holding up a big E.U. loan for Ukraine. Analysts say the timing is no coincidence."
+      },
+      {
+        "char": "⚖️",
+        "label": "argentina labor law overhaul",
+        "url": "https://www.theguardian.com/world/2026/feb/27/argentina-labor-law-overhaul",
+        "title": "‘More exploitation, fewer rights’: Argentina braces for sweeping overhaul of labor laws",
+        "summary": "Javier Milei’s boosters say law will revive employment, but critics decry cuts to severance and longer working hours Argentina ’s senate is poised to approve a sweeping overhaul of labour laws aimed at weakening trade unions and lowering..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
