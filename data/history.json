@@ -25211,5 +25211,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-02-28",
+    "emojis": [
+      {
+        "char": "🇮🇷",
+        "label": "iran strikes us base in bahrain",
+        "url": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss",
+        "title": "Iran says it has hit US base in Bahrain, as it launches strikes across region",
+        "summary": "Huge plumes of black smoke were seen rising from an area near the headquarters of the US Navy's Fifth Fleet in Manama, Bahrain."
+      },
+      {
+        "char": "✈️",
+        "label": "military plane crashes in bolivia",
+        "url": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
+        "title": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
+        "summary": "Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site."
+      },
+      {
+        "char": "💰",
+        "label": "us health funding pacts anger africa",
+        "url": "https://www.theguardian.com/global-development/2026/feb/27/rising-anger-over-lop-sided-immoral-us-health-funding-pacts-africa-countries",
+        "title": "Rising anger over ‘lop-sided’ and ‘immoral’ US health funding pacts with African countries",
+        "summary": "Zimbabwe refuses to sign agreement and Kenya faces a court case over data sharing as new aid deals come under scrutiny A series of bilateral health agreements being negotiated between African countries and the administration of President..."
+      },
+      {
+        "char": "🔫",
+        "label": "el mencho's cartel power endures",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNendDd2d3am9td09Wa0QxcG1TQTl0UElReWpmbVFJenYzNGZwOVNLZW92SkxSNGVacjFXa1VEY1R5ZUZ0bWdjQmN6dE5wRlJhR1NYR09HY1ZVa1VKNWJ2NEJBMXhsYlB3Qm1EbFg5RjhIVjVFZlRKRzJVb2FPel9pbllfWGFneHJacjd1T05INC11em8zTUZqYzJROHRrZUNwMmtzVGs5ck8xcllIcFNEYzAyQnh6Vm9Da3JnaFdGMXVsdw?oc=5",
+        "title": "After El Mencho's killing, his cartel's power endures deep inside the US - Reuters",
+        "summary": "After El Mencho's killing, his cartel's power endures deep inside the US Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "carney visits india and australia",
+        "url": "https://www.nytimes.com/2026/02/28/world/canada/carney-asia-australia-visit.html",
+        "title": "Carney Visiting India, Australia and Japan to Build Canada’s ‘Middle Power’ Bonds",
+        "summary": "Prime Minister Mark Carney visits India, Australia and Japan seeking deals to strengthen his country’s links to Indo-Pacific powers and break Canada’s dependence on the United States."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
