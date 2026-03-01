@@ -1,41 +1,41 @@
 {
   "date": "2026-03-01",
-  "timestamp": "2026-03-01T08:36:17Z",
+  "timestamp": "2026-03-01T12:58:53Z",
   "emojis": [
     {
-      "char": "🇮🇷",
-      "label": "iran strikes kill 108 at school",
-      "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
-      "title": "Iran says US and Israel strikes hit school killing 108",
-      "summary": "There is no confirmation by the US or Israel of the strike on the school located near elite military troops."
+      "char": "🌍",
+      "label": "us health funding in africa",
+      "url": "https://www.theguardian.com/global-development/2026/feb/27/rising-anger-over-lop-sided-immoral-us-health-funding-pacts-africa-countries",
+      "title": "Rising anger over ‘lop-sided’ and ‘immoral’ US health funding pacts with African countries",
+      "summary": "Zimbabwe refuses to sign agreement and Kenya faces a court case over data sharing as new aid deals come under scrutiny A series of bilateral health agreements being negotiated between African countries and the administration of President..."
+    },
+    {
+      "char": "💔",
+      "label": "storm tragedies in mediterranean",
+      "url": "https://www.theguardian.com/world/2026/feb/26/recent-mediterranean-storms-tragedies-spain-portugal-morocco",
+      "title": "‘A devastating force’: how recent storms turned to tragedies across the western Mediterranean",
+      "summary": "Atmospheric machine-gun has fired storm after deadly storm at the region this year, leaving a trail of widespread destruction For Andrés Sánchez Barea, in Spain, it was the fear that arose when water started to spurt from plug sockets. F..."
+    },
+    {
+      "char": "🇨🇺",
+      "label": "trump's cuba takeover suggestion",
+      "url": "https://www.theguardian.com/us-news/2026/feb/27/trump-cuba-regime-change",
+      "title": "Trump suggests US could carry out ‘friendly takeover’ of Cuba",
+      "summary": "As tensions between two countries reach new highs, US president says regime is ‘talking with us’ Donald Trump has suggested the US could carry out a “friendly takeover” of Cuba as tensions between Washington and Havana reach a new high a..."
+    },
+    {
+      "char": "⚖️",
+      "label": "duterte trial for killings",
+      "url": "https://www.nytimes.com/2026/02/27/world/asia/rodrigo-duterte-icc-trial-hague.html",
+      "title": "Were Duterte’s Speeches Orders to Kill or Hyperbole?",
+      "summary": "Judges at the International Criminal Court have heard starkly different interpretations this week of the words of former President Rodrigo Duterte of the Philippines."
     },
     {
       "char": "✈️",
       "label": "military plane crash in bolivia",
-      "url": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
-      "title": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
-      "summary": "Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site."
-    },
-    {
-      "char": "📱",
-      "label": "whatsapp privacy policy challenge",
-      "url": "https://www.bbc.com/news/articles/cp81wegj123o?at_medium=RSS&at_campaign=rss",
-      "title": "Why is WhatsApp's privacy policy facing a legal challenge in India?",
-      "summary": "A 2021 policy update requires users to share data with Meta for ads purposes to continue using the app."
-    },
-    {
-      "char": "🛢️",
-      "label": "trump green lights oil sales to cuba",
-      "url": "https://www.nytimes.com/2026/02/28/world/americas/trump-cuba-oil-sales.html",
-      "title": "Trump Gives Green Light to Private Oil Sales to Cuba",
-      "summary": "After blocking foreign oil shipments, the Trump administration is now allowing small amounts of oil to enter Cuba — as long as they circumvent government hands."
-    },
-    {
-      "char": "🤖",
-      "label": "trump halts anthropic ai use",
-      "url": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump orders government to stop using Anthropic in battle over AI use",
-      "summary": "The move announced on social media comes after a standoff between Anthropic's boss and the US Department of Defense."
+      "url": "https://www.theguardian.com/world/2026/feb/28/at-least-15-killed-as-cash-laden-military-cargo-plane-crashes-in-bolivia",
+      "title": "At least 20 killed as cash-laden military cargo plane crashes in Bolivia",
+      "summary": "Riot police use teargas to disperse people gathering around wreckage of plane loaded with money from central bank At least 20 people have died and dozens have been injured after a military cargo plane carrying banknotes crashed while lan..."
     }
   ],
   "source": "ai-openai",
