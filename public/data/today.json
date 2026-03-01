@@ -1,64 +1,43 @@
 {
-  "date": "2026-02-28",
-  "timestamp": "2026-02-28T16:13:01Z",
+  "date": "2026-03-01",
+  "timestamp": "2026-03-01T01:26:11Z",
   "emojis": [
     {
-      "char": "🇮🇷",
-      "label": "iran strikes us base in bahrain",
-      "url": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss",
-      "title": "Iran says it has hit US base in Bahrain, as it launches strikes across region",
-      "summary": "Huge plumes of black smoke were seen rising from an area near the headquarters of the US Navy's Fifth Fleet in Manama, Bahrain."
+      "char": "🛢️",
+      "label": "trump green lights oil sales to cuba",
+      "url": "https://www.nytimes.com/2026/02/28/world/americas/trump-cuba-oil-sales.html",
+      "title": "Trump Gives Green Light to Private Oil Sales to Cuba",
+      "summary": "After blocking foreign oil shipments, the Trump administration is now allowing small amounts of oil to enter Cuba — as long as they circumvent government hands."
     },
     {
-      "char": "✈️",
-      "label": "military plane crashes in bolivia",
-      "url": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
-      "title": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
-      "summary": "Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site."
+      "char": "🌊",
+      "label": "devastating storms in mediterranean",
+      "url": "https://www.theguardian.com/world/2026/feb/26/recent-mediterranean-storms-tragedies-spain-portugal-morocco",
+      "title": "‘A devastating force’: how recent storms turned to tragedies across the western Mediterranean",
+      "summary": "Atmospheric machine-gun has fired storm after deadly storm at the region this year, leaving a trail of widespread destruction For Andrés Sánchez Barea, in Spain, it was the fear that arose when water started to spurt from plug sockets. F..."
     },
     {
-      "char": "💰",
-      "label": "us health funding pacts anger africa",
-      "url": "https://www.theguardian.com/global-development/2026/feb/27/rising-anger-over-lop-sided-immoral-us-health-funding-pacts-africa-countries",
-      "title": "Rising anger over ‘lop-sided’ and ‘immoral’ US health funding pacts with African countries",
-      "summary": "Zimbabwe refuses to sign agreement and Kenya faces a court case over data sharing as new aid deals come under scrutiny A series of bilateral health agreements being negotiated between African countries and the administration of President..."
+      "char": "🇭🇺",
+      "label": "hungary's political maneuvering",
+      "url": "https://www.nytimes.com/2026/02/27/world/europe/hungary-orban-europe.html",
+      "title": "Hungary Plays Spoiler in Europe as Orban Strains for Votes at Home",
+      "summary": "Facing a serious election challenge, Prime Minister Viktor Orban is holding up a big E.U. loan for Ukraine. Analysts say the timing is no coincidence."
     },
     {
-      "char": "🔫",
-      "label": "el mencho's cartel power endures",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNendDd2d3am9td09Wa0QxcG1TQTl0UElReWpmbVFJenYzNGZwOVNLZW92SkxSNGVacjFXa1VEY1R5ZUZ0bWdjQmN6dE5wRlJhR1NYR09HY1ZVa1VKNWJ2NEJBMXhsYlB3Qm1EbFg5RjhIVjVFZlRKRzJVb2FPel9pbllfWGFneHJacjd1T05INC11em8zTUZqYzJROHRrZUNwMmtzVGs5ck8xcllIcFNEYzAyQnh6Vm9Da3JnaFdGMXVsdw?oc=5",
-      "title": "After El Mencho's killing, his cartel's power endures deep inside the US - Reuters",
-      "summary": "After El Mencho's killing, his cartel's power endures deep inside the US Reuters"
+      "char": "🔥",
+      "label": "panic in iran amid strikes",
+      "url": "https://www.bbc.com/news/articles/c05v8jzjn40o?at_medium=RSS&at_campaign=rss",
+      "title": "Inside Iran, panic as strikes hit but for some it's a moment of relief",
+      "summary": "Iranians talk about what is happening inside the country, despite an almost total internet blackout."
     },
     {
-      "char": "🌍",
-      "label": "carney visits india and australia",
-      "url": "https://www.nytimes.com/2026/02/28/world/canada/carney-asia-australia-visit.html",
-      "title": "Carney Visiting India, Australia and Japan to Build Canada’s ‘Middle Power’ Bonds",
-      "summary": "Prime Minister Mark Carney visits India, Australia and Japan seeking deals to strengthen his country’s links to Indo-Pacific powers and break Canada’s dependence on the United States."
+      "char": "📱",
+      "label": "whatsapp's privacy policy challenge",
+      "url": "https://www.bbc.com/news/articles/cp81wegj123o?at_medium=RSS&at_campaign=rss",
+      "title": "Why is WhatsApp's privacy policy facing a legal challenge in India?",
+      "summary": "A 2021 policy update requires users to share data with Meta for ads purposes to continue using the app."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "Today's news highlights significant tragedies and tensions, from military strikes and a devastating plane crash to rising anger over health funding inequalities. The overall emotional tone is one of sadness and concern.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
