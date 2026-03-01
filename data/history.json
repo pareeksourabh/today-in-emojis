@@ -25343,5 +25343,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-01",
+    "emojis": [
+      {
+        "char": "🇮🇷",
+        "label": "iran strikes kill 108 at school",
+        "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
+        "title": "Iran says US and Israel strikes hit school killing 108",
+        "summary": "There is no confirmation by the US or Israel of the strike on the school located near elite military troops."
+      },
+      {
+        "char": "✈️",
+        "label": "military plane crash in bolivia",
+        "url": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
+        "title": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
+        "summary": "Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site."
+      },
+      {
+        "char": "📱",
+        "label": "whatsapp privacy policy challenge",
+        "url": "https://www.bbc.com/news/articles/cp81wegj123o?at_medium=RSS&at_campaign=rss",
+        "title": "Why is WhatsApp's privacy policy facing a legal challenge in India?",
+        "summary": "A 2021 policy update requires users to share data with Meta for ads purposes to continue using the app."
+      },
+      {
+        "char": "🛢️",
+        "label": "trump green lights oil sales to cuba",
+        "url": "https://www.nytimes.com/2026/02/28/world/americas/trump-cuba-oil-sales.html",
+        "title": "Trump Gives Green Light to Private Oil Sales to Cuba",
+        "summary": "After blocking foreign oil shipments, the Trump administration is now allowing small amounts of oil to enter Cuba — as long as they circumvent government hands."
+      },
+      {
+        "char": "🤖",
+        "label": "trump halts anthropic ai use",
+        "url": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump orders government to stop using Anthropic in battle over AI use",
+        "summary": "The move announced on social media comes after a standoff between Anthropic's boss and the US Department of Defense."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
