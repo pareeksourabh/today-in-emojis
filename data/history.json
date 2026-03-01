@@ -25299,5 +25299,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-01",
+    "emojis": [
+      {
+        "char": "🇭🇺",
+        "label": "hungary's political tensions rise",
+        "url": "https://www.nytimes.com/2026/02/27/world/europe/hungary-orban-europe.html",
+        "title": "Hungary Plays Spoiler in Europe as Orban Strains for Votes at Home",
+        "summary": "Facing a serious election challenge, Prime Minister Viktor Orban is holding up a big E.U. loan for Ukraine. Analysts say the timing is no coincidence."
+      },
+      {
+        "char": "🔫",
+        "label": "mexico's crime boss saga unfolds",
+        "url": "https://www.nytimes.com/2026/02/28/world/americas/mexico-mencho-career-death.html",
+        "title": "The Bloody Rise and Fall of Mexico’s Top Crime Boss",
+        "summary": "El Mencho’s brutality and business acumen put him atop the cartel world, until he made a fatal mistake."
+      },
+      {
+        "char": "✈️",
+        "label": "iran missile strikes dubai",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZzlYMlpkMktUTTRERmdoOGVSWkFwWWJUZ202NlJLUHdkWldpWmVIUkV4azdXck9SaWFhSHd5dVh1eW04UHBPeEsweVFESTNaaW9oUC1semF4TXBKUHJDMGxwdUNRMFRIR1V3Qnk5ejltbG9qQm1kc1FHb1E5TDhJMWRzYkExc2lrZzd0UWtkREpXOWZrSVZCUFN3ZFV4Ul9UOTFxZlFEazV2MnRONmVYNnZjM3FIcE5sS2F5TEItVHIybm1NanktRUpWVXhYQQ?oc=5",
+        "title": "Dubai airport, iconic Burj Al Arab hotel damaged in Iranian missile strikes - Reuters",
+        "summary": "Dubai airport, iconic Burj Al Arab hotel damaged in Iranian missile strikes Reuters"
+      },
+      {
+        "char": "⚔️",
+        "label": "ghana's tragic fight in ukraine",
+        "url": "https://www.theguardian.com/world/2026/feb/27/ghana-men-killed-fight-russia-ukraine",
+        "title": "Ghana says at least 55 of its people killed after Russia ‘lured’ them to fight Ukraine",
+        "summary": "Foreign minister says 272 Ghanaians are thought to have been drawn into battle since 2022, after he visited Kyiv At least 55 Ghanaians have been killed in Russia’s war with Ukraine after being “lured into battle”, Ghana’s foreign ministe..."
+      },
+      {
+        "char": "🛩️",
+        "label": "military cargo plane crash in bolivia",
+        "url": "https://www.theguardian.com/world/2026/feb/28/at-least-15-killed-as-cash-laden-military-cargo-plane-crashes-in-bolivia",
+        "title": "At least 20 killed as cash-laden military cargo plane crashes in Bolivia",
+        "summary": "Riot police use teargas to disperse people gathering around wreckage of plane loaded with money from central bank At least 20 people have died and dozens have been injured after a military cargo plane carrying banknotes crashed while lan..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
