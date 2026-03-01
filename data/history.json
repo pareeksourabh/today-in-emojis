@@ -25431,5 +25431,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-01",
+    "emojis": [
+      {
+        "char": "🪖",
+        "label": "us military bases in the middle east",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXNlOGg1b1EzRUhlWWxBVjR1bmZWMmZVWl9EbFI4QVBwbVQ0T2RpSVExb3owRGtJNWg3ZDBrd0g3a1FJSEZJY1kwZzhDZ1RORWNSQVBRMVhFRXZxMW9EaTI2OUk3SDVFdUllMFIzZ0c1X0ZXUmk0UFZya3FrV0dIMURfTENySTRMMGR5S2pqbmVYZw?oc=5",
+        "title": "What are the main US military bases in the Middle East? - Reuters",
+        "summary": "What are the main US military bases in the Middle East? Reuters"
+      },
+      {
+        "char": "💥",
+        "label": "iran missile attack on israel",
+        "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
+        "title": "Nine dead in missile attack on Israel as Iran strikes region",
+        "summary": "Several deaths are reported across the Middle East as Tehran retaliates for massive strikes by the US and Israel."
+      },
+      {
+        "char": "⚰️",
+        "label": "khamenei killed, iranian media confirm",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVklFekRQdjZIYXR2cm42N1BIZXJ1Rm8zSkJxWGNqMHM3bzc4MUlQdnhQalZSZzYwQ1d0eHpyMUdTQjFCdFlDZXdQUHV3elQ0YzIyOGZDS0ZDbTVoM3BnVnlJbEVleFFoZUgyV3V5d2UtZm5BNUlfbUJwQ01xellJOEh3QV9PVTRwcTM2bzhGTnpBLVA4d3d1bUFPSE4wVWpGRTQyRUhoN3dFWUFvLVRjY2FBdnkzMm8yTmc?oc=5",
+        "title": "Iran's supreme leader Khamenei killed, Iranian state media confirm - Reuters",
+        "summary": "Iran's supreme leader Khamenei killed, Iranian state media confirm Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "rising anger over us health funding",
+        "url": "https://www.theguardian.com/global-development/2026/feb/27/rising-anger-over-lop-sided-immoral-us-health-funding-pacts-africa-countries",
+        "title": "Rising anger over ‘lop-sided’ and ‘immoral’ US health funding pacts with African countries",
+        "summary": "Zimbabwe refuses to sign agreement and Kenya faces a court case over data sharing as new aid deals come under scrutiny A series of bilateral health agreements being negotiated between African countries and the administration of President..."
+      },
+      {
+        "char": "✈️",
+        "label": "military cargo plane crashes in bolivia",
+        "url": "https://www.theguardian.com/world/2026/feb/28/at-least-15-killed-as-cash-laden-military-cargo-plane-crashes-in-bolivia",
+        "title": "At least 20 killed as cash-laden military cargo plane crashes in Bolivia",
+        "summary": "Riot police use teargas to disperse people gathering around wreckage of plane loaded with money from central bank At least 20 people have died and dozens have been injured after a military cargo plane carrying banknotes crashed while lan..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
