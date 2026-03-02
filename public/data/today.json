@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-01",
-  "timestamp": "2026-03-01T16:13:37Z",
+  "date": "2026-03-02",
+  "timestamp": "2026-03-02T01:18:04Z",
   "emojis": [
     {
-      "char": "🪖",
-      "label": "us military bases in the middle east",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXNlOGg1b1EzRUhlWWxBVjR1bmZWMmZVWl9EbFI4QVBwbVQ0T2RpSVExb3owRGtJNWg3ZDBrd0g3a1FJSEZJY1kwZzhDZ1RORWNSQVBRMVhFRXZxMW9EaTI2OUk3SDVFdUllMFIzZ0c1X0ZXUmk0UFZya3FrV0dIMURfTENySTRMMGR5S2pqbmVYZw?oc=5",
-      "title": "What are the main US military bases in the Middle East? - Reuters",
-      "summary": "What are the main US military bases in the Middle East? Reuters"
-    },
-    {
-      "char": "💥",
-      "label": "iran missile attack on israel",
-      "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
-      "title": "Nine dead in missile attack on Israel as Iran strikes region",
-      "summary": "Several deaths are reported across the Middle East as Tehran retaliates for massive strikes by the US and Israel."
-    },
-    {
-      "char": "⚰️",
-      "label": "khamenei killed, iranian media confirm",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVklFekRQdjZIYXR2cm42N1BIZXJ1Rm8zSkJxWGNqMHM3bzc4MUlQdnhQalZSZzYwQ1d0eHpyMUdTQjFCdFlDZXdQUHV3elQ0YzIyOGZDS0ZDbTVoM3BnVnlJbEVleFFoZUgyV3V5d2UtZm5BNUlfbUJwQ01xellJOEh3QV9PVTRwcTM2bzhGTnpBLVA4d3d1bUFPSE4wVWpGRTQyRUhoN3dFWUFvLVRjY2FBdnkzMm8yTmc?oc=5",
-      "title": "Iran's supreme leader Khamenei killed, Iranian state media confirm - Reuters",
-      "summary": "Iran's supreme leader Khamenei killed, Iranian state media confirm Reuters"
-    },
-    {
       "char": "🌍",
-      "label": "rising anger over us health funding",
-      "url": "https://www.theguardian.com/global-development/2026/feb/27/rising-anger-over-lop-sided-immoral-us-health-funding-pacts-africa-countries",
-      "title": "Rising anger over ‘lop-sided’ and ‘immoral’ US health funding pacts with African countries",
-      "summary": "Zimbabwe refuses to sign agreement and Kenya faces a court case over data sharing as new aid deals come under scrutiny A series of bilateral health agreements being negotiated between African countries and the administration of President..."
+      "label": "kidnapping in africa's sahel region",
+      "url": "https://www.bbc.com/news/articles/c0lj18d5lx3o?at_medium=RSS&at_campaign=rss",
+      "title": "Kidnapping of foreigners soars in Africa's lawless Sahel region",
+      "summary": "Growing insecurity in the Sahel made 2025 one of the worst years on record for the abduction of foreigners in Africa."
     },
     {
-      "char": "✈️",
-      "label": "military cargo plane crashes in bolivia",
-      "url": "https://www.theguardian.com/world/2026/feb/28/at-least-15-killed-as-cash-laden-military-cargo-plane-crashes-in-bolivia",
-      "title": "At least 20 killed as cash-laden military cargo plane crashes in Bolivia",
-      "summary": "Riot police use teargas to disperse people gathering around wreckage of plane loaded with money from central bank At least 20 people have died and dozens have been injured after a military cargo plane carrying banknotes crashed while lan..."
+      "char": "💉",
+      "label": "us health aid deal in zambia",
+      "url": "https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets",
+      "title": "US accused of ‘shameless exploitation’ over proposed Zambian health aid deal",
+      "summary": "Leaked draft of $1bn memorandum of understanding reveals mandatory targets, sharing of data, and reported access to mining concessions The US has been accused of “shameless exploitation” over a health financing agreement with Zambia wort..."
+    },
+    {
+      "char": "✝️",
+      "label": "ukraine's simple believers community",
+      "url": "https://www.nytimes.com/2026/03/01/world/europe/ukraine-simple-believers.html",
+      "title": "In Ukraine, a Community of ‘Simple Believers’ Shuns the Modern World",
+      "summary": "The Christians known as viruiuchi prostaky see electricity, cars, higher education and much else as distractions from what really matters."
+    },
+    {
+      "char": "📂",
+      "label": "epstein files arrests overseas",
+      "url": "https://www.nytimes.com/2026/03/01/world/europe/epstein-files-arrests-europe-uk.html",
+      "title": "The U.S. Released the Epstein Files. The Arrests Are Overseas.",
+      "summary": "While the latest tranche of documents about the sex offender Jeffrey Epstein has exposed a deeply American scandal, it is Europe where the aggressive enforcement is taking place."
+    },
+    {
+      "char": "💣",
+      "label": "iran attacks gulf allies",
+      "url": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&at_campaign=rss",
+      "title": "Allies of US in the Gulf bear brunt of Iran attacks",
+      "summary": "Iran's attacks on Gulf Arab states suggest the Islamic Republic is targeting not just the US military but also civilian infrastructure."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "The day is marked by tragic events, including missile attacks and a military plane crash, leading to significant loss of life and a sense of grief.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

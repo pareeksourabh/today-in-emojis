@@ -25475,5 +25475,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-02",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "kidnapping in africa's sahel region",
+        "url": "https://www.bbc.com/news/articles/c0lj18d5lx3o?at_medium=RSS&at_campaign=rss",
+        "title": "Kidnapping of foreigners soars in Africa's lawless Sahel region",
+        "summary": "Growing insecurity in the Sahel made 2025 one of the worst years on record for the abduction of foreigners in Africa."
+      },
+      {
+        "char": "💉",
+        "label": "us health aid deal in zambia",
+        "url": "https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets",
+        "title": "US accused of ‘shameless exploitation’ over proposed Zambian health aid deal",
+        "summary": "Leaked draft of $1bn memorandum of understanding reveals mandatory targets, sharing of data, and reported access to mining concessions The US has been accused of “shameless exploitation” over a health financing agreement with Zambia wort..."
+      },
+      {
+        "char": "✝️",
+        "label": "ukraine's simple believers community",
+        "url": "https://www.nytimes.com/2026/03/01/world/europe/ukraine-simple-believers.html",
+        "title": "In Ukraine, a Community of ‘Simple Believers’ Shuns the Modern World",
+        "summary": "The Christians known as viruiuchi prostaky see electricity, cars, higher education and much else as distractions from what really matters."
+      },
+      {
+        "char": "📂",
+        "label": "epstein files arrests overseas",
+        "url": "https://www.nytimes.com/2026/03/01/world/europe/epstein-files-arrests-europe-uk.html",
+        "title": "The U.S. Released the Epstein Files. The Arrests Are Overseas.",
+        "summary": "While the latest tranche of documents about the sex offender Jeffrey Epstein has exposed a deeply American scandal, it is Europe where the aggressive enforcement is taking place."
+      },
+      {
+        "char": "💣",
+        "label": "iran attacks gulf allies",
+        "url": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&at_campaign=rss",
+        "title": "Allies of US in the Gulf bear brunt of Iran attacks",
+        "summary": "Iran's attacks on Gulf Arab states suggest the Islamic Republic is targeting not just the US military but also civilian infrastructure."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
