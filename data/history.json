@@ -25519,5 +25519,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-02",
+    "emojis": [
+      {
+        "char": "🛢️",
+        "label": "trump green lights oil sales to cuba",
+        "url": "https://www.nytimes.com/2026/02/28/world/americas/trump-cuba-oil-sales.html",
+        "title": "Trump Gives Green Light to Private Oil Sales to Cuba",
+        "summary": "After blocking foreign oil shipments, the Trump administration is now allowing small amounts of oil to enter Cuba — as long as they circumvent government hands."
+      },
+      {
+        "char": "🌏",
+        "label": "carney builds canada's middle power bonds",
+        "url": "https://www.nytimes.com/2026/02/28/world/canada/carney-asia-australia-visit.html",
+        "title": "Carney Visiting India, Australia and Japan to Build Canada’s ‘Middle Power’ Bonds",
+        "summary": "Prime Minister Mark Carney visits India, Australia and Japan seeking deals to strengthen his country’s links to Indo-Pacific powers and break Canada’s dependence on the United States."
+      },
+      {
+        "char": "✈️",
+        "label": "military cargo plane crash in bolivia",
+        "url": "https://www.theguardian.com/world/2026/feb/28/at-least-15-killed-as-cash-laden-military-cargo-plane-crashes-in-bolivia",
+        "title": "At least 20 killed as cash-laden military cargo plane crashes in Bolivia",
+        "summary": "Riot police use teargas to disperse people gathering around wreckage of plane loaded with money from central bank At least 20 people have died and dozens have been injured after a military cargo plane carrying banknotes crashed while lan..."
+      },
+      {
+        "char": "📖",
+        "label": "community of believers in ukraine",
+        "url": "https://www.nytimes.com/2026/03/01/world/europe/ukraine-simple-believers.html",
+        "title": "In Ukraine, a Community of ‘Simple Believers’ Shuns the Modern World",
+        "summary": "The Christians known as viruiuchi prostaky see electricity, cars, higher education and much else as distractions from what really matters."
+      },
+      {
+        "char": "💔",
+        "label": "us accused of exploiting zambian health aid",
+        "url": "https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets",
+        "title": "US accused of ‘shameless exploitation’ over proposed Zambian health aid deal",
+        "summary": "Leaked draft of $1bn memorandum of understanding reveals mandatory targets, sharing of data, and reported access to mining concessions The US has been accused of “shameless exploitation” over a health financing agreement with Zambia wort..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
