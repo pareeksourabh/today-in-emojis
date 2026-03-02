@@ -25651,5 +25651,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-02",
+    "emojis": [
+      {
+        "char": "⚔️",
+        "label": "trump's iran war plans",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWGVNVTk0UjVzOFYzQjFyeTNPWU41ODAtcGhKcFNrWDQwd1RvZ0l5VnFmeW11ZHdNWGRHS2pzSWJyazdJaTJiNldfdlh2VG9fMTA0MnIyc3YzaWNUdjlrR29sUFZRYy1DRE1lSzhZVnRPTlI2THdhTmh0WmJ5Vi1ONkt3MlJfWWw4TkZQck9ZNFNwVm1mcFktalBJcEVZWlJ5OWI3Ui1Eb2hJRnprQVM5dktGWEUzcEgweFpv?oc=5",
+        "title": "Trump presses ahead with Iran war despite warnings of political risk for midterms - Reuters",
+        "summary": "Trump presses ahead with Iran war despite warnings of political risk for midterms Reuters"
+      },
+      {
+        "char": "🛰️",
+        "label": "orange partners with ast spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSXBfZF9ZWjZuLWVGX2l5YkRNSFNLZDBTTGxCRzNHVE5LZUJCSjl2SE9qWHM4MzBTa2Nzd2NEcFVDV2pjUklLdTVYSnc2bnVKRjB0cm5Dd0JocjN0X0RlUnVUUTdzN1JNblJrTFdZd0x4SV9TUERWVTBDN1VTdmstYjgyZ1VsRUZPaWVPX0Y5eFktR0ZRRTlmenl6WldGanpQOXRDd3lKRFNzOExVMmdPWTRmRk16WU1yT2N0Ri1uWlpEOF9ZZ3VpdQ?oc=5",
+        "title": "Orange adds AST SpaceMobile to growing roster of satellite-to-mobile partners - Reuters",
+        "summary": "Orange adds AST SpaceMobile to growing roster of satellite-to-mobile partners Reuters"
+      },
+      {
+        "char": "✈️",
+        "label": "military plane crash in bolivia",
+        "url": "https://www.theguardian.com/world/2026/feb/28/at-least-15-killed-as-cash-laden-military-cargo-plane-crashes-in-bolivia",
+        "title": "At least 20 killed as cash-laden military cargo plane crashes in Bolivia",
+        "summary": "Riot police use teargas to disperse people gathering around wreckage of plane loaded with money from central bank At least 20 people have died and dozens have been injured after a military cargo plane carrying banknotes crashed while lan..."
+      },
+      {
+        "char": "💻",
+        "label": "china's tech race roadmap unveiled",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdWt2bjRPRXFoX25rR0VXWHR4Y3dxR3hHSklBODZKYTFobFhLWU0yd0NBbS1NdVl2N1c5WjZuYnpUbnVtLTZkS3g4VmlFQTBRUmJBbTB3NGRYUTZBN3BWSHNMaVZjdUVwaW5tNmRDcnk4aFc2TDlpcUxSVU14N2YxNHBtMEdpdV8xU0NmTHktbWNBendtb3UzaWRkdXFnUS1lVF9ONDBFSEYtcE9nMDZPUXVXanN5MHppM1liVzY2N01YTjJvN052eUh3?oc=5",
+        "title": "China's annual parliament meet to unveil roadmap for tech race with the West - Reuters",
+        "summary": "China's annual parliament meet to unveil roadmap for tech race with the West Reuters"
+      },
+      {
+        "char": "🛢️",
+        "label": "oil prices surge amid conflict",
+        "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
+        "title": "Oil and gas prices jump as conflict escalates",
+        "summary": "Experts have warned that a prolonged conflict could push global energy prices even higher."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
