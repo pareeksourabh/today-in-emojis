@@ -25695,5 +25695,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-03",
+    "emojis": [
+      {
+        "char": "🇬🇭",
+        "label": "ghana men killed in ukraine fight",
+        "url": "https://www.theguardian.com/world/2026/feb/27/ghana-men-killed-fight-russia-ukraine",
+        "title": "Ghana says at least 55 of its people killed after Russia ‘lured’ them to fight Ukraine",
+        "summary": "Foreign minister says 272 Ghanaians are thought to have been drawn into battle since 2022, after he visited Kyiv At least 55 Ghanaians have been killed in Russia’s war with Ukraine after being “lured into battle”, Ghana’s foreign ministe..."
+      },
+      {
+        "char": "👩‍❤️",
+        "label": "women arrested in uganda for kissing",
+        "url": "https://www.theguardian.com/global-development/2026/feb/26/women-arrested-uganda-kissing-public-lgbtq-laws",
+        "title": "Two women arrested in Uganda for allegedly kissing in public could face life sentence",
+        "summary": "Wendy Faith and Alesi Diana Denise were taken into custody under laws that have outraged LGBTQ+ community and rights activists Two women have been arrested and detained in Uganda after allegedly kissing in public, an act of “same-sex act..."
+      },
+      {
+        "char": "⚛️",
+        "label": "france boosts nuclear arsenal",
+        "url": "https://www.bbc.com/news/articles/cj4zlnezrl7o?at_medium=RSS&at_campaign=rss",
+        "title": "France to boost nuclear arsenal and extend deterrence to European allies",
+        "summary": "Emmanuel Macron said eight countries could enjoy protection from France's nuclear umbrella - but that Paris would retain sole decision-making power."
+      },
+      {
+        "char": "🤝",
+        "label": "india and canada nuclear energy deal",
+        "url": "https://www.bbc.com/news/articles/cx24gl7jrgno?at_medium=RSS&at_campaign=rss",
+        "title": "India and Canada reset ties with 'landmark' nuclear energy deal",
+        "summary": "A host of deals, including one to supply India with uranium, is unveiled as Mark Carney meets Narendra Modi in Delhi."
+      },
+      {
+        "char": "💥",
+        "label": "us service members killed in iran conflict",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2NMWmtuNEV4bTRDb19nLXpzN25WQWtWdHpIdjhLREZ0TkxFLVJPdFZySFpkd245cTFKN3dzdi1DZlZLR0wyRnhRV3NtRmVkOWE2MU8xRFljMV9GdmlQWG5SRjlxakhpcWE3V3ZMdkFZa2NGTVVzZEotZ2hnaFBNaVpOcUNPUEpRQVQ4ZEE5R0tTU2dYeElUYXJRQm1sbzVJM2xvM2tpUzRLU1lMbEV5QlYzY1c?oc=5",
+        "title": "Six US service members killed in Iran conflict, US military says - Reuters",
+        "summary": "Six US service members killed in Iran conflict, US military says Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
