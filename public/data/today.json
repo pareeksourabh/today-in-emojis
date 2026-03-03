@@ -39,5 +39,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Anger",
+    "emoji": "😡",
+    "rationale": "The news today reflects a profound sense of anger and frustration, from judicial failures involving AI to escalating violence in South Sudan and military inaction. These stories evoke a strong emotional response, highlighting societal dishe",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
