@@ -1,20 +1,34 @@
 {
   "date": "2026-03-03",
-  "timestamp": "2026-03-03T01:20:42Z",
+  "timestamp": "2026-03-03T05:16:14Z",
   "emojis": [
     {
-      "char": "🇬🇭",
-      "label": "ghana men killed in ukraine fight",
-      "url": "https://www.theguardian.com/world/2026/feb/27/ghana-men-killed-fight-russia-ukraine",
-      "title": "Ghana says at least 55 of its people killed after Russia ‘lured’ them to fight Ukraine",
-      "summary": "Foreign minister says 272 Ghanaians are thought to have been drawn into battle since 2022, after he visited Kyiv At least 55 Ghanaians have been killed in Russia’s war with Ukraine after being “lured into battle”, Ghana’s foreign ministe..."
+      "char": "🌊",
+      "label": "mediterranean storm tragedies",
+      "url": "https://www.theguardian.com/world/2026/feb/26/recent-mediterranean-storms-tragedies-spain-portugal-morocco",
+      "title": "‘A devastating force’: how recent storms turned to tragedies across the western Mediterranean",
+      "summary": "Atmospheric machine-gun has fired storm after deadly storm at the region this year, leaving a trail of widespread destruction For Andrés Sánchez Barea, in Spain, it was the fear that arose when water started to spurt from plug sockets. F..."
     },
     {
-      "char": "👩‍❤️",
-      "label": "women arrested in uganda for kissing",
-      "url": "https://www.theguardian.com/global-development/2026/feb/26/women-arrested-uganda-kissing-public-lgbtq-laws",
-      "title": "Two women arrested in Uganda for allegedly kissing in public could face life sentence",
-      "summary": "Wendy Faith and Alesi Diana Denise were taken into custody under laws that have outraged LGBTQ+ community and rights activists Two women have been arrested and detained in Uganda after allegedly kissing in public, an act of “same-sex act..."
+      "char": "😱",
+      "label": "iranian disbelief after leader's death",
+      "url": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-disbelief-khamenei-assassination.html",
+      "title": "‘It’s Surreal’: Iranians in Disbelief After Supreme Leader Is Killed",
+      "summary": "Large crowds of people celebrated the killing of Ayatollah Ali Khamenei in American and Israeli strikes, while many others gathered to mourn."
+    },
+    {
+      "char": "💥",
+      "label": "israel strikes lebanon amid conflict",
+      "url": "https://www.bbc.com/news/articles/c5y4v8g13wxo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel strikes Lebanon after Hezbollah rocket fire as Iran conflict widens",
+      "summary": "Lebanese officials say 52 people were killed by Israeli strikes, while there are no reports of casualties in Israel."
+    },
+    {
+      "char": "✈️",
+      "label": "pakistan strikes bagram air base",
+      "url": "https://www.nytimes.com/2026/03/02/world/asia/pakistan-bagram-airbase-afghanistan-war.html",
+      "title": "Pakistan Strikes Bagram Air Base, Satellite Images Show",
+      "summary": "Satellite imagery showed flattened warehouses at the base that served as the nerve center of America’s 20-year war in Afghanistan, a prized asset for the Taliban."
     },
     {
       "char": "⚛️",
@@ -22,20 +36,6 @@
       "url": "https://www.bbc.com/news/articles/cj4zlnezrl7o?at_medium=RSS&at_campaign=rss",
       "title": "France to boost nuclear arsenal and extend deterrence to European allies",
       "summary": "Emmanuel Macron said eight countries could enjoy protection from France's nuclear umbrella - but that Paris would retain sole decision-making power."
-    },
-    {
-      "char": "🤝",
-      "label": "india and canada nuclear energy deal",
-      "url": "https://www.bbc.com/news/articles/cx24gl7jrgno?at_medium=RSS&at_campaign=rss",
-      "title": "India and Canada reset ties with 'landmark' nuclear energy deal",
-      "summary": "A host of deals, including one to supply India with uranium, is unveiled as Mark Carney meets Narendra Modi in Delhi."
-    },
-    {
-      "char": "💥",
-      "label": "us service members killed in iran conflict",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2NMWmtuNEV4bTRDb19nLXpzN25WQWtWdHpIdjhLREZ0TkxFLVJPdFZySFpkd245cTFKN3dzdi1DZlZLR0wyRnhRV3NtRmVkOWE2MU8xRFljMV9GdmlQWG5SRjlxakhpcWE3V3ZMdkFZa2NGTVVzZEotZ2hnaFBNaVpOcUNPUEpRQVQ4ZEE5R0tTU2dYeElUYXJRQm1sbzVJM2xvM2tpUzRLU1lMbEV5QlYzY1c?oc=5",
-      "title": "Six US service members killed in Iran conflict, US military says - Reuters",
-      "summary": "Six US service members killed in Iran conflict, US military says Reuters"
     }
   ],
   "source": "ai-openai",
