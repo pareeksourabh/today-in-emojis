@@ -26003,5 +26003,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-04",
+    "emojis": [
+      {
+        "char": "🇩🇪",
+        "label": "trump meets germany's merz",
+        "url": "https://www.nytimes.com/2026/03/03/world/europe/merz-germany-trump-iran-meeting.html",
+        "title": "When Trump Meets Germany’s Merz, Iran Will Likely Dominate Discussion",
+        "summary": "Chancellor Friedrich Merz’s visit to Washington, long planned, is now likely to be dominated by discussions of the attack, which Europeans did not take part in."
+      },
+      {
+        "char": "🇪🇸",
+        "label": "sánchez responds to trump's threat",
+        "url": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss",
+        "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
+        "summary": "Spain's prime minister delivers a strong rebuttal to US President Donald Trump's threat to end trade with his country."
+      },
+      {
+        "char": "🇳🇬",
+        "label": "us hunts militants in nigeria",
+        "url": "https://www.nytimes.com/2026/03/03/world/africa/nigeria-security-forces-us-intervention.html",
+        "title": "U.S. Hunts for Militants as the Nigerian Military Is Accused of Inaction",
+        "summary": "The country has one of the most feared armed forces in Africa, yet within its own borders, it has repeatedly failed to stop abductions and attacks."
+      },
+      {
+        "char": "🇵🇰",
+        "label": "pakistan strikes bagram air base",
+        "url": "https://www.nytimes.com/2026/03/02/world/asia/pakistan-bagram-airbase-afghanistan-war.html",
+        "title": "Pakistan Strikes Bagram Air Base, Satellite Images Show",
+        "summary": "Satellite imagery showed flattened warehouses at the base that served as the nerve center of America’s 20-year war in Afghanistan, a prized asset for the Taliban."
+      },
+      {
+        "char": "🇲🇲",
+        "label": "myanmar junta leader eyes presidency",
+        "url": "https://www.nytimes.com/2026/03/03/world/asia/myanmar-junta-president-min-aung-hlaing.html",
+        "title": "In Myanmar, Junta Leader Eyes the Title of President",
+        "summary": "The military ruler of Myanmar, Senior Gen. Min Aung Hlaing, is expected to seek a civilian post to add a veneer of legitimacy after sham elections."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
