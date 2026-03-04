@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-03",
-  "timestamp": "2026-03-03T16:32:22Z",
+  "date": "2026-03-04",
+  "timestamp": "2026-03-04T01:16:27Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "india's court reacts to fake ai orders",
-      "url": "https://www.bbc.com/news/articles/c178zzw780xo?at_medium=RSS&at_campaign=rss",
-      "title": "India's top court angry after junior judge cites fake AI-generated orders",
-      "summary": "In several recent instances, AI has disrupted court proceedings in India and elsewhere."
-    },
-    {
-      "char": "🇩🇪",
-      "label": "trump and germany discuss iran",
-      "url": "https://www.nytimes.com/2026/03/03/world/europe/merz-germany-trump-iran-meeting.html",
-      "title": "When Trump Meets Germany’s Merz, Iran Will Likely Dominate Discussion",
-      "summary": "Chancellor Friedrich Merz’s visit to Washington, long planned, is now likely to be dominated by discussions of the attack, which Europeans did not take part in."
+      "char": "🇮🇷",
+      "label": "europe's leaders struggle on iran",
+      "url": "https://www.bbc.com/news/articles/cn8z5zvlz5yo?at_medium=RSS&at_campaign=rss",
+      "title": "Why Europe's leaders have struggled to speak as one on Iran",
+      "summary": "European nations say they want to work better together but have differing priorities"
     },
     {
       "char": "💰",
-      "label": "military cargo plane crash in bolivia",
-      "url": "https://www.theguardian.com/world/2026/feb/28/at-least-15-killed-as-cash-laden-military-cargo-plane-crashes-in-bolivia",
-      "title": "At least 20 killed as cash-laden military cargo plane crashes in Bolivia",
-      "summary": "Riot police use teargas to disperse people gathering around wreckage of plane loaded with money from central bank At least 20 people have died and dozens have been injured after a military cargo plane carrying banknotes crashed while lan..."
+      "label": "gas and oil prices soar amid conflict fears",
+      "url": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
+      "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
+      "summary": "Markets react as the conflict in the Middle East intensifies and concerns grow over how long it will last."
     },
     {
-      "char": "🔍",
-      "label": "us hunts militants in nigeria",
-      "url": "https://www.nytimes.com/2026/03/03/world/africa/nigeria-security-forces-us-intervention.html",
-      "title": "U.S. Hunts for Militants as the Nigerian Military Is Accused of Inaction",
-      "summary": "The country has one of the most feared armed forces in Africa, yet within its own borders, it has repeatedly failed to stop abductions and attacks."
+      "char": "⚡",
+      "label": "next era's power expansion plans",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWl0Zm9lSlk2YWZTd1lUNnFxLS1NLWZaaTZOc2FJQUhSOUh4XzYtdVRUaElEdUMwaWh2bWVKbjF4YnlVWDM3YmZSQldOQXdQajU5YWllRTliN0ZIRkhQRXRFUXJyaDNIaW9ubnhvdXNrM1p1TlE4bW1XMjRMb29teGhNQTY3cGlid3pqSE5IczZHVHBQLUJxZ2prWHRwT2xXdlE5Rk5kOG0zaW9QWnlVV3VIR0w?oc=5",
+      "title": "NextEra expects to add up to 30 gigawatts of power for data centers by 2035 - Reuters",
+      "summary": "NextEra expects to add up to 30 gigawatts of power for data centers by 2035 Reuters"
     },
     {
-      "char": "⚔️",
-      "label": "south sudan risks civil war",
-      "url": "https://www.theguardian.com/world/2026/mar/03/south-sudan-risks-return-civil-war-violence-escalates",
-      "title": "South Sudan risks return to full-blown civil war as violence escalates",
-      "summary": "At least 169 killed in raid near Sudan border as clashes between government and opposition forces intensify South Sudan is reeling from an escalating conflict between the government-aligned army and opposition forces and allied groups th..."
+      "char": "🇻🇪",
+      "label": "us pressures venezuela's new leader",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVkJYaDlxcElKY1dGV3luYW5JVERtY2xLOGhTQkFoMERLbXd5c194VGFLQlRpM2MtazVkOVZKMzcwN2RxOU4xN1lpS0wtdkl4VWpwd0NRR2d3QVJ4VDdGaERpcy1XWmh0ak15bDBreFZzMVEwQjdvbzBvVE5ORS1jSEpHTi13bGxDVmJFbVNrRXpCeTAwdWswTXJiMU1tcXJUN3l2Z01LWVN5Wk1MSkF2bmNSWFhtSHUtOFp1aHdLQnA?oc=5",
+      "title": "Exclusive: US turns up heat on Venezuela with threat to indict new leader Delcy Rodriguez - Reuters",
+      "summary": "Exclusive: US turns up heat on Venezuela with threat to indict new leader Delcy Rodriguez Reuters"
+    },
+    {
+      "char": "👩‍❤️",
+      "label": "women arrested in uganda for kissing",
+      "url": "https://www.theguardian.com/global-development/2026/feb/26/women-arrested-uganda-kissing-public-lgbtq-laws",
+      "title": "Two women arrested in Uganda for allegedly kissing in public could face life sentence",
+      "summary": "Wendy Faith and Alesi Diana Denise were taken into custody under laws that have outraged LGBTQ+ community and rights activists Two women have been arrested and detained in Uganda after allegedly kissing in public, an act of “same-sex act..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Anger",
-    "emoji": "😡",
-    "rationale": "The news today reflects a profound sense of anger and frustration, from judicial failures involving AI to escalating violence in South Sudan and military inaction. These stories evoke a strong emotional response, highlighting societal dishe",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
