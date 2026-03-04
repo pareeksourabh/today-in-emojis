@@ -1,7 +1,28 @@
 {
   "date": "2026-03-04",
-  "timestamp": "2026-03-04T13:07:36Z",
+  "timestamp": "2026-03-04T16:29:01Z",
   "emojis": [
+    {
+      "char": "🇬🇭",
+      "label": "ghana men killed in ukraine conflict",
+      "url": "https://www.theguardian.com/world/2026/feb/27/ghana-men-killed-fight-russia-ukraine",
+      "title": "Ghana says at least 55 of its people killed after Russia ‘lured’ them to fight Ukraine",
+      "summary": "Foreign minister says 272 Ghanaians are thought to have been drawn into battle since 2022, after he visited Kyiv At least 55 Ghanaians have been killed in Russia’s war with Ukraine after being “lured into battle”, Ghana’s foreign ministe..."
+    },
+    {
+      "char": "💰",
+      "label": "us health funding pacts anger",
+      "url": "https://www.theguardian.com/global-development/2026/feb/27/rising-anger-over-lop-sided-immoral-us-health-funding-pacts-africa-countries",
+      "title": "Rising anger over ‘lop-sided’ and ‘immoral’ US health funding pacts with African countries",
+      "summary": "Zimbabwe refuses to sign agreement and Kenya faces a court case over data sharing as new aid deals come under scrutiny A series of bilateral health agreements being negotiated between African countries and the administration of President..."
+    },
+    {
+      "char": "🇪🇸",
+      "label": "spain's leader rejects trump's threat",
+      "url": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss",
+      "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
+      "summary": "Spain's prime minister delivers a strong rebuttal to US President Donald Trump's threat to end trade with his country."
+    },
     {
       "char": "🗳️",
       "label": "nepal's gen z election insights",
@@ -10,32 +31,11 @@
       "summary": "Nepal is holding its first election since a youth-led uprising against corruption toppled the government last year. Here is what to know."
     },
     {
-      "char": "⚔️",
-      "label": "south sudan civil war risks",
-      "url": "https://www.theguardian.com/world/2026/mar/03/south-sudan-risks-return-civil-war-violence-escalates",
-      "title": "South Sudan risks return to full-blown civil war as violence escalates",
-      "summary": "At least 169 killed in raid near Sudan border as clashes between government and opposition forces intensify South Sudan is reeling from an escalating conflict between the government-aligned army and opposition forces and allied groups th..."
-    },
-    {
-      "char": "🌍",
-      "label": "fifa's world cup dilemma",
-      "url": "https://www.nytimes.com/2026/03/04/world/middleeast/iran-war-us-fifa-world-cup-soccer.html",
-      "title": "After U.S. Attacks on Iran, FIFA Grapples With How to Handle the World Cup",
-      "summary": "Soccer’s global governing body is grappling with a World Cup first: a tournament host going to war with a participating nation."
-    },
-    {
-      "char": "🚀",
-      "label": "us military operation in ecuador",
-      "url": "https://www.theguardian.com/us-news/2026/mar/04/us-military-action-operation-ecuador",
-      "title": "US military launches operation in Ecuador to combat drug trafficking",
-      "summary": "US Southern Command said joint mission with Ecuadorian forces involves ‘decisive action’ against narco-terrorists US and Ecuadorian forces have launched joint operations to combat drug trafficking, the US Southern Command said on Tuesday..."
-    },
-    {
-      "char": "💔",
-      "label": "ghana's tragedy in ukraine conflict",
-      "url": "https://www.theguardian.com/world/2026/feb/27/ghana-men-killed-fight-russia-ukraine",
-      "title": "Ghana says at least 55 of its people killed after Russia ‘lured’ them to fight Ukraine",
-      "summary": "Foreign minister says 272 Ghanaians are thought to have been drawn into battle since 2022, after he visited Kyiv At least 55 Ghanaians have been killed in Russia’s war with Ukraine after being “lured into battle”, Ghana’s foreign ministe..."
+      "char": "🚤",
+      "label": "cuba charges exiles after attack",
+      "url": "https://www.theguardian.com/world/2026/mar/04/cuba-charges-six-exiles-terrorism-speedboat-attack",
+      "title": "Cuba charges six exiles with terrorism in wake of deadly speedboat attack",
+      "summary": "Detainees accused of coming from the US with intent to sow chaos and attack military units on Communist-ruled island Cuban prosecutors have formally charged six people with crimes of terrorism after a US-flagged speedboat was involved in..."
     }
   ],
   "source": "ai-openai",
