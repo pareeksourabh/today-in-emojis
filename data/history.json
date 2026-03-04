@@ -26047,5 +26047,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-04",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "nepal's gen z election insights",
+        "url": "https://www.nytimes.com/2026/03/04/world/asia/nepal-election-gen-z-what-to-know.html",
+        "title": "What to Know About Nepal's Gen Z Election",
+        "summary": "Nepal is holding its first election since a youth-led uprising against corruption toppled the government last year. Here is what to know."
+      },
+      {
+        "char": "⚔️",
+        "label": "south sudan civil war risks",
+        "url": "https://www.theguardian.com/world/2026/mar/03/south-sudan-risks-return-civil-war-violence-escalates",
+        "title": "South Sudan risks return to full-blown civil war as violence escalates",
+        "summary": "At least 169 killed in raid near Sudan border as clashes between government and opposition forces intensify South Sudan is reeling from an escalating conflict between the government-aligned army and opposition forces and allied groups th..."
+      },
+      {
+        "char": "🌍",
+        "label": "fifa's world cup dilemma",
+        "url": "https://www.nytimes.com/2026/03/04/world/middleeast/iran-war-us-fifa-world-cup-soccer.html",
+        "title": "After U.S. Attacks on Iran, FIFA Grapples With How to Handle the World Cup",
+        "summary": "Soccer’s global governing body is grappling with a World Cup first: a tournament host going to war with a participating nation."
+      },
+      {
+        "char": "🚀",
+        "label": "us military operation in ecuador",
+        "url": "https://www.theguardian.com/us-news/2026/mar/04/us-military-action-operation-ecuador",
+        "title": "US military launches operation in Ecuador to combat drug trafficking",
+        "summary": "US Southern Command said joint mission with Ecuadorian forces involves ‘decisive action’ against narco-terrorists US and Ecuadorian forces have launched joint operations to combat drug trafficking, the US Southern Command said on Tuesday..."
+      },
+      {
+        "char": "💔",
+        "label": "ghana's tragedy in ukraine conflict",
+        "url": "https://www.theguardian.com/world/2026/feb/27/ghana-men-killed-fight-russia-ukraine",
+        "title": "Ghana says at least 55 of its people killed after Russia ‘lured’ them to fight Ukraine",
+        "summary": "Foreign minister says 272 Ghanaians are thought to have been drawn into battle since 2022, after he visited Kyiv At least 55 Ghanaians have been killed in Russia’s war with Ukraine after being “lured into battle”, Ghana’s foreign ministe..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
