@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-04",
-  "timestamp": "2026-03-04T16:29:01Z",
+  "date": "2026-03-05",
+  "timestamp": "2026-03-05T01:18:28Z",
   "emojis": [
     {
-      "char": "🇬🇭",
-      "label": "ghana men killed in ukraine conflict",
-      "url": "https://www.theguardian.com/world/2026/feb/27/ghana-men-killed-fight-russia-ukraine",
-      "title": "Ghana says at least 55 of its people killed after Russia ‘lured’ them to fight Ukraine",
-      "summary": "Foreign minister says 272 Ghanaians are thought to have been drawn into battle since 2022, after he visited Kyiv At least 55 Ghanaians have been killed in Russia’s war with Ukraine after being “lured into battle”, Ghana’s foreign ministe..."
-    },
-    {
-      "char": "💰",
-      "label": "us health funding pacts anger",
-      "url": "https://www.theguardian.com/global-development/2026/feb/27/rising-anger-over-lop-sided-immoral-us-health-funding-pacts-africa-countries",
-      "title": "Rising anger over ‘lop-sided’ and ‘immoral’ US health funding pacts with African countries",
-      "summary": "Zimbabwe refuses to sign agreement and Kenya faces a court case over data sharing as new aid deals come under scrutiny A series of bilateral health agreements being negotiated between African countries and the administration of President..."
-    },
-    {
       "char": "🇪🇸",
-      "label": "spain's leader rejects trump's threat",
+      "label": "spain rejects trump's war threat",
       "url": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss",
       "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
       "summary": "Spain's prime minister delivers a strong rebuttal to US President Donald Trump's threat to end trade with his country."
     },
     {
-      "char": "🗳️",
-      "label": "nepal's gen z election insights",
-      "url": "https://www.nytimes.com/2026/03/04/world/asia/nepal-election-gen-z-what-to-know.html",
-      "title": "What to Know About Nepal's Gen Z Election",
-      "summary": "Nepal is holding its first election since a youth-led uprising against corruption toppled the government last year. Here is what to know."
+      "char": "💰",
+      "label": "us health funding pacts criticized",
+      "url": "https://www.theguardian.com/global-development/2026/feb/27/rising-anger-over-lop-sided-immoral-us-health-funding-pacts-africa-countries",
+      "title": "Rising anger over ‘lop-sided’ and ‘immoral’ US health funding pacts with African countries",
+      "summary": "Zimbabwe refuses to sign agreement and Kenya faces a court case over data sharing as new aid deals come under scrutiny A series of bilateral health agreements being negotiated between African countries and the administration of President..."
     },
     {
-      "char": "🚤",
-      "label": "cuba charges exiles after attack",
-      "url": "https://www.theguardian.com/world/2026/mar/04/cuba-charges-six-exiles-terrorism-speedboat-attack",
-      "title": "Cuba charges six exiles with terrorism in wake of deadly speedboat attack",
-      "summary": "Detainees accused of coming from the US with intent to sow chaos and attack military units on Communist-ruled island Cuban prosecutors have formally charged six people with crimes of terrorism after a US-flagged speedboat was involved in..."
+      "char": "👩‍❤️",
+      "label": "women arrested for kissing in uganda",
+      "url": "https://www.theguardian.com/global-development/2026/feb/26/women-arrested-uganda-kissing-public-lgbtq-laws",
+      "title": "Two women arrested in Uganda for allegedly kissing in public could face life sentence",
+      "summary": "Wendy Faith and Alesi Diana Denise were taken into custody under laws that have outraged LGBTQ+ community and rights activists Two women have been arrested and detained in Uganda after allegedly kissing in public, an act of “same-sex act..."
+    },
+    {
+      "char": "⚔️",
+      "label": "us military operation in ecuador",
+      "url": "https://www.theguardian.com/us-news/2026/mar/04/us-military-action-operation-ecuador",
+      "title": "US military launches operation in Ecuador to combat drug trafficking",
+      "summary": "US Southern Command said joint mission with Ecuador involves ‘decisive action’ against illicit drug trafficking US and Ecuadorian forces have launched joint operations to combat drug trafficking , the US Southern Command said on Tuesday,..."
+    },
+    {
+      "char": "⚽",
+      "label": "fifa faces challenges after us attacks",
+      "url": "https://www.nytimes.com/2026/03/04/world/middleeast/iran-war-us-fifa-world-cup-soccer.html",
+      "title": "After U.S. Attacks on Iran, FIFA Grapples With How to Handle the World Cup",
+      "summary": "Soccer’s global governing body is grappling with a World Cup first: a tournament host going to war with a participating nation."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Anger",
-    "emoji": "😡",
-    "rationale": "Today's news reflects a deep sense of injustice and outrage, particularly regarding the exploitation of individuals in conflict and the inequities in health funding agreements. The emotional weight of these issues evokes strong feelings of,",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
