@@ -26223,5 +26223,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-05",
+    "emojis": [
+      {
+        "char": "🤖",
+        "label": "china’s a.i. enthusiasts",
+        "url": "https://www.nytimes.com/2026/03/04/world/asia/china-ai-enthusiasm.html",
+        "title": "Where Are China’s A.I. Doomers?",
+        "summary": "Chinese policymakers and the public have expressed high levels of optimism about A.I., even as many in the West worry about the technology’s effects on employment or humanity in general."
+      },
+      {
+        "char": "🚢",
+        "label": "tanker sinks in med",
+        "url": "https://www.bbc.com/news/articles/cr5ll27z52do?at_medium=RSS&at_campaign=rss",
+        "title": "Russia blames Ukrainian naval drones as tanker sinks in Mediterranean",
+        "summary": "The Arctic Metagaz went down between Libya and Malta after it was hit by explosions and a fire, Libyan officials say."
+      },
+      {
+        "char": "👨‍👦",
+        "label": "khamenei’s son successor",
+        "url": "https://www.nytimes.com/2026/03/03/world/middleeast/iran-mojtaba-khamenei-successor.html",
+        "title": "Ayatollah Ali Khamenei’s Son Emerges as Leading Choice to Be His Successor",
+        "summary": "If Mojtaba Khamenei is chosen by Iran’s senior clerics, it may signal a victory for hard-liners, an analyst said."
+      },
+      {
+        "char": "💼",
+        "label": "us military in ecuador",
+        "url": "https://www.theguardian.com/us-news/2026/mar/04/us-military-action-operation-ecuador",
+        "title": "US military launches operation in Ecuador to combat drug trafficking",
+        "summary": "US Southern Command said joint mission with Ecuador involves ‘decisive action’ against illicit drug trafficking US and Ecuadorian forces have launched joint operations to combat drug trafficking , the US Southern Command said on Tuesday,..."
+      },
+      {
+        "char": "🌍",
+        "label": "cuba blackout crisis",
+        "url": "https://www.bbc.com/news/articles/cx2ggpq1742o?at_medium=RSS&at_campaign=rss",
+        "title": "Millions of Cubans plunged into darkness as fuel crisis deepens",
+        "summary": "Fuel shortages have been exacerbated by a US oil blockade since the seizure of Venezuelan President Nicolás Maduro."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
