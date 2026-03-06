@@ -26487,5 +26487,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-06",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "anthropic sues pentagon over risks",
+        "url": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&at_campaign=rss",
+        "title": "Anthropic vows to sue Pentagon over supply chain risk label",
+        "summary": "The supply chain risk designation of the artificial intelligence firm is a first for a US company."
+      },
+      {
+        "char": "🌳",
+        "label": "brazil's urban coffee plantation grows",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZjhkWlVOSEN6ZU5rM0tnS3pvMzNCX2xMM1FUVWduXzlqYjJ0b3NjVmJRempub0xrV0JEY0FsQnl2bktLQzlGdlVCdVlsNklXRkt1TS1uYWRQb1NELUJLLWxISTROaVhBUmNiSjVERjNMUmRvNXEzQ3lqcHFFSWItMEtJaVJqZnljb3NKNkJiVzZCVkl2OTRLSC10RXI4RTI4QU1Dd19hWS16LUtPVkRLOS13bl9OYjUtVGY1M3JB?oc=5",
+        "title": "World's largest urban coffee plantation welcomes new trees in Brazil - Reuters",
+        "summary": "World's largest urban coffee plantation welcomes new trees in Brazil Reuters"
+      },
+      {
+        "char": "🚢",
+        "label": "sri lanka moves rescued iranian crew",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcFNWbnI2b2pzeWE1QjJKZEdEQXRUbDIyRHdUU0pQTzVmTXQ2ekVrNGZPSDFJRHVKZTVZeHhIc2trTUNQSDlHT2xPY2dacVZHZFlMVVlBdDBOaGxiQ01DYkkwREFDQURvSXdrbVlqTTdwUHRhdGNQSHMzNTFSWUZjVjRCZTBNTzFuTWlLTTBLZG9zcDhhUFRCdThyLTg4ZFhaa0l6eXFDZWREbmZ2cEQ1YW1GaktLSlkyWXBRRk9QTEJDUQ?oc=5",
+        "title": "Sri Lanka moving 208 rescued Iranian ship crew to naval camp, sources say - Reuters",
+        "summary": "Sri Lanka moving 208 rescued Iranian ship crew to naval camp, sources say Reuters"
+      },
+      {
+        "char": "💣",
+        "label": "israel strikes beirut amid tensions",
+        "url": "https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel strikes Beirut after evacuation warning sparks panic",
+        "summary": "Huge traffic jams form after the unprecedented warning for people to leave the Hezbollah stronghold, as Israel steps up its strikes across Lebanon."
+      },
+      {
+        "char": "🤝",
+        "label": "us and venezuela restore diplomatic ties",
+        "url": "https://www.theguardian.com/us-news/2026/mar/06/us-venezuela-diplomatic-ties-relations-delcy-rodriguez",
+        "title": "US and Venezuela move to restore diplomatic ties two months after Maduro’s capture",
+        "summary": "Re-establishing diplomatic relations will support Venezuela’s economy, US state department claims, amid push for minerals access Venezuela and the US are restoring diplomatic ties, the two countries announced Thursday, in a new sign of t..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
