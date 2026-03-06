@@ -1,34 +1,20 @@
 {
-  "date": "2026-03-05",
-  "timestamp": "2026-03-05T17:51:35Z",
+  "date": "2026-03-06",
+  "timestamp": "2026-03-06T01:22:00Z",
   "emojis": [
     {
-      "char": "🕊️",
-      "label": "australia's bondi beach memorial",
-      "url": "https://www.nytimes.com/2026/03/05/world/australia/bondi-australia-memorial.html",
-      "title": "Australia’s Sydney Jewish Museum to Memorialize Bondi Beach Massacre",
-      "summary": "The country and its small Jewish community are still trying to process the mass shooting at Bondi Beach in December."
+      "char": "🌳",
+      "label": "brazil bets on hiking trails for conservation",
+      "url": "https://www.theguardian.com/environment/2026/mar/05/brazil-hiking-trails-conservation",
+      "title": "‘It creates a sense of belonging’: Brazil bets on hiking trails for conservation",
+      "summary": "The country’s network of footpaths is growing – with hopes they will develop local economies and better preserve the environment Follow the yellow footprints along Brazil’s newest long-distance trail, and they will take you through lush..."
     },
     {
-      "char": "🚤",
-      "label": "cuba charges exiles with terrorism",
-      "url": "https://www.theguardian.com/world/2026/mar/04/cuba-charges-six-exiles-terrorism-speedboat-attack",
-      "title": "Cuba charges six exiles with terrorism in wake of deadly speedboat attack",
-      "summary": "Detainees accused of coming from the US with intent to sow chaos and attack military units on Communist-ruled island Cuban prosecutors have formally charged six people with crimes of terrorism after a US-flagged speedboat was involved in..."
-    },
-    {
-      "char": "🛡️",
-      "label": "us seeks ukraine's help against drones",
-      "url": "https://www.bbc.com/news/articles/cr5llg0e9g9o?at_medium=RSS&at_campaign=rss",
-      "title": "US asked Ukraine for help fighting Iranian drones, Zelensky says",
-      "summary": "Ukraine's president says Kyiv will only help if doing so does not deplete its own air defences."
-    },
-    {
-      "char": "⚡",
-      "label": "cuba blackout amid us oil chokehold",
-      "url": "https://www.theguardian.com/world/2026/mar/04/blackout-cuba-us-oil",
-      "title": "Blackout in Cuba leaves millions without power amid US oil chokehold",
-      "summary": "Latest outage darkens island facing dwindling oil reserves and increasing pressure from Washington A blackout hit the western half of Cuba on Wednesday, leaving millions of people in Havana and beyond without power in the latest outage t..."
+      "char": "🗳️",
+      "label": "nepal votes for a fresh slate of leaders",
+      "url": "https://www.nytimes.com/2026/03/05/world/asia/gen-z-nepal-election.html",
+      "title": "After Gen-Z Revolution, Nepal Votes for a Fresh Slate of Leaders",
+      "summary": "A millennial rapper and former mayor is aiming to lead the country, six months after the old guard was ousted."
     },
     {
       "char": "⚔️",
@@ -36,29 +22,22 @@
       "url": "https://www.theguardian.com/world/2026/mar/03/south-sudan-risks-return-civil-war-violence-escalates",
       "title": "South Sudan risks return to full-blown civil war as violence escalates",
       "summary": "At least 169 killed in raid near Sudan border as clashes between government and opposition forces intensify South Sudan is reeling from an escalating conflict between the government-aligned army and opposition forces and allied groups th..."
+    },
+    {
+      "char": "💡",
+      "label": "australia memorializes bondi beach massacre",
+      "url": "https://www.nytimes.com/2026/03/05/world/australia/bondi-australia-memorial.html",
+      "title": "Australia’s Sydney Jewish Museum to Memorialize Bondi Beach Massacre",
+      "summary": "The country and its small Jewish community are still trying to process the mass shooting at Bondi Beach in December."
+    },
+    {
+      "char": "🚨",
+      "label": "britney spears arrested for dui in california",
+      "url": "https://www.bbc.com/news/articles/c4gjjn41l7no?at_medium=RSS&at_campaign=rss",
+      "title": "Britney Spears arrested in California on suspicion of driving under the influence",
+      "summary": "The singer was arrested by the California Highway Patrol at around 21:30 PT (05:30 GMT) on Wednesday."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "The day is marked by significant tragedies, including memorials for mass shootings and escalating violence in South Sudan, evoking a deep sense of sadness and concern for human suffering.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
