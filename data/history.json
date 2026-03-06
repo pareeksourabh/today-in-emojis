@@ -26399,5 +26399,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-06",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "eyal zamir's war plans in israel",
+        "url": "https://www.nytimes.com/2026/03/05/world/middleeast/eyal-zamir-profile-iran-war.html",
+        "title": "Who Is Eyal Zamir, the Architect of Israel’s War Plans?",
+        "summary": "The Israeli general has long been focused on the threat from Iran and its proxies, and has called for a regional alliance against the country."
+      },
+      {
+        "char": "⚡",
+        "label": "cuba blackout amid us oil chokehold",
+        "url": "https://www.theguardian.com/world/2026/mar/04/blackout-cuba-us-oil",
+        "title": "Blackout in Cuba leaves millions without power amid US oil chokehold",
+        "summary": "Latest outage darkens island facing dwindling oil reserves and increasing pressure from Washington A blackout hit the western half of Cuba on Wednesday, leaving millions of people in Havana and beyond without power in the latest outage t..."
+      },
+      {
+        "char": "🇿🇦",
+        "label": "south africa's president on trump's policies",
+        "url": "https://www.nytimes.com/2026/03/05/world/africa/south-africa-ramaphosa-trump-meeting-racist.html",
+        "title": "South African President on Trump’s Oval Office ‘Ambush’ and ‘Racist’ Policies",
+        "summary": "In an interview with The New York Times, President Cyril Ramaphosa opened up about the role of middle powers, relations with Washington and apartheid."
+      },
+      {
+        "char": "🚨",
+        "label": "us military operation in ecuador",
+        "url": "https://www.theguardian.com/us-news/2026/mar/04/us-military-action-operation-ecuador",
+        "title": "US military launches operation in Ecuador to combat drug trafficking",
+        "summary": "US Southern Command said joint mission with Ecuador involves ‘decisive action’ against illicit drug trafficking US and Ecuadorian forces have launched joint operations to combat drug trafficking , the US Southern Command said on Tuesday,..."
+      },
+      {
+        "char": "🏁",
+        "label": "hamilton's plans for african grand prix",
+        "url": "https://www.theguardian.com/sport/2026/mar/05/lewis-hamilton-race-africa-grand-prix-retiring-formula-one-colonial",
+        "title": "Lewis Hamilton sets sights on racing in an African grand prix before retiring",
+        "summary": "British former champion hits out at former colonial rulers ‘I’m hoping countries unite and take Africa back’ Lewis Hamilton has called for a movement to “take Africa back”, claiming the continent is being “controlled” by European powers...."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
