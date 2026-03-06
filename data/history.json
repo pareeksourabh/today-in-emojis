@@ -26531,5 +26531,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-06",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "us deportees legal case",
+        "url": "https://www.theguardian.com/world/2026/mar/05/three-men-deported-us-eswatini-legal-case-detention",
+        "title": "Three men deported by US file legal case against Eswatini over detention",
+        "summary": "The men, sent to Africa after completing criminal sentences in the US, are from Cuba, Jamaica and Yemen Three men deported by the US to Eswatini – rather than their home countries – have filed a case against Eswatini’s government with th..."
+      },
+      {
+        "char": "💥",
+        "label": "israel strikes beirut",
+        "url": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon",
+        "title": "Iran Live Updates: Israel Pummels Beirut, Intensifying Strikes on Hezbollah",
+        "summary": "Thousands fled the heaviest Israeli attacks on Lebanon’s capital since a 2024 war with the Iran-backed militia. Israel also said it was hitting Iran, as President Trump repeated that there “will be no deal” with the Islamic Republic."
+      },
+      {
+        "char": "🕵️‍♂",
+        "label": "missing iranian critic in canada",
+        "url": "https://www.theguardian.com/world/2026/mar/06/missing-iranian-canada-masood-masjoody",
+        "title": "Activists fear that missing critic of Iran exiled in Canada was killed by Tehran",
+        "summary": "Police say Masood Masjoody was most likely murdered; Iranian expats suspect he was killed for his criticism of the theocratic regime Police in Canada have concluded that a missing Iranian activist was most likely the victim of murder, pr..."
+      },
+      {
+        "char": "🤝",
+        "label": "us and venezuela ties restored",
+        "url": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss",
+        "title": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
+        "summary": "The US said the two sides would make joint efforts to promote stability after the US seized Maduro and his wife."
+      },
+      {
+        "char": "💊",
+        "label": "weight-loss jab study",
+        "url": "https://www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study",
+        "title": "Weight-loss jab could be made for $3 a month, study finds",
+        "summary": "Cheap semaglutide, the drug in Ozempic and Wegovy, could help millions with diabetes and obesity in 160 countries Weight-loss jabs such as Wegovy could be made for just $3 a month, according to new analysis, potentially making the treatm..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
