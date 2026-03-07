@@ -26707,5 +26707,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-07",
+    "emojis": [
+      {
+        "char": "🔫",
+        "label": "nigeria attack leaves many dead",
+        "url": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
+        "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
+        "summary": "Suspected Islamist militants reportedly seized control of a village for two days before being forced out by troops and air strikes."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "jamil jivani channels charlie kirk",
+        "url": "https://www.nytimes.com/2026/03/06/world/canada/jamil-jivani-canada-conservative-jd-vance.html",
+        "title": "Jamil Jivani, a Friend of JD Vance, Channels Charlie Kirk in Canada",
+        "summary": "Jamil Jivani, a Conservative rookie member of Parliament, follows an American playbook to win over young men on college campuses."
+      },
+      {
+        "char": "🤖",
+        "label": "armed robots in ukraine war",
+        "url": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
+        "title": "Armed robots take to the battlefield in Ukraine war",
+        "summary": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces."
+      },
+      {
+        "char": "🌧️",
+        "label": "flooding kills 23 in nairobi",
+        "url": "https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss",
+        "title": "Heavy rains and flooding kills at least 23 in Nairobi",
+        "summary": "Flights in and out of Nairobi Airport have been disrupted while some roads in the capital are submerged."
+      },
+      {
+        "char": "⚖️",
+        "label": "peru court rules on forced sterilisation",
+        "url": "https://www.theguardian.com/global-development/2026/mar/06/peruvian-state-responsible-for-mothers-death-in-forced-sterilisation-court-rules",
+        "title": "Peruvian state responsible for mother’s death in forced sterilisation, court rules",
+        "summary": "Landmark ruling in Celia Ramos case finds 310,000 women, most Indigenous, were targeted in brutal 1990s campaign The highest human rights court in Latin America condemned Peru on Thursday over the death of its citizen Celia Ramos , who d..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
