@@ -26663,5 +26663,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-07",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israeli troops in lebanon",
+        "url": "https://www.bbc.com/news/articles/cpv8xlvk3p4o?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah",
+        "summary": "The BBC sees troops and tanks massing near the border, as speculation mounts that Israel is planning a full-scale ground invasion to fight Hezbollah."
+      },
+      {
+        "char": "🤝",
+        "label": "us and venezuela restore ties",
+        "url": "https://www.theguardian.com/us-news/2026/mar/06/us-venezuela-diplomatic-ties-relations-delcy-rodriguez",
+        "title": "US and Venezuela move to restore diplomatic ties two months after Maduro’s capture",
+        "summary": "Re-establishing diplomatic relations will support Venezuela’s economy, US state department claims, amid push for minerals access Venezuela and the US are restoring diplomatic ties, the two countries announced Thursday, in a new sign of t..."
+      },
+      {
+        "char": "💔",
+        "label": "russian strike kills civilians",
+        "url": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
+        "title": "Russian strike on Kharkiv apartment block kills seven",
+        "summary": "Ukraine President Volodymyr Zelensky says ten other people - including children - are injured as rescuers continue to search through rubble."
+      },
+      {
+        "char": "⚖️",
+        "label": "peru court rules on sterilisation",
+        "url": "https://www.theguardian.com/global-development/2026/mar/06/peruvian-state-responsible-for-mothers-death-in-forced-sterilisation-court-rules",
+        "title": "Peruvian state responsible for mother’s death in forced sterilisation, court rules",
+        "summary": "Landmark ruling in Celia Ramos case finds 310,000 women, most Indigenous, were targeted in brutal 1990s campaign The highest human rights court in Latin America condemned Peru on Thursday over the death of its citizen Celia Ramos , who d..."
+      },
+      {
+        "char": "🏄‍♂️",
+        "label": "surfers in munich seek wave",
+        "url": "https://www.nytimes.com/2026/03/07/world/europe/munich-surfing-wave.html",
+        "title": "Surfers in Munich (Yes, Munich) Just Want Their Wave Back",
+        "summary": "For decades, enthusiasts rode the cresting Eisbach creek in the southern German city, some 200 miles from the nearest coast. But the wave has vanished, prompting arguments about how to restore it."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
