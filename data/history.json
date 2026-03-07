@@ -26575,5 +26575,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-07",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "iran war unsettling china ambitions",
+        "url": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
+        "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
+        "summary": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples."
+      },
+      {
+        "char": "🤝",
+        "label": "us and venezuela restore ties",
+        "url": "https://www.theguardian.com/us-news/2026/mar/06/us-venezuela-diplomatic-ties-relations-delcy-rodriguez",
+        "title": "US and Venezuela move to restore diplomatic ties two months after Maduro’s capture",
+        "summary": "Re-establishing diplomatic relations will support Venezuela’s economy, US state department claims, amid push for minerals access Venezuela and the US are restoring diplomatic ties, the two countries announced Thursday, in a new sign of t..."
+      },
+      {
+        "char": "💼",
+        "label": "ukrainian bank workers released",
+        "url": "https://www.bbc.com/news/articles/cd03rj7n0nro?at_medium=RSS&at_campaign=rss",
+        "title": "Ukrainian bank workers released after detention in Hungary",
+        "summary": "Kyiv has reacted furiously after officials in Budapest accused staff transporting cash to Ukraine of money laundering."
+      },
+      {
+        "char": "⚖️",
+        "label": "peru court rules on forced sterilisation",
+        "url": "https://www.theguardian.com/global-development/2026/mar/06/peruvian-state-responsible-for-mothers-death-in-forced-sterilisation-court-rules",
+        "title": "Peruvian state responsible for mother’s death in forced sterilisation, court rules",
+        "summary": "Landmark ruling in Celia Ramos case finds 310,000 women, most Indigenous, were targeted in brutal 1990s campaign The highest human rights court in Latin America condemned Peru on Thursday over the death of its citizen Celia Ramos , who d..."
+      },
+      {
+        "char": "📱",
+        "label": "indonesia bans social media for minors",
+        "url": "https://www.nytimes.com/2026/03/06/world/asia/indonesia-social-media-ban.html",
+        "title": "Indonesia to Block Children Under 16 From Social Media",
+        "summary": "The ban is to take effect March 28, according to a government minister, but details about how it would be carried out were scarce."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

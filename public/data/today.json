@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-06",
-  "timestamp": "2026-03-06T16:25:13Z",
+  "date": "2026-03-07",
+  "timestamp": "2026-03-07T01:13:35Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "us deportees legal case",
-      "url": "https://www.theguardian.com/world/2026/mar/05/three-men-deported-us-eswatini-legal-case-detention",
-      "title": "Three men deported by US file legal case against Eswatini over detention",
-      "summary": "The men, sent to Africa after completing criminal sentences in the US, are from Cuba, Jamaica and Yemen Three men deported by the US to Eswatini – rather than their home countries – have filed a case against Eswatini’s government with th..."
-    },
-    {
-      "char": "💥",
-      "label": "israel strikes beirut",
-      "url": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon",
-      "title": "Iran Live Updates: Israel Pummels Beirut, Intensifying Strikes on Hezbollah",
-      "summary": "Thousands fled the heaviest Israeli attacks on Lebanon’s capital since a 2024 war with the Iran-backed militia. Israel also said it was hitting Iran, as President Trump repeated that there “will be no deal” with the Islamic Republic."
-    },
-    {
-      "char": "🕵️‍♂",
-      "label": "missing iranian critic in canada",
-      "url": "https://www.theguardian.com/world/2026/mar/06/missing-iranian-canada-masood-masjoody",
-      "title": "Activists fear that missing critic of Iran exiled in Canada was killed by Tehran",
-      "summary": "Police say Masood Masjoody was most likely murdered; Iranian expats suspect he was killed for his criticism of the theocratic regime Police in Canada have concluded that a missing Iranian activist was most likely the victim of murder, pr..."
+      "char": "🌍",
+      "label": "iran war unsettling china ambitions",
+      "url": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
+      "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
+      "summary": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples."
     },
     {
       "char": "🤝",
-      "label": "us and venezuela ties restored",
-      "url": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss",
-      "title": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
-      "summary": "The US said the two sides would make joint efforts to promote stability after the US seized Maduro and his wife."
+      "label": "us and venezuela restore ties",
+      "url": "https://www.theguardian.com/us-news/2026/mar/06/us-venezuela-diplomatic-ties-relations-delcy-rodriguez",
+      "title": "US and Venezuela move to restore diplomatic ties two months after Maduro’s capture",
+      "summary": "Re-establishing diplomatic relations will support Venezuela’s economy, US state department claims, amid push for minerals access Venezuela and the US are restoring diplomatic ties, the two countries announced Thursday, in a new sign of t..."
     },
     {
-      "char": "💊",
-      "label": "weight-loss jab study",
-      "url": "https://www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study",
-      "title": "Weight-loss jab could be made for $3 a month, study finds",
-      "summary": "Cheap semaglutide, the drug in Ozempic and Wegovy, could help millions with diabetes and obesity in 160 countries Weight-loss jabs such as Wegovy could be made for just $3 a month, according to new analysis, potentially making the treatm..."
+      "char": "💼",
+      "label": "ukrainian bank workers released",
+      "url": "https://www.bbc.com/news/articles/cd03rj7n0nro?at_medium=RSS&at_campaign=rss",
+      "title": "Ukrainian bank workers released after detention in Hungary",
+      "summary": "Kyiv has reacted furiously after officials in Budapest accused staff transporting cash to Ukraine of money laundering."
+    },
+    {
+      "char": "⚖️",
+      "label": "peru court rules on forced sterilisation",
+      "url": "https://www.theguardian.com/global-development/2026/mar/06/peruvian-state-responsible-for-mothers-death-in-forced-sterilisation-court-rules",
+      "title": "Peruvian state responsible for mother’s death in forced sterilisation, court rules",
+      "summary": "Landmark ruling in Celia Ramos case finds 310,000 women, most Indigenous, were targeted in brutal 1990s campaign The highest human rights court in Latin America condemned Peru on Thursday over the death of its citizen Celia Ramos , who d..."
+    },
+    {
+      "char": "📱",
+      "label": "indonesia bans social media for minors",
+      "url": "https://www.nytimes.com/2026/03/06/world/asia/indonesia-social-media-ban.html",
+      "title": "Indonesia to Block Children Under 16 From Social Media",
+      "summary": "The ban is to take effect March 28, according to a government minister, but details about how it would be carried out were scarce."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "Today's news reflects a mix of distress and concern, particularly with the escalating violence in the Middle East and the troubling circumstances surrounding the deported men and the missing activist. The overall tone suggests a somber mood",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
