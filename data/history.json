@@ -26971,5 +26971,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-08",
+    "emojis": [
+      {
+        "char": "💊",
+        "label": "weight-loss jab study findings",
+        "url": "https://www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study",
+        "title": "Weight-loss jab could be made for $3 a month, study finds",
+        "summary": "Cheap semaglutide, the drug in Ozempic and Wegovy, could help millions with diabetes and obesity in 160 countries Weight-loss jabs such as Wegovy could be made for just $3 a month, according to new analysis, potentially making the treatm..."
+      },
+      {
+        "char": "🏢",
+        "label": "russian strike kills ten in kharkiv",
+        "url": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
+        "title": "Russian strike on Kharkiv apartment block kills ten",
+        "summary": "Ukraine President Volodymyr Zelensky says other people - including children - are injured as rescuers continue to search through rubble."
+      },
+      {
+        "char": "🏛️",
+        "label": "restoration activism in st. petersburg",
+        "url": "https://www.nytimes.com/2026/03/08/world/europe/st-petersburg-restoration-activism.html",
+        "title": "In Russia’s Former Capital, Restoring the Past to Survive the Present",
+        "summary": "With political activism off-limits, residents of St. Petersburg are finding purpose and community in the “politics of small deeds,” repairing and cleaning architectural treasures."
+      },
+      {
+        "char": "📺",
+        "label": "swiss reject broadcaster fee cut",
+        "url": "https://www.bbc.com/news/articles/c0q32322wq8o?at_medium=RSS&at_campaign=rss",
+        "title": "Swiss reject right-wing plan to cut licence fee for public broadcaster",
+        "summary": "More than 60% voters said they wanted to keep the current licence fee levels, initial projections show."
+      },
+      {
+        "char": "💥",
+        "label": "explosion at us embassy in oslo",
+        "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
+        "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
+        "summary": "Police say they are investigating other motives after the blast caused minor damage to the embassy building."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
