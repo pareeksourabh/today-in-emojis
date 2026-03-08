@@ -26795,5 +26795,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-08",
+    "emojis": [
+      {
+        "char": "💣",
+        "label": "bombing in peru nightclub",
+        "url": "https://www.theguardian.com/world/2026/mar/07/peru-nightclub-bombing",
+        "title": "Bombing at nightclub in Peru injures 33 people, including minors",
+        "summary": "Explosion happened in pre-dawn hours at Dalí nightclub in the province of Trujillo along Peru’s northern coast A bombing at a nightclub in Peru has injured 33 people, including minors, authorities said Saturday. The explosion happened in..."
+      },
+      {
+        "char": "🛑",
+        "label": "trump's road to iran",
+        "url": "https://www.nytimes.com/2026/03/07/world/middleeast/trump-iran-human-rights-international-law.html",
+        "title": "How Good Intentions Helped Pave Trump’s Road to Iran",
+        "summary": "Humanitarians proposed a loophole in international law. Decades later, Trump is jumping through it."
+      },
+      {
+        "char": "⚖️",
+        "label": "deported men sue eswatini",
+        "url": "https://www.theguardian.com/world/2026/mar/05/three-men-deported-us-eswatini-legal-case-detention",
+        "title": "Three men deported by US file legal case against Eswatini over detention",
+        "summary": "The men, sent to Africa after completing criminal sentences in the US, are from Cuba, Jamaica and Yemen Three men deported by the US to Eswatini – rather than their home countries – have filed a case against Eswatini’s government with th..."
+      },
+      {
+        "char": "👶",
+        "label": "deaf boy deported with family",
+        "url": "https://www.theguardian.com/us-news/2026/mar/07/deaf-six-year-old-deported-colombia",
+        "title": "ICE deports family, including deaf boy who wasn’t given his assistive devices",
+        "summary": "California state superintendent says mother and sons arrested during ICE check-in and deported to Colombia California’s superintendent is calling for the return of a hearing-impaired six-year-old after he, his mother and his five-year-ol..."
+      },
+      {
+        "char": "🌧️",
+        "label": "flooding kills in nairobi",
+        "url": "https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss",
+        "title": "Heavy rains and flooding kills at least 23 in Nairobi",
+        "summary": "Flights in and out of Nairobi Airport have been disrupted while some roads in the capital are submerged."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

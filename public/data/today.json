@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-07",
-  "timestamp": "2026-03-07T16:13:06Z",
+  "date": "2026-03-08",
+  "timestamp": "2026-03-08T01:19:33Z",
   "emojis": [
     {
-      "char": "🇮🇷",
-      "label": "iran defends against aggression",
-      "url": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
-      "title": "Iran will continue to defend itself against aggression, ambassador to UK says",
-      "summary": "Seyed Ali Mousavi tells Laura Kuenssberg Iran's response depends on the actions of the US and Israel."
+      "char": "💣",
+      "label": "bombing in peru nightclub",
+      "url": "https://www.theguardian.com/world/2026/mar/07/peru-nightclub-bombing",
+      "title": "Bombing at nightclub in Peru injures 33 people, including minors",
+      "summary": "Explosion happened in pre-dawn hours at Dalí nightclub in the province of Trujillo along Peru’s northern coast A bombing at a nightclub in Peru has injured 33 people, including minors, authorities said Saturday. The explosion happened in..."
     },
     {
-      "char": "🔫",
-      "label": "nigeria attack kills many",
-      "url": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
-      "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
-      "summary": "Suspected Islamist militants reportedly seized control of a village for two days before being forced out by troops and air strikes."
-    },
-    {
-      "char": "🤖",
-      "label": "armed robots in ukraine war",
-      "url": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
-      "title": "Armed robots take to the battlefield in Ukraine war",
-      "summary": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces."
-    },
-    {
-      "char": "🌊",
-      "label": "surfers in munich want wave back",
-      "url": "https://www.nytimes.com/2026/03/07/world/europe/munich-surfing-wave.html",
-      "title": "Surfers in Munich (Yes, Munich) Just Want Their Wave Back",
-      "summary": "For decades, enthusiasts rode the cresting Eisbach creek in the southern German city, some 200 miles from the nearest coast. But the wave has vanished, prompting arguments about how to restore it."
+      "char": "🛑",
+      "label": "trump's road to iran",
+      "url": "https://www.nytimes.com/2026/03/07/world/middleeast/trump-iran-human-rights-international-law.html",
+      "title": "How Good Intentions Helped Pave Trump’s Road to Iran",
+      "summary": "Humanitarians proposed a loophole in international law. Decades later, Trump is jumping through it."
     },
     {
       "char": "⚖️",
-      "label": "peru court rules on sterilisation case",
-      "url": "https://www.theguardian.com/global-development/2026/mar/06/peruvian-state-responsible-for-mothers-death-in-forced-sterilisation-court-rules",
-      "title": "Peruvian state responsible for mother’s death in forced sterilisation, court rules",
-      "summary": "Landmark ruling in Celia Ramos case finds 310,000 women, most Indigenous, were targeted in brutal 1990s campaign The highest human rights court in Latin America condemned Peru on Thursday over the death of its citizen Celia Ramos , who d..."
+      "label": "deported men sue eswatini",
+      "url": "https://www.theguardian.com/world/2026/mar/05/three-men-deported-us-eswatini-legal-case-detention",
+      "title": "Three men deported by US file legal case against Eswatini over detention",
+      "summary": "The men, sent to Africa after completing criminal sentences in the US, are from Cuba, Jamaica and Yemen Three men deported by the US to Eswatini – rather than their home countries – have filed a case against Eswatini’s government with th..."
+    },
+    {
+      "char": "👶",
+      "label": "deaf boy deported with family",
+      "url": "https://www.theguardian.com/us-news/2026/mar/07/deaf-six-year-old-deported-colombia",
+      "title": "ICE deports family, including deaf boy who wasn’t given his assistive devices",
+      "summary": "California state superintendent says mother and sons arrested during ICE check-in and deported to Colombia California’s superintendent is calling for the return of a hearing-impaired six-year-old after he, his mother and his five-year-ol..."
+    },
+    {
+      "char": "🌧️",
+      "label": "flooding kills in nairobi",
+      "url": "https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss",
+      "title": "Heavy rains and flooding kills at least 23 in Nairobi",
+      "summary": "Flights in and out of Nairobi Airport have been disrupted while some roads in the capital are submerged."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😡",
-    "emoji": "😡",
-    "rationale": "The day is filled with distressing events, including violence in Nigeria and a troubling ruling in Peru regarding forced sterilizations, highlighting ongoing aggression and injustice.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
