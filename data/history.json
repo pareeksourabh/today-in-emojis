@@ -27015,5 +27015,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-09",
+    "emojis": [
+      {
+        "char": "⚔️",
+        "label": "war debate in cyprus over bases",
+        "url": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
+        "title": "War fuels debate in Cyprus over UK military bases",
+        "summary": "“British Bases Out” is the slogan of Cypriot protesters after a drone strike targeted the RAF Akrotiri airbase."
+      },
+      {
+        "char": "🎤",
+        "label": "nepal rapper-politician heads for victory",
+        "url": "https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss",
+        "title": "Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory",
+        "summary": "Thursday's general election was the first since violent youth-led protests toppled the government in September."
+      },
+      {
+        "char": "🌍",
+        "label": "south africa president calls trump racist",
+        "url": "https://www.theguardian.com/world/2026/mar/05/south-africa-president-cyril-ramaphosa-calls-donald-trump-policy-white-afrikaners-racist",
+        "title": "South Africa’s president calls Trump’s policy to offer refuge to white Afrikaners ‘racist’",
+        "summary": "US president is ‘truly uninformed’ for spreading claims of ‘white genocide’ in South Africa, Cyril Ramaphosa tells New York Times South Africa’s president, Cyril Ramaphosa, has called Donald Trump’s policy of allowing white Afrikaners to..."
+      },
+      {
+        "char": "🛢️",
+        "label": "iraqi oil production collapses due to conflict",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV2xXWVozc3NRRks5Zl9BdlE1SGV0aWVHRlFnc09QdTNxbVZ1d1pDV0UyTzJXSEF1cksyck1ISzFEb0lJLTA1Ukw2aVBTUU11d0hHbnBIZE5RUFp3bVJwU1FSbnlPcTNEM0doMFZtdGxVbFZyWW9iamZIa2xBQktYbWxPei04U09TNjd0X2ExRXY3VTZxelNNZ2NrZzNzNU5ieGNHSUFqUlkwNGM4Z0FSam9ibWFEWWZFZDhBNDlhTkZNSE1fdTZkUQ?oc=5",
+        "title": "Iraqi oil production collapses with Strait of Hormuz blocked by conflict, sources say - Reuters",
+        "summary": "Iraqi oil production collapses with Strait of Hormuz blocked by conflict, sources say Reuters"
+      },
+      {
+        "char": "🚨",
+        "label": "bombing at nightclub in peru injures 33",
+        "url": "https://www.theguardian.com/world/2026/mar/07/peru-nightclub-bombing",
+        "title": "Bombing at nightclub in Peru injures 33 people, including minors",
+        "summary": "Explosion happened in pre-dawn hours at Dalí nightclub in the province of Trujillo along Peru’s northern coast A bombing at a nightclub in Peru has injured 33 people, including minors, authorities said Saturday. The explosion happened in..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

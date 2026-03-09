@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-08",
-  "timestamp": "2026-03-08T16:13:44Z",
+  "date": "2026-03-09",
+  "timestamp": "2026-03-09T01:19:11Z",
   "emojis": [
     {
-      "char": "💊",
-      "label": "weight-loss jab study findings",
-      "url": "https://www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study",
-      "title": "Weight-loss jab could be made for $3 a month, study finds",
-      "summary": "Cheap semaglutide, the drug in Ozempic and Wegovy, could help millions with diabetes and obesity in 160 countries Weight-loss jabs such as Wegovy could be made for just $3 a month, according to new analysis, potentially making the treatm..."
+      "char": "⚔️",
+      "label": "war debate in cyprus over bases",
+      "url": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
+      "title": "War fuels debate in Cyprus over UK military bases",
+      "summary": "“British Bases Out” is the slogan of Cypriot protesters after a drone strike targeted the RAF Akrotiri airbase."
     },
     {
-      "char": "🏢",
-      "label": "russian strike kills ten in kharkiv",
-      "url": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
-      "title": "Russian strike on Kharkiv apartment block kills ten",
-      "summary": "Ukraine President Volodymyr Zelensky says other people - including children - are injured as rescuers continue to search through rubble."
+      "char": "🎤",
+      "label": "nepal rapper-politician heads for victory",
+      "url": "https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss",
+      "title": "Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory",
+      "summary": "Thursday's general election was the first since violent youth-led protests toppled the government in September."
     },
     {
-      "char": "🏛️",
-      "label": "restoration activism in st. petersburg",
-      "url": "https://www.nytimes.com/2026/03/08/world/europe/st-petersburg-restoration-activism.html",
-      "title": "In Russia’s Former Capital, Restoring the Past to Survive the Present",
-      "summary": "With political activism off-limits, residents of St. Petersburg are finding purpose and community in the “politics of small deeds,” repairing and cleaning architectural treasures."
+      "char": "🌍",
+      "label": "south africa president calls trump racist",
+      "url": "https://www.theguardian.com/world/2026/mar/05/south-africa-president-cyril-ramaphosa-calls-donald-trump-policy-white-afrikaners-racist",
+      "title": "South Africa’s president calls Trump’s policy to offer refuge to white Afrikaners ‘racist’",
+      "summary": "US president is ‘truly uninformed’ for spreading claims of ‘white genocide’ in South Africa, Cyril Ramaphosa tells New York Times South Africa’s president, Cyril Ramaphosa, has called Donald Trump’s policy of allowing white Afrikaners to..."
     },
     {
-      "char": "📺",
-      "label": "swiss reject broadcaster fee cut",
-      "url": "https://www.bbc.com/news/articles/c0q32322wq8o?at_medium=RSS&at_campaign=rss",
-      "title": "Swiss reject right-wing plan to cut licence fee for public broadcaster",
-      "summary": "More than 60% voters said they wanted to keep the current licence fee levels, initial projections show."
+      "char": "🛢️",
+      "label": "iraqi oil production collapses due to conflict",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV2xXWVozc3NRRks5Zl9BdlE1SGV0aWVHRlFnc09QdTNxbVZ1d1pDV0UyTzJXSEF1cksyck1ISzFEb0lJLTA1Ukw2aVBTUU11d0hHbnBIZE5RUFp3bVJwU1FSbnlPcTNEM0doMFZtdGxVbFZyWW9iamZIa2xBQktYbWxPei04U09TNjd0X2ExRXY3VTZxelNNZ2NrZzNzNU5ieGNHSUFqUlkwNGM4Z0FSam9ibWFEWWZFZDhBNDlhTkZNSE1fdTZkUQ?oc=5",
+      "title": "Iraqi oil production collapses with Strait of Hormuz blocked by conflict, sources say - Reuters",
+      "summary": "Iraqi oil production collapses with Strait of Hormuz blocked by conflict, sources say Reuters"
     },
     {
-      "char": "💥",
-      "label": "explosion at us embassy in oslo",
-      "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
-      "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
-      "summary": "Police say they are investigating other motives after the blast caused minor damage to the embassy building."
+      "char": "🚨",
+      "label": "bombing at nightclub in peru injures 33",
+      "url": "https://www.theguardian.com/world/2026/mar/07/peru-nightclub-bombing",
+      "title": "Bombing at nightclub in Peru injures 33 people, including minors",
+      "summary": "Explosion happened in pre-dawn hours at Dalí nightclub in the province of Trujillo along Peru’s northern coast A bombing at a nightclub in Peru has injured 33 people, including minors, authorities said Saturday. The explosion happened in..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sadness",
-    "emoji": "😢",
-    "rationale": "The day features a tragic loss of life due to violence in Ukraine, overshadowing hopeful developments in healthcare and community resilience, creating a heavy emotional tone.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
