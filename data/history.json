@@ -27147,5 +27147,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-09",
+    "emojis": [
+      {
+        "char": "🏛️",
+        "label": "erdogan's rival trial in turkey",
+        "url": "https://www.nytimes.com/2026/03/09/world/middleeast/turkey-erdogan-mayor-ekrem-imamoglu.html",
+        "title": "Is the Trial of Erdogan’s Top Rival More About Corruption or Politics?",
+        "summary": "Prosecutors accuse the former Istanbul mayor Ekrem Imamoglu of leading a criminal scheme. His supporters say Turkey’s president is trying to eliminate a political foe."
+      },
+      {
+        "char": "🌆",
+        "label": "mississauga's sleepless suburb",
+        "url": "https://www.nytimes.com/2026/03/09/world/canada/mississauga-toronto-ridgeway-immigration.html",
+        "title": "The Suburb That Won’t Sleep",
+        "summary": "Food is bringing thousands of people together to an unexpected place: a plaza west of Toronto. Some fear it’s tearing a neighborhood apart."
+      },
+      {
+        "char": "💼",
+        "label": "wall st futures slide amid conflict",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ25yUEVjdzA5eDR6QmJUYThwbHc0Rk9KYXRpcFVMNnYwZkZsYXQ0S1g2RXExRTVhbGFzMHV6dDE5ZHhHdjhfV0VUTkNMdmtMaUpVZTFOQ3h0WEhwM05xNV84STRSSjREUF9Ka204QVZ4WEtCUXZsZWY3c3h3My1zUEdBdTRTc3Q3ek1NVXdBYjJ5UFZHcUd1aU11ay01emx2S0JIeWVTU2tfQzA3Ti1qSTEwQlJ2eVVtbW5z?oc=5",
+        "title": "Wall St futures slide as Middle East conflict stokes inflation worries - Reuters",
+        "summary": "Wall St futures slide as Middle East conflict stokes inflation worries Reuters"
+      },
+      {
+        "char": "🛡️",
+        "label": "ukraine sends drone experts to jordan",
+        "url": "https://www.nytimes.com/2026/03/09/world/middleeast/ukraine-shahed-drone-middle-east.html",
+        "title": "Ukraine Sent Drone Experts to Protect U.S. Bases in Jordan, Zelensky Says",
+        "summary": "As the war in Iran spreads, Kyiv is eagerly offering its hard-won expertise and advanced technology to counter Iranian drones."
+      },
+      {
+        "char": "🌿",
+        "label": "cannabis bag donated to charity",
+        "url": "https://www.bbc.com/news/articles/c1w5yq924j1o?at_medium=RSS&at_campaign=rss",
+        "title": "Bag of cannabis and cash accidentally donated to NZ charity shop",
+        "summary": "Two teenagers have been arrested after inadvertently leaving the knapsack for staff to find."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
