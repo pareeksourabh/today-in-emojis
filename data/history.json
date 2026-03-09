@@ -27191,5 +27191,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-09",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "ge aerospace invests in us",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMERlVl9KQTYxLUtQTUdyMHZQcEdndHNjajI1WTJ4eHViTl9Tb2tiZnNKb0hrbDEzcmNqS291MjRhb2NpcWx0aHZhdzVlNHdMU0YxcVpQSjduZlpkSWFCQzIzWW1nUnZrMXpzclZDbTJOSFg1ZmszX1h4WFBPeXgyTXBPT1puczh0bHNEWGF6emk5elZ5ODRRdmlwTEJrNHo3OTNWUW5aSzF3QQ?oc=5",
+        "title": "GE Aerospace to invest additional $1 billion in US - Reuters",
+        "summary": "GE Aerospace to invest additional $1 billion in US Reuters"
+      },
+      {
+        "char": "🛢️",
+        "label": "oil shock worsens with us-israel actions",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2ZnNU1vaFU0UEY4X2pPSlFZY2h1ajFCMHRKZHBHYW0tOVpSZDcxTzdEcWNQSmFFRzhKbzQzWllJOGtUY1Z5N3hYSm5JUmhMWFRfVlE5TVE5YzltaFBvVWlOU05rVFlOZU1IY2tpVDA0dUw4U0NaZ1liSDhZR0NOaE1OaFRwanF1THFNa1Z1WWtNOFJLZTFPRE1FTTNMb0hOU0tZeHJqZV9DcHJydy1ER09fbkFFS2pRdnZ1R0FDVHg0ams?oc=5",
+        "title": "Oil shock to worsen should US-Israel seize Iran's Kharg Island, JP Morgan says - Reuters",
+        "summary": "Oil shock to worsen should US-Israel seize Iran's Kharg Island, JP Morgan says Reuters"
+      },
+      {
+        "char": "🌿",
+        "label": "cannabis bag donated to charity shop",
+        "url": "https://www.bbc.com/news/articles/c1w5yq924j1o?at_medium=RSS&at_campaign=rss",
+        "title": "Bag of cannabis and cash accidentally donated to NZ charity shop",
+        "summary": "Two teenagers have been arrested after inadvertently leaving the knapsack for staff to find."
+      },
+      {
+        "char": "🚨",
+        "label": "explosion damages synagogue in belgium",
+        "url": "https://www.nytimes.com/2026/03/09/world/europe/explosion-synagogue-belgium.html",
+        "title": "Explosion Damages Synagogue in Belgium",
+        "summary": "Officials described the blast, which caused no injuries, as an antisemitic act, but the exact circumstances were still under investigation."
+      },
+      {
+        "char": "👶",
+        "label": "deaf boy deported without devices",
+        "url": "https://www.theguardian.com/us-news/2026/mar/07/deaf-six-year-old-deported-colombia",
+        "title": "ICE deports family, including deaf boy who wasn’t given his assistive devices",
+        "summary": "California state superintendent says mother and sons arrested during ICE check-in and deported to Colombia California’s superintendent is calling for the return of a hearing-impaired six-year-old after he, his mother and his five-year-ol..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
