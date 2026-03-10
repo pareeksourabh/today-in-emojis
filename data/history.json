@@ -27279,5 +27279,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-10",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "trump on global economy and war",
+        "url": "https://www.nytimes.com/live/2026/03/09/world/iran-war-trump-israel-lebanon",
+        "title": "Live Updates: After Global Economy Shudders, Trump Zigzags on Whether War Is Nearing End",
+        "summary": "The president told reporters at a news conference in Florida that the fighting is “going to be ended soon” but added that the U.S. would strike Iran harder if needed."
+      },
+      {
+        "char": "💣",
+        "label": "oslo embassy explosion suspect",
+        "url": "https://www.bbc.com/news/articles/ce8wk563473o?at_medium=RSS&at_campaign=rss",
+        "title": "Police release images of Oslo US embassy explosion suspect",
+        "summary": "Norwegian police say their investigation so far shows Sunday's blast was caused by an improvised device."
+      },
+      {
+        "char": "🏙️",
+        "label": "immigration issues in mississauga",
+        "url": "https://www.nytimes.com/2026/03/09/world/canada/mississauga-toronto-ridgeway-immigration.html",
+        "title": "The Suburb That Won’t Sleep",
+        "summary": "Food is bringing thousands of people together to an unexpected place: a plaza west of Toronto. Some fear it’s tearing a neighborhood apart."
+      },
+      {
+        "char": "🇭🇹",
+        "label": "haitians seek community in mexico",
+        "url": "https://www.theguardian.com/world/2026/mar/08/haiti-immigrant-mexico-tapachula",
+        "title": "‘I am trying to live’: Haitians in Mexico seek community despite broken immigration systems",
+        "summary": "Funding cuts, US political pressure and bureaucratic delays have left thousands of Haitians facing prolonged uncertainty in Tapachula A year ago, when Jean Baptiste Gensley stepped off a bus in Tapachula, Mexico ’s southern city on the b..."
+      },
+      {
+        "char": "🏁",
+        "label": "hamilton's african grand prix plans",
+        "url": "https://www.theguardian.com/sport/2026/mar/05/lewis-hamilton-race-africa-grand-prix-retiring-formula-one-colonial",
+        "title": "Lewis Hamilton sets sights on racing in an African grand prix before retiring",
+        "summary": "British former champion hits out at former colonial rulers ‘I’m hoping countries unite and take Africa back’ Lewis Hamilton has called for a movement to “take Africa back”, claiming the continent is being “controlled” by European powers...."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
