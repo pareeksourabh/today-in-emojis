@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-09",
-  "timestamp": "2026-03-09T16:43:55Z",
+  "date": "2026-03-10",
+  "timestamp": "2026-03-10T01:13:53Z",
   "emojis": [
     {
-      "char": "✈️",
-      "label": "ge aerospace invests in us",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMERlVl9KQTYxLUtQTUdyMHZQcEdndHNjajI1WTJ4eHViTl9Tb2tiZnNKb0hrbDEzcmNqS291MjRhb2NpcWx0aHZhdzVlNHdMU0YxcVpQSjduZlpkSWFCQzIzWW1nUnZrMXpzclZDbTJOSFg1ZmszX1h4WFBPeXgyTXBPT1puczh0bHNEWGF6emk5elZ5ODRRdmlwTEJrNHo3OTNWUW5aSzF3QQ?oc=5",
-      "title": "GE Aerospace to invest additional $1 billion in US - Reuters",
-      "summary": "GE Aerospace to invest additional $1 billion in US Reuters"
+      "char": "🇭🇷",
+      "label": "croatia reinstates conscription",
+      "url": "https://www.bbc.com/news/articles/c93j2l32lzgo?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds of teenagers report for duty as Croatia reinstates conscription",
+      "summary": "Training will cover everything from traditional skills through to drone control and cyberwarfare techniques and countermeasures."
     },
     {
-      "char": "🛢️",
-      "label": "oil shock worsens with us-israel actions",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2ZnNU1vaFU0UEY4X2pPSlFZY2h1ajFCMHRKZHBHYW0tOVpSZDcxTzdEcWNQSmFFRzhKbzQzWllJOGtUY1Z5N3hYSm5JUmhMWFRfVlE5TVE5YzltaFBvVWlOU05rVFlOZU1IY2tpVDA0dUw4U0NaZ1liSDhZR0NOaE1OaFRwanF1THFNa1Z1WWtNOFJLZTFPRE1FTTNMb0hOU0tZeHJqZV9DcHJydy1ER09fbkFFS2pRdnZ1R0FDVHg0ams?oc=5",
-      "title": "Oil shock to worsen should US-Israel seize Iran's Kharg Island, JP Morgan says - Reuters",
-      "summary": "Oil shock to worsen should US-Israel seize Iran's Kharg Island, JP Morgan says Reuters"
+      "char": "💣",
+      "label": "oslo embassy explosion suspect",
+      "url": "https://www.bbc.com/news/articles/ce8wk563473o?at_medium=RSS&at_campaign=rss",
+      "title": "Police release images of Oslo US embassy explosion suspect",
+      "summary": "Norwegian police say their investigation so far shows Sunday's blast was caused by an improvised device."
     },
     {
-      "char": "🌿",
-      "label": "cannabis bag donated to charity shop",
-      "url": "https://www.bbc.com/news/articles/c1w5yq924j1o?at_medium=RSS&at_campaign=rss",
-      "title": "Bag of cannabis and cash accidentally donated to NZ charity shop",
-      "summary": "Two teenagers have been arrested after inadvertently leaving the knapsack for staff to find."
+      "char": "⚡",
+      "label": "g7 supports energy supplies",
+      "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
+      "title": "G7 to take 'necessary measures' to support energy supplies",
+      "summary": "Finance ministers and the IEA discussed options for stabilising oil prices which surpassed $100."
     },
     {
-      "char": "🚨",
-      "label": "explosion damages synagogue in belgium",
-      "url": "https://www.nytimes.com/2026/03/09/world/europe/explosion-synagogue-belgium.html",
-      "title": "Explosion Damages Synagogue in Belgium",
-      "summary": "Officials described the blast, which caused no injuries, as an antisemitic act, but the exact circumstances were still under investigation."
+      "char": "🔫",
+      "label": "sheinbaum warns trump on arms trade",
+      "url": "https://www.theguardian.com/world/2026/mar/09/mexican-cartels-guns-come-from-us-sheinbaum-trump",
+      "title": "Sheinbaum tells Trump: stop illegal arms trade from the US to Mexico",
+      "summary": "US president claimed he wanted to eradicate cartels and made comments about Mexico’s president that were deemed sexist in summit speech ‘Iron river’: Mexico’s cartel violence fuelled by trafficked firearms from US Sign up for the Breakin..."
     },
     {
-      "char": "👶",
-      "label": "deaf boy deported without devices",
-      "url": "https://www.theguardian.com/us-news/2026/mar/07/deaf-six-year-old-deported-colombia",
-      "title": "ICE deports family, including deaf boy who wasn’t given his assistive devices",
-      "summary": "California state superintendent says mother and sons arrested during ICE check-in and deported to Colombia California’s superintendent is calling for the return of a hearing-impaired six-year-old after he, his mother and his five-year-ol..."
+      "char": "🐟",
+      "label": "canadian fishers dramatic rescue",
+      "url": "https://www.theguardian.com/world/2026/mar/09/canada-ice-shelf-rescue-fishers-ontario",
+      "title": "‘We thought we were doomed’: Canadian fishers in dramatic rescue after ice shelf floats away",
+      "summary": "Anglers describe harrowing phone calls to loved ones once ice detached from shores of Georgian Bay in Ontario Sign up for the Breaking News US email to get newsletter alerts in your inbox Kevin Fox thought the spring-like temperatures th..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "Today's news reflects a mix of significant investments and unfortunate incidents, including a deportation case and an explosion linked to antisemitism. This blend of progress and distress leaves a somber feeling.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

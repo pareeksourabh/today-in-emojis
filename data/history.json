@@ -27235,5 +27235,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-10",
+    "emojis": [
+      {
+        "char": "🇭🇷",
+        "label": "croatia reinstates conscription",
+        "url": "https://www.bbc.com/news/articles/c93j2l32lzgo?at_medium=RSS&at_campaign=rss",
+        "title": "Hundreds of teenagers report for duty as Croatia reinstates conscription",
+        "summary": "Training will cover everything from traditional skills through to drone control and cyberwarfare techniques and countermeasures."
+      },
+      {
+        "char": "💣",
+        "label": "oslo embassy explosion suspect",
+        "url": "https://www.bbc.com/news/articles/ce8wk563473o?at_medium=RSS&at_campaign=rss",
+        "title": "Police release images of Oslo US embassy explosion suspect",
+        "summary": "Norwegian police say their investigation so far shows Sunday's blast was caused by an improvised device."
+      },
+      {
+        "char": "⚡",
+        "label": "g7 supports energy supplies",
+        "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
+        "title": "G7 to take 'necessary measures' to support energy supplies",
+        "summary": "Finance ministers and the IEA discussed options for stabilising oil prices which surpassed $100."
+      },
+      {
+        "char": "🔫",
+        "label": "sheinbaum warns trump on arms trade",
+        "url": "https://www.theguardian.com/world/2026/mar/09/mexican-cartels-guns-come-from-us-sheinbaum-trump",
+        "title": "Sheinbaum tells Trump: stop illegal arms trade from the US to Mexico",
+        "summary": "US president claimed he wanted to eradicate cartels and made comments about Mexico’s president that were deemed sexist in summit speech ‘Iron river’: Mexico’s cartel violence fuelled by trafficked firearms from US Sign up for the Breakin..."
+      },
+      {
+        "char": "🐟",
+        "label": "canadian fishers dramatic rescue",
+        "url": "https://www.theguardian.com/world/2026/mar/09/canada-ice-shelf-rescue-fishers-ontario",
+        "title": "‘We thought we were doomed’: Canadian fishers in dramatic rescue after ice shelf floats away",
+        "summary": "Anglers describe harrowing phone calls to loved ones once ice detached from shores of Georgian Bay in Ontario Sign up for the Breaking News US email to get newsletter alerts in your inbox Kevin Fox thought the spring-like temperatures th..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
