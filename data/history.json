@@ -27367,5 +27367,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-10",
+    "emojis": [
+      {
+        "char": "🚖",
+        "label": "uber rolls out women-only option",
+        "url": "https://www.bbc.com/news/articles/cx2gvrzwdr7o?at_medium=RSS&at_campaign=rss",
+        "title": "Uber rolls out women-only option in the US",
+        "summary": "The feature allows both women riders and drivers to be matched with other women for trips on the ride-sharing app."
+      },
+      {
+        "char": "🤝",
+        "label": "lebanon seeks talks with israel",
+        "url": "https://www.bbc.com/news/articles/cd9g5p3ppxlo?at_medium=RSS&at_campaign=rss",
+        "title": "Lebanon calls for talks with Israel on plan to end Hezbollah conflict",
+        "summary": "President Aoun outlines a path towards \"permanent security and stability\", as Israeli strikes targeting Hezbollah continue."
+      },
+      {
+        "char": "💼",
+        "label": "volkswagen to cut 50,000 jobs",
+        "url": "https://www.bbc.com/news/articles/c4gqyyly9v8o?at_medium=RSS&at_campaign=rss",
+        "title": "Volkswagen to cut 50,000 jobs as profits drop",
+        "summary": "Europe's largest carmaker said post-tax profits had dropped to their lowest level since 2016."
+      },
+      {
+        "char": "🌼",
+        "label": "wildflowers blanket death valley",
+        "url": "https://www.bbc.com/weather/articles/cp81r54e2ngo?at_medium=RSS&at_campaign=rss",
+        "title": "Wildflowers blanket Death Valley in best display since 2016",
+        "summary": "The California desert is seeing its most colourful display in a decade as flowers cover the region."
+      },
+      {
+        "char": "🔫",
+        "label": "shots fired at us consulate in canada",
+        "url": "https://www.theguardian.com/world/2026/mar/10/shots-fired-canada-consulate-toronto",
+        "title": "Shots fired at US consulate in Canada as police investigate incident",
+        "summary": "No injuries were reported after authorities found evidence of a discharged firearm near the consulate in Toronto Sign up for the Breaking News US email to get newsletter alerts in your inbox Police in Canada are investigating after shots..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
