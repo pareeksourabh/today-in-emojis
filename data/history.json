@@ -27587,5 +27587,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-11",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "mugabe's family after losing power",
+        "url": "https://www.bbc.com/news/articles/cp32xx35lwwo?at_medium=RSS&at_campaign=rss",
+        "title": "Mugabe's son drops bail request - what has happened to the family after losing power",
+        "summary": "Bellarmine Mugabe will negotiate a plea deal after being accused of attempted murder and other charges in South Africa."
+      },
+      {
+        "char": "💣",
+        "label": "dresden evacuated after bomb found",
+        "url": "https://www.bbc.com/news/articles/c1781gr5n9go?at_medium=RSS&at_campaign=rss",
+        "title": "Large parts of Dresden evacuated after 250kg WW2 bomb found",
+        "summary": "The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge."
+      },
+      {
+        "char": "💉",
+        "label": "unethical vaccine trial in africa",
+        "url": "https://www.theguardian.com/us-news/2026/mar/11/rfk-vaccine-trials-guinea-bissau",
+        "title": "Experts fear ‘unethical’ vaccine trial in Africa is ‘prototype’ for US studies under RFK Jr",
+        "summary": "Danish researchers whose work on effects of vaccines has been called into question are at center of US vaccine policy New details are leading experts to fear that an “unethical” vaccine trial in Guinea-Bissau is the “prototype” for studi..."
+      },
+      {
+        "char": "⚽",
+        "label": "iranian football delegate granted asylum",
+        "url": "https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&at_campaign=rss",
+        "title": "Member of Iranian football delegation granted Australian asylum changes her mind",
+        "summary": "One of the seven women who received visas has reversed her decision after speaking to teammates, minister says"
+      },
+      {
+        "char": "🌍",
+        "label": "villagers paid to protect ecosystem",
+        "url": "https://www.theguardian.com/travel/2026/mar/10/principe-africa-villagers-to-be-paid-protect-ecosystem-african-galapagos",
+        "title": "Villagers on Príncipe, the ‘African Galapagos’, to be paid for protecting the ecosystem",
+        "summary": "A billionaire is funding a sustainable development project on the west African island that makes the local population stewards of its future At the crumbling colonial farm buildings in Porto Real, agricultural worker Kimilson Lima, 43, h..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
