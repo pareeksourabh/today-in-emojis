@@ -27499,5 +27499,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-11",
+    "emojis": [
+      {
+        "char": "🇮🇷",
+        "label": "attacks in iran disrupt cities",
+        "url": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&at_campaign=rss",
+        "title": "'I just want to be able to sleep': Attacks in Iran rock cities and cut power",
+        "summary": "Iranians in Tehran and Karaj tell the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks."
+      },
+      {
+        "char": "👩‍⚖️",
+        "label": "fears for women's rights in chile",
+        "url": "https://www.theguardian.com/global-development/2026/mar/10/fears-womens-rights-chile-anti-abortion-president-jose-antonio-kast",
+        "title": "Fears for women’s rights in Chile as anti-abortion president set to take office",
+        "summary": "José Antonio Kast, who voted against legalising divorce in 2004, has pushed for return to total abortion ban Women’s rights activists in Chile are bracing as the most conservative president since the Pinochet dictatorship prepares to tak..."
+      },
+      {
+        "char": "🎤",
+        "label": "nepal's next prime minister is a rapper",
+        "url": "https://www.nytimes.com/2026/03/09/world/asia/balendra-shah-nepal-prime-minister.html",
+        "title": "Who Is Balendra Shah, the Rapper Set to Be Nepal’s Next Prime Minister?",
+        "summary": "Balendra Shah’s party won a landslide in the election that followed Nepal’s Gen Z revolution. His style is pugnacious."
+      },
+      {
+        "char": "🔫",
+        "label": "shooting at us consulate in toronto",
+        "url": "https://www.nytimes.com/2026/03/10/world/canada/us-consulate-toronto-shots.html",
+        "title": "Shooting at U.S. Consulate in Toronto a National Security Incident, Police Say",
+        "summary": "The police are searching for two men who both fired at the building with a single handgun and fled in a white SUV."
+      },
+      {
+        "char": "🌍",
+        "label": "villagers paid to protect ecosystem",
+        "url": "https://www.theguardian.com/travel/2026/mar/10/principe-africa-villagers-to-be-paid-protect-ecosystem-african-galapagos",
+        "title": "Villagers on Príncipe, the ‘African Galapagos’, to be paid for protecting the ecosystem",
+        "summary": "A billionaire is funding a sustainable development project on the west African island that makes the local population stewards of its future At the crumbling colonial farm buildings in Porto Real, agricultural worker Kimilson Lima, 43, h..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
