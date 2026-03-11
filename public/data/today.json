@@ -1,7 +1,14 @@
 {
-  "date": "2026-03-10",
-  "timestamp": "2026-03-10T16:43:15Z",
+  "date": "2026-03-11",
+  "timestamp": "2026-03-11T01:14:14Z",
   "emojis": [
+    {
+      "char": "🇳🇵",
+      "label": "nepal's next prime minister",
+      "url": "https://www.nytimes.com/2026/03/09/world/asia/balendra-shah-nepal-prime-minister.html",
+      "title": "Who Is Balendra Shah, the Rapper Set to Be Nepal’s Next Prime Minister?",
+      "summary": "Balendra Shah’s party won a landslide in the election that followed Nepal’s Gen Z revolution. His style is pugnacious."
+    },
     {
       "char": "🇺🇦",
       "label": "zelensky's frontline tour",
@@ -10,55 +17,27 @@
       "summary": "Ukraine’s leader, Volodymyr Zelensky, traveled east to visit frontline troops trying to stave off Russian attacks, and invited reporters for The New York Times to go with him."
     },
     {
-      "char": "💉",
-      "label": "weight-loss jab for $3",
-      "url": "https://www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study",
-      "title": "Weight-loss jab could be made for $3 a month, study finds",
-      "summary": "Cheap semaglutide, the drug in Ozempic and Wegovy, could help millions with diabetes and obesity in 160 countries Weight-loss jabs such as Wegovy could be made for just $3 a month, according to new analysis, potentially making the treatm..."
+      "char": "🚨",
+      "label": "women's rights fears in chile",
+      "url": "https://www.theguardian.com/global-development/2026/mar/10/fears-womens-rights-chile-anti-abortion-president-jose-antonio-kast",
+      "title": "Fears for women’s rights in Chile as anti-abortion president set to take office",
+      "summary": "José Antonio Kast, who voted against legalising divorce in 2004, has pushed for return to total abortion ban Women’s rights activists in Chile are bracing as the most conservative president since the Pinochet dictatorship prepares to tak..."
     },
     {
-      "char": "🔫",
-      "label": "shots fired at us consulate",
-      "url": "https://www.bbc.com/news/articles/cwy8lrq9rg2o?at_medium=RSS&at_campaign=rss",
-      "title": "Canada police investigate reports of shots fired at US consulate in Toronto",
-      "summary": "It comes as Norwegian police investigate an explosion that occurred outside the US embassy in Oslo on Sunday."
+      "char": "🐟",
+      "label": "canadian fishers rescue",
+      "url": "https://www.theguardian.com/world/2026/mar/09/canada-ice-shelf-rescue-fishers-ontario",
+      "title": "‘We thought we were doomed’: Canadian fishers in dramatic rescue after ice shelf floats away",
+      "summary": "Anglers describe harrowing phone calls to loved ones after ice detached from shores of Georgian Bay in Ontario Sign up for the Breaking News US email to get newsletter alerts in your inbox Kevin Fox thought the spring-like temperatures t..."
     },
     {
-      "char": "🇮🇷",
-      "label": "new supreme leader in iran",
-      "url": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-supreme-leader-secretive-office.html",
-      "title": "New Supreme Leader Inherits Sprawling, Secretive Office That Dominates Iran",
-      "summary": "His father, Ayatollah Ali Khamenei, had turned what was traditionally a religious affairs office into a shadowy national security juggernaut."
-    },
-    {
-      "char": "🌍",
-      "label": "villagers paid to protect ecosystem",
-      "url": "https://www.theguardian.com/travel/2026/mar/10/principe-africa-villagers-to-be-paid-protect-ecosystem-african-galapagos",
-      "title": "Villagers on Principe, the ‘African Galapagos’, to be paid for protecting the ecosystem",
-      "summary": "A billionaire is funding a sustainable development project on the west African island that makes the local population stewards of its future At the crumbling colonial farm buildings in Porto Real, agricultural worker Kimilson Lima, 43, h..."
+      "char": "⚔️",
+      "label": "us strikes on iranian vessels",
+      "url": "https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel",
+      "title": "Iran Live Updates: U.S. Says It Struck 16 Iranian Mine-Laying Vessels Near Oil Route",
+      "summary": "Whether any mines had been laid in the Strait of Hormuz since the war began on Feb. 28 is unclear. The Pentagon said 140 American service members had been wounded, eight severely, in the war."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "Today's news highlights significant global tensions and challenges, from the ongoing conflict in Ukraine to security threats in Canada and Norway, creating an atmosphere of unease and concern.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

@@ -27455,5 +27455,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-11",
+    "emojis": [
+      {
+        "char": "🇳🇵",
+        "label": "nepal's next prime minister",
+        "url": "https://www.nytimes.com/2026/03/09/world/asia/balendra-shah-nepal-prime-minister.html",
+        "title": "Who Is Balendra Shah, the Rapper Set to Be Nepal’s Next Prime Minister?",
+        "summary": "Balendra Shah’s party won a landslide in the election that followed Nepal’s Gen Z revolution. His style is pugnacious."
+      },
+      {
+        "char": "🇺🇦",
+        "label": "zelensky's frontline tour",
+        "url": "https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html",
+        "title": "On the Road With Zelensky, Weathered, Weary and Fighting On",
+        "summary": "Ukraine’s leader, Volodymyr Zelensky, traveled east to visit frontline troops trying to stave off Russian attacks, and invited reporters for The New York Times to go with him."
+      },
+      {
+        "char": "🚨",
+        "label": "women's rights fears in chile",
+        "url": "https://www.theguardian.com/global-development/2026/mar/10/fears-womens-rights-chile-anti-abortion-president-jose-antonio-kast",
+        "title": "Fears for women’s rights in Chile as anti-abortion president set to take office",
+        "summary": "José Antonio Kast, who voted against legalising divorce in 2004, has pushed for return to total abortion ban Women’s rights activists in Chile are bracing as the most conservative president since the Pinochet dictatorship prepares to tak..."
+      },
+      {
+        "char": "🐟",
+        "label": "canadian fishers rescue",
+        "url": "https://www.theguardian.com/world/2026/mar/09/canada-ice-shelf-rescue-fishers-ontario",
+        "title": "‘We thought we were doomed’: Canadian fishers in dramatic rescue after ice shelf floats away",
+        "summary": "Anglers describe harrowing phone calls to loved ones after ice detached from shores of Georgian Bay in Ontario Sign up for the Breaking News US email to get newsletter alerts in your inbox Kevin Fox thought the spring-like temperatures t..."
+      },
+      {
+        "char": "⚔️",
+        "label": "us strikes on iranian vessels",
+        "url": "https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel",
+        "title": "Iran Live Updates: U.S. Says It Struck 16 Iranian Mine-Laying Vessels Near Oil Route",
+        "summary": "Whether any mines had been laid in the Strait of Hormuz since the war began on Feb. 28 is unclear. The Pentagon said 140 American service members had been wounded, eight severely, in the war."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
