@@ -27631,5 +27631,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-11",
+    "emojis": [
+      {
+        "char": "🇭🇹",
+        "label": "haiti president's assassination",
+        "url": "https://www.theguardian.com/world/2026/mar/10/haiti-president-jovenel-moise-trial",
+        "title": "Haiti president’s assassination driven by greed and power, US prosecutors say",
+        "summary": "Opening statements begin in Miami trial of four men accused in the 2021 killing of Jovenel Moïse Sign up for the Breaking News US email to get newsletter alerts in your inbox Greed, arrogance and power were the driving forces behind four..."
+      },
+      {
+        "char": "🔫",
+        "label": "shots fired at us consulate",
+        "url": "https://www.theguardian.com/world/2026/mar/10/shots-fired-canada-consulate-toronto",
+        "title": "Shots fired at US consulate in Canada in what police call ‘national security incident’",
+        "summary": "No injuries reported but security boosted at US and Israeli diplomatic buildings in Toronto and Ottawa Sign up for the Breaking News US email to get newsletter alerts in your inbox Two men fired multiple shots at the US consulate in Toro..."
+      },
+      {
+        "char": "🇦🇷",
+        "label": "argentina grants asylum",
+        "url": "https://www.theguardian.com/world/2026/mar/11/argentina-asylum-brasil-elections",
+        "title": "Argentina grants asylum to Brasília rioter in move that may sway Brazil vote",
+        "summary": "Decision to shield pro-Bolsonaro truck driver sentenced for 8 January 2023 attack could inflame Brazil election politics Argentina has granted asylum to a Brazilian fugitive convicted for his role in 2023 pro-Bolsonaro riots – a decision..."
+      },
+      {
+        "char": "💣",
+        "label": "drone strikes in dr congo",
+        "url": "https://www.bbc.com/news/articles/cvgj8veg0gno?at_medium=RSS&at_campaign=rss",
+        "title": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
+        "summary": "Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma."
+      },
+      {
+        "char": "⚖️",
+        "label": "prison sentences for gay men attack",
+        "url": "https://www.theguardian.com/global-development/2026/mar/11/prison-sentences-attacked-gay-men-hope-kenya-lgbtq-community",
+        "title": "Prison sentences for pair who attacked gay men hailed as sign of hope for Kenya’s LGBTQ+ community",
+        "summary": "The perpetrators were jailed for 15 years for robbery with violence in the east African country, where homophobic attacks are increasing The sentencing of two people who attacked and robbed two gay men in Kenya has been hailed by LGBTQ+..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
