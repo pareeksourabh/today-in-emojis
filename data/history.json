@@ -27543,5 +27543,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-11",
+    "emojis": [
+      {
+        "char": "💣",
+        "label": "dresden bomb evacuation",
+        "url": "https://www.bbc.com/news/articles/c1781gr5n9go?at_medium=RSS&at_campaign=rss",
+        "title": "Large parts of Dresden to be evacuated after 250kg WW2 bomb found",
+        "summary": "The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge."
+      },
+      {
+        "char": "⚓",
+        "label": "us strikes iranian vessels",
+        "url": "https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel",
+        "title": "U.S. Says It Struck 16 Iranian Mine-Laying Vessels Near Oil Route",
+        "summary": "Whether any mines had been laid in the Strait of Hormuz since the war began on Feb. 28 is unclear. The Pentagon said 140 American service members had been wounded, eight severely, in the war."
+      },
+      {
+        "char": "🔫",
+        "label": "shots fired at us consulate",
+        "url": "https://www.theguardian.com/world/2026/mar/10/shots-fired-canada-consulate-toronto",
+        "title": "Shots fired at US consulate in Canada in what police call ‘national security incident’",
+        "summary": "No injuries reported but security boosted at US and Israeli diplomatic buildings in Toronto and Ottawa Sign up for the Breaking News US email to get newsletter alerts in your inbox Two men fired multiple shots at the US consulate in Toro..."
+      },
+      {
+        "char": "🌍",
+        "label": "villagers paid to protect ecosystem",
+        "url": "https://www.theguardian.com/travel/2026/mar/10/principe-africa-villagers-to-be-paid-protect-ecosystem-african-galapagos",
+        "title": "Villagers on Príncipe, the ‘African Galapagos’, to be paid for protecting the ecosystem",
+        "summary": "A billionaire is funding a sustainable development project on the west African island that makes the local population stewards of its future At the crumbling colonial farm buildings in Porto Real, agricultural worker Kimilson Lima, 43, h..."
+      },
+      {
+        "char": "⚖️",
+        "label": "haiti president assassination trial",
+        "url": "https://www.theguardian.com/world/2026/mar/10/haiti-president-jovenel-moise-trial",
+        "title": "Haiti president’s assassination driven by greed and power, US prosecutors say",
+        "summary": "Opening statements begin in Miami trial of four men accused in the 2021 killing of Jovenel Moïse Sign up for the Breaking News US email to get newsletter alerts in your inbox Greed, arrogance and power were the driving forces behind four..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

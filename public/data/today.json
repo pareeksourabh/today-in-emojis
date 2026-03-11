@@ -1,34 +1,27 @@
 {
   "date": "2026-03-11",
-  "timestamp": "2026-03-11T05:14:35Z",
+  "timestamp": "2026-03-11T08:48:40Z",
   "emojis": [
     {
-      "char": "🇮🇷",
-      "label": "attacks in iran disrupt cities",
-      "url": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&at_campaign=rss",
-      "title": "'I just want to be able to sleep': Attacks in Iran rock cities and cut power",
-      "summary": "Iranians in Tehran and Karaj tell the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks."
+      "char": "💣",
+      "label": "dresden bomb evacuation",
+      "url": "https://www.bbc.com/news/articles/c1781gr5n9go?at_medium=RSS&at_campaign=rss",
+      "title": "Large parts of Dresden to be evacuated after 250kg WW2 bomb found",
+      "summary": "The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge."
     },
     {
-      "char": "👩‍⚖️",
-      "label": "fears for women's rights in chile",
-      "url": "https://www.theguardian.com/global-development/2026/mar/10/fears-womens-rights-chile-anti-abortion-president-jose-antonio-kast",
-      "title": "Fears for women’s rights in Chile as anti-abortion president set to take office",
-      "summary": "José Antonio Kast, who voted against legalising divorce in 2004, has pushed for return to total abortion ban Women’s rights activists in Chile are bracing as the most conservative president since the Pinochet dictatorship prepares to tak..."
-    },
-    {
-      "char": "🎤",
-      "label": "nepal's next prime minister is a rapper",
-      "url": "https://www.nytimes.com/2026/03/09/world/asia/balendra-shah-nepal-prime-minister.html",
-      "title": "Who Is Balendra Shah, the Rapper Set to Be Nepal’s Next Prime Minister?",
-      "summary": "Balendra Shah’s party won a landslide in the election that followed Nepal’s Gen Z revolution. His style is pugnacious."
+      "char": "⚓",
+      "label": "us strikes iranian vessels",
+      "url": "https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel",
+      "title": "U.S. Says It Struck 16 Iranian Mine-Laying Vessels Near Oil Route",
+      "summary": "Whether any mines had been laid in the Strait of Hormuz since the war began on Feb. 28 is unclear. The Pentagon said 140 American service members had been wounded, eight severely, in the war."
     },
     {
       "char": "🔫",
-      "label": "shooting at us consulate in toronto",
-      "url": "https://www.nytimes.com/2026/03/10/world/canada/us-consulate-toronto-shots.html",
-      "title": "Shooting at U.S. Consulate in Toronto a National Security Incident, Police Say",
-      "summary": "The police are searching for two men who both fired at the building with a single handgun and fled in a white SUV."
+      "label": "shots fired at us consulate",
+      "url": "https://www.theguardian.com/world/2026/mar/10/shots-fired-canada-consulate-toronto",
+      "title": "Shots fired at US consulate in Canada in what police call ‘national security incident’",
+      "summary": "No injuries reported but security boosted at US and Israeli diplomatic buildings in Toronto and Ottawa Sign up for the Breaking News US email to get newsletter alerts in your inbox Two men fired multiple shots at the US consulate in Toro..."
     },
     {
       "char": "🌍",
@@ -36,6 +29,13 @@
       "url": "https://www.theguardian.com/travel/2026/mar/10/principe-africa-villagers-to-be-paid-protect-ecosystem-african-galapagos",
       "title": "Villagers on Príncipe, the ‘African Galapagos’, to be paid for protecting the ecosystem",
       "summary": "A billionaire is funding a sustainable development project on the west African island that makes the local population stewards of its future At the crumbling colonial farm buildings in Porto Real, agricultural worker Kimilson Lima, 43, h..."
+    },
+    {
+      "char": "⚖️",
+      "label": "haiti president assassination trial",
+      "url": "https://www.theguardian.com/world/2026/mar/10/haiti-president-jovenel-moise-trial",
+      "title": "Haiti president’s assassination driven by greed and power, US prosecutors say",
+      "summary": "Opening statements begin in Miami trial of four men accused in the 2021 killing of Jovenel Moïse Sign up for the Breaking News US email to get newsletter alerts in your inbox Greed, arrogance and power were the driving forces behind four..."
     }
   ],
   "source": "ai-openai",
