@@ -27807,5 +27807,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-12",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "epstein ambassador warning",
+        "url": "https://www.nytimes.com/live/2026/03/11/world/mandelson-files-epstein-uk",
+        "title": "Starmer Was Warned About Risk of Appointing Friend of Epstein as Ambassador",
+        "summary": "British officials told Prime Minister Keir Starmer of Peter Mandelson’s close ties to Jeffrey Epstein before Mr. Mandelson was appointed U.S. ambassador."
+      },
+      {
+        "char": "🤖",
+        "label": "ai surveillance in africa",
+        "url": "https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts",
+        "title": "‘Invasive’ AI-led mass surveillance in Africa violating freedoms, warn experts",
+        "summary": "Countries across the continent have spent more than $2bn on Chinese tracking technology that is not ‘necessary or proportionate’, new report finds The rapid expansion of AI-powered mass-surveillance systems across Africa is violating cit..."
+      },
+      {
+        "char": "🇨🇳",
+        "label": "china's ethnic unity law",
+        "url": "https://www.bbc.com/news/articles/cp9meeek051o?at_medium=RSS&at_campaign=rss",
+        "title": "China approves 'ethnic unity' law requiring minorities to learn Mandarin",
+        "summary": "The law states that children should be taught Mandarin before kindergarten, until the end of high school."
+      },
+      {
+        "char": "💣",
+        "label": "drone strikes in sudan",
+        "url": "https://www.theguardian.com/world/2026/mar/11/at-least-17-killed-after-drone-strikes-school-in-sudan",
+        "title": "At least 17 killed after drone strikes school in Sudan",
+        "summary": "Strike in Shukeiri killed schoolgirls, teachers and healthcare workers in latest incident in three-year war At least 17 people, most of them schoolgirls, were killed on Wednesday when an explosive-laden drone blamed on Sudan’ s paramilit..."
+      },
+      {
+        "char": "🌍",
+        "label": "fossil fuels and floods in brazil",
+        "url": "https://www.theguardian.com/world/2026/mar/12/quit-fossil-fuels-to-stem-deadly-floods-in-brazils-coffee-heartland-say-scientists",
+        "title": "Quit fossil fuels to stem deadly floods in Brazil’s coffee heartland, say scientists",
+        "summary": "Global heating linked to rising risk of extreme rain that causes devastating landslides and rising coffee prices The record floods that have brought death and destruction to the heartland of Brazil’s coffee industry are expected to inten..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

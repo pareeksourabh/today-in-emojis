@@ -1,41 +1,41 @@
 {
   "date": "2026-03-12",
-  "timestamp": "2026-03-12T08:50:38Z",
+  "timestamp": "2026-03-12T13:12:20Z",
   "emojis": [
     {
-      "char": "🇺🇸",
-      "label": "us seeks extradition of alex saab",
-      "url": "https://www.nytimes.com/2026/03/11/world/americas/us-alex-saab-extradition-maduro-ally.html",
-      "title": "U.S. Seeks Extradition of Maduro Ally Alex Saab From Venezuela",
-      "summary": "The indicted tycoon Alex Saab is being detained in Venezuela on a U.S. request. His case tests President Trump’s sway over the country’s new rulers."
-    },
-    {
-      "char": "🇨🇱",
-      "label": "kast swerves chile to the far right",
-      "url": "https://www.theguardian.com/world/2026/mar/11/jose-antonio-kast-pinochet-fan-chile-far-right",
-      "title": "José Antonio Kast, the Pinochet fan about to swerve Chile to the far right",
-      "summary": "The new president won office by promising to clean up crime, but his background is red rag to a bull for many Just south of Santiago, the tiny rural town of Paine is a quiet grid of painted adobe facades, shaded squares and shuttered sho..."
-    },
-    {
-      "char": "🇳🇬",
-      "label": "nigerian soldiers killed in jihadist raids",
-      "url": "https://www.theguardian.com/world/2026/mar/11/nigerian-soldiers-killed-jihadist-raids-north-east",
-      "title": "At least 65 Nigerian soldiers killed in jihadist raids in country’s north-east",
-      "summary": "Gunmen from Islamic State West Africa Province overran four military bases and abducted 300 civilians, say reports At least 65 Nigerian soldiers have been killed in jihadist raids across the country’s north-east in the last two weeks, as..."
+      "char": "📰",
+      "label": "epstein ambassador warning",
+      "url": "https://www.nytimes.com/live/2026/03/11/world/mandelson-files-epstein-uk",
+      "title": "Starmer Was Warned About Risk of Appointing Friend of Epstein as Ambassador",
+      "summary": "British officials told Prime Minister Keir Starmer of Peter Mandelson’s close ties to Jeffrey Epstein before Mr. Mandelson was appointed U.S. ambassador."
     },
     {
       "char": "🤖",
-      "label": "ai-led surveillance in africa violates freedoms",
+      "label": "ai surveillance in africa",
       "url": "https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts",
       "title": "‘Invasive’ AI-led mass surveillance in Africa violating freedoms, warn experts",
       "summary": "Countries across the continent have spent more than $2bn on Chinese tracking technology that is not ‘necessary or proportionate’, new report finds The rapid expansion of AI-powered mass-surveillance systems across Africa is violating cit..."
     },
     {
+      "char": "🇨🇳",
+      "label": "china's ethnic unity law",
+      "url": "https://www.bbc.com/news/articles/cp9meeek051o?at_medium=RSS&at_campaign=rss",
+      "title": "China approves 'ethnic unity' law requiring minorities to learn Mandarin",
+      "summary": "The law states that children should be taught Mandarin before kindergarten, until the end of high school."
+    },
+    {
       "char": "💣",
-      "label": "drone strikes school in sudan kill 17",
+      "label": "drone strikes in sudan",
       "url": "https://www.theguardian.com/world/2026/mar/11/at-least-17-killed-after-drone-strikes-school-in-sudan",
       "title": "At least 17 killed after drone strikes school in Sudan",
       "summary": "Strike in Shukeiri killed schoolgirls, teachers and healthcare workers in latest incident in three-year war At least 17 people, most of them schoolgirls, were killed on Wednesday when an explosive-laden drone blamed on Sudan’ s paramilit..."
+    },
+    {
+      "char": "🌍",
+      "label": "fossil fuels and floods in brazil",
+      "url": "https://www.theguardian.com/world/2026/mar/12/quit-fossil-fuels-to-stem-deadly-floods-in-brazils-coffee-heartland-say-scientists",
+      "title": "Quit fossil fuels to stem deadly floods in Brazil’s coffee heartland, say scientists",
+      "summary": "Global heating linked to rising risk of extreme rain that causes devastating landslides and rising coffee prices The record floods that have brought death and destruction to the heartland of Brazil’s coffee industry are expected to inten..."
     }
   ],
   "source": "ai-openai",
