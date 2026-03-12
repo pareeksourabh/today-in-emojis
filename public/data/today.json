@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-11",
-  "timestamp": "2026-03-11T16:37:00Z",
+  "date": "2026-03-12",
+  "timestamp": "2026-03-12T01:12:31Z",
   "emojis": [
     {
-      "char": "🇭🇹",
-      "label": "haiti president's assassination",
-      "url": "https://www.theguardian.com/world/2026/mar/10/haiti-president-jovenel-moise-trial",
-      "title": "Haiti president’s assassination driven by greed and power, US prosecutors say",
-      "summary": "Opening statements begin in Miami trial of four men accused in the 2021 killing of Jovenel Moïse Sign up for the Breaking News US email to get newsletter alerts in your inbox Greed, arrogance and power were the driving forces behind four..."
+      "char": "🇨🇳",
+      "label": "trump-xi summit approaches",
+      "url": "https://www.nytimes.com/2026/03/11/world/asia/china-us-trump-ceos.html",
+      "title": "A Trump-Xi Summit Nears, but China Doesn’t Know What Trump Wants",
+      "summary": "Trump’s agenda for the high-stakes meeting remains unclear to Beijing, Chinese analysts say, while American executives say they haven’t been invited along."
     },
     {
-      "char": "🔫",
-      "label": "shots fired at us consulate",
-      "url": "https://www.theguardian.com/world/2026/mar/10/shots-fired-canada-consulate-toronto",
-      "title": "Shots fired at US consulate in Canada in what police call ‘national security incident’",
-      "summary": "No injuries reported but security boosted at US and Israeli diplomatic buildings in Toronto and Ottawa Sign up for the Breaking News US email to get newsletter alerts in your inbox Two men fired multiple shots at the US consulate in Toro..."
+      "char": "👩‍🎤",
+      "label": "epstein's recruitment tactics revealed",
+      "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
+      "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
+      "summary": "Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC."
     },
     {
-      "char": "🇦🇷",
-      "label": "argentina grants asylum",
-      "url": "https://www.theguardian.com/world/2026/mar/11/argentina-asylum-brasil-elections",
-      "title": "Argentina grants asylum to Brasília rioter in move that may sway Brazil vote",
-      "summary": "Decision to shield pro-Bolsonaro truck driver sentenced for 8 January 2023 attack could inflame Brazil election politics Argentina has granted asylum to a Brazilian fugitive convicted for his role in 2023 pro-Bolsonaro riots – a decision..."
+      "char": "🇳🇬",
+      "label": "nigerian soldiers killed in raids",
+      "url": "https://www.theguardian.com/world/2026/mar/11/nigerian-soldiers-killed-jihadist-raids-north-east",
+      "title": "At least 65 Nigerian soldiers killed in jihadist raids in country’s north-east",
+      "summary": "Gunmen from Islamic State West Africa Province overran four military bases and abducted 300 civilians, say reports At least 65 Nigerian soldiers have been killed in jihadist raids across the country’s north-east in the last two weeks, as..."
     },
     {
-      "char": "💣",
-      "label": "drone strikes in dr congo",
-      "url": "https://www.bbc.com/news/articles/cvgj8veg0gno?at_medium=RSS&at_campaign=rss",
-      "title": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
-      "summary": "Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma."
+      "char": "🇮🇷",
+      "label": "iran's leader injured in conflict",
+      "url": "https://www.nytimes.com/2026/03/11/world/middleeast/khamenei-iran-leader-injured.html",
+      "title": "Iran’s New Supreme Leader Was Wounded Early in the War, Iranian and Israeli Officials Say",
+      "summary": "Officials say Mojtaba Khamenei’s legs were hurt, but the circumstances as well as the extent of his injuries were unclear. He has remained out of view since being announced as leader three days ago."
     },
     {
-      "char": "⚖️",
-      "label": "prison sentences for gay men attack",
-      "url": "https://www.theguardian.com/global-development/2026/mar/11/prison-sentences-attacked-gay-men-hope-kenya-lgbtq-community",
-      "title": "Prison sentences for pair who attacked gay men hailed as sign of hope for Kenya’s LGBTQ+ community",
-      "summary": "The perpetrators were jailed for 15 years for robbery with violence in the east African country, where homophobic attacks are increasing The sentencing of two people who attacked and robbed two gay men in Kenya has been hailed by LGBTQ+..."
+      "char": "🇺🇦",
+      "label": "ukraine's new drone capabilities",
+      "url": "https://www.nytimes.com/2026/03/11/world/europe/ukraine-drones-china.html",
+      "title": "Ukraine Can Now Manufacture ‘China-Free’ Drones",
+      "summary": "The country has prioritized self-sufficiency in producing a crucial battlefield weapon, though weaning itself fully off cheaper Chinese components is difficult."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "Today's news highlights serious global issues including violence, political unrest, and human rights challenges, reflecting a climate of fear and uncertainty.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

@@ -27675,5 +27675,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-12",
+    "emojis": [
+      {
+        "char": "🇨🇳",
+        "label": "trump-xi summit approaches",
+        "url": "https://www.nytimes.com/2026/03/11/world/asia/china-us-trump-ceos.html",
+        "title": "A Trump-Xi Summit Nears, but China Doesn’t Know What Trump Wants",
+        "summary": "Trump’s agenda for the high-stakes meeting remains unclear to Beijing, Chinese analysts say, while American executives say they haven’t been invited along."
+      },
+      {
+        "char": "👩‍🎤",
+        "label": "epstein's recruitment tactics revealed",
+        "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
+        "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
+        "summary": "Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC."
+      },
+      {
+        "char": "🇳🇬",
+        "label": "nigerian soldiers killed in raids",
+        "url": "https://www.theguardian.com/world/2026/mar/11/nigerian-soldiers-killed-jihadist-raids-north-east",
+        "title": "At least 65 Nigerian soldiers killed in jihadist raids in country’s north-east",
+        "summary": "Gunmen from Islamic State West Africa Province overran four military bases and abducted 300 civilians, say reports At least 65 Nigerian soldiers have been killed in jihadist raids across the country’s north-east in the last two weeks, as..."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran's leader injured in conflict",
+        "url": "https://www.nytimes.com/2026/03/11/world/middleeast/khamenei-iran-leader-injured.html",
+        "title": "Iran’s New Supreme Leader Was Wounded Early in the War, Iranian and Israeli Officials Say",
+        "summary": "Officials say Mojtaba Khamenei’s legs were hurt, but the circumstances as well as the extent of his injuries were unclear. He has remained out of view since being announced as leader three days ago."
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukraine's new drone capabilities",
+        "url": "https://www.nytimes.com/2026/03/11/world/europe/ukraine-drones-china.html",
+        "title": "Ukraine Can Now Manufacture ‘China-Free’ Drones",
+        "summary": "The country has prioritized self-sufficiency in producing a crucial battlefield weapon, though weaning itself fully off cheaper Chinese components is difficult."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
