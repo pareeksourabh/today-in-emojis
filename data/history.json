@@ -27851,5 +27851,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-12",
+    "emojis": [
+      {
+        "char": "🚢",
+        "label": "iran's frantic ship rescue",
+        "url": "https://www.nytimes.com/2026/03/12/world/asia/iran-ships-sri-lanka.html",
+        "title": "Iran’s Frantic Attempt to Save Its Ships Before Torpedo Attack",
+        "summary": "The Iranian Navy sought refuge in Sri Lanka and India. While India obliged, Sri Lanka stalled over fears it would threaten its neutrality."
+      },
+      {
+        "char": "🇦🇷",
+        "label": "argentina grants asylum to rioter",
+        "url": "https://www.theguardian.com/world/2026/mar/11/argentina-asylum-brasil-elections",
+        "title": "Argentina grants asylum to Brasília rioter in move that may sway Brazil vote",
+        "summary": "Decision to shield pro-Bolsonaro truck driver sentenced for 8 January 2023 attack could inflame Brazil election politics Argentina has granted asylum to a Brazilian fugitive convicted for his role in 2023 pro-Bolsonaro riots – a decision..."
+      },
+      {
+        "char": "🩸",
+        "label": "plasma donors die in canada clinics",
+        "url": "https://www.theguardian.com/world/2026/mar/12/two-plasma-donors-die-private-canada-clinics",
+        "title": "Two plasma donors die at private Canadian clinics under federal investigation",
+        "summary": "Company that runs the sites says it has ‘no reason to believe there is a correlation between the donors’ passing and plasma donation’ Two people have died in Canada after donating plasma at a chain of clinics that has been under scrutiny..."
+      },
+      {
+        "char": "⚡",
+        "label": "ukraine's power grid near collapse",
+        "url": "https://www.nytimes.com/2026/03/12/world/europe/ukraine-russia-energy-system.html",
+        "title": "How Russia’s Scorched-Earth Attacks Put Ukraine’s Power Grid Near Collapse",
+        "summary": "Strikes on Ukrainian energy systems have tripled this winter. Continuous repairs and Western aid staved off a total breakdown."
+      },
+      {
+        "char": "🤖",
+        "label": "ai-led surveillance in africa",
+        "url": "https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts",
+        "title": "‘Invasive’ AI-led mass surveillance in Africa violating freedoms, warn experts",
+        "summary": "Countries across the continent have spent more than $2bn on Chinese tracking technology that is not ‘necessary or proportionate’, new report finds The rapid expansion of AI-powered mass-surveillance systems across Africa is violating cit..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
