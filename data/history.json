@@ -28027,5 +28027,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-13",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "alberta separatists concern",
+        "url": "https://www.bbc.com/news/articles/cd9g4dpjwgvo?at_medium=RSS&at_campaign=rss",
+        "title": "King expressed 'concern' over Alberta separatists, say First Nations chiefs",
+        "summary": "Indigenous leaders made Charles aware of the \"threat\" posed by the movement during a meeting in London, they say."
+      },
+      {
+        "char": "⚡",
+        "label": "ukraine power grid crisis",
+        "url": "https://www.nytimes.com/2026/03/12/world/europe/ukraine-russia-energy-system.html",
+        "title": "How Russia’s Scorched-Earth Attacks Put Ukraine’s Power Grid Near Collapse",
+        "summary": "Strikes on Ukrainian energy systems have tripled this winter. Continuous repairs and Western aid staved off a total breakdown."
+      },
+      {
+        "char": "🕊️",
+        "label": "drone strike in east drc",
+        "url": "https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels",
+        "title": "French aid worker among three killed in dronestrike in east DRC, M23 rebels say",
+        "summary": "Rebel group blames government for attack on residential area of M23-controlled city of Goma Three people including a French UN aid worker have been killed in a drone attack in Goma, a spokesperson for the M23 rebel group has said. The at..."
+      },
+      {
+        "char": "💉",
+        "label": "plasma donors die in clinics",
+        "url": "https://www.theguardian.com/world/2026/mar/12/two-plasma-donors-die-private-canada-clinics",
+        "title": "Two people die after donating plasma at Canadian clinics under federal investigation",
+        "summary": "Company that runs the sites says it has ‘no reason to believe there is a correlation between the donors’ passing and plasma donation’ Two people have died in Canada after donating plasma at a chain of clinics that has been under scrutiny..."
+      },
+      {
+        "char": "🌍",
+        "label": "quit fossil fuels in brazil",
+        "url": "https://www.theguardian.com/world/2026/mar/12/quit-fossil-fuels-to-stem-deadly-floods-in-brazils-coffee-heartland-say-scientists",
+        "title": "Quit fossil fuels to stem deadly floods in Brazil’s coffee heartland, say scientists",
+        "summary": "Global heating linked to rising risk of extreme rain that causes devastating landslides and rising coffee prices The record floods that have brought death and destruction to the heartland of Brazil’s coffee industry are expected to inten..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
