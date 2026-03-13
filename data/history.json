@@ -27939,5 +27939,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-13",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israel drops charges against soldiers",
+        "url": "https://www.bbc.com/news/articles/cm2xrz71zm3o?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli military drops charges against soldiers accused of abusing Palestinian detainee",
+        "summary": "The Israeli military's top lawyer cites \"exceptional circumstances\" for dropping the case involving a Palestinian man held at Sde Teiman military prison."
+      },
+      {
+        "char": "💔",
+        "label": "hezbollah's loyal base shows cracks",
+        "url": "https://www.nytimes.com/2026/03/12/world/middleeast/lebanon-hezbollah-israel.html",
+        "title": "Ground Down by War, Hezbollah’s Loyal Base Shows Cracks",
+        "summary": "“We just want to be back in our homes,” said a Lebanese man who, like many others in the latest round of fighting, has to flee."
+      },
+      {
+        "char": "🇨🇳",
+        "label": "china's ethnic unity law approved",
+        "url": "https://www.bbc.com/news/articles/cp9meeek051o?at_medium=RSS&at_campaign=rss",
+        "title": "China approves 'ethnic unity' law requiring minorities to learn Mandarin",
+        "summary": "The law states that children should be taught Mandarin before kindergarten, until the end of high school."
+      },
+      {
+        "char": "🇮🇹",
+        "label": "trump's iran war affects italy",
+        "url": "https://www.nytimes.com/2026/03/12/world/europe/meloni-trump-iran-italy.html",
+        "title": "Trump’s Iran War Is Causing Problems For His Ally in Italy, Giorgia Meloni",
+        "summary": "War in the Middle East has left Italy’s prime minister in a domestic bind, presenting her with one of the biggest challenges of a previously stable tenure."
+      },
+      {
+        "char": "🗳️",
+        "label": "nepal election won by rapper-politician",
+        "url": "https://www.bbc.com/news/articles/c8jxnjvjkg7o?at_medium=RSS&at_campaign=rss",
+        "title": "Rapper-politician Balendra Shah's party wins Nepal election",
+        "summary": "The Rastriya Swatatantra Party has won a large majority in an election dominated by issues including corruption."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
