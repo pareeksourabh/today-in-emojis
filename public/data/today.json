@@ -39,5 +39,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "😔",
+    "emoji": "😔",
+    "rationale": "Today's news reflects a mix of suffering and societal challenges, from violent conflicts and invasive surveillance to family struggles and the complexities of cultural restitution. This evokes a deep sense of sadness for the ongoing injusti",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
