@@ -28159,5 +28159,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-14",
+    "emojis": [
+      {
+        "char": "🏥",
+        "label": "uk government axes health project",
+        "url": "https://www.theguardian.com/global-development/2026/mar/12/uk-government-axes-flagship-global-health-project",
+        "title": "UK government axes flagship global health project",
+        "summary": "Programme which supports schemes in six African countries was previously hailed as vital protection for Britain against future pandemics A flagship health project in Africa, which UK ministers said would play a vital role in protecting B..."
+      },
+      {
+        "char": "🎸",
+        "label": "pink floyd guitar sold for $14.6m",
+        "url": "https://www.bbc.com/news/articles/cr45v7ey91eo?at_medium=RSS&at_campaign=rss",
+        "title": "Pink Floyd guitar sold for record-breaking $14.6m",
+        "summary": "The guitar was used by David Gilmour on some of Pink Floyd's best-known albums, including Dark Side of the Moon."
+      },
+      {
+        "char": "💔",
+        "label": "17 killed in sudan drone strikes",
+        "url": "https://www.theguardian.com/world/2026/mar/11/at-least-17-killed-after-drone-strikes-school-in-sudan",
+        "title": "At least 17 killed after drone strikes school in Sudan",
+        "summary": "Strike in Shukeiri killed schoolgirls, teachers and healthcare workers in latest incident in three-year war At least 17 people, most of them schoolgirls, were killed on Wednesday when an explosive-laden drone blamed on Sudan’ s paramilit..."
+      },
+      {
+        "char": "🩸",
+        "label": "plasma donors die in canada clinics",
+        "url": "https://www.theguardian.com/world/2026/mar/12/two-plasma-donors-die-private-canada-clinics",
+        "title": "Two people die after donating plasma at Canadian clinics under federal investigation",
+        "summary": "Company that runs the sites says it has ‘no reason to believe there is a correlation between the donors’ passing and plasma donation’ Two people have died in Canada after donating plasma at a chain of clinics that has been under scrutiny..."
+      },
+      {
+        "char": "🏯",
+        "label": "temple at thailand-cambodia conflict",
+        "url": "https://www.nytimes.com/2026/03/13/world/asia/thailand-cambodia-preah-vihear-temple.html",
+        "title": "A Visit to a Temple at the Heart of the Thailand-Cambodia Conflict",
+        "summary": "A rare visit to a Khmer temple on Thailand and Cambodia’s border showed how deadly clashes between the two countries have scarred a heritage site."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
