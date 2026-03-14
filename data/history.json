@@ -28115,5 +28115,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-14",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "us refuelling plane crash in iraq",
+        "url": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
+        "title": "All six crew members killed after US refuelling plane crashes in Iraq",
+        "summary": "The US Central Command says all six crew members died after a refuelling aircraft went down over western Iraq."
+      },
+      {
+        "char": "💔",
+        "label": "family of synagogue suspect killed",
+        "url": "https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss",
+        "title": "Family of Michigan synagogue suspect killed in Lebanon airstrike, officials say",
+        "summary": "The FBI said the suspect had large quantities of fireworks and petrol in his vehicle when it caught fire after ramming a synagogue on Thursday."
+      },
+      {
+        "char": "🤝",
+        "label": "cuba acknowledges talks with trump",
+        "url": "https://www.nytimes.com/2026/03/13/world/americas/cuba-us-talks-trump-oil.html",
+        "title": "Cuba Acknowledges Talks with Trump Officials For the First Time",
+        "summary": "President Miguel Díaz-Canel, whose country is rapidly running out of fuel, said the talks were based on “respect for the political systems of both countries.”"
+      },
+      {
+        "char": "🏥",
+        "label": "uk government axes health project",
+        "url": "https://www.theguardian.com/global-development/2026/mar/12/uk-government-axes-flagship-global-health-project",
+        "title": "UK government axes flagship global health project",
+        "summary": "Programme which supports schemes in six African countries was previously hailed as vital protection for Britain against future pandemics A flagship health project in Africa, which UK ministers said would play a vital role in protecting B..."
+      },
+      {
+        "char": "🚨",
+        "label": "bolivia arrests drug kingpin",
+        "url": "https://www.theguardian.com/world/2026/mar/13/uruguayan-drug-trafficking-suspect-sebastian-marset-arrested-bolivia",
+        "title": "Bolivia arrests alleged drug kingpin accused of putting hit on Paraguayan prosecutor",
+        "summary": "Bolivian interior ministry says Sebastián Marset is being extradited to US, where he’s wanted for money laundering Sign up for the Breaking News US email to get newsletter alerts in your inbox Sebastián Marset, an alleged Uruguayan drug..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
