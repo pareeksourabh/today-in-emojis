@@ -28467,5 +28467,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-15",
+    "emojis": [
+      {
+        "char": "🌧️",
+        "label": "severe flooding kills 62 in kenya",
+        "url": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
+        "title": "Severe flooding kills 62 in Kenya, as heavy rains continue",
+        "summary": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi."
+      },
+      {
+        "char": "✈️",
+        "label": "us names six crew killed in crash",
+        "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss",
+        "title": "US names six crew killed in refuelling plane crash in Iraq",
+        "summary": "The aircraft was on a combat mission as part of ongoing US operations against Iran when it crashed in western Iraq on Thursday."
+      },
+      {
+        "char": "⚔️",
+        "label": "iran war live updates: israel strikes",
+        "url": "https://www.nytimes.com/live/2026/03/15/world/iran-war-trump-oil-israel",
+        "title": "Iran War Live Updates: Israel Launches New Strikes on Iran",
+        "summary": "Iran’s foreign minister claimed the Strait of Hormuz was open to all except America or its allies. President Trump had threatened to strike Iran’s main oil export terminal if it did not lift the de facto blockade."
+      },
+      {
+        "char": "🌋",
+        "label": "iceland’s chief bracing for eruption",
+        "url": "https://www.nytimes.com/2026/03/15/world/europe/iceland-lava-volcano-eruption-grindavik.html",
+        "title": "Iceland’s Chief ‘Lava Cooler’ Is Bracing for the Next Volcanic Eruption",
+        "summary": "Helgi Hjorleifsson, a firefighter, is a leader in a national experiment to steer rivers of lava away from important sites. Some called it crazy, but it worked."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuban protesters ransack communist office",
+        "url": "https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss",
+        "title": "Cuban protesters ransack Communist office as energy crisis deepens",
+        "summary": "Discontent is mounting over rolling blackouts and shortages of food, fuel and medicine, exacerbated by a US blockade."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
