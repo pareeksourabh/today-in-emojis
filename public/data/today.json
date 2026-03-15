@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-14",
-  "timestamp": "2026-03-14T16:15:48Z",
+  "date": "2026-03-15",
+  "timestamp": "2026-03-15T01:29:00Z",
   "emojis": [
     {
-      "char": "💔",
-      "label": "drone strikes school in sudan",
-      "url": "https://www.theguardian.com/world/2026/mar/11/at-least-17-killed-after-drone-strikes-school-in-sudan",
-      "title": "At least 17 killed after drone strikes school in Sudan",
-      "summary": "Strike in Shukeiri killed schoolgirls, teachers and healthcare workers in latest incident in three-year war At least 17 people, most of them schoolgirls, were killed on Wednesday when an explosive-laden drone blamed on Sudan’ s paramilit..."
+      "char": "🇮🇱",
+      "label": "israel and lebanon war talks",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTEpGRm5pNFBQcTZ5TzBqWUhfcDFiZWJiRXdBTW0wME83cDZoLWJWZG5nUUVMcWdJZ1I1RGxmOVJmd05CS0F1VmRmYXU5TnVXYWtGdGZfakRyV3VaN2NTM2RlQ1N1aFR3ZUxmWXVWb1NwcUVaM1phQUNBQzkwSDdOZXlKY1BvYVJCaWMxMmhRSTdtNUJLeGRWVV9UZWRVMmhVYVpYVVo5d1pqeWtOdTgyMnh1Mzh1Zw?oc=5",
+      "title": "Israel and Lebanon to talk as war with Hezbollah rages, Haaretz reports - Reuters",
+      "summary": "Israel and Lebanon to talk as war with Hezbollah rages, Haaretz reports Reuters"
     },
     {
-      "char": "🎶",
-      "label": "france returns sacred drum",
-      "url": "https://www.theguardian.com/world/2026/mar/13/france-returns-sacred-djidji-ayokwe-talking-drum-looted-from-cote-divoire",
-      "title": "France returns sacred talking drum looted from Côte d’Ivoire over 100 years ago",
-      "summary": "Djidji Ayôkwé was handed to Ivorian officials in Paris earlier this month A sacred artefact looted by French colonial authorities more than a century ago has been returned to Côte d’Ivoire in one of the most significant cultural restitut..."
+      "char": "🏴‍☠️",
+      "label": "treasure hunter freed from prison",
+      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss",
+      "title": "Treasure hunter freed from prison after refusing to turn over shipwreck gold",
+      "summary": "Tommy Thompson spent more than a decade in prison after refusing to disclose the whereabouts of 500 missing gold coins."
     },
     {
-      "char": "🇨🇺",
-      "label": "cuba talks with trump officials",
-      "url": "https://www.theguardian.com/world/2026/mar/13/cuba-us-talks-miguel-diaz-canel-trump",
-      "title": "Cuban president confirms talks with Trump officials amid US blockade",
-      "summary": "Negotiations aimed to ‘find solutions to the bilateral differences’ between the countries, Miguel Díaz-Canel said Cuban officials have held talks with the US government, the country’s president, Miguel Díaz-Canel, confirmed on Friday, am..."
+      "char": "💰",
+      "label": "surge in oil prices in pakistan",
+      "url": "https://www.nytimes.com/2026/03/14/world/asia/pakistan-oil-prices.html",
+      "title": "Surge in Oil Prices Shakes Pakistan’s Already Fragile Economy",
+      "summary": "Families preparing for Eid al-Fitr and farmers ready for harvest are being squeezed in a country that gets nearly all its oil through the Persian Gulf."
     },
     {
-      "char": "🏆",
-      "label": "war of the worlds wins razzies",
-      "url": "https://www.bbc.com/news/articles/c23zx8pgx28o?at_medium=RSS&at_campaign=rss",
-      "title": "'Hate-watch classic' War of the Worlds sweeps Razzie Awards",
-      "summary": "Ice Cube's alien invasion adaptation receives five Razzies, which go to the year's worst movies."
+      "char": "🏔️",
+      "label": "avalanche deaths in the alps",
+      "url": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss",
+      "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
+      "summary": "The BBC joins a French Alps rescue team as the number of skiers killed this season passes 100."
     },
     {
-      "char": "🌏",
-      "label": "iran war impacts china and asia",
-      "url": "https://www.nytimes.com/2026/03/13/world/asia/iran-war-china-asia.html",
-      "title": "How the War in Iran Could Help China and Change Asia",
-      "summary": "American officials have said for years that they would prioritize the Indo-Pacific. Now they’re moving warships, missiles and air defenses out for a war in the Middle East."
+      "char": "📸",
+      "label": "cuba's history since the revolution",
+      "url": "https://www.nytimes.com/2026/03/14/world/americas/cuba-history-revolution-castro.html",
+      "title": "Cuba’s History Since the Revolution, in Photos",
+      "summary": "The Cuban government, which has so far outlasted 13 U.S. presidents, faces its gravest challenge yet. Images from The New York Times and others record nearly seven decades of political turmoil, economic crises and small moments of ordina..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "The tragic loss of life in Sudan's drone strikes casts a shadow over the day, highlighting the ongoing violence and suffering. While there are moments of cultural restitution and diplomatic discussions, the overall tone is overshadowed by a",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
