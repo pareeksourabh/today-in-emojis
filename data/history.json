@@ -28379,5 +28379,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-15",
+    "emojis": [
+      {
+        "char": "🚔",
+        "label": "drug kingpin arrested in bolivia",
+        "url": "https://www.theguardian.com/world/2026/mar/13/uruguayan-drug-trafficking-suspect-sebastian-marset-arrested-bolivia",
+        "title": "Bolivia arrests alleged drug kingpin accused of putting hit on Paraguayan prosecutor",
+        "summary": "Bolivian interior ministry says Sebastián Marset is being extradited to US, where he’s wanted for money laundering Sign up for the Breaking News US email to get newsletter alerts in your inbox Sebastián Marset, an alleged Uruguayan drug..."
+      },
+      {
+        "char": "💣",
+        "label": "israeli strike aftermath in lebanon",
+        "url": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
+        "title": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
+        "summary": "A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defence Forces says it was targeting \"terrorist infrastructure\"."
+      },
+      {
+        "char": "⛽",
+        "label": "oil prices surge in pakistan",
+        "url": "https://www.nytimes.com/2026/03/14/world/asia/pakistan-oil-prices.html",
+        "title": "Surge in Oil Prices Shakes Pakistan’s Already Fragile Economy",
+        "summary": "Families preparing for Eid al-Fitr and farmers ready for harvest are being squeezed in a country that gets nearly all its oil through the Persian Gulf."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "king charles on alberta separatism",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/13/king-charles-alberta-separatism-canada-first-nations",
+        "title": "King Charles concerned about Alberta separatist movement, First Nation chief says",
+        "summary": "Joey Pete of Sunchild First Nation said king seemed ‘committed to learning’ after meeting Indigenous leaders King Charles has expressed concern over a simmering separatist movement in western Canada , according to Indigenous leaders who..."
+      },
+      {
+        "char": "📜",
+        "label": "france returns sacred drum to ivory coast",
+        "url": "https://www.theguardian.com/world/2026/mar/13/france-returns-sacred-djidji-ayokwe-talking-drum-looted-from-cote-divoire",
+        "title": "France returns sacred talking drum looted from Côte d’Ivoire over 100 years ago",
+        "summary": "Djidji Ayôkwé was handed to Ivorian officials in Paris earlier this month A sacred artefact looted by French colonial authorities more than a century ago has been returned to Côte d’Ivoire in one of the most significant cultural restitut..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
