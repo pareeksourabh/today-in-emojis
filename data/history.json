@@ -28687,5 +28687,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-16",
+    "emojis": [
+      {
+        "char": "📱",
+        "label": "tiktok and meta safety concerns",
+        "url": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
+        "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
+        "summary": "Companies allowed more harmful content on user’s feeds, knowing their algorithms ran on outrage, BBC hears."
+      },
+      {
+        "char": "🇿🇦",
+        "label": "eswatini deportation deal",
+        "url": "https://www.theguardian.com/us-news/2026/mar/12/trump-immigration-deportations-eswatini",
+        "title": "Eswatini says it received more ‘third country’ deportees as part of deal with Trump administration",
+        "summary": "Two deportees sent to Eswatini were from Somalia, one was from Sudan and another was from Tanzania The government of Eswatini announced on Thursday it received four more “third country” deportees from the United States, as part of the Tr..."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "rise of mojtaba khamenei",
+        "url": "https://www.nytimes.com/2026/03/16/world/middleeast/iran-mojtaba-khamenei-election-supreme-leader.html",
+        "title": "Intrigue, Power Plays and Rivalries: Inside the Rise of Mojtaba Khamenei",
+        "summary": "The weeklong fight over Iran’s next leader pitted the Revolutionary Guards against moderates. The generals won, but only over spirited resistance."
+      },
+      {
+        "char": "🔥",
+        "label": "iran war updates",
+        "url": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon",
+        "title": "Iran War Live Updates: Israel Expands Lebanon Offensive; Trump’s Oil-Route Demands Draw Cool Response",
+        "summary": "The Israeli military said that it was escalating ground attacks against Iran-backed Hezbollah. China and other nations reacted tepidly to President Trump’s call for warships to reopen the Strait of Hormuz."
+      },
+      {
+        "char": "🎬",
+        "label": "cheburashka movie controversy",
+        "url": "https://www.nytimes.com/2026/03/16/world/europe/russia-cheburashka-movie.html",
+        "title": "Is Cheburashka, the Beloved Soviet-Born Character, Ruining Russia?",
+        "summary": "Instead of obsessing over the fictional Cheburashka, Russians should be focused on more important things like the rebirth of a Russian empire, influential conservatives say."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
