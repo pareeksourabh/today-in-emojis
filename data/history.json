@@ -28599,5 +28599,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-16",
+    "emojis": [
+      {
+        "char": "🌏",
+        "label": "asia-pacific allies deal with us",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMUIxTWZKbG41YXd1c2FMcVB0SHpVUWQwdUVQektJcmJiTjljUGI5ekF1RnVMaGwwOG5SM3Nrc0dCTWZLaTZhWmxOQ2pVUk4yOFAwX2M1UTRkNHdqbG52c2JIdFNyUXpXckhIM2p6elZtVmw3Sl93ekk5dlhsR0c0MU9SX1llR1RtZUZsVzlqRFc5Q2dXLTlXMXVxLXNDN3hPd0ZVTW81bHRGUzdSZWo3Y2xEOURuYmdlZ1J2N1ZFcw?oc=5",
+        "title": "Asia-Pacific allies ink $57 billion in deals with US companies, Burgum says - Reuters",
+        "summary": "Asia-Pacific allies ink $57 billion in deals with US companies, Burgum says Reuters"
+      },
+      {
+        "char": "🇺🇦",
+        "label": "zelensky accuses eu of blackmail",
+        "url": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
+        "summary": "Volodymyr Zelensky says restoring the flow of Russian oil via Ukraine into the EU would be like lifting sanctions on Russia."
+      },
+      {
+        "char": "🇿🇦",
+        "label": "south africa signals defiance",
+        "url": "https://www.nytimes.com/2026/03/15/world/africa/south-africa-ambassador-bozell.html",
+        "title": "In Scolding the New U.S. Ambassador, South Africa Signals Defiance",
+        "summary": "The latest clash between the two countries illustrates the depths to which relations have sunk and the struggle to forge a new path forward."
+      },
+      {
+        "char": "🇪🇸",
+        "label": "eswatini deportees deal with trump",
+        "url": "https://www.theguardian.com/us-news/2026/mar/12/trump-immigration-deportations-eswatini",
+        "title": "Eswatini says it received more ‘third country’ deportees as part of deal with Trump administration",
+        "summary": "Two deportees sent to Eswatini were from Somalia, one was from Sudan and another was from Tanzania The government of Eswatini announced on Thursday it received four more “third country” deportees from the United States, as part of the Tr..."
+      },
+      {
+        "char": "🇫🇷",
+        "label": "france returns sacred talking drum",
+        "url": "https://www.theguardian.com/world/2026/mar/13/france-returns-sacred-djidji-ayokwe-talking-drum-looted-from-cote-divoire",
+        "title": "France returns sacred talking drum looted from Côte d’Ivoire over 100 years ago",
+        "summary": "Djidji Ayôkwé was handed to Ivorian officials in Paris earlier this month A sacred artefact looted by French colonial authorities more than a century ago has been returned to Côte d’Ivoire in one of the most significant cultural restitut..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
