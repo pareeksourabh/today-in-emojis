@@ -28643,5 +28643,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-16",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "ukraine's financial frontline",
+        "url": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine's urgent fight on the financial frontline",
+        "summary": "The war-torn country is battling to secure crucial funding from the IMF and EU, as well as putting up taxes."
+      },
+      {
+        "char": "🍼",
+        "label": "anti-abortion activism in the uk",
+        "url": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss",
+        "title": "How US groups are driving a new generation of anti-abortion activism in the UK",
+        "summary": "The killing of Charlie Kirk galvanised a transatlantic campaign against abortion. But will it succeed in shifting Britain's pro-choice consensus?"
+      },
+      {
+        "char": "⚓",
+        "label": "trump pressures for shipping route",
+        "url": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon",
+        "title": "Iran War Live Updates: Trump Pressures Countries to Open Vital Shipping Route",
+        "summary": "As fighting in the Middle East entered its third week, President Trump warned that failing to help secure the Strait of Hormuz would be “very bad for the future of NATO.”"
+      },
+      {
+        "char": "💔",
+        "label": "rockets fly over israel's border city",
+        "url": "https://www.nytimes.com/2026/03/15/world/middleeast/israel-kiryat-shmona.html",
+        "title": "As Rockets Fly Overhead, Residents of Israel’s Border City Stay Underground",
+        "summary": "The Israeli government evacuated Kiryat Shmona during the last round of fighting with Hezbollah in 2023. Residents who were told it was safe to return are again under fire."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuba's unusual acts of defiance",
+        "url": "https://www.nytimes.com/2026/03/15/world/americas/desperation-in-cuba-ignites-unusual-acts-of-defiance.html",
+        "title": "Desperation in Cuba Ignites Unusual Acts of Defiance",
+        "summary": "A protest in the city of Morón in central Cuba culminated in fiery vandalism at the local Communist Party headquarters."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
