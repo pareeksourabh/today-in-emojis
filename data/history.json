@@ -28819,5 +28819,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-17",
+    "emojis": [
+      {
+        "char": "🔥",
+        "label": "civil war in south sudan",
+        "url": "https://www.bbc.com/news/articles/cx2g4v9mzxro?at_medium=RSS&at_campaign=rss",
+        "title": "'Fire came from the sky and burned them' - life on the brink of civil war in South Sudan",
+        "summary": "Some 50,000 people are told to flee their homes as the army warns of a huge military offensive in Jonglei state."
+      },
+      {
+        "char": "⚖️",
+        "label": "author guilty of poisoning husband",
+        "url": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss",
+        "title": "Utah bereavement author found guilty of fatally poisoning her husband",
+        "summary": "A jury found that Kouri Richins killed her husband in March 2022 by poisoning him with a fentanyl-laced drink."
+      },
+      {
+        "char": "🤖",
+        "label": "ai firm seeks weapons expert",
+        "url": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
+        "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
+        "summary": "The artificial intelligence firm says it wants to prevent \"catastrophic misuse\" of its systems."
+      },
+      {
+        "char": "⚡",
+        "label": "cuba's power grid collapses",
+        "url": "https://www.bbc.com/news/articles/c07j40dyx53o?at_medium=RSS&at_campaign=rss",
+        "title": "Millions without electricity as Cuba's power grid collapses",
+        "summary": "Cuba's chronic fuel shortages have been exacerbated by a US blockade on oil shipments to the island."
+      },
+      {
+        "char": "🏆",
+        "label": "norway celebrates oscar win",
+        "url": "https://www.nytimes.com/2026/03/16/world/europe/norway-oscar-win-sentimental-value.html",
+        "title": "Norway Celebrates Oscar Win for Joachim Trier’s ‘Sentimental Value’",
+        "summary": "“Sentimental Value,” set in Oslo, was named best international feature film. After a slew of negative news in Norway, it was a welcome victory."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
