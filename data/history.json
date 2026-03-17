@@ -28775,5 +28775,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-17",
+    "emojis": [
+      {
+        "char": "🇬🇧",
+        "label": "uk government axes health project",
+        "url": "https://www.theguardian.com/global-development/2026/mar/12/uk-government-axes-flagship-global-health-project",
+        "title": "UK government axes flagship global health project",
+        "summary": "Programme which supports schemes in six African countries was previously hailed as vital protection for Britain against future pandemics A flagship health project in Africa, which UK ministers said would play a vital role in protecting B..."
+      },
+      {
+        "char": "🕊️",
+        "label": "iran war updates and conflict",
+        "url": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon",
+        "title": "Iran War Live Updates: Trump Says He Wants to Delay Visit to China Because of Conflict",
+        "summary": "“I think it’s important that I be here,” President Trump said of asking China to reschedule a summit. Earlier, he disparaged allies for failing to embrace his request for help to reopen the Strait of Hormuz."
+      },
+      {
+        "char": "🎶",
+        "label": "france returns sacred talking drum",
+        "url": "https://www.theguardian.com/world/2026/mar/13/france-returns-sacred-djidji-ayokwe-talking-drum-looted-from-cote-divoire",
+        "title": "France returns sacred talking drum looted from Côte d’Ivoire over 100 years ago",
+        "summary": "Djidji Ayôkwé was handed to Ivorian officials in Paris earlier this month A sacred artefact looted by French colonial authorities more than a century ago has been returned to Côte d’Ivoire in one of the most significant cultural restitut..."
+      },
+      {
+        "char": "💡",
+        "label": "cuba accepts outside investment",
+        "url": "https://www.nytimes.com/2026/03/16/world/americas/cuba-us-foreign-investment-businesses.html",
+        "title": "Cuba Ready to Accept Outside Investment, Top Official Says",
+        "summary": "President Trump’s words came amid a nationwide blackout and as a top Cuban official said his country would move to open the economy to foreign investors."
+      },
+      {
+        "char": "🌍",
+        "label": "africa vulnerable due to iran conflict",
+        "url": "https://www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains",
+        "title": "Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts",
+        "summary": "Food production in many African countries depends heavily on fertiliser imported from the Gulf through the strait of Hormuz Countries in Africa, where farmers depend heavily on imported fertiliser and a large share of household income go..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
