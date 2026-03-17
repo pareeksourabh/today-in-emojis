@@ -28951,5 +28951,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-17",
+    "emojis": [
+      {
+        "char": "💣",
+        "label": "pakistan air strike in kabul",
+        "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
+        "title": "Pakistan air strike kills at least 100 at Kabul drug rehab centre",
+        "summary": "Some of the bodies were injured beyond recognition, forensic laboratory sources told the BBC."
+      },
+      {
+        "char": "👩‍⚖️",
+        "label": "zambian politicians face harassment",
+        "url": "https://www.bbc.com/news/articles/cm28ldvj3jvo?at_medium=RSS&at_campaign=rss",
+        "title": "Aspiring female Zambian politicians asked for sexual favours, official says",
+        "summary": "These reports harm attempts to close the wide gender representation gap in Zambia, activists say."
+      },
+      {
+        "char": "💼",
+        "label": "gulf money boosts europe's startups",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdW5xUDBlLXFfd2RvdW1NVXdJRzdick41RUlYREdvSW9PbklzZjY4VXJlZVFSQl8wWjNyVU5JaC1Fdl9lZERWc1YxVUd3Q05RWXI5aWJheEFjVkhXUjZvb1hxTlBHMlFOZkoyalhQV3d5SE1qWlVmc2Jqczk1MW9XN0cwY243ZUN6ajhpd3JOWW9EcGtqLWFoeFdGcw?oc=5",
+        "title": "Breakingviews - Gulf money will boost Europe's defence startups - Reuters",
+        "summary": "Breakingviews - Gulf money will boost Europe's defence startups Reuters"
+      },
+      {
+        "char": "🚧",
+        "label": "chile builds border barrier",
+        "url": "https://www.bbc.com/news/articles/cvg1227k00eo?at_medium=RSS&at_campaign=rss",
+        "title": "Chile's president begins building border barrier less than week into term",
+        "summary": "José Antonio Kast visited the ditch - a few feet wide and deep - on Monday, calling it a \"milestone\"."
+      },
+      {
+        "char": "🔫",
+        "label": "us guns trafficked to mexico",
+        "url": "https://www.nytimes.com/2026/03/17/world/americas/mexico-us-guns-trafficking-cartels.html",
+        "title": "Inside the Supply Line Delivering American Guns to Mexican Cartels",
+        "summary": "A surge of weapons is flowing from the U.S. to Mexico. These firearms — sourced from gun shops, shows, websites and apps — are funneled across the border to fuel the country’s most violent crimes."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
