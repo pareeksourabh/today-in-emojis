@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-17",
-  "timestamp": "2026-03-17T16:52:44Z",
+  "date": "2026-03-18",
+  "timestamp": "2026-03-18T01:23:21Z",
   "emojis": [
     {
-      "char": "💣",
-      "label": "pakistan air strike in kabul",
-      "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
-      "title": "Pakistan air strike kills at least 100 at Kabul drug rehab centre",
-      "summary": "Some of the bodies were injured beyond recognition, forensic laboratory sources told the BBC."
+      "char": "🇳🇬",
+      "label": "nigeria suicide bombings",
+      "url": "https://www.nytimes.com/2026/03/17/world/africa/nigeria-suicide-bombings-maiduguri.html",
+      "title": "At Least 23 Killed in Nigeria as Insurgent Attacks Go On Despite U.S. Help",
+      "summary": "A teaching hospital and two markets in the city of Maiduguri were hit in what a military spokesman said were suicide bombings by Boko Haram."
     },
     {
-      "char": "👩‍⚖️",
-      "label": "zambian politicians face harassment",
-      "url": "https://www.bbc.com/news/articles/cm28ldvj3jvo?at_medium=RSS&at_campaign=rss",
-      "title": "Aspiring female Zambian politicians asked for sexual favours, official says",
-      "summary": "These reports harm attempts to close the wide gender representation gap in Zambia, activists say."
+      "char": "⚔️",
+      "label": "iran war updates",
+      "url": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon",
+      "title": "Iran War Live Updates: Iran Confirms Israeli Strikes Killed Top Security Chief",
+      "summary": "Ali Larijani, who died in an Israeli strike, had served as Iran’s de facto leader in recent weeks. The commander of the powerful Basij militia was also killed, Iranian state media said."
     },
     {
-      "char": "💼",
-      "label": "gulf money boosts europe's startups",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdW5xUDBlLXFfd2RvdW1NVXdJRzdick41RUlYREdvSW9PbklzZjY4VXJlZVFSQl8wWjNyVU5JaC1Fdl9lZERWc1YxVUd3Q05RWXI5aWJheEFjVkhXUjZvb1hxTlBHMlFOZkoyalhQV3d5SE1qWlVmc2Jqczk1MW9XN0cwY243ZUN6ajhpd3JOWW9EcGtqLWFoeFdGcw?oc=5",
-      "title": "Breakingviews - Gulf money will boost Europe's defence startups - Reuters",
-      "summary": "Breakingviews - Gulf money will boost Europe's defence startups Reuters"
+      "char": "🗳️",
+      "label": "cory booker on war powers",
+      "url": "https://www.theguardian.com/world/2026/mar/15/cory-booker-trump-war-powers-congress",
+      "title": "Cory Booker calls both parties ‘feckless’ for ceding war powers to Trump",
+      "summary": "Democrat says Congress ‘doing nothing’ may embolden president to attack countries such as Cuba and North Korea Democratic US senator Cory Booker has criticized both his own political party as well as its Republican counterpart for being..."
     },
     {
-      "char": "🚧",
-      "label": "chile builds border barrier",
-      "url": "https://www.bbc.com/news/articles/cvg1227k00eo?at_medium=RSS&at_campaign=rss",
-      "title": "Chile's president begins building border barrier less than week into term",
-      "summary": "José Antonio Kast visited the ditch - a few feet wide and deep - on Monday, calling it a \"milestone\"."
+      "char": "💻",
+      "label": "nigeria content creator market",
+      "url": "https://www.theguardian.com/media/2026/mar/15/nigerias-online-content-creator-market-has-boomed-can-the-skit-makers-and-streamers-make-it-pay",
+      "title": "Nigeria’s online content creator market has boomed. Can the skit-makers and streamers make it pay?",
+      "summary": "As platforms make less from advertising, creators are struggling to monetise work – leading to calls for more government investment and tax breaks On a humid afternoon in Lagos, a shoot for a comedy skit is under way on a set that looks..."
     },
     {
-      "char": "🔫",
-      "label": "us guns trafficked to mexico",
-      "url": "https://www.nytimes.com/2026/03/17/world/americas/mexico-us-guns-trafficking-cartels.html",
-      "title": "Inside the Supply Line Delivering American Guns to Mexican Cartels",
-      "summary": "A surge of weapons is flowing from the U.S. to Mexico. These firearms — sourced from gun shops, shows, websites and apps — are funneled across the border to fuel the country’s most violent crimes."
+      "char": "🌍",
+      "label": "cuba power crisis",
+      "url": "https://www.theguardian.com/world/2026/mar/16/cuba-electrical-grid-collapses-amid-us-oil-blockade",
+      "title": "Cuba’s electrical grid collapses amid US oil blockade",
+      "summary": "Ten million people left without power in latest of outages that sparked violent protest last weekend Cuba’s national electric grid has collapsed, the country’s grid operator has said, leaving approximately 10 million people without power..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Sadness",
-    "emoji": "😢",
-    "rationale": "The day is marked by tragic news, including a devastating air strike and serious issues of gender inequality, highlighting a deep sense of loss and injustice.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

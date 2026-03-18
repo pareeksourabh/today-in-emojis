@@ -28995,5 +28995,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-18",
+    "emojis": [
+      {
+        "char": "🇳🇬",
+        "label": "nigeria suicide bombings",
+        "url": "https://www.nytimes.com/2026/03/17/world/africa/nigeria-suicide-bombings-maiduguri.html",
+        "title": "At Least 23 Killed in Nigeria as Insurgent Attacks Go On Despite U.S. Help",
+        "summary": "A teaching hospital and two markets in the city of Maiduguri were hit in what a military spokesman said were suicide bombings by Boko Haram."
+      },
+      {
+        "char": "⚔️",
+        "label": "iran war updates",
+        "url": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon",
+        "title": "Iran War Live Updates: Iran Confirms Israeli Strikes Killed Top Security Chief",
+        "summary": "Ali Larijani, who died in an Israeli strike, had served as Iran’s de facto leader in recent weeks. The commander of the powerful Basij militia was also killed, Iranian state media said."
+      },
+      {
+        "char": "🗳️",
+        "label": "cory booker on war powers",
+        "url": "https://www.theguardian.com/world/2026/mar/15/cory-booker-trump-war-powers-congress",
+        "title": "Cory Booker calls both parties ‘feckless’ for ceding war powers to Trump",
+        "summary": "Democrat says Congress ‘doing nothing’ may embolden president to attack countries such as Cuba and North Korea Democratic US senator Cory Booker has criticized both his own political party as well as its Republican counterpart for being..."
+      },
+      {
+        "char": "💻",
+        "label": "nigeria content creator market",
+        "url": "https://www.theguardian.com/media/2026/mar/15/nigerias-online-content-creator-market-has-boomed-can-the-skit-makers-and-streamers-make-it-pay",
+        "title": "Nigeria’s online content creator market has boomed. Can the skit-makers and streamers make it pay?",
+        "summary": "As platforms make less from advertising, creators are struggling to monetise work – leading to calls for more government investment and tax breaks On a humid afternoon in Lagos, a shoot for a comedy skit is under way on a set that looks..."
+      },
+      {
+        "char": "🌍",
+        "label": "cuba power crisis",
+        "url": "https://www.theguardian.com/world/2026/mar/16/cuba-electrical-grid-collapses-amid-us-oil-blockade",
+        "title": "Cuba’s electrical grid collapses amid US oil blockade",
+        "summary": "Ten million people left without power in latest of outages that sparked violent protest last weekend Cuba’s national electric grid has collapsed, the country’s grid operator has said, leaving approximately 10 million people without power..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
