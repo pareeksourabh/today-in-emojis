@@ -29127,5 +29127,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-18",
+    "emojis": [
+      {
+        "char": "💥",
+        "label": "air strike in kabul rehab centre",
+        "url": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
+        "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
+        "summary": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds."
+      },
+      {
+        "char": "🌊",
+        "label": "moldova water supply cut",
+        "url": "https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss",
+        "title": "Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine",
+        "summary": "Moldova has imposed a 15-day state of alert in the Dniester river basin as a precaution."
+      },
+      {
+        "char": "🪦",
+        "label": "colombian bodies found near border",
+        "url": "https://www.theguardian.com/world/2026/mar/17/colombian-president-ecuador-bodies",
+        "title": "Colombian president accuses Ecuador after ‘27 charred bodies’ found near border",
+        "summary": "Relations deteriorate as Gustavo Petro claims government of Trump ally Daniel Noboa bombing targets in Colombia President Gustavo Petro has accused Ecuador of bombing targets inside Colombian territory, saying later that the burned remai..."
+      },
+      {
+        "char": "🔫",
+        "label": "us guns to mexican cartels",
+        "url": "https://www.nytimes.com/2026/03/17/world/americas/mexico-us-guns-trafficking-cartels.html",
+        "title": "Inside the Supply Line Delivering American Guns to Mexican Cartels",
+        "summary": "A surge of weapons is flowing from the U.S. to Mexico. These firearms — sourced from gun shops, shows, websites and apps — are funneled across the border to fuel the country’s most violent crimes."
+      },
+      {
+        "char": "⚓",
+        "label": "russian tanker explosion warning",
+        "url": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss",
+        "title": "Italy warns Russian tanker could explode in Mediterranean at any time",
+        "summary": "Italy is one of nine EU countries urging the European Commission to act over the Arctic Metagaz, drifting out of control in the Mediterranean Sea."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

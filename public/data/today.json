@@ -1,41 +1,41 @@
 {
   "date": "2026-03-18",
-  "timestamp": "2026-03-18T08:55:07Z",
+  "timestamp": "2026-03-18T13:24:04Z",
   "emojis": [
     {
-      "char": "🚀",
-      "label": "iran missile attack on tel aviv",
-      "url": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon",
-      "title": "Iran Launches Missile Attack on Tel Aviv in Retaliation for Latest Killings",
-      "summary": "Iranian state media confirmed the killings of Ali Larijani, who had served as Iran’s de facto leader recently, and a militia commander late Tuesday. Airstrikes rocked the Lebanese capital early Wednesday."
-    },
-    {
       "char": "💥",
-      "label": "dozens dead in pakistani airstrike",
-      "url": "https://www.nytimes.com/2026/03/17/world/asia/afghanistan-pakistan-kabul-hospital.html",
-      "title": "Dozens Dead in Pakistani Airstrike on Kabul",
-      "summary": "The attack hit a drug rehabilitation facility, and Afghanistan vowed to retaliate, risking an escalation of the conflict between the two countries."
+      "label": "air strike in kabul rehab centre",
+      "url": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
+      "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
+      "summary": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds."
     },
     {
-      "char": "🇨🇴",
-      "label": "colombian president accuses ecuador",
+      "char": "🌊",
+      "label": "moldova water supply cut",
+      "url": "https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss",
+      "title": "Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine",
+      "summary": "Moldova has imposed a 15-day state of alert in the Dniester river basin as a precaution."
+    },
+    {
+      "char": "🪦",
+      "label": "colombian bodies found near border",
       "url": "https://www.theguardian.com/world/2026/mar/17/colombian-president-ecuador-bodies",
       "title": "Colombian president accuses Ecuador after ‘27 charred bodies’ found near border",
       "summary": "Relations deteriorate as Gustavo Petro claims government of Trump ally Daniel Noboa bombing targets in Colombia President Gustavo Petro has accused Ecuador of bombing targets inside Colombian territory, saying later that the burned remai..."
     },
     {
-      "char": "⚡",
-      "label": "cuba's electrical grid collapses",
-      "url": "https://www.theguardian.com/world/2026/mar/16/cuba-electrical-grid-collapses-amid-us-oil-blockade",
-      "title": "Cuba’s electrical grid collapses amid US oil blockade",
-      "summary": "Ten million people left without power in latest of outages that sparked violent protest last weekend Cuba’s national electric grid has collapsed, the country’s grid operator has said, leaving approximately 10 million people without power..."
+      "char": "🔫",
+      "label": "us guns to mexican cartels",
+      "url": "https://www.nytimes.com/2026/03/17/world/americas/mexico-us-guns-trafficking-cartels.html",
+      "title": "Inside the Supply Line Delivering American Guns to Mexican Cartels",
+      "summary": "A surge of weapons is flowing from the U.S. to Mexico. These firearms — sourced from gun shops, shows, websites and apps — are funneled across the border to fuel the country’s most violent crimes."
     },
     {
-      "char": "🕵️‍♂",
-      "label": "belgian diplomat trial for lumumba murder",
-      "url": "https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba",
-      "title": "Belgian court sends ex-diplomat, 93, to trial over 1961 murder of Congo leader",
-      "summary": "Family of then PM, Patrice Lumumba, welcome decision to charge Étienne Davignon as ‘beginning of a reckoning’ A former Belgian diplomat, 93, should stand trial over alleged complicity in the 1961 murder of Patrice Lumumba, the first prim..."
+      "char": "⚓",
+      "label": "russian tanker explosion warning",
+      "url": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss",
+      "title": "Italy warns Russian tanker could explode in Mediterranean at any time",
+      "summary": "Italy is one of nine EU countries urging the European Commission to act over the Arctic Metagaz, drifting out of control in the Mediterranean Sea."
     }
   ],
   "source": "ai-openai",
