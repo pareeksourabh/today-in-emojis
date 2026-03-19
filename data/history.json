@@ -29259,5 +29259,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-19",
+    "emojis": [
+      {
+        "char": "🩺",
+        "label": "limits on medically assisted dying",
+        "url": "https://www.bbc.com/news/articles/c8d5d54glreo?at_medium=RSS&at_campaign=rss",
+        "title": "Alberta seeks to set limits on use of medically assisted dying",
+        "summary": "The Canadian province has proposed legislation that will limit its use solely to end-of-life circumstances."
+      },
+      {
+        "char": "🎬",
+        "label": "paddington director's new film",
+        "url": "https://www.bbc.com/news/articles/c20j01gqx1eo?at_medium=RSS&at_campaign=rss",
+        "title": "Labubu film is official with Paddington director at the helm",
+        "summary": "The film will combine live action and computer-generated animation and is in \"early development\"."
+      },
+      {
+        "char": "💣",
+        "label": "missile attack in west bank",
+        "url": "https://www.nytimes.com/live/2026/03/18/world/iran-war-news-trump-oil",
+        "title": "Missile Attack Kills at Least 3 in West Bank",
+        "summary": "Several others were injured in the Iranian attack that was the first to kill Palestinians in the Israeli-occupied West Bank since the war began. Residents in Tehran and elsewhere in Iran describe lives gripped by fear and anger."
+      },
+      {
+        "char": "🌍",
+        "label": "overlooked profits from slavery",
+        "url": "https://www.theguardian.com/world/2026/mar/17/connections-overlooked-how-british-companies-profited-slavery-brazil-after-abolition",
+        "title": "‘These connections are overlooked’: how British companies profited from slavery in Brazil long after abolition",
+        "summary": "Britons learn about the country’s involvement ‘almost as a self-congratulatory narrative’, says historian Joseph Mulhern In 1845 British citizens and companies were already legally prohibited from owning or buying enslaved people oversea..."
+      },
+      {
+        "char": "📉",
+        "label": "stocks slump amid middle east war",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczZ0QkJycHpLdWF1blZDOWNiRlhCRUkycVBDamUtWTdnMzBsVy1mRzFESTJvaWhjbXIwekI5Z1JfNVhkbzlLdERyQnVRbzNPdkhGTkVreFhFNXNLOHBBSjNTX0xTUUJTUlFpbkE1T2dIblRWSHJfUnhsVTdzdHpUVQ?oc=5",
+        "title": "Stocks slump on worsening war in Middle East; frail yen in focus - Reuters",
+        "summary": "Stocks slump on worsening war in Middle East; frail yen in focus Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
