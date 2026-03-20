@@ -29523,5 +29523,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-20",
+    "emojis": [
+      {
+        "char": "🧑‍🔬",
+        "label": "archaeological site in chile",
+        "url": "https://www.theguardian.com/science/2026/mar/19/archaeological-site-in-chile-upends-theory-of-how-humans-populated-the-americas-again",
+        "title": "Archaeological site in Chile upends theory of how humans populated the Americas … again",
+        "summary": "Discovery at Monte Verde puts north-to-south expansion theory back at centre of heated debate on continent’s human history A groundbreaking new study may have once again upended our understanding of human prehistory in the Americas. For..."
+      },
+      {
+        "char": "🛢️",
+        "label": "china's record oil output",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTVIxSzRWYlpYT1FaUUVWUFpsM0E3VnNhSVdxbXg1dTJvZFY2eGpMVGNhVTZhbk9rdTVGZXBGcEM3Z1NNWTJfOEhDYjFoZzl1V3RuWFVoUTg1aXhUQ0NwTmhQLVZOTzhPYy1JZEdMYXZYTGtHLXRkb19XRU5NY1RYeGRCM0JIQnhTNHV4N0Fva0FEU2JEdzFfMG02NHhuS29BakRKUGlESFRJZw?oc=5",
+        "title": "China's record oil output reaches limits of what's possible - Reuters",
+        "summary": "China's record oil output reaches limits of what's possible Reuters"
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada's push for joint g7 effort",
+        "url": "https://www.theguardian.com/world/2026/mar/18/canada-in-push-for-joint-g7-and-middle-east-effort-to-de-escalating-iran-war",
+        "title": "Canada in push for joint G7 and Middle East effort to de-escalate Iran war",
+        "summary": "Foreign minister Anita Anand says she has drafted principles to reduce risk of regional spillover and wider shocks Middle East crisis – live updates Canada is pushing for a collective G7 and Middle East approach to de-escalating the Iran..."
+      },
+      {
+        "char": "💔",
+        "label": "poorest countries lose uk aid",
+        "url": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
+        "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
+        "summary": "UK’s bilateral aid to African countries, which funds areas such as schools and clinics, to be cut by almost £900m by 2028-29 Some of the world’s poorest countries will lose out on UK aid that funds programmes such as schools and clinics,..."
+      },
+      {
+        "char": "🔫",
+        "label": "jihadist violence in nigeria",
+        "url": "https://www.theguardian.com/world/2026/mar/19/jihadist-violence-nigeria-drc-terrorism-index",
+        "title": "Jihadist violence in Nigeria and DRC rose sharply last year even as global deaths from terror fell",
+        "summary": "Nigeria had largest increase in terrorism-related deaths, ranking fourth in global index behind Pakistan, Burkina Faso and Niger Jihadist violence rose sharply in Nigeria and Democratic Republic of Congo last year, even as global deaths..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
