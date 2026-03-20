@@ -39,5 +39,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Sadness",
+    "emoji": "😢",
+    "rationale": "Today's news reflects a pervasive sense of sorrow and struggle, from conflict in Syria to Iranians facing hardship during their new year. The emotional weight of these stories underscores a difficult global atmosphere.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
