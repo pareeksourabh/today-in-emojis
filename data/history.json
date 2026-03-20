@@ -29435,5 +29435,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-20",
+    "emojis": [
+      {
+        "char": "🍔",
+        "label": "unilever and mccormick merger talks",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1RzUmp3TFVCamtlMnQxVnpNU3M4WnpaaG9hUk1Ybk52UzRlSklkVWdGdFpDaUEwSHFzbjl6bTYwcWFhT3NyUFRyNm9aalJlZVNBdkFnWmRzMlNfOU9YZTlhcGZ5eWhMQkRIMkJ5c0tJMUNMU1BhX2dweHA2c0pabnVTT3VpTkl6NlFQOE53R002QjAycXBHbTU1M0ZqMTBCa2UtcFVMWFNNNTJ4?oc=5",
+        "title": "Unilever in talks to combine food business with McCormick, WSJ reports - Reuters",
+        "summary": "Unilever in talks to combine food business with McCormick, WSJ reports Reuters"
+      },
+      {
+        "char": "⚖️",
+        "label": "cesar chavez abuse allegations",
+        "url": "https://www.bbc.com/news/articles/cp8r8rggxmmo?at_medium=RSS&at_campaign=rss",
+        "title": "US civil rights leader Cesar Chavez accused of sexual abuse",
+        "summary": "The allegations have prompted the cancellations of events and celebrations planned in his honour later this month."
+      },
+      {
+        "char": "👑",
+        "label": "norway princess addresses epstein links",
+        "url": "https://www.bbc.com/news/articles/cvge3mxgvwwo?at_medium=RSS&at_campaign=rss",
+        "title": "Norway crown princess to address Epstein links as son's rape trial closes",
+        "summary": "Mette-Marit gives a much-anticipated interview, due to be broadcast on Friday."
+      },
+      {
+        "char": "🇯🇵",
+        "label": "japan leader finds voice in dc",
+        "url": "https://www.nytimes.com/2026/03/19/world/asia/japan-takaichi-washington-internship.html",
+        "title": "How Japan’s Leader Sanae Takaichi Found Her Voice in D.C. Decades Ago",
+        "summary": "Prime Minister Sanae Takaichi got her start in politics as an intern for a trailblazing Colorado lawmaker. She returns to Washington this week to meet with President Trump."
+      },
+      {
+        "char": "🛢️",
+        "label": "us considers lifting iran oil sanctions",
+        "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+        "title": "US considers lifting sanctions on some Iranian oil",
+        "summary": "Treasury Secretary Scott Bessent broached waiving sanctions on oil already at sea, which would be a stunning reversal of longstanding American policy."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
