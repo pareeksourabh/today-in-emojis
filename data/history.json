@@ -29611,5 +29611,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-20",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israel strikes syria after clashes",
+        "url": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
+        "title": "Israel strikes Syria after Druze clashes",
+        "summary": "Syria condemned the strikes on weapons sites and government infrastructure as an \"outrageous\" assault on Syria's sovereignty."
+      },
+      {
+        "char": "🇭🇺",
+        "label": "orbán accused of disloyalty over ukraine",
+        "url": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
+        "title": "Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto",
+        "summary": "The Hungarian leader says a pipeline carrying Russian oil through Ukraine to Hungary must be repaired before any funds can be released."
+      },
+      {
+        "char": "🎉",
+        "label": "iranians mourn during holiday of renewal",
+        "url": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-nowruz-new-year.html",
+        "title": "On a Holiday of Renewal, Iranians Are Mourning and Fearful",
+        "summary": "As they start a new year, Iranians are reckoning with bombardment, repression and economic misery. Still, many are holding fast to ancient traditions."
+      },
+      {
+        "char": "🎶",
+        "label": "bts leans into korean history with arirang",
+        "url": "https://www.nytimes.com/2026/03/20/world/asia/bts-arirang-korean-references.html",
+        "title": "BTS Leans Into Korean History With ‘Arirang.’ Here Are the Major References.",
+        "summary": "The group’s new album “Arirang” includes a nod to a beloved Korean folk song and other important historical references."
+      },
+      {
+        "char": "📚",
+        "label": "publisher cancels horror novel over ai claims",
+        "url": "https://www.bbc.com/news/articles/c5y9d44jj24o?at_medium=RSS&at_campaign=rss",
+        "title": "Publisher cancels horror novel's release over AI claims",
+        "summary": "Author Mia Ballard denies having used AI herself when writing the horror story Shy Girl."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
