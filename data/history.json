@@ -29567,5 +29567,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-20",
+    "emojis": [
+      {
+        "char": "📖",
+        "label": "diary of war from iran's president's son",
+        "url": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-pezeshkian-son-diary.html",
+        "title": "A Diary of War From an Unlikely Author: the Son of Iran’s President",
+        "summary": "In an online journal, Yousef Pezeshkian offers readers a mix of personal anecdotes and glimpses behind the scenes as Iranian leaders are picked off one after another."
+      },
+      {
+        "char": "🇯🇵",
+        "label": "trump's pearl harbor remark in japan",
+        "url": "https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump makes Pearl Harbor remark in meeting with Japan's PM",
+        "summary": "President Trump compared US strikes on Iran to the deadly 1941 Japanese attack and declaration of war as part of World War Two."
+      },
+      {
+        "char": "💔",
+        "label": "bachelorette season pulled over abuse claims",
+        "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+        "title": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
+        "summary": "The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner."
+      },
+      {
+        "char": "🌍",
+        "label": "poorest countries lose uk aid budget cut",
+        "url": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
+        "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
+        "summary": "UK’s bilateral aid to African countries, which funds areas such as schools and clinics, to be cut by almost £900m by 2028-29 Some of the world’s poorest countries will lose out on UK aid that funds programmes such as schools and clinics,..."
+      },
+      {
+        "char": "✈️",
+        "label": "us military planes in sri lanka before strikes",
+        "url": "https://www.nytimes.com/2026/03/20/world/asia/sri-lanka-iran-war-ships-aircraft.html",
+        "title": "U.S. Asked to Keep Military Planes in Sri Lanka Before Iran Airstrikes",
+        "summary": "Sri Lanka did not agree to the request, officials said, and has tried to remain neutral in the U.S.-Israeli war in Iran."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
