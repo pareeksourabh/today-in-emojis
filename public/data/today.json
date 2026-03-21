@@ -1,34 +1,20 @@
 {
   "date": "2026-03-21",
-  "timestamp": "2026-03-21T13:00:01Z",
+  "timestamp": "2026-03-21T16:14:35Z",
   "emojis": [
     {
-      "char": "🗳️",
-      "label": "paris mayoral elections",
-      "url": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
-      "title": "Socialists battle to hold Paris in key mayoral elections across France",
-      "summary": "Emmanuel Grégoire is facing a challenge from Rachida Dati on the right who is behind in the opinion polls."
+      "char": "🇱🇰",
+      "label": "sri lanka public holiday debate",
+      "url": "https://www.nytimes.com/2026/03/21/world/asia/sri-lanka-public-holiday-oil-war.html",
+      "title": "A Public Holiday Every Week? Sri Lankans Bemoan the Enforced Day Off.",
+      "summary": "The island’s government, rationing fuel amid shortages from the Iran war, surprised residents by imposing an unusual four-day week."
     },
     {
-      "char": "⚖️",
-      "label": "woman freed from death row",
-      "url": "https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row",
-      "title": "Woman has sentence quashed by Tanzania court after over a decade on death row",
-      "summary": "Lemi Limbu, who has severe intellectual disabilities, remains in prison and will now face retrial for the murder of her daughter A woman with severe intellectual disabilities in Tanzania has had her conviction and death sentence quashed..."
-    },
-    {
-      "char": "🤝",
-      "label": "zelensky seeks peace talks",
-      "url": "https://www.nytimes.com/2026/03/21/world/europe/ukraine-russia-peace-talks-iran.html",
-      "title": "Zelensky Sends Negotiators to the U.S., Hoping to Revive Peace Talks",
-      "summary": "The Ukrainian president has said he has a “very bad feeling” about the effects of the Iran conflict on Ukraine’s own war."
-    },
-    {
-      "char": "🔥",
-      "label": "south korea factory fire",
-      "url": "https://www.nytimes.com/2026/03/20/world/asia/south-korea-factory-fire-deaths.html",
-      "title": "​At Least 14 Killed in South Korean Factory Fire",
-      "summary": "Survivors jumped from windows to escape the blaze, the deadliest at a factory in South Korea in two years. Four people are still missing."
+      "char": "🍺",
+      "label": "castro's grandson on instagram",
+      "url": "https://www.nytimes.com/2026/03/21/world/americas/fidel-castro-grandson-instagram.html",
+      "title": "Fidel Castro’s Grandson Flaunts Beer, Nikes and Trump Jokes on Instagram",
+      "summary": "Sandro Castro has drawn scrutiny for his Instagram posts in which he flaunts a life of luxury while using satire to point out the very deterioration his family’s leadership helped create."
     },
     {
       "char": "🦋",
@@ -36,6 +22,20 @@
       "url": "https://www.theguardian.com/world/2026/mar/20/mexico-monarch-butterfly-population-increases",
       "title": "Mexico’s monarch butterfly population jumps 64%, offering hope for at-risk species",
       "summary": "The insects covered its largest area since 2018, despite threats from habitat loss, climate crisis and pesticides The population of monarch butterflies in Mexico increased 64% this winter, compared with the same period in 2025, offering..."
+    },
+    {
+      "char": "🛠️",
+      "label": "madagascar ministers lie detector tests",
+      "url": "https://www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests",
+      "title": "Madagascar’s military ruler decrees that ministers must pass lie detector tests",
+      "summary": "Michael Randrianirina, who sacked PM and cabinet without explanation, claims measure is to root out corruption Madagascar’s military president has said new ministers will have to pass lie detector tests to root out corrupt candidates, af..."
+    },
+    {
+      "char": "💔",
+      "label": "south korean factory fire tragedy",
+      "url": "https://www.nytimes.com/2026/03/20/world/asia/south-korea-factory-fire-deaths.html",
+      "title": "​At Least 14 Killed in South Korean Factory Fire",
+      "summary": "Survivors jumped from windows to escape the blaze, the deadliest at a factory in South Korea in two years. Four people are still missing."
     }
   ],
   "source": "ai-openai",
