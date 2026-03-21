@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-20",
-  "timestamp": "2026-03-20T16:28:34Z",
+  "date": "2026-03-21",
+  "timestamp": "2026-03-21T01:14:05Z",
   "emojis": [
     {
-      "char": "🇮🇱",
-      "label": "israel strikes syria after clashes",
-      "url": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
-      "title": "Israel strikes Syria after Druze clashes",
-      "summary": "Syria condemned the strikes on weapons sites and government infrastructure as an \"outrageous\" assault on Syria's sovereignty."
+      "char": "🇻🇪",
+      "label": "venezuela military leadership change",
+      "url": "https://www.theguardian.com/world/2026/mar/20/delcy-rodriguez-replaces-venezuelas-top-military-commanders",
+      "title": "Delcy Rodríguez replaces Venezuela’s top military commanders",
+      "summary": "Interim president announces changes after firing defence minister, who was close to Maduro, the leader ousted by US Venezuela’s interim president has said she has replaced all her senior military commanders, the latest in a flurry of cha..."
     },
     {
-      "char": "🇭🇺",
-      "label": "orbán accused of disloyalty over ukraine",
-      "url": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
-      "title": "Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto",
-      "summary": "The Hungarian leader says a pipeline carrying Russian oil through Ukraine to Hungary must be repaired before any funds can be released."
+      "char": "🛢️",
+      "label": "us lifts sanctions on iranian oil",
+      "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+      "title": "US lifts sanctions on some Iranian oil as gas prices soar",
+      "summary": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets."
     },
     {
-      "char": "🎉",
-      "label": "iranians mourn during holiday of renewal",
-      "url": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-nowruz-new-year.html",
-      "title": "On a Holiday of Renewal, Iranians Are Mourning and Fearful",
-      "summary": "As they start a new year, Iranians are reckoning with bombardment, repression and economic misery. Still, many are holding fast to ancient traditions."
+      "char": "💧",
+      "label": "world water day special",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNclRvZWQzdnZRQ0VHNXhYYnZLS3hfRlB2bm9YRGZwSTJWWEZtTUc1dG1pUFVSeDRjXzZZUTlJRlRrWHFfVFIxRnpvY1o3Z2c5SVhJeXN4amc3cjNac1FLcTdZTFRXTUs0SE04cXRQLVZJT1BEc3FRQmhNSndXazlBTmJCMDJyR1ByelJ6b1d0akxLUQ?oc=5",
+      "title": "Climate Focus: World Water Day Special - Reuters",
+      "summary": "Climate Focus: World Water Day Special Reuters"
     },
     {
-      "char": "🎶",
-      "label": "bts leans into korean history with arirang",
-      "url": "https://www.nytimes.com/2026/03/20/world/asia/bts-arirang-korean-references.html",
-      "title": "BTS Leans Into Korean History With ‘Arirang.’ Here Are the Major References.",
-      "summary": "The group’s new album “Arirang” includes a nod to a beloved Korean folk song and other important historical references."
+      "char": "⚖️",
+      "label": "belgian diplomat trial for murder",
+      "url": "https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba",
+      "title": "Belgian court sends ex-diplomat, 93, to trial over 1961 murder of Congo leader",
+      "summary": "Family of then PM, Patrice Lumumba, welcome decision to charge Étienne Davignon as ‘beginning of a reckoning’ A former Belgian diplomat, 93, should stand trial over alleged complicity in the 1961 murder of Patrice Lumumba, the first prim..."
     },
     {
-      "char": "📚",
-      "label": "publisher cancels horror novel over ai claims",
-      "url": "https://www.bbc.com/news/articles/c5y9d44jj24o?at_medium=RSS&at_campaign=rss",
-      "title": "Publisher cancels horror novel's release over AI claims",
-      "summary": "Author Mia Ballard denies having used AI herself when writing the horror story Shy Girl."
+      "char": "🚨",
+      "label": "canadian mother and daughter detained",
+      "url": "https://www.theguardian.com/us-news/2026/mar/20/canadian-mother-daughter-ice-detention",
+      "title": "Canadian mother and daughter ‘traumatized’ by ICE detainment, husband says",
+      "summary": "Tania Warner and Ayla, her seven-year-old with autism, sent to notorious Texas detention center and told to ‘self-deport’ Sign up for the Breaking News US email to get newsletter alerts in your inbox A Canadian woman and her seven-year-o..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Sadness",
-    "emoji": "😢",
-    "rationale": "Today's news reflects a pervasive sense of sorrow and struggle, from conflict in Syria to Iranians facing hardship during their new year. The emotional weight of these stories underscores a difficult global atmosphere.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
