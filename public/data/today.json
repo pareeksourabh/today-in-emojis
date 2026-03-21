@@ -39,5 +39,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "sadness",
+    "emoji": "😢",
+    "rationale": "The day's news reflects a mix of distressing events, including a tragic factory fire in South Korea and concerns over government actions in Sri Lanka and Madagascar, overshadowed by a poignant reminder of environmental hope with the monarch",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
