@@ -1,13 +1,27 @@
 {
   "date": "2026-03-22",
-  "timestamp": "2026-03-22T13:02:38Z",
+  "timestamp": "2026-03-22T16:14:57Z",
   "emojis": [
     {
-      "char": "⚡",
-      "label": "cuban power grid collapses again",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY29XSFp6SmFnbEpDdWh4eFVIbkI4dnlBcVA3ZHVNaXpFQXg3QXZrUENTd0JnN1NmbndSTHhBTmFfM1E3WnltMGNQUlVLZmxZekl1b1dzV193WHNJRnhQdEFETWV1MlFmYXFtVXAwRDZ5dkVpMlJHbVhkTnlWR0RrNFFlS2dtR1lhNzdham5vYWFIR1psdUR4ZUFzek5VaEstUXlXaWdCQUtELTBzM21J?oc=5",
-      "title": "Cuban power grid collapses for second time in a week amid US oil blockade - Reuters",
-      "summary": "Cuban power grid collapses for second time in a week amid US oil blockade Reuters"
+      "char": "🗳️",
+      "label": "election in slovenia tests europe",
+      "url": "https://www.nytimes.com/2026/03/22/world/europe/election-in-slovenia-will-test-europes-political-mood.html",
+      "title": "Election in Slovenia Will Test Europe’s Political Mood",
+      "summary": "The center-left government is being challenged by a right-wing populist accused of launching a smear campaign in the final days of a close race."
+    },
+    {
+      "char": "🔫",
+      "label": "jihadist violence in nigeria and drc",
+      "url": "https://www.theguardian.com/world/2026/mar/19/jihadist-violence-nigeria-drc-terrorism-index",
+      "title": "Jihadist violence in Nigeria and DRC rose sharply last year even as global deaths from terror fell",
+      "summary": "Nigeria had largest increase in terrorism-related deaths, ranking fourth in global index behind Pakistan, Burkina Faso and Niger Jihadist violence rose sharply in Nigeria and Democratic Republic of Congo last year, even as global deaths..."
+    },
+    {
+      "char": "🌼",
+      "label": "monarch butterfly population increases",
+      "url": "https://www.theguardian.com/world/2026/mar/20/mexico-monarch-butterfly-population-increases",
+      "title": "Mexico’s monarch butterfly population jumps 64%, offering hope for at-risk species",
+      "summary": "The insects covered its largest area since 2018, despite threats from habitat loss, climate crisis and pesticides The population of monarch butterflies in Mexico increased 64% this winter, compared with the same period in 2025, offering..."
     },
     {
       "char": "🏥",
@@ -17,25 +31,11 @@
       "summary": "Victims of army drone attack on East Darfur health facility included children and medical personnel A strike on a healthcare facility in Sudan has killed 64 people and wounded 89 more, the World Health Organization reported on Saturday...."
     },
     {
-      "char": "🇲🇦",
-      "label": "madagascar military rulers lie tests",
-      "url": "https://www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests",
-      "title": "Madagascar’s military ruler decrees that ministers must pass lie detector tests",
-      "summary": "Michael Randrianirina, who sacked PM and cabinet without explanation, claims measure is to root out corruption Madagascar’s military president has said new ministers will have to pass lie detector tests to root out corrupt candidates, af..."
-    },
-    {
-      "char": "🌊",
-      "label": "beirut waterfront amid war",
-      "url": "https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html",
-      "title": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
-      "summary": "Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying displays of wealth."
-    },
-    {
-      "char": "🗳️",
-      "label": "slovenia election tests political mood",
-      "url": "https://www.nytimes.com/2026/03/22/world/europe/election-in-slovenia-will-test-europes-political-mood.html",
-      "title": "Election in Slovenia Will Test Europe’s Political Mood",
-      "summary": "The center-left government is being challenged by a right-wing populist accused of launching a smear campaign in the final days of a close race."
+      "char": "🚨",
+      "label": "seven-year-old girl detained by ice",
+      "url": "https://www.theguardian.com/us-news/2026/mar/20/seven-year-old-canadian-girl-with-autism-and-mother-detained-by-ice-in-texas",
+      "title": "Seven-year-old Canadian girl with autism and mother detained by ICE in Texas",
+      "summary": "Mother and child held in notorious Rio Grande Valley detention centre despite presenting visa, family says A Canadian mother and her seven-year-old daughter, who has autism, have been detained by US Immigration and Customs Enforcement (I..."
     }
   ],
   "source": "ai-openai",
