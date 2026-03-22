@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-21",
-  "timestamp": "2026-03-21T16:14:35Z",
+  "date": "2026-03-22",
+  "timestamp": "2026-03-22T01:23:06Z",
   "emojis": [
     {
-      "char": "🇱🇰",
-      "label": "sri lanka public holiday debate",
-      "url": "https://www.nytimes.com/2026/03/21/world/asia/sri-lanka-public-holiday-oil-war.html",
-      "title": "A Public Holiday Every Week? Sri Lankans Bemoan the Enforced Day Off.",
-      "summary": "The island’s government, rationing fuel amid shortages from the Iran war, surprised residents by imposing an unusual four-day week."
-    },
-    {
-      "char": "🍺",
-      "label": "castro's grandson on instagram",
-      "url": "https://www.nytimes.com/2026/03/21/world/americas/fidel-castro-grandson-instagram.html",
-      "title": "Fidel Castro’s Grandson Flaunts Beer, Nikes and Trump Jokes on Instagram",
-      "summary": "Sandro Castro has drawn scrutiny for his Instagram posts in which he flaunts a life of luxury while using satire to point out the very deterioration his family’s leadership helped create."
+      "char": "⚖️",
+      "label": "tanzania woman freed from death row",
+      "url": "https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row",
+      "title": "Woman has sentence quashed by Tanzania court after over a decade on death row",
+      "summary": "Lemi Limbu, who has severe intellectual disabilities, remains in prison and will now face retrial for the murder of her daughter A woman with severe intellectual disabilities in Tanzania has had her conviction and death sentence quashed..."
     },
     {
       "char": "🦋",
-      "label": "monarch butterfly population increase",
+      "label": "mexico monarch butterfly population increases",
       "url": "https://www.theguardian.com/world/2026/mar/20/mexico-monarch-butterfly-population-increases",
       "title": "Mexico’s monarch butterfly population jumps 64%, offering hope for at-risk species",
       "summary": "The insects covered its largest area since 2018, despite threats from habitat loss, climate crisis and pesticides The population of monarch butterflies in Mexico increased 64% this winter, compared with the same period in 2025, offering..."
     },
     {
-      "char": "🛠️",
-      "label": "madagascar ministers lie detector tests",
-      "url": "https://www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests",
-      "title": "Madagascar’s military ruler decrees that ministers must pass lie detector tests",
-      "summary": "Michael Randrianirina, who sacked PM and cabinet without explanation, claims measure is to root out corruption Madagascar’s military president has said new ministers will have to pass lie detector tests to root out corrupt candidates, af..."
+      "char": "🌧️",
+      "label": "hawaii faces worst flooding in 20 years",
+      "url": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
+      "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
+      "summary": "\"Don't take this storm lightly,\" Hawaii Governor Josh Green warned on Saturday, as more rain is expected on Oahu and Maui."
     },
     {
-      "char": "💔",
-      "label": "south korean factory fire tragedy",
-      "url": "https://www.nytimes.com/2026/03/20/world/asia/south-korea-factory-fire-deaths.html",
-      "title": "​At Least 14 Killed in South Korean Factory Fire",
-      "summary": "Survivors jumped from windows to escape the blaze, the deadliest at a factory in South Korea in two years. Four people are still missing."
+      "char": "💣",
+      "label": "strike on sudan hospital kills many",
+      "url": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
+      "title": "Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports",
+      "summary": "Victims of army drone attack on East Darfur health facility included children and medical personnel A strike on a healthcare facility in Sudan has killed 64 people and wounded 89 more, the World Health Organization reported on Saturday...."
+    },
+    {
+      "char": "🚨",
+      "label": "trump threatens iran over oil blockade",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEhmLUhYN1BhUGZ3dnpBZHZRTUF4UUZueVV1NnZ4RzlRSkg2dzZiZUlPNWJFUktlbE1ZQkpQMWZ6eWVjTlg3OUgyOHJvUzZHeXZmVHZGdjYzWXE1Rzg4Q0MtVW9TREtMckZJaTJWaXF4NVZBcFh2RHdjQ3N2MV9DVHhmREtPSW1ucEUzTE9OT3pUWHBGTVpOVWV6bzNtck9NSXhHX09CbU84VjZfbVAyTHEyVzhOdFlyVVBRMw?oc=5",
+      "title": "Trump threatens Iran with power plant strikes over Hormuz oil blockade - Reuters",
+      "summary": "Trump threatens Iran with power plant strikes over Hormuz oil blockade Reuters"
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sadness",
-    "emoji": "😢",
-    "rationale": "The day's news reflects a mix of distressing events, including a tragic factory fire in South Korea and concerns over government actions in Sri Lanka and Madagascar, overshadowed by a poignant reminder of environmental hope with the monarch",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
