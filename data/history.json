@@ -30227,5 +30227,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-23",
+    "emojis": [
+      {
+        "char": "🛩️",
+        "label": "ukraine drone marketplace",
+        "url": "https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html",
+        "title": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
+        "summary": "Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement."
+      },
+      {
+        "char": "⚖️",
+        "label": "tanzania woman freed from death row",
+        "url": "https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row",
+        "title": "Woman has sentence quashed by Tanzania court after over a decade on death row",
+        "summary": "Lemi Limbu, who has severe intellectual disabilities, remains in prison and will now face retrial for the murder of her daughter A woman with severe intellectual disabilities in Tanzania has had her conviction and death sentence quashed..."
+      },
+      {
+        "char": "🇩🇰",
+        "label": "denmark election issues",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU295MGsyc1dPMnU0UXM0a0dXbE9oV2dQSUw5SUpHX3pvdlM0eGpTcldMbWNfTXRWZ1NSalc1TXhaYmFLR1g3OGdVeGM4c0U4cjNpTXpvU21aVUdCWWdlRlBrckxHMjg4UFRJeEFTOTIzTDd0MHlVZXRLdEVBT1NtcGw5MXBXUFVieUR5bjduNk9NbUtnSmxlVXN3UVREcHo4VHk4?oc=5",
+        "title": "Economy, Greenland and wealth tax among issues in Denmark's election - Reuters",
+        "summary": "Economy, Greenland and wealth tax among issues in Denmark's election Reuters"
+      },
+      {
+        "char": "🪖",
+        "label": "venezuela military command changes",
+        "url": "https://www.theguardian.com/world/2026/mar/20/delcy-rodriguez-replaces-venezuelas-top-military-commanders",
+        "title": "Delcy Rodríguez replaces Venezuela’s top military commanders",
+        "summary": "Interim president announces changes after firing defence minister, who was close to Maduro, the leader ousted by US Venezuela’s interim president has said she has replaced all her senior military commanders, the latest in a flurry of cha..."
+      },
+      {
+        "char": "🗳️",
+        "label": "puerto rico voting machines controversy",
+        "url": "https://www.theguardian.com/us-news/2026/mar/20/puerto-rico-voting-machines-trump-2020-election-loss-venezuela",
+        "title": "Gabbard testimony on Puerto Rico voting machines raises questions about role of Venezuela conspiracy theory",
+        "summary": "National intelligence director said voting machine seizure was requested by US attorney in Puerto Rico – who’s been trying to revive 2020 election conspiracy theory When the US director of national intelligence (DNI), Tulsi Gabbard, test..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
