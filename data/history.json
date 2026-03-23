@@ -30271,5 +30271,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-23",
+    "emojis": [
+      {
+        "char": "🇰🇪",
+        "label": "kenyan ex-foreign minister resurfaces",
+        "url": "https://www.bbc.com/news/articles/c3ex8vglvkxo?at_medium=RSS&at_campaign=rss",
+        "title": "Kenyan ex-foreign minister resurfaces after abduction fears",
+        "summary": "The reported disappearance of Raphael Tuju had led to claims he may have been abducted."
+      },
+      {
+        "char": "⚾",
+        "label": "dodgers aim for world series three-peat",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ25oakJNVnNOVUZfeTlRMmc1dUNhRVg3VEZfSkFiMWFXZUYtdE01b0NEV2RCaGY4T3lqcjJOdmxISS1iRnhwdTVIekl1cDh4Nk1CdHNDT180T21yOHk2ZzgxOVJXRXU1dWc1bzJzUWFWNWVDbTVuMFBKRHdyRUY3WVJBY19pUTdWdWdrQTNhclZ0Uk9jMlpBQmh0Yw?oc=5",
+        "title": "Dodgers swing for World Series three-peat in new MLB season - Reuters",
+        "summary": "Dodgers swing for World Series three-peat in new MLB season Reuters"
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada's military defends the arctic",
+        "url": "https://www.nytimes.com/2026/03/23/world/canada/canada-arctic-territory-military.html",
+        "title": "Canada’s Military Wants to Prove It Can Defend the High Arctic",
+        "summary": "Canadian soldiers transported M777 howitzers to the High Arctic to show their ability to fight in an increasingly contested part of the world. It did not go as planned."
+      },
+      {
+        "char": "🇫🇷",
+        "label": "france's socialists hold power in cities",
+        "url": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
+        "title": "France's Socialists hold on to power in major cities in election boost for mainstream",
+        "summary": "Paris and Marseille are held by the Socialists in local elections which saw the nationalist right win in Nice and certain towns."
+      },
+      {
+        "char": "🌍",
+        "label": "poorest countries lose uk aid budget",
+        "url": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
+        "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
+        "summary": "UK’s bilateral aid to African countries, which funds areas such as schools and clinics, to be cut by almost £900m by 2028-29 Some of the world’s poorest countries will lose out on UK aid that funds programmes such as schools and clinics,..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
