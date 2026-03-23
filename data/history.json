@@ -30095,5 +30095,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-23",
+    "emojis": [
+      {
+        "char": "🦋",
+        "label": "monarch butterfly population increases",
+        "url": "https://www.theguardian.com/world/2026/mar/20/mexico-monarch-butterfly-population-increases",
+        "title": "Mexico’s monarch butterfly population jumps 64%, offering hope for at-risk species",
+        "summary": "The insects covered its largest area since 2018, despite threats from habitat loss, climate crisis and pesticides The population of monarch butterflies in Mexico increased 64% this winter, compared with the same period in 2025, offering..."
+      },
+      {
+        "char": "🇮🇹",
+        "label": "italy leader wants constitutional change",
+        "url": "https://www.nytimes.com/2026/03/22/world/europe/italy-referendum-judiciary-meloni.html",
+        "title": "Italy’s Leader Wants to Change the Constitution. Italians Don’t Get It.",
+        "summary": "Voting starts Sunday on a referendum to overhaul Italy’s judiciary. Many people don’t understand the complex proposal — and it could hurt Prime Minister Giorgia Meloni."
+      },
+      {
+        "char": "🏥",
+        "label": "sudan hospital attack kills 64",
+        "url": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
+        "title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
+        "summary": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head."
+      },
+      {
+        "char": "💔",
+        "label": "poorest countries lose uk aid",
+        "url": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
+        "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
+        "summary": "UK’s bilateral aid to African countries, which funds areas such as schools and clinics, to be cut by almost £900m by 2028-29 Some of the world’s poorest countries will lose out on UK aid that funds programmes such as schools and clinics,..."
+      },
+      {
+        "char": "⚖️",
+        "label": "tanzania woman freed from death row",
+        "url": "https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row",
+        "title": "Woman has sentence quashed by Tanzania court after over a decade on death row",
+        "summary": "Lemi Limbu, who has severe intellectual disabilities, remains in prison and will now face retrial for the murder of her daughter A woman with severe intellectual disabilities in Tanzania has had her conviction and death sentence quashed..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

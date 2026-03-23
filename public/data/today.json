@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-22",
-  "timestamp": "2026-03-22T16:14:57Z",
+  "date": "2026-03-23",
+  "timestamp": "2026-03-23T01:23:38Z",
   "emojis": [
     {
-      "char": "🗳️",
-      "label": "election in slovenia tests europe",
-      "url": "https://www.nytimes.com/2026/03/22/world/europe/election-in-slovenia-will-test-europes-political-mood.html",
-      "title": "Election in Slovenia Will Test Europe’s Political Mood",
-      "summary": "The center-left government is being challenged by a right-wing populist accused of launching a smear campaign in the final days of a close race."
-    },
-    {
-      "char": "🔫",
-      "label": "jihadist violence in nigeria and drc",
-      "url": "https://www.theguardian.com/world/2026/mar/19/jihadist-violence-nigeria-drc-terrorism-index",
-      "title": "Jihadist violence in Nigeria and DRC rose sharply last year even as global deaths from terror fell",
-      "summary": "Nigeria had largest increase in terrorism-related deaths, ranking fourth in global index behind Pakistan, Burkina Faso and Niger Jihadist violence rose sharply in Nigeria and Democratic Republic of Congo last year, even as global deaths..."
-    },
-    {
-      "char": "🌼",
+      "char": "🦋",
       "label": "monarch butterfly population increases",
       "url": "https://www.theguardian.com/world/2026/mar/20/mexico-monarch-butterfly-population-increases",
       "title": "Mexico’s monarch butterfly population jumps 64%, offering hope for at-risk species",
       "summary": "The insects covered its largest area since 2018, despite threats from habitat loss, climate crisis and pesticides The population of monarch butterflies in Mexico increased 64% this winter, compared with the same period in 2025, offering..."
     },
     {
-      "char": "🏥",
-      "label": "strike on sudan hospital kills many",
-      "url": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
-      "title": "Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports",
-      "summary": "Victims of army drone attack on East Darfur health facility included children and medical personnel A strike on a healthcare facility in Sudan has killed 64 people and wounded 89 more, the World Health Organization reported on Saturday...."
+      "char": "🇮🇹",
+      "label": "italy leader wants constitutional change",
+      "url": "https://www.nytimes.com/2026/03/22/world/europe/italy-referendum-judiciary-meloni.html",
+      "title": "Italy’s Leader Wants to Change the Constitution. Italians Don’t Get It.",
+      "summary": "Voting starts Sunday on a referendum to overhaul Italy’s judiciary. Many people don’t understand the complex proposal — and it could hurt Prime Minister Giorgia Meloni."
     },
     {
-      "char": "🚨",
-      "label": "seven-year-old girl detained by ice",
-      "url": "https://www.theguardian.com/us-news/2026/mar/20/seven-year-old-canadian-girl-with-autism-and-mother-detained-by-ice-in-texas",
-      "title": "Seven-year-old Canadian girl with autism and mother detained by ICE in Texas",
-      "summary": "Mother and child held in notorious Rio Grande Valley detention centre despite presenting visa, family says A Canadian mother and her seven-year-old daughter, who has autism, have been detained by US Immigration and Customs Enforcement (I..."
+      "char": "🏥",
+      "label": "sudan hospital attack kills 64",
+      "url": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
+      "title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
+      "summary": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head."
+    },
+    {
+      "char": "💔",
+      "label": "poorest countries lose uk aid",
+      "url": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
+      "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
+      "summary": "UK’s bilateral aid to African countries, which funds areas such as schools and clinics, to be cut by almost £900m by 2028-29 Some of the world’s poorest countries will lose out on UK aid that funds programmes such as schools and clinics,..."
+    },
+    {
+      "char": "⚖️",
+      "label": "tanzania woman freed from death row",
+      "url": "https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row",
+      "title": "Woman has sentence quashed by Tanzania court after over a decade on death row",
+      "summary": "Lemi Limbu, who has severe intellectual disabilities, remains in prison and will now face retrial for the murder of her daughter A woman with severe intellectual disabilities in Tanzania has had her conviction and death sentence quashed..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Sadness",
-    "emoji": "😢",
-    "rationale": "The day's news highlights significant tragedies, from violence and death in Sudan and rising terrorism in Nigeria to the distressing detention of a child with autism. These stories evoke a profound sense of sadness and concern for humanity.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
