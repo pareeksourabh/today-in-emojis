@@ -1,41 +1,41 @@
 {
   "date": "2026-03-23",
-  "timestamp": "2026-03-23T01:23:38Z",
+  "timestamp": "2026-03-23T05:42:32Z",
   "emojis": [
     {
+      "char": "🌍",
+      "label": "un climate warning as el niño looms",
+      "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
+      "title": "UN issues new climate warning as El Niño looms",
+      "summary": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says."
+    },
+    {
       "char": "🦋",
-      "label": "monarch butterfly population increases",
+      "label": "monarch butterfly population jumps 64%",
       "url": "https://www.theguardian.com/world/2026/mar/20/mexico-monarch-butterfly-population-increases",
       "title": "Mexico’s monarch butterfly population jumps 64%, offering hope for at-risk species",
       "summary": "The insects covered its largest area since 2018, despite threats from habitat loss, climate crisis and pesticides The population of monarch butterflies in Mexico increased 64% this winter, compared with the same period in 2025, offering..."
     },
     {
-      "char": "🇮🇹",
-      "label": "italy leader wants constitutional change",
-      "url": "https://www.nytimes.com/2026/03/22/world/europe/italy-referendum-judiciary-meloni.html",
-      "title": "Italy’s Leader Wants to Change the Constitution. Italians Don’t Get It.",
-      "summary": "Voting starts Sunday on a referendum to overhaul Italy’s judiciary. Many people don’t understand the complex proposal — and it could hurt Prime Minister Giorgia Meloni."
+      "char": "🗳️",
+      "label": "election in slovenia is a near tie",
+      "url": "https://www.nytimes.com/2026/03/22/world/europe/election-in-slovenia-will-test-europes-political-mood.html",
+      "title": "Election in Slovenia Is a Near Tie",
+      "summary": "The center-left and the right-wing populists got about equal support. The next government will be led by the one who can build a coalition with smaller parties."
+    },
+    {
+      "char": "🚨",
+      "label": "canadian girl and mother detained by ice",
+      "url": "https://www.theguardian.com/us-news/2026/mar/20/seven-year-old-canadian-girl-with-autism-and-mother-detained-by-ice-in-texas",
+      "title": "Seven-year-old Canadian girl with autism and mother detained by ICE in Texas",
+      "summary": "Mother and child held in notorious Rio Grande Valley detention centre despite presenting visa, family says A Canadian mother and her seven-year-old daughter, who has autism, have been detained by US Immigration and Customs Enforcement (I..."
     },
     {
       "char": "🏥",
-      "label": "sudan hospital attack kills 64",
-      "url": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
-      "title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
-      "summary": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head."
-    },
-    {
-      "char": "💔",
-      "label": "poorest countries lose uk aid",
-      "url": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
-      "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
-      "summary": "UK’s bilateral aid to African countries, which funds areas such as schools and clinics, to be cut by almost £900m by 2028-29 Some of the world’s poorest countries will lose out on UK aid that funds programmes such as schools and clinics,..."
-    },
-    {
-      "char": "⚖️",
-      "label": "tanzania woman freed from death row",
-      "url": "https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row",
-      "title": "Woman has sentence quashed by Tanzania court after over a decade on death row",
-      "summary": "Lemi Limbu, who has severe intellectual disabilities, remains in prison and will now face retrial for the murder of her daughter A woman with severe intellectual disabilities in Tanzania has had her conviction and death sentence quashed..."
+      "label": "strike on sudan hospital kills dozens",
+      "url": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
+      "title": "Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports",
+      "summary": "Victims of army drone attack on East Darfur health facility included children and medical personnel A strike on a healthcare facility in Sudan has killed 64 people and wounded 89 more, the World Health Organization reported on Saturday...."
     }
   ],
   "source": "ai-openai",
