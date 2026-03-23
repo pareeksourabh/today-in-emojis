@@ -30183,5 +30183,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-23",
+    "emojis": [
+      {
+        "char": "🇫🇷",
+        "label": "france's socialists hold power",
+        "url": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
+        "title": "France's Socialists hold on to power in major cities in election boost for mainstream",
+        "summary": "Paris and Marseille are held by the Socialists in local elections which saw the nationalist right win in Nice and certain towns."
+      },
+      {
+        "char": "✈️",
+        "label": "finnair chooses embraer for fleet",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUnBGSkJHUl9Wc3BfRWlhRUFhbEZrRWFmUkREeUR1c0ZlTV9iMFRPZktkY1ZXMlo5c2VWNjJWbjdjZVc3enZjTkJLM1huaWtVRExXaWVNRzJ1el9OZmFZMzFhMlRFODkxLWdLTkFMZ184RVlOQy1UcmlxYW9aVTZieWJxSkVqVkpXaGxoZTlJVXBNcjhqQ2NBMm9wWlU2eFNqeE1QOVJ1RmdXSUZDWE5wNFh6cHgyb093NjdENGh6WXdvYURZSU1MNw?oc=5",
+        "title": "Finnair picks Embraer over Airbus for its narrow-body fleet renewal - Reuters",
+        "summary": "Finnair picks Embraer over Airbus for its narrow-body fleet renewal Reuters"
+      },
+      {
+        "char": "💰",
+        "label": "ecb must act on inflation risks",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMXpFTzVEV2J0VEdjNGlNVlVDSkxraFhhbGlwS1p3V09jWjFjcXN6cno2LVFSZHU5X3RvcTdDdjJkejY0TVliUzdxN1FKSzd6bnpxcE00T2dUc1lSdFQ5dUxONWpmcFlFUzlES3l2aGYxdXVwNW9WRk9HZVdQMGQ1bTBMRTNJdnpBWF9VaENCcFVyeU4xbEJWYS1xM0RoWHpPMm1QcTFiME9NaTdkYlFfYw?oc=5",
+        "title": "ECB must act in case of second-round inflation impacts, VP tells El Mundo - Reuters",
+        "summary": "ECB must act in case of second-round inflation impacts, VP tells El Mundo Reuters"
+      },
+      {
+        "char": "🏥",
+        "label": "strike on sudan hospital kills many",
+        "url": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
+        "title": "Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports",
+        "summary": "Victims of army drone attack on East Darfur health facility included children and medical personnel A strike on a healthcare facility in Sudan has killed 64 people and wounded 89 more, the World Health Organization reported on Saturday...."
+      },
+      {
+        "char": "🚀",
+        "label": "iranian missiles injure many",
+        "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+        "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
+        "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
