@@ -30315,5 +30315,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-24",
+    "emojis": [
+      {
+        "char": "🇦🇴",
+        "label": "russian operation in angola",
+        "url": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
+        "title": "Inside the alleged Russian operation to trigger anti-government protests in Angola",
+        "summary": "A group of Russians and Angolans are going on trial in Angola after being accused of fomenting protests, which they deny."
+      },
+      {
+        "char": "✈️",
+        "label": "air canada jet collision in ny",
+        "url": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights",
+        "title": "Two pilots killed after Air Canada jet collision at LaGuardia in New York",
+        "summary": "NTSB says investigation under way as nine people remain hospitalized after plane hit fire tuck on runway US politics live – latest updates The pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided wi..."
+      },
+      {
+        "char": "💔",
+        "label": "colombian military plane crash",
+        "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
+        "title": "Colombian military plane with 125 people crashes",
+        "summary": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear."
+      },
+      {
+        "char": "🦙",
+        "label": "attack on capybara in brazil",
+        "url": "https://www.theguardian.com/world/2026/mar/24/brutal-attack-capybara-brazil-eight-arrested",
+        "title": "Eight arrested for ‘brutal’ attack on capybara in Brazil",
+        "summary": "In incident filmed by security cameras in Rio de Janeiro, group of attackers beat animal with sticks and iron bars Police in Rio de Janeiro have arrested eight people for brutally beating a capybara – the world’s largest rodent. Resembli..."
+      },
+      {
+        "char": "⚔️",
+        "label": "jihadist violence in nigeria",
+        "url": "https://www.theguardian.com/world/2026/mar/19/jihadist-violence-nigeria-drc-terrorism-index",
+        "title": "Jihadist violence in Nigeria and DRC rose sharply last year even as global deaths from terror fell",
+        "summary": "Nigeria had largest increase in terrorism-related deaths, ranking fourth in global index behind Pakistan, Burkina Faso and Niger Jihadist violence rose sharply in Nigeria and Democratic Republic of Congo last year, even as global deaths..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-23",
-  "timestamp": "2026-03-23T16:42:27Z",
+  "date": "2026-03-24",
+  "timestamp": "2026-03-24T01:17:00Z",
   "emojis": [
     {
-      "char": "🇰🇪",
-      "label": "kenyan ex-foreign minister resurfaces",
-      "url": "https://www.bbc.com/news/articles/c3ex8vglvkxo?at_medium=RSS&at_campaign=rss",
-      "title": "Kenyan ex-foreign minister resurfaces after abduction fears",
-      "summary": "The reported disappearance of Raphael Tuju had led to claims he may have been abducted."
+      "char": "🇦🇴",
+      "label": "russian operation in angola",
+      "url": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
+      "title": "Inside the alleged Russian operation to trigger anti-government protests in Angola",
+      "summary": "A group of Russians and Angolans are going on trial in Angola after being accused of fomenting protests, which they deny."
     },
     {
-      "char": "⚾",
-      "label": "dodgers aim for world series three-peat",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ25oakJNVnNOVUZfeTlRMmc1dUNhRVg3VEZfSkFiMWFXZUYtdE01b0NEV2RCaGY4T3lqcjJOdmxISS1iRnhwdTVIekl1cDh4Nk1CdHNDT180T21yOHk2ZzgxOVJXRXU1dWc1bzJzUWFWNWVDbTVuMFBKRHdyRUY3WVJBY19pUTdWdWdrQTNhclZ0Uk9jMlpBQmh0Yw?oc=5",
-      "title": "Dodgers swing for World Series three-peat in new MLB season - Reuters",
-      "summary": "Dodgers swing for World Series three-peat in new MLB season Reuters"
+      "char": "✈️",
+      "label": "air canada jet collision in ny",
+      "url": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights",
+      "title": "Two pilots killed after Air Canada jet collision at LaGuardia in New York",
+      "summary": "NTSB says investigation under way as nine people remain hospitalized after plane hit fire tuck on runway US politics live – latest updates The pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided wi..."
     },
     {
-      "char": "🇨🇦",
-      "label": "canada's military defends the arctic",
-      "url": "https://www.nytimes.com/2026/03/23/world/canada/canada-arctic-territory-military.html",
-      "title": "Canada’s Military Wants to Prove It Can Defend the High Arctic",
-      "summary": "Canadian soldiers transported M777 howitzers to the High Arctic to show their ability to fight in an increasingly contested part of the world. It did not go as planned."
+      "char": "💔",
+      "label": "colombian military plane crash",
+      "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
+      "title": "Colombian military plane with 125 people crashes",
+      "summary": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear."
     },
     {
-      "char": "🇫🇷",
-      "label": "france's socialists hold power in cities",
-      "url": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
-      "title": "France's Socialists hold on to power in major cities in election boost for mainstream",
-      "summary": "Paris and Marseille are held by the Socialists in local elections which saw the nationalist right win in Nice and certain towns."
+      "char": "🦙",
+      "label": "attack on capybara in brazil",
+      "url": "https://www.theguardian.com/world/2026/mar/24/brutal-attack-capybara-brazil-eight-arrested",
+      "title": "Eight arrested for ‘brutal’ attack on capybara in Brazil",
+      "summary": "In incident filmed by security cameras in Rio de Janeiro, group of attackers beat animal with sticks and iron bars Police in Rio de Janeiro have arrested eight people for brutally beating a capybara – the world’s largest rodent. Resembli..."
     },
     {
-      "char": "🌍",
-      "label": "poorest countries lose uk aid budget",
-      "url": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
-      "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
-      "summary": "UK’s bilateral aid to African countries, which funds areas such as schools and clinics, to be cut by almost £900m by 2028-29 Some of the world’s poorest countries will lose out on UK aid that funds programmes such as schools and clinics,..."
+      "char": "⚔️",
+      "label": "jihadist violence in nigeria",
+      "url": "https://www.theguardian.com/world/2026/mar/19/jihadist-violence-nigeria-drc-terrorism-index",
+      "title": "Jihadist violence in Nigeria and DRC rose sharply last year even as global deaths from terror fell",
+      "summary": "Nigeria had largest increase in terrorism-related deaths, ranking fourth in global index behind Pakistan, Burkina Faso and Niger Jihadist violence rose sharply in Nigeria and Democratic Republic of Congo last year, even as global deaths..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "Today's news reflects a mix of distressing events, including fears of abduction and significant aid cuts to the poorest nations, which evoke a sense of sadness and concern for global welfare.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
