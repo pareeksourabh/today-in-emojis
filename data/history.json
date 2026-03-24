@@ -30491,5 +30491,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-24",
+    "emojis": [
+      {
+        "char": "🚿",
+        "label": "south korea energy-saving drive",
+        "url": "https://www.nytimes.com/2026/03/24/world/asia/south-korea-energy-savings.html",
+        "title": "Take Shorter Showers: South Korea Kicks Off an Energy-Saving Drive",
+        "summary": "President Lee Jae Myung called on the public to cooperate, likening the energy supply disruption caused by the Iran war to the Asian financial crisis and the pandemic."
+      },
+      {
+        "char": "🗳️",
+        "label": "denmark election key issues",
+        "url": "https://www.nytimes.com/2026/03/24/world/europe/denmark-election-mette-frederiksen-greenland.html",
+        "title": "As Denmark Goes to the Polls, Here’s What to Know About the Election and Key Issues",
+        "summary": "President Trump’s threats to take Greenland away from Denmark have lifted Prime Minister Mette Frederiksen, who appeared the front-runner as polls opened."
+      },
+      {
+        "char": "✈️",
+        "label": "colombia military plane crash",
+        "url": "https://www.theguardian.com/world/2026/mar/23/colombia-military-plane-crash",
+        "title": "At least 66 killed after Colombian military plane crashes in southern Amazon",
+        "summary": "Transport plane carrying soldiers and crew crashed shortly after takeoff from Puerto Leguízamo, deep in Colombia’s southern Amazon region A Colombian military transport plane with 121 people on board, mostly soldiers, crashed shortly aft..."
+      },
+      {
+        "char": "📉",
+        "label": "argentina government cuts history",
+        "url": "https://www.nytimes.com/2026/03/24/world/americas/government-cuts-argentina-dirty-war.html",
+        "title": "Government Cuts Gut the Memory of Argentina’s Dirty War",
+        "summary": "Fifty years after the military dictatorship, Argentina’s government is defunding human rights groups and promoting a revisionist account of the junta’s crimes."
+      },
+      {
+        "char": "🐾",
+        "label": "attack on capybara in brazil",
+        "url": "https://www.theguardian.com/world/2026/mar/24/brutal-attack-capybara-brazil-eight-arrested",
+        "title": "Eight arrested for ‘brutal’ attack on capybara in Brazil",
+        "summary": "In incident filmed by security cameras in Rio de Janeiro, group of attackers beat animal with sticks and iron bars Police in Rio de Janeiro have arrested eight people for brutally beating a capybara – the world’s largest rodent. Resembli..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
