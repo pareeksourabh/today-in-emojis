@@ -30447,5 +30447,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-24",
+    "emojis": [
+      {
+        "char": "🇦🇺",
+        "label": "europe clinches trade deal with australia",
+        "url": "https://www.nytimes.com/2026/03/24/world/europe/europe-australian-trade-deal.html",
+        "title": "Europe Clinches Critical Mineral Access With Australian Trade Deal",
+        "summary": "The European Union and Australia have shaken hands on a trade deal that would improve access to aluminum, lithium and other critical minerals for the 27-nation bloc."
+      },
+      {
+        "char": "✈️",
+        "label": "laGuardia crash kills two pilots",
+        "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
+        "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
+        "summary": "Leo Medina, who was on another plane on the tarmac when the crash happened, told the BBC what he saw."
+      },
+      {
+        "char": "💣",
+        "label": "north korea justifies nuclear arsenal",
+        "url": "https://www.nytimes.com/2026/03/23/world/asia/north-korea-kim-iran-nuclear.html",
+        "title": "How North Korea’s Kim Jong-un Is Using the Iran War to Justify His Nuclear Arsenal",
+        "summary": "He delivered a lengthy speech at his country’s rubber-stamp Parliament, declaring that his nuclear power will shield his country from American hostility."
+      },
+      {
+        "char": "🐒",
+        "label": "mountain gorillas welcome new twins",
+        "url": "https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe",
+        "title": "‘Extraordinary event’ for mountain gorillas as new twins born in DRC",
+        "summary": "Conservationists celebrate second twin birth just two months after another found in Virunga national park A second set of mountain gorilla twins has been born in Virunga national park in the Democratic Republic of the Congo (DRC), in wha..."
+      },
+      {
+        "char": "🩺",
+        "label": "strike on sudan hospital kills many",
+        "url": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
+        "title": "Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports",
+        "summary": "Victims of army drone attack on East Darfur health facility included children and medical personnel A strike on a healthcare facility in Sudan has killed 64 people and wounded 89 more, the World Health Organization reported on Saturday...."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
