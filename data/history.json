@@ -30667,5 +30667,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-25",
+    "emojis": [
+      {
+        "char": "🇩🇰",
+        "label": "danish pm fails to secure majority",
+        "url": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
+        "title": "Danish PM fails to secure majority in party's weakest election showing since 1903",
+        "summary": "The party, which has been in power since 2019, gained the most votes but faces tough talks on forming a new government."
+      },
+      {
+        "char": "💔",
+        "label": "poorest countries lose uk aid",
+        "url": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
+        "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
+        "summary": "UK’s bilateral aid to African countries, which funds areas such as schools and clinics, to be cut by almost £900m by 2028-29 Some of the world’s poorest countries will lose out on UK aid that funds programmes such as schools and clinics,..."
+      },
+      {
+        "char": "🎬",
+        "label": "colbert to write new lotr film",
+        "url": "https://www.bbc.com/news/articles/c33ldp22833o?at_medium=RSS&at_campaign=rss",
+        "title": "Talk show host Stephen Colbert to write new Lord of the Rings film",
+        "summary": "Colbert, who is a Tolkien superfan, will adapt an early section of the first Lord of the Rings novel."
+      },
+      {
+        "char": "🗳️",
+        "label": "democrats flip florida state seat",
+        "url": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss",
+        "title": "Democrats flip Florida state seat that includes Trump's Mar-a-Lago home",
+        "summary": "Emily Gregory’s projected victory comes in a legislative district which a Republican candidate won by 19 percentage points in 2024."
+      },
+      {
+        "char": "🦍",
+        "label": "twins born to mountain gorillas",
+        "url": "https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe",
+        "title": "‘Extraordinary event’ for mountain gorillas as new twins born in DRC",
+        "summary": "Conservationists celebrate second twin birth just two months after another set discovered in Virunga national park A second set of mountain gorilla twins has been born in Virunga national park in the Democratic Republic of the Congo (DRC..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
