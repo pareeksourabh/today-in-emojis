@@ -30623,5 +30623,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-25",
+    "emojis": [
+      {
+        "char": "🐄",
+        "label": "us military bombed dairy farm",
+        "url": "https://www.nytimes.com/2026/03/24/world/americas/us-ecuador-drug-camp-bombing-dairy-farm.html",
+        "title": "The U.S. Military Said It Helped Bomb a Drug Camp in Ecuador. It Was a Dairy Farm.",
+        "summary": "The Times visited a village where the United States and Ecuador said they destroyed an armed group’s training camp. Residents said it was actually a dairy farm."
+      },
+      {
+        "char": "🏥",
+        "label": "strike on sudan hospital",
+        "url": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
+        "title": "Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports",
+        "summary": "Victims of army drone attack on East Darfur health facility included children and medical personnel A strike on a healthcare facility in Sudan has killed 64 people and wounded 89 more, the World Health Organization reported on Saturday...."
+      },
+      {
+        "char": "🌍",
+        "label": "ukraine shields energy from drones",
+        "url": "https://www.nytimes.com/2026/03/24/world/europe/ukraine-middle-east-oil-and-gas-drones.html",
+        "title": "Ukraine Spent Big to Shield Energy Industry From Drones. Is the Mideast Next?",
+        "summary": "With the use of electronic jamming systems and interceptor drones, the Ukrainian national oil and gas company may be a model for others."
+      },
+      {
+        "char": "🦍",
+        "label": "mountain gorillas twins born",
+        "url": "https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe",
+        "title": "‘Extraordinary event’ for mountain gorillas as new twins born in DRC",
+        "summary": "Conservationists celebrate second twin birth just two months after another set discovered in Virunga national park A second set of mountain gorilla twins has been born in Virunga national park in the Democratic Republic of the Congo (DRC..."
+      },
+      {
+        "char": "✈️",
+        "label": "laGuardia pilots raised safety alarms",
+        "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+        "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+        "summary": "Nasa reports show repeated warnings of close calls before crash that killed two pilots and injured 41 others Sign up for the Breaking News US email to get newsletter alerts in your inbox Pilot safety concerns about New York ’s LaGuardia..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
