@@ -30579,5 +30579,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-25",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "canadian flight attendant survives crash",
+        "url": "https://www.theguardian.com/us-news/2026/mar/23/canadian-flight-attendant-survives-new-york-plane-crash-laguardia",
+        "title": "‘A miracle’: Canadian flight attendant ejected from plane survives New York crash",
+        "summary": "Solange Tremblay was ejected over 100 metres from the plane after collision at LaGuardia airport, her daughter says Two pilots killed after Air Canada jet collision at LaGuardia in New York Sign up for the Breaking News US newsletter ema..."
+      },
+      {
+        "char": "💰",
+        "label": "oil price could trigger recession",
+        "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
+        "title": "Oil at $150 will trigger global recession, says boss of financial giant BlackRock",
+        "summary": "Larry Fink says if oil prices stay high for a sustained period it will have \"profound implications\" for the world economy."
+      },
+      {
+        "char": "🕊️",
+        "label": "investigators probe attacks on jewish sites",
+        "url": "https://www.nytimes.com/2026/03/24/world/europe/attacks-jewish-sites-europe.html",
+        "title": "Investigators Seek Answers in Attacks on Jewish Sites in Europe",
+        "summary": "Attacks on schools and property in several countries have Jewish communities on edge, amid suspicions that Iran is behind the violence."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran war affects everyday life in asia",
+        "url": "https://www.bbc.com/news/articles/c1450zj6n48o?at_medium=RSS&at_campaign=rss",
+        "title": "Everyday life in Asia is being upended by Iran war fuel crisis",
+        "summary": "Asia relies heavily on oil and gas from the Gulf, and shortages and higher prices are starting to bite."
+      },
+      {
+        "char": "🦍",
+        "label": "mountain gorillas welcome new twins",
+        "url": "https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe",
+        "title": "‘Extraordinary event’ for mountain gorillas as new twins born in DRC",
+        "summary": "Conservationists celebrate second twin birth just two months after another set discovered in Virunga national park A second set of mountain gorilla twins has been born in Virunga national park in the Democratic Republic of the Congo (DRC..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
