@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-24",
-  "timestamp": "2026-03-24T16:47:27Z",
+  "date": "2026-03-25",
+  "timestamp": "2026-03-25T01:21:45Z",
   "emojis": [
     {
-      "char": "🚿",
-      "label": "south korea energy-saving drive",
-      "url": "https://www.nytimes.com/2026/03/24/world/asia/south-korea-energy-savings.html",
-      "title": "Take Shorter Showers: South Korea Kicks Off an Energy-Saving Drive",
-      "summary": "President Lee Jae Myung called on the public to cooperate, likening the energy supply disruption caused by the Iran war to the Asian financial crisis and the pandemic."
+      "char": "🇺🇦",
+      "label": "ukraine shields energy from drones",
+      "url": "https://www.nytimes.com/2026/03/24/world/europe/ukraine-middle-east-oil-and-gas-drones.html",
+      "title": "Ukraine Spent Big to Shield Energy Industry From Drones. Is the Mideast Next?",
+      "summary": "With the use of electronic jamming systems and interceptor drones, the Ukrainian national oil and gas company may be a model for others."
     },
     {
-      "char": "🗳️",
-      "label": "denmark election key issues",
-      "url": "https://www.nytimes.com/2026/03/24/world/europe/denmark-election-mette-frederiksen-greenland.html",
-      "title": "As Denmark Goes to the Polls, Here’s What to Know About the Election and Key Issues",
-      "summary": "President Trump’s threats to take Greenland away from Denmark have lifted Prime Minister Mette Frederiksen, who appeared the front-runner as polls opened."
+      "char": "💰",
+      "label": "blackrock warns of oil recession",
+      "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
+      "title": "Oil at $150 will trigger global recession, says boss of financial giant BlackRock",
+      "summary": "Larry Fink says if oil prices stay high for a sustained period it will have \"profound implications\" for the world economy."
+    },
+    {
+      "char": "🏥",
+      "label": "bolsonaro granted house arrest",
+      "url": "https://www.theguardian.com/world/2026/mar/24/brazil-jair-bolsonaro-house-arrest-health",
+      "title": "Jailed Bolsonaro granted ‘humanitarian house arrest’ amid failing health",
+      "summary": "Former Brazil president, serving 27 years over attempted coup, given initial 90-day period that could be extended Sign up for the Breaking News US email to get newsletter alerts in your inbox Brazil ’s former president Jair Bolsonaro has..."
+    },
+    {
+      "char": "⚖️",
+      "label": "tanzania woman freed from death row",
+      "url": "https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row",
+      "title": "Woman has sentence quashed by Tanzania court after over a decade on death row",
+      "summary": "Lemi Limbu, who has severe intellectual disabilities, remains in prison and will now face retrial for the murder of her daughter A woman with severe intellectual disabilities in Tanzania has had her conviction and death sentence quashed..."
     },
     {
       "char": "✈️",
-      "label": "colombia military plane crash",
-      "url": "https://www.theguardian.com/world/2026/mar/23/colombia-military-plane-crash",
-      "title": "At least 66 killed after Colombian military plane crashes in southern Amazon",
-      "summary": "Transport plane carrying soldiers and crew crashed shortly after takeoff from Puerto Leguízamo, deep in Colombia’s southern Amazon region A Colombian military transport plane with 121 people on board, mostly soldiers, crashed shortly aft..."
-    },
-    {
-      "char": "📉",
-      "label": "argentina government cuts history",
-      "url": "https://www.nytimes.com/2026/03/24/world/americas/government-cuts-argentina-dirty-war.html",
-      "title": "Government Cuts Gut the Memory of Argentina’s Dirty War",
-      "summary": "Fifty years after the military dictatorship, Argentina’s government is defunding human rights groups and promoting a revisionist account of the junta’s crimes."
-    },
-    {
-      "char": "🐾",
-      "label": "attack on capybara in brazil",
-      "url": "https://www.theguardian.com/world/2026/mar/24/brutal-attack-capybara-brazil-eight-arrested",
-      "title": "Eight arrested for ‘brutal’ attack on capybara in Brazil",
-      "summary": "In incident filmed by security cameras in Rio de Janeiro, group of attackers beat animal with sticks and iron bars Police in Rio de Janeiro have arrested eight people for brutally beating a capybara – the world’s largest rodent. Resembli..."
+      "label": "canadian flight attendant survives crash",
+      "url": "https://www.theguardian.com/us-news/2026/mar/23/canadian-flight-attendant-survives-new-york-plane-crash-laguardia",
+      "title": "‘A miracle’: Canadian flight attendant ejected from plane survives New York crash",
+      "summary": "Solange Tremblay was ejected over 100 metres from the plane after collision at LaGuardia airport, her daughter says Two pilots killed after Air Canada jet collision at LaGuardia in New York Sign up for the Breaking News US newsletter ema..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "The day is marked by tragic events, including a devastating plane crash in Colombia and the brutal attack on a capybara, reflecting deep sadness and concern for both human and animal welfare.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
