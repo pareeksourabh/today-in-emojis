@@ -30755,5 +30755,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-26",
+    "emojis": [
+      {
+        "char": "🎬",
+        "label": "colbert to write new lotr film",
+        "url": "https://www.bbc.com/news/articles/c33ldp22833o?at_medium=RSS&at_campaign=rss",
+        "title": "Talk show host Stephen Colbert to write new Lord of the Rings film",
+        "summary": "Colbert, who is a Tolkien superfan, will adapt an early section of the first Lord of the Rings novel."
+      },
+      {
+        "char": "⚖️",
+        "label": "jury verdict in meta and google case",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeUpHYUEycEFLcmJvUGdQQ1lkUVdodUxzRE5meWtaUDdZcjc4MlZDc2Q5XzhiTXgtdXJXZUkzQ0YweWNQVGVUWjU1bkJKWG94UmUxTDZ4bUR6NXJvU05sNkhRczB2MXA4VDRhX0pHNVZZLVFOeGZYNWVzMHlQcmJnN0tCczlXMkZlU21ld05meWJaSFlHeGtYVDVuZjAtSk1UM3VfS1RMa2QyZWlrMHBpbw?oc=5",
+        "title": "What did jury decide in social media case against Meta and Google? - Reuters",
+        "summary": "What did jury decide in social media case against Meta and Google? Reuters"
+      },
+      {
+        "char": "✈️",
+        "label": "laguardia pilots raised safety alarms",
+        "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+        "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+        "summary": "Nasa reports show repeated warnings of close calls before crash that killed two pilots and injured 41 others Sign up for the Breaking News US email to get newsletter alerts in your inbox Pilot safety concerns about New York ’s LaGuardia..."
+      },
+      {
+        "char": "🏥",
+        "label": "strike on sudan hospital kills many",
+        "url": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
+        "title": "Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports",
+        "summary": "Victims of army drone attack on East Darfur health facility included children and medical personnel A strike on a healthcare facility in Sudan has killed 64 people and wounded 89 more, the World Health Organization reported on Saturday...."
+      },
+      {
+        "char": "🐶",
+        "label": "earliest-known dog identified",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcWxzQXl1QnRnMkRLTmhLY1luSVMtV3pHVko5M0xyRV9HeWFEanQ3ODVsUHFfQk1oRGdIWExfTWt5Rnk2UURzSmFFME56LU10ejFmQllTaHVzM3FFTTJaTTVPSWhBd2xuUGFTLUtENUJyeTgwWGVzQlVrR2dkeV9uS0s1R3U3SFcxd0pjdlJjRHAzb2FtRTZOZVo4MndWc1BHSF9laGZ5THJmTUN1bkNv?oc=5",
+        "title": "Genetic study identifies earliest-known dog, dating to 15,800 years ago - Reuters",
+        "summary": "Genetic study identifies earliest-known dog, dating to 15,800 years ago Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
