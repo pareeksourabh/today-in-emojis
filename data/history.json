@@ -30887,5 +30887,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-26",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "how conflict reshapes flying",
+        "url": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss",
+        "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
+        "summary": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear."
+      },
+      {
+        "char": "⚖️",
+        "label": "canadian mother warns immigrants",
+        "url": "https://www.theguardian.com/us-news/2026/mar/24/canadian-mother-detention-warns-immigrants",
+        "title": "Canadian woman held with daughter by ICE warns all immigrants to ‘lie low’",
+        "summary": "Tania Warner says she has documents showing she is in the US legally, but immigration agents were not swayed Sign up for the Breaking News US email to get newsletter alerts in your inbox A Canadian woman who has been imprisoned with her..."
+      },
+      {
+        "char": "🚨",
+        "label": "bolsonaro granted house arrest",
+        "url": "https://www.theguardian.com/world/2026/mar/24/brazil-jair-bolsonaro-house-arrest-health",
+        "title": "Jailed Bolsonaro granted ‘humanitarian house arrest’ amid failing health",
+        "summary": "Former Brazil president, serving 27 years over attempted coup, given initial 90-day period that could be extended Sign up for the Breaking News US email to get newsletter alerts in your inbox Brazil ’s former president Jair Bolsonaro has..."
+      },
+      {
+        "char": "🎭",
+        "label": "lawsuit over lion king chant",
+        "url": "https://www.theguardian.com/culture/2026/mar/25/ebo-m-lion-king-circle-of-life-chant-learnmore-jonasi-lawsuit",
+        "title": "Lebo M sues comedian Learnmore Jonasi claiming Circle of Life misrepresentation",
+        "summary": "Grammy winner seeks more than $20m in damages over mistranslation of The Lion King chant A Grammy-winning South African composer who wrote and performed the opening chant in Circle of Life for Disney’s The Lion King is suing a comedian f..."
+      },
+      {
+        "char": "🦍",
+        "label": "twins born to mountain gorillas",
+        "url": "https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe",
+        "title": "‘Extraordinary event’ for mountain gorillas as new twins born in DRC",
+        "summary": "Conservationists celebrate second twin birth just two months after another set discovered in Virunga national park A second set of mountain gorilla twins has been born in Virunga national park in the Democratic Republic of the Congo (DRC..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
