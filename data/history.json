@@ -30931,5 +30931,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-26",
+    "emojis": [
+      {
+        "char": "🇨🇺",
+        "label": "cuban patients suffer from blockade",
+        "url": "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html",
+        "title": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say",
+        "summary": "Cuban health care was once the pride of the island. Now the U.S. oil blockade is upending even basic medical care."
+      },
+      {
+        "char": "🇳🇬",
+        "label": "nigeria aims for regional superpower status",
+        "url": "https://www.theguardian.com/news/2026/mar/26/nigeria-regional-superpower-uk-reparative-justice-trade-economic-ties",
+        "title": "Nigeria takes its place on world stage in quest to become regional superpower",
+        "summary": "Nigeria and UK look to strengthen trade and economic ties amid growing calls from Africa and Caribbean for reparative justice “There are chapters in our shared history that I know have left some painful marks,” King Charles said during a..."
+      },
+      {
+        "char": "✈️",
+        "label": "air canada ceo apologizes for crash message",
+        "url": "https://www.bbc.com/news/articles/cgrlnw70xyko?at_medium=RSS&at_campaign=rss",
+        "title": "Air Canada CEO 'deeply saddened' his poor French skills distracted from victims of crash",
+        "summary": "Michael Rousseau has faced calls to resign for not speaking French in his message after the LaGuardia crash, which killed two Air Canada pilots."
+      },
+      {
+        "char": "🤖",
+        "label": "russian lawmakers visit us post-ukraine invasion",
+        "url": "https://www.nytimes.com/2026/03/26/world/europe/russia-us-talks-ukraine-sanctions.html",
+        "title": "Russian Lawmakers Go to U.S. for First Time Since Invasion of Ukraine",
+        "summary": "The State Department had to lift sanctions on Russian lawmakers invited by a Kremlin-friendly member of Congress."
+      },
+      {
+        "char": "💔",
+        "label": "drone strikes kill civilians in sudan",
+        "url": "https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck",
+        "title": "Two drone strikes on civilian targets kill 28 people in Sudan",
+        "summary": "Market in North Darfur and truck carrying civilians in North Kordofan hit as civil war approaches fourth year At least 28 civilians have been killed in two separate drone strikes in Sudan, according to health workers, as the country’s br..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
