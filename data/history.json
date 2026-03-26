@@ -30843,5 +30843,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-26",
+    "emojis": [
+      {
+        "char": "🛩️",
+        "label": "canadian flight attendant survives crash",
+        "url": "https://www.theguardian.com/us-news/2026/mar/23/canadian-flight-attendant-survives-new-york-plane-crash-laguardia",
+        "title": "‘A miracle’: Canadian flight attendant ejected from plane survives New York crash",
+        "summary": "Solange Tremblay was ejected over 100 metres from the plane after collision at LaGuardia airport, her daughter says Two pilots killed after Air Canada jet collision at LaGuardia in New York Sign up for the Breaking News US newsletter ema..."
+      },
+      {
+        "char": "🌍",
+        "label": "un votes on slave trade as crime",
+        "url": "https://www.theguardian.com/news/2026/mar/25/un-votes-slave-trade-gravest-crime-against-humanity-reparatory-justice",
+        "title": "UN votes to describe slave trade as ‘gravest crime against humanity’",
+        "summary": "Members call for reparatory justice as landmark resolution aims for ‘political recognition at the highest level’ The United Nations has voted to describe the transatlantic chattel slave trade as the “gravest crime against humanity” and c..."
+      },
+      {
+        "char": "🐒",
+        "label": "mountain gorillas welcome new twins",
+        "url": "https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe",
+        "title": "‘Extraordinary event’ for mountain gorillas as new twins born in DRC",
+        "summary": "Conservationists celebrate second twin birth just two months after another set discovered in Virunga national park A second set of mountain gorilla twins has been born in Virunga national park in the Democratic Republic of the Congo (DRC..."
+      },
+      {
+        "char": "🇺🇦",
+        "label": "zelenskyy on us security guarantees",
+        "url": "https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas",
+        "title": "Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas",
+        "summary": "Ukrainian president says peace deal proposed by US includes handing over land to Russia. What we know on day 1,492 Continue reading..."
+      },
+      {
+        "char": "📚",
+        "label": "chinese influencer's death sparks grief",
+        "url": "https://www.nytimes.com/2026/03/26/world/asia/chinese-influencer-zhang-death.html",
+        "title": "Chinese Education Influencer’s Sudden Death Prompts Grief, and Reflection",
+        "summary": "The influencer, Zhang Xuefeng, was known for no-nonsense, some said cynical, advice about how to win in China’s educational rat race. He died at 41."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
