@@ -31019,5 +31019,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-27",
+    "emojis": [
+      {
+        "char": "🧑‍🏫",
+        "label": "chinese influencer's sudden death",
+        "url": "https://www.nytimes.com/2026/03/26/world/asia/chinese-influencer-zhang-death.html",
+        "title": "The Sudden Death of a Man Who Told Chinese Kids How to Succeed",
+        "summary": "The influencer Zhang Xuefeng was known for no-nonsense, some said cynical, advice about how to win in China’s educational rat race. He died at 41."
+      },
+      {
+        "char": "⚖️",
+        "label": "maduro's court battle over wealth",
+        "url": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
+        "title": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
+        "summary": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay lawyers."
+      },
+      {
+        "char": "🏛️",
+        "label": "trump's venezuelan statue dreams",
+        "url": "https://www.theguardian.com/us-news/2026/mar/26/trump-venezuela-statue",
+        "title": "Flatterers out in force to fill Trump’s head with Venezuelan statue dreams",
+        "summary": "President’s popularity top of mind at another weird and wild cabinet meeting – riff on merits of Sharpies included They have become so notorious for displays of flattery and obsequiousness that critics have drawn comparisons with North K..."
+      },
+      {
+        "char": "🚑",
+        "label": "cuban patients dying from blockade",
+        "url": "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html",
+        "title": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say",
+        "summary": "Cuban health care was once the pride of the island. Now the U.S. oil blockade is upending even basic medical care."
+      },
+      {
+        "char": "✈️",
+        "label": "airstrike hits beirut suburbs",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT3diNkFULTBvTEhmWlhrektyWURHbV9wdEwzQ1lsUUZHdGZZODdvd0VtOHhQM3VpUV8zRTQwTEN3Vnh4UzQ5MFJFWUNiMnNDQkRJNklnclprakhuaXFJX1JEem12ckd1ZGpXc3pCQ0VBQjVuTXh5bTFGOE9oRFRWemdjLVJXa2lwQzRPcjg1UEhZelFaRFZqaGQyRWRralIyZWVINUZiZ05JQ25lS3ZLWWlGR1BBMUFhd3VTMzQ4QVI?oc=5",
+        "title": "Airstrike hits building in Beirut's southern suburbs, security sources say - Reuters",
+        "summary": "Airstrike hits building in Beirut's southern suburbs, security sources say Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
