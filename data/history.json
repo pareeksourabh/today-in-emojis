@@ -30975,5 +30975,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-03-27",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "air canada ceo faces backlash",
+        "url": "https://www.theguardian.com/us-news/2026/mar/26/air-canada-apology-rousseau-lga-plane-crash",
+        "title": "Lawmakers call for Air Canada chief to resign after English-only message to plane crash victims",
+        "summary": "Quebec’s legislature passes vote calling on Michael Rousseau to step down, citing ‘lack of respect for the French language’ and families in mourning Sign up for the Breaking News US email to get newsletter alerts in your inbox The chief..."
+      },
+      {
+        "char": "⚖️",
+        "label": "un votes on slave trade justice",
+        "url": "https://www.theguardian.com/news/2026/mar/25/un-votes-slave-trade-gravest-crime-against-humanity-reparatory-justice",
+        "title": "UN votes to describe slave trade as ‘gravest crime against humanity’",
+        "summary": "Members call for reparatory justice as landmark resolution aims for ‘political recognition at the highest level’ The United Nations has voted to describe the transatlantic chattel slave trade as the “gravest crime against humanity” and c..."
+      },
+      {
+        "char": "🎭",
+        "label": "lion king lawsuit filed",
+        "url": "https://www.theguardian.com/culture/2026/mar/25/ebo-m-lion-king-circle-of-life-chant-learnmore-jonasi-lawsuit",
+        "title": "Lebo M sues comedian Learnmore Jonasi claiming Circle of Life misrepresentation",
+        "summary": "Grammy winner seeks more than $20m in damages over mistranslation of The Lion King chant A Grammy-winning South African composer who wrote and performed the opening chant in Circle of Life for Disney’s The Lion King is suing a comedian f..."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "trump's venezuelan statue dreams",
+        "url": "https://www.theguardian.com/us-news/2026/mar/26/trump-venezuela-statue",
+        "title": "Flatterers out in force to fill Trump’s head with Venezuelan statue dreams",
+        "summary": "President’s popularity top of mind at another weird and wild cabinet meeting – riff on merits of Sharpies included They have become so notorious for displays of flattery and obsequiousness that critics have drawn comparisons with North K..."
+      },
+      {
+        "char": "🏥",
+        "label": "cuban health crisis worsens",
+        "url": "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html",
+        "title": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say",
+        "summary": "Cuban health care was once the pride of the island. Now the U.S. oil blockade is upending even basic medical care."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

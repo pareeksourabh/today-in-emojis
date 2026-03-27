@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-26",
-  "timestamp": "2026-03-26T17:02:19Z",
+  "date": "2026-03-27",
+  "timestamp": "2026-03-27T01:26:53Z",
   "emojis": [
     {
-      "char": "🇨🇺",
-      "label": "cuban patients suffer from blockade",
+      "char": "✈️",
+      "label": "air canada ceo faces backlash",
+      "url": "https://www.theguardian.com/us-news/2026/mar/26/air-canada-apology-rousseau-lga-plane-crash",
+      "title": "Lawmakers call for Air Canada chief to resign after English-only message to plane crash victims",
+      "summary": "Quebec’s legislature passes vote calling on Michael Rousseau to step down, citing ‘lack of respect for the French language’ and families in mourning Sign up for the Breaking News US email to get newsletter alerts in your inbox The chief..."
+    },
+    {
+      "char": "⚖️",
+      "label": "un votes on slave trade justice",
+      "url": "https://www.theguardian.com/news/2026/mar/25/un-votes-slave-trade-gravest-crime-against-humanity-reparatory-justice",
+      "title": "UN votes to describe slave trade as ‘gravest crime against humanity’",
+      "summary": "Members call for reparatory justice as landmark resolution aims for ‘political recognition at the highest level’ The United Nations has voted to describe the transatlantic chattel slave trade as the “gravest crime against humanity” and c..."
+    },
+    {
+      "char": "🎭",
+      "label": "lion king lawsuit filed",
+      "url": "https://www.theguardian.com/culture/2026/mar/25/ebo-m-lion-king-circle-of-life-chant-learnmore-jonasi-lawsuit",
+      "title": "Lebo M sues comedian Learnmore Jonasi claiming Circle of Life misrepresentation",
+      "summary": "Grammy winner seeks more than $20m in damages over mistranslation of The Lion King chant A Grammy-winning South African composer who wrote and performed the opening chant in Circle of Life for Disney’s The Lion King is suing a comedian f..."
+    },
+    {
+      "char": "🇻🇪",
+      "label": "trump's venezuelan statue dreams",
+      "url": "https://www.theguardian.com/us-news/2026/mar/26/trump-venezuela-statue",
+      "title": "Flatterers out in force to fill Trump’s head with Venezuelan statue dreams",
+      "summary": "President’s popularity top of mind at another weird and wild cabinet meeting – riff on merits of Sharpies included They have become so notorious for displays of flattery and obsequiousness that critics have drawn comparisons with North K..."
+    },
+    {
+      "char": "🏥",
+      "label": "cuban health crisis worsens",
       "url": "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html",
       "title": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say",
       "summary": "Cuban health care was once the pride of the island. Now the U.S. oil blockade is upending even basic medical care."
-    },
-    {
-      "char": "🇳🇬",
-      "label": "nigeria aims for regional superpower status",
-      "url": "https://www.theguardian.com/news/2026/mar/26/nigeria-regional-superpower-uk-reparative-justice-trade-economic-ties",
-      "title": "Nigeria takes its place on world stage in quest to become regional superpower",
-      "summary": "Nigeria and UK look to strengthen trade and economic ties amid growing calls from Africa and Caribbean for reparative justice “There are chapters in our shared history that I know have left some painful marks,” King Charles said during a..."
-    },
-    {
-      "char": "✈️",
-      "label": "air canada ceo apologizes for crash message",
-      "url": "https://www.bbc.com/news/articles/cgrlnw70xyko?at_medium=RSS&at_campaign=rss",
-      "title": "Air Canada CEO 'deeply saddened' his poor French skills distracted from victims of crash",
-      "summary": "Michael Rousseau has faced calls to resign for not speaking French in his message after the LaGuardia crash, which killed two Air Canada pilots."
-    },
-    {
-      "char": "🤖",
-      "label": "russian lawmakers visit us post-ukraine invasion",
-      "url": "https://www.nytimes.com/2026/03/26/world/europe/russia-us-talks-ukraine-sanctions.html",
-      "title": "Russian Lawmakers Go to U.S. for First Time Since Invasion of Ukraine",
-      "summary": "The State Department had to lift sanctions on Russian lawmakers invited by a Kremlin-friendly member of Congress."
-    },
-    {
-      "char": "💔",
-      "label": "drone strikes kill civilians in sudan",
-      "url": "https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck",
-      "title": "Two drone strikes on civilian targets kill 28 people in Sudan",
-      "summary": "Market in North Darfur and truck carrying civilians in North Kordofan hit as civil war approaches fourth year At least 28 civilians have been killed in two separate drone strikes in Sudan, according to health workers, as the country’s br..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "The day is marked by tragic news, including civilian casualties in Sudan and the dire health crisis in Cuba, evoking deep sadness and concern for those affected.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
