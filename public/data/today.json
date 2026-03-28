@@ -1,42 +1,43 @@
 {
   "date": "2026-03-28",
+  "timestamp": "2026-03-28T08:43:41Z",
   "emojis": [
     {
-      "char": "🌍",
-      "label": "world",
-      "url": "",
-      "title": "",
-      "summary": ""
+      "char": "⚔️",
+      "label": "us expects to finish iran war soon",
+      "url": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
+      "title": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
+      "summary": "Marco Rubio said US allies were open to helping escort ships through the Strait of Hormuz, which Iran has closed and threatened to charge fees for."
     },
     {
-      "char": "💡",
-      "label": "insight",
-      "url": "",
-      "title": "",
-      "summary": ""
+      "char": "📉",
+      "label": "consumer sentiment drops amid inflation fears",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlZ3aGNndThVZjQ2WklIOG5xeVJ6dHFueGlFemlSekFnMUdtVmw4bm41bUVOWWc4ZlhTb2NWVV9kVTJpRGVLMUpGcWY0dTYxZVhhZEZvU2pPNFRZeWo1WkNjcDZXQTYtUnFuM1NsYU1TUlN2LU5DbEJFU2JZeTdMZ2t0dXJsRC1McGxQVlpJTklKSVpDT1M1T25R?oc=5",
+      "title": "US consumer sentiment slides to three-month low as war fans inflation fears - Reuters",
+      "summary": "US consumer sentiment slides to three-month low as war fans inflation fears Reuters"
     },
     {
-      "char": "🤝",
-      "label": "together",
-      "url": "",
-      "title": "",
-      "summary": ""
+      "char": "🏌️‍♂",
+      "label": "tiger woods charged with dui after crash",
+      "url": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
+      "title": "Tiger Woods charged with driving under influence after crash",
+      "summary": "Tiger Woods, the 15-time golf major champion, is released on bail following his arrest on charges of driving under the influence following a car crash in Florida."
     },
     {
-      "char": "🌱",
-      "label": "growth",
-      "url": "",
-      "title": "",
-      "summary": ""
+      "char": "💻",
+      "label": "iran-backed hackers breach fbi director's emails",
+      "url": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
+      "summary": "A hacker group shares Patel's purported resume and photos - information, the FBI says, is \"historical in nature\"."
     },
     {
-      "char": "😐",
-      "label": "neutral",
-      "url": "",
-      "title": "",
-      "summary": ""
+      "char": "💰",
+      "label": "imf and pakistan reach agreement on funds",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdk9ER2JUcVNlRE9LQU5rSlotWmlZWVBETjdGZW5EdDJGMmZwRzY5NzR0bTV5Q1R1clk2N2gwM3VFbUhjTDJYTUdNQkVJRWc3WEFyQ1ZoYVQzZ25NQ1hCaTdEWEpSUmMtTU9jOEhOZ09SR2lQY3dJRzlqeENLd2w4WWhsQW5LbVI1bFVuRzlGeURlbVJpLXhwTFhpRlQ3LTlwMlFvSzN0bjE5LURyWHN6OXFkQ2NIdkpwVWZF?oc=5",
+      "title": "IMF, Pakistan reach staff-level agreement on $1.2 billion disbursement - Reuters",
+      "summary": "IMF, Pakistan reach staff-level agreement on $1.2 billion disbursement Reuters"
     }
   ],
-  "source": "fallback",
+  "source": "ai-openai",
   "post_type": "normal"
 }
