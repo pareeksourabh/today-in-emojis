@@ -31371,5 +31371,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-28",
+    "emojis": [
+      {
+        "char": "🚢",
+        "label": "mexico finds missing aid boats",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2NPLXpSMHlxOUpneHdESjRUT2lveGFUUk5VN09wSnY3RnVaaUFwQnFaUUVjU3VxcHI4Y0VfTVhMMmFFdTktalJMX2MwSWFOUmhlanhPUTIxVHR5VmU0Vk02RVU4emw0UU1NeTBXUW5TWi1ZY2RXZHhidkY2S0lITDlQSEhUZVZ5b1RiMUIzQmpyMlVDNU5WLTVTMkl5amkxNGM0Rm5FcDc1a19raGo1cjlR?oc=5",
+        "title": "Mexico's navy locates two missing sailboats carrying aid to Cuba, crew safe - Reuters",
+        "summary": "Mexico's navy locates two missing sailboats carrying aid to Cuba, crew safe Reuters"
+      },
+      {
+        "char": "🍞",
+        "label": "russian bakery faces tax hike",
+        "url": "https://www.nytimes.com/2026/03/28/world/europe/russia-economy-small-business-tax-increase.html",
+        "title": "Can This Russian Bakery Survive a 3,500% Tax Increase?",
+        "summary": "The challenges faced by a small-business owner near Moscow highlight how Russia’s war-drained economy is on the doorstep of a major crisis."
+      },
+      {
+        "char": "⚖️",
+        "label": "un ruling on slavery reparations",
+        "url": "https://www.theguardian.com/news/2026/mar/27/un-slavery-ruling-african-union-reparations-slavery-analysis",
+        "title": "UN’s landmark slavery ruling energises African Union’s fight for reparations",
+        "summary": "• UN votes to describe slave trade as ‘gravest crime against humanity’ Despite resistance from states who had role in chattel slavery, many feel this is an idea whose time has come John Mahama knows a thing or two about beating the estab..."
+      },
+      {
+        "char": "🛡️",
+        "label": "kurds join fight in iran",
+        "url": "https://www.nytimes.com/2026/03/28/world/europe/iran-kurds-iraq-fighters.html",
+        "title": "On Iran’s Rugged Frontier, Kurds Yearn to Join the Fight",
+        "summary": "These groups’ dream has long been to establish federal autonomy, akin to that of their fellow Kurds in Iraq. With Iran’s leaders battered and degraded, they hope their moment has come."
+      },
+      {
+        "char": "🌊",
+        "label": "migrants die off greek coast",
+        "url": "https://www.bbc.com/news/articles/cnv8z1lvn8ro?at_medium=RSS&at_campaign=rss",
+        "title": "Twenty-two migrants die off Greek coast after six days at sea",
+        "summary": "Poor weather and a lack of food and water contributed to the deaths, the Greek coastguard says."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
