@@ -31195,5 +31195,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-28",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "tsa workers paycheques amid chaos",
+        "url": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump orders paycheques for TSA workers as Congress stalls and airport chaos grinds on",
+        "summary": "The late-night vote was a step towards bringing the 40-day partial shutdown - and long security lines at US airports - to an end."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "brazil gangs may be labeled terrorists",
+        "url": "https://www.nytimes.com/2026/03/27/world/americas/brazil-gangs-terror-trump-bolsonaro.html",
+        "title": "U.S. May Label Brazilian Gangs as Terror Groups, After Push by the Bolsonaros",
+        "summary": "The Trump administration is weighing declaring Brazil’s two largest drug gangs terrorist groups, after lobbying by the sons of jailed former President Jair Bolsonaro."
+      },
+      {
+        "char": "🎤",
+        "label": "nepal's new rapper prime minister",
+        "url": "https://www.nytimes.com/2026/03/27/world/asia/nepal-balendra-shah-rapper-prime-minister.html",
+        "title": "Nepal’s New Prime Minister, Former Rapper Balendra Shah, Sworn In",
+        "summary": "A leaked report on the deadly violence and mass arson that broke out last year has put the new leader under pressure to ensure accountability."
+      },
+      {
+        "char": "🚢",
+        "label": "cuba-bound aid ships missing",
+        "url": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss",
+        "title": "Two Cuba-bound aid ships missing after leaving Mexico",
+        "summary": "Mexico's navy launches a rescue mission for ships delivering aid to Cuba, strained by food and fuel shortages amid a US embargo."
+      },
+      {
+        "char": "🎢",
+        "label": "disneyland paris expansion creates jobs",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObXFzWUxnSGVISWpVOGl0LWo4NWhQTVY4M1BoanJEQ1pJVHBuamlieTlLNnhfd213VUdmUjhzVzlmb2hZVjN2YnZLWkhKdVM3Y0tfTVZ6XzY1bXl1aUktUGpEZktSWURPa0NWb2F2aFRDU2hiVE1JZ1JzUVlwR0tvR01uZEotVG45WV9NY3ZBOFo1UXVFNC1JeVBzcHdGZw?oc=5",
+        "title": "Expansion of Disneyland Paris will create 1,000 new jobs - Reuters",
+        "summary": "Expansion of Disneyland Paris will create 1,000 new jobs Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
