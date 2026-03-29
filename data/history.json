@@ -31503,5 +31503,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-29",
+    "emojis": [
+      {
+        "char": "🏙️",
+        "label": "the slum in gangnam, seoul",
+        "url": "https://www.nytimes.com/2026/03/29/world/asia/korea-seoul-gangnam-slum.html",
+        "title": "The Slum in Gangnam, the Richest Part of Seoul",
+        "summary": "The city wants to redevelop a shantytown in Gangnam district, where hundreds are defying eviction, fighting for a right to own a home in an area notorious for the exorbitant cost of housing."
+      },
+      {
+        "char": "🥇",
+        "label": "american malinin earns olympic gold",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSU5HaU5reWJWM0xPWnQ0RGgzN3YyTko1MjFZZHhTU3BjQW1fZ25yT2JLNmVkNURQVDBEMGdZbmhOelhqQnc0Tmo1RzZOV3QzcW5uZ2J3NEdhQldSd3BZV0M1U3U1RUQ5ME5lNlZ0U0ZzYmU1UU1oVng2WmlxMkRDamxKWnYtNWpudE5uVC04eW9sRDZ5cnpXMnItUU1pZ1E?oc=5",
+        "title": "American Malinin earns Olympic redemption with world gold - Reuters",
+        "summary": "American Malinin earns Olympic redemption with world gold Reuters"
+      },
+      {
+        "char": "💣",
+        "label": "iran missile strikes show power",
+        "url": "https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html",
+        "title": "A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.",
+        "summary": "A wave of strikes across the Middle East in recent days shows that Iran has not lost the capacity to retaliate."
+      },
+      {
+        "char": "📰",
+        "label": "lebanese family mourns child killed",
+        "url": "https://www.bbc.com/news/articles/c62lx8ek9x9o?at_medium=RSS&at_campaign=rss",
+        "title": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike",
+        "summary": "Jawad Younes and his uncle Ragheb were laid to rest on Saturday after their family compound was hit a day earlier."
+      },
+      {
+        "char": "🤝",
+        "label": "ukraine defense deal with uae, qatar",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMExaUVg0ODN5bkEzcEc0Z2NFN3NmSS03UjdMclZDYWc4V3BxSnhpbWMtZ2FmREo5akhIdEZ3NUU3MjRUdHJlUElOV3d2LVltM09HZFo1WEc5S0dmVFBiZ0t1b2YzOUhrQjRFSW1UWkZ0RkhIYWk4RW5PaDU3dW8zOWhydkJrdHRLNG4zTW9qaE55akxQWDhNaVN3amNieEtTSWsybWU3dw?oc=5",
+        "title": "Ukraine agrees defence cooperation with UAE, Qatar as Zelenskiy visits Gulf - Reuters",
+        "summary": "Ukraine agrees defence cooperation with UAE, Qatar as Zelenskiy visits Gulf Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
