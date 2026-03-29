@@ -31459,5 +31459,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-29",
+    "emojis": [
+      {
+        "char": "💥",
+        "label": "airstrikes in tehran",
+        "url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/airstrikes-university-tehran",
+        "title": "Airstrikes batter a university and residential zones in Tehran.",
+        "summary": ""
+      },
+      {
+        "char": "🎾",
+        "label": "sabalenka wins sunshine double",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMlB5VXhWWnkyb3lyRElqNnN6QXBtUnhQQlJIREtIODlNellOZy1qTm94SHFaLWVQZUItTFpkUXpmSlM4cDhQTkh2cGlGeUlEVm1kX200emRSTU9pWGlXdUxrNzY2RWE1RjhrOVNsZjdZX2tXaVdwU2RhRi1VV2ctOGlSYVBBeWZKbzVWa3QyNU5PQUFEMEt4aWxnZURCNlNjemprLTBxVkQ3blpvc1E?oc=5",
+        "title": "Sabalenka beats Gauff in Miami tennis final, completes 'Sunshine Double' - Reuters",
+        "summary": "Sabalenka beats Gauff in Miami tennis final, completes 'Sunshine Double' Reuters"
+      },
+      {
+        "char": "🚤",
+        "label": "missing aid boats to cuba",
+        "url": "https://www.theguardian.com/world/2026/mar/27/cuba-humanitarian-aid-boats-missing",
+        "title": "Two humanitarian aid boats heading to Cuba have gone missing, Mexico says",
+        "summary": "Navy searching for two boats that left Isla Mujeres last week bound for Havana with nine crew members of different nationalities on board Mexico’s navy said on Thursday it had activated a search-and-rescue operation in the Caribbean to l..."
+      },
+      {
+        "char": "🐋",
+        "label": "whales help during birth",
+        "url": "https://www.theguardian.com/environment/2026/mar/27/scientists-film-whale-giving-birth-other-whales-help-her",
+        "title": "Scientists film whale giving birth while other whales work together to help her",
+        "summary": "Female named Rounder surrounded by family members when about to give birth to her second calf Scientists have managed to film a sperm whale giving birth while other female whales worked together to support the mother and her newborn. A t..."
+      },
+      {
+        "char": "🏙️",
+        "label": "name change stirs tensions",
+        "url": "https://www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions",
+        "title": "Goodbye Graaff-Reinet: South African town’s name change stirs racial tensions",
+        "summary": "Minister’s decision to ditch town’s colonial-era identity and honour anti-apartheid activist divides residents A South African town is divided over changing its name from the colonial-era Graaff-Reinet to Robert Sobukwe, after the anti-a..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
