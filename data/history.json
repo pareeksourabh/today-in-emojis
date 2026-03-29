@@ -31547,5 +31547,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-29",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "venezuela torture claims at prison",
+        "url": "https://www.theguardian.com/world/2026/mar/26/cecot-human-rights-petition",
+        "title": "Venezuelans deported by US detail fresh claims of torture and abuse at El Salvador mega-prison",
+        "summary": "Petition seeks accountability from Salvadorian authorities over human rights violations at notorious Cecot facility A group of 18 Venezuelan men whom the US expelled a notorious Salvadorian mega-prison are demanding that Salvadorian auth..."
+      },
+      {
+        "char": "🛡️",
+        "label": "ukraine air defense deals finalized",
+        "url": "https://www.nytimes.com/2026/03/28/world/europe/ukraine-air-defense-deal-qatar-saudi-arabia.html",
+        "title": "Ukraine Finalizes Air Defense Deals With Gulf Nations Amid War in Mideast",
+        "summary": "The Ukrainian president visited the Middle East, where he sought to shift his country from a recipient of military aid to a supplier."
+      },
+      {
+        "char": "🎨",
+        "label": "african guernica on display",
+        "url": "https://www.theguardian.com/artanddesign/2026/mar/27/african-guernica-dumile-feni-on-display-alongside-picasso",
+        "title": "‘The violence of racist tyranny’: African Guernica goes on display alongside Picasso masterpiece",
+        "summary": "Piece by late South African artist Dumile Feni is part of new series History Doesn’t Repeat Itself, But It Does Rhyme On the second floor of the Reina Sofía, in the very spot where Picasso’s Guernica was first exhibited when it arrived i..."
+      },
+      {
+        "char": "🚢",
+        "label": "missing aid boats to cuba",
+        "url": "https://www.theguardian.com/world/2026/mar/27/cuba-humanitarian-aid-boats-missing",
+        "title": "Two humanitarian aid boats heading to Cuba have gone missing, Mexico says",
+        "summary": "Navy searching for two boats that left Isla Mujeres last week bound for Havana with nine crew members of different nationalities on board Mexico’s navy said on Thursday it had activated a search-and-rescue operation in the Caribbean to l..."
+      },
+      {
+        "char": "🎾",
+        "label": "sabalenka wins miami tennis final",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMlB5VXhWWnkyb3lyRElqNnN6QXBtUnhQQlJIREtIODlNellOZy1qTm94SHFaLWVQZUItTFpkUXpmSlM4cDhQTkh2cGlGeUlEVm1kX200emRSTU9pWGlXdUxrNzY2RWE1RjhrOVNsZjdZX2tXaVdwU2RhRi1VV2ctOGlSYVBBeWZKbzVWa3QyNU5PQUFEMEt4aWxnZURCNlNjemprLTBxVkQ3blpvc1E?oc=5",
+        "title": "Sabalenka beats Gauff in Miami tennis final, completes 'Sunshine Double' - Reuters",
+        "summary": "Sabalenka beats Gauff in Miami tennis final, completes 'Sunshine Double' Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
