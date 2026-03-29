@@ -1,64 +1,43 @@
 {
-  "date": "2026-03-28",
-  "timestamp": "2026-03-28T16:19:02Z",
+  "date": "2026-03-29",
+  "timestamp": "2026-03-29T01:42:59Z",
   "emojis": [
     {
+      "char": "🇳🇬",
+      "label": "nigeria aims for regional superpower status",
+      "url": "https://www.theguardian.com/news/2026/mar/26/nigeria-regional-superpower-uk-reparative-justice-trade-economic-ties",
+      "title": "Nigeria takes its place on world stage in quest to become regional superpower",
+      "summary": "Nigeria and UK look to strengthen trade and economic ties amid growing calls from Africa and Caribbean for reparative justice “There are chapters in our shared history that I know have left some painful marks,” King Charles said during a..."
+    },
+    {
+      "char": "🇺🇦",
+      "label": "zelenskyy on us security guarantees",
+      "url": "https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas",
+      "title": "Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas",
+      "summary": "Ukrainian president says peace deal proposed by US includes handing over land to Russia. What we know on day 1,492 Continue reading..."
+    },
+    {
       "char": "🚢",
-      "label": "mexico finds missing aid boats",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2NPLXpSMHlxOUpneHdESjRUT2lveGFUUk5VN09wSnY3RnVaaUFwQnFaUUVjU3VxcHI4Y0VfTVhMMmFFdTktalJMX2MwSWFOUmhlanhPUTIxVHR5VmU0Vk02RVU4emw0UU1NeTBXUW5TWi1ZY2RXZHhidkY2S0lITDlQSEhUZVZ5b1RiMUIzQmpyMlVDNU5WLTVTMkl5amkxNGM0Rm5FcDc1a19raGo1cjlR?oc=5",
-      "title": "Mexico's navy locates two missing sailboats carrying aid to Cuba, crew safe - Reuters",
-      "summary": "Mexico's navy locates two missing sailboats carrying aid to Cuba, crew safe Reuters"
+      "label": "missing aid boats reach cuba safely",
+      "url": "https://www.theguardian.com/world/2026/mar/27/cuba-aid-boats-missing-en-route-mexico-our-america-convoy",
+      "title": "Missing aid boats have safely reached Cuba, US confirms",
+      "summary": "Two convoy vessels that were supposed to get to Havana by Wednesday have made it to Cuba, says US Coast Guard Two sailing boats that went missing while carrying humanitarian aid to Cuba have safely reached the Caribbean island, the US Co..."
     },
     {
-      "char": "🍞",
-      "label": "russian bakery faces tax hike",
-      "url": "https://www.nytimes.com/2026/03/28/world/europe/russia-economy-small-business-tax-increase.html",
-      "title": "Can This Russian Bakery Survive a 3,500% Tax Increase?",
-      "summary": "The challenges faced by a small-business owner near Moscow highlight how Russia’s war-drained economy is on the doorstep of a major crisis."
+      "char": "💰",
+      "label": "bank of america settles epstein lawsuit",
+      "url": "https://www.bbc.com/news/articles/cn0wjgwvp2ko?at_medium=RSS&at_campaign=rss",
+      "title": "Bank of America to pay out $72.5m over Epstein lawsuit",
+      "summary": "The settlement comes after a lawsuit accused the bank of facilitating Epstein's sex trafficking operation"
     },
     {
-      "char": "⚖️",
-      "label": "un ruling on slavery reparations",
-      "url": "https://www.theguardian.com/news/2026/mar/27/un-slavery-ruling-african-union-reparations-slavery-analysis",
-      "title": "UN’s landmark slavery ruling energises African Union’s fight for reparations",
-      "summary": "• UN votes to describe slave trade as ‘gravest crime against humanity’ Despite resistance from states who had role in chattel slavery, many feel this is an idea whose time has come John Mahama knows a thing or two about beating the estab..."
-    },
-    {
-      "char": "🛡️",
-      "label": "kurds join fight in iran",
-      "url": "https://www.nytimes.com/2026/03/28/world/europe/iran-kurds-iraq-fighters.html",
-      "title": "On Iran’s Rugged Frontier, Kurds Yearn to Join the Fight",
-      "summary": "These groups’ dream has long been to establish federal autonomy, akin to that of their fellow Kurds in Iraq. With Iran’s leaders battered and degraded, they hope their moment has come."
-    },
-    {
-      "char": "🌊",
-      "label": "migrants die off greek coast",
-      "url": "https://www.bbc.com/news/articles/cnv8z1lvn8ro?at_medium=RSS&at_campaign=rss",
-      "title": "Twenty-two migrants die off Greek coast after six days at sea",
-      "summary": "Poor weather and a lack of food and water contributed to the deaths, the Greek coastguard says."
+      "char": "🎨",
+      "label": "african guernica displayed alongside picasso",
+      "url": "https://www.theguardian.com/artanddesign/2026/mar/27/african-guernica-dumile-feni-on-display-alongside-picasso",
+      "title": "‘The violence of racist tyranny’: African Guernica goes on display alongside Picasso masterpiece",
+      "summary": "Piece by late South African artist Dumile Feni is part of new series History Doesn’t Repeat Itself, But It Does Rhyme On the second floor of the Reina Sofía, in the very spot where Picasso’s Guernica was first exhibited when it arrived i..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "Today's news reflects a mix of humanitarian crises and economic struggles, from the tragic loss of migrants at sea to the challenges faced by small businesses in Russia. The emotional weight of these stories evokes a deep sense of sorrow.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

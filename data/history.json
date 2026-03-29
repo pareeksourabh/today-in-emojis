@@ -31415,5 +31415,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-29",
+    "emojis": [
+      {
+        "char": "🇳🇬",
+        "label": "nigeria aims for regional superpower status",
+        "url": "https://www.theguardian.com/news/2026/mar/26/nigeria-regional-superpower-uk-reparative-justice-trade-economic-ties",
+        "title": "Nigeria takes its place on world stage in quest to become regional superpower",
+        "summary": "Nigeria and UK look to strengthen trade and economic ties amid growing calls from Africa and Caribbean for reparative justice “There are chapters in our shared history that I know have left some painful marks,” King Charles said during a..."
+      },
+      {
+        "char": "🇺🇦",
+        "label": "zelenskyy on us security guarantees",
+        "url": "https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas",
+        "title": "Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas",
+        "summary": "Ukrainian president says peace deal proposed by US includes handing over land to Russia. What we know on day 1,492 Continue reading..."
+      },
+      {
+        "char": "🚢",
+        "label": "missing aid boats reach cuba safely",
+        "url": "https://www.theguardian.com/world/2026/mar/27/cuba-aid-boats-missing-en-route-mexico-our-america-convoy",
+        "title": "Missing aid boats have safely reached Cuba, US confirms",
+        "summary": "Two convoy vessels that were supposed to get to Havana by Wednesday have made it to Cuba, says US Coast Guard Two sailing boats that went missing while carrying humanitarian aid to Cuba have safely reached the Caribbean island, the US Co..."
+      },
+      {
+        "char": "💰",
+        "label": "bank of america settles epstein lawsuit",
+        "url": "https://www.bbc.com/news/articles/cn0wjgwvp2ko?at_medium=RSS&at_campaign=rss",
+        "title": "Bank of America to pay out $72.5m over Epstein lawsuit",
+        "summary": "The settlement comes after a lawsuit accused the bank of facilitating Epstein's sex trafficking operation"
+      },
+      {
+        "char": "🎨",
+        "label": "african guernica displayed alongside picasso",
+        "url": "https://www.theguardian.com/artanddesign/2026/mar/27/african-guernica-dumile-feni-on-display-alongside-picasso",
+        "title": "‘The violence of racist tyranny’: African Guernica goes on display alongside Picasso masterpiece",
+        "summary": "Piece by late South African artist Dumile Feni is part of new series History Doesn’t Repeat Itself, But It Does Rhyme On the second floor of the Reina Sofía, in the very spot where Picasso’s Guernica was first exhibited when it arrived i..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
