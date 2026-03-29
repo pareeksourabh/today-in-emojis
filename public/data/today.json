@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The day features significant distressing news regarding humanitarian crises, violence, and political tensions, mixed with some hopeful stories of aid and cooperation, leading to an overall vibe of concern.",
+    "emotion_label": "Sorrow",
+    "emoji": "😢",
+    "rationale": "The day is marked by tragic events, including drone strikes in Sudan and the killing of journalists in Lebanon, overshadowing moments of hope like the safe return of aid ships.",
     "palette": [
       "😢",
       "😡",
