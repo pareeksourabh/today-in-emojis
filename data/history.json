@@ -31635,5 +31635,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-30",
+    "emojis": [
+      {
+        "char": "✝️",
+        "label": "police block cardinal in jerusalem",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KcFExU3IzV0hqRVctRnF0cDJLUFFfN0hGRktMeVQyc0tmVUNrRHd5MVQ4R3RsVG1HS0xET0FjV0NnNU40RnYxLXR5bDhQMC1EczI4?oc=5",
+        "title": "Police block cardinal from Jerusalem's Holy Sepulchre on Palm Sunday - Reuters",
+        "summary": "Police block cardinal from Jerusalem's Holy Sepulchre on Palm Sunday Reuters"
+      },
+      {
+        "char": "🏦",
+        "label": "attempted attack on bank in paris",
+        "url": "https://www.nytimes.com/2026/03/28/world/europe/paris-attack-bank-of-america.html",
+        "title": "Man in Paris Accused of Attempted Attack on Bank of America",
+        "summary": "Prosecutors say the police thwarted an attacker as he was trying to detonate explosives. The episode is being investigated as possible terrorism."
+      },
+      {
+        "char": "🚢",
+        "label": "us allows russian oil tanker to cuba",
+        "url": "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html",
+        "title": "U.S. to Allow Russian Oil Tanker to Reach Cuba, Breaking Blockade",
+        "summary": "The tanker full of crude oil could reach its expected destination by Tuesday, providing a lifeline to the island amid intense U.S. pressure."
+      },
+      {
+        "char": "🕊️",
+        "label": "drone strikes kill civilians in sudan",
+        "url": "https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck",
+        "title": "Two drone strikes on civilian targets kill 28 people in Sudan",
+        "summary": "Market in North Darfur and truck carrying civilians in North Kordofan hit as civil war approaches fourth year At least 28 civilians have been killed in two separate drone strikes in Sudan, according to health workers, as the country’s br..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada's new democratic party elects leader",
+        "url": "https://www.bbc.com/news/articles/czd74q2nqp0o?at_medium=RSS&at_campaign=rss",
+        "title": "Canada's New Democratic Party elects Avi Lewis as its leader",
+        "summary": "Avi Lewis's campaign platform focused on revitalising the struggling left-leaning party and prioritising workers' rights."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
