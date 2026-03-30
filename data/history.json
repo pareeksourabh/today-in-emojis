@@ -31723,5 +31723,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-30",
+    "emojis": [
+      {
+        "char": "💹",
+        "label": "japan debt rating affirmed by s&p",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOUxPM1R3bDZVUENCMWp5SXdrLTlfTkVhY1lOQ0NuWEhnazJ4c3JORTNOc3RNeEZ3WjJQWmRYaWVQYXI0Tmc1TmdFcmNKejNQaEpsQ0JUaE9MdmVUVjlBMTdJSUhCNl9UMmNyM0NBLUhfTFdMR2NjTmFjYWFpd0FOUkFmdHo0ODExYUNNeVVkQm5ISUNKS0F3LUFMcWxXeXJNWXl0YjMzd0IyTlI5aFo0N3BEWk5NZUQ1MmlYVXdn?oc=5",
+        "title": "S&P affirms Japan debt rating but warns of cut if yen weakens much further - Reuters",
+        "summary": "S&P affirms Japan debt rating but warns of cut if yen weakens much further Reuters"
+      },
+      {
+        "char": "🚢",
+        "label": "missing aid boats reached cuba safely",
+        "url": "https://www.theguardian.com/world/2026/mar/27/cuba-aid-boats-missing-en-route-mexico-our-america-convoy",
+        "title": "Missing aid boats have safely reached Cuba, US confirms",
+        "summary": "Two convoy vessels that were supposed to get to Havana by Wednesday have made it to Cuba, says US Coast Guard Two sailing boats that went missing while carrying humanitarian aid to Cuba have safely reached the Caribbean island, the US Co..."
+      },
+      {
+        "char": "🎨",
+        "label": "african guernica displayed with picasso",
+        "url": "https://www.theguardian.com/artanddesign/2026/mar/27/african-guernica-dumile-feni-on-display-alongside-picasso",
+        "title": "‘The violence of racist tyranny’: African Guernica goes on display alongside Picasso masterpiece",
+        "summary": "Piece by late South African artist Dumile Feni is part of new series History Doesn’t Repeat Itself, But It Does Rhyme On the second floor of the Reina Sofía, in the very spot where Picasso’s Guernica was first exhibited when it arrived i..."
+      },
+      {
+        "char": "🏗️",
+        "label": "building collapse kills three in ghana",
+        "url": "https://www.bbc.com/news/articles/ckgex51zzd8o?at_medium=RSS&at_campaign=rss",
+        "title": "Three killed as unfinished building collapses on church service in Ghana",
+        "summary": "Locals say the structure, in a school complex, was in use despite lying unfinished for a number of years."
+      },
+      {
+        "char": "⚖️",
+        "label": "un ruling energizes african reparations fight",
+        "url": "https://www.theguardian.com/news/2026/mar/27/un-slavery-ruling-african-union-reparations-slavery-analysis",
+        "title": "UN’s landmark slavery ruling energises African Union’s fight for reparations",
+        "summary": "• UN votes to describe slave trade as ‘gravest crime against humanity’ Despite resistance from states who had role in chattel slavery, many feel this is an idea whose time has come John Mahama knows a thing or two about beating the estab..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
