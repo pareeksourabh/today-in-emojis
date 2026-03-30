@@ -1,42 +1,204 @@
 {
   "date": "2026-03-30",
+  "timestamp": "2026-03-30T00:00:00Z",
   "emojis": [
     {
-      "char": "🌍",
-      "label": "world",
-      "url": "",
-      "title": "",
+      "char": "🛢️",
+      "label": "us allows russian oil tanker to cuba",
+      "url": "https://www.theguardian.com/us-news/2026/mar/29/us-russian-oil-tanker-cuba-blockade",
+      "title": "US will reportedly allow Russian oil tanker to reach Cuba amid blockade",
+      "summary": "Anatoly Kolodkin could soon discharge at Matanzas port, US official says, three months after Cuba’s last oil import The US is allowing a Russian tanker full of crude oil to reach Cuba , the New York Times reported on Sunday, possibly gra..."
+    },
+    {
+      "char": "🏙️",
+      "label": "the slum in gangnam, seoul",
+      "url": "https://www.nytimes.com/2026/03/29/world/asia/korea-seoul-gangnam-slum.html",
+      "title": "The Slum in Gangnam, the Richest Part of Seoul",
+      "summary": "The city wants to redevelop a shantytown in Gangnam district, where hundreds are defying eviction, fighting for a right to own a home in an area notorious for the exorbitant cost of housing."
+    },
+    {
+      "char": "✈️",
+      "label": "ukraine air defense deals with gulf nations",
+      "url": "https://www.nytimes.com/2026/03/28/world/europe/ukraine-air-defense-deal-qatar-saudi-arabia.html",
+      "title": "Ukraine Finalizes Air Defense Deals With Gulf Nations Amid War in Mideast",
+      "summary": "The Ukrainian president visited the Middle East, where he sought to shift his country from a recipient of military aid to a supplier."
+    },
+    {
+      "char": "📰",
+      "label": "israeli police block palm sunday mass",
+      "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli police block Latin Patriarch from Palm Sunday mass in Jerusalem",
+      "summary": "The move drew criticism from the church, global leaders and the US ambassador. Israel's PM said it was a safety measure following recent Iranian strikes."
+    },
+    {
+      "char": "🐋",
+      "label": "scientists film whale giving birth",
+      "url": "https://www.theguardian.com/environment/2026/mar/27/scientists-film-whale-giving-birth-other-whales-help-her",
+      "title": "Scientists film whale giving birth while other whales work together to help her",
+      "summary": "Female named Rounder surrounded by family members when about to give birth to her second calf Scientists have managed to film a sperm whale giving birth while other female whales worked together to support the mother and her newborn. A t..."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "canada's left regrouping",
+      "url": "https://www.nytimes.com/2026/03/29/world/americas/canada-new-democrats-party-leader-avi-lewis.html",
+      "title": "Can Canada’s Left Regroup? A New Leader Will Try.",
+      "summary": "Seeking a comeback after voters flocked to Mark Carney’s Liberals, the New Democrats picked Avi Lewis, a scion of a leftist political dynasty."
+    },
+    {
+      "char": "📰",
+      "label": "journalists killed in strike",
+      "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+      "summary": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV."
+    },
+    {
+      "char": "💣",
+      "label": "iran missile strikes continue",
+      "url": "https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html",
+      "title": "A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.",
+      "summary": "A wave of strikes across the Middle East in recent days shows that Iran has not lost the capacity to retaliate."
+    },
+    {
+      "char": "🚢",
+      "label": "us allows oil tanker to cuba",
+      "url": "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html",
+      "title": "U.S. Allows Russian Oil Tanker to Reach Cuba, Despite Blockade",
+      "summary": "The tanker full of crude oil could reach its expected destination by Monday, providing a lifeline to the island amid intense U.S. pressure."
+    },
+    {
+      "char": "🏇",
+      "label": "dubai horse race amid war",
+      "url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/in-dubai-a-famed-horse-race-goes-on-despite-the-war",
+      "title": "In Dubai, a famed horse race goes on, despite the war.",
       "summary": ""
     },
     {
-      "char": "💡",
-      "label": "insight",
-      "url": "",
-      "title": "",
-      "summary": ""
+      "char": "✈️",
+      "label": "airlines face fare dilemma",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTZSOGN1N05odDBoM1pnbmhyUkVOc29UTEdmamdVVFZwcHdxVFZ0WGhoak9yZHJKNGpxX3hEaF9jNWRCUzZUSEQxQTdDVGJSMGJPVzZIQkFRUGtMaTltQUpRSURnOXRKMFByd3VBeUUwS0xxa254WGJ3NWlraXpxNERLTlNBZ3paeHBQQU80ZmdPRXQzbjBVNGR0c3pGOE9FVVhuVzRLWWRTeFpfN2ZNc3FCVmtKOHR4aUtyN2E0NXEzZw?oc=5",
+      "title": "Airlines face fare dilemma as fuel spike threatens travel demand - Reuters",
+      "summary": "Airlines face fare dilemma as fuel spike threatens travel demand Reuters"
     },
     {
-      "char": "🤝",
-      "label": "together",
-      "url": "",
-      "title": "",
-      "summary": ""
+      "char": "💣",
+      "label": "paris bomb attack arrests",
+      "url": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss",
+      "title": "Three arrested in Paris after attempted bomb attack outside Bank of America",
+      "summary": "France's anti-terrorism prosecutor's office said it had immediately taken over the investigation."
     },
     {
-      "char": "🌱",
-      "label": "growth",
-      "url": "",
-      "title": "",
-      "summary": ""
+      "char": "🚢",
+      "label": "missing aid boats to cuba",
+      "url": "https://www.theguardian.com/world/2026/mar/27/cuba-humanitarian-aid-boats-missing",
+      "title": "Two humanitarian aid boats heading to Cuba have gone missing, Mexico says",
+      "summary": "Navy searching for two boats that left Isla Mujeres last week bound for Havana with nine crew members of different nationalities on board Mexico’s navy said on Thursday it had activated a search-and-rescue operation in the Caribbean to l..."
     },
     {
-      "char": "😐",
-      "label": "neutral",
-      "url": "",
-      "title": "",
-      "summary": ""
+      "char": "⚖️",
+      "label": "iran war volatility strains markets",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYVJXZEczYnFocUJpR0NDVVNzS1V5djdYYTZzTlZYWlZUbTdtdHM1Um8ycGpURTVXd0ZCZ25IdnNjSEluM09BY2JnOHdrSmRxQnhpaHZOM1ZFWE1PZU52TjBOa0FGa2FZSG8xQTd0NFdwOThrZGZRT3M4M0dRZTZ6ckpjTUJaZzF0VnNBUURZd1Qwdw?oc=5",
+      "title": "Iran war volatility strains trading in world's biggest markets - Reuters",
+      "summary": "Iran war volatility strains trading in world's biggest markets Reuters"
+    },
+    {
+      "char": "🧴",
+      "label": "italy investigates skincare marketing",
+      "url": "https://www.bbc.com/news/articles/c3dlk93m7jyo?at_medium=RSS&at_campaign=rss",
+      "title": "Italy investigates Sephora and Benefit over marketing skincare to children",
+      "summary": "The Italian Competition Authority said luxury goods giant LVMH appears to have adopted \"particularly insidious\" marketing strategies."
+    },
+    {
+      "char": "📈",
+      "label": "lme aluminium peaks after iran attacks",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGZCYjdsZG5XUmpIbU5uY21WR3o2Q0dmcjBOQW8taHNpemwwdEZSOUJFS2luNWFaTkNvUURJVmtCVzRlZ0JaaTVwN3lYSjlaLU9HM1RheXVvRTVoTUhiS3NORl9tdGk1SWlRMkZBX0F1RE1YM0RjQ255dllMeTFpdUVHSTRUd1Foem9SS1FDTW54ckxRMEdYeDNBemJfTWYyWm9Mb0JxMWE1eGJ0NzhRUDkzYk8?oc=5",
+      "title": "LME aluminium nears four year peak after Iran attacks on Gulf smelters - Reuters",
+      "summary": "LME aluminium nears four year peak after Iran attacks on Gulf smelters Reuters"
+    },
+    {
+      "char": "🌩️",
+      "label": "thunderstorms drench uae and saudi arabia",
+      "url": "https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia",
+      "title": "Weather tracker: Thunderstorms drench UAE and Saudi Arabia",
+      "summary": "Abnormally strong jet stream triggers deluge in Middle East, while north Africa braces for 60-80mph gusts An unusual weather pattern unleashed severe thunderstorms across parts of the Middle East last week, battering countries including..."
+    },
+    {
+      "char": "🚢",
+      "label": "missing aid boats reached cuba safely",
+      "url": "https://www.theguardian.com/world/2026/mar/27/cuba-aid-boats-missing-en-route-mexico-our-america-convoy",
+      "title": "Missing aid boats have safely reached Cuba, US confirms",
+      "summary": "Two convoy vessels that were supposed to get to Havana by Wednesday have made it to Cuba, says US Coast Guard Two sailing boats that went missing while carrying humanitarian aid to Cuba have safely reached the Caribbean island, the US Co..."
+    },
+    {
+      "char": "✈️",
+      "label": "damaged us radar jet at saudi base",
+      "url": "https://www.bbc.com/news/articles/cwyd07m7e1xo?at_medium=RSS&at_campaign=rss",
+      "title": "Photos show heavily damaged US radar jet at Saudi base",
+      "summary": "US Central Command has not yet publicly commented on the incident."
+    },
+    {
+      "char": "🛢️",
+      "label": "russian oil tanker reaches cuba amid blockade",
+      "url": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
+      "summary": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it arriving."
+    },
+    {
+      "char": "🚢",
+      "label": "missing aid boats reach cuba",
+      "url": "https://www.theguardian.com/world/2026/mar/27/cuba-aid-boats-missing-en-route-mexico-our-america-convoy",
+      "title": "Missing aid boats have safely reached Cuba, US confirms",
+      "summary": "Two convoy vessels that were supposed to get to Havana by Wednesday have made it to Cuba, says US Coast Guard Two sailing boats that went missing while carrying humanitarian aid to Cuba have safely reached the Caribbean island, the US Co..."
+    },
+    {
+      "char": "💼",
+      "label": "alaska air faces bigger losses",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZFNLdWdwTUU2SXh5UTU1WUJ4MjlqeXNRaEtGTVJ3alFZbU1zbWFUNkNVWWdINjAzUW5VYkxJRUhjdmNYZjYtdW8xVmVOTS1VMTdsdC05WVJqNmlWcHJKLUdnazdsSDVjc1c0LWtTYW1reWtQc3dRNFNWODhjc244RVJsMmk3TzhZaExoSlk1RGlUZGNFMkNMOThLUFNXWWxES0ZDY1FqZGJpdw?oc=5",
+      "title": "Alaska Air signals bigger first-quarter loss as fuel costs surge - Reuters",
+      "summary": "Alaska Air signals bigger first-quarter loss as fuel costs surge Reuters"
+    },
+    {
+      "char": "🏙️",
+      "label": "south african town name change tensions",
+      "url": "https://www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions",
+      "title": "Goodbye Graaff-Reinet: South African town’s name change stirs racial tensions",
+      "summary": "Minister’s decision to ditch town’s colonial-era identity and honour anti-apartheid activist divides residents A South African town is divided over changing its name from the colonial-era Graaff-Reinet to Robert Sobukwe, after the anti-a..."
+    },
+    {
+      "char": "⚖️",
+      "label": "cardiff city damages claim dismissed",
+      "url": "https://www.bbc.com/news/articles/c8jkeprrn00o?at_medium=RSS&at_campaign=rss",
+      "title": "Cardiff City damages claim over Emiliano Sala death dismissed",
+      "summary": "The club, which was claiming £104m in compensation, will now have to fork out about £400,000."
+    },
+    {
+      "char": "🛢️",
+      "label": "oil market supply remains stable",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONkhCd0VmY0J6VUx0VXFjTndvSE1heDJJV3laZTBMb3gyY3FzdXdBdVRRbUhxeGN6dHFSV3BQTm1ZM2RCTmZsMkpkUzczcE5ZMjhJVkNoT2tETDlxWC1jamtwTU1ockxWSlY3Umo5azljU1ZTb3h2UDZSNm4yeXNGd1dIR19GWnlyZ2ZKMnNoeTByNW5QZnBOVnc2OVphOHJGVzBQUEtxNGEwUWxsRk1Sd3dHbmRQaFE?oc=5",
+      "title": "Oil market well supplied, control of Hormuz to shift over time, Bessent says - Reuters",
+      "summary": "Oil market well supplied, control of Hormuz to shift over time, Bessent says Reuters"
     }
   ],
-  "source": "fallback",
-  "post_type": "normal"
+  "source": "ai-openai",
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "The day's headlines reflect significant global concerns, including humanitarian crises and geopolitical tensions, leading to an overall sense of unease and worry.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
