@@ -31679,5 +31679,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-30",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "trump's instinctual war strategy",
+        "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
+        "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
+        "summary": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective, writes the BBC's international editor."
+      },
+      {
+        "char": "⛪",
+        "label": "patriarch access to holy site",
+        "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
+        "title": "Netanyahu says Latin Patriarch will have full access to holy site",
+        "summary": "The Israeli PM said Cardinal Pierbattista Pizzaballa had been asked not to enter the church out of concern for his safety."
+      },
+      {
+        "char": "🚢",
+        "label": "russian oil tanker nears cuba",
+        "url": "https://www.theguardian.com/us-news/2026/mar/29/us-russian-oil-tanker-cuba-blockade",
+        "title": "Trump appears to relax de facto oil blockade on Cuba as Russian oil tanker nears island",
+        "summary": "Donald Trump says he has ‘no problem’ with Russia sending some oil into Cuba, as tanker Anatoly Kolodkin heads for Cuba with 730,000 barrels of crude Donald Trump has signalled a new flexibility in allowing oil into Cuba, hours before a..."
+      },
+      {
+        "char": "🤖",
+        "label": "outrage over ai self-deportation video",
+        "url": "https://www.theguardian.com/us-news/2026/mar/28/us-embassy-mexico-outrage-ai-video-self-deportation",
+        "title": "US embassy in Mexico prompts outrage with AI video promoting ‘self-deportation’",
+        "summary": "AI-generated footage depicts group of men performing a corrido, singing phrases including ‘return to your roots’ An AI-generated video from the US embassy in Mexico encouraging migrants to “self-deport” has sparked disbelief and outrage..."
+      },
+      {
+        "char": "🎨",
+        "label": "italian heist of famous paintings",
+        "url": "https://www.bbc.com/news/articles/cn4vw2xmpzzo?at_medium=RSS&at_campaign=rss",
+        "title": "Thieves steal Renoir, Cézanne and Matisse paintings in three-minute Italian heist",
+        "summary": "The paintings were taken from a museum in Parma by four masked men in the middle of the night, police say."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
