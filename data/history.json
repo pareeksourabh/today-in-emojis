@@ -31767,5 +31767,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-30",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "canada's left regroup with new leader",
+        "url": "https://www.nytimes.com/2026/03/29/world/americas/canada-new-democrats-party-leader-avi-lewis.html",
+        "title": "Can Canada’s Left Regroup? A New Leader Will Try.",
+        "summary": "Seeking a comeback after voters flocked to Mark Carney’s Liberals, the New Democrats picked Avi Lewis, a scion of a leftist political dynasty."
+      },
+      {
+        "char": "🌍",
+        "label": "urgent action against digital violence in africa",
+        "url": "https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say",
+        "title": "Urgent action needed to prevent surge in digital violence in Africa, experts say",
+        "summary": "A huge rise in internet users under the age of 30 has fuelled an increase in online violence against women and girls with devastating real-life effects, activists say Activists and lawyers in Africa are calling for urgent action to prote..."
+      },
+      {
+        "char": "🎨",
+        "label": "chinese artist goes on trial for mocking mao",
+        "url": "https://www.nytimes.com/2026/03/29/world/asia/china-artist-gao-trial.html",
+        "title": "Gao Zhen, a Chinese Artist Accused of Mocking Mao, Goes on Trial",
+        "summary": "Gao Zhen, who emigrated to the United States years ago, was arrested during a visit to China and now faces up to three years in prison for artwork."
+      },
+      {
+        "char": "🏗️",
+        "label": "building collapse kills three in ghana",
+        "url": "https://www.bbc.com/news/articles/ckgex51zzd8o?at_medium=RSS&at_campaign=rss",
+        "title": "Three killed as unfinished building collapses on church service in Ghana",
+        "summary": "Locals say the structure, in a school complex, was in use despite lying unfinished for a number of years."
+      },
+      {
+        "char": "🐋",
+        "label": "scientists film whale giving birth",
+        "url": "https://www.theguardian.com/environment/2026/mar/27/scientists-film-whale-giving-birth-other-whales-help-her",
+        "title": "Scientists film whale giving birth while other whales work together to help her",
+        "summary": "Female named Rounder surrounded by family members when about to give birth to her second calf Scientists have managed to film a sperm whale giving birth while other female whales worked together to support the mother and her newborn. A t..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
