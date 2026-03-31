@@ -31987,5 +31987,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-03-31",
+    "emojis": [
+      {
+        "char": "🇹🇼",
+        "label": "u.s. senators press taiwan on military",
+        "url": "https://www.nytimes.com/2026/03/31/world/asia/senators-taiwan-military.html",
+        "title": "U.S. Senators Press Taiwan to Raise Military Spending, as China Protests",
+        "summary": "Four visiting senators urged Taiwan to break an impasse over a $40 billion budget proposal, highlighting concerns in Washington about the threat from China."
+      },
+      {
+        "char": "🎤",
+        "label": "eurovision song contest asia edition",
+        "url": "https://www.bbc.com/news/articles/cx2rwq53zxyo?at_medium=RSS&at_campaign=rss",
+        "title": "Eurovision Song Contest launches first-ever Asia edition",
+        "summary": "Broadcasters from 10 countries, including South Korea and the Philippines, will be taking part."
+      },
+      {
+        "char": "💰",
+        "label": "jp morgan boosts small-business lending",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb19DdTlMZFRqVnE3UmhBanIxbU1rLVhnSXpEenBfY21ZOU1ZcGY2Ynl3S1hYQ1d6d1FTOHNFb29xeE92RlJ6cjNPdFAtU21qSVN2WkdYd1pWa0ZPZGpQb25QY2QxM1BfaUVGdFFxbnJyVU5kN3d0YUVIanc3cWtJMU5odjNNYzN4M1dfZVJ0Zjk2Z3dDY2hKcEtfeVJhSllLeHVYZHYtU29PRndLZHlIbGZ1YlJKUUlUQzhZ?oc=5",
+        "title": "JPMorgan to increase small-business lending, hire more credit officers - Reuters",
+        "summary": "JPMorgan to increase small-business lending, hire more credit officers Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "urgent action to prevent digital violence",
+        "url": "https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say",
+        "title": "Urgent action needed to prevent surge in digital violence in Africa, experts say",
+        "summary": "A huge rise in internet users under the age of 30 has fuelled an increase in online violence against women and girls with devastating real-life effects, activists say Activists and lawyers in Africa are calling for urgent action to prote..."
+      },
+      {
+        "char": "⚖️",
+        "label": "israel law on death penalty for attacks",
+        "url": "https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html",
+        "title": "Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks",
+        "summary": "Experts say the law was written in such a way as to ensure that it was unlikely to ever apply to Jewish extremists who commit similar crimes."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
