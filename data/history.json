@@ -32207,5 +32207,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-01",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israel intensifies attacks in lebanon",
+        "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+        "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+        "summary": "Attacks have continued as Israel has announced its intention to control swathes of south Lebanon."
+      },
+      {
+        "char": "🕊️",
+        "label": "stephen lewis, activist, dies at 88",
+        "url": "https://www.theguardian.com/world/2026/apr/01/stephen-lewis-canadian-politician-and-social-activist-dies-aged-88",
+        "title": "Stephen Lewis, Canadian politician and social activist, dies aged 88",
+        "summary": "Lewis was the father of Avi Lewis, who was elected leader of the progressive New Democratic party one day before his father died Stephen Lewis, the Canadian diplomat, politician and human rights advocate, who spent decades tirelessly wor..."
+      },
+      {
+        "char": "💔",
+        "label": "70 killed in haiti gang attack",
+        "url": "https://www.theguardian.com/world/2026/mar/30/deaths-in-gang-attack-haitian-farming-area-far-exceed-initial-estimate",
+        "title": "At least 70 people killed and 30 injured in Haiti gang attack",
+        "summary": "Nearly 6,000 people forced to flee, human rights group says, as it criticises ‘abandonment’ from authorities At least 70 people have been killed and 30 injured during an attack in Haiti’s breadbasket Artibonite region, significantly more..."
+      },
+      {
+        "char": "🌧️",
+        "label": "thunderstorms drench uae and saudi arabia",
+        "url": "https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia",
+        "title": "Weather tracker: Thunderstorms drench UAE and Saudi Arabia",
+        "summary": "Abnormally strong jet stream triggers deluge in Middle East, while north Africa braces for 60-80mph gusts An unusual weather pattern unleashed severe thunderstorms across parts of the Middle East last week, battering countries including..."
+      },
+      {
+        "char": "🚀",
+        "label": "nasa's crewed lunar mission countdown",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd2J1Q0k1T3JDcVROd2VYNy1RbUZmUGxCanhYdGtOYkZBV3pQbkU4czEzYnlyaHEyekYtLVY1cXh1ZDlXTDRQY291QVpnaFZiLXNHUGxLTDJiZ19ZdVpfaGR0OC04UDl0QjNEVUhPelRuX1ZlMmJjT3p4UHBnXzdpZnlmZmtMSC0xVDFKMXlwa0tQVUhFMnRfZEprR2ctTldzV1E?oc=5",
+        "title": "NASA counts down for first crewed lunar mission in half a century - reuters.com",
+        "summary": "NASA counts down for first crewed lunar mission in half a century reuters.com"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
