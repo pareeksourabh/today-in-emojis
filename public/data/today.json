@@ -1,21 +1,7 @@
 {
   "date": "2026-04-01",
-  "timestamp": "2026-04-01T09:09:48Z",
+  "timestamp": "2026-04-01T00:00:00Z",
   "emojis": [
-    {
-      "char": "🔍",
-      "label": "italian christmas meal tragedy",
-      "url": "https://www.bbc.com/news/articles/cje470qgl1yo?at_medium=RSS&at_campaign=rss",
-      "title": "Italian Christmas meal tragedy turns into murder inquiry",
-      "summary": "Tests results suggest the two women may have been killed with ricin, according to Italian media, but police still do not have a suspect."
-    },
-    {
-      "char": "⚖️",
-      "label": "urgent action against digital violence",
-      "url": "https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say",
-      "title": "Urgent action needed to prevent surge in digital violence in Africa, experts say",
-      "summary": "A huge rise in internet users under the age of 30 has fuelled an increase in online violence against women and girls with devastating real-life effects, activists say Activists and lawyers in Africa are calling for urgent action to prote..."
-    },
     {
       "char": "📰",
       "label": "us journalist kidnapped in baghdad",
@@ -24,18 +10,32 @@
       "summary": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah."
     },
     {
-      "char": "💣",
-      "label": "peacekeepers killed in lebanon",
-      "url": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
-      "title": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds",
-      "summary": "The deaths of the two Indonesian nationals came less than a day after another UN peacekeeper - also Indonesian - was killed in Lebanon."
+      "char": "🇨🇦",
+      "label": "avi lewis leads canada's ndp",
+      "url": "https://www.theguardian.com/world/2026/mar/30/canada-avi-lewis-elected-new-democratic-party",
+      "title": "Avi Lewis, elected to lead Canada’s New Democratic party, promises ‘NDP comeback’",
+      "summary": "Ex-TV host pledged to centre party around equity, with higher wealth taxes, green energy and tuition-free education Sign up for the Breaking News US email to get newsletter alerts in your inbox Canada’s embattled New Democratic party (ND..."
     },
     {
-      "char": "📈",
-      "label": "tesla car registrations surge in france",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVczNkRNUXlDOEpLckN0NzJnd2RkNVJQaTFISTNpbmM3ckhhX2xjNlZ6QzdzQ2dRYVNpZ2daWll5a0FOek5IS3lyQnV6dE1GQWVvdXNFSk0zN0U1aUV6WDhLXy1oMjhtMktaeEFjNmR0cnphU3AtMWk2eENES040Q3F5QTRLVExYVjA3SUVja3FoUEJQMGpDUlhIUEkwMG1yYXVOZi1jMA?oc=5",
-      "title": "Tesla March car registrations triple in France, double in Denmark - Reuters",
-      "summary": "Tesla March car registrations triple in France, double in Denmark Reuters"
+      "char": "🏥",
+      "label": "megan thee stallion hospitalized",
+      "url": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss",
+      "title": "Megan Thee Stallion taken to hospital during Moulin Rouge performance",
+      "summary": "The rapper \"started feeling very ill\" mid-way through the show in New York, her representative told US media."
+    },
+    {
+      "char": "💰",
+      "label": "iran war economic shocks last months",
+      "url": "https://www.bbc.com/news/articles/cvg4nre8nl9o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran war economic shocks will last 'months', says Australia's PM",
+      "summary": "Anthony Albanese used a rare TV address to tell Australians that the \"months ahead may not be easy\" amid the global effects of the war."
+    },
+    {
+      "char": "🛢️",
+      "label": "us drilling in gulf of mexico",
+      "url": "https://www.theguardian.com/us-news/2026/mar/31/gulf-of-mexico-drilling-endangered-species",
+      "title": "‘God squad’ waives endangered species law to allow US drilling in Gulf of Mexico",
+      "summary": "Critics say exemption for fossil fuels exploits White House’s ‘self-made gas crisis’, and could doom the rare Rice’s whale Sign up for the Breaking News US email to get newsletter alerts in your inbox A US government panel on Tuesday exe..."
     }
   ],
   "source": "ai-openai",
