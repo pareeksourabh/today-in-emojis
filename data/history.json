@@ -32119,5 +32119,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-01",
+    "emojis": [
+      {
+        "char": "🇮🇳",
+        "label": "india's massive census begins",
+        "url": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
+        "title": "India begins counting more than a billion people in massive census",
+        "summary": "The two-phase exercise - the world’s most ambitious - will see three million officials count every Indian."
+      },
+      {
+        "char": "💔",
+        "label": "haiti gang attack kills 70",
+        "url": "https://www.theguardian.com/world/2026/mar/30/deaths-in-gang-attack-haitian-farming-area-far-exceed-initial-estimate",
+        "title": "At least 70 people killed and 30 injured in Haiti gang attack",
+        "summary": "Nearly 6,000 people forced to flee, human rights group says, as it criticises ‘abandonment’ from authorities At least 70 people have been killed and 30 injured during an attack in Haiti’s breadbasket Artibonite region, significantly more..."
+      },
+      {
+        "char": "🌫️",
+        "label": "chiang mai air pollution concerns",
+        "url": "https://www.bbc.com/news/articles/c0le03ne05ro?at_medium=RSS&at_campaign=rss",
+        "title": "'My six-year-old has nosebleeds': Chiang Mai air pollution sparks health fears",
+        "summary": "It's peak fire season in the Thai city, which now ranks as one of the world's most polluted."
+      },
+      {
+        "char": "🇨🇴",
+        "label": "colombian president not facing charges",
+        "url": "https://www.nytimes.com/2026/03/31/world/americas/gustavo-petro-colombia-president-us-charges.html",
+        "title": "U.S. Assures Colombian President Petro He Does Not Face Charges Right Now",
+        "summary": "The Justice Department is examining Gustavo Petro for possible ties to drug traffickers. U.S. officials have told him that for now he does not face criminal charges arising from the probes."
+      },
+      {
+        "char": "📈",
+        "label": "greece to rejoin developed markets index",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSEtDam5UcmZKWE5QZlF5V1A3ckEyWHRDQ0FYM0ZvaTRsVlBEcFlpQjIxWDVkcktZX3ZPR0pIVlNJQkFTMzhpbDE2RWZSSWRKTGdJLXpRMGxITVRjME1ndUpxYjlmNHdiUlpVcHd1bWI4eHJxTjBvb01GSFpPakEwVjd4akhVZGVNNlFMeHBmNmFxU3dFU0Z5MGVQMjdvQVRyYnM0WUhxUQ?oc=5",
+        "title": "Greece set to rejoin MSCI developed markets index in 2027 - Reuters",
+        "summary": "Greece set to rejoin MSCI developed markets index in 2027 Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
