@@ -32383,5 +32383,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-02",
+    "emojis": [
+      {
+        "char": "🕵️‍♂",
+        "label": "utah teen victim of ted bundy",
+        "url": "https://www.bbc.com/news/articles/c0lendp6390o?at_medium=RSS&at_campaign=rss",
+        "title": "Utah teen identified as victim of serial killer Ted Bundy",
+        "summary": "New DNA testing has solved the 51-year-old case of murdered teenager Laura Ann Aime, according to investigators."
+      },
+      {
+        "char": "💰",
+        "label": "fall of a cambodian money-laundering giant",
+        "url": "https://www.nytimes.com/2026/04/01/world/asia/china-cambodia-huione-extradition.html",
+        "title": "The Fall of a Cambodian Money-Laundering Giant",
+        "summary": "The former chairman of a financial group was brought to China in handcuffs, the latest high-level capture in a widening investigation into organized crime."
+      },
+      {
+        "char": "🌕",
+        "label": "china aims for the moon",
+        "url": "https://www.nytimes.com/2026/04/02/world/asia/china-space-moon-nasa-artemis.html",
+        "title": "China’s Aiming for the Moon, and NASA Is Looking Over Its Shoulder",
+        "summary": "The U.S. space agency launched a lunar flyby Wednesday, but Beijing is pursuing its own space program with formidable focus. Here’s what we know about it, in photos and videos."
+      },
+      {
+        "char": "🌍",
+        "label": "magnitude 7.4 earthquake in indonesia",
+        "url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
+        "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
+        "summary": "The quake struck between the islands of Manado and Ternate. Tsunami warnings have now been lifted."
+      },
+      {
+        "char": "⚖️",
+        "label": "families at greek court for train crash trial",
+        "url": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
+        "title": "Families cram into Greek court for trial into deadliest train crash",
+        "summary": "Fifty-seven people were killed when two trains collided in 2023 in the worst rail accident in Greek history, with 36 accused in a trial expected to last years."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
