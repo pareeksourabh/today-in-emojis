@@ -32339,5 +32339,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-02",
+    "emojis": [
+      {
+        "char": "🚁",
+        "label": "drones deliver contraband in uk prisons",
+        "url": "https://www.nytimes.com/2026/04/01/world/europe/uk-prisons-contraband-drones.html",
+        "title": "In UK Prisons, Drones Fly In Contraband ‘As if by Uber Eats’",
+        "summary": "Decades-old prison buildings were designed to be secure from the ground but not the air. Experts say that makes a lucrative smuggling trade hard to tackle."
+      },
+      {
+        "char": "🕊️",
+        "label": "toddlers return home from war-torn gaza",
+        "url": "https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html",
+        "title": "Evacuated From War-Torn Gaza, 11 Toddlers Return Home to Hugs and Tears",
+        "summary": "The Palestinian children were born prematurely in the early days of the war and moved from a besieged hospital to Egypt. They have now returned home to the enclave, which lies in ruins."
+      },
+      {
+        "char": "💰",
+        "label": "fall of a money-laundering giant in cambodia",
+        "url": "https://www.nytimes.com/2026/04/01/world/asia/china-cambodia-huione-extradition.html",
+        "title": "The Fall of a Cambodian Money-Laundering Giant",
+        "summary": "The former chairman of a financial group was brought to China in handcuffs, the latest high-level capture in a widening investigation into organized crime."
+      },
+      {
+        "char": "🌍",
+        "label": "earthquake hits off indonesia, one dead",
+        "url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
+        "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
+        "summary": "The quake struck between the islands of Manado and Ternate. Tsunami warnings have now been lifted."
+      },
+      {
+        "char": "⚖️",
+        "label": "canadian politician stephen lewis dies aged 88",
+        "url": "https://www.theguardian.com/world/2026/apr/01/stephen-lewis-canadian-politician-and-social-activist-dies-aged-88",
+        "title": "Stephen Lewis, Canadian politician and social activist, dies aged 88",
+        "summary": "Lewis’s son Avi Lewis was elected leader of progressive New Democratic party a day before his father’s death Stephen Lewis, the Canadian diplomat, politician and human rights advocate, who spent decades tirelessly working to focus global..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
