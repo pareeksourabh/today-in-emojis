@@ -1,43 +1,204 @@
 {
   "date": "2026-04-04",
-  "timestamp": "2026-04-04T16:20:37Z",
+  "timestamp": "2026-04-04T00:00:00Z",
   "emojis": [
     {
-      "char": "🇸🇳",
-      "label": "senegal bans ministers from travel",
-      "url": "https://www.bbc.com/news/articles/cp84z5r4d32o?at_medium=RSS&at_campaign=rss",
-      "title": "Senegal bans ministers from foreign travel as oil price rise bites",
-      "summary": "The fuel cost is nearly double what the government budgeted for putting pressure on stretched finances."
+      "char": "✈️",
+      "label": "us air force plane crash in gulf",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUG0tRnJ1LTVVSGZQRTJ3UVRIZF9VcmhEZERFZDFHQ01KOExyYTFZZ2Zqa2Y1aF9QdjFQTlFwX19HbE5ELThCT0tOVmpxZTBIVzQ0SVJ6em1ISlg4ODFPdEtKN2JHRWtrN1Y3N05Hc0RncW9tT1MxVkd1d1o1TlVEOWxUX2NMLXhjREE1VmxJak1oWlRPRF9uUk1Mei1KRElDU1B1dEs0VVBERmNXd2w3dGo3TTBzc3o3dWtFTkhuemR2anBIdVpNR053?oc=5",
+      "title": "Second US Air Force plane crashed in Persian Gulf region, New York Times reports - Reuters",
+      "summary": "Second US Air Force plane crashed in Persian Gulf region, New York Times reports Reuters"
+    },
+    {
+      "char": "🌍",
+      "label": "us deports people to uganda",
+      "url": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss",
+      "title": "US deports eight people 'of African origin' to Uganda",
+      "summary": "The Uganda Law Society criticises the deportation, saying it was illegal and \"dehumanising\"."
+    },
+    {
+      "char": "👩‍⚖️",
+      "label": "syria kidnappings raise fears",
+      "url": "https://www.nytimes.com/2026/04/03/world/middleeast/syria-kidnapping-alawite-woman-girls.html",
+      "title": "In Syria, Kidnappings of Women and Girls Fuel a Minority Group’s Fears",
+      "summary": "A Times investigation found that abductions of women and girls from Syria’s Alawite minority were more common, and more brutal, than the government has acknowledged."
+    },
+    {
+      "char": "📰",
+      "label": "rima hassan charged with terrorism",
+      "url": "https://www.nytimes.com/2026/04/03/rima-hassan-france-terrorism-charges.html",
+      "title": "Rima Hassan Is Charged With Glorifying Terrorism Online in Social Media Post",
+      "summary": "Rima Hassan, a member of the European Parliament, could face seven years in prison for the post, in which she quoted a perpetrator of a 1972 massacre in Israel."
+    },
+    {
+      "char": "⚔️",
+      "label": "trump's anger thrusts nato into crisis",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2liSDZHMVVtSHozdTMyejFlbDNQMVBSVU5JR09Vb3FxUV9QVDRaUDdxdGxhcGxPaEU4WE0tN2l2XzZILXVSck9lcF9UTDFWMGstcXhidklfOC04bUVCM1dtUDhKQjlfMnNtcFNRYjFVek9ONHhfOERBa0JyZnpsWFd3REtWSGxnYTcwdnhRbFFmTHNGSHRqZkZERU84S2tSTThDUG9tUHdiQ3pZb0lUVV9EY3BETU0?oc=5",
+      "title": "Trump's anger over Iran thrusts NATO into fresh crisis - Reuters",
+      "summary": "Trump's anger over Iran thrusts NATO into fresh crisis Reuters"
+    },
+    {
+      "char": "🎤",
+      "label": "gucci mane kidnapped by fellow artist",
+      "url": "https://www.bbc.com/news/articles/c937kezj03vo?at_medium=RSS&at_campaign=rss",
+      "title": "Rapper Gucci Mane kidnapped and robbed by fellow artist, prosecutors say",
+      "summary": "Officials say the hip-hop star was forced to sign papers releasing a rapper known as Pooh Shiesty from his record contract."
+    },
+    {
+      "char": "🛩️",
+      "label": "iran war updates on downed us jet",
+      "url": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil",
+      "title": "Iran War Live Updates: Downed U.S. Jet and Missing Crew Member Raise Stakes in War",
+      "summary": "The F-15E was the first American warplane shot down by Iran in the five-week war and a crew member is missing. A second U.S. combat plane crashed in the Gulf region and its pilot was rescued, U.S. officials said."
+    },
+    {
+      "char": "💻",
+      "label": "cambodia passes cybercrime law",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNXVqOWVRcXlRc09acnlvLTZ4TkdNWm1pbEpHMkV2NHNycVVNa1ZWTkV1SnF3UVQxSDB2blRUZmxoS0Z3TmRveno1MlJOTno5TWZIUkgtaU5kQW4yU3hSUmJISjEwQzk5Q1pBektGalBOcWtVcDkwZmVXbGZUSjZsMzZobVBqclhkUTA3U2tOdUJhcnZ1ZnF2OGVGdjdraXdFU3liUDBzTE9KRUxZZWxDUjZpcWtjUWhFdUcxWlE0S0FFYTBNWExSbkFibWpLZw?oc=5",
+      "title": "Cambodian parliament passes landmark cybercrime law after scam centre scrutiny - Reuters",
+      "summary": "Cambodian parliament passes landmark cybercrime law after scam centre scrutiny Reuters"
+    },
+    {
+      "char": "🇧🇫",
+      "label": "burkina faso military ruler on democracy",
+      "url": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
+      "title": "People of Burkina Faso should forget about democracy, says military ruler",
+      "summary": "Ibrahim Traoré, who took power in 2022 coup, tells state broadcaster ‘we must tell the truth, democracy isn’t for us’ People in Burkina Faso should forget about democracy as it is “not for us”, the military president, Ibrahim Traoré, tol..."
+    },
+    {
+      "char": "🚗",
+      "label": "lucid misses vehicle delivery estimates",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVpSS3JReFNyWXlBdWFmUExHRGxpblZQWWR0eXROaU5TLTJvVmxNamtJcVRCd2Q2dzJ4aGNkTXJiTmZ0MWNSaXFGdWp5TzlNdnBrSllhX3ZGUFp3VUtTV1dac01QVDIyREp1SUhFMjdwVnpldkpYelhkblV2eUlxQjQ3M2hyVnpEVHF3YXl1bFVxU1F0dmlIcWE0bUYtcmlpblRjMGVVc1dPelJQS0kzOFBzdFphQ0ZlU1Nr?oc=5",
+      "title": "Lucid misses first-quarter vehicle delivery estimates on supplier disruptions - Reuters",
+      "summary": "Lucid misses first-quarter vehicle delivery estimates on supplier disruptions Reuters"
+    },
+    {
+      "char": "🌕",
+      "label": "artemis ii crew halfway to moon",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+      "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
+      "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon."
+    },
+    {
+      "char": "🪖",
+      "label": "ex-us army pilot recalls survival battle",
+      "url": "https://www.nytimes.com/2026/04/03/world/middleeast/iraq-us-pow-rescue-survival.html",
+      "title": "Ex-US Army Pilot Recalls Battle for Survival When Shot Down in Iraq",
+      "summary": "Ronald Young Jr. was in the Army when his Apache Longbow copter went down during the U.S. invasion of Iraq."
+    },
+    {
+      "char": "✈️",
+      "label": "us forces search for missing airman",
+      "url": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news",
+      "title": "Iran War Live Updates: U.S. Forces Search for Missing Airman After Iran Downs Jet",
+      "summary": "The F-15E was the first U.S. warplane shot down by Iran in the war. The episode presents challenges for the United States that would grow if the missing airman is taken prisoner."
+    },
+    {
+      "char": "🇻🇪",
+      "label": "us lifts sanctions on venezuela",
+      "url": "https://www.theguardian.com/world/2026/apr/02/us-lifts-sanctions-on-venezuela-acting-president-delcy-rodriguez",
+      "title": "US lifts sanctions on Venezuela’s acting president Delcy Rodríguez",
+      "summary": "US moves towards reestablishing working relations between two countries after abducting President Nicolás Maduro The US has lifted sanctions on Venezuela’s acting president, Delcy Rodríguez , in the latest step towards normalising relati..."
     },
     {
       "char": "🏛️",
-      "label": "trump seeks to resume ballroom work",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeV92U0FlM2ZySV9MMUJNYTBjUF84cWdielJlOWc2WDlybG82M3E3NjhTeVE3SWdvMTV2RzJBNW04YUdHTUV1ZndVcEU5c2V2dmZGbmJRV3g1MDc4bjFxd3g1bEFMSGR5WlRBRHBEb3doN0VsSTBQR1NodzhabWlhT2dpOHVWTW5EYVdfUjFxaE1ZbTFscWFGcVlqNXVUaFRGU0dJMjRCb1lyVGdRaDJhcnNoVzJxWm8yOWFDYnNkc2hJaFE?oc=5",
-      "title": "Trump administration files emergency motion to resume ballroom work, citing security issues - reuters.com",
-      "summary": "Trump administration files emergency motion to resume ballroom work, citing security issues reuters.com"
+      "label": "cuba begins releasing prisoners",
+      "url": "https://www.theguardian.com/world/2026/apr/03/cuba-to-release-pardon-prisoners-us-fuel-blockade",
+      "title": "Cuba begins to free more than 2,000 prisoners as US eases fuel blockade",
+      "summary": "Havana makes a Holy Week ‘humanitarian’ gesture as Russian tanker is allowed to reach oil-starved island Sign up for the Breaking News US email to get newsletter alerts in your inbox Cuban authorities have begun to free prisoners after a..."
     },
     {
-      "char": "🏖️",
-      "label": "mafia boss arrested in luxury villa",
-      "url": "https://www.bbc.com/news/articles/cn437qkk80lo?at_medium=RSS&at_campaign=rss",
-      "title": "Fugitive mafia boss wanted for murder arrested in Amalfi Coast luxury villa",
-      "summary": "Roberto Mazzarella has been on the run for more than a year and was living under a false name, police say."
+      "char": "🕊️",
+      "label": "syria kidnappings of women",
+      "url": "https://www.nytimes.com/2026/04/03/world/middleeast/syria-kidnapping-alawite-woman-girls.html",
+      "title": "In Syria, Kidnappings of Women and Girls Fuel a Minority Group’s Fears",
+      "summary": "A Times investigation found that abductions of women and girls from Syria’s Alawite minority were more common, and more brutal, than the government has acknowledged."
     },
     {
-      "char": "💡",
-      "label": "eu calls for windfall tax on energy firms",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM3NQM0lpZExNQ1ZqalgwbzU2c1EyV0RJaGNsQ1ZiZDNYLVJWb0JOY0xYMzgzZjJ0aERhUVNITnV2TU83V3NGOEZNYnNYbmZ3dUtqSm4yTnE1aWtudF9aTE54b2FTWUM4ZkFEaklQN1hINWZtLVhLczNsMjZMVEgtaWNpdjl3Xzk5S3FKaG1TRXJGSjQ4cHZBSE1zWHVQS2VLOWRuWGlwYW1oUVdZYmlfbG1nb0Z6MUh5Z3Zmb2dhLTdRamZ1RUpyN1lXSTlfd2lCMDhDdmNCZ2s4QkU?oc=5",
-      "title": "Exclusive: Five EU countries call for windfall tax on energy companies - reuters.com",
-      "summary": "Exclusive: Five EU countries call for windfall tax on energy companies reuters.com"
+      "char": "⚓",
+      "label": "options in strait of hormuz",
+      "url": "https://www.nytimes.com/2026/04/04/world/europe/strait-hormuz-shipping-iran.html",
+      "title": "Europe’s Options in the Strait of Hormuz: Few, and Risky",
+      "summary": "European leaders and other officials have ideas for bringing shipping back to the strait once the Iran war ends. But none of them are sure bets."
     },
     {
-      "char": "🚁",
-      "label": "iran faces dangerous search for crew member",
-      "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-      "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
-      "summary": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life."
+      "char": "⚽",
+      "label": "football rally in peru",
+      "url": "https://www.theguardian.com/world/2026/apr/04/lima-football-stadium-pre-match-event-injured-dead",
+      "title": "One dead and dozens injured at Peru football stadium during pre-match event",
+      "summary": "Initial reports suggested parts of arena’s wall had collapsed, but Alianza Lima says there were no structural failures One person has been killed and dozens more injured at the Alejandro Villanueva Stadium in Lima, Peru, according to the..."
+    },
+    {
+      "char": "🇨🇺",
+      "label": "cuba oil tanker diplomacy",
+      "url": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
+      "title": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
+      "summary": "Despite hostile rhetoric Trump let a Russian ship break his blockade – could it herald a Venezuela-style outcome? When a sanctioned Russian oil tanker, the Anatoly Kolodkin, docked at Cuba’s Matanzas oil terminal on Tuesday, unloading 70..."
+    },
+    {
+      "char": "🌧️",
+      "label": "thunderstorms in uae",
+      "url": "https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia",
+      "title": "Weather tracker: Thunderstorms drench UAE and Saudi Arabia",
+      "summary": "Abnormally strong jet stream triggers deluge in Middle East, while north Africa braces for 60-80mph gusts An unusual weather pattern unleashed severe thunderstorms across parts of the Middle East last week, battering countries including..."
+    },
+    {
+      "char": "✈️",
+      "label": "iran targets us fighter jet",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV1VrSVBydUxWZy0zaTFmUnhJeTBYQU02WWVTYXpQMTQ2S3puTFA2VndfbGxSdWF5RDhaUk1sak1wQmFXVzVRbUd2ZUdINmZPTGFZQnJjWkRsUEtXbnJUSkhaZzJ1Q1pXVTN3a3FRRHo3SEdvMkc4eUQxTnZJRnhBeXAyWHNudjZPUXlNLW5jNk9pdDFGT2pXeGEyalVaSm9JaWZXNHZuSkdnREdoZGxORmtINA?oc=5",
+      "title": "Iran says new air defence system used to target US fighter jet - Reuters",
+      "summary": "Iran says new air defence system used to target US fighter jet Reuters"
+    },
+    {
+      "char": "⚡",
+      "label": "eu sanctions on russian energy",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMGg1Yk05UjRVQVJmYUxxTUo3ZVBwZXZ4MmZwWEZZRURWb2w5OEFvRlJNYWNQYmFLdkdjdldaeDlJd25yYk1uMkJ6SHZ3M0dMZW0xQUlJTzFBTVhiX1ZFYzZWLWFGeEdDRkRaRndoSkFYR25Kck1YS3ROZmxzNmx1enJzeE43YVpDb0dPMlU2MW51X1hQR0dma091SUNXbl9wQUpSVU5QdWo4a2pXRFVlVW1Ka3pvQ3VFR2YwR1hiMTdKLWUzeEhPUw?oc=5",
+      "title": "Slovak PM says EU should drop sanctions on Russian oil and gas to boost energy security - Reuters",
+      "summary": "Slovak PM says EU should drop sanctions on Russian oil and gas to boost energy security Reuters"
+    },
+    {
+      "char": "🌕",
+      "label": "artemis ii crew halfway to moon",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+      "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
+      "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon."
+    },
+    {
+      "char": "⚽",
+      "label": "peru football stadium tragedy",
+      "url": "https://www.theguardian.com/world/2026/apr/04/lima-football-stadium-pre-match-event-injured-dead",
+      "title": "One dead and dozens injured at Peru football stadium during pre-match event",
+      "summary": "Initial reports suggested parts of arena’s wall had collapsed, but Alianza Lima says there were no structural failures One person has been killed and dozens more injured at the Alejandro Villanueva Stadium in Lima, Peru, according to the..."
+    },
+    {
+      "char": "🌍",
+      "label": "cuba's oil tanker diplomacy",
+      "url": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
+      "title": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
+      "summary": "Despite hostile rhetoric Trump let a Russian ship break his blockade – could it herald a Venezuela-style outcome? When a sanctioned Russian oil tanker, the Anatoly Kolodkin, docked at Cuba’s Matanzas oil terminal on Tuesday, unloading 70..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "The news items reveal a troubling pattern of violence, political strife, and humanitarian crises, which collectively evoke feelings of fear and concern for global stability.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
