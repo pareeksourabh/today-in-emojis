@@ -32911,5 +32911,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-04",
+    "emojis": [
+      {
+        "char": "🇸🇳",
+        "label": "senegal bans ministers from travel",
+        "url": "https://www.bbc.com/news/articles/cp84z5r4d32o?at_medium=RSS&at_campaign=rss",
+        "title": "Senegal bans ministers from foreign travel as oil price rise bites",
+        "summary": "The fuel cost is nearly double what the government budgeted for putting pressure on stretched finances."
+      },
+      {
+        "char": "🏛️",
+        "label": "trump seeks to resume ballroom work",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeV92U0FlM2ZySV9MMUJNYTBjUF84cWdielJlOWc2WDlybG82M3E3NjhTeVE3SWdvMTV2RzJBNW04YUdHTUV1ZndVcEU5c2V2dmZGbmJRV3g1MDc4bjFxd3g1bEFMSGR5WlRBRHBEb3doN0VsSTBQR1NodzhabWlhT2dpOHVWTW5EYVdfUjFxaE1ZbTFscWFGcVlqNXVUaFRGU0dJMjRCb1lyVGdRaDJhcnNoVzJxWm8yOWFDYnNkc2hJaFE?oc=5",
+        "title": "Trump administration files emergency motion to resume ballroom work, citing security issues - reuters.com",
+        "summary": "Trump administration files emergency motion to resume ballroom work, citing security issues reuters.com"
+      },
+      {
+        "char": "🏖️",
+        "label": "mafia boss arrested in luxury villa",
+        "url": "https://www.bbc.com/news/articles/cn437qkk80lo?at_medium=RSS&at_campaign=rss",
+        "title": "Fugitive mafia boss wanted for murder arrested in Amalfi Coast luxury villa",
+        "summary": "Roberto Mazzarella has been on the run for more than a year and was living under a false name, police say."
+      },
+      {
+        "char": "💡",
+        "label": "eu calls for windfall tax on energy firms",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM3NQM0lpZExNQ1ZqalgwbzU2c1EyV0RJaGNsQ1ZiZDNYLVJWb0JOY0xYMzgzZjJ0aERhUVNITnV2TU83V3NGOEZNYnNYbmZ3dUtqSm4yTnE1aWtudF9aTE54b2FTWUM4ZkFEaklQN1hINWZtLVhLczNsMjZMVEgtaWNpdjl3Xzk5S3FKaG1TRXJGSjQ4cHZBSE1zWHVQS2VLOWRuWGlwYW1oUVdZYmlfbG1nb0Z6MUh5Z3Zmb2dhLTdRamZ1RUpyN1lXSTlfd2lCMDhDdmNCZ2s4QkU?oc=5",
+        "title": "Exclusive: Five EU countries call for windfall tax on energy companies - reuters.com",
+        "summary": "Exclusive: Five EU countries call for windfall tax on energy companies reuters.com"
+      },
+      {
+        "char": "🚁",
+        "label": "iran faces dangerous search for crew member",
+        "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+        "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
+        "summary": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
