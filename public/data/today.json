@@ -1,41 +1,41 @@
 {
   "date": "2026-04-04",
-  "timestamp": "2026-04-04T08:46:50Z",
+  "timestamp": "2026-04-04T00:00:00Z",
   "emojis": [
     {
-      "char": "🍁",
-      "label": "maple syrup scam in quebec",
-      "url": "https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada",
-      "title": "Alleged maple syrup scam in Quebec uncovered by Canadian broadcaster",
-      "summary": "A Radio-Canada reporter noticed his maple syrup tasted odd; testing revealed it was adulterated with cane sugar An investigation by Canada ’s national broadcaster has found that a major Quebec producer has been diluting its maple syrup w..."
+      "char": "🕊️",
+      "label": "syria kidnappings of women",
+      "url": "https://www.nytimes.com/2026/04/03/world/middleeast/syria-kidnapping-alawite-woman-girls.html",
+      "title": "In Syria, Kidnappings of Women and Girls Fuel a Minority Group’s Fears",
+      "summary": "A Times investigation found that abductions of women and girls from Syria’s Alawite minority were more common, and more brutal, than the government has acknowledged."
+    },
+    {
+      "char": "⚓",
+      "label": "options in strait of hormuz",
+      "url": "https://www.nytimes.com/2026/04/04/world/europe/strait-hormuz-shipping-iran.html",
+      "title": "Europe’s Options in the Strait of Hormuz: Few, and Risky",
+      "summary": "European leaders and other officials have ideas for bringing shipping back to the strait once the Iran war ends. But none of them are sure bets."
+    },
+    {
+      "char": "⚽",
+      "label": "football rally in peru",
+      "url": "https://www.theguardian.com/world/2026/apr/04/lima-football-stadium-pre-match-event-injured-dead",
+      "title": "One dead and dozens injured at Peru football stadium during pre-match event",
+      "summary": "Initial reports suggested parts of arena’s wall had collapsed, but Alianza Lima says there were no structural failures One person has been killed and dozens more injured at the Alejandro Villanueva Stadium in Lima, Peru, according to the..."
     },
     {
       "char": "🇨🇺",
-      "label": "cuba releases 2000 prisoners",
-      "url": "https://www.theguardian.com/world/2026/apr/03/cuba-to-release-pardon-prisoners-us-fuel-blockade",
-      "title": "Cuba begins to free more than 2,000 prisoners as US eases fuel blockade",
-      "summary": "Havana makes a Holy Week ‘humanitarian’ gesture as Russian tanker is allowed to reach oil-starved island Sign up for the Breaking News US email to get newsletter alerts in your inbox Cuban authorities have begun to free prisoners after a..."
+      "label": "cuba oil tanker diplomacy",
+      "url": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
+      "title": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
+      "summary": "Despite hostile rhetoric Trump let a Russian ship break his blockade – could it herald a Venezuela-style outcome? When a sanctioned Russian oil tanker, the Anatoly Kolodkin, docked at Cuba’s Matanzas oil terminal on Tuesday, unloading 70..."
     },
     {
-      "char": "⚔️",
-      "label": "iran war updates",
-      "url": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news",
-      "title": "Iran War Live Updates: U.S. Searches for Missing Airman as Israel Launches Fresh Strikes on Tehran",
-      "summary": "Iran downed an F-15E, the first U.S. warplane the country has shot down in the war. The episode presents challenges for the United States that would grow if the missing airman is taken prisoner."
-    },
-    {
-      "char": "🛂",
-      "label": "us deportations to uganda",
-      "url": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss",
-      "title": "US deports eight people 'of African origin' to Uganda",
-      "summary": "The Uganda Law Society criticises the deportation, saying it was illegal and \"dehumanising\"."
-    },
-    {
-      "char": "📜",
-      "label": "burkina faso democracy remarks",
-      "url": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
-      "title": "People of Burkina Faso should forget about democracy, says military ruler",
-      "summary": "Ibrahim Traoré, who took power in 2022 coup, tells state broadcaster ‘we must tell the truth, democracy isn’t for us’ People in Burkina Faso should forget about democracy as it is “not for us”, the military president, Ibrahim Traoré, tol..."
+      "char": "🌧️",
+      "label": "thunderstorms in uae",
+      "url": "https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia",
+      "title": "Weather tracker: Thunderstorms drench UAE and Saudi Arabia",
+      "summary": "Abnormally strong jet stream triggers deluge in Middle East, while north Africa braces for 60-80mph gusts An unusual weather pattern unleashed severe thunderstorms across parts of the Middle East last week, battering countries including..."
     }
   ],
   "source": "ai-openai",
