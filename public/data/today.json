@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news items include multiple crises, such as military conflicts and humanitarian issues, which evoke a sense of anxiety and concern about global stability.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The news is filled with tragic events, including crashes, kidnappings, and a deadly incident at a football stadium, evoking a heavy sense of sorrow and concern for human safety.",
     "palette": [
       "😢",
       "😡",
