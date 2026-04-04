@@ -32823,5 +32823,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-04",
+    "emojis": [
+      {
+        "char": "🍁",
+        "label": "maple syrup scam in quebec",
+        "url": "https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada",
+        "title": "Alleged maple syrup scam in Quebec uncovered by Canadian broadcaster",
+        "summary": "A Radio-Canada reporter noticed his maple syrup tasted odd; testing revealed it was adulterated with cane sugar An investigation by Canada ’s national broadcaster has found that a major Quebec producer has been diluting its maple syrup w..."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuba releases 2000 prisoners",
+        "url": "https://www.theguardian.com/world/2026/apr/03/cuba-to-release-pardon-prisoners-us-fuel-blockade",
+        "title": "Cuba begins to free more than 2,000 prisoners as US eases fuel blockade",
+        "summary": "Havana makes a Holy Week ‘humanitarian’ gesture as Russian tanker is allowed to reach oil-starved island Sign up for the Breaking News US email to get newsletter alerts in your inbox Cuban authorities have begun to free prisoners after a..."
+      },
+      {
+        "char": "⚔️",
+        "label": "iran war updates",
+        "url": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news",
+        "title": "Iran War Live Updates: U.S. Searches for Missing Airman as Israel Launches Fresh Strikes on Tehran",
+        "summary": "Iran downed an F-15E, the first U.S. warplane the country has shot down in the war. The episode presents challenges for the United States that would grow if the missing airman is taken prisoner."
+      },
+      {
+        "char": "🛂",
+        "label": "us deportations to uganda",
+        "url": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss",
+        "title": "US deports eight people 'of African origin' to Uganda",
+        "summary": "The Uganda Law Society criticises the deportation, saying it was illegal and \"dehumanising\"."
+      },
+      {
+        "char": "📜",
+        "label": "burkina faso democracy remarks",
+        "url": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
+        "title": "People of Burkina Faso should forget about democracy, says military ruler",
+        "summary": "Ibrahim Traoré, who took power in 2022 coup, tells state broadcaster ‘we must tell the truth, democracy isn’t for us’ People in Burkina Faso should forget about democracy as it is “not for us”, the military president, Ibrahim Traoré, tol..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
