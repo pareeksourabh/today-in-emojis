@@ -32779,5 +32779,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-04",
+    "emojis": [
+      {
+        "char": "🇺🇬",
+        "label": "us deports people to uganda",
+        "url": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss",
+        "title": "US deports eight people 'of African origin' to Uganda",
+        "summary": "The Uganda Law Society criticises the deportation, saying it was illegal and \"dehumanising\"."
+      },
+      {
+        "char": "✈️",
+        "label": "downed us jet in iran war",
+        "url": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil",
+        "title": "Downed U.S. Jet and Missing Crew Member Raise Stakes in War",
+        "summary": "The F-15E was the first American warplane shot down by Iran in the five-week war and a crew member is missing. A second U.S. combat plane crashed in the Gulf region and its pilot was rescued, U.S. officials said."
+      },
+      {
+        "char": "⛴️",
+        "label": "french ship in strait of hormuz",
+        "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
+        "title": "French-owned ship passes through Strait of Hormuz",
+        "summary": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began."
+      },
+      {
+        "char": "⛪",
+        "label": "pope washes priests' feet",
+        "url": "https://www.nytimes.com/2026/04/02/world/europe/pope-leo-wash-feet-holy-thursday.html",
+        "title": "Pope Leo Returns to Tradition, Washing Priests’ Feet",
+        "summary": "Pope Francis washed and kissed the feet of prisoners and refugees. On Thursday, his successor performed the rite of humility and service for priests."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuba uprising potential",
+        "url": "https://www.nytimes.com/2026/04/03/world/americas/cuba-opposition-uprising.html",
+        "title": "Could There Be a Popular Uprising in Cuba?",
+        "summary": "There is no organized opposition on the island because many critics of the regime have fled. But anti-government protests have been growing."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
