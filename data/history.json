@@ -32867,5 +32867,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-04",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "uganda receives us deportation flight",
+        "url": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
+        "title": "Uganda receives first US deportation flight under third-country agreement",
+        "summary": "Dozen people arrive under new deal but legal challenges expected with scheme criticised as ‘dehumanising process’ A flight carrying people being deported from the US has landed in Uganda, as Donald Trump’s administration pushes on with i..."
+      },
+      {
+        "char": "🌧️",
+        "label": "thunderstorms drench uae and saudi arabia",
+        "url": "https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia",
+        "title": "Weather tracker: Thunderstorms drench UAE and Saudi Arabia",
+        "summary": "Abnormally strong jet stream triggers deluge in Middle East, while north Africa braces for 60-80mph gusts An unusual weather pattern unleashed severe thunderstorms across parts of the Middle East last week, battering countries including..."
+      },
+      {
+        "char": "🛳️",
+        "label": "french ship passes through strait of hormuz",
+        "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
+        "title": "French-owned ship passes through Strait of Hormuz",
+        "summary": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began."
+      },
+      {
+        "char": "🔦",
+        "label": "kidnappings fuel fears in syria",
+        "url": "https://www.nytimes.com/2026/04/03/world/middleeast/syria-kidnapping-alawite-woman-girls.html",
+        "title": "In Syria, Kidnappings of Women and Girls Fuel a Minority Group’s Fears",
+        "summary": "A Times investigation found that abductions of women and girls from Syria’s Alawite minority were more common, and more brutal, than the government has acknowledged."
+      },
+      {
+        "char": "⚖️",
+        "label": "cuba begins to free prisoners",
+        "url": "https://www.theguardian.com/world/2026/apr/03/cuba-to-release-pardon-prisoners-us-fuel-blockade",
+        "title": "Cuba begins to free more than 2,000 prisoners as US eases fuel blockade",
+        "summary": "Havana makes a Holy Week ‘humanitarian’ gesture as Russian tanker is allowed to reach oil-starved island Sign up for the Breaking News US email to get newsletter alerts in your inbox Cuban authorities have begun to free prisoners after a..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
