@@ -1,43 +1,42 @@
 {
   "date": "2026-04-05",
-  "timestamp": "2026-04-05T00:00:00Z",
   "emojis": [
     {
       "char": "🌍",
-      "label": "afghanistan earthquake and floods",
-      "url": "https://www.nytimes.com/2026/04/04/world/asia/afghanistan-floods-earthquake.html",
-      "title": "Deadly Earthquake and Floods Worsen Afghanistan’s Troubles",
-      "summary": "Floods have killed at least 77 people this week and destroyed or damaged thousands of homes, and an earthquake on Friday killed a dozen more."
+      "label": "world",
+      "url": "",
+      "title": "",
+      "summary": ""
     },
     {
-      "char": "🚀",
-      "label": "artemis ii crew halfway to moon",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-      "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
-      "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon."
+      "char": "💡",
+      "label": "insight",
+      "url": "",
+      "title": "",
+      "summary": ""
     },
     {
-      "char": "✈️",
-      "label": "f-15e strike eagle shot down by iran",
-      "url": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
-      "title": "What We Know About the F-15E Strike Eagle Shot Down by Iran",
-      "summary": "An airman was rescued on Saturday night, President Trump said. The rescue came after a risky two-day operation deep inside Iran."
+      "char": "🤝",
+      "label": "together",
+      "url": "",
+      "title": "",
+      "summary": ""
     },
     {
-      "char": "🎨",
-      "label": "protests over kahlo masterpieces",
-      "url": "https://www.theguardian.com/world/2026/apr/05/mexican-art-world-protests-over-plan-to-send-frida-kahlo-masterpieces-to-spain",
-      "title": "Mexican art world protests over plan to send Frida Kahlo masterpieces to Spain",
-      "summary": "Cultural figures sign open letter asking government for clarity on how long landmark collection will remain abroad One of the world’s most important collections of 20th-century Mexican art, including works by Frida Kahlo and Diego Rivera..."
+      "char": "🌱",
+      "label": "growth",
+      "url": "",
+      "title": "",
+      "summary": ""
     },
     {
-      "char": "⚖️",
-      "label": "canadian woman released from ice detention",
-      "url": "https://www.theguardian.com/world/2026/apr/03/canadian-ice-detention-mother-daughter-tania-warner-released",
-      "title": "Canadian woman held with daughter by ICE is released after nearly three weeks of detention",
-      "summary": "Tania Warner is fitted with ankle monitor and released along with seven-year-old daughter Ayla Luca after being deemed not a flight risk A Canadian woman and her seven-year-old daughter, who were held for nearly three weeks in a notoriou..."
+      "char": "😐",
+      "label": "neutral",
+      "url": "",
+      "title": "",
+      "summary": ""
     }
   ],
-  "source": "ai-openai",
+  "source": "fallback",
   "post_type": "normal"
 }
