@@ -1,42 +1,43 @@
 {
   "date": "2026-04-05",
+  "timestamp": "2026-04-05T00:00:00Z",
   "emojis": [
     {
-      "char": "🌍",
-      "label": "world",
-      "url": "",
-      "title": "",
-      "summary": ""
+      "char": "🇺🇸",
+      "label": "us arrests relatives of qasem soleimani",
+      "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+      "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
+      "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said."
     },
     {
-      "char": "💡",
-      "label": "insight",
-      "url": "",
-      "title": "",
-      "summary": ""
+      "char": "🇨🇺",
+      "label": "cuba oil tanker diplomacy with us",
+      "url": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
+      "title": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
+      "summary": "Despite hostile rhetoric Trump let a Russian ship break his blockade – could it herald a Venezuela-style outcome? When a sanctioned Russian oil tanker, the Anatoly Kolodkin, docked at Cuba’s Matanzas oil terminal on Tuesday, unloading 70..."
     },
     {
-      "char": "🤝",
-      "label": "together",
-      "url": "",
-      "title": "",
-      "summary": ""
+      "char": "💔",
+      "label": "russian attack on ukraine market kills five",
+      "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian attack on Ukraine market kills five",
+      "summary": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people."
     },
     {
-      "char": "🌱",
-      "label": "growth",
-      "url": "",
-      "title": "",
-      "summary": ""
+      "char": "🛰️",
+      "label": "interceptor missiles stockpiles dwindling",
+      "url": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-war-interceptor-missiles.html",
+      "title": "Interceptor Missiles Save Lives, but Stockpiles Are Dwindling",
+      "summary": "Defense systems that shoot projectiles out of the sky have become one of the most important components of warfare, so much so that militaries face a diminishing supply."
     },
     {
-      "char": "😐",
-      "label": "neutral",
-      "url": "",
-      "title": "",
-      "summary": ""
+      "char": "🚢",
+      "label": "migrants missing after boat capsizes off libya",
+      "url": "https://www.nytimes.com/2026/04/05/world/europe/migrants-missing-boat-capsize-libya.html",
+      "title": "More Than 70 Migrants Missing After Boat Capsizes Off Libya",
+      "summary": "Survivors said at least 100 people were on a boat that had left Libya for Europe. Only 32 of those aboard are known to have survived."
     }
   ],
-  "source": "fallback",
+  "source": "ai-openai",
   "post_type": "normal"
 }
