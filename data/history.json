@@ -33131,5 +33131,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-05",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "f-15e strike eagle shot down by iran",
+        "url": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
+        "title": "What We Know About the F-15E Strike Eagle Shot Down by Iran",
+        "summary": "An airman was rescued on Saturday night, President Trump said. The rescue came after a risky two-day operation deep inside Iran."
+      },
+      {
+        "char": "👩‍👧",
+        "label": "canadian mother and daughter released",
+        "url": "https://www.theguardian.com/world/2026/apr/03/canadian-ice-detention-mother-daughter-tania-warner-released",
+        "title": "Canadian woman held with daughter by ICE is released after nearly three weeks of detention",
+        "summary": "Tania Warner is fitted with ankle monitor and released along with seven-year-old daughter Ayla Luca after being deemed not a flight risk A Canadian woman and her seven-year-old daughter, who were held for nearly three weeks in a notoriou..."
+      },
+      {
+        "char": "⚽",
+        "label": "interpol warrant for congo footballer",
+        "url": "https://www.theguardian.com/football/2026/mar/30/congo-brazzaville-jean-guy-blaise-mayolas-fifa-interpol-arrest-warrant",
+        "title": "Interpol arrest warrant requested in Congo-Brazzaville for Jean-Guy Blaise Mayolas",
+        "summary": "Football federation president on the run with wife and son Conviction in absentia of wide-ranging corruption charges Authorities in Congo-Brazzaville have applied to Interpol for an international arrest warrant against Jean-Guy Blaise Ma..."
+      },
+      {
+        "char": "📰",
+        "label": "trump escalates threat to iran",
+        "url": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news",
+        "title": "Iran War Live Updates: Trump Escalates Threat to Hit Iranian Power Plants After U.S. Rescues Downed Airman",
+        "summary": "President Trump used an expletive-laden social media post to taunt Iranian leaders, saying that the United States would attack if they did not fully reopen the Strait of Hormuz."
+      },
+      {
+        "char": "🌍",
+        "label": "pope calls for peace on easter",
+        "url": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
+        "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
+        "summary": "Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
