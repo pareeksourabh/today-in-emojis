@@ -32999,5 +32999,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-05",
+    "emojis": [
+      {
+        "char": "⚽",
+        "label": "peru football stadium tragedy",
+        "url": "https://www.theguardian.com/world/2026/apr/04/lima-football-stadium-pre-match-event-injured-dead",
+        "title": "One dead and dozens injured at Peru football stadium during pre-match event",
+        "summary": "Initial reports suggested parts of arena’s wall had collapsed, but Alianza Lima says there were no structural failures One person has been killed and dozens more injured at the Alejandro Villanueva Stadium in Lima, Peru, according to the..."
+      },
+      {
+        "char": "🍁",
+        "label": "maple syrup scam uncovered",
+        "url": "https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada",
+        "title": "Alleged maple syrup scam in Quebec uncovered by Canadian broadcaster",
+        "summary": "A Radio-Canada reporter noticed his maple syrup tasted odd; testing revealed it was adulterated with cane sugar An investigation by Canada ’s national broadcaster has found that a major Quebec producer has been diluting its maple syrup w..."
+      },
+      {
+        "char": "🐀",
+        "label": "statue for landmine-sniffing rat",
+        "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo?at_medium=RSS&at_campaign=rss",
+        "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
+        "summary": "The statue honours the late African giant pouched rat who sniffed out more than 100 landmines during his lifetime."
+      },
+      {
+        "char": "🌍",
+        "label": "iranian respite in nature",
+        "url": "https://www.nytimes.com/2026/04/04/world/europe/iranian-respite-war.html",
+        "title": "Iranians Seek Respite in Nature Amid the War",
+        "summary": "Families gathered for picnics and games this week to mark the end of the Iranian new year holiday, seizing on a brief chance to celebrate."
+      },
+      {
+        "char": "🚀",
+        "label": "artemis ii crew halfway to moon",
+        "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+        "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
+        "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
