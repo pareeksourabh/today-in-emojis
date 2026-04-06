@@ -33219,5 +33219,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-06",
+    "emojis": [
+      {
+        "char": "🇩🇪",
+        "label": "germany military approval for travel",
+        "url": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
+        "title": "German males under 45 may need military approval for long stays abroad",
+        "summary": "Under the law, travel approvals must generally be granted and it remains unclear how the rule would be enforced if breached."
+      },
+      {
+        "char": "🇨🇳",
+        "label": "china drone industry regulations",
+        "url": "https://www.nytimes.com/2026/04/05/world/asia/china-drone-regulations.html",
+        "title": "China Built the World’s Drone Industry. Now It’s Locking Down the Skies.",
+        "summary": "The Chinese government tightened rules to curb what it described as illegal drone use, but some users say the changes are now restricting too many flights."
+      },
+      {
+        "char": "🚢",
+        "label": "migrants missing after boat capsizes",
+        "url": "https://www.nytimes.com/2026/04/05/world/europe/migrants-missing-boat-capsize-libya.html",
+        "title": "More Than 70 Migrants Missing After Boat Capsizes Off Libya",
+        "summary": "Survivors said at least 100 people were on a boat that had left Libya for Europe. Only 32 of those aboard are known to have survived."
+      },
+      {
+        "char": "💰",
+        "label": "dollar steady amid iran war",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRm1ZXzAydjFIUk5NanVGMXNwWkdjd0F4dWFSODVaNXh1TVZOR2t5MFlWQ2FTd0RtTmYyNTFfVURBRlVzTUpFTjBvcU4xM0lVTEV5ajJsTWE5UXAxOXJST1VRMlpDal9rYlR6cHpuamM4R2ZIQ29zckhmaHlIYVRBZ0hWODVmSXVHeWlYOEpGRS1yZ181QUd1QUJTR3hYSmVxMk1yNVJnMDZVUFU?oc=5",
+        "title": "Dollar steady as traders weigh escalating Iran war, ceasefire hopes - Reuters",
+        "summary": "Dollar steady as traders weigh escalating Iran war, ceasefire hopes Reuters"
+      },
+      {
+        "char": "🎨",
+        "label": "frida kahlo masterpieces protest",
+        "url": "https://www.theguardian.com/world/2026/apr/05/mexican-art-world-protests-over-plan-to-send-frida-kahlo-masterpieces-to-spain",
+        "title": "Mexican art world protests over plan to send Frida Kahlo masterpieces to Spain",
+        "summary": "Cultural figures sign open letter asking government for clarity on how long landmark collection will remain abroad One of the world’s most important collections of 20th-century Mexican art, including works by Frida Kahlo and Diego Rivera..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
