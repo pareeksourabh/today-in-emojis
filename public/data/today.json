@@ -1,132 +1,34 @@
 {
-  "date": "2026-04-05",
-  "timestamp": "2026-04-05T00:00:00Z",
+  "date": "2026-04-06",
+  "timestamp": "2026-04-06T00:00:00Z",
   "emojis": [
     {
-      "char": "🇨🇺",
-      "label": "cubans study oil tanker diplomacy",
-      "url": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
-      "title": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
-      "summary": "Despite hostile rhetoric Trump let a Russian ship break his blockade – could it herald a Venezuela-style outcome? When a sanctioned Russian oil tanker, the Anatoly Kolodkin, docked at Cuba’s Matanzas oil terminal on Tuesday, unloading 70..."
-    },
-    {
-      "char": "⚔️",
-      "label": "iran war updates and threats",
-      "url": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news",
-      "title": "Iran War Live Updates: U.S. Races to Find Missing Crew Member as Trump Repeats Threats Over Strait",
-      "summary": "President Trump said time was “running out” on his ultimatum to reopen the Strait of Hormuz, and Israel struck a major petrochemical complex in Iran’s southwest."
-    },
-    {
-      "char": "📰",
-      "label": "false reports on ilhan omar",
-      "url": "https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland",
-      "title": "News outlets falsely report Somaliland called for extradition of Ilhan Omar",
-      "summary": "Reports, based on X post from unofficial account, follow JD Vance’s accusations and threats of finding ‘legal remedies’ Sign up for the Breaking News US email to get newsletter alerts in your inbox Several news outlets have falsely repor..."
-    },
-    {
-      "char": "🌍",
-      "label": "artemis ii crew halfway to moon",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-      "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
-      "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon."
-    },
-    {
-      "char": "🌪️",
-      "label": "afghanistan floods and earthquakes",
-      "url": "https://www.nytimes.com/2026/04/04/world/asia/afghanistan-floods-earthquake.html",
-      "title": "Deadly Earthquake and Floods Worsen Afghanistan’s Troubles",
-      "summary": "Floods have killed at least 77 people this week and destroyed or damaged thousands of homes, and an earthquake on Friday killed a dozen more."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "canadian woman released from ice detention",
-      "url": "https://www.theguardian.com/world/2026/apr/03/canadian-ice-detention-mother-daughter-tania-warner-released",
-      "title": "Canadian woman held with daughter by ICE is released after nearly three weeks of detention",
-      "summary": "Tania Warner is fitted with ankle monitor and released along with seven-year-old daughter Ayla Luca after being deemed not a flight risk A Canadian woman and her seven-year-old daughter, who were held for nearly three weeks in a notoriou..."
-    },
-    {
-      "char": "🇺🇦",
-      "label": "us envoys could visit ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeU04Y2x1TUREeDlxdkxxVzBYZlU3c1R5QlA5UldXNG8yZjNVaFB2UkJZcUQxRWZPYUVzTnhvNF92eEZKMnRpSXNWdFVYb0x4RjdkeWw0WEVBd1F5YWZoaVk5ajBqOHlmS1NNTFp5S1Q3VGQ5czBfTlNoY2dNczcybU9URDJXS0czNDlVWGlhVVQ5bDVpdlFWWVU1Q0ZXRk0zUWtMOUVXRGhSTm9pTEJqX25mU0VxOEF2a2c?oc=5",
-      "title": "US envoys Witkoff and Kushner could visit Ukraine, Kyiv says - Reuters",
-      "summary": "US envoys Witkoff and Kushner could visit Ukraine, Kyiv says Reuters"
-    },
-    {
-      "char": "🇨🇺",
-      "label": "cuba studies oil tanker diplomacy",
-      "url": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
-      "title": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
-      "summary": "Despite hostile rhetoric Trump let a Russian ship break his blockade – could it herald a Venezuela-style outcome? When a sanctioned Russian oil tanker, the Anatoly Kolodkin, docked at Cuba’s Matanzas oil terminal on Tuesday, unloading 70..."
-    },
-    {
-      "char": "🌍",
-      "label": "iranians seek respite in nature",
-      "url": "https://www.nytimes.com/2026/04/04/world/europe/iranian-respite-war.html",
-      "title": "Iranians Seek Respite in Nature Amid the War",
-      "summary": "Families gathered for picnics and games this week to mark the end of the Iranian new year holiday, seizing on a brief chance to celebrate."
-    },
-    {
-      "char": "🔥",
-      "label": "three charged with arson in london",
-      "url": "https://www.nytimes.com/2026/04/04/world/europe/london-arson-attack.html",
-      "title": "Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances",
-      "summary": "A fourth suspect was arrested after showing up at a hearing for the defendants, the police said. The March attack was widely condemned but has not been declared a terrorist incident."
+      "char": "🛢️",
+      "label": "oil prices rise amid conflict",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQTFnY2M0NTVsQmJCTWJMbnJpekFQekJ4MkMzMnBVRHRuX2QzSTJ2N3RMN01QbVd3UkFvX0phNW1kbVg3dGRoS19USFRvSWhPTndPYVlJUUpDcjhfZ2ZzckstLWVwbEtocnRNZm1oZUFwQldRX0EzT2VQMHpVc2dDODdqOUF6dE9GNllRaTZPWEEzU2haS0dWZnAxR0pGSHVENU9vRW9kdm1uYUNOUVRrTXh3Uk5NQTZtbnczd0lkWGVuUQ?oc=5",
+      "title": "Oil prices open higher as US-Israeli war with Iran continues to disrupt supply - Reuters",
+      "summary": "Oil prices open higher as US-Israeli war with Iran continues to disrupt supply Reuters"
     },
     {
       "char": "✈️",
-      "label": "us deportation flight to uganda",
+      "label": "uganda's first deportation flight",
       "url": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
       "title": "Uganda receives first US deportation flight under third-country agreement",
       "summary": "Dozen people arrive under new deal but legal challenges expected with scheme criticised as ‘dehumanising process’ A flight carrying people being deported from the US has landed in Uganda, as Donald Trump’s administration pushes on with i..."
     },
     {
-      "char": "🔥",
-      "label": "arson attack on uk charity ambulances",
-      "url": "https://www.nytimes.com/2026/04/04/world/europe/london-arson-attack.html",
-      "title": "Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances",
-      "summary": "A fourth suspect was arrested after showing up at a hearing for the defendants, the police said. The March attack was widely condemned but has not been declared a terrorist incident."
+      "char": "🚤",
+      "label": "migrants missing after boat capsizes",
+      "url": "https://www.nytimes.com/2026/04/05/world/europe/migrants-missing-boat-capsize-libya.html",
+      "title": "More Than 70 Migrants Missing After Boat Capsizes Off Libya",
+      "summary": "Survivors said at least 100 people were on a boat that had left Libya for Europe. Only 32 of those aboard are known to have survived."
     },
     {
-      "char": "⚽",
-      "label": "injuries at peru football stadium",
-      "url": "https://www.theguardian.com/world/2026/apr/04/lima-football-stadium-pre-match-event-injured-dead",
-      "title": "One dead and dozens injured at Peru football stadium during pre-match event",
-      "summary": "Initial reports suggested parts of arena’s wall had collapsed, but Alianza Lima says there were no structural failures One person has been killed and dozens more injured at the Alejandro Villanueva Stadium in Lima, Peru, according to the..."
-    },
-    {
-      "char": "✈️",
-      "label": "f-15e strike eagle shot down by iran",
-      "url": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
-      "title": "What We Know About the F-15E Strike Eagle Shot Down by Iran",
-      "summary": "An F-15E Strike Eagle was shot down over Iran and an A-10 Warthog crashed near the Strait of Hormuz, officials said on Friday. Two airmen were rescued, and one is unaccounted for."
-    },
-    {
-      "char": "🌍",
-      "label": "afghanistan earthquake and floods",
-      "url": "https://www.nytimes.com/2026/04/04/world/asia/afghanistan-floods-earthquake.html",
-      "title": "Deadly Earthquake and Floods Worsen Afghanistan’s Troubles",
-      "summary": "Floods have killed at least 77 people this week and destroyed or damaged thousands of homes, and an earthquake on Friday killed a dozen more."
-    },
-    {
-      "char": "🌍",
-      "label": "afghanistan earthquake and floods",
-      "url": "https://www.nytimes.com/2026/04/04/world/asia/afghanistan-floods-earthquake.html",
-      "title": "Deadly Earthquake and Floods Worsen Afghanistan’s Troubles",
-      "summary": "Floods have killed at least 77 people this week and destroyed or damaged thousands of homes, and an earthquake on Friday killed a dozen more."
-    },
-    {
-      "char": "🚀",
-      "label": "artemis ii crew halfway to moon",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-      "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
-      "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon."
-    },
-    {
-      "char": "✈️",
-      "label": "f-15e strike eagle shot down by iran",
-      "url": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
-      "title": "What We Know About the F-15E Strike Eagle Shot Down by Iran",
-      "summary": "An airman was rescued on Saturday night, President Trump said. The rescue came after a risky two-day operation deep inside Iran."
+      "char": "🔫",
+      "label": "shooting of baby in new york",
+      "url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
+      "title": "Man charged over fatal shooting of baby in pram in New York",
+      "summary": "Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg."
     },
     {
       "char": "🎨",
@@ -134,71 +36,8 @@
       "url": "https://www.theguardian.com/world/2026/apr/05/mexican-art-world-protests-over-plan-to-send-frida-kahlo-masterpieces-to-spain",
       "title": "Mexican art world protests over plan to send Frida Kahlo masterpieces to Spain",
       "summary": "Cultural figures sign open letter asking government for clarity on how long landmark collection will remain abroad One of the world’s most important collections of 20th-century Mexican art, including works by Frida Kahlo and Diego Rivera..."
-    },
-    {
-      "char": "⚖️",
-      "label": "canadian woman released from ice detention",
-      "url": "https://www.theguardian.com/world/2026/apr/03/canadian-ice-detention-mother-daughter-tania-warner-released",
-      "title": "Canadian woman held with daughter by ICE is released after nearly three weeks of detention",
-      "summary": "Tania Warner is fitted with ankle monitor and released along with seven-year-old daughter Ayla Luca after being deemed not a flight risk A Canadian woman and her seven-year-old daughter, who were held for nearly three weeks in a notoriou..."
-    },
-    {
-      "char": "🇺🇸",
-      "label": "us arrests relatives of qasem soleimani",
-      "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
-      "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
-      "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said."
-    },
-    {
-      "char": "🇨🇺",
-      "label": "cuba oil tanker diplomacy with us",
-      "url": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
-      "title": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
-      "summary": "Despite hostile rhetoric Trump let a Russian ship break his blockade – could it herald a Venezuela-style outcome? When a sanctioned Russian oil tanker, the Anatoly Kolodkin, docked at Cuba’s Matanzas oil terminal on Tuesday, unloading 70..."
-    },
-    {
-      "char": "💔",
-      "label": "russian attack on ukraine market kills five",
-      "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
-      "title": "Russian attack on Ukraine market kills five",
-      "summary": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people."
-    },
-    {
-      "char": "🛰️",
-      "label": "interceptor missiles stockpiles dwindling",
-      "url": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-war-interceptor-missiles.html",
-      "title": "Interceptor Missiles Save Lives, but Stockpiles Are Dwindling",
-      "summary": "Defense systems that shoot projectiles out of the sky have become one of the most important components of warfare, so much so that militaries face a diminishing supply."
-    },
-    {
-      "char": "🚢",
-      "label": "migrants missing after boat capsizes off libya",
-      "url": "https://www.nytimes.com/2026/04/05/world/europe/migrants-missing-boat-capsize-libya.html",
-      "title": "More Than 70 Migrants Missing After Boat Capsizes Off Libya",
-      "summary": "Survivors said at least 100 people were on a boat that had left Libya for Europe. Only 32 of those aboard are known to have survived."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "The day is marked by significant tragedies, including deadly natural disasters and violent conflicts, overshadowing moments of progress and hope. The emotional weight of loss and suffering is palpable.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
