@@ -33263,5 +33263,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-06",
+    "emojis": [
+      {
+        "char": "⚔️",
+        "label": "iran war updates and tensions",
+        "url": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel",
+        "title": "Iran War Live Updates: Israel and Iran Trade Attacks After Trump’s New Hormuz Ultimatum",
+        "summary": "The fighting on Monday morning followed President Trump’s threat to bomb power plants and bridges on Tuesday if Iran did not open the Strait of Hormuz."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuba oil tanker diplomacy",
+        "url": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
+        "title": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
+        "summary": "Despite hostile rhetoric Trump let a Russian ship break his blockade – could it herald a Venezuela-style outcome? When a sanctioned Russian oil tanker, the Anatoly Kolodkin, docked at Cuba’s Matanzas oil terminal on Tuesday, unloading 70..."
+      },
+      {
+        "char": "🚨",
+        "label": "interpol warrant in congo",
+        "url": "https://www.theguardian.com/football/2026/mar/30/congo-brazzaville-jean-guy-blaise-mayolas-fifa-interpol-arrest-warrant",
+        "title": "Interpol arrest warrant requested in Congo-Brazzaville for Jean-Guy Blaise Mayolas",
+        "summary": "Football federation president on the run with wife and son Conviction in absentia of wide-ranging corruption charges Authorities in Congo-Brazzaville have applied to Interpol for an international arrest warrant against Jean-Guy Blaise Ma..."
+      },
+      {
+        "char": "📰",
+        "label": "false reports on ilhan omar",
+        "url": "https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland",
+        "title": "News outlets falsely report Somaliland called for extradition of Ilhan Omar",
+        "summary": "Reports, based on X post from unofficial account, follow JD Vance’s accusations and threats of finding ‘legal remedies’ Sign up for the Breaking News US email to get newsletter alerts in your inbox Several news outlets have falsely repor..."
+      },
+      {
+        "char": "🌊",
+        "label": "migrants missing off libya",
+        "url": "https://www.nytimes.com/2026/04/05/world/europe/migrants-missing-boat-capsize-libya.html",
+        "title": "More Than 70 Migrants Missing After Boat Capsizes Off Libya",
+        "summary": "Survivors said at least 100 people were on a boat that had left Libya for Europe. Only 32 of those aboard are known to have survived."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
