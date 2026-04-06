@@ -33307,5 +33307,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-06",
+    "emojis": [
+      {
+        "char": "💼",
+        "label": "citigroup pushes back rate cut timeline",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEtMb3llZ1plTjFsOEZWbE43ZlhYNzlCbFdsVGk5Z2hzUHJKbTdHTi13SUtLS1pSTGQ0Rm5FTUVHa0N1QTdQclpia2VWSmh2dnBmV1lqeVNVVjlKU2FsMmtxUW93bHlEWFd1Z29OZlhwYlIzQlV3emc4eVQ3WTJlNF9wcFpiQ1BFUE9IcTl0Nk5MS1o5RVpTRVBvbHhmc3VzWEJsZFdnTEVpRzRpd1lBQzJycw?oc=5",
+        "title": "Citigroup pushes back Fed rate cut timeline after strong job numbers - Reuters",
+        "summary": "Citigroup pushes back Fed rate cut timeline after strong job numbers Reuters"
+      },
+      {
+        "char": "🇭🇺",
+        "label": "russian influence in hungary's election",
+        "url": "https://www.nytimes.com/2026/04/06/world/europe/viktor-orban-hungary-election-russia.html",
+        "title": "A Hidden Russian Hand in Hungary’s Election? Actually, It’s Quite Open.",
+        "summary": "Prime Minister Viktor Orban has made hostility to Ukraine a centerpiece of his campaign. Moscow seems determined to repay the favor."
+      },
+      {
+        "char": "🎤",
+        "label": "pepsi drops kanye west festival",
+        "url": "https://www.nytimes.com/2026/04/05/world/europe/ye-music-festival-pepsi-antisemitism.html",
+        "title": "Pepsi Drops Sponsorship of Wireless Festival Headlined by Kanye West",
+        "summary": "Prime Minister Keir Starmer said he was “deeply concerned” that the rapper known for antisemitic and racist comments had been booked to perform at the Wireless Festival."
+      },
+      {
+        "char": "🚤",
+        "label": "migrants missing after boat capsizes",
+        "url": "https://www.nytimes.com/2026/04/05/world/europe/migrants-missing-boat-capsize-libya.html",
+        "title": "More Than 70 Migrants Missing After Boat Capsizes Off Libya",
+        "summary": "Survivors said at least 100 people were on a boat that had left Libya for Europe. Only 32 of those aboard are known to have survived."
+      },
+      {
+        "char": "✈️",
+        "label": "us airman rescue after jet crashes",
+        "url": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
+        "title": "What We Know About the Rescue of a U.S. Airman After Two Jet Crashes",
+        "summary": "An airman was rescued on Saturday night, President Trump said. The rescue came after a risky two-day operation deep inside Iran."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
