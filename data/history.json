@@ -33571,5 +33571,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-07",
+    "emojis": [
+      {
+        "char": "💻",
+        "label": "intel joins musk's ai chip project",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRTNIUzRxbUxZN05HekdrUkhvZXRaQVlLV1dtSkVybU1BUGo2VFU1UWtEdmRJQ2w0N2hzRGNRMXlQdkVZMFBTOVpkSW9iV1ZmNjNqOTR1dEZKcU1McjhpaWRNMkJSb1AzamdnQ29LNjY4X3ZMbW9EMlgwUVQ4RGZhbG9QdjYxV01BRlgzOXFQVlpLMHpyQmlZMlMxRjlXa3I0WlZSbGZfVS1Nbmc4ajE1WQ?oc=5",
+        "title": "Intel joins Musk's Terafab AI chip project to power humanoid, data center goals - Reuters",
+        "summary": "Intel joins Musk's Terafab AI chip project to power humanoid, data center goals Reuters"
+      },
+      {
+        "char": "📈",
+        "label": "ny fed sees inflation expectations rise",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONFVUTjJuRmMtdkc5elNvTDVCT3U4alRGdjhlbk01QlNyNWQyUW9iRFRtcGJIcm5mdUxaeC1faE42SWYwTzFtUDB5RHBmLVJUeFFXUUVrYm1feDRHdElHdDZqQ01lUGU3V3B2QzdMX2ZzTjVnY3JjYmpVSlRvc2dYUEVpdDhOMnU0TjZJWmIyTXVJOHRfRV9PX1hsellPMlFMVTdsZ2tRSjEwRVRf?oc=5",
+        "title": "NY Fed March survey finds jump in near-term inflation expectations - Reuters",
+        "summary": "NY Fed March survey finds jump in near-term inflation expectations Reuters"
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukraine ramps up attacks on russian oil",
+        "url": "https://www.nytimes.com/2026/04/07/world/europe/ukraine-attacks-russian-oil-exports.html",
+        "title": "Ukraine Ramps Up Attacks on Russian Oil, Aiming to Curb Iran War Windfall",
+        "summary": "As the Persian Gulf conflict boosts the oil revenue that finances Moscow’s war against Ukraine, Kyiv’s forces are striking at Russia’s ability to refine and ship its crude."
+      },
+      {
+        "char": "💥",
+        "label": "pakistan airstrike hits rehab center",
+        "url": "https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html",
+        "title": "Pakistan Says It Hit a Military Target. Investigations Suggest It Was a Rehab Center.",
+        "summary": "After the deadliest attack in Afghanistan since the Taliban took over, families searched among photos and remains for signs of their relatives."
+      },
+      {
+        "char": "🚂",
+        "label": "train collides with lorry in france",
+        "url": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
+        "title": "One dead as train travelling 99mph collides with lorry in France",
+        "summary": "The lorry driver is in custody after the train driver died during the collision in northern France."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

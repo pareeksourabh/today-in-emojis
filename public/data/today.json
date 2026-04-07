@@ -1,41 +1,41 @@
 {
   "date": "2026-04-07",
-  "timestamp": "2026-04-07T00:00:00Z",
+  "timestamp": "2026-04-07T16:43:14Z",
   "emojis": [
     {
-      "char": "📰",
-      "label": "iran war updates and trump's threats",
-      "url": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news",
-      "title": "Iran War Live Updates: Trump Calls for Killing a ‘Whole Civilization’ as Iranians Reject Threats",
-      "summary": "The United States and Israel stepped up their attacks on Iran ahead of President Trump’s 8 p.m. Eastern deadline to make a deal to reopen the Strait of Hormuz. Iran is said to withdraw from negotiations."
-    },
-    {
-      "char": "🎨",
-      "label": "frida kahlo masterpieces protest",
-      "url": "https://www.theguardian.com/world/2026/apr/05/mexican-art-world-protests-over-plan-to-send-frida-kahlo-masterpieces-to-spain",
-      "title": "Mexican art world protests over plan to send Frida Kahlo masterpieces to Spain",
-      "summary": "Cultural figures sign open letter asking government for clarity on how long landmark collection will remain abroad One of the world’s most important collections of 20th-century Mexican art, including works by Frida Kahlo and Diego Rivera..."
-    },
-    {
-      "char": "🚨",
-      "label": "gunman killed near israeli consulate",
-      "url": "https://www.nytimes.com/2026/04/07/world/middleeast/istanbul-israel-consulate-shootout.html",
-      "title": "Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say",
-      "summary": "Two other armed men and two police officers were wounded in the clash, the provincial governor said."
-    },
-    {
-      "char": "🌒",
-      "label": "nasa moon fly-by images released",
-      "url": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&at_campaign=rss",
-      "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
-      "summary": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed."
+      "char": "💻",
+      "label": "intel joins musk's ai chip project",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRTNIUzRxbUxZN05HekdrUkhvZXRaQVlLV1dtSkVybU1BUGo2VFU1UWtEdmRJQ2w0N2hzRGNRMXlQdkVZMFBTOVpkSW9iV1ZmNjNqOTR1dEZKcU1McjhpaWRNMkJSb1AzamdnQ29LNjY4X3ZMbW9EMlgwUVQ4RGZhbG9QdjYxV01BRlgzOXFQVlpLMHpyQmlZMlMxRjlXa3I0WlZSbGZfVS1Nbmc4ajE1WQ?oc=5",
+      "title": "Intel joins Musk's Terafab AI chip project to power humanoid, data center goals - Reuters",
+      "summary": "Intel joins Musk's Terafab AI chip project to power humanoid, data center goals Reuters"
     },
     {
       "char": "📈",
+      "label": "ny fed sees inflation expectations rise",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONFVUTjJuRmMtdkc5elNvTDVCT3U4alRGdjhlbk01QlNyNWQyUW9iRFRtcGJIcm5mdUxaeC1faE42SWYwTzFtUDB5RHBmLVJUeFFXUUVrYm1feDRHdElHdDZqQ01lUGU3V3B2QzdMX2ZzTjVnY3JjYmpVSlRvc2dYUEVpdDhOMnU0TjZJWmIyTXVJOHRfRV9PX1hsellPMlFMVTdsZ2tRSjEwRVRf?oc=5",
+      "title": "NY Fed March survey finds jump in near-term inflation expectations - Reuters",
+      "summary": "NY Fed March survey finds jump in near-term inflation expectations Reuters"
+    },
+    {
+      "char": "🇺🇦",
       "label": "ukraine ramps up attacks on russian oil",
       "url": "https://www.nytimes.com/2026/04/07/world/europe/ukraine-attacks-russian-oil-exports.html",
       "title": "Ukraine Ramps Up Attacks on Russian Oil, Aiming to Curb Iran War Windfall",
       "summary": "As the Persian Gulf conflict boosts the oil revenue that finances Moscow’s war against Ukraine, Kyiv’s forces are striking at Russia’s ability to refine and ship its crude."
+    },
+    {
+      "char": "💥",
+      "label": "pakistan airstrike hits rehab center",
+      "url": "https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html",
+      "title": "Pakistan Says It Hit a Military Target. Investigations Suggest It Was a Rehab Center.",
+      "summary": "After the deadliest attack in Afghanistan since the Taliban took over, families searched among photos and remains for signs of their relatives."
+    },
+    {
+      "char": "🚂",
+      "label": "train collides with lorry in france",
+      "url": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
+      "title": "One dead as train travelling 99mph collides with lorry in France",
+      "summary": "The lorry driver is in custody after the train driver died during the collision in northern France."
     }
   ],
   "source": "ai-openai",
