@@ -33439,5 +33439,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-07",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "trump endorses steve hilton for governor",
+        "url": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump endorses ex-UK political aide Steve Hilton for California governor",
+        "summary": "Steve Hilton, who advised the former prime minster and hosted a Fox News show, is running as a Republican."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuba frees 2000 prisoners amid blockade",
+        "url": "https://www.theguardian.com/world/2026/apr/03/cuba-to-release-pardon-prisoners-us-fuel-blockade",
+        "title": "Cuba begins to free more than 2,000 prisoners as US eases fuel blockade",
+        "summary": "Havana makes a Holy Week ‘humanitarian’ gesture as Russian tanker is allowed to reach oil-starved island Sign up for the Breaking News US email to get newsletter alerts in your inbox Cuban authorities have begun to free prisoners after a..."
+      },
+      {
+        "char": "⚖️",
+        "label": "supreme court clears way for bannon case",
+        "url": "https://www.bbc.com/news/articles/cgqk4kyj4yvo?at_medium=RSS&at_campaign=rss",
+        "title": "US Supreme Court paves way for dismissal of Steve Bannon conviction",
+        "summary": "The order allows a lower court to consider dismissing the former Trump strategist's indictment."
+      },
+      {
+        "char": "💣",
+        "label": "israeli strikes kill ten in gaza clashes",
+        "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
+        "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
+        "summary": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp."
+      },
+      {
+        "char": "🚢",
+        "label": "migrants missing after boat capsizes off libya",
+        "url": "https://www.nytimes.com/2026/04/05/world/europe/migrants-missing-boat-capsize-libya.html",
+        "title": "More Than 70 Migrants Missing After Boat Capsizes Off Libya",
+        "summary": "Survivors said at least 100 people were on a boat that had left Libya for Europe. Only 32 of those aboard are known to have survived."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
