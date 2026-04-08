@@ -33703,5 +33703,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-08",
+    "emojis": [
+      {
+        "char": "🛢️",
+        "label": "oil prices plunge on ceasefire plan",
+        "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+        "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
+        "summary": "Crude prices tumbled by as much as 15% on the conditional pause but is higher than before the war."
+      },
+      {
+        "char": "🌍",
+        "label": "commonwealth leaders seek reparations",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/07/commonwealth-leaders-vow-to-keep-seeking-reparations-after-reform-uk-plan-to-halt-visas",
+        "title": "Commonwealth leaders vow to keep seeking reparations after Reform UK plan to halt visas",
+        "summary": "Politicians warn party’s pledge to ‘punish’ countries seeking justice for slavery will harm and isolate Britain Commonwealth politicians say they will not back down from seeking reparations as UK public figures, including a former Reform..."
+      },
+      {
+        "char": "🔒",
+        "label": "toronto's ai surveillance plan sparks row",
+        "url": "https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock",
+        "title": "Row over ‘virtual gated community’ AI surveillance plan in Toronto neighbourhood",
+        "summary": "Rosedale residents considering car licence plate-scanning Flock system in bid to tackle property crime A row has broken out in one of Canada’s wealthiest neighbourhoods over plans to use an AI-powered surveillance system to create the co..."
+      },
+      {
+        "char": "⚔️",
+        "label": "australia charges ex-soldier with war crimes",
+        "url": "https://www.nytimes.com/2026/04/07/world/australia/australia-soldier-afghanistan-war-crimes-roberts-smith.html",
+        "title": "Australia Charges Ex-Soldier With War Crimes in Afghanistan",
+        "summary": "The suspect, charged with five counts of murder, is accused of killing or ordering the killings of unarmed civilians during the Afghan war."
+      },
+      {
+        "char": "📰",
+        "label": "us journalist freed after iraq abduction",
+        "url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
+        "title": "US journalist Shelly Kittleson released after kidnap in Iraq, officials say",
+        "summary": "US officials say they are now \"working to support her safe departure from Iraq\"."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
