@@ -1,43 +1,204 @@
 {
   "date": "2026-04-08",
-  "timestamp": "2026-04-08T16:49:17Z",
+  "timestamp": "2026-04-08T00:00:00Z",
   "emojis": [
     {
-      "char": "🛩️",
-      "label": "woman gives birth midair",
-      "url": "https://www.theguardian.com/us-news/2026/apr/07/plane-birth-jamaica-new-york",
-      "title": "Stork warning: woman gives birth midair on Jamaica-to-New York flight",
-      "summary": "Baby was delivered during Caribbean Airlines flight from Kingston to the US; nationality of child to be determined Sign up for the Breaking News US email to get newsletter alerts in your inbox A routine passenger flight from Jamaica land..."
-    },
-    {
-      "char": "🤖",
-      "label": "ai surveillance in toronto",
-      "url": "https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock",
-      "title": "Row over ‘virtual gated community’ AI surveillance plan in Toronto neighbourhood",
-      "summary": "Rosedale residents considering car licence plate-scanning Flock system in bid to tackle property crime A row has broken out in one of Canada’s wealthiest neighbourhoods over plans to use an AI-powered surveillance system to create the co..."
+      "char": "🌕",
+      "label": "artemis ii moon landing",
+      "url": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss",
+      "title": "Has Artemis II shown we can land on the Moon again?",
+      "summary": "The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?"
     },
     {
       "char": "💣",
-      "label": "pakistan airstrike investigation",
+      "label": "us-israeli strikes on iran",
+      "url": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&at_campaign=rss",
+      "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
+      "summary": "Attacks have targeted bridges, steel plants and pharmaceutical facilities, verified videos show."
+    },
+    {
+      "char": "⚖️",
+      "label": "australia war crimes charges",
+      "url": "https://www.nytimes.com/2026/04/07/world/australia/australia-soldier-afghanistan-war-crimes-roberts-smith.html",
+      "title": "Australia Charges Ex-Soldier With War Crimes in Afghanistan",
+      "summary": "The suspect, charged with five counts of murder, is accused of killing or ordering the killings of unarmed civilians during the Afghan war."
+    },
+    {
+      "char": "💰",
+      "label": "gold prices rise ahead of deadline",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTh4dGc3TVg3MGs1LXBfMVJhdFJRTGJmS01zbDNjZ2pjRXZiNG1Ram51dElkdFVaNGJodEhnRnpiMTdNeC1GLUREay0yRENaU1ZIdnAzTUg0Nk5RbWItSkMzX3NFalVPVFNzdDlmX2R0b0l6cl82LV9ONmxpTU9mX0VGSlNqTC10bE5SazZGT3dBbU9ndkZzOHh5anJvZ1UyQ09vNkVR?oc=5",
+      "title": "Gold ticks up ahead of Trump's Iran deadline - Reuters",
+      "summary": "Gold ticks up ahead of Trump's Iran deadline Reuters"
+    },
+    {
+      "char": "🗳️",
+      "label": "burkina faso democracy remarks",
+      "url": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
+      "title": "People of Burkina Faso should forget about democracy, says military ruler",
+      "summary": "Ibrahim Traoré, who took power in 2022 coup, tells state broadcaster ‘we must tell the truth, democracy isn’t for us’ People in Burkina Faso should forget about democracy as it is “not for us”, the military president, Ibrahim Traoré, tol..."
+    },
+    {
+      "char": "📰",
+      "label": "us journalist freed from iraq",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1ZwN0NqT01wN1dBMERuQzZhR05CRzZFUHQ4dWNCYkhtUVVHVUNYYnBPMEh0SUFVaVRPekJpWHNacmZhT2FEMVJQS200QVh5VVk0MmZ4SEF0QVhCRmVRb2NVVWJPQWtDdUFlZ1V4NXotYl9ld1JjRzk3cU1obldjQmlTdmpPV3hPSlViYy10ajZHdmNNZzVndk4yN3dwNWF1Qmd5NmI4dVhHQmVsV2xtMUdkWTdoUkVCSU9OekkzejI4N1N4ZDZ3eEFtbDBLajA?oc=5",
+      "title": "Abducted US journalist Kittleson released by Iraqi armed group, Rubio says - Reuters",
+      "summary": "Abducted US journalist Kittleson released by Iraqi armed group, Rubio says Reuters"
+    },
+    {
+      "char": "🏰",
+      "label": "paris catacombs restoration",
+      "url": "https://www.nytimes.com/2026/04/07/world/europe/paris-catacombs-renovation.html",
+      "title": "In Paris’s Catacombs, Can a Restoration Breathe New Life Into City’s Dead?",
+      "summary": "For centuries, the bones of some six million people were buried in the catacombs beneath the city. Curators are trying to preserve and modernize the tunnels while maintaining the spooky ambience."
+    },
+    {
+      "char": "🇿🇦",
+      "label": "zimbabwe elections controversy",
+      "url": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
+      "title": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
+      "summary": "The ruling party has unveiled a draft law that strips voters of the chance to elect the president."
+    },
+    {
+      "char": "🔫",
+      "label": "shootout near israeli consulate",
+      "url": "https://www.nytimes.com/2026/04/07/world/middleeast/istanbul-israel-consulate-shootout.html",
+      "title": "Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say",
+      "summary": "Two other armed men and two police officers were wounded in the clash, the provincial governor said."
+    },
+    {
+      "char": "🚗",
+      "label": "kim jong-un's daughter drives tank",
+      "url": "https://www.nytimes.com/2026/04/07/world/asia/north-korea-kim-jong-un-daughter-tank.html",
+      "title": "Kim Jong-un’s Daughter Drives a Tank as Talk Accelerates Around North Korea Succession",
+      "summary": "Images of Kim Ju-ae at the helm of the military vehicle, with her father riding on top, added to speculation that she was being groomed to succeed him as North Korea’s leader."
+    },
+    {
+      "char": "🚀",
+      "label": "kim jong-un's daughter drives tank",
+      "url": "https://www.nytimes.com/2026/04/07/world/asia/north-korea-kim-jong-un-daughter-tank.html",
+      "title": "Kim Jong-un’s Daughter Drives a Tank as Talk Accelerates Around North Korea Succession",
+      "summary": "Images of Kim Ju-ae at the helm of the military vehicle, with her father riding on top, added to speculation that she was being groomed to succeed him as North Korea’s leader."
+    },
+    {
+      "char": "✈️",
+      "label": "uganda's first us deportation flight",
+      "url": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
+      "title": "Uganda receives first US deportation flight under third-country agreement",
+      "summary": "Dozen people arrive under new deal but legal challenges expected with scheme criticised as ‘dehumanising process’ A flight carrying people being deported from the US has landed in Uganda, as Donald Trump’s administration pushes on with i..."
+    },
+    {
+      "char": "✊",
+      "label": "#metoo movement in colombia",
+      "url": "https://www.theguardian.com/world/2026/apr/07/metoo-movement-brings-wave-of-harassment-claims-across-colombia",
+      "title": "#MeToo movement brings wave of harassment claims across Colombia",
+      "summary": "Female journalists’ accounts of harassment trigger avalanche of allegations reaching as far as government Juanita Gómez was reporting on an international assignment for Caracol, a Colombian television channel in 2015, when an older colle..."
+    },
+    {
+      "char": "🇭🇺",
+      "label": "trump and vance cheer on orban",
+      "url": "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html",
+      "title": "‘I Love Viktor’: Trump and Vance Cheer on Orban in Hungarian Race",
+      "summary": "The American leaders slathered on the praise for the nationalist standard-bearer just days before an election he could lose."
+    },
+    {
+      "char": "🏛️",
+      "label": "renovation of paris catacombs",
+      "url": "https://www.nytimes.com/2026/04/07/world/europe/paris-catacombs-renovation.html",
+      "title": "In Paris’s Catacombs, Can a Restoration Breathe New Life Into City’s Dead?",
+      "summary": "For centuries, the bones of some six million people were buried in the catacombs beneath the city. Curators are trying to preserve and modernize the tunnels while maintaining the spooky ambience."
+    },
+    {
+      "char": "👰",
+      "label": "newlywed wife freed from detention",
+      "url": "https://www.bbc.com/news/articles/c98kn1k3nreo?at_medium=RSS&at_campaign=rss",
+      "title": "Newlywed wife of US soldier freed by ICE after detention at military base",
+      "summary": "Annie Ramos, an undocumented immigrant who came to the US as a toddler, had gone to the base to complete paperwork so the couple could move in together."
+    },
+    {
+      "char": "🕊️",
+      "label": "us-iran ceasefire agreement details",
+      "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about the two-week ceasefire between the US and Iran",
+      "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran."
+    },
+    {
+      "char": "💔",
+      "label": "pakistan airstrike hits rehab center",
       "url": "https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html",
       "title": "Pakistan Says It Hit a Military Target. Investigations Suggest It Was a Rehab Center.",
       "summary": "After the deadliest attack in Afghanistan since the Taliban took over, families searched among photos and remains for signs of their relatives."
     },
     {
-      "char": "⚖️",
-      "label": "ceasefire deal in iran",
-      "url": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news",
-      "title": "Iran War Live Updates: Fragile Cease-Fire Largely Holding as Both Sides Claim Victory",
-      "summary": "But heavy fighting continued between Israel and the Iran-backed Hezbollah in Lebanon, and disagreements over whether that front was included in the truce could threaten the cease-fire."
+      "char": "✈️",
+      "label": "woman gives birth midair on flight",
+      "url": "https://www.theguardian.com/us-news/2026/apr/07/plane-birth-jamaica-new-york",
+      "title": "Stork warning: woman gives birth midair on Jamaica-to-New York flight",
+      "summary": "Baby was delivered during Caribbean Airlines flight from Kingston to the US; nationality of child to be determined Sign up for the Breaking News US email to get newsletter alerts in your inbox A routine passenger flight from Jamaica land..."
     },
     {
-      "char": "🇨🇱",
-      "label": "chile's torture site memorial",
-      "url": "https://www.theguardian.com/world/2026/apr/08/chile-torture-paul-schafer-villa-baviera",
-      "title": "Chile’s far-right government rips up plan for memorial at Pinochet torture site",
-      "summary": "New administration reverses expropriation of property founded by ex-Nazi Paul Schäfer, leaving victims in limbo With its Germanic crosses and colourful toy-town facades, the village square of the tiny Chilean settlement of Villa Baviera..."
+      "char": "📢",
+      "label": "#metoo movement in colombia",
+      "url": "https://www.theguardian.com/world/2026/apr/07/metoo-movement-brings-wave-of-harassment-claims-across-colombia",
+      "title": "#MeToo movement brings wave of harassment claims across Colombia",
+      "summary": "Female journalists’ accounts of harassment trigger avalanche of allegations reaching as far as government Juanita Gómez was reporting on an international assignment for Caracol, a Colombian television channel in 2015, when an older colle..."
+    },
+    {
+      "char": "📈",
+      "label": "trump trades amid iran shocks",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc0t5SzNxb01aR1dUM1cxb2tnTDJxZ0tJZlpDU1JzakZGbWswRFNnTzdUQ2RaMmhNVFYtblNER2NrTDRFTnB4WEZkSXk3aDZISUFYZEpHd3RvM281YU4yamotY3l0bEZFZHRyU2JyX0IxWmFNOEhJSGpqdUZ4LWJCcmwxYzF2c2JyMklBS0E1WXc4STMxdUR5YkVYcmNzQmlJSDM2R2NBOURrUWVmTGc?oc=5",
+      "title": "The new Trump trades: how investors are navigating Iran shocks - Reuters",
+      "summary": "The new Trump trades: how investors are navigating Iran shocks Reuters"
+    },
+    {
+      "char": "🚫",
+      "label": "greece to ban social media for kids",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR1M0ejNCMkZEdW5vMVAwX2dSUV83dGxIUmJFZ1NncG9LWXdWeDgzX1lINjlnNk1reVFwOHRoUE1HTnh1V0JVeXUxN3N1YXBTeUVEWlo2NnozeEdHeGRfdzhLQ1JDa0Y4SzlDQTE4SVNfNzRZazNNN2FtQXl5S0NvUGpoemlGR0tJckhpMlRkUXk1MTlBTW9MRW84dFBHWE91aXpRdU9rc1c?oc=5",
+      "title": "Greece to ban social media for under-15s from 2027, calls on EU action - Reuters",
+      "summary": "Greece to ban social media for under-15s from 2027, calls on EU action Reuters"
+    },
+    {
+      "char": "🛢️",
+      "label": "ukraine attacks russian oil exports",
+      "url": "https://www.nytimes.com/2026/04/07/world/europe/ukraine-attacks-russian-oil-exports.html",
+      "title": "Ukraine Ramps Up Attacks on Russian Oil, Aiming to Curb Iran War Windfall",
+      "summary": "As the Persian Gulf conflict boosts the oil revenue that finances Moscow’s war against Ukraine, Kyiv’s forces are striking at Russia’s ability to refine and ship its crude."
+    },
+    {
+      "char": "✈️",
+      "label": "woman gives birth midair on flight",
+      "url": "https://www.theguardian.com/us-news/2026/apr/07/plane-birth-jamaica-new-york",
+      "title": "Stork warning: woman gives birth midair on Jamaica-to-New York flight",
+      "summary": "Baby was delivered during Caribbean Airlines flight from Kingston to the US; nationality of child to be determined Sign up for the Breaking News US email to get newsletter alerts in your inbox A routine passenger flight from Jamaica land..."
+    },
+    {
+      "char": "⚖️",
+      "label": "first nation blocks alberta referendum",
+      "url": "https://www.theguardian.com/world/2026/apr/07/first-nation-decries-alberta-separatist-push-canada",
+      "title": "First Nation asks court to block Alberta referendum on seceding from Canada",
+      "summary": "Sturgeon Lake Cree Nation has asked a court to halt the separatist push, arguing it would violate their treaty rights A First Nation in Alberta has said that a separatist push for the province to secede from Canada is “consummately irres..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "The news items reflect a day characterized by significant geopolitical tensions, military actions, and human rights concerns, leading to an overall sense of worry and anxiety about global affairs.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
