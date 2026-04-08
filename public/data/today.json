@@ -1,204 +1,43 @@
 {
-  "date": "2026-04-07",
-  "timestamp": "2026-04-07T00:00:00Z",
+  "date": "2026-04-08",
+  "timestamp": "2026-04-08T00:00:00Z",
   "emojis": [
     {
-      "char": "🇨🇺",
-      "label": "house democrats demand end to us blockade",
-      "url": "https://www.theguardian.com/us-news/2026/apr/06/cuba-blockade-energy-house-democrats",
-      "title": "House Democrats demand end to ‘cruel’ US energy blockade after visit to Cuba",
-      "summary": "Pramila Jayapal and Jonathan Jackson denounce ‘collective punishment’ amid vast disruption s from US oil blockade Sign up for the Breaking News US email to get newsletter alerts in your inbox Two Democratic US lawmakers on Monday called..."
+      "char": "🌕",
+      "label": "artemis ii moon landing",
+      "url": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss",
+      "title": "Has Artemis II shown we can land on the Moon again?",
+      "summary": "The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?"
     },
     {
-      "char": "🇺🇸",
-      "label": "trump endorses steve hilton for governor",
-      "url": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump endorses ex-UK political aide Steve Hilton for California governor",
-      "summary": "Steve Hilton, who advised the former prime minster and hosted a Fox News show, is running as a Republican."
-    },
-    {
-      "char": "🌳",
-      "label": "trees key to russia's spring offensive",
-      "url": "https://www.nytimes.com/2026/04/06/world/europe/ukraine-russia-war-spring-foliage.html",
-      "title": "Why Trees Are Key to Russia’s Spring Offensive in Ukraine",
-      "summary": "In the age of drone warfare, Russia is expected to exploit the return of vegetation to help conceal its troops."
-    },
-    {
-      "char": "⚔️",
-      "label": "ten killed in strikes in gaza",
-      "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
-      "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
-      "summary": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp."
-    },
-    {
-      "char": "💰",
-      "label": "crypto scandal reignites in argentina",
-      "url": "https://www.nytimes.com/2026/04/06/world/americas/argentina-milei-crypto-libra.html",
-      "title": "New Revelations Reignite Crypto Scandal Involving Argentina’s President Milei",
-      "summary": "Court documents raise questions about the Argentine president’s statements that he had no connection to the launch of the $Libra cryptocurrency."
-    },
-    {
-      "char": "🌍",
-      "label": "iran war updates and threats",
-      "url": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel",
-      "title": "Iran War Live Updates: Trump Renews Threat of Attacks on Bridges and Power Plants",
-      "summary": "President Trump and Iran sent mixed messages ahead of his Tuesday deadline. Early Tuesday, Israel said it had detected missiles launching from Iran and the Iranian Red Crescent Society said a residential area of Tehran had been hit in an..."
-    },
-    {
-      "char": "🇨🇺",
-      "label": "democrats demand end to cuba blockade",
-      "url": "https://www.theguardian.com/us-news/2026/apr/06/cuba-blockade-energy-house-democrats",
-      "title": "House Democrats demand end to ‘cruel’ US energy blockade after visit to Cuba",
-      "summary": "Pramila Jayapal and Jonathan Jackson denounce ‘collective punishment’ amid vast disruption s from US oil blockade Sign up for the Breaking News US email to get newsletter alerts in your inbox Two Democratic US lawmakers on Monday called..."
-    },
-    {
-      "char": "🎤",
-      "label": "ladysmith black mambazo's elder dies",
-      "url": "https://www.bbc.com/news/articles/cx2r5g7x25yo?at_medium=RSS&at_campaign=rss",
-      "title": "Ladysmith Black Mambazo's 'wise elder' dies aged 77",
-      "summary": "Albert Mazibuko sang in the iconic South African choral group for more than 55 years."
+      "char": "💣",
+      "label": "us-israeli strikes on iran",
+      "url": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&at_campaign=rss",
+      "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
+      "summary": "Attacks have targeted bridges, steel plants and pharmaceutical facilities, verified videos show."
     },
     {
       "char": "⚖️",
-      "label": "nine policemen sentenced to death in india",
-      "url": "https://www.bbc.com/news/articles/ce8l0md9gl1o?at_medium=RSS&at_campaign=rss",
-      "title": "Nine policemen sentenced to death in India over Covid custody killings",
-      "summary": "The father and son died in jail after being arrested on suspicion of breaching Covid lockdown rules in 2020."
+      "label": "australia war crimes charges",
+      "url": "https://www.nytimes.com/2026/04/07/world/australia/australia-soldier-afghanistan-war-crimes-roberts-smith.html",
+      "title": "Australia Charges Ex-Soldier With War Crimes in Afghanistan",
+      "summary": "The suspect, charged with five counts of murder, is accused of killing or ordering the killings of unarmed civilians during the Afghan war."
     },
     {
-      "char": "🎨",
-      "label": "protests over frida kahlo masterpieces",
-      "url": "https://www.theguardian.com/world/2026/apr/05/mexican-art-world-protests-over-plan-to-send-frida-kahlo-masterpieces-to-spain",
-      "title": "Mexican art world protests over plan to send Frida Kahlo masterpieces to Spain",
-      "summary": "Cultural figures sign open letter asking government for clarity on how long landmark collection will remain abroad One of the world’s most important collections of 20th-century Mexican art, including works by Frida Kahlo and Diego Rivera..."
+      "char": "💰",
+      "label": "gold prices rise ahead of deadline",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTh4dGc3TVg3MGs1LXBfMVJhdFJRTGJmS01zbDNjZ2pjRXZiNG1Ram51dElkdFVaNGJodEhnRnpiMTdNeC1GLUREay0yRENaU1ZIdnAzTUg0Nk5RbWItSkMzX3NFalVPVFNzdDlmX2R0b0l6cl82LV9ONmxpTU9mX0VGSlNqTC10bE5SazZGT3dBbU9ndkZzOHh5anJvZ1UyQ09vNkVR?oc=5",
+      "title": "Gold ticks up ahead of Trump's Iran deadline - Reuters",
+      "summary": "Gold ticks up ahead of Trump's Iran deadline Reuters"
     },
     {
-      "char": "⚾",
-      "label": "royals win against guardians",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQalZFdFl0Z3h5Z0NZWEs3U2hzMFhRSHg5Nm9WOC0tNlRvRVlPUFQzd19uaVJ1VFVIS2lnQVU5a3hTWUVwNUp1UjktWTNZcGJPaTA4UEJvOEEzLXdRRDg5cVZQQzh6cnllNkZRY1hyeVdtcHQxQ2w1dkRXVFN5OW9iMkptdEt3aF84WlhKX0hTS2ZiMk1kQ0NXRm5WQzN1T1BRSWhLSw?oc=5",
-      "title": "Michael Wacha earns win as Royals down Guardians - Reuters",
-      "summary": "Michael Wacha earns win as Royals down Guardians Reuters"
-    },
-    {
-      "char": "🎨",
-      "label": "frida kahlo art protests",
-      "url": "https://www.theguardian.com/world/2026/apr/05/mexican-art-world-protests-over-plan-to-send-frida-kahlo-masterpieces-to-spain",
-      "title": "Mexican art world protests over plan to send Frida Kahlo masterpieces to Spain",
-      "summary": "Cultural figures sign open letter asking government for clarity on how long landmark collection will remain abroad One of the world’s most important collections of 20th-century Mexican art, including works by Frida Kahlo and Diego Rivera..."
-    },
-    {
-      "char": "📰",
-      "label": "lil nas x assault case update",
-      "url": "https://www.bbc.com/news/articles/cew7nqn5rqgo?at_medium=RSS&at_campaign=rss",
-      "title": "Lil Nas X assault case to be dismissed if he completes mental health programme",
-      "summary": "The judge said the musician's behaviour when he was arrested in LA last year was \"aberrant from his normal conduct\"."
-    },
-    {
-      "char": "⚔️",
-      "label": "israeli strikes in gaza",
-      "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
-      "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
-      "summary": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp."
-    },
-    {
-      "char": "🚗",
-      "label": "uk car sales increase",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT1VrTXcwYlFCMFN2SmljVFNES0NMQTVGSDlLT2FWLWlCRVg3am10ODgyaG05NjNnWHBzNXd3MEY2NnhTZTM5V3M5Q245N1B0UDBTZHZVQ1hXQmhXV1A2XzhNaVBVdzZFZWFNZDFWSVNwbzFjRjVZMzFnUGQzNzNaUWY1RWs3V3JSZUUyak80Rm5IelhvM1Mta2Nn?oc=5",
-      "title": "UK new car sales grew 6% in March, industry data shows - Reuters",
-      "summary": "UK new car sales grew 6% in March, industry data shows Reuters"
-    },
-    {
-      "char": "🇧🇫",
-      "label": "burkina faso military rule",
+      "char": "🗳️",
+      "label": "burkina faso democracy remarks",
       "url": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
       "title": "People of Burkina Faso should forget about democracy, says military ruler",
       "summary": "Ibrahim Traoré, who took power in 2022 coup, tells state broadcaster ‘we must tell the truth, democracy isn’t for us’ People in Burkina Faso should forget about democracy as it is “not for us”, the military president, Ibrahim Traoré, tol..."
-    },
-    {
-      "char": "🇨🇺",
-      "label": "cuba energy blockade",
-      "url": "https://www.theguardian.com/us-news/2026/apr/06/cuba-blockade-energy-house-democrats",
-      "title": "House Democrats demand end to ‘cruel’ US energy blockade after visit to Cuba",
-      "summary": "Pramila Jayapal and Jonathan Jackson denounce ‘collective punishment’ amid vast disruption s from US oil blockade Sign up for the Breaking News US email to get newsletter alerts in your inbox Two Democratic US lawmakers on Monday called..."
-    },
-    {
-      "char": "🔫",
-      "label": "rapper shot in florida",
-      "url": "https://www.bbc.com/news/articles/c1w4lnjej4do?at_medium=RSS&at_campaign=rss",
-      "title": "Rapper Offset shot in Florida - reports",
-      "summary": "Reports suggest the former Migos rapper is in a \"stable\" condition."
-    },
-    {
-      "char": "🇮🇷",
-      "label": "iran attacks saudi complex",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEM5cWZjVWlTaUJjcDVPV3JtVnlWcEt5OWJqYTdmbHczbktFYkRSUjRZb055dGRZeXMwcExBLVAzSVNVUmxpWlc0YTdwTVdJMk1TLVcydUJ3c1RXUGZwM2ktV1R3UTA4dHBqZ0VWN2M4clYtdkxaUlNQQ2dFaFRHaW41b0xVRjdlS2ZDZmswYUR4Ym9sMTFiZkx1bU81SUt4V2tCN2VFaWhpV0FrZ19iZURvQlJSa0RDdTNfMHNFMGxIb2hTMzhr?oc=5",
-      "title": "Iran has attacked Saudi petrochemical complex in Jubail, Fars news agency says - Reuters",
-      "summary": "Iran has attacked Saudi petrochemical complex in Jubail, Fars news agency says Reuters"
-    },
-    {
-      "char": "🇲🇽",
-      "label": "toxic waste crisis in mexico",
-      "url": "https://www.theguardian.com/world/2026/apr/07/mexico-us-toxic-waste-un-special-rapporteur",
-      "title": "US is ‘using Mexico as a garbage sink’ leading to ‘toxic crisis’, UN expert says",
-      "summary": "Marcos Orellana, a special rapporteur, found lax environmental standards and lack of oversight allowed pollution to accumulate Mexico is facing a “toxic crisis” and has become a “garbage sink” for the US, exposing Mexican communities to..."
-    },
-    {
-      "char": "📰",
-      "label": "iran war updates and trump's threats",
-      "url": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news",
-      "title": "Iran War Live Updates: Trump Calls for Killing a ‘Whole Civilization’ as Iranians Reject Threats",
-      "summary": "The United States and Israel stepped up their attacks on Iran ahead of President Trump’s 8 p.m. Eastern deadline to make a deal to reopen the Strait of Hormuz. Iran is said to withdraw from negotiations."
-    },
-    {
-      "char": "🎨",
-      "label": "frida kahlo masterpieces protest",
-      "url": "https://www.theguardian.com/world/2026/apr/05/mexican-art-world-protests-over-plan-to-send-frida-kahlo-masterpieces-to-spain",
-      "title": "Mexican art world protests over plan to send Frida Kahlo masterpieces to Spain",
-      "summary": "Cultural figures sign open letter asking government for clarity on how long landmark collection will remain abroad One of the world’s most important collections of 20th-century Mexican art, including works by Frida Kahlo and Diego Rivera..."
-    },
-    {
-      "char": "🚨",
-      "label": "gunman killed near israeli consulate",
-      "url": "https://www.nytimes.com/2026/04/07/world/middleeast/istanbul-israel-consulate-shootout.html",
-      "title": "Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say",
-      "summary": "Two other armed men and two police officers were wounded in the clash, the provincial governor said."
-    },
-    {
-      "char": "🌒",
-      "label": "nasa moon fly-by images released",
-      "url": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&at_campaign=rss",
-      "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
-      "summary": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed."
-    },
-    {
-      "char": "📈",
-      "label": "ukraine ramps up attacks on russian oil",
-      "url": "https://www.nytimes.com/2026/04/07/world/europe/ukraine-attacks-russian-oil-exports.html",
-      "title": "Ukraine Ramps Up Attacks on Russian Oil, Aiming to Curb Iran War Windfall",
-      "summary": "As the Persian Gulf conflict boosts the oil revenue that finances Moscow’s war against Ukraine, Kyiv’s forces are striking at Russia’s ability to refine and ship its crude."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "Today's news reflects a heavy emotional weight, with reports of violence, political turmoil, and environmental crises. This evokes a sense of sadness and concern for the state of the world.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
