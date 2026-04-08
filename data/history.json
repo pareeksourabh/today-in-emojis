@@ -33615,5 +33615,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-08",
+    "emojis": [
+      {
+        "char": "🇭🇺",
+        "label": "trump supports orban in hungary",
+        "url": "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html",
+        "title": "‘I Love Viktor’: Trump and Vance Cheer on Orban in Hungarian Race",
+        "summary": "The American leaders slathered on the praise for the nationalist standard-bearer just days before an election he could lose."
+      },
+      {
+        "char": "🕊️",
+        "label": "iran ceasefire deal reached",
+        "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
+        "title": "Iran ceasefire deal a temporary win for Trump - but it comes at a cost",
+        "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US."
+      },
+      {
+        "char": "🚀",
+        "label": "kim jong-un's daughter drives tank",
+        "url": "https://www.nytimes.com/2026/04/07/world/asia/north-korea-kim-jong-un-daughter-tank.html",
+        "title": "Kim Jong-un’s Daughter Drives a Tank as Talk Accelerates Around North Korea Succession",
+        "summary": "Images of Kim Ju-ae at the helm of the military vehicle, with her father riding on top, added to speculation that she was being groomed to succeed him as North Korea’s leader."
+      },
+      {
+        "char": "💰",
+        "label": "ukraine attacks russian oil exports",
+        "url": "https://www.nytimes.com/2026/04/07/world/europe/ukraine-attacks-russian-oil-exports.html",
+        "title": "Ukraine Ramps Up Attacks on Russian Oil, Aiming to Curb Iran War Windfall",
+        "summary": "As the Persian Gulf conflict boosts the oil revenue that finances Moscow’s war against Ukraine, Kyiv’s forces are striking at Russia’s ability to refine and ship its crude."
+      },
+      {
+        "char": "🎉",
+        "label": "woman gives birth midair on flight",
+        "url": "https://www.theguardian.com/us-news/2026/apr/07/plane-birth-jamaica-new-york",
+        "title": "Stork warning: woman gives birth midair on Jamaica-to-New York flight",
+        "summary": "Baby was delivered during Caribbean Airlines flight from Kingston to the US; nationality of child to be determined Sign up for the Breaking News US email to get newsletter alerts in your inbox A routine passenger flight from Jamaica land..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
