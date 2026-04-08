@@ -33791,5 +33791,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-08",
+    "emojis": [
+      {
+        "char": "🛩️",
+        "label": "woman gives birth midair",
+        "url": "https://www.theguardian.com/us-news/2026/apr/07/plane-birth-jamaica-new-york",
+        "title": "Stork warning: woman gives birth midair on Jamaica-to-New York flight",
+        "summary": "Baby was delivered during Caribbean Airlines flight from Kingston to the US; nationality of child to be determined Sign up for the Breaking News US email to get newsletter alerts in your inbox A routine passenger flight from Jamaica land..."
+      },
+      {
+        "char": "🤖",
+        "label": "ai surveillance in toronto",
+        "url": "https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock",
+        "title": "Row over ‘virtual gated community’ AI surveillance plan in Toronto neighbourhood",
+        "summary": "Rosedale residents considering car licence plate-scanning Flock system in bid to tackle property crime A row has broken out in one of Canada’s wealthiest neighbourhoods over plans to use an AI-powered surveillance system to create the co..."
+      },
+      {
+        "char": "💣",
+        "label": "pakistan airstrike investigation",
+        "url": "https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html",
+        "title": "Pakistan Says It Hit a Military Target. Investigations Suggest It Was a Rehab Center.",
+        "summary": "After the deadliest attack in Afghanistan since the Taliban took over, families searched among photos and remains for signs of their relatives."
+      },
+      {
+        "char": "⚖️",
+        "label": "ceasefire deal in iran",
+        "url": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news",
+        "title": "Iran War Live Updates: Fragile Cease-Fire Largely Holding as Both Sides Claim Victory",
+        "summary": "But heavy fighting continued between Israel and the Iran-backed Hezbollah in Lebanon, and disagreements over whether that front was included in the truce could threaten the cease-fire."
+      },
+      {
+        "char": "🇨🇱",
+        "label": "chile's torture site memorial",
+        "url": "https://www.theguardian.com/world/2026/apr/08/chile-torture-paul-schafer-villa-baviera",
+        "title": "Chile’s far-right government rips up plan for memorial at Pinochet torture site",
+        "summary": "New administration reverses expropriation of property founded by ex-Nazi Paul Schäfer, leaving victims in limbo With its Germanic crosses and colourful toy-town facades, the village square of the tiny Chilean settlement of Villa Baviera..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
