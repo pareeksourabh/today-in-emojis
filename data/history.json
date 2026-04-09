@@ -34011,5 +34011,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-09",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "commonwealth leaders seek reparations",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/07/commonwealth-leaders-vow-to-keep-seeking-reparations-after-reform-uk-plan-to-halt-visas",
+        "title": "Commonwealth leaders vow to keep seeking reparations after Reform UK plan to halt visas",
+        "summary": "Politicians warn party’s pledge to ‘punish’ countries seeking justice for slavery will harm and isolate Britain Commonwealth politicians say they will not back down from seeking reparations as UK public figures, including a former Reform..."
+      },
+      {
+        "char": "🇰🇭",
+        "label": "cambodian man deported to eswatini",
+        "url": "https://www.theguardian.com/world/2026/apr/07/cambodian-man-pheap-rom-deported-us-eswatini",
+        "title": "‘We still deserve due process,’ says Cambodian man deported by US to Eswatini",
+        "summary": "Pheap Rom was one of 15 people sent to prison in African kingdom last year despite completing US sentences A Cambodian man deported by the US said he would have accepted being sent to Cambodia, but instead ended up imprisoned in Eswatini..."
+      },
+      {
+        "char": "🧊",
+        "label": "argentina passes glacier mining bill",
+        "url": "https://www.bbc.com/news/articles/c5y72e6x554o?at_medium=RSS&at_campaign=rss",
+        "title": "Argentina passes bill loosening protection of its glaciers",
+        "summary": "The new bill will make it easier for provincial governments to allow mining projects in glacier regions."
+      },
+      {
+        "char": "💔",
+        "label": "182 killed in lebanon strikes",
+        "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
+        "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
+        "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced."
+      },
+      {
+        "char": "🚀",
+        "label": "artemis crew returns from moon",
+        "url": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss",
+        "title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
+        "summary": "The four astronauts said they were returning to Earth with \"so many more pictures, so many more stories\"."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
