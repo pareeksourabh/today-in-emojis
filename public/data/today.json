@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The day features significant events that evoke feelings of concern, particularly regarding geopolitical tensions and humanitarian issues, outweighing the positive news.",
+    "emotion_label": "😔",
+    "emoji": "😔",
+    "rationale": "The day is marked by a mix of political tension, humanitarian concerns, and unsettling global developments, creating an overall somber atmosphere.",
     "palette": [
       "😢",
       "😡",
