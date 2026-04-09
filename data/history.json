@@ -33835,5 +33835,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-09",
+    "emojis": [
+      {
+        "char": "🦏",
+        "label": "wildlife cameraman dies in nepal",
+        "url": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
+        "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
+        "summary": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough."
+      },
+      {
+        "char": "⚖️",
+        "label": "nigeria trials 500 terrorism suspects",
+        "url": "https://www.bbc.com/news/articles/ckg9y95kxyko?at_medium=RSS&at_campaign=rss",
+        "title": "Nigeria begins mass trial of 500 terrorism suspects",
+        "summary": "Very few people are ever prosecuted following terror attacks with suspects often held without trial."
+      },
+      {
+        "char": "🇩🇪",
+        "label": "germany suspends military approvals",
+        "url": "https://www.bbc.com/news/articles/ckgx103wkl1o?at_medium=RSS&at_campaign=rss",
+        "title": "Germany suspends military approval for long stays abroad for men under 45",
+        "summary": "The requirement to obtain permission had gone largely unnoticed until a German newspaper reported on it."
+      },
+      {
+        "char": "🚢",
+        "label": "iran strait of hormuz shipping warning",
+        "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+        "title": "Iran Strait of Hormuz warning adds to shipping uncertainty",
+        "summary": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis."
+      },
+      {
+        "char": "🇧🇫",
+        "label": "burkina faso military ruler on democracy",
+        "url": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
+        "title": "People of Burkina Faso should forget about democracy, says military ruler",
+        "summary": "Ibrahim Traoré, who took power in 2022 coup, tells state broadcaster ‘we must tell the truth, democracy isn’t for us’ People in Burkina Faso should forget about democracy as it is “not for us”, the military president, Ibrahim Traoré, tol..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
