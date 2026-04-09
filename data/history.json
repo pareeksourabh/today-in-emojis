@@ -33923,5 +33923,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-09",
+    "emojis": [
+      {
+        "char": "🎖️",
+        "label": "australia war crimes case",
+        "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
+        "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
+        "summary": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say."
+      },
+      {
+        "char": "📱",
+        "label": "greece bans social media for kids",
+        "url": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss",
+        "title": "Greece to ban social media for under-15s from next year",
+        "summary": "It follows similar moves in other European countries, including France and Spain."
+      },
+      {
+        "char": "✈️",
+        "label": "us deportation to liberia",
+        "url": "https://www.theguardian.com/us-news/2026/apr/07/kilmar-abrego-garcia-liberia-deportation",
+        "title": "US seeks to deport Kilmar Ábrego García to Liberia despite new Costa Rica deal",
+        "summary": "Man born in El Salvador has been fighting removal to series of ‘third’ countries after mistaken deportation last year US government attorneys on Tuesday told a federal judge the Department of Homeland Security still intends to deport Kil..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada liberal party majority",
+        "url": "https://www.nytimes.com/2026/04/08/world/canada/mark-carney-canada-liberal-party-marilyn-gladu.html",
+        "title": "Canada’s Mark Carney Poised to Secure Liberal Party Majority After Gladu’s Defection",
+        "summary": "Prime Minister Mark Carney’s Liberal Party is expected to win two special elections that could give the government broader powers in Parliament."
+      },
+      {
+        "char": "🌍",
+        "label": "commonwealth reparations vow",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/07/commonwealth-leaders-vow-to-keep-seeking-reparations-after-reform-uk-plan-to-halt-visas",
+        "title": "Commonwealth leaders vow to keep seeking reparations after Reform UK plan to halt visas",
+        "summary": "Politicians warn party’s pledge to ‘punish’ countries seeking justice for slavery will harm and isolate Britain Commonwealth politicians say they will not back down from seeking reparations as UK public figures, including a former Reform..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
