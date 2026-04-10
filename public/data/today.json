@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The day's news reflects significant global tensions and crises, including military actions, refugee issues, and environmental concerns, evoking a sense of anxiety and concern about the state of the world.",
+    "emotion_label": "😔",
+    "emoji": "😔",
+    "rationale": "The day's news reflects a mixture of conflict, political tension, and human suffering, particularly with stories about refugees, military escalations, and environmental protests. This creates an overall somber emotional atmosphere.",
     "palette": [
       "😢",
       "😡",
