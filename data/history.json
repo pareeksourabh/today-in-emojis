@@ -34231,5 +34231,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-10",
+    "emojis": [
+      {
+        "char": "🇰🇭",
+        "label": "cambodian man deported to eswatini",
+        "url": "https://www.theguardian.com/world/2026/apr/07/cambodian-man-pheap-rom-deported-us-eswatini",
+        "title": "‘We still deserve due process,’ says Cambodian man deported by US to Eswatini",
+        "summary": "Pheap Rom was one of 15 people sent to prison in African kingdom last year despite completing US sentences A Cambodian man deported by the US said he would have accepted being sent to Cambodia, but instead ended up imprisoned in Eswatini..."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "trump's iran intervention comments",
+        "url": "https://www.theguardian.com/world/2026/apr/10/trump-iran-intervention-easy-as-venezuela-maduro-capture-john-feeley",
+        "title": "Trump ‘reaping bitter fruit’ of thinking Iran intervention as easy as Venezuela, says former diplomat",
+        "summary": "John Feeley says US president was ‘flush with victory’ of Maduro capture and could make same mistake in Cuba Donald Trump is “reaping the bitter fruit” of erroneously thinking that the capture of Venezuela’s president, Nicolás Maduro, of..."
+      },
+      {
+        "char": "🎨",
+        "label": "church art by accused priest",
+        "url": "https://www.nytimes.com/2026/04/10/world/europe/father-rupnik-priest-abuse-mosaics.html",
+        "title": "Should Churches Remove Art by a Priest Accused of Sexual Abuse?",
+        "summary": "The Rev. Marko Ivan Rupnik has installed mosaics across the Roman Catholic world, including at the Vatican. After nuns accused him of abuse, some want his work removed."
+      },
+      {
+        "char": "🦍",
+        "label": "chimpanzees waging civil war",
+        "url": "https://www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe",
+        "title": "Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups",
+        "summary": "New study describes what may be the first case of a unified community of chimps, in Uganda, turning on itself On a June day in 2015, primatologist Aaron Sandel was quietly observing a small cluster of the Ngogo chimpanzee group in Uganda..."
+      },
+      {
+        "char": "🌍",
+        "label": "argentina glacier mining bill",
+        "url": "https://www.theguardian.com/world/2026/apr/09/argentina-approves-glacier-mining-bill-environment-protests-andes-mountaines-javier-milei",
+        "title": "Argentina approves Milei’s glacier mining bill amid environmental protests",
+        "summary": "Legislative change backed by libertarian president makes it easier to extract metals in frozen parts of the Andes Argentina’s congress has approved a bill promoted by the libertarian president, Javier Milei, that authorises mining in eco..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
