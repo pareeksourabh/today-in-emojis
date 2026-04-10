@@ -1,41 +1,41 @@
 {
   "date": "2026-04-10",
-  "timestamp": "2026-04-10T13:21:50Z",
+  "timestamp": "2026-04-10T00:00:00Z",
   "emojis": [
     {
-      "char": "🇻🇪",
-      "label": "venezuelans struggle for passports",
-      "url": "https://www.nytimes.com/2026/04/10/world/americas/venezuelans-return-passports-trump.html",
-      "title": "Many Venezuelans Want to Go Home. But They Can’t Get Passports.",
-      "summary": "The U.S. has made it impossible for them to stay legally, and their own country makes it difficult for them to return."
-    },
-    {
-      "char": "🇮🇷",
-      "label": "trump's iran intervention insights",
-      "url": "https://www.theguardian.com/world/2026/apr/10/trump-iran-intervention-easy-as-venezuela-maduro-capture-john-feeley",
-      "title": "Trump ‘reaping bitter fruit’ of thinking Iran intervention as easy as Venezuela, says former diplomat",
-      "summary": "John Feeley says US president was ‘flush with victory’ of Maduro capture and could make same mistake in Cuba Donald Trump is “reaping the bitter fruit” of erroneously thinking that the capture of Venezuela’s president, Nicolás Maduro, of..."
-    },
-    {
-      "char": "🇷🇺",
-      "label": "russia embraces north korea",
-      "url": "https://www.nytimes.com/2026/04/10/world/europe/russia-north-korea.html",
-      "title": "See You in Pyongyang: Russia Pushes Its People to Embrace North Korea",
-      "summary": "Through art, food, tourism and academics, an increasingly isolated Moscow is seeking to cement lasting ties with Pyongyang."
+      "char": "🌍",
+      "label": "us refugee admissions from south africa",
+      "url": "https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&at_campaign=rss",
+      "title": "US has let in 4,499 refugees since October - all but three were South African",
+      "summary": "Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisation."
     },
     {
       "char": "⚓",
-      "label": "hormuz strait political tensions",
+      "label": "iran limits in strait of hormuz",
       "url": "https://www.nytimes.com/2026/04/10/world/middleeast/strait-hormuz-iran-ships-oil.html",
       "title": "With Iran Setting Limits, Strait of Hormuz Remains Thorny Politically",
       "summary": "Even after a cease-fire, Iran is keeping a chokehold on traffic, forcing countries to cut deals that could put them at odds with the U.S."
     },
     {
-      "char": "🧑‍⚖️",
-      "label": "life of a young ice detainee",
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/day-in-the-life-19-year-old-ice-detention",
-      "title": "A day in the life of a 19-year-old in ICE detention: ‘I feel that this nightmare is not going to end’",
-      "summary": "Olivia has been detained for months at the sprawling Dilley center in Texas. She has lost 20lb, and wakes up every day with a headache Each day in detention feels like 48 hours for Olivia. The 19-year-old asylum seeker from the Democrati..."
+      "char": "🤝",
+      "label": "xi meets taiwan opposition leader",
+      "url": "https://www.nytimes.com/2026/04/10/world/asia/taiwan-china-xi-cheng.html",
+      "title": "Xi Meets Taiwan Opposition Leader for First Time in a Decade",
+      "summary": "Xi Jinping held rare talks with a Taiwanese opposition leader, Cheng Li-wun, who floated the idea of some day inviting Mr. Xi to visit Taiwan."
+    },
+    {
+      "char": "📸",
+      "label": "lebanon images of war displacement",
+      "url": "https://www.nytimes.com/2026/04/10/world/middleeast/lebanon-displaced-photos.html",
+      "title": "Lebanon: Images of a Nation Uprooted by War",
+      "summary": "A million people in Lebanon have fled their homes as Israel clashes anew with Hezbollah. This is what their lives look now."
+    },
+    {
+      "char": "🐒",
+      "label": "wild chimpanzees civil war",
+      "url": "https://www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe",
+      "title": "Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups",
+      "summary": "New study describes what may be the first case of a unified community of chimps, in Uganda, turning on itself On a June day in 2015, primatologist Aaron Sandel was quietly observing a small cluster of the Ngogo chimpanzee group in Uganda..."
     }
   ],
   "source": "ai-openai",
