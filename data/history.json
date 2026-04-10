@@ -34055,5 +34055,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-10",
+    "emojis": [
+      {
+        "char": "🚗",
+        "label": "tesla's lower-cost ev plan",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdG56OE5QZ28zN09JbnBBczhsTHk0bWNqUHV2QkxfbXYteDFQT0xxNGJjSWlLZmtjdDRZX2o2VVlVZmlnSFRwUlEzUGxmY2xKMWxnT3U1Y1VXUlRiUkJqaXA1YWNZd1RqWXAxcGtaX0ZsS3ZNQVZfZ0VNSDgwUU9Lc3N6U0piZ0FhSnRQNXZVMDJZZzVIcVdxSkdRLTRVX0NZZFUycFVoSU9TZm5oSHYySmNEQURVOHNoeTIzVXgtbzhXalJfRUVV?oc=5",
+        "title": "Tesla's lower-cost EV plan seen boosting volume, risking margins - Reuters",
+        "summary": "Tesla's lower-cost EV plan seen boosting volume, risking margins Reuters"
+      },
+      {
+        "char": "🖼️",
+        "label": "the week in unusual pictures",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoSmRTbWFzR0NtbG5lZFdDY2ZuU3NBaDBhd2JVbWR2RmtsUTRoNDdHRE84NW1TWG9iY1luLThDTFJJU2F6WWJXTXVEbzExdEhJZ1BteHNxeGotTi1neEMwNEIybXIzbm5TRVBXd3duZm9nZl93?oc=5",
+        "title": "The week in unusual pictures - Reuters",
+        "summary": "The week in unusual pictures Reuters"
+      },
+      {
+        "char": "🪖",
+        "label": "north korea tests new weapons",
+        "url": "https://www.nytimes.com/2026/04/09/world/asia/north-korea-weapons-iran.html",
+        "title": "North Korea Tests New Weapons, Drawing Lessons from Iran War",
+        "summary": "The country has been leveraging armed conflicts abroad, such as Russia’s war against Ukraine, to bolster its own military capabilities."
+      },
+      {
+        "char": "🗼",
+        "label": "eiffel tower piece auctioned",
+        "url": "https://www.nytimes.com/2026/04/09/world/europe/eiffel-tower-auction.html",
+        "title": "137-Year-Old Piece of Eiffel Tower to Be Auctioned in Paris",
+        "summary": "A section of the landmark’s original staircase will go up for auction next month and could sell for a towering sum."
+      },
+      {
+        "char": "🌍",
+        "label": "argentina glacier mining bill",
+        "url": "https://www.theguardian.com/world/2026/apr/09/argentina-approves-glacier-mining-bill-environment-protests-andes-mountaines-javier-milei",
+        "title": "Argentina approves Milei’s glacier mining bill amid environmental protests",
+        "summary": "Legislative change backed by libertarian president makes it easier to extract metals in frozen parts of the Andes Argentina’s congress has approved a bill promoted by the libertarian president, Javier Milei, that authorises mining in eco..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
