@@ -34187,5 +34187,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-10",
+    "emojis": [
+      {
+        "char": "🇻🇪",
+        "label": "venezuelans struggle for passports",
+        "url": "https://www.nytimes.com/2026/04/10/world/americas/venezuelans-return-passports-trump.html",
+        "title": "Many Venezuelans Want to Go Home. But They Can’t Get Passports.",
+        "summary": "The U.S. has made it impossible for them to stay legally, and their own country makes it difficult for them to return."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "trump's iran intervention insights",
+        "url": "https://www.theguardian.com/world/2026/apr/10/trump-iran-intervention-easy-as-venezuela-maduro-capture-john-feeley",
+        "title": "Trump ‘reaping bitter fruit’ of thinking Iran intervention as easy as Venezuela, says former diplomat",
+        "summary": "John Feeley says US president was ‘flush with victory’ of Maduro capture and could make same mistake in Cuba Donald Trump is “reaping the bitter fruit” of erroneously thinking that the capture of Venezuela’s president, Nicolás Maduro, of..."
+      },
+      {
+        "char": "🇷🇺",
+        "label": "russia embraces north korea",
+        "url": "https://www.nytimes.com/2026/04/10/world/europe/russia-north-korea.html",
+        "title": "See You in Pyongyang: Russia Pushes Its People to Embrace North Korea",
+        "summary": "Through art, food, tourism and academics, an increasingly isolated Moscow is seeking to cement lasting ties with Pyongyang."
+      },
+      {
+        "char": "⚓",
+        "label": "hormuz strait political tensions",
+        "url": "https://www.nytimes.com/2026/04/10/world/middleeast/strait-hormuz-iran-ships-oil.html",
+        "title": "With Iran Setting Limits, Strait of Hormuz Remains Thorny Politically",
+        "summary": "Even after a cease-fire, Iran is keeping a chokehold on traffic, forcing countries to cut deals that could put them at odds with the U.S."
+      },
+      {
+        "char": "🧑‍⚖️",
+        "label": "life of a young ice detainee",
+        "url": "https://www.theguardian.com/us-news/2026/apr/09/day-in-the-life-19-year-old-ice-detention",
+        "title": "A day in the life of a 19-year-old in ICE detention: ‘I feel that this nightmare is not going to end’",
+        "summary": "Olivia has been detained for months at the sprawling Dilley center in Texas. She has lost 20lb, and wakes up every day with a headache Each day in detention feels like 48 hours for Olivia. The 19-year-old asylum seeker from the Democrati..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
