@@ -34407,5 +34407,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-11",
+    "emojis": [
+      {
+        "char": "🏛️",
+        "label": "triumphal arch design unveiled",
+        "url": "https://www.bbc.com/news/articles/cwywre1e3kvo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump administration unveils 250-foot 'Triumphal Arch' design",
+        "summary": "The new arch, if approved, would be taller than the US Capitol building and the Lincoln Memorial."
+      },
+      {
+        "char": "📸",
+        "label": "lebanon war images",
+        "url": "https://www.nytimes.com/2026/04/10/world/middleeast/lebanon-displaced-photos.html",
+        "title": "Lebanon: Images of a Nation Uprooted by War",
+        "summary": "A million people in Lebanon have fled their homes as Israel clashes anew with Hezbollah. This is what their lives look now."
+      },
+      {
+        "char": "📚",
+        "label": "lu xun as communist mascot",
+        "url": "https://www.nytimes.com/2026/04/11/world/asia/lu-xun-chinese-writer-communist-mascot.html",
+        "title": "How Lu Xun, a Famous Chinese Writer, Became a Cute Communist Mascot",
+        "summary": "The Chinese Communist Party has turned Lu Xun, a Mao-era hero who excoriated the establishment, into a bland, Disney-style character."
+      },
+      {
+        "char": "🐒",
+        "label": "chimpanzees civil war",
+        "url": "https://www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe",
+        "title": "Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups",
+        "summary": "New study describes what may be the first case of a unified community of chimps, in Uganda, turning on itself On a June day in 2015, primatologist Aaron Sandel was quietly observing a small cluster of the Ngogo chimpanzee group in Uganda..."
+      },
+      {
+        "char": "🧑‍⚖️",
+        "label": "19-year-old in ice detention",
+        "url": "https://www.theguardian.com/us-news/2026/apr/09/day-in-the-life-19-year-old-ice-detention",
+        "title": "A day in the life of a 19-year-old in ICE detention: ‘I feel that this nightmare is not going to end’",
+        "summary": "Olivia has been detained for months at the sprawling Dilley center in Texas. She has lost 20lb, and wakes up every day with a headache Each day in detention feels like 48 hours for Olivia. The 19-year-old asylum seeker from the Democrati..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
