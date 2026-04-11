@@ -34451,5 +34451,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-11",
+    "emojis": [
+      {
+        "char": "💻",
+        "label": "japan boosts chipmaker funding",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcXVhaG4ya21JX0tFMnFTZHZDR3dQVWVWRXBHNG12cGJrTm00QmthYm5qWld0VTUtd3ZZejRBMkVzVERMRUY4OFA1ZHdEenREV2xaTEZUV3NXTElCUXNIWTdUNUs0NEVpQ2lBQks4VWl5c1FxUVNfcGxyYXgyNS0zUlhRalFnQzVtZndlNEotNmhMOE5veWgyVVAtVkJtMVNfcTcta2J6OA?oc=5",
+        "title": "Japan approves additional $4 bln for chipmaker Rapidus - Reuters",
+        "summary": "Japan approves additional $4 bln for chipmaker Rapidus Reuters"
+      },
+      {
+        "char": "🗳️",
+        "label": "peru elections amid instability",
+        "url": "https://www.theguardian.com/world/2026/apr/10/peru-election-polls-instability",
+        "title": "Peruvians to go to polls hoping to break cycle of instability",
+        "summary": "Soaring crime and corruption top voter concerns in highly unpredictable election with 35 candidates for president Peruvians go to the polls on Sunday hoping to break a cycle of instability that has produced nine presidents in a decade as..."
+      },
+      {
+        "char": "👮‍♂️",
+        "label": "life in ice detention",
+        "url": "https://www.theguardian.com/us-news/2026/apr/09/day-in-the-life-19-year-old-ice-detention",
+        "title": "A day in the life of a 19-year-old in ICE detention: ‘I feel that this nightmare is not going to end’",
+        "summary": "Olivia has been detained for months at the sprawling Dilley center in Texas. She has lost 20lb, and wakes up every day with a headache Each day in detention feels like 48 hours for Olivia. The 19-year-old asylum seeker from the Democrati..."
+      },
+      {
+        "char": "💰",
+        "label": "iran's economic war struggles",
+        "url": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-economy-war.html",
+        "title": "Iran Tries to Grasp Economic Devastation of War, and Find a Way Past It",
+        "summary": "The vast scale of destruction wrought by U.S. and Israeli bombardment will make sanctions relief all the more vital to Iran’s government as it tries to negotiate a peace agreement."
+      },
+      {
+        "char": "⚖️",
+        "label": "court rules on deportation rights",
+        "url": "https://www.theguardian.com/us-news/2026/apr/10/trump-administration-deport-men-eswatini-court-rule",
+        "title": "Four men deported by US to Eswatini have right to see lawyer, court rules",
+        "summary": "The men, sent to the southern African country in July, have been denied in-person counsel for nine months Four men deported by the US to Eswatini and denied in-person legal counsel for nine months while detained in a maximum security pri..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
