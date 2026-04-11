@@ -34363,5 +34363,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-11",
+    "emojis": [
+      {
+        "char": "🐒",
+        "label": "wild chimpanzees civil war",
+        "url": "https://www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe",
+        "title": "Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups",
+        "summary": "New study describes what may be the first case of a unified community of chimps, in Uganda, turning on itself On a June day in 2015, primatologist Aaron Sandel was quietly observing a small cluster of the Ngogo chimpanzee group in Uganda..."
+      },
+      {
+        "char": "🌍",
+        "label": "argentina glacier mining bill",
+        "url": "https://www.theguardian.com/world/2026/apr/09/argentina-approves-glacier-mining-bill-environment-protests-andes-mountaines-javier-milei",
+        "title": "Argentina approves Milei’s glacier mining bill amid environmental protests",
+        "summary": "Legislative change backed by libertarian president makes it easier to extract metals in frozen parts of the Andes Argentina’s congress has approved a bill promoted by the libertarian president, Javier Milei, that authorises mining in eco..."
+      },
+      {
+        "char": "💼",
+        "label": "us rare earth ceo defends trump",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS0ZvTV90WF8tcmpUcm16QUtsMUJHRXRfR2tSN0psM21DY09UOFQzd0tCdTItTGItOVYtNTFfdmlQQnRtaGFoX1VKMkxqaS1wZXdCWTNfUW5HMWNJWUZqUGFsclhWWVFvWmNKcXJLRWg3VFByVWYzU1h1Y1dhWWlhTkJtMmNQTHoyVzlmYmF3elg0NFM2Tk1LY2FDb0VZYzRqRkt4R0VOSktDVFI2TzQwdDdFQVBlNEs5cXUxalRSQ3lrWmFydUdz?oc=5",
+        "title": "USA Rare Earth CEO defends Trump administration investment as congressional questions swirl - Reuters",
+        "summary": "USA Rare Earth CEO defends Trump administration investment as congressional questions swirl Reuters"
+      },
+      {
+        "char": "🗳️",
+        "label": "peru election polls instability",
+        "url": "https://www.theguardian.com/world/2026/apr/10/peru-election-polls-instability",
+        "title": "Peruvians to go to polls hoping to break cycle of instability",
+        "summary": "Soaring crime and corruption top voter concerns in highly unpredictable election with 35 candidates for president Peruvians go to the polls on Sunday hoping to break a cycle of instability that has produced nine presidents in a decade as..."
+      },
+      {
+        "char": "🤝",
+        "label": "historic us-iran talks",
+        "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
+        "title": "Lyse Doucet: Historic US-Iran talks must bridge deep distrust",
+        "summary": "Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
