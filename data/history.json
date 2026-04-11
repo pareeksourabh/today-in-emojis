@@ -34275,5 +34275,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-11",
+    "emojis": [
+      {
+        "char": "🇭🇺",
+        "label": "hungary's election and orban's future",
+        "url": "https://www.nytimes.com/2026/04/10/world/europe/hungary-corruption-orban-magyar-election.html",
+        "title": "This Hungarian Town Explains Why Orban Could Lose on Sunday",
+        "summary": "Lake Balaton was beloved as a vacation spot. Now, luxury real estate projects serve many friends of Prime Minister Viktor Orban, and the locals are fed up."
+      },
+      {
+        "char": "🐺",
+        "label": "search for escaped zoo wolf in south korea",
+        "url": "https://www.bbc.com/news/articles/cr41d4r5kdeo?at_medium=RSS&at_campaign=rss",
+        "title": "South Korea deploys thermal imaging cameras in search for escaped zoo wolf",
+        "summary": "The male wolf, named Neukgu, escaped a zoo in the central city of Daejeon on Wednesday, officials said."
+      },
+      {
+        "char": "🗳️",
+        "label": "peru's polls and instability hopes",
+        "url": "https://www.theguardian.com/world/2026/apr/10/peru-election-polls-instability",
+        "title": "Peruvians to go to polls hoping to break cycle of instability",
+        "summary": "Soaring crime and corruption top voter concerns in highly unpredictable election with 35 candidates for president Peruvians go to the polls on Sunday hoping to break a cycle of instability that has produced nine presidents in a decade as..."
+      },
+      {
+        "char": "🇺🇸",
+        "label": "us deportation case of kilmar garcia",
+        "url": "https://www.theguardian.com/us-news/2026/apr/07/kilmar-abrego-garcia-liberia-deportation",
+        "title": "US seeks to deport Kilmar Ábrego García to Liberia despite new Costa Rica deal",
+        "summary": "Man born in El Salvador has been fighting removal to series of ‘third’ countries after mistaken deportation last year US government attorneys on Tuesday told a federal judge the Department of Homeland Security still intends to deport Kil..."
+      },
+      {
+        "char": "📸",
+        "label": "images of lebanon uprooted by war",
+        "url": "https://www.nytimes.com/2026/04/10/world/middleeast/lebanon-displaced-photos.html",
+        "title": "Lebanon: Images of a Nation Uprooted by War",
+        "summary": "A million people in Lebanon have fled their homes as Israel clashes anew with Hezbollah. This is what their lives look now."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
