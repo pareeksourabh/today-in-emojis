@@ -34319,5 +34319,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-11",
+    "emojis": [
+      {
+        "char": "🔫",
+        "label": "gunmen kill four in afghanistan",
+        "url": "https://www.bbc.com/news/articles/cr51z5p17myo?at_medium=RSS&at_campaign=rss",
+        "title": "Gunmen kill at least four people at Afghanistan picnic spot",
+        "summary": "Officials say attackers opened fire near the village of Deh Mehri in Herat."
+      },
+      {
+        "char": "🧬",
+        "label": "genetic variations in weight loss",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTWJ0dEt6SWxYY1gxLWRjRmpuZkp5bUV3SDRjOV9tVUNGanhfTjZtT1ZXZjNkcmFNWjdZNlFHYUJfa01IMWVnR2RTWC1rQXNJSE04V21vR3BUXzJ6R0xUWmVvb2FOMlB2ZG1ZNW01NEU1RkhFZFI4akI1MWl5NGtmaVhPLXRRcmxNd3RBQzcxS0xmUFc5Vm92NUJiR2lLRFJ1QmE1VjJvdEhqYVA1U2E2Qkh4VUZRUkpaMWNiLUFzZmtHS0N0dTNiVmRpNDM2NFU?oc=5",
+        "title": "GLP-1 weight loss, side effects linked to genetic variations - Reuters",
+        "summary": "GLP-1 weight loss, side effects linked to genetic variations Reuters"
+      },
+      {
+        "char": "🇵🇸",
+        "label": "palestinian shot in west bank",
+        "url": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
+        "title": "Palestinian shot dead during Israeli settler attack on occupied West Bank village",
+        "summary": "The killing came as ex-security chiefs warned \"government sponsored Jewish terrorism\" was out of control."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "venezuelans struggle for passports",
+        "url": "https://www.nytimes.com/2026/04/10/world/americas/venezuelans-return-passports-trump.html",
+        "title": "Many Venezuelans Want to Go Home. But They Can’t Get Passports.",
+        "summary": "The U.S. has made it impossible for them to stay legally, and their own country makes it difficult for them to return."
+      },
+      {
+        "char": "🌍",
+        "label": "argentina glacier mining bill approved",
+        "url": "https://www.theguardian.com/world/2026/apr/09/argentina-approves-glacier-mining-bill-environment-protests-andes-mountaines-javier-milei",
+        "title": "Argentina approves Milei’s glacier mining bill amid environmental protests",
+        "summary": "Legislative change backed by libertarian president makes it easier to extract metals in frozen parts of the Andes Argentina’s congress has approved a bill promoted by the libertarian president, Javier Milei, that authorises mining in eco..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
