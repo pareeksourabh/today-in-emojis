@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news items highlight significant distressing events, including violence, legal battles, and political instability, which collectively contribute to an overall sense of anxiety and concern.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day is marked by sadness due to tragic events like the mass stampede in Haiti and ongoing crises in places like Lebanon and South Korea. These events highlight deep human suffering and instability.",
     "palette": [
       "😢",
       "😡",
