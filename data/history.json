@@ -34539,5 +34539,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-12",
+    "emojis": [
+      {
+        "char": "🇮🇷",
+        "label": "iran agrees to unfreeze funds",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0tYN2FaMjhaN1FlWGJOM25HaUhEOERsaS04VWdHdWEtNmFsMW1peXM4NEpXeUtmX2lLejFaM1lLelpIUUs3VFI0LUdCX09VcFM5WlgtNDBiNW5CM2dGa3BqV1NzeHp3dHA3VFVDTzlELUpsREJPTDktY0poVXhWZUJKUUxNR2dReF9GbVNzVzZuUGNRM21NbTZhS29xREZ2ZHlUWEVHZFlScHdtQjBteHlkV2V5Q0hmMGZUM0dLb1pyV05qWFlr?oc=5",
+        "title": "Exclusive: Iranian source says US has agreed to unfreeze Iranian funds, Washington denies it - Reuters",
+        "summary": "Exclusive: Iranian source says US has agreed to unfreeze Iranian funds, Washington denies it Reuters"
+      },
+      {
+        "char": "🗳️",
+        "label": "hungary votes in landmark election",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0FINjZHRk5nTFlkMEtuX2JQd2Z6em82LUxYUXR1YUduaEl5ODR2Mng4bXBPNnd5aVE2dHBPQTB6SGJqRFdkcVl6ejRNNUx5R2hMYktNOGRBRmlwME5RUl9ZUnBoV1hmLURYOGtUNi1vSFRLdU9ZYmVrZkd3Y1A4ZUNBUkN4ZmdwNFp1bDlNbDhyNmtOcFliUDhsQ3EyblFJMURPT0RMWF8wWFRpbmYzTDd3SWY?oc=5",
+        "title": "Hungarians vote in landmark election closely watched by EU, Russia, US - Reuters",
+        "summary": "Hungarians vote in landmark election closely watched by EU, Russia, US Reuters"
+      },
+      {
+        "char": "🎤",
+        "label": "jailed for love songs in vietnam",
+        "url": "https://www.nytimes.com/2026/04/12/world/asia/vietnam-singer-prisoner.html",
+        "title": "Jailed for Love Songs? Yes, and Still Singing.",
+        "summary": "Nguyen Van Loc was persecuted for performing Hanoi’s old romantic music during (and after) the Vietnam War. He can’t stop. He won’t stop."
+      },
+      {
+        "char": "💔",
+        "label": "mass stampede in haiti leaves dead",
+        "url": "https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html",
+        "title": "Mass Stampede at Haitian Tourist Site Leaves Dozens Dead",
+        "summary": "The tragedy took place at the Citadelle Laferrière, a historic fortress in northern Haiti and one of the country’s defining symbols."
+      },
+      {
+        "char": "✈️",
+        "label": "us seeks deportation to liberia",
+        "url": "https://www.theguardian.com/us-news/2026/apr/07/kilmar-abrego-garcia-liberia-deportation",
+        "title": "US seeks to deport Kilmar Ábrego García to Liberia despite new Costa Rica deal",
+        "summary": "Man born in El Salvador has been fighting removal to series of ‘third’ countries after mistaken deportation last year US government attorneys on Tuesday told a federal judge the Department of Homeland Security still intends to deport Kil..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
