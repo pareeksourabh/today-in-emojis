@@ -34671,5 +34671,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-12",
+    "emojis": [
+      {
+        "char": "🐒",
+        "label": "chimpanzees civil war",
+        "url": "https://www.theguardian.com/environment/2026/apr/09/civil-war-chimpanzee-group-closer-to-human-condition-aoe",
+        "title": "Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups",
+        "summary": "New study describes what may be the first case of a unified community of chimps, in Uganda, turning on itself On a June day in 2015, primatologist Aaron Sandel was quietly observing a small cluster of the Ngogo chimpanzee group in Uganda..."
+      },
+      {
+        "char": "🕊️",
+        "label": "iran talks falter",
+        "url": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
+        "title": "After Iran talks falter, the big question is what happens next?",
+        "summary": "Twenty-one hours was not enough to end 47 years of hostility between Iran and the US, writes the BBC's Lyse Doucet."
+      },
+      {
+        "char": "🗳️",
+        "label": "hungary election polls",
+        "url": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-polls.html",
+        "title": "Many Polls Say Orban Will Lose. But He Has an Edge Even Before Voting Begins.",
+        "summary": "Over 16 years, Prime Minister Viktor Orban’s party has repeatedly tweaked the electoral system to its advantage, making the vote free, but not entirely fair."
+      },
+      {
+        "char": "🏥",
+        "label": "south korea medical crisis",
+        "url": "https://www.nytimes.com/2026/04/12/world/asia/south-korea-emergency-room-medical-crisis.html",
+        "title": "Rejected by Dozens of Emergency Rooms: South Korea’s Medical Crisis",
+        "summary": "Hundreds of patients every year have trouble finding emergency care, even though the country has a world-class medical system. For some, the delays have been fatal."
+      },
+      {
+        "char": "💔",
+        "label": "haiti stampede deaths",
+        "url": "https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html",
+        "title": "Mass Stampede at Haitian Tourist Site Leaves Dozens Dead",
+        "summary": "The tragedy took place at the Citadelle Laferrière, a historic fortress in northern Haiti and one of the country’s defining symbols."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
