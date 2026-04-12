@@ -1,28 +1,7 @@
 {
   "date": "2026-04-12",
-  "timestamp": "2026-04-12T00:00:00Z",
+  "timestamp": "2026-04-12T08:54:07Z",
   "emojis": [
-    {
-      "char": "🇺🇸",
-      "label": "trump's iran intervention thoughts",
-      "url": "https://www.theguardian.com/world/2026/apr/10/trump-iran-intervention-easy-as-venezuela-maduro-capture-john-feeley",
-      "title": "Trump ‘reaping bitter fruit’ of thinking Iran intervention as easy as Venezuela, says former diplomat",
-      "summary": "John Feeley says US president was ‘flush with victory’ of Maduro capture and could make same mistake in Cuba Donald Trump is “reaping the bitter fruit” of erroneously thinking that the capture of Venezuela’s president, Nicolás Maduro, of..."
-    },
-    {
-      "char": "🗳️",
-      "label": "hungary's election polls update",
-      "url": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-polls.html",
-      "title": "Many Polls Say Orban Will Lose. But He Has an Edge Even Before Voting Begins.",
-      "summary": "Over 16 years, Prime Minister Viktor Orban’s party has repeatedly tweaked the electoral system to its advantage, making the vote free, but not entirely fair."
-    },
-    {
-      "char": "⚖️",
-      "label": "court rules on eswatini deportations",
-      "url": "https://www.theguardian.com/us-news/2026/apr/10/trump-administration-deport-men-eswatini-court-rule",
-      "title": "Four men deported by US to Eswatini have right to see lawyer, court rules",
-      "summary": "The men, sent to the southern African country in July, have been denied in-person counsel for nine months Four men deported by the US to Eswatini and denied in-person legal counsel for nine months while detained in a maximum security pri..."
-    },
     {
       "char": "🚢",
       "label": "us ships cross strait of hormuz",
@@ -31,11 +10,32 @@
       "summary": "US military says two of its ships crossed through Strait of Hormuz Reuters"
     },
     {
+      "char": "🇭🇺",
+      "label": "who is viktor orban?",
+      "url": "https://www.nytimes.com/2026/04/12/world/europe/who-is-viktor-orban.html",
+      "title": "Who Is Viktor Orban?",
+      "summary": "Hungary’s prime minister, once a liberal activist, has governed for the past 16 years as a champion of “illiberal democracy.”"
+    },
+    {
+      "char": "🏥",
+      "label": "us pressures latin america on cuban doctors",
+      "url": "https://www.theguardian.com/world/2026/apr/09/us-cuban-doctors-program",
+      "title": "US accused of pressuring Latin America to cut ties with Cuban doctors program",
+      "summary": "Cuba accuses US of ‘extorting’ countries in pushing them to axe deals with Havana to send doctors on medical missions Cuba’s foreign minister has accused the United States of “extorting” Latin American countries by putting pressure on th..."
+    },
+    {
       "char": "💔",
-      "label": "haiti tourist site tragedy",
+      "label": "mass stampede in haiti leaves dead",
       "url": "https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html",
       "title": "Mass Stampede at Haitian Tourist Site Leaves Dozens Dead",
       "summary": "The tragedy took place at the Citadelle Laferrière, a historic fortress in northern Haiti and one of the country’s defining symbols."
+    },
+    {
+      "char": "🗳️",
+      "label": "benin finance minister expected to win",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFNfN1hQbjUwSGxVeHRBblN3VU9CVVhyMldTQUZmdi05VDBDWDRMRjd3bk83TGJtT0RaNjl3ZG1XLTJKT2FoVUNnM2NFNkFoUjNGemhMVjNWNVJobWdsY0QxV1VlazU0eHJnaXl3SUUwN2VCR1hzc3kyUTkzdE5jVlJHR3VEU2J1bDZTaUhLSW9VWnRZNFk0M3JiWnJCaGM0T2hXLWJ4aTd3TFFlWDRwTUdR?oc=5",
+      "title": "Benin finance minister expected to coast to presidential election win - Reuters",
+      "summary": "Benin finance minister expected to coast to presidential election win Reuters"
     }
   ],
   "source": "ai-openai",

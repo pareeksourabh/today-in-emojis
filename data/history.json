@@ -34583,5 +34583,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-12",
+    "emojis": [
+      {
+        "char": "🚢",
+        "label": "us ships cross strait of hormuz",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1pxSEdYT01ocEZVcmV5dF9hZ3JxQlZOSVJEbUZYTWgxYXhsN212OG9KOXpaaEZ4ZjYzZXhSV2JPVW5jeE1PZy1PWEFkeU9GTUFlLTBkZ0o2R21iU0pkSGo5aDlLUXBqMEtVRTNDZUljZHhnSGR6Nkw4SVNRalJseE1weUxjTF9QcGFJSDZQV0VVdTdiRHc2NmxmcXVIR19YZTBQd2hQQ0g2aDNfREZWbkxkeWY?oc=5",
+        "title": "US military says two of its ships crossed through Strait of Hormuz - Reuters",
+        "summary": "US military says two of its ships crossed through Strait of Hormuz Reuters"
+      },
+      {
+        "char": "🇭🇺",
+        "label": "who is viktor orban?",
+        "url": "https://www.nytimes.com/2026/04/12/world/europe/who-is-viktor-orban.html",
+        "title": "Who Is Viktor Orban?",
+        "summary": "Hungary’s prime minister, once a liberal activist, has governed for the past 16 years as a champion of “illiberal democracy.”"
+      },
+      {
+        "char": "🏥",
+        "label": "us pressures latin america on cuban doctors",
+        "url": "https://www.theguardian.com/world/2026/apr/09/us-cuban-doctors-program",
+        "title": "US accused of pressuring Latin America to cut ties with Cuban doctors program",
+        "summary": "Cuba accuses US of ‘extorting’ countries in pushing them to axe deals with Havana to send doctors on medical missions Cuba’s foreign minister has accused the United States of “extorting” Latin American countries by putting pressure on th..."
+      },
+      {
+        "char": "💔",
+        "label": "mass stampede in haiti leaves dead",
+        "url": "https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html",
+        "title": "Mass Stampede at Haitian Tourist Site Leaves Dozens Dead",
+        "summary": "The tragedy took place at the Citadelle Laferrière, a historic fortress in northern Haiti and one of the country’s defining symbols."
+      },
+      {
+        "char": "🗳️",
+        "label": "benin finance minister expected to win",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFNfN1hQbjUwSGxVeHRBblN3VU9CVVhyMldTQUZmdi05VDBDWDRMRjd3bk83TGJtT0RaNjl3ZG1XLTJKT2FoVUNnM2NFNkFoUjNGemhMVjNWNVJobWdsY0QxV1VlazU0eHJnaXl3SUUwN2VCR1hzc3kyUTkzdE5jVlJHR3VEU2J1bDZTaUhLSW9VWnRZNFk0M3JiWnJCaGM0T2hXLWJ4aTd3TFFlWDRwTUdR?oc=5",
+        "title": "Benin finance minister expected to coast to presidential election win - Reuters",
+        "summary": "Benin finance minister expected to coast to presidential election win Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
