@@ -34759,5 +34759,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-13",
+    "emojis": [
+      {
+        "char": "🍖",
+        "label": "meatpacker jbs strikes deal with workers",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUI5cjVWOGIxdHRCaGNDU3BBazg0TlIySmFLcGl4eGl5R2xvM3RrZV9Cam9VV0pRQVo0ZHBHTWs3MklUWi1IN1lVbHd5cHh3NU8wdS1DZnRZb2NKWC1yY1BHbnJuUV8xakNpR0pyNkhrZzNBUk5Ndjc5QXczWUJoOFAtWEtqNW1HcnNncmxhN3FJYWNhRTBOc1NlQU5EU2lPOEpORm9ndElTbkJIV1hJWnBqRk5YOEF5UlJxSW54SHFRcDViNXVIcmxkQ2w?oc=5",
+        "title": "Meatpacker JBS reaches tentative agreement with striking Colorado workers - Reuters",
+        "summary": "Meatpacker JBS reaches tentative agreement with striking Colorado workers Reuters"
+      },
+      {
+        "char": "👑",
+        "label": "prince harry sued for defamation",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale",
+        "title": "Prince Harry sued for defamation by charity he co-founded",
+        "summary": "Legal action follows war of words with Sentebale chair after Duke of Sussex’s resignation as patron The Duke of Sussex is being sued by Sentebale in the latest twist in the bitter fallout over the African charity he co-founded. The chari..."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuba's president defies us standoff",
+        "url": "https://www.nytimes.com/2026/04/12/world/americas/cuba-president-meet-the-press.html",
+        "title": "Cuba’s President Projects Defiance in Standoff With the U.S.",
+        "summary": "Miguel Díaz-Canel’s stance on “Meet the Press” reflected how Cuba is digging in against pressure from a Trump administration distracted by the war in Iran."
+      },
+      {
+        "char": "🇭🇺",
+        "label": "orbán's hungarian experiment falters",
+        "url": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss",
+        "title": "Viktor Orbán's Hungarian experiment runs out of steam",
+        "summary": "Péter Magyar's historic win offers peace for a country exhausted by the tensions of Viktor Orbán's rule, Nick Thorpe reports from Budapest."
+      },
+      {
+        "char": "🏰",
+        "label": "30 killed in haiti fortress crush",
+        "url": "https://www.theguardian.com/world/2026/apr/12/at-least-30-killed-in-crush-at-historic-fortress-in-haiti",
+        "title": "At least 30 killed in crush at historic fortress in Haiti",
+        "summary": "Officials said many killed at popular tourist site were young, with more people reported injured or missing At least 30 people, many of them young, have died and dozens more are reported to have been injured after a crush at a mountainto..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
