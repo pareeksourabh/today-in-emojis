@@ -34847,5 +34847,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-13",
+    "emojis": [
+      {
+        "char": "⚽",
+        "label": "ghanaian footballer killed in attack",
+        "url": "https://www.bbc.com/news/articles/czx97pkyy9po?at_medium=RSS&at_campaign=rss",
+        "title": "Ghanaian footballer killed after armed attackers open fire at team bus",
+        "summary": "The team was returning from a match when they were attacked by \"masked men wielding guns\", officials say."
+      },
+      {
+        "char": "✝️",
+        "label": "pope leo heads to africa",
+        "url": "https://www.nytimes.com/2026/04/13/world/europe/pope-leo-africa-future.html",
+        "title": "Pope Leo Heads to Africa to Meet the Future of Catholicism",
+        "summary": "On a four-country tour of the continent, where the faith is growing faster than anywhere else, the pontiff will be greeted by enthusiastic crowds and authoritarian leaders."
+      },
+      {
+        "char": "🛢️",
+        "label": "iran war updates: oil climbs above $100",
+        "url": "https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news",
+        "title": "Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade",
+        "summary": "The U.S. military said it would block ships entering or exiting Iranian ports or coastal areas starting at 10 a.m. Eastern. European leaders distanced themselves from the plan."
+      },
+      {
+        "char": "🏛️",
+        "label": "30 killed in crush at fortress in haiti",
+        "url": "https://www.theguardian.com/world/2026/apr/12/at-least-30-killed-in-crush-at-historic-fortress-in-haiti",
+        "title": "At least 30 killed in crush at historic fortress in Haiti",
+        "summary": "Officials said many killed at popular tourist site were young, with more people reported injured or missing At least 30 people, many of them young, have died and dozens more are reported to have been injured after a crush at a mountainto..."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "brazil's lula livestreams workouts",
+        "url": "https://www.theguardian.com/world/2026/apr/13/lula-da-silva-gym-rat-brazil-president-livestreams-workouts-campaign-historic-fourth-term",
+        "title": "Brazil’s Lula, 80, livestreams workouts before election against rival half his age",
+        "summary": "President contrasts his health with challenger Flávio Bolsonaro, who fainted during a TV debate The Brazilian president, Luiz Inácio Lula da Silva, is seeking to lunge and leg press his way to a historic fourth term, as the octogenarian..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
