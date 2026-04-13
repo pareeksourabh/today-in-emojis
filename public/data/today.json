@@ -1,43 +1,204 @@
 {
   "date": "2026-04-13",
-  "timestamp": "2026-04-13T16:51:30Z",
+  "timestamp": "2026-04-13T00:00:00Z",
   "emojis": [
     {
+      "char": "🇭🇺",
+      "label": "who is viktor orban?",
+      "url": "https://www.nytimes.com/2026/04/12/world/europe/who-is-viktor-orban.html",
+      "title": "Who Is Viktor Orban?",
+      "summary": "Hungary’s prime minister, once a liberal activist, has governed for the past 16 years as a champion of “illiberal democracy.”"
+    },
+    {
+      "char": "⚔️",
+      "label": "ukraine and russia ceasefire violations",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYWh4aHE3R3l1Q1pZdWNEWWlmUVo3VlN2M3JSeTZKbmNzMlQ2UzFsaHJEb2FnaXh0UlViZm5tVUJxOHNSWUNRTXhxc1VIUkdsVVdwWHNPdlVNcG96SFFUaktDczYtZUdVVUNyb19scDktc1ltVm1TRFJpR1ZiNWxwNDdIZjNoeFhXcnlNNUZXQTIzUnJEbzVtbHJyVmlNNnAzYTRtNFJ1T21DQVdranJtUTlUd2hQU3M?oc=5",
+      "title": "Russia, Ukraine trade accusations of Orthodox Easter ceasefire violations - Reuters",
+      "summary": "Russia, Ukraine trade accusations of Orthodox Easter ceasefire violations Reuters"
+    },
+    {
+      "char": "🛢️",
+      "label": "south korea secures oil from kazakhstan",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjJNQ3l0ejBCdzRkVHVoMk5YMjZFdGVMSy15SUtZU1B0VmhSUXpka3pPWGZhMWh0ckJIcnkxLTVuRnllZ1kwcm55OE5kZFlyd0JBWEJ6ZjNwTUs1d2Z3STRIQlJ4bm5vQmV0R3BQeE5MNzFyUEYyVFgzWUNVUkNVZXNUbzI2LVRLY29IcUxLSWQ2TlVhaUh3OVMtaWwyU2lFazZkOFFzNFVHV2hTT0RxVVlzdl9nUGc?oc=5",
+      "title": "South Korea close to securing oil supplies from Kazakhstan, minister says - Reuters",
+      "summary": "South Korea close to securing oil supplies from Kazakhstan, minister says Reuters"
+    },
+    {
+      "char": "💔",
+      "label": "30 feared dead in haiti crush",
+      "url": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
+      "title": "At least 30 feared dead in crush at Haitian tourist site",
+      "summary": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says."
+    },
+    {
+      "char": "💼",
+      "label": "trump's blockade threat risks",
+      "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
+      "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs."
+    },
+    {
+      "char": "🇺🇦",
+      "label": "ukraine and russia ceasefire violations",
+      "url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+      "summary": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks."
+    },
+    {
+      "char": "⚓",
+      "label": "us to blockade iranian ports",
+      "url": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan",
+      "title": "Iran War Live Updates: U.S. to Blockade Ships From Iranian Ports",
+      "summary": "The blockade on ships “entering or departing Iranian ports and coastal areas” will begin on Monday, U.S. Central Command said. But U.S. forces will not impede vessels transiting the Strait of Hormuz, a step back from President Trump’s ea..."
+    },
+    {
+      "char": "🕊️",
+      "label": "human rights groups decry guantanamo plan",
+      "url": "https://www.theguardian.com/us-news/2026/apr/10/trump-guantanamo-cuban-migrants",
+      "title": "Human rights groups decry US plan for Guantánamo camp for Cuban migrants",
+      "summary": "Exclusive: Dozens of organizations write to Congress after general announced plan to ‘deal with’ those fleeing any humanitarian crisis on the island Dozens of US and international human rights organizations are decrying the Trump adminis..."
+    },
+    {
       "char": "🗳️",
-      "label": "africa's soaring nomination fees",
-      "url": "https://www.theguardian.com/global-development/2026/apr/13/elections-africa-soaring-nomination-fees-djibouti-benin",
-      "title": "And the election winner is … the candidate who can afford Africa’s soaring nomination fees",
-      "summary": "Presidential elections in Djibouti and Benin at the weekend highlighted how a costly electoral system is reshaping democracy Alexis Mohamed would have loved to stand against his former boss. A longtime adviser to Djibouti’s president, Is..."
+      "label": "hungary election results",
+      "url": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html",
+      "title": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
+      "summary": "Prime Minister Viktor Orban, who has inspired populist movements globally, could not overcome the growing dissatisfaction of his own citizens."
     },
     {
-      "char": "🚗",
-      "label": "tesla's self-driving software approval",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2hMcnVSVWp5R2g1c1JMcm1qTEdrQ3JxVURmS04way1RTUhFQXZhMEtOdDlwdmRvWlBWZHREd0gxOXk0QW9DVHJTXzZYTU1WcnA0YWNCOVljMTFMbzdhRmNOM1hZQmgzUXQ5R2ZaWGY2MDhZLWFVMXdYSXJzZi1hcnRNWnM0Y2ZHeGk2VFM3QnFGUkZxN0ZnWUZ1ZlIxZGdIWHZfYS1jRTE2djY1bmJBcUFGYlRBSHhJc3JScVJvYw?oc=5",
-      "title": "Dutch regulator to seek EU approval for Tesla's self-driving software - Reuters",
-      "summary": "Dutch regulator to seek EU approval for Tesla's self-driving software Reuters"
+      "char": "💔",
+      "label": "30 killed in haiti stampede",
+      "url": "https://www.theguardian.com/world/2026/apr/12/at-least-30-killed-in-crush-at-historic-fortress-in-haiti",
+      "title": "At least 30 killed in crush at historic fortress in Haiti",
+      "summary": "Officials said many killed at popular tourist site were young, with more people reported injured or missing At least 30 people, many of them young, have died and dozens more are reported to have been injured after a crush at a mountainto..."
     },
     {
-      "char": "🇳🇬",
+      "char": "🍖",
+      "label": "meatpacker jbs strikes deal",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUI5cjVWOGIxdHRCaGNDU3BBazg0TlIySmFLcGl4eGl5R2xvM3RrZV9Cam9VV0pRQVo0ZHBHTWs3MklUWi1IN1lVbHd5cHh3NU8wdS1DZnRZb2NKWC1yY1BHbnJuUV8xakNpR0pyNkhrZzNBUk5Ndjc5QXczWUJoOFAtWEtqNW1HcnNncmxhN3FJYWNhRTBOc1NlQU5EU2lPOEpORm9ndElTbkJIV1hJWnBqRk5YOEF5UlJxSW54SHFRcDViNXVIcmxkQ2w?oc=5",
+      "title": "Meatpacker JBS reaches tentative agreement with striking Colorado workers - Reuters",
+      "summary": "Meatpacker JBS reaches tentative agreement with striking Colorado workers Reuters"
+    },
+    {
+      "char": "💰",
+      "label": "dollar gains as peace talks falter",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNl9EY0ZSb1p0ckttRTVzNlpJVzV6Zy1EdThoNVFpenUxa3pkME1WYkZUTnd1TnYtekpDV09vWUFMaGt3ay1Eb05LbkRfbFRORmR5LXp0R3gxYW4yeGxsand6UjRtbFNsNmNJaHNrMkdMWEo1cC1zaHdMQk9IbW9NX1ZpYTBaUGlYWUpUQjNOcHM5d00zTXBjUFVfVWk1U3RCeGZMWndqVzV5RExMalJCb2RvZFNoTnFfelB2UVFpYw?oc=5",
+      "title": "Safe-haven dollar gains as peace talks falter, US to blockade Hormuz - Reuters",
+      "summary": "Safe-haven dollar gains as peace talks falter, US to blockade Hormuz Reuters"
+    },
+    {
+      "char": "✈️",
       "label": "nigerian airstrike kills civilians",
       "url": "https://www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram",
       "title": "Nigerian airstrike targeting jihadists reportedly kills at least 100 civilians",
       "summary": "Officials confirm misfire as Amnesty gives death toll after speaking to survivors of strike on market in Yobe state A Nigerian air force strike targeting jihadist rebels hit a market in north-east Nigeria, killing more than 100 people an..."
     },
     {
-      "char": "🎨",
-      "label": "abidjan art week showcases culture",
-      "url": "https://www.theguardian.com/world/2026/apr/13/abidjan-art-week-cote-d-ivoire-culture",
-      "title": "‘This scene is alive’: Abidjan art week showcases city as growing cultural hub",
-      "summary": "Late-night gallery tours and new venues signal a city staking its claim as a regional arts capital On a recent weekday evening, the doors of more than a dozen galleries and museums across Abidjan stayed open till midnight, several hours..."
+      "char": "🇭🇺",
+      "label": "orban loss eases tensions with eu",
+      "url": "https://www.nytimes.com/2026/04/13/world/europe/hungary-eu-orban-magyar.html",
+      "title": "Orban Loss May Ease Hungary’s Tensions with European Union",
+      "summary": "Prime Minister Viktor Orban has stymied the European Union for years, and particularly in recent months. Peter Magyar’s election could change that, if only so much."
     },
     {
-      "char": "🏛️",
-      "label": "pope visits algeria for church growth",
-      "url": "https://www.theguardian.com/world/2026/apr/13/pope-leo-visits-algeria-africa-tour-catholic-church",
-      "title": "Pope Leo visits Algeria in sign of Africa’s growing importance to Catholic church",
-      "summary": "Pontiff makes first papal visit to country as he starts 11-day tour that will also include stops in Cameroon and Angola Pope Leo XIV arrived in Algeria on Monday for the first papal visit to the country, calling for peace on the opening..."
+      "char": "👑",
+      "label": "dutch royals visit trump",
+      "url": "https://www.nytimes.com/2026/04/13/world/europe/trump-dutch-royal-visit-white-house.html",
+      "title": "‘The Strangest Sleepover Ever’: Dutch Skeptical as Their Royals Visit Trump",
+      "summary": "The Dutch king and queen are set to stay at the White House on Monday night. At a time of trans-Atlantic tension, the Netherlands isn’t sure how it feels about that."
+    },
+    {
+      "char": "🌸",
+      "label": "in myanmar, even flowers stoke fear",
+      "url": "https://www.nytimes.com/2026/04/13/world/asia/myanmar-war-military-fear.html",
+      "title": "In Myanmar, Even Flowers Stoke Fear",
+      "summary": "Myanmar’s generals have brutalized the country for decades. But they have come to dread garlands as a sign of resistance."
+    },
+    {
+      "char": "☔",
+      "label": "india forecasts sub-par monsoon in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTFA4ZG1ObnA2MmQyaExWM0xUREhtaHpBMkpJbU9ZTDZlS0lqM3k2aE9DRTExQm82SXRvLXN3Z0FUTUJLb240Tko5QXBqeG1KY1E5Y3MyajdUalVGVXFMQ1BhcU5YMGpZdVVDdFpQUHQ5MC1zZ0pHQnNlQUw4VTliTVQ3bHNndlh4RXFyR2ItMExoam5lNFlOWHBGWkpzR3NXcDg1dnNjUk1hMG5KeWZqQ1pjc19CUzU0aklRNjVaT1RCX1BVWFdpRQ?oc=5",
+      "title": "India forecasts sub-par monsoon in 2026 after two years of above-average rains - Reuters",
+      "summary": "India forecasts sub-par monsoon in 2026 after two years of above-average rains Reuters"
+    },
+    {
+      "char": "🗳️",
+      "label": "peruvians go to polls for stability",
+      "url": "https://www.theguardian.com/world/2026/apr/10/peru-election-polls-instability",
+      "title": "Peruvians go to polls hoping to break cycle of instability",
+      "summary": "Crime and corruption top voter concerns in highly unpredictable election with 35 candidates for president Peruvians go to the polls on Sunday hoping to break a cycle of instability that has produced nine presidents in a decade as well as..."
+    },
+    {
+      "char": "🏝️",
+      "label": "mauritius vows to decolonise chagos islands",
+      "url": "https://www.theguardian.com/world/2026/apr/12/mauritius-vows-decolonise-chagos-islands-starmer-shelves-handover",
+      "title": "Mauritius vows to ‘decolonise’ Chagos Islands after Starmer shelves handover",
+      "summary": "Mauritian foreign minister pledges to ‘spare no effort’ to regain control of islands, as US fails to give approval of deal A senior official in Mauritius’ government has vowed that the Chagos Islands will be “decolonised” after Keir Star..."
+    },
+    {
+      "char": "🛢️",
+      "label": "iran war live updates: oil climbs above $100",
+      "url": "https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news",
+      "title": "Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade",
+      "summary": "The U.S. military said it would block ships entering or exiting Iranian ports or coastal areas starting at 10 a.m. Eastern. European leaders distanced themselves from the plan."
+    },
+    {
+      "char": "⚽",
+      "label": "ghanaian footballer killed in attack",
+      "url": "https://www.bbc.com/news/articles/czx97pkyy9po?at_medium=RSS&at_campaign=rss",
+      "title": "Ghanaian footballer killed after armed attackers open fire at team bus",
+      "summary": "The team was returning from a match when they were attacked by \"masked men wielding guns\", officials say."
+    },
+    {
+      "char": "📰",
+      "label": "iran war live updates",
+      "url": "https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news",
+      "title": "Iran War Live Updates: U.S. Begins Blockade in Strait of Hormuz",
+      "summary": "The U.S. military said it would block ships entering or leaving Iranian ports or coastal areas, in an effort to cut off Iran’s oil income. Traffic had already been at a standstill as Iran largely barred Western ships from transiting the..."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "canada's pm could secure majority",
+      "url": "https://www.theguardian.com/world/2026/apr/13/mark-carney-canada-pm-liberals-majority",
+      "title": "‘The perception is Carney is a wartime leader’: why Canada’s PM could secure a majority",
+      "summary": "As Trump’s actions spark a desire for stability, analysts say Carney is in effect assembling a union government Canada’s prime minister, Mark Carney, is on the brink of securing a majority government, with his Liberal party poised to win..."
+    },
+    {
+      "char": "👑",
+      "label": "dutch royals visit trump",
+      "url": "https://www.nytimes.com/2026/04/13/world/europe/trump-dutch-royal-visit-white-house.html",
+      "title": "‘The Strangest Sleepover Ever’: Dutch Skeptical as Their Royals Visit Trump",
+      "summary": "The Dutch king and queen are set to stay at the White House on Monday night. At a time of trans-Atlantic tension, the Netherlands isn’t sure how it feels about that."
+    },
+    {
+      "char": "🗳️",
+      "label": "hungary election winner suspends media",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNGd5THQzcjNXbVI2bEEzUjB4NmNjT204NkRvdVNFdGpPR2lGejhxVHBZUWgweWtGUkpqblVVVzYtYTF4R19mdzl3Sk5pNlF6VTY1TEZWenNUak1ITXpuWURXOWZkTHhaN1Byd1Rac2Q5UVRsYVNYZEUtUms5eGNrbWFqaDA1TjgxbF9USUU2dnJTU29GS1daRDdtUUlxd29NSHE5cC1MaWpLQzJEUjBpcFAtWllIT3ctOUFZTWJzYXlSMUVNdmQ5b2R3?oc=5",
+      "title": "Hungary's election winner Magyar says to suspend state media news broadcast - Reuters",
+      "summary": "Hungary's election winner Magyar says to suspend state media news broadcast Reuters"
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Sorrow",
+    "emoji": "😢",
+    "rationale": "The day's news is dominated by tragic events, including significant loss of life in Haiti and Nigeria, which evokes a strong sense of sorrow and mourning.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
