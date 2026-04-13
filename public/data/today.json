@@ -1,41 +1,41 @@
 {
   "date": "2026-04-13",
-  "timestamp": "2026-04-13T01:53:30Z",
+  "timestamp": "2026-04-13T00:00:00Z",
   "emojis": [
     {
-      "char": "🛑",
-      "label": "us plan for guantanamo camp",
+      "char": "🇺🇦",
+      "label": "ukraine and russia ceasefire violations",
+      "url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+      "summary": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks."
+    },
+    {
+      "char": "⚓",
+      "label": "us to blockade iranian ports",
+      "url": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan",
+      "title": "Iran War Live Updates: U.S. to Blockade Ships From Iranian Ports",
+      "summary": "The blockade on ships “entering or departing Iranian ports and coastal areas” will begin on Monday, U.S. Central Command said. But U.S. forces will not impede vessels transiting the Strait of Hormuz, a step back from President Trump’s ea..."
+    },
+    {
+      "char": "🕊️",
+      "label": "human rights groups decry guantanamo plan",
       "url": "https://www.theguardian.com/us-news/2026/apr/10/trump-guantanamo-cuban-migrants",
       "title": "Human rights groups decry US plan for Guantánamo camp for Cuban migrants",
       "summary": "Exclusive: Dozens of organizations write to Congress after general announced plan to ‘deal with’ those fleeing any humanitarian crisis on the island Dozens of US and international human rights organizations are decrying the Trump adminis..."
     },
     {
-      "char": "💔",
-      "label": "nigerian airstrike kills civilians",
-      "url": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
-      "title": "Civilians feared killed after reports of air strike on Nigerian market",
-      "summary": "The Nigerian Air Force has not addressed reports it struck a village market while targeting militants."
-    },
-    {
-      "char": "🏰",
-      "label": "stampede at historic fortress in haiti",
-      "url": "https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html",
-      "title": "Mass Stampede at Haitian Tourist Site Leaves Dozens Dead",
-      "summary": "The tragedy unfolded around the appearance of a social media personality at the Citadelle Laferrière, a fortress that is a symbol of Haitian sovereignty."
-    },
-    {
       "char": "🗳️",
-      "label": "benin presidential election",
-      "url": "https://www.theguardian.com/world/2026/apr/12/benin-presidential-election",
-      "title": "Benin holds presidential election four months after failed coup",
-      "summary": "As president Patrice Talon steps down after a decade, the west African country’s finance minister is favourite to win This Sunday, just four months after a failed coup, Benin heads to the polls for a presidential election that feels more..."
+      "label": "hungary election results",
+      "url": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html",
+      "title": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
+      "summary": "Prime Minister Viktor Orban, who has inspired populist movements globally, could not overcome the growing dissatisfaction of his own citizens."
     },
     {
-      "char": "🎤",
-      "label": "asha bhosle dies at 92",
-      "url": "https://www.nytimes.com/2026/04/12/world/asia/asha-bhosle-india-singer-bollywood.html",
-      "title": "Asha Bhosle, One of India’s Most Beloved Singers, Dies at 92",
-      "summary": "Her distinctive and adventurous voice was the soundtrack for generations of Bollywood films."
+      "char": "💔",
+      "label": "30 killed in haiti stampede",
+      "url": "https://www.theguardian.com/world/2026/apr/12/at-least-30-killed-in-crush-at-historic-fortress-in-haiti",
+      "title": "At least 30 killed in crush at historic fortress in Haiti",
+      "summary": "Officials said many killed at popular tourist site were young, with more people reported injured or missing At least 30 people, many of them young, have died and dozens more are reported to have been injured after a crush at a mountainto..."
     }
   ],
   "source": "ai-openai",
