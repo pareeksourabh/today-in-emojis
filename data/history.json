@@ -34715,5 +34715,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-13",
+    "emojis": [
+      {
+        "char": "🛑",
+        "label": "us plan for guantanamo camp",
+        "url": "https://www.theguardian.com/us-news/2026/apr/10/trump-guantanamo-cuban-migrants",
+        "title": "Human rights groups decry US plan for Guantánamo camp for Cuban migrants",
+        "summary": "Exclusive: Dozens of organizations write to Congress after general announced plan to ‘deal with’ those fleeing any humanitarian crisis on the island Dozens of US and international human rights organizations are decrying the Trump adminis..."
+      },
+      {
+        "char": "💔",
+        "label": "nigerian airstrike kills civilians",
+        "url": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
+        "title": "Civilians feared killed after reports of air strike on Nigerian market",
+        "summary": "The Nigerian Air Force has not addressed reports it struck a village market while targeting militants."
+      },
+      {
+        "char": "🏰",
+        "label": "stampede at historic fortress in haiti",
+        "url": "https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html",
+        "title": "Mass Stampede at Haitian Tourist Site Leaves Dozens Dead",
+        "summary": "The tragedy unfolded around the appearance of a social media personality at the Citadelle Laferrière, a fortress that is a symbol of Haitian sovereignty."
+      },
+      {
+        "char": "🗳️",
+        "label": "benin presidential election",
+        "url": "https://www.theguardian.com/world/2026/apr/12/benin-presidential-election",
+        "title": "Benin holds presidential election four months after failed coup",
+        "summary": "As president Patrice Talon steps down after a decade, the west African country’s finance minister is favourite to win This Sunday, just four months after a failed coup, Benin heads to the polls for a presidential election that feels more..."
+      },
+      {
+        "char": "🎤",
+        "label": "asha bhosle dies at 92",
+        "url": "https://www.nytimes.com/2026/04/12/world/asia/asha-bhosle-india-singer-bollywood.html",
+        "title": "Asha Bhosle, One of India’s Most Beloved Singers, Dies at 92",
+        "summary": "Her distinctive and adventurous voice was the soundtrack for generations of Bollywood films."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
