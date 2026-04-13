@@ -1,20 +1,13 @@
 {
   "date": "2026-04-13",
-  "timestamp": "2026-04-13T00:00:00Z",
+  "timestamp": "2026-04-13T10:25:06Z",
   "emojis": [
     {
-      "char": "🍖",
-      "label": "meatpacker jbs strikes deal",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUI5cjVWOGIxdHRCaGNDU3BBazg0TlIySmFLcGl4eGl5R2xvM3RrZV9Cam9VV0pRQVo0ZHBHTWs3MklUWi1IN1lVbHd5cHh3NU8wdS1DZnRZb2NKWC1yY1BHbnJuUV8xakNpR0pyNkhrZzNBUk5Ndjc5QXczWUJoOFAtWEtqNW1HcnNncmxhN3FJYWNhRTBOc1NlQU5EU2lPOEpORm9ndElTbkJIV1hJWnBqRk5YOEF5UlJxSW54SHFRcDViNXVIcmxkQ2w?oc=5",
-      "title": "Meatpacker JBS reaches tentative agreement with striking Colorado workers - Reuters",
-      "summary": "Meatpacker JBS reaches tentative agreement with striking Colorado workers Reuters"
-    },
-    {
-      "char": "💰",
-      "label": "dollar gains as peace talks falter",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNl9EY0ZSb1p0ckttRTVzNlpJVzV6Zy1EdThoNVFpenUxa3pkME1WYkZUTnd1TnYtekpDV09vWUFMaGt3ay1Eb05LbkRfbFRORmR5LXp0R3gxYW4yeGxsand6UjRtbFNsNmNJaHNrMkdMWEo1cC1zaHdMQk9IbW9NX1ZpYTBaUGlYWUpUQjNOcHM5d00zTXBjUFVfVWk1U3RCeGZMWndqVzV5RExMalJCb2RvZFNoTnFfelB2UVFpYw?oc=5",
-      "title": "Safe-haven dollar gains as peace talks falter, US to blockade Hormuz - Reuters",
-      "summary": "Safe-haven dollar gains as peace talks falter, US to blockade Hormuz Reuters"
+      "char": "🇧🇯",
+      "label": "benin presidential election",
+      "url": "https://www.theguardian.com/world/2026/apr/12/benin-presidential-election",
+      "title": "Benin holds presidential election four months after failed coup",
+      "summary": "As president Patrice Talon steps down after a decade, the west African country’s finance minister is favourite to win This Sunday, just four months after a failed coup, Benin heads to the polls for a presidential election that feels more..."
     },
     {
       "char": "✈️",
@@ -24,18 +17,25 @@
       "summary": "Officials confirm misfire as Amnesty gives death toll after speaking to survivors of strike on market in Yobe state A Nigerian air force strike targeting jihadist rebels hit a market in north-east Nigeria, killing more than 100 people an..."
     },
     {
-      "char": "🇭🇺",
-      "label": "orban loss eases tensions with eu",
-      "url": "https://www.nytimes.com/2026/04/13/world/europe/hungary-eu-orban-magyar.html",
-      "title": "Orban Loss May Ease Hungary’s Tensions with European Union",
-      "summary": "Prime Minister Viktor Orban has stymied the European Union for years, and particularly in recent months. Peter Magyar’s election could change that, if only so much."
-    },
-    {
-      "char": "👑",
+      "char": "🤴",
       "label": "dutch royals visit trump",
       "url": "https://www.nytimes.com/2026/04/13/world/europe/trump-dutch-royal-visit-white-house.html",
       "title": "‘The Strangest Sleepover Ever’: Dutch Skeptical as Their Royals Visit Trump",
       "summary": "The Dutch king and queen are set to stay at the White House on Monday night. At a time of trans-Atlantic tension, the Netherlands isn’t sure how it feels about that."
+    },
+    {
+      "char": "📈",
+      "label": "tsmc record profits from ai",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDlubVppNDRWVEVzemdMd3oydHYwRHZUYWJGdEdWMy1vSkR5VTU5M2hUeVdYc0c2c2MyNUVwb2FVNDRxNVVMNDFxbWxEV1gxUXBxa29BZnpCaUVUMFVRbDNLLWhZVGFVZ0toQnpJTWpETmllWDZOSGFnOVpIb1dXV1ZELUtnME5hQ2J2MVdGMGlYNHNzeTY4VmI2Z2VTcll6R01XOFY0b3pnR1pNd2ctRFBtdWlhc2FxT1k0aGZvbXl4dElvOFVnMGdtd09uQQ?oc=5",
+      "title": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand - Reuters",
+      "summary": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand Reuters"
+    },
+    {
+      "char": "🇭🇺",
+      "label": "hungary election results",
+      "url": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html",
+      "title": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
+      "summary": "Prime Minister Viktor Orban, who has inspired populist movements globally, could not overcome the growing dissatisfaction of his own citizens."
     }
   ],
   "source": "ai-openai",

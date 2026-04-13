@@ -34803,5 +34803,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-13",
+    "emojis": [
+      {
+        "char": "🇧🇯",
+        "label": "benin presidential election",
+        "url": "https://www.theguardian.com/world/2026/apr/12/benin-presidential-election",
+        "title": "Benin holds presidential election four months after failed coup",
+        "summary": "As president Patrice Talon steps down after a decade, the west African country’s finance minister is favourite to win This Sunday, just four months after a failed coup, Benin heads to the polls for a presidential election that feels more..."
+      },
+      {
+        "char": "✈️",
+        "label": "nigerian airstrike kills civilians",
+        "url": "https://www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram",
+        "title": "Nigerian airstrike targeting jihadists reportedly kills at least 100 civilians",
+        "summary": "Officials confirm misfire as Amnesty gives death toll after speaking to survivors of strike on market in Yobe state A Nigerian air force strike targeting jihadist rebels hit a market in north-east Nigeria, killing more than 100 people an..."
+      },
+      {
+        "char": "🤴",
+        "label": "dutch royals visit trump",
+        "url": "https://www.nytimes.com/2026/04/13/world/europe/trump-dutch-royal-visit-white-house.html",
+        "title": "‘The Strangest Sleepover Ever’: Dutch Skeptical as Their Royals Visit Trump",
+        "summary": "The Dutch king and queen are set to stay at the White House on Monday night. At a time of trans-Atlantic tension, the Netherlands isn’t sure how it feels about that."
+      },
+      {
+        "char": "📈",
+        "label": "tsmc record profits from ai",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDlubVppNDRWVEVzemdMd3oydHYwRHZUYWJGdEdWMy1vSkR5VTU5M2hUeVdYc0c2c2MyNUVwb2FVNDRxNVVMNDFxbWxEV1gxUXBxa29BZnpCaUVUMFVRbDNLLWhZVGFVZ0toQnpJTWpETmllWDZOSGFnOVpIb1dXV1ZELUtnME5hQ2J2MVdGMGlYNHNzeTY4VmI2Z2VTcll6R01XOFY0b3pnR1pNd2ctRFBtdWlhc2FxT1k0aGZvbXl4dElvOFVnMGdtd09uQQ?oc=5",
+        "title": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand - Reuters",
+        "summary": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand Reuters"
+      },
+      {
+        "char": "🇭🇺",
+        "label": "hungary election results",
+        "url": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html",
+        "title": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
+        "summary": "Prime Minister Viktor Orban, who has inspired populist movements globally, could not overcome the growing dissatisfaction of his own citizens."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
