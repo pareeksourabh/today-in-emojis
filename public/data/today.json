@@ -1,6 +1,6 @@
 {
   "date": "2026-04-13",
-  "timestamp": "2026-04-13T13:50:36Z",
+  "timestamp": "2026-04-13T00:00:00Z",
   "emojis": [
     {
       "char": "⚽",
@@ -10,32 +10,32 @@
       "summary": "The team was returning from a match when they were attacked by \"masked men wielding guns\", officials say."
     },
     {
-      "char": "✝️",
-      "label": "pope leo heads to africa",
-      "url": "https://www.nytimes.com/2026/04/13/world/europe/pope-leo-africa-future.html",
-      "title": "Pope Leo Heads to Africa to Meet the Future of Catholicism",
-      "summary": "On a four-country tour of the continent, where the faith is growing faster than anywhere else, the pontiff will be greeted by enthusiastic crowds and authoritarian leaders."
-    },
-    {
-      "char": "🛢️",
-      "label": "iran war updates: oil climbs above $100",
+      "char": "📰",
+      "label": "iran war live updates",
       "url": "https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news",
-      "title": "Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade",
-      "summary": "The U.S. military said it would block ships entering or exiting Iranian ports or coastal areas starting at 10 a.m. Eastern. European leaders distanced themselves from the plan."
+      "title": "Iran War Live Updates: U.S. Begins Blockade in Strait of Hormuz",
+      "summary": "The U.S. military said it would block ships entering or leaving Iranian ports or coastal areas, in an effort to cut off Iran’s oil income. Traffic had already been at a standstill as Iran largely barred Western ships from transiting the..."
     },
     {
-      "char": "🏛️",
-      "label": "30 killed in crush at fortress in haiti",
-      "url": "https://www.theguardian.com/world/2026/apr/12/at-least-30-killed-in-crush-at-historic-fortress-in-haiti",
-      "title": "At least 30 killed in crush at historic fortress in Haiti",
-      "summary": "Officials said many killed at popular tourist site were young, with more people reported injured or missing At least 30 people, many of them young, have died and dozens more are reported to have been injured after a crush at a mountainto..."
+      "char": "🇨🇦",
+      "label": "canada's pm could secure majority",
+      "url": "https://www.theguardian.com/world/2026/apr/13/mark-carney-canada-pm-liberals-majority",
+      "title": "‘The perception is Carney is a wartime leader’: why Canada’s PM could secure a majority",
+      "summary": "As Trump’s actions spark a desire for stability, analysts say Carney is in effect assembling a union government Canada’s prime minister, Mark Carney, is on the brink of securing a majority government, with his Liberal party poised to win..."
     },
     {
-      "char": "🇧🇷",
-      "label": "brazil's lula livestreams workouts",
-      "url": "https://www.theguardian.com/world/2026/apr/13/lula-da-silva-gym-rat-brazil-president-livestreams-workouts-campaign-historic-fourth-term",
-      "title": "Brazil’s Lula, 80, livestreams workouts before election against rival half his age",
-      "summary": "President contrasts his health with challenger Flávio Bolsonaro, who fainted during a TV debate The Brazilian president, Luiz Inácio Lula da Silva, is seeking to lunge and leg press his way to a historic fourth term, as the octogenarian..."
+      "char": "👑",
+      "label": "dutch royals visit trump",
+      "url": "https://www.nytimes.com/2026/04/13/world/europe/trump-dutch-royal-visit-white-house.html",
+      "title": "‘The Strangest Sleepover Ever’: Dutch Skeptical as Their Royals Visit Trump",
+      "summary": "The Dutch king and queen are set to stay at the White House on Monday night. At a time of trans-Atlantic tension, the Netherlands isn’t sure how it feels about that."
+    },
+    {
+      "char": "🗳️",
+      "label": "hungary election winner suspends media",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNGd5THQzcjNXbVI2bEEzUjB4NmNjT204NkRvdVNFdGpPR2lGejhxVHBZUWgweWtGUkpqblVVVzYtYTF4R19mdzl3Sk5pNlF6VTY1TEZWenNUak1ITXpuWURXOWZkTHhaN1Byd1Rac2Q5UVRsYVNYZEUtUms5eGNrbWFqaDA1TjgxbF9USUU2dnJTU29GS1daRDdtUUlxd29NSHE5cC1MaWpLQzJEUjBpcFAtWllIT3ctOUFZTWJzYXlSMUVNdmQ5b2R3?oc=5",
+      "title": "Hungary's election winner Magyar says to suspend state media news broadcast - Reuters",
+      "summary": "Hungary's election winner Magyar says to suspend state media news broadcast Reuters"
     }
   ],
   "source": "ai-openai",
