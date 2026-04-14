@@ -1,41 +1,41 @@
 {
   "date": "2026-04-14",
-  "timestamp": "2026-04-14T06:03:29Z",
+  "timestamp": "2026-04-14T00:00:00Z",
   "emojis": [
     {
-      "char": "🇳🇱",
-      "label": "dutch royals visit trump",
-      "url": "https://www.nytimes.com/2026/04/13/world/europe/trump-dutch-royal-visit-white-house.html",
-      "title": "‘The Strangest Sleepover Ever’: Dutch Skeptical as Their Royals Visit Trump",
-      "summary": "The Dutch king and queen are set to stay at the White House on Monday night. At a time of trans-Atlantic tension, the Netherlands isn’t sure how it feels about that."
+      "char": "👑",
+      "label": "pope clashes with trump",
+      "url": "https://www.nytimes.com/2026/04/13/us/politics/pope-leo-trump-response.html",
+      "title": "For Months, Pope Avoided Clash With Trump. Now He’s Clapping Back.",
+      "summary": "President Trump lashed out on Sunday night at Pope Leo XIV, who responded hours later by saying he would continue to oppose war."
+    },
+    {
+      "char": "🏥",
+      "label": "hiv outbreak in hospital",
+      "url": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
+      "title": "Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming",
+      "summary": "Footage shows staff injecting without gloves and reusing syringes, but the hospital boss refuses to acknowledge it is genuine."
+    },
+    {
+      "char": "💼",
+      "label": "chevron's asset swap in venezuela",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0NvdUU4YV9jcjBFSTM5UUFEa3ROck1Fd0hKZGRESm9BOUlVUnU3Y1JNVWNXa3RWbHpHVkRhTWFuVi1iNEtySlpmNkJDWW81Zy1rR1U2QW9NRG5rUzE2S3RVLVpBVUNqSTVabFQ4ejd5eVRObjJqaXpyeTEtV2hMZjI1SkF2d2F4WHZxUy15eVg2QWlVYkF5RGl6MGl0M1pFYWRlc29EeXUtU05EbEptUFNoalVNY0V0?oc=5",
+      "title": "Chevron agrees to asset swap in Venezuela to focus on heavy oil projects - Reuters",
+      "summary": "Chevron agrees to asset swap in Venezuela to focus on heavy oil projects Reuters"
+    },
+    {
+      "char": "🐾",
+      "label": "colombia hippo cull",
+      "url": "https://www.theguardian.com/world/2026/apr/13/colombia-hippo-hunt-pablo-escobar",
+      "title": "Colombia to cull up to 80 hippos descended from Pablo Escobar zoo",
+      "summary": "Dozens of feral pachyderms linked to drug kingpin to be killed because of threat to native species and villagers Colombian officials have authorized a plan to cull dozens of hippos descended from animals brought to the country in the 198..."
     },
     {
       "char": "🇧🇷",
-      "label": "brazil spy chief arrested in us",
+      "label": "brazil spy chief arrested",
       "url": "https://www.theguardian.com/world/2026/apr/13/brazil-former-spy-chief-arrested-us-ice-alexandre-ramagem",
       "title": "Brazil’s former spy chief who fled country arrested by ICE agents in US",
       "summary": "Alexandre Ramagem fled country after he was sentenced to 16 years for his role in plotting military coup in Brazil When Brazil ’s former president Jair Bolsonaro was sentenced to nearly 30 years in prison for an attempted coup, six other..."
-    },
-    {
-      "char": "🖼️",
-      "label": "abidjan art week showcases culture",
-      "url": "https://www.theguardian.com/world/2026/apr/13/abidjan-art-week-cote-d-ivoire-culture",
-      "title": "‘This scene is alive’: Abidjan art week showcases city as growing cultural hub",
-      "summary": "Late-night gallery tours and new venues signal a city staking its claim as a regional arts capital On a recent weekday evening, the doors of more than a dozen galleries and museums across Abidjan stayed open till midnight, several hours..."
-    },
-    {
-      "char": "🗳️",
-      "label": "canada election results",
-      "url": "https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government",
-      "title": "Mark Carney secures majority government in Canada after special election win",
-      "summary": "Carney’s Liberals will now be able to pass legislation without the support of opposition parties – and govern until 2029 The Canadian prime minister, Mark Carney, has secured a parliamentary majority for his Liberal government, CBC News..."
-    },
-    {
-      "char": "⚖️",
-      "label": "spanish pm's wife charged",
-      "url": "https://www.bbc.com/news/articles/c8ejg3wk81no?at_medium=RSS&at_campaign=rss",
-      "title": "Spanish PM's wife charged with corruption after two-year probe",
-      "summary": "Begoña Gómez is accused of using her relationship with Pedro Sánchez to advance her private career."
     }
   ],
   "source": "ai-openai",
