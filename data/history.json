@@ -34935,5 +34935,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-14",
+    "emojis": [
+      {
+        "char": "🎨",
+        "label": "abidjan art week showcases culture",
+        "url": "https://www.theguardian.com/world/2026/apr/13/abidjan-art-week-cote-d-ivoire-culture",
+        "title": "‘This scene is alive’: Abidjan art week showcases city as growing cultural hub",
+        "summary": "Late-night gallery tours and new venues signal a city staking its claim as a regional arts capital On a recent weekday evening, the doors of more than a dozen galleries and museums across Abidjan stayed open till midnight, several hours..."
+      },
+      {
+        "char": "🦛",
+        "label": "colombia to cull hippos from escobar's zoo",
+        "url": "https://www.theguardian.com/world/2026/apr/13/colombia-hippo-hunt-pablo-escobar",
+        "title": "Colombia to cull up to 80 hippos descended from Pablo Escobar zoo",
+        "summary": "Dozens of feral pachyderms linked to drug kingpin to be killed because of threat to native species and villagers Colombian officials have authorized a plan to cull dozens of hippos descended from animals brought to the country in the 198..."
+      },
+      {
+        "char": "🌸",
+        "label": "myanmar's flowers stoke fear amid war",
+        "url": "https://www.nytimes.com/2026/04/13/world/asia/myanmar-war-military-fear.html",
+        "title": "In Myanmar, Even Flowers Stoke Fear",
+        "summary": "Myanmar’s generals have brutalized the country for decades. But they have come to dread garlands as a sign of resistance."
+      },
+      {
+        "char": "🏥",
+        "label": "hospital caught reusing syringes in hiv case",
+        "url": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
+        "title": "Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming",
+        "summary": "Footage shows staff injecting without gloves and reusing syringes, but the hospital boss refuses to acknowledge it is genuine."
+      },
+      {
+        "char": "🕵️‍♂",
+        "label": "brazil's former spy chief arrested in us",
+        "url": "https://www.theguardian.com/world/2026/apr/13/brazil-former-spy-chief-arrested-us-ice-alexandre-ramagem",
+        "title": "Brazil’s former spy chief who fled country arrested by ICE agents in US",
+        "summary": "Alexandre Ramagem fled country after he was sentenced to 16 years for his role in plotting military coup in Brazil When Brazil ’s former president Jair Bolsonaro was sentenced to nearly 30 years in prison for an attempted coup, six other..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
