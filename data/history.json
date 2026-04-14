@@ -35067,5 +35067,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-14",
+    "emojis": [
+      {
+        "char": "🚨",
+        "label": "haiti stampede arrests",
+        "url": "https://www.bbc.com/news/articles/cy811062y5yo?at_medium=RSS&at_campaign=rss",
+        "title": "Police officers among seven arrested over deadly Haiti stampede",
+        "summary": "An investigation is under way into what led to the deaths of 25 people at Laferrière Citadel on Saturday."
+      },
+      {
+        "char": "⚡",
+        "label": "norway energy crisis",
+        "url": "https://www.nytimes.com/2026/04/14/world/europe/norway-oil-europe-war.html",
+        "title": "Europe Is Desperate for More Energy. Can Norway Come to the Rescue?",
+        "summary": "The war in Iran has once again exposed Europe’s energy vulnerability. A friendly source at home would seem to be ideal. But it’s not that easy."
+      },
+      {
+        "char": "🐾",
+        "label": "colombia hippo cull",
+        "url": "https://www.theguardian.com/world/2026/apr/13/colombia-hippo-hunt-pablo-escobar",
+        "title": "Colombia to cull up to 80 hippos descended from Pablo Escobar zoo",
+        "summary": "Dozens of feral pachyderms linked to drug kingpin to be killed because of threat to native species and villagers Colombian officials have authorized a plan to cull dozens of hippos descended from animals brought to the country in the 198..."
+      },
+      {
+        "char": "🗳️",
+        "label": "canada election results",
+        "url": "https://www.nytimes.com/2026/04/14/world/canada/election-carney-liberal-party.html",
+        "title": "Mark Carney Seals a Majority Government and Remakes Canada’s Liberal Party",
+        "summary": "The rising star in global centrist politics has secured a majority in the Canadian Parliament. Critics are crying foul."
+      },
+      {
+        "char": "✈️",
+        "label": "pope visit to algeria",
+        "url": "https://www.nytimes.com/2026/04/14/world/africa/pope-leo-algeria-africa-visit.html",
+        "title": "With Algeria Visit, Pope Leo Returns to His Augustinian Roots",
+        "summary": "Some theologians say the pontiff’s understanding of Augustine’s teachings helped inform his response to President Trump’s negative comments about him."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
