@@ -35023,5 +35023,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-14",
+    "emojis": [
+      {
+        "char": "🚑",
+        "label": "bbc joins paramedics in lebanon",
+        "url": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss",
+        "title": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
+        "summary": "BBC Middle East correspondent Hugo Bachega joins paramedics on duty in Nabatieh - a city that was once vibrant, but is now abandoned."
+      },
+      {
+        "char": "📈",
+        "label": "us stocks gain on iran war hopes",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0T1FSX0NzQlRpYjNPQU1rbkVBa2M5RnB0NjdoUjhfb0gxUUlmTG1LSlRyN21UMmF1Y0RtZnZzdXZoMnVxSlFWYVQxaFRCZ3dqSF9VcW8zeUJjUTNsMERURWJmQkhvd3JFUFUyR2ZORTJyMDJncGpOWWpGVQ?oc=5",
+        "title": "Trading Day: US stocks gain, dollar dips on hopes for Iran war negotiations - Reuters",
+        "summary": "Trading Day: US stocks gain, dollar dips on hopes for Iran war negotiations Reuters"
+      },
+      {
+        "char": "🐾",
+        "label": "colombia to cull hippos from escobar zoo",
+        "url": "https://www.theguardian.com/world/2026/apr/13/colombia-hippo-hunt-pablo-escobar",
+        "title": "Colombia to cull up to 80 hippos descended from Pablo Escobar zoo",
+        "summary": "Dozens of feral pachyderms linked to drug kingpin to be killed because of threat to native species and villagers Colombian officials have authorized a plan to cull dozens of hippos descended from animals brought to the country in the 198..."
+      },
+      {
+        "char": "⚖️",
+        "label": "bahrain death in custody sparks outrage",
+        "url": "https://www.nytimes.com/2026/04/14/world/middleeast/bahrain-mohammed-al-mousawi.html",
+        "title": "As Bahrain Cracked Down Amid War, a Death in Custody Sparked Outrage",
+        "summary": "The body of a man accused of spying for Iran, Mohammed al-Mousawi, showed signs of torture, witnesses said. The U.N. has called for an investigation."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "mark carney wins majority in canada",
+        "url": "https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government",
+        "title": "Mark Carney secures majority government in Canada after special election win",
+        "summary": "Carney’s Liberals will now be able to pass legislation without the support of opposition parties – and govern until 2029 The Canadian prime minister, Mark Carney, has secured a parliamentary majority for his Liberal government, CBC News..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
