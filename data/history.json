@@ -34979,5 +34979,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-14",
+    "emojis": [
+      {
+        "char": "🇳🇱",
+        "label": "dutch royals visit trump",
+        "url": "https://www.nytimes.com/2026/04/13/world/europe/trump-dutch-royal-visit-white-house.html",
+        "title": "‘The Strangest Sleepover Ever’: Dutch Skeptical as Their Royals Visit Trump",
+        "summary": "The Dutch king and queen are set to stay at the White House on Monday night. At a time of trans-Atlantic tension, the Netherlands isn’t sure how it feels about that."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "brazil spy chief arrested in us",
+        "url": "https://www.theguardian.com/world/2026/apr/13/brazil-former-spy-chief-arrested-us-ice-alexandre-ramagem",
+        "title": "Brazil’s former spy chief who fled country arrested by ICE agents in US",
+        "summary": "Alexandre Ramagem fled country after he was sentenced to 16 years for his role in plotting military coup in Brazil When Brazil ’s former president Jair Bolsonaro was sentenced to nearly 30 years in prison for an attempted coup, six other..."
+      },
+      {
+        "char": "🖼️",
+        "label": "abidjan art week showcases culture",
+        "url": "https://www.theguardian.com/world/2026/apr/13/abidjan-art-week-cote-d-ivoire-culture",
+        "title": "‘This scene is alive’: Abidjan art week showcases city as growing cultural hub",
+        "summary": "Late-night gallery tours and new venues signal a city staking its claim as a regional arts capital On a recent weekday evening, the doors of more than a dozen galleries and museums across Abidjan stayed open till midnight, several hours..."
+      },
+      {
+        "char": "🗳️",
+        "label": "canada election results",
+        "url": "https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government",
+        "title": "Mark Carney secures majority government in Canada after special election win",
+        "summary": "Carney’s Liberals will now be able to pass legislation without the support of opposition parties – and govern until 2029 The Canadian prime minister, Mark Carney, has secured a parliamentary majority for his Liberal government, CBC News..."
+      },
+      {
+        "char": "⚖️",
+        "label": "spanish pm's wife charged",
+        "url": "https://www.bbc.com/news/articles/c8ejg3wk81no?at_medium=RSS&at_campaign=rss",
+        "title": "Spanish PM's wife charged with corruption after two-year probe",
+        "summary": "Begoña Gómez is accused of using her relationship with Pedro Sánchez to advance her private career."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
