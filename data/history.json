@@ -35155,5 +35155,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-15",
+    "emojis": [
+      {
+        "char": "🇭🇺",
+        "label": "jd vance defends orbán's campaign",
+        "url": "https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss",
+        "title": "JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat",
+        "summary": "Hungary's leader was a \"great guy\" who did a \"very good job\", the US vice-president said, but he was sure he could work with Péter Magyar."
+      },
+      {
+        "char": "✝️",
+        "label": "pope leo visits algeria",
+        "url": "https://www.nytimes.com/2026/04/14/world/africa/pope-leo-algeria-africa-visit.html",
+        "title": "With Algeria Visit, Pope Leo Returns to His Augustinian Roots",
+        "summary": "Some theologians say the pontiff’s understanding of Augustine’s teachings helped inform his response to President Trump’s negative comments about him."
+      },
+      {
+        "char": "🚗",
+        "label": "volkswagen halts ev production",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT1lPbWdsWGV4OGNiUjJDQ3ZyNU9GaDIxU1lWbTNPbWVFSkh6bFBEQ2x1d2JQdkRjdEhXVURSZEp0OXVIbl9peUtqWE44TEU4N0poakhZeC13WFdMQVB6UjlnVHpiWm1qemttaFI2c2prUV9weFlGVFNpazRaaklYRE1SSW1rU05nRTlMalBIblBlSzdGY3plai00VlM0MmlySkdfazZwbXY3RVFkNEpfVkZORFBfc0w1ZmFGOEFfekJmTXJNVzFZWEtLc1Q0NDVWQlp5anVFV3Y3eWc?oc=5",
+        "title": "Volkswagen faces Q1 charge after halting EV production in Tennessee, analysts say - Reuters",
+        "summary": "Volkswagen faces Q1 charge after halting EV production in Tennessee, analysts say Reuters"
+      },
+      {
+        "char": "🗳️",
+        "label": "benin's romuald wadagni poised to win",
+        "url": "https://www.nytimes.com/2026/04/14/world/africa/benin-election-president-romuald-wadagni.html",
+        "title": "Benin’s Romuald Wadagni Poised to Win Presidential Election",
+        "summary": "Romuald Wadagni received 94 percent of the vote, according to provisional results. He faces the challenge of a growing jihadist insurgency in the region."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "carney leads canada's liberal party",
+        "url": "https://www.theguardian.com/world/2026/apr/14/mark-carney-canada-parliament-liberal",
+        "title": "Carney says it’s Canada’s ‘time to come together’ after Liberals secure majority",
+        "summary": "Byelection wins and defections push Canada’s Liberals into majority government under the prime minister Mark Carney has said he will govern with “humility, determination and a clear understanding of what this moment demands” after his Li..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
