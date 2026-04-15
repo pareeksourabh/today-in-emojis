@@ -35331,5 +35331,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-15",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "canada's new majority government",
+        "url": "https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government",
+        "title": "Mark Carney secures majority government in Canada after byelection win",
+        "summary": "Carney’s Liberals will now be able to pass legislation without the support of opposition parties – and govern until 2029 The Canadian prime minister, Mark Carney, has secured a parliamentary majority for his Liberal government, CBC News..."
+      },
+      {
+        "char": "🕊️",
+        "label": "uk calls for end to sudan war",
+        "url": "https://www.theguardian.com/world/2026/apr/15/uk-sudan-war-berlin-talks-aid-rsf-hunger-saudi-uae",
+        "title": "UK to call for end to Sudan bloodshed at Berlin talks on third anniversary of war",
+        "summary": "British aid to double as 19m people face acute hunger, but summit unlikely to end conflict amid Saudi-UAE tensions The British foreign secretary, Yvette Cooper, will urge Sudan’s warring parties to “cease bloodshed” during a major confer..."
+      },
+      {
+        "char": "🔫",
+        "label": "china's evolving arms sales to iran",
+        "url": "https://www.nytimes.com/2026/04/15/world/asia/china-iran-weapons-sales.html",
+        "title": "How China’s Weapons Transfers to Iran Have Evolved Over Decades",
+        "summary": "China has denied claims this month by U.S. intelligence that it might have shipped arms to Iran. In recent years, China has supported Iran with dual-use parts."
+      },
+      {
+        "char": "🏫",
+        "label": "turkey's tragic school shootings",
+        "url": "https://www.nytimes.com/2026/04/15/world/europe/turkey-school-shooting-kahramanmaras-province.html",
+        "title": "At Least 4 Dead in Second School Shooting in Turkey in 2 Days",
+        "summary": "An armed eighth grader opened fire in his middle school. At least one of those killed was a teacher."
+      },
+      {
+        "char": "🌍",
+        "label": "justice for apartheid victims",
+        "url": "https://www.theguardian.com/world/2026/apr/15/justice-denied-apartheid-south-africa-truth-and-reconciliation",
+        "title": "Justice denied: why families of apartheid victims are still searching for answers",
+        "summary": "Struggle for justice symbolises limitations of Truth and Reconciliation Commission, whose hearings began 30 years ago Darkness had fallen on 27 June 1985 when Fort Calata, Matthew Goniwe, Sicelo Mhlauli and Sparrow Mkonto set off on the..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
