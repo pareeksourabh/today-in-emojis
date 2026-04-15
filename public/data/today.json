@@ -1,7 +1,14 @@
 {
   "date": "2026-04-15",
-  "timestamp": "2026-04-15T13:49:56Z",
+  "timestamp": "2026-04-15T00:00:00Z",
   "emojis": [
+    {
+      "char": "🇨🇦",
+      "label": "carney wins majority in canada",
+      "url": "https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government",
+      "title": "Mark Carney secures majority government in Canada after byelection win",
+      "summary": "Carney’s Liberals will now be able to pass legislation without the support of opposition parties – and govern until 2029 The Canadian prime minister, Mark Carney, has secured a parliamentary majority for his Liberal government, CBC News..."
+    },
     {
       "char": "🇿🇦",
       "label": "south africa names new ambassador",
@@ -10,32 +17,25 @@
       "summary": "Roelf Meyer played a key role as a negotiator during talks to end white-minority rule in South Africa."
     },
     {
-      "char": "💰",
-      "label": "morgan stanley profit beats estimates",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkpFVjFZX2Vod2ZCOXdLNFdveExZS1A1cm90WndBeTlTVHdtdTdYT21aYmMySGQxcWZKUl9ONlZWZnBKLU12bThnbzVab0lfejNiRV9KUS1qeG9oUGlhSTE0QXdRSXR6N2RhcEl0Q0phZVNuQ1E5Sk9QWk5xa3N6anJMLVhVS3FwTHRKamtxY243dnpTSUVOZG9LOVlRQ3FhTHlhR19La0Ztdw?oc=5",
-      "title": "Morgan Stanley's profit beats estimates on dealmaking surge, trading boost - Reuters",
-      "summary": "Morgan Stanley's profit beats estimates on dealmaking surge, trading boost Reuters"
+      "char": "🎥",
+      "label": "youtuber jailed in south korea",
+      "url": "https://www.bbc.com/news/articles/cj400lje9vxo?at_medium=RSS&at_campaign=rss",
+      "title": "South Korea jails American YouTuber for public nuisance",
+      "summary": "Johnny Somali sparked outrage after kissing a statue representing World War Two sex slaves."
     },
     {
-      "char": "🚀",
-      "label": "artemis ii astronauts photography training",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRXBxbC1lU0Z3OXNuMHZ1ZmRWckJTSVhQLXZGSXRqVm5hYm9mYWFiV3NTSk5Mc2tuYUdkTE5OWFVXN0JOclNyV3BVdzBIYW9UMzJGSE1oNkZmTlpjUU1RUTAwcm1YWlZGWW82UWJRakxGdjhXd21zcVVKTGNWN0VqSlljQ3V4WXI0VWlUUXI5V3JDUEg0eU5nT3FsMGdyZ3drUzYxb0duZWF1QWtvbXc?oc=5",
-      "title": "Artemis II astronauts made most of professional photography training - Reuters",
-      "summary": "Artemis II astronauts made most of professional photography training Reuters"
+      "char": "🕵️‍♀",
+      "label": "death of influencer in zanzibar",
+      "url": "https://www.theguardian.com/world/2026/apr/15/ashly-robinson-death-influencer-zanzibar",
+      "title": "Suspicion surrounds death of US influencer Ashly Robinson in Zanzibar",
+      "summary": "Lifestyle influencer died while on vacation with boyfriend, who local officials say has since had his passport ‘withheld’ Ashly Robinson, a US lifestyle influencer, died last week while on vacation in the Tanzanian islands of Zanzibar wi..."
     },
     {
-      "char": "🗳️",
-      "label": "peter magyar defeats viktor orban",
-      "url": "https://www.nytimes.com/2026/04/14/world/europe/viktor-orban-peter-magyar-election.html",
-      "title": "How Peter Magyar Defeated Viktor Orban, a Former Ally, In Hungary’s Election",
-      "summary": "For years, Peter Magyar was a loyal ally of Viktor Orban, the far-right Hungarian leader. Then he changed sides — and defeated his former boss in a landslide victory on Sunday. Does he represent real change?"
-    },
-    {
-      "char": "🌀",
-      "label": "super typhoon sinlaku slams saipan",
-      "url": "https://www.nytimes.com/2026/04/15/world/asia/typhoon-sinlaku-saipan-damage.html",
-      "title": "Super Typhoon Sinlaku Slams Saipan, Causing Widespread Damage",
-      "summary": "But there were no early reports of casualties from the storm, which was named Sinlaku and was moving northwest of the region."
+      "char": "🇹🇷",
+      "label": "turkey school shooting tragedy",
+      "url": "https://www.nytimes.com/2026/04/15/world/europe/turkey-school-shooting-kahramanmaras-province.html",
+      "title": "At Least 4 Dead in Second School Shooting in Turkey in 2 Days",
+      "summary": "An armed eighth grader opened fire in his middle school. At least one of those killed was a teacher."
     }
   ],
   "source": "ai-openai",
