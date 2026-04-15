@@ -35199,5 +35199,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-15",
+    "emojis": [
+      {
+        "char": "🎥",
+        "label": "vance heckled during pope remarks",
+        "url": "https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: Vance heckled as he chides Pope",
+        "summary": "The US Vice-President was speaking at a Turning Point USA event, where he said Pope Leo should \"be careful when he talks about matters of theology.\""
+      },
+      {
+        "char": "🌊",
+        "label": "us man questioned over wife's disappearance",
+        "url": "https://www.theguardian.com/world/2026/apr/13/bahamas-us-man-wife-overboard",
+        "title": "Bahamas police again question US man over disappearance of wife at sea",
+        "summary": "Brian Hooker says wife Lynette fell overboard from dinghy but family members have cast doubt on that account Police in the Bahamas on Monday were set to again interview a US man who said his wife fell overboard from their boat. In a stat..."
+      },
+      {
+        "char": "🏗️",
+        "label": "denmark aids rebuilding mykolaiv, ukraine",
+        "url": "https://www.nytimes.com/2026/04/14/world/europe/mykolaiv-ukraine-denmark-rebuilding.html",
+        "title": "What Happened After Denmark Adopted a Ruined City in Ukraine",
+        "summary": "The Danish government has contributed more than $250 million to Mykolaiv, as the Trump administration pushes a more business-focused plan."
+      },
+      {
+        "char": "💰",
+        "label": "safe-haven dollar at six-week lows",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXJWd1FqeEcwWUNKR2d0Q3lKMWNWN1NPUDNibTFjaTJfRjdiNVBoZ3plM0pGc3VDU1pyYXdBVnE1dElUSjNkNVdyOWM0YkdrN3JFbV9FR0NRODF1ZmpjYUMzNzM3M0tuTmMxMTNOYlFHRlYxSTNfODJPcWpQRS1FMFVLcVZ4RHhRTXN3V21vUGFXcWx6czdlZUNKeUptOERRQnV6M1ZZRzQ0VHdHMDNKQlgyUQ?oc=5",
+        "title": "Safe-haven dollar at six-week lows on hopes of fresh Iran talks - Reuters",
+        "summary": "Safe-haven dollar at six-week lows on hopes of fresh Iran talks Reuters"
+      },
+      {
+        "char": "🇧🇯",
+        "label": "benin's romuald wadagni wins election",
+        "url": "https://www.nytimes.com/2026/04/14/world/africa/benin-election-president-romuald-wadagni.html",
+        "title": "Benin’s Romuald Wadagni Poised to Win Presidential Election",
+        "summary": "Romuald Wadagni received 94 percent of the vote, according to provisional results. He faces the challenge of a growing jihadist insurgency in the region."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
