@@ -35243,5 +35243,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-15",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "israel lebanon peace talks",
+        "url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
+        "title": "Israel and Lebanon hold first direct talks since 1993",
+        "summary": "A US statement said the two sides had agreed to launch direct negotiations, at a time and place to be determined."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "carney wins canadian election",
+        "url": "https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government",
+        "title": "Mark Carney secures majority government in Canada after special election win",
+        "summary": "Carney’s Liberals will now be able to pass legislation without the support of opposition parties – and govern until 2029 The Canadian prime minister, Mark Carney, has secured a parliamentary majority for his Liberal government, CBC News..."
+      },
+      {
+        "char": "💣",
+        "label": "nigeria market bombing survivors",
+        "url": "https://www.theguardian.com/world/2026/apr/14/survivors-ask-why-nigeria-bombed-busy-market-in-effort-to-target-jihadist-group",
+        "title": "Survivors ask why busy market bombed in Nigerian anti-terror campaign",
+        "summary": "Military has described devastating attack that killed up to 200 people, many of them civilians, as a ‘precision airstrike’ Survivors and observers have questioned the Nigerian military’s rationale for a devastating airstrike on a busy ma..."
+      },
+      {
+        "char": "📉",
+        "label": "us growth amid iran war",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWxPT0gwTTFla3NrWHN1R1F2bkJDV1c5V05hcmtpeGhqWE1EQXNGV0hIU3p5TjhCX2JkUEpmRVJXaWdhZVRHVjMta2ZTNzVnbzBvTHJUODdDTVJBRW5Lb25IRy0wcm1fcVBzWUxDeVVlbjN2QzJOY1JtSXhhV3ZiTFRvdHhTZkhvWFNlUTdWOUFScno0b0xCT3RRYl81a0k1OUx5T3FYNEdoNUZGTmFZbjRGRzd4NnlKX3psUA?oc=5",
+        "title": "Treasury chief says US growth may exceed 3% or 3.5% this year despite Iran war - Reuters",
+        "summary": "Treasury chief says US growth may exceed 3% or 3.5% this year despite Iran war Reuters"
+      },
+      {
+        "char": "🇭🇺",
+        "label": "orban's legacy in brussels",
+        "url": "https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html",
+        "title": "Will Viktor Orban’s Legacy Live On in Brussels, Even Without Him?",
+        "summary": "Viktor Orban, Hungary’s newly ousted prime minister, helped to finance a Brussels think tank that pushes his populist vision. It will outlast him, at least for a while."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
