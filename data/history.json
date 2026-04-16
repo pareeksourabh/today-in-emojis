@@ -35419,5 +35419,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-16",
+    "emojis": [
+      {
+        "char": "🏦",
+        "label": "uk bank regulator reforms",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbUNMZTIza0JuckFwbTFrSDNPU1VRMXBPZDE4blZtQ1dCSmZyWjhKXzhCUkwzc3FVM3JPamxJYjNqQk1vbUEyRHlvdXZEQlRINmtjbmc4MjBmT1FXOTZ6NXBLel9leDd6U25pX2F1dkhQWTNTLVZ2VS1BSEMxbFk2cllja0oweEt2WnNtdGI3eEY1Y2ZJYmdfVXdhY09QdUtrb21BMEpOaVBKRW1qVlVyYnZ6QnZTWFMxVUFXRm1haGU2d2tFcmpoOTVVWkJXUTUyckllTmlrQmNsM2twZmdPTXRVWmhTRzA?oc=5",
+        "title": "Britain's incoming bank regulator says she will not push for further ring-fencing reforms - Reuters",
+        "summary": "Britain's incoming bank regulator says she will not push for further ring-fencing reforms Reuters"
+      },
+      {
+        "char": "🇻🇪",
+        "label": "us diplomat leaves venezuela",
+        "url": "https://www.nytimes.com/2026/04/15/world/americas/venezuela-us-diplomat-laura-dogu-leaves.html",
+        "title": "Top U.S. Diplomat in Venezuela Leaves Post After Arriving in January",
+        "summary": "Laura Dogu, who reopened the U.S. Embassy in Venezuela, returns to advising Gen. Dan Caine, the highest ranking U.S. military officer, as the war with Iran continues."
+      },
+      {
+        "char": "⛳",
+        "label": "liv golf season funding news",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVJLNUgxdEVUWFVxWkZ1RW5tWmdHX3V1TWhHQm90UEtrM0tTbTF3dEZWNUs0QTVnNGIta250XzExX1JKd2NNcVBVenpkV25BQlJuQkFjYmRCR19zcnpEbVV4NWhRa1p3bnpYN2xiR2tiUzFIbXdMQkhBNWRoNGdZWXpNSFA3TGItSHVuLUxMRHdZa2Rua0JUc2d5dGFsSlctNGtaVFEtb1RmVWtKUkw1d1RqYw?oc=5",
+        "title": "LIV Golf 2026 season on track despite reports of funding crisis, say sources - Reuters",
+        "summary": "LIV Golf 2026 season on track despite reports of funding crisis, say sources Reuters"
+      },
+      {
+        "char": "🚨",
+        "label": "michigan man released in bahamas",
+        "url": "https://www.theguardian.com/us-news/2026/apr/14/bahamas-police-release-michigan-man-wife-disappeared",
+        "title": "Bahamas police release Michigan man questioned after wife disappeared from their boat",
+        "summary": "Brian Hooker told police that Lynette Hooker fell overboard and that strong currents carried her away Police in the Bahamas have released without charges a Michigan man who said his wife disappeared after falling overboard from a small b..."
+      },
+      {
+        "char": "💼",
+        "label": "trump threatens fed chair powell",
+        "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
+        "summary": "Donald Trump's threat marks the latest escalation in his ongoing spat with Jerome Powell."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
