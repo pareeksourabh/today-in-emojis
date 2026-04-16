@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concern",
-    "emoji": "😨",
-    "rationale": "The day's news highlights multiple crises, including human rights issues, geopolitical tensions, and violence, which contribute to a general sense of anxiety and concern.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "Today's news is filled with distressing events, such as escalating violence in Ukraine and the deepening humanitarian crisis in Sudan, highlighting significant global suffering and instability.",
     "palette": [
       "😢",
       "😡",
