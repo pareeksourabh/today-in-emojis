@@ -35463,5 +35463,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-16",
+    "emojis": [
+      {
+        "char": "💼",
+        "label": "trump threatens to fire fed chair",
+        "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
+        "summary": "Donald Trump's threat marks the latest escalation in his ongoing spat with Jerome Powell."
+      },
+      {
+        "char": "✝️",
+        "label": "pope's visit highlights divide in africa",
+        "url": "https://www.nytimes.com/2026/04/15/world/africa/pope-leo-cameroon-africa.html",
+        "title": "Catholicism Thrives in Africa, but Pope’s Cameroon Visit Highlights a Divide",
+        "summary": "Catholicism is growing fast on the continent, yet Africans play a comparatively small role in church leadership. Cameroon, where Leo XIV arrived on Wednesday, shows the disparity."
+      },
+      {
+        "char": "🚨",
+        "label": "turkish police arrest over school shootings",
+        "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+        "title": "Turkish police order 83 arrests over online praise for school shootings",
+        "summary": "At least nine were killed in a school shooting in southern Turkey on Wednesday, a day after another attack injured 16 people at a high school."
+      },
+      {
+        "char": "🌍",
+        "label": "1bn pledged for sudan humanitarian crisis",
+        "url": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
+        "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
+        "summary": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the funding target organisers had set to he..."
+      },
+      {
+        "char": "📦",
+        "label": "ukraine fertilizer plant privatization",
+        "url": "https://www.nytimes.com/2026/04/16/world/europe/ukraine-odesa-fertilizer-plant-privatization.html",
+        "title": "Got $100 Million? Ukraine Has Just the Fertilizer Plant for You.",
+        "summary": "An effort to privatize the facility is a key test of whether Kyiv can overcome concerns about Russian attacks and corruption to attract foreign investment."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
