@@ -35507,5 +35507,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-16",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "malema sentenced to five years in prison",
+        "url": "https://www.theguardian.com/world/2026/apr/16/south-africa-julius-malema-jail-term-rifle",
+        "title": "South African politician Julius Malema given five-year jail term for gun offence",
+        "summary": "Leader of leftwing Economic Freedom Fighters was convicted last year for firing rifle in the air at 2018 rally The South African leftwing politician Julius Malema has been sentenced to five years in prison for firing a rifle in the air a..."
+      },
+      {
+        "char": "🌍",
+        "label": "pakistan seeks peace between us and iran",
+        "url": "https://www.nytimes.com/2026/04/16/world/asia/iran-pakistan-diplomacy.html",
+        "title": "Pakistan Looks to Play Peacemaker Between U.S. and Iran, Again",
+        "summary": "After talks in Islamabad last weekend led to a two-week cease-fire, Pakistan is offering to host another round in an attempt to sustain ongoing peace efforts."
+      },
+      {
+        "char": "🏡",
+        "label": "costa rica offers sanctuary to deportees",
+        "url": "https://www.nytimes.com/2026/04/16/world/americas/trump-deportees-costa-rica.html",
+        "title": "The Costa Rican Mountain Town Offering Sanctuary to Families Deported by Trump",
+        "summary": "In a cloud forest village, a network of residents, foreigners and pacifist Quakers offered a precarious yet vital sanctuary for families expelled by the U.S. government."
+      },
+      {
+        "char": "🐜",
+        "label": "ant smuggler sentenced in kenya",
+        "url": "https://www.theguardian.com/environment/2026/apr/15/ant-smuggler-sentenced-to-a-year-in-jail-by-kenyan-court",
+        "title": "Ant smuggler sentenced to a year in jail by Kenyan court",
+        "summary": "More than 2,200 ants were found in Zhang Kequn’s luggage at Nairobi airport, with baggage destined for China A Chinese national has been sentenced to a year in prison and fined by a Nairobi court for attempting to smuggle thousands of an..."
+      },
+      {
+        "char": "💰",
+        "label": "over £1bn pledged for sudan crisis",
+        "url": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
+        "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
+        "summary": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the funding target organisers had set to he..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
