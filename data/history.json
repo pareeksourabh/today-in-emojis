@@ -35551,5 +35551,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-17",
+    "emojis": [
+      {
+        "char": "🏦",
+        "label": "naples bank robbers escape through tunnel",
+        "url": "https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss",
+        "title": "Naples bank robbers hold 25 people hostage then vanish through tunnel",
+        "summary": "The armed men reportedly evaded capture by escaping through the city's sewer system."
+      },
+      {
+        "char": "🇨🇳",
+        "label": "china's stance on iran and us demands",
+        "url": "https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html",
+        "title": "Why China Isn’t Pushing Iran to Accept U.S. Demands to End War",
+        "summary": "Despite the economic risks from the war, Beijing will likely stick to a hands-off approach. It is wary of being entangled in a conflict it opposed and has little sway over."
+      },
+      {
+        "char": "⛪",
+        "label": "pope criticizes manipulation of religion",
+        "url": "https://www.nytimes.com/2026/04/16/world/africa/pope-leo-trump-peace.html",
+        "title": "Pope Leo, Amid Standoff With Trump, Says ‘Woe to Those Who Manipulate Religion’",
+        "summary": "For days, Pope Leo XIV has attracted criticism from President Trump and his allies for refusing to back the war in Iran. On Thursday, he reiterated his calls for peace."
+      },
+      {
+        "char": "⚖️",
+        "label": "bahrain charges officer over detainee death",
+        "url": "https://www.nytimes.com/2026/04/16/world/middleeast/bahrain-detainee-death-charges.html",
+        "title": "Bahrain Charges Intelligence Officer in the Death of a Detainee",
+        "summary": "The officer was charged with assault leading to death, in the case of a man who was accused by Bahraini authorities of espionage during a domestic crackdown tied to the war in Iran."
+      },
+      {
+        "char": "💣",
+        "label": "russia's deadliest attack in months in ukraine",
+        "url": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss",
+        "title": "Russia launches deadliest aerial attack in months, killing 18 in Ukraine",
+        "summary": "A Ukrainian drone attack killed two people in Russia, Moscow says, after an Orthodox Easter truce."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
