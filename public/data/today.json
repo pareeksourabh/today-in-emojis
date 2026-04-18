@@ -1,41 +1,41 @@
 {
   "date": "2026-04-18",
-  "timestamp": "2026-04-18T13:12:41Z",
+  "timestamp": "2026-04-18T00:00:00Z",
   "emojis": [
     {
+      "char": "🇻🇪",
+      "label": "maduro purges allies in venezuela",
+      "url": "https://www.nytimes.com/2026/04/18/world/americas/delcy-rodriguez-maduro-allies-venezuela.html",
+      "title": "Maduro’s Successor Is Purging Allies Who Kept Him in Power in Venezuela",
+      "summary": "The successor to Venezuela’s captured President Nicolás Maduro is purging the people who kept him in power."
+    },
+    {
+      "char": "💊",
+      "label": "trump battles drug smuggling tactics",
+      "url": "https://www.nytimes.com/2026/04/17/world/americas/trump-drug-trafficking-south-america-brazil.html",
+      "title": "Trump Tries to Stop Drug Smuggling From South America. Drug Smugglers Invent New Tactics.",
+      "summary": "Authorities are using drones, troops and A.I. to crack down on cocaine smuggling. But gangs are finding new ways to move record amounts of drugs across the world."
+    },
+    {
+      "char": "👷‍♂️",
+      "label": "kenyan firm sacks 1,000 workers",
+      "url": "https://www.theguardian.com/technology/2026/apr/17/kenyan-outsourcing-company-for-meta-sacks-workers",
+      "title": "Kenyan firm sacks more than 1,000 workers after losing Meta contract",
+      "summary": "Meta paused work with Sama last month after allegations about staff viewing private scenes filmed by smart glasses More than 1,000 low-paid workers in Kenya have been abruptly sacked by an outsourcing company contracted by Meta, in what..."
+    },
+    {
       "char": "🌍",
-      "label": "pope leo faces colonial legacy",
-      "url": "https://www.nytimes.com/2026/04/18/world/africa/pope-leo-slavery-africa-angola.html",
-      "title": "In Angola, Pope Leo XIV Faces the Legacy of Colonialism",
-      "summary": "His visit includes a trip to a shrine where enslaved Africans were baptized before being forced into the treacherous voyage across the Atlantic Ocean."
+      "label": "1bn pledged for sudan crisis",
+      "url": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
+      "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
+      "summary": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the funding target organisers had set to he..."
     },
     {
-      "char": "✈️",
-      "label": "air canada suspends flights",
-      "url": "https://www.theguardian.com/world/2026/apr/17/air-canada-suspending-flights-fuel-prices",
-      "title": "Air Canada temporarily suspends some flights to New York and other locations",
-      "summary": "Spirit Airlines reportedly seeks emergency US government funding as war against Iran keeps aviation fuel costs high Sign up for the Breaking News US email to get newsletter alerts in your inbox Air Canada has announced a temporary suspen..."
-    },
-    {
-      "char": "⚖️",
-      "label": "julius malema sentenced to jail",
-      "url": "https://www.theguardian.com/world/2026/apr/16/south-africa-julius-malema-jail-term-rifle",
-      "title": "South African politician Julius Malema given five-year jail term for gun offence",
-      "summary": "Leader of leftwing Economic Freedom Fighters was convicted last year for firing rifle in the air at 2018 rally The South African leftwing politician Julius Malema has been sentenced to five years in prison for firing a rifle in the air a..."
-    },
-    {
-      "char": "🌧️",
+      "char": "☔",
       "label": "hail covers tunisia and algeria",
       "url": "https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow",
       "title": "Weather tracker: hail covers parts of Tunisia and Algeria like snow",
       "summary": "Accumulations of up to 3cm deep reported as severe thunderstorms also bring heavy downpours to central Italy Severe thunderstorms have affected the Mediterranean this week. On Monday, a surface low-pressure system in the Mediterranean in..."
-    },
-    {
-      "char": "🤝",
-      "label": "productive meeting on ai model",
-      "url": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
-      "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
-      "summary": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without."
     }
   ],
   "source": "ai-openai",
