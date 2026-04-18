@@ -35771,5 +35771,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-18",
+    "emojis": [
+      {
+        "char": "🕵️‍♀",
+        "label": "suspicion surrounds influencer's death",
+        "url": "https://www.theguardian.com/world/2026/apr/15/ashly-robinson-death-influencer-zanzibar",
+        "title": "Suspicion surrounds death of US influencer Ashly Robinson in Zanzibar",
+        "summary": "Lifestyle influencer died while on vacation with boyfriend, who local officials say has since had his passport ‘withheld’ Ashly Robinson, a US lifestyle influencer, died last week while on vacation in the Tanzanian islands of Zanzibar wi..."
+      },
+      {
+        "char": "🇫🇷",
+        "label": "pensioner returns to france from us",
+        "url": "https://www.bbc.com/news/articles/ce84j0j6622o?at_medium=RSS&at_campaign=rss",
+        "title": "'Mum is finally free!' Pensioner detained by ICE in US returns to France",
+        "summary": "Marie-Thérèse had moved to the US after reuniting with her long-lost love, an American man who died in January."
+      },
+      {
+        "char": "🛢️",
+        "label": "oil prices plunge as strait is open",
+        "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
+        "title": "Oil prices plunge as Iran says Strait 'open'",
+        "summary": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire."
+      },
+      {
+        "char": "⚖️",
+        "label": "actor in legal battle with brand",
+        "url": "https://www.theguardian.com/world/2026/apr/16/pedro-pascal-pedro-piscal-actor-spirit-brand-legal-battle-chile",
+        "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
+        "summary": "Pedro Piscal pisco is latest Chilean brand to resemble a Hollywood name – and others have fought off the lawsuits The actor Pedro Pascal is waging a legal battle against a Chilean pisco merchant who has chosen a cheeky name for his brand..."
+      },
+      {
+        "char": "🌍",
+        "label": "1bn pledged for sudan crisis",
+        "url": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
+        "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
+        "summary": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the funding target organisers had set to he..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
