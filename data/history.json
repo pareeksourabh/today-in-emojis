@@ -35947,5 +35947,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-18",
+    "emojis": [
+      {
+        "char": "🎬",
+        "label": "pedro pascal's legal battle",
+        "url": "https://www.theguardian.com/world/2026/apr/16/pedro-pascal-pedro-piscal-actor-spirit-brand-legal-battle-chile",
+        "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
+        "summary": "Pedro Piscal pisco is latest Chilean brand to resemble a Hollywood name – and others have fought off the lawsuits The actor Pedro Pascal is waging a legal battle against a Chilean pisco merchant who has chosen a cheeky name for his brand..."
+      },
+      {
+        "char": "🇲🇽",
+        "label": "sheinbaum defends mexicans",
+        "url": "https://www.theguardian.com/world/2026/apr/15/mexico-president-claudia-sheinbaum-donald-trump-ice-deaths",
+        "title": "Sheinbaum vows to ‘defend Mexicans at every level’ amid anger at Trump over migrant deaths",
+        "summary": "Sheinbaum has recently been taking a firmer stance with the US, defying pressures where other countries have caved The Mexican government has voiced concern about the deaths of its citizens in US custody, with Mexican president Claudia S..."
+      },
+      {
+        "char": "🕊️",
+        "label": "french peacekeeper killed",
+        "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
+        "title": "French peacekeeper killed in southern Lebanon",
+        "summary": "President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any connection\" to the incident."
+      },
+      {
+        "char": "💰",
+        "label": "1bn pledged for sudan crisis",
+        "url": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
+        "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
+        "summary": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the funding target organisers had set to he..."
+      },
+      {
+        "char": "✈️",
+        "label": "air canada suspends flights",
+        "url": "https://www.theguardian.com/world/2026/apr/17/air-canada-suspending-flights-fuel-prices",
+        "title": "Air Canada temporarily suspends some flights to New York and other locations",
+        "summary": "Spirit Airlines reportedly seeks emergency US government funding as war against Iran keeps aviation fuel costs high Sign up for the Breaking News US email to get newsletter alerts in your inbox Air Canada has announced a temporary suspen..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
