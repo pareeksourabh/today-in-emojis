@@ -1,27 +1,34 @@
 {
   "date": "2026-04-18",
-  "timestamp": "2026-04-18T05:43:53Z",
+  "timestamp": "2026-04-18T00:00:00Z",
   "emojis": [
     {
-      "char": "📰",
-      "label": "starmer's credibility hit by scandal",
-      "url": "https://www.nytimes.com/2026/04/17/world/europe/starmer-credibility-mandelson-epstein-scandal.html",
-      "title": "Starmer’s Credibility Just Took Another Body Blow Over the Mandelson Scandal",
-      "summary": "Prime Minister Keir Starmer appears to have been kept in the dark repeatedly over Peter Mandelson, the Jeffrey Epstein associate — fueling an image of weakness."
+      "char": "🎭",
+      "label": "pedro pascal's legal battle",
+      "url": "https://www.theguardian.com/world/2026/apr/16/pedro-pascal-pedro-piscal-actor-spirit-brand-legal-battle-chile",
+      "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
+      "summary": "Pedro Piscal pisco is latest Chilean brand to resemble a Hollywood name – and others have fought off the lawsuits The actor Pedro Pascal is waging a legal battle against a Chilean pisco merchant who has chosen a cheeky name for his brand..."
     },
     {
-      "char": "⚖️",
-      "label": "judge rejects voter data request",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR2EwYkJ3c1FPTUlrVTBKNjRYQ2k5dFlwSUk4RkVvS1kyQmNnX2twbUZGcS0ycTZFUURJc0VPZWRSS3ZJcnpZVTJQMVByT1pYR20yZzUyOHpNVTlHZW5wOG1weGV4RFFJak1vNHdiaThuR2lkQW5nTWlUb1lCenBEeU5nWWthVU9TYWE2UzRsQ3NOQzA0dEc3cXdvdkpRR3ZVNW9iSXVrSmJFNGxpVW5hLWE5UF92YXV4TjZrUDRuX1BSaE11NlE?oc=5",
-      "title": "Judge rejects US Justice Department effort to obtain Rhode Island's voter data - Reuters",
-      "summary": "Judge rejects US Justice Department effort to obtain Rhode Island's voter data Reuters"
+      "char": "🌍",
+      "label": "iran war impacts asia",
+      "url": "https://www.nytimes.com/2026/04/17/world/asia/iran-war-us-asia-russia.html",
+      "title": "Iran War Forces America’s Friends in Asia to Court Its Rivals",
+      "summary": "The severe disruption of oil supplies from the Middle East as a result of the war has prompted South Korea and the Philippines to make deals with Russia and Iran."
     },
     {
-      "char": "🚀",
-      "label": "beijing launches new satellite town",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2J1aEJvUGwyb2xLSzJ5UG55SWZ0Y3JtRTQ4aHFOaHlJVFNqUGZqdGlpX0hLSnBPeFdieVlfYzQyOWxKMm5PMlFWMS1uVkhDV3k3bk9fdlEzdmdxaXhqUXgwRDRNOTQ0NUc4cGlXamlFMU5BSEhTVFhDekI4Y3VGTkJiZVhDeGhRNUd3TlBwcTM3SUpUWGNOQjRZUlRLT2d0THpkSm5zNV9PLWVFc1dSdGd4Rm1RUW1xeEh1aF8wek1tZw?oc=5",
-      "title": "Beijing set to launch Satellite Town as China's aerospace industry grows - Reuters",
-      "summary": "Beijing set to launch Satellite Town as China's aerospace industry grows Reuters"
+      "char": "💼",
+      "label": "kenyan firm layoffs",
+      "url": "https://www.theguardian.com/technology/2026/apr/17/kenyan-outsourcing-company-for-meta-sacks-workers",
+      "title": "Kenyan firm sacks more than 1,000 workers after losing Meta contract",
+      "summary": "Meta paused work with Sama last month after allegations about staff viewing private scenes filmed by smart glasses More than 1,000 low-paid workers in Kenya have been abruptly sacked by an outsourcing company contracted by Meta, in what..."
+    },
+    {
+      "char": "🚢",
+      "label": "trump's drug smuggling tactics",
+      "url": "https://www.nytimes.com/2026/04/17/world/americas/trump-drug-trafficking-south-america-brazil.html",
+      "title": "Trump Tries to Stop Drug Smuggling From South America. Drug Smugglers Invent New Tactics.",
+      "summary": "Authorities are using drones, troops and A.I. to crack down on cocaine smuggling. But gangs are finding new ways to move record amounts of drugs across the world."
     },
     {
       "char": "🌧️",
@@ -29,13 +36,6 @@
       "url": "https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow",
       "title": "Weather tracker: hail covers parts of Tunisia and Algeria like snow",
       "summary": "Accumulations of up to 3cm deep reported as severe thunderstorms also bring heavy downpours to central Italy Severe thunderstorms have affected the Mediterranean this week. On Monday, a surface low-pressure system in the Mediterranean in..."
-    },
-    {
-      "char": "💔",
-      "label": "suspicion surrounds influencer's death",
-      "url": "https://www.theguardian.com/world/2026/apr/15/ashly-robinson-death-influencer-zanzibar",
-      "title": "Suspicion surrounds death of US influencer Ashly Robinson in Zanzibar",
-      "summary": "Lifestyle influencer died while on vacation with boyfriend, who local officials say has since had his passport ‘withheld’ Ashly Robinson, a US lifestyle influencer, died last week while on vacation in the Tanzanian islands of Zanzibar wi..."
     }
   ],
   "source": "ai-openai",
