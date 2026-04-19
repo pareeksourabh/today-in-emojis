@@ -1,13 +1,104 @@
 {
   "date": "2026-04-19",
-  "timestamp": "2026-04-19T16:24:49Z",
+  "timestamp": "2026-04-19T00:00:00Z",
   "emojis": [
     {
-      "char": "✈️",
-      "label": "air canada suspends flights",
-      "url": "https://www.theguardian.com/world/2026/apr/17/air-canada-suspending-flights-fuel-prices",
-      "title": "Air Canada temporarily suspends some flights to New York and other locations",
-      "summary": "Separately, Spirit Airlines reportedly seeks emergency US government funds as Iran war keeps aviation fuel costs high Sign up for the Breaking News US email to get newsletter alerts in your inbox Air Canada has announced a temporary susp..."
+      "char": "🚢",
+      "label": "us strikes pacific drug boat",
+      "url": "https://www.theguardian.com/us-news/2026/apr/16/us-launches-fifth-strike-on-alleged-pacific-drug-boat-in-a-week-killing-three",
+      "title": "US launches fifth strike on alleged Pacific drug boat in a week, killing three",
+      "summary": "Wednesday’s strike brings the total of those killed in US military strikes on alleged drug boats to at least 177 Three people were killed in a US strike on another alleged drug-trafficking boat, the fifth such deadly attack in as many da..."
+    },
+    {
+      "char": "🇲🇽",
+      "label": "mexico denies crisis with spain",
+      "url": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
+      "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
+      "summary": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue."
+    },
+    {
+      "char": "🤝",
+      "label": "1bn pledged for sudan crisis",
+      "url": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
+      "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
+      "summary": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the funding target organisers had set to he..."
+    },
+    {
+      "char": "🔫",
+      "label": "kyiv mass shooting kills 6",
+      "url": "https://www.nytimes.com/2026/04/18/world/europe/kyiv-ukraine-mass-shooting-hostages.html",
+      "title": "Kyiv Mass Shooting Kills 6 and Gunman Is Shot Dead After Taking Hostages in Grocery",
+      "summary": "It was the deadliest mass shooting in Ukraine in years, where firearms have proliferated since the war with Russia began."
+    },
+    {
+      "char": "🕵️‍♀",
+      "label": "suspicious death of influencer",
+      "url": "https://www.theguardian.com/world/2026/apr/15/ashly-robinson-death-influencer-zanzibar",
+      "title": "Suspicion surrounds death of US influencer Ashly Robinson in Zanzibar",
+      "summary": "Lifestyle influencer died while on vacation with boyfriend, who local officials say has since had his passport ‘withheld’ Ashly Robinson, a US lifestyle influencer, died last week while on vacation in the Tanzanian islands of Zanzibar wi..."
+    },
+    {
+      "char": "🎬",
+      "label": "french film star dies aged 77",
+      "url": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
+      "title": "French film star Nathalie Baye dies aged 77, media report",
+      "summary": "President Emmanuel Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema."
+    },
+    {
+      "char": "🕵️‍♀",
+      "label": "suspicion surrounds influencer's death",
+      "url": "https://www.theguardian.com/world/2026/apr/15/ashly-robinson-death-influencer-zanzibar",
+      "title": "Suspicion surrounds death of US influencer Ashly Robinson in Zanzibar",
+      "summary": "Lifestyle influencer died while on vacation with boyfriend, who local officials say has since had his passport ‘withheld’ Ashly Robinson, a US lifestyle influencer, died last week while on vacation in the Tanzanian islands of Zanzibar wi..."
+    },
+    {
+      "char": "🇫🇷",
+      "label": "french soldier killed in lebanon",
+      "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
+      "title": "French peacekeeper killed in southern Lebanon",
+      "summary": "President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any connection\" to the incident."
+    },
+    {
+      "char": "💊",
+      "label": "trump's drug smuggling tactics",
+      "url": "https://www.nytimes.com/2026/04/17/world/americas/trump-drug-trafficking-south-america-brazil.html",
+      "title": "Trump Tries to Stop Drug Smuggling From South America. Drug Smugglers Invent New Tactics.",
+      "summary": "Authorities are using drones, troops and A.I. to crack down on cocaine smuggling. But gangs are finding new ways to move record amounts of drugs across the world."
+    },
+    {
+      "char": "🌍",
+      "label": "1bn pledged for sudan crisis",
+      "url": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
+      "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
+      "summary": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the funding target organisers had set to he..."
+    },
+    {
+      "char": "🤖",
+      "label": "humanoid robots race in marathon",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMkctZm8yRDBvMEszWklVUVNDZHNkUkpJQ3oxZGxrdXE2ZjItdWp0dFM0THZsakUyNFdJd2ZuSzhtMXRmNTE4elcwenFmTkRSWE5nMmNtSmNMaU5IOTlEMkZYT2VyUXNUWHNRMVc4WjQwM2d0bFhNLVpNMFRLR0JPT2JZWU14UlVsU2ZOY0FpdHF1dkJWZVNnOVkweWsyWEt6X3duZGQ3SDdhbHJfR042M0k3REZHYVY5S1NPXw?oc=5",
+      "title": "Humanoid robots race past humans in Beijing half-marathon, showing rapid advances - Reuters",
+      "summary": "Humanoid robots race past humans in Beijing half-marathon, showing rapid advances Reuters"
+    },
+    {
+      "char": "🇲🇽",
+      "label": "mexico mends ties with spain",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOclJlZXBNM3dGRTdtRDJPbDF5UEthUG9CeVRGN21aMVgteDM1RllpeFZmd0xESE1LQWNzSmxsR0ExS0RZUllBVnRQcVFNZzg2b0JZMHplQ2h6RDZyQmZUc0htc0NRWlAyTm9XMlEwaC1Eb19aYUdsdnhvTndWTGp6VVFlLW5ZZXdZbmoxcGVYTDFEVS1BR25DcWhid1JzWm95WmREY1F1NGZ5V2laaXNiNQ?oc=5",
+      "title": "Mexico mends ties with Spain in first presidential visit in eight years - Reuters",
+      "summary": "Mexico mends ties with Spain in first presidential visit in eight years Reuters"
+    },
+    {
+      "char": "⛪",
+      "label": "pope addresses colonialism in angola",
+      "url": "https://www.nytimes.com/2026/04/18/world/africa/pope-leo-slavery-africa-angola.html",
+      "title": "In Angola, Pope Leo XIV Faces the Legacy of Colonialism",
+      "summary": "His visit includes a trip to a shrine where enslaved Africans were baptized before being forced into the treacherous voyage across the Atlantic Ocean."
+    },
+    {
+      "char": "🔫",
+      "label": "kyiv mass shooting kills six",
+      "url": "https://www.nytimes.com/2026/04/18/world/europe/kyiv-ukraine-mass-shooting-hostages.html",
+      "title": "Kyiv Mass Shooting Kills 6 and Gunman Is Shot Dead After Taking Hostages in Grocery",
+      "summary": "It was the deadliest mass shooting in Ukraine in years, where firearms have proliferated since the war with Russia began."
     },
     {
       "char": "💰",
@@ -17,27 +108,97 @@
       "summary": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the funding target organisers had set to he..."
     },
     {
-      "char": "🧑‍⚖️",
-      "label": "pedro pascal legal battle",
-      "url": "https://www.theguardian.com/world/2026/apr/16/pedro-pascal-pedro-piscal-actor-spirit-brand-legal-battle-chile",
-      "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
-      "summary": "Pedro Piscal pisco is latest Chilean brand to resemble a Hollywood name – and others have fought off the lawsuits The actor Pedro Pascal is waging a legal battle against a Chilean pisco merchant who has chosen a cheeky name for his brand..."
+      "char": "🤖",
+      "label": "humanoid robots race in beijing",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMkctZm8yRDBvMEszWklVUVNDZHNkUkpJQ3oxZGxrdXE2ZjItdWp0dFM0THZsakUyNFdJd2ZuSzhtMXRmNTE4elcwenFmTkRSWE5nMmNtSmNMaU5IOTlEMkZYT2VyUXNUWHNRMVc4WjQwM2d0bFhNLVpNMFRLR0JPT2JZWU14UlVsU2ZOY0FpdHF1dkJWZVNnOVkweWsyWEt6X3duZGQ3SDdhbHJfR042M0k3REZHYVY5S1NPXw?oc=5",
+      "title": "Humanoid robots race past humans in Beijing half-marathon, showing rapid advances - Reuters",
+      "summary": "Humanoid robots race past humans in Beijing half-marathon, showing rapid advances Reuters"
     },
     {
-      "char": "🗳️",
-      "label": "bulgaria elections overview",
-      "url": "https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-what-to-know.html",
-      "title": "What to Know About the Bulgarian Election",
-      "summary": "The Black Sea country is holding its eighth election in five years, with Bulgarians yearning for the kind of prosperous life enjoyed by other Europeans."
+      "char": "🛢️",
+      "label": "us renews russian oil waiver",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkpBSFVfcGM2Uk9FbVBxTGQwSTQ5SExOeXVtRGM2Y1lOa2kxdVpYLTNXdkJ6WHJ0OGtmWVkyN2hna0hJanExVzFNTDRUa2hRZWJjOUU1SlhXQW5RQUd5S3lrS0dyd2p2eTBvRk1aMkFrQkVQSnpqVlY4ZnU2MnhDWi1xRzZjdUYybVk5dlFCWHVuVjh1YXN5ZVVEMzcydjN4b1lpTXBCYw?oc=5",
+      "title": "US renews Russian oil waiver after pressure from countries dealing with Iran war price shocks - Reuters",
+      "summary": "US renews Russian oil waiver after pressure from countries dealing with Iran war price shocks Reuters"
+    },
+    {
+      "char": "🎤",
+      "label": "madonna surprises coachella",
+      "url": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
+      "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
+      "summary": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set."
+    },
+    {
+      "char": "⚖️",
+      "label": "malema sentenced to jail in south africa",
+      "url": "https://www.theguardian.com/world/2026/apr/16/south-africa-julius-malema-jail-term-rifle",
+      "title": "South African politician Julius Malema given five-year jail term for gun offence",
+      "summary": "Leader of leftwing Economic Freedom Fighters was convicted last year for firing rifle in the air at 2018 rally The South African leftwing politician Julius Malema has been sentenced to five years in prison for firing a rifle in the air a..."
+    },
+    {
+      "char": "🌍",
+      "label": "gen z protests around the world",
+      "url": "https://www.nytimes.com/2026/04/19/world/asia/gen-z-protests-success-fail-nepal-morocco-bangladesh.html",
+      "title": "How Gen Z Protests Have Fared Around the World",
+      "summary": "Over the past year or so, young people have rallied across continents to oust old-guard governments. What’s happened since?"
+    },
+    {
+      "char": "🚀",
+      "label": "north korea missile launch amid war",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbU9QWjVnSXhWRmtEVmpPMjJPUGltSDNlTmF0WUU4akl1RWNwSjdLaFI5YUtlejBjWHU1TjJ4aWV6QVVjWE13VFdKSlhCZGVaY0xBbWlkeHVfMWZaTm1NNHlkbzdsTm03dzBCaVdRREQ2STNMbl9Jd1FSLW0xb3I5TUtWTXBnRlRoOUwxb0RNZHpYVlpmQi1xS3FCb3FPWHI1dC10d3VsOWdTRUU?oc=5",
+      "title": "North Korea fires ballistic missiles again, flexing muscle amid Iran war - Reuters",
+      "summary": "North Korea fires ballistic missiles again, flexing muscle amid Iran war Reuters"
+    },
+    {
+      "char": "🌧️",
+      "label": "hail covers tunisia and algeria",
+      "url": "https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow",
+      "title": "Weather tracker: hail covers parts of Tunisia and Algeria like snow",
+      "summary": "Accumulations of up to 3cm deep reported as severe thunderstorms also bring heavy downpours to central Italy Severe thunderstorms have affected the Mediterranean this week. On Monday, a surface low-pressure system in the Mediterranean in..."
+    },
+    {
+      "char": "💰",
+      "label": "1bn pledged for sudan crisis",
+      "url": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
+      "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
+      "summary": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the funding target organisers had set to he..."
     },
     {
       "char": "⚔️",
-      "label": "qatar us iran war tensions",
+      "label": "qatar's war reckoning with us and iran",
       "url": "https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html",
       "title": "In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning",
       "summary": "The gas-rich Gulf nation is in a state of “strategic shock” after the war dealt a serious blow to its economy, sending ripples around the world."
+    },
+    {
+      "char": "🎖️",
+      "label": "australia's soldier fights war crime charges",
+      "url": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
+      "title": "Australia's most-decorated soldier vows to fight war crime charges",
+      "summary": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "sadness",
+    "emoji": "😢",
+    "rationale": "The news items reflect a somber tone, highlighting multiple tragedies, including deaths from violence and ongoing humanitarian crises, which collectively evoke a feeling of sadness.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
