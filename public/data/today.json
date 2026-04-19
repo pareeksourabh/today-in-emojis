@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "sadness",
+    "emotion_label": "😢",
     "emoji": "😢",
-    "rationale": "The news items reflect a somber tone, highlighting multiple tragedies, including deaths from violence and ongoing humanitarian crises, which collectively evoke a feeling of sadness.",
+    "rationale": "The news today is heavily marked by tragedy and loss, with reports of mass shootings and humanitarian crises, evoking a profound sense of sorrow.",
     "palette": [
       "😢",
       "😡",
