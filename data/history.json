@@ -36035,5 +36035,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-19",
+    "emojis": [
+      {
+        "char": "🏛️",
+        "label": "trump's white house ballroom construction",
+        "url": "https://www.bbc.com/news/articles/clyx9xyy0j9o?at_medium=RSS&at_campaign=rss",
+        "title": "Building of Trump's White House ballroom can resume in full, appeals court says",
+        "summary": "Construction at the White House is expected to continue until the next hearing, due in June."
+      },
+      {
+        "char": "🇫🇷",
+        "label": "french soldier killed in lebanon",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaFVuczNiTnFoMGdjSlVMVi0wdFVPRGFrRzZsXzhlZDBkT3Z2aGlfbWNKWUgwSkc1cDdMOW1KWWQwdDkzVzRUbkE1MzFKZ1YtQnBKWnp4RE9UZDZWMGxiT2YteWFIeC1vSFp3ZW5vVXFKMFpsTE1seG9wMUY1ZVB0Q2NpRVEtMVRYaE1WTXkwVlU1R2tycnVENGFhanhxUmhWejlsdWYxdmo1aVRoM0k4?oc=5",
+        "title": "French soldier killed in attack on UN mission in southern Lebanon, officials say - Reuters",
+        "summary": "French soldier killed in attack on UN mission in southern Lebanon, officials say Reuters"
+      },
+      {
+        "char": "📰",
+        "label": "pope criticizes media misinterpretation",
+        "url": "https://www.nytimes.com/2026/04/18/world/africa/pope-news-media-trump-africa.html",
+        "title": "Pope Says News Outlets Misread Some of His Remarks as Criticism of Trump",
+        "summary": "Pope Leo responded directly on Monday to a presidential attack. But since then, he said, some of his statements during his Africa trip have been misconstrued."
+      },
+      {
+        "char": "🚖",
+        "label": "tesla expands robotaxi service",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmItOTJ2VDl0NVZBSVFWUWdFLWNfZU1aVVprMHN5N1hoaHZVb2kxOWpIcnEtODZldnNNS3BOT2xTbEpmNWJTQldIZFcyeDFDMHNsT29TdzFWNlh1bHZDQWxBeS1TMURMTklmZmJZOTk2MWU0S3VFcnRzN243Rk9lV090MlZlcTZNMHlTbldvS190aFBBSGFlMi1fVDZvWU1HeEhod2xlMEJWQQ?oc=5",
+        "title": "Tesla expands robotaxi service to Dallas, Houston - Reuters",
+        "summary": "Tesla expands robotaxi service to Dallas, Houston Reuters"
+      },
+      {
+        "char": "💰",
+        "label": "1bn pledged for sudan crisis",
+        "url": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
+        "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
+        "summary": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the funding target organisers had set to he..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
