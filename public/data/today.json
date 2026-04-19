@@ -1,20 +1,13 @@
 {
   "date": "2026-04-19",
-  "timestamp": "2026-04-19T00:00:00Z",
+  "timestamp": "2026-04-19T16:24:49Z",
   "emojis": [
     {
-      "char": "🚀",
-      "label": "north korea missile launch amid war",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbU9QWjVnSXhWRmtEVmpPMjJPUGltSDNlTmF0WUU4akl1RWNwSjdLaFI5YUtlejBjWHU1TjJ4aWV6QVVjWE13VFdKSlhCZGVaY0xBbWlkeHVfMWZaTm1NNHlkbzdsTm03dzBCaVdRREQ2STNMbl9Jd1FSLW0xb3I5TUtWTXBnRlRoOUwxb0RNZHpYVlpmQi1xS3FCb3FPWHI1dC10d3VsOWdTRUU?oc=5",
-      "title": "North Korea fires ballistic missiles again, flexing muscle amid Iran war - Reuters",
-      "summary": "North Korea fires ballistic missiles again, flexing muscle amid Iran war Reuters"
-    },
-    {
-      "char": "🌧️",
-      "label": "hail covers tunisia and algeria",
-      "url": "https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow",
-      "title": "Weather tracker: hail covers parts of Tunisia and Algeria like snow",
-      "summary": "Accumulations of up to 3cm deep reported as severe thunderstorms also bring heavy downpours to central Italy Severe thunderstorms have affected the Mediterranean this week. On Monday, a surface low-pressure system in the Mediterranean in..."
+      "char": "✈️",
+      "label": "air canada suspends flights",
+      "url": "https://www.theguardian.com/world/2026/apr/17/air-canada-suspending-flights-fuel-prices",
+      "title": "Air Canada temporarily suspends some flights to New York and other locations",
+      "summary": "Separately, Spirit Airlines reportedly seeks emergency US government funds as Iran war keeps aviation fuel costs high Sign up for the Breaking News US email to get newsletter alerts in your inbox Air Canada has announced a temporary susp..."
     },
     {
       "char": "💰",
@@ -24,18 +17,25 @@
       "summary": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the funding target organisers had set to he..."
     },
     {
+      "char": "🧑‍⚖️",
+      "label": "pedro pascal legal battle",
+      "url": "https://www.theguardian.com/world/2026/apr/16/pedro-pascal-pedro-piscal-actor-spirit-brand-legal-battle-chile",
+      "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
+      "summary": "Pedro Piscal pisco is latest Chilean brand to resemble a Hollywood name – and others have fought off the lawsuits The actor Pedro Pascal is waging a legal battle against a Chilean pisco merchant who has chosen a cheeky name for his brand..."
+    },
+    {
+      "char": "🗳️",
+      "label": "bulgaria elections overview",
+      "url": "https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-what-to-know.html",
+      "title": "What to Know About the Bulgarian Election",
+      "summary": "The Black Sea country is holding its eighth election in five years, with Bulgarians yearning for the kind of prosperous life enjoyed by other Europeans."
+    },
+    {
       "char": "⚔️",
-      "label": "qatar's war reckoning with us and iran",
+      "label": "qatar us iran war tensions",
       "url": "https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html",
       "title": "In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning",
       "summary": "The gas-rich Gulf nation is in a state of “strategic shock” after the war dealt a serious blow to its economy, sending ripples around the world."
-    },
-    {
-      "char": "🎖️",
-      "label": "australia's soldier fights war crime charges",
-      "url": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
-      "title": "Australia's most-decorated soldier vows to fight war crime charges",
-      "summary": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week."
     }
   ],
   "source": "ai-openai",
