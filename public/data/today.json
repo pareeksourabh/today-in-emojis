@@ -1,41 +1,41 @@
 {
   "date": "2026-04-19",
-  "timestamp": "2026-04-19T00:00:00Z",
+  "timestamp": "2026-04-19T01:52:45Z",
   "emojis": [
     {
-      "char": "🚢",
-      "label": "us strikes pacific drug boat",
-      "url": "https://www.theguardian.com/us-news/2026/apr/16/us-launches-fifth-strike-on-alleged-pacific-drug-boat-in-a-week-killing-three",
-      "title": "US launches fifth strike on alleged Pacific drug boat in a week, killing three",
-      "summary": "Wednesday’s strike brings the total of those killed in US military strikes on alleged drug boats to at least 177 Three people were killed in a US strike on another alleged drug-trafficking boat, the fifth such deadly attack in as many da..."
+      "char": "🛥️",
+      "label": "iran's mosquito fleet threat",
+      "url": "https://www.nytimes.com/2026/04/18/world/middleeast/iran-irgc-navy-strait-of-hormuz.html",
+      "title": "A Potent Threat in Strait of Hormuz: Iran’s ‘Mosquito Fleet’",
+      "summary": "Although much of the regular Iranian navy is destroyed, the Islamic Revolutionary Guards Corps can still deploy small, speedy boats to disrupt shipping."
     },
     {
-      "char": "🇲🇽",
-      "label": "mexico denies crisis with spain",
-      "url": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
-      "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
-      "summary": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue."
-    },
-    {
-      "char": "🤝",
-      "label": "1bn pledged for sudan crisis",
-      "url": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
-      "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
-      "summary": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the funding target organisers had set to he..."
-    },
-    {
-      "char": "🔫",
-      "label": "kyiv mass shooting kills 6",
-      "url": "https://www.nytimes.com/2026/04/18/world/europe/kyiv-ukraine-mass-shooting-hostages.html",
-      "title": "Kyiv Mass Shooting Kills 6 and Gunman Is Shot Dead After Taking Hostages in Grocery",
-      "summary": "It was the deadliest mass shooting in Ukraine in years, where firearms have proliferated since the war with Russia began."
+      "char": "🚗",
+      "label": "tesla expands robotaxi service",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmItOTJ2VDl0NVZBSVFWUWdFLWNfZU1aVVprMHN5N1hoaHZVb2kxOWpIcnEtODZldnNNS3BOT2xTbEpmNWJTQldIZFcyeDFDMHNsT29TdzFWNlh1bHZDQWxBeS1TMURMTklmZmJZOTk2MWU0S3VFcnRzN243Rk9lV090MlZlcTZNMHlTbldvS190aFBBSGFlMi1fVDZvWU1HeEhod2xlMEJWQQ?oc=5",
+      "title": "Tesla expands robotaxi service to Dallas, Houston - Reuters",
+      "summary": "Tesla expands robotaxi service to Dallas, Houston Reuters"
     },
     {
       "char": "🕵️‍♀",
-      "label": "suspicious death of influencer",
+      "label": "suspicion in influencer's death",
       "url": "https://www.theguardian.com/world/2026/apr/15/ashly-robinson-death-influencer-zanzibar",
       "title": "Suspicion surrounds death of US influencer Ashly Robinson in Zanzibar",
       "summary": "Lifestyle influencer died while on vacation with boyfriend, who local officials say has since had his passport ‘withheld’ Ashly Robinson, a US lifestyle influencer, died last week while on vacation in the Tanzanian islands of Zanzibar wi..."
+    },
+    {
+      "char": "🇲🇽",
+      "label": "sheinbaum defends mexicans",
+      "url": "https://www.theguardian.com/world/2026/apr/15/mexico-president-claudia-sheinbaum-donald-trump-ice-deaths",
+      "title": "Sheinbaum vows to ‘defend Mexicans at every level’ amid anger at Trump over migrant deaths",
+      "summary": "Sheinbaum has recently been taking a firmer stance with the US, defying pressures where other countries have caved The Mexican government has voiced concern about the deaths of its citizens in US custody, with Mexican president Claudia S..."
+    },
+    {
+      "char": "📰",
+      "label": "pope clarifies remarks on trump",
+      "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+      "title": "Pope says 'tyrants' speech was not aimed at Trump",
+      "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president."
     }
   ],
   "source": "ai-openai",
