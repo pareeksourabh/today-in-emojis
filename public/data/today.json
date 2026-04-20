@@ -1,41 +1,41 @@
 {
   "date": "2026-04-20",
-  "timestamp": "2026-04-20T00:00:00Z",
+  "timestamp": "2026-04-20T10:01:26Z",
   "emojis": [
     {
-      "char": "🗳️",
-      "label": "gen z looks to nepal elections",
-      "url": "https://www.nytimes.com/2026/04/19/world/asia/nepal-elections-gen-z-balen-shah.html",
-      "title": "Gen Z Looks to Nepal as a Test Case of Its Hopes",
-      "summary": "Many youth-led protests around the world have failed to bring meaningful change. But in Nepal, a new government is promising to do things differently."
+      "char": "🌧️",
+      "label": "new zealand floods emergency",
+      "url": "https://www.bbc.com/news/articles/cly75d9zvj3o?at_medium=RSS&at_campaign=rss",
+      "title": "New Zealand declares state of emergency in Wellington as floods hit",
+      "summary": "Footage online shows vehicles submerged, trees uprooted and houses hit by landslides."
     },
     {
-      "char": "🌨️",
+      "char": "🤖",
+      "label": "ukraine turns to robots in war",
+      "url": "https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html",
+      "title": "Ukraine, Short on Troops, Is Turning to Robots to Help Its War Efforts",
+      "summary": "Ukraine is using unmanned ground vehicles armed with bombs, guns or rockets to carry out attacks and keep its soldiers out of harm’s way."
+    },
+    {
+      "char": "🗳️",
+      "label": "madagascar gen z protests",
+      "url": "https://www.theguardian.com/world/2026/apr/20/madagascar-gen-z-protesters-fear-new-regime",
+      "title": "Arrests fuel fears among Madagascar’s gen Z protesters that new regime no better than one they overthrew",
+      "summary": "Jubilation is turning to disenchantment as young activists arrested after protest calling for election date to be set The arrest of several protesters in Madagascar has increased fears among young people that the military regime that too..."
+    },
+    {
+      "char": "🚀",
+      "label": "canadian astronaut's impact",
+      "url": "https://www.theguardian.com/world/2026/apr/19/artemis-astronaut-jeremy-hansen-french-canada",
+      "title": "Canadian astronaut’s bon mots help heal wounds from French language row",
+      "summary": "Jeremy Hansen praised for speaking French in space after Air Canada chief’s linguistic snub exposed tensions and drew rebuke from PM Few people foresaw humanity’s quest for the moon as accurately as the 19th-century French author Jules V..."
+    },
+    {
+      "char": "🌪️",
       "label": "hail covers tunisia and algeria",
       "url": "https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow",
       "title": "Weather tracker: hail covers parts of Tunisia and Algeria like snow",
       "summary": "Accumulations of up to 3cm deep reported as severe thunderstorms also bring heavy downpours to central Italy Severe thunderstorms have affected the Mediterranean this week. On Monday, a surface low-pressure system in the Mediterranean in..."
-    },
-    {
-      "char": "🇧🇬",
-      "label": "bulgaria election results",
-      "url": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
-      "title": "Rumen Radev wins Bulgarian Parliamentary election",
-      "summary": "With 87% of the vote now counted, Progressive Bulgaria has secured a majority in the Bulgarian parliament."
-    },
-    {
-      "char": "🔥",
-      "label": "fire destroys coastal village in malaysia",
-      "url": "https://www.nytimes.com/2026/04/19/world/asia/coastal-village-fire-borneo-malaysia.html",
-      "title": "Fire Destroys Most of Coastal Village in Malaysia",
-      "summary": "A community of stilt homes on the island of Borneo was reduced to ash in an overnight blaze."
-    },
-    {
-      "char": "💼",
-      "label": "kenyan firm sacks 1000 workers",
-      "url": "https://www.theguardian.com/technology/2026/apr/17/kenyan-outsourcing-company-for-meta-sacks-workers",
-      "title": "Kenyan firm sacks more than 1,000 workers after losing Meta contract",
-      "summary": "Meta paused work with Sama last month after allegations about staff viewing private scenes filmed by smart glasses More than 1,000 low-paid workers in Kenya have been abruptly sacked by an outsourcing company contracted by Meta, in what..."
     }
   ],
   "source": "ai-openai",
