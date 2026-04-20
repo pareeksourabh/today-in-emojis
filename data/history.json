@@ -36255,5 +36255,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-20",
+    "emojis": [
+      {
+        "char": "🚓",
+        "label": "ukraine police chief resigns",
+        "url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+        "summary": "Authorities say the officers have been suspended and an investigation into their actions is under way."
+      },
+      {
+        "char": "🔫",
+        "label": "woman arrested for arms trafficking",
+        "url": "https://www.theguardian.com/us-news/2026/apr/19/woman-arrested-la-arms-trafficking-iran-africa",
+        "title": "Iranian American woman arrested in Los Angeles for alleged arms trafficking",
+        "summary": "Federal prosecutor says woman is suspected of dealing weapons to Africa on behalf of Iranian government A California woman was arrested at Los Angeles international airport after allegedly trafficking weapons on behalf of the Iranian gov..."
+      },
+      {
+        "char": "✊",
+        "label": "gen z protests around the world",
+        "url": "https://www.nytimes.com/2026/04/19/world/asia/gen-z-protests-success-fail-nepal-morocco-bangladesh.html",
+        "title": "How Gen Z Protests Have Fared Around the World",
+        "summary": "Over the past year or so, young people have rallied across continents to oust old-guard governments. What’s happened since?"
+      },
+      {
+        "char": "🌍",
+        "label": "us proposals for cuban reforms",
+        "url": "https://www.nytimes.com/2026/04/18/world/americas/us-officials-cuba-trump.html",
+        "title": "U.S. Officials Visited Havana to Lay Out Proposals for Cuban Reforms",
+        "summary": "The delegation told Cuba’s leadership that it had only a narrow window of time to make the economic and political changes demanded by the Trump administration."
+      },
+      {
+        "char": "💰",
+        "label": "oil prices rise after trump's statement",
+        "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+        "title": "Oil prices rise after Trump says Iranian ship seized",
+        "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
