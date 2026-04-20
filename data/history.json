@@ -36387,5 +36387,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-20",
+    "emojis": [
+      {
+        "char": "🌊",
+        "label": "tsunami warnings downgraded in japan",
+        "url": "https://www.nytimes.com/2026/04/20/world/asia/tsunami-warning-japan-earthquake.html",
+        "title": "Tsunami Warnings Downgraded in Japan After Strong Offshore Earthquake",
+        "summary": "The 7.7-magnitude undersea quake occurred off Iwate Prefecture, on the northeastern coast of Japan’s main island, Honshu."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran vows to keep strait of hormuz control",
+        "url": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
+        "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+        "summary": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route."
+      },
+      {
+        "char": "🚗",
+        "label": "us-mexico officials killed in car accident",
+        "url": "https://www.theguardian.com/us-news/2026/apr/20/mexico-car-accident-drug-officials-killed",
+        "title": "US and Mexican officials assigned to cartel case killed in car accident",
+        "summary": "Director of state investigation agency among those killed in Chihuahua in operation to destroy clandestine drug labs Two United States officials and another two Mexican officials assigned to combat drug cartel operations died in a car ac..."
+      },
+      {
+        "char": "🗳️",
+        "label": "bulgaria election raises hopes for change",
+        "url": "https://www.nytimes.com/2026/04/20/world/europe/bulgaria-election-result-rumen-radev.html",
+        "title": "A Decisive Win Raises Bulgarians’ Hopes for Change",
+        "summary": "An election victory by a former president, Rumen Radev, gives the country a chance for stability and to clean out the corruption that has stymied its growth."
+      },
+      {
+        "char": "🪧",
+        "label": "madagascar gen z protests against new regime",
+        "url": "https://www.theguardian.com/world/2026/apr/20/mark-carney-canada-us-economy-trade",
+        "title": "Carney says Canada’s strong economic ties to US are ‘weakness’ to be corrected",
+        "summary": "Prime minister details efforts to attract investment and sign trade deals with other countries in 10-minute video address Canada ’s strong economic ties to the United States were once a strength but are now a weakness that must be correc..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
