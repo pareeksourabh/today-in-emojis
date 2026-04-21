@@ -36563,5 +36563,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-21",
+    "emojis": [
+      {
+        "char": "🏳️‍🌈",
+        "label": "hungary's anti-lgbtq laws breach eu values",
+        "url": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
+        "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
+        "summary": "The EU's top court finds that the reforms breached EU values on a number of levels and broke the founding values of the EU treaty."
+      },
+      {
+        "char": "🎤",
+        "label": "madonna's missing coachella costume reward",
+        "url": "https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&at_campaign=rss",
+        "title": "Madonna offers reward for return of missing Coachella costume",
+        "summary": "The items, which she says are \"part of my history\", disappeared after her slot with Sabrina Carpenter."
+      },
+      {
+        "char": "🇳🇬",
+        "label": "nigeria charges six with treason over coup",
+        "url": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
+        "title": "Nigeria charges six people with treason over Independence Day coup plot",
+        "summary": "Allegations of a coup plot first surfaced in October 2025 when an Independence Day parade was cancelled."
+      },
+      {
+        "char": "💼",
+        "label": "kenyan firm sacks 1,000 workers after meta loss",
+        "url": "https://www.theguardian.com/technology/2026/apr/17/kenyan-outsourcing-company-for-meta-sacks-workers",
+        "title": "Kenyan firm sacks more than 1,000 workers after losing Meta contract",
+        "summary": "Meta paused work with Sama last month after allegations about staff viewing private scenes filmed by smart glasses More than 1,000 low-paid workers in Kenya have been abruptly sacked by an outsourcing company contracted by Meta, in what..."
+      },
+      {
+        "char": "🔫",
+        "label": "japan to sell more weapons abroad",
+        "url": "https://www.nytimes.com/2026/04/20/world/asia/japan-weapons-arms-sale-nato.html",
+        "title": "Japan to Sell More Weapons Abroad, Breaking With Postwar Pacifism",
+        "summary": "Prime Minister Sanae Takaichi reversed limits on arms exports as Japan faces rising threats from China and unpredictability from its main ally, the United States."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
