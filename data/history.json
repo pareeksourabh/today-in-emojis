@@ -36431,5 +36431,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-21",
+    "emojis": [
+      {
+        "char": "🎤",
+        "label": "us singer pleads not guilty to murder",
+        "url": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss",
+        "title": "US singer D4vd pleads not guilty to murder in death of missing teen girl",
+        "summary": "Prosecutors say the singer, real name David Anthony Burke, could face life in prison due to the nature of the case, if convicted."
+      },
+      {
+        "char": "🏺",
+        "label": "canadian killed at teotihuacán pyramids",
+        "url": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
+        "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
+        "summary": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials."
+      },
+      {
+        "char": "🤖",
+        "label": "ai company deletes user data after scrutiny",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnpEdUdNTTFrLXJHRER6bXIyTmZEbEhwSU9mMFlxNVVDeF9EdEhmS0l0a1pWUzhUTEFkeTlHcTVKU0tKMXlId0h1bkZGcGtPQ2FlOHRJQTNRZXZLajQ4YVFCTUQzRGlnUXlWSVdYaFhBbW50aHBoQW11SE9XeW1YZVdkUFVpdzlGdWhtb2QzYzVhVU9HQjc0WTZNU2U0X1hmVmRwMGRMVEt0Z1pKT3A2ekJsZGxEQQ?oc=5",
+        "title": "AI company deleted OKCupid user photos, data after FTC scrutiny - Reuters",
+        "summary": "AI company deleted OKCupid user photos, data after FTC scrutiny Reuters"
+      },
+      {
+        "char": "⚖️",
+        "label": "tesla settles wrongful death lawsuit",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcndYS0s1alhOb0tKSFZwMXROLTFuWTB0eDdQc05aQTVSRFI3X2thY21vYzQzR0ozRFg0U3ZxNGJRdllfbUp1QjM3dUFreHV0NFhBaGNrSnNVd3FLQmhzYzRfaHNoWkVGd3hNUWRBQVJXaVYtWEZ3VTVOSnFObUE1VjMza05EY0Z6X3pfZnAtMl8wVjhHUHRBVWVRVE5nVElxeVhBdGVsaEhMSFZVdUJoM0xDVDVJaWJ1ck1KRlIxX3FUMHBfbG5zZA?oc=5",
+        "title": "Tesla settles wrongful death lawsuit over crash that killed Florida teenager - Reuters",
+        "summary": "Tesla settles wrongful death lawsuit over crash that killed Florida teenager Reuters"
+      },
+      {
+        "char": "🗿",
+        "label": "israeli soldier vandalizes statue of jesus",
+        "url": "https://www.nytimes.com/2026/04/20/world/middleeast/israeli-soldier-lebanon-sledgehammer-jesus.html",
+        "title": "Israeli Soldier in Lebanon Sledgehammered a Statue of Jesus",
+        "summary": "The military is investigating the soldier. Prime Minister Benjamin Netanyahu expressed regret for any hurt caused to “believers in Lebanon and around the world.”"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
