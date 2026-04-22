@@ -1,41 +1,41 @@
 {
   "date": "2026-04-22",
-  "timestamp": "2026-04-22T01:48:50Z",
+  "timestamp": "2026-04-22T00:00:00Z",
   "emojis": [
     {
-      "char": "🇮🇷",
-      "label": "iran sees mass redundancies from war",
-      "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
-      "title": "Iran sees mass redundancies from war with US and Israel",
-      "summary": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes."
+      "char": "🚇",
+      "label": "london tube drivers' strike",
+      "url": "https://www.nytimes.com/2026/04/21/world/europe/london-underground-tube-strike.html",
+      "title": "London Tube Drivers’ Strike Halts a Key Line",
+      "summary": "The dispute over working conditions and hours was expected to cause widespread delays and service outages."
     },
     {
-      "char": "🇹🇼",
-      "label": "taiwan blames china for trip cancellation",
-      "url": "https://www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight",
-      "title": "Taiwan president blames China for forced cancellation of Eswatini trip",
-      "summary": "Lai Ching-te abandons visit after Seychelles, Mauritius and Madagascar revoke overflight permission Taiwan’s president, Lai Ching-te, has cancelled his trip to Eswatini, the democratic island’s only diplomatic ally in Africa, after his g..."
+      "char": "🎮",
+      "label": "microsoft cuts xbox game pass price",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWmVpYmNua0U0RV9xSFdlUXhMUnRpdk1Gc1VUN0dZcW9QdzZGY3VtVHZySjdjaHVDcjgtMFAzM3ExMWI5SmxQZjlHQmtZb29jOThSaUNWb2hBQVlheDd6dy1RMmxwenRCQnc1Ti1od2JWQ01zOEdaN0JVc3dZWFVxejhTS1JjbkdxNmNBSjB0TU1oWFd4N3M2QkFvaWlfbzdGV1c1OWRLUDVoZ18yVF9rUkszUlVCUnc?oc=5",
+      "title": "Microsoft cuts Xbox Game Pass price, to remove 'Call of Duty' day one inclusions - Reuters",
+      "summary": "Microsoft cuts Xbox Game Pass price, to remove 'Call of Duty' day one inclusions Reuters"
+    },
+    {
+      "char": "⚖️",
+      "label": "domestic workers recognized in indonesia",
+      "url": "https://www.bbc.com/news/articles/c1mkvjkg10no?at_medium=RSS&at_campaign=rss",
+      "title": "Domestic workers legally recognised in Indonesia after '22-year struggle'",
+      "summary": "The country is home to some 4.2 million domestic workers - of which almost 90% are women."
     },
     {
       "char": "🔫",
-      "label": "woman arrested for arms trafficking",
-      "url": "https://www.theguardian.com/us-news/2026/apr/19/woman-arrested-la-arms-trafficking-iran-africa",
-      "title": "Iranian American woman arrested in Los Angeles for alleged arms trafficking",
-      "summary": "Federal prosecutor says woman is suspected of dealing weapons to Africa on behalf of Iranian government A California woman was arrested at Los Angeles international airport after allegedly trafficking weapons on behalf of the Iranian gov..."
+      "label": "canadian woman killed in mexico",
+      "url": "https://www.theguardian.com/world/2026/apr/20/canadian-woman-killed-after-gunman-opens-fire-at-mexicos-teotihuacan-pyramids",
+      "title": "Canadian woman killed after gunman opens fire at Mexico’s Teotihuacán pyramids",
+      "summary": "At least four more injured at world heritage site in latest violent incident as country prepares to co-host World Cup One Canadian tourist has been killed and six other people were wounded by gunfire after an armed man opened fire at one..."
     },
     {
-      "char": "🌍",
-      "label": "hungary's anti-lgbtq laws breach eu values",
-      "url": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
-      "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
-      "summary": "The EU's top court finds that the reforms breached EU values on a number of levels and broke the founding values of the EU treaty."
-    },
-    {
-      "char": "🇺🇸",
-      "label": "us oil prices rise amid uncertainty",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR09ZSmd3djlFaW5uX3VvR2hWbWIyeC1jYkZ6UHIzV3VOMmJ2VWdmM0hnd0R1cjNqcTg1OWNBN1BjNWhUck1oVmwwMW5MOW85bWFDOWU0UkFZR2JhN0Q5RE83N0ltRzR1ZEZqdXpxZWozT0FSUHVFYnV1aWRLYVVodVp1d1dIaWJIVVdxMVpOeXByZUtUb0ZYc01sczBjdndtZE0yMTlid0poek0?oc=5",
-      "title": "US oil prices rise as US-Iran peace talks remain uncertain - Reuters",
-      "summary": "US oil prices rise as US-Iran peace talks remain uncertain Reuters"
+      "char": "💻",
+      "label": "anthropic's mythos model breach",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3ZKZ0F0V2lPYndVRXUtUDVoNW00LWdWV2trMUEweDY1c0hwNEVTLUhqVU9wcWcwdFd6VkNmdUNPbXZ1S2JaS2ZxUGxvZ0ZlYW52bnRaUUhsSl9mOVlsal90Qnd0NzN5VHJoQ2NiMXZnR3NFcHBUcGpFNUVXaGlQN2o4RHJJU01hQnhGVE1rNkhkajNYR2N1d3lZWUJSMmlWSzNkdzQ3SUpSYzlEejNWRUFKMk5BY2V0bU54RC1LTG9VUQ?oc=5",
+      "title": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports - Reuters",
+      "summary": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports Reuters"
     }
   ],
   "source": "ai-openai",
