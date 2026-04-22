@@ -1,204 +1,43 @@
 {
-  "date": "2026-04-21",
-  "timestamp": "2026-04-21T00:00:00Z",
+  "date": "2026-04-22",
+  "timestamp": "2026-04-22T00:00:00Z",
   "emojis": [
     {
-      "char": "🕊️",
-      "label": "outrage over vandalism of jesus statue",
-      "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
-      "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
-      "summary": "The Israeli military says it views with \"great severity\" the actions of the soldier, as the US ambassador demands \"swift\" consequences."
-    },
-    {
-      "char": "💼",
-      "label": "starmer's fury over vetting process",
-      "url": "https://www.nytimes.com/2026/04/20/world/europe/uk-starmer-mandelson-statement-parliament.html",
-      "title": "Starmer Voices Fury Over Being Kept in the Dark on Mandelson Vetting",
-      "summary": "During intense grilling in Parliament, Prime Minister Keir Starmer blamed civil servants for not telling him that Peter Mandelson had been rejected for top security clearances."
-    },
-    {
-      "char": "🇵🇰",
-      "label": "pakistan's leaders face rising anger",
-      "url": "https://www.nytimes.com/2026/04/20/world/asia/pakistan-shiites-iran-diplomacy.html",
-      "title": "Pakistan’s Leaders Try to Contain Rising Anger Over Iran War at Home",
-      "summary": "With deep spiritual ties to Iran, Pakistan’s minority Shiites are angry about the killing of Iran’s top clerics in U.S.-Israeli strikes, complicating Pakistan’s role as mediator."
-    },
-    {
-      "char": "🌧️",
-      "label": "new zealand floods prompt emergency",
-      "url": "https://www.bbc.com/news/articles/cly75d9zvj3o?at_medium=RSS&at_campaign=rss",
-      "title": "New Zealand declares state of emergency in Wellington as floods hit",
-      "summary": "Footage online shows vehicles submerged, trees uprooted and houses hit by landslides."
-    },
-    {
-      "char": "💰",
-      "label": "saudi arabia shifts to pragmatism",
-      "url": "https://www.nytimes.com/2026/04/20/world/middleeast/saudi-arabia-vision-pragmatism.html",
-      "title": "A Leaner Saudi Arabia Turns From Grandiose Plans to Pragmatism",
-      "summary": "A decade after Mohammed bin Salman unveiled his “Vision 2030” program to transform the country’s economy, the kingdom is facing financial strains and reassessing its trajectory."
-    },
-    {
-      "char": "🌧️",
-      "label": "hail covers tunisia and algeria",
-      "url": "https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow",
-      "title": "Weather tracker: hail covers parts of Tunisia and Algeria like snow",
-      "summary": "Accumulations of up to 3cm deep reported as severe thunderstorms also bring heavy downpours to central Italy Severe thunderstorms have affected the Mediterranean this week. On Monday, a surface low-pressure system in the Mediterranean in..."
-    },
-    {
-      "char": "🕊️",
-      "label": "outrage over vandalism in lebanon",
-      "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
-      "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
-      "summary": "The Israeli military says it views with \"great severity\" the actions of the soldier, as the US ambassador demands \"swift\" consequences."
-    },
-    {
-      "char": "💰",
-      "label": "milei reshapes argentina's economy",
-      "url": "https://www.nytimes.com/2026/04/20/world/americas/argentina-president-milei-inflation-economic-reforms.html",
-      "title": "Javier Milei Tamed Argentina’s Inflation. Now He Wants to Reshape Its Values.",
-      "summary": "Argentina’s right-wing president has tamed the country’s runaway inflation. Now he wants to transform its values."
+      "char": "📰",
+      "label": "trump ends civil rights protection",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTZRVWhiUkViVWZmakhjQ0R0MlRlNUxUcjk4VVlfZlJtWGp0cXhkZjhaMWgxMHdrZGZGZHhqNm8wbVl4dm9mR3FOVnpWSi1lclFOWXR6WVBoRXRLbFprQzVPZFRjYnFLbHJlR2RrYWFKYnh5STJvWG5VM0FPSGpkS2JUUnVqZEhzbFJxRlVUMUh1UVV3N2hLRUdsN2pZRjU5Z1pvTHQzc3Z1NVZJT2l6VTM2TTRtUlZveDhN?oc=5",
+      "title": "Trump consumer finance watchdog ends key civil rights-era anti-discrimination protection - Reuters",
+      "summary": "Trump consumer finance watchdog ends key civil rights-era anti-discrimination protection Reuters"
     },
     {
       "char": "🔫",
-      "label": "canadian woman killed in mexico",
-      "url": "https://www.theguardian.com/world/2026/apr/20/canadian-woman-killed-after-gunman-opens-fire-at-mexicos-teotihuacan-pyramids",
-      "title": "Canadian woman killed after gunman opens fire at Mexico’s Teotihuacán pyramids",
-      "summary": "At least four more injured at world heritage site in latest violent incident as country prepares to co-host World Cup One Canadian tourist has been killed and six other people were wounded by gunfire after an armed man opened fire at one..."
-    },
-    {
-      "char": "🌊",
-      "label": "tsunami warnings downgraded in japan",
-      "url": "https://www.nytimes.com/2026/04/20/world/asia/tsunami-warning-japan-earthquake.html",
-      "title": "Tsunami Warnings Downgraded in Japan After Strong Offshore Earthquake",
-      "summary": "The 7.7-magnitude undersea quake occurred off Iwate Prefecture, on the northeastern coast of Japan’s main island, Honshu."
-    },
-    {
-      "char": "📈",
-      "label": "trading day optimism in markets",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbmNjN3NVUkhUVUNnTjVkaTJ1ekc1LUJqeDgweWZlYjFsNjAtek96c0NLdEJ4SS1UYXFfdzJxVjQ2bXBOTlpQR3JCTl9JZHY1aFpneTJyelA5czlHM3JYeXQySFNWUF9iYmlGQ1ZCYVpVUjkyVU5Makk0S0ZNcmJOMElRMEFLQQ?oc=5",
-      "title": "Trading Day: Cooling off, but still optimistic - Reuters",
-      "summary": "Trading Day: Cooling off, but still optimistic Reuters"
-    },
-    {
-      "char": "🇦🇷",
-      "label": "milei reshapes argentina's economy",
-      "url": "https://www.nytimes.com/2026/04/20/world/americas/argentina-president-milei-inflation-economic-reforms.html",
-      "title": "Javier Milei Tamed Argentina’s Inflation. Now He Wants to Reshape Its Values.",
-      "summary": "Argentina’s right-wing president has tamed the country’s runaway inflation. Now he wants to transform its values."
-    },
-    {
-      "char": "🚗",
-      "label": "german carmakers struggle in china",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQemYzU2pCZXg2WHIxMlZzWVBZVUVveDZ4cV8xcjNUYWNaR2JxajZaRVRUTjk5bGk3UjI1REZTbTRmeEVwby1Ya2RvRVFNSlJ4bGdVSXQ4d0ExemFvTDdteV9ybXoxNEhleFhkV0prcTF2Z1dnWlBOM29uS08tZHJRTU45VkdpZFNHNWlDSXc1emgxU3A2cG9tYndxNEdQQ1pYWE5oQlNDUFNXT1plSmdYQ1JrcHI5N2VRbGI4bVFzTzVxaVRaaFhueHhZRG4?oc=5",
-      "title": "Germany's big carmakers used to lead the race in China, but now they're 'for the parents' - Reuters",
-      "summary": "Germany's big carmakers used to lead the race in China, but now they're 'for the parents' Reuters"
-    },
-    {
-      "char": "🌍",
-      "label": "madagascar's gen z protests continue",
-      "url": "https://www.theguardian.com/world/2026/apr/20/madagascar-gen-z-protesters-fear-new-regime",
-      "title": "Arrests fuel fears among Madagascar’s gen Z protesters that new regime no better than one they overthrew",
-      "summary": "Jubilation is turning to disenchantment as young activists arrested after protest calling for election date to be set The arrest of several protesters in Madagascar has increased fears among young people that the military regime that too..."
+      "label": "canadian killed at teotihuacán",
+      "url": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
+      "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
+      "summary": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country hosts the Fifa World Cup."
     },
     {
       "char": "✈️",
-      "label": "tsunami warnings downgraded in japan",
-      "url": "https://www.nytimes.com/2026/04/20/world/asia/tsunami-warning-japan-earthquake.html",
-      "title": "Tsunami Warnings Downgraded in Japan After Strong Offshore Earthquake",
-      "summary": "The 7.7-magnitude undersea quake occurred off Iwate Prefecture, on the northeastern coast of Japan’s main island, Honshu."
+      "label": "taiwan blames china for trip cancel",
+      "url": "https://www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight",
+      "title": "Taiwan president blames China for forced cancellation of Eswatini trip",
+      "summary": "Lai Ching-te abandons visit after Seychelles, Mauritius and Madagascar revoke overflight permission Taiwan’s president, Lai Ching-te, has cancelled his trip to Eswatini, the democratic island’s only diplomatic ally in Africa, after his g..."
     },
     {
-      "char": "🎤",
-      "label": "madonna's coachella costume reward",
-      "url": "https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&at_campaign=rss",
-      "title": "Madonna offers reward for return of missing Coachella costume",
-      "summary": "The items, which she says are \"part of my history\", disappeared after her slot with Sabrina Carpenter."
+      "char": "🚇",
+      "label": "london tube drivers strike",
+      "url": "https://www.nytimes.com/2026/04/21/world/europe/london-underground-tube-strike.html",
+      "title": "London Tube Drivers’ Strike Halts a Key Line",
+      "summary": "The dispute over working conditions and hours was expected to cause widespread delays and service outages."
     },
     {
-      "char": "🗳️",
-      "label": "americans question trump's temperament",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbFBJZGdKSDhCUHNCSmpFdzlNZkY0eXRhemxrc2VWU2RyQnlJcHlZNUh6eUFJX2owU3JfUHU4SVlJM2VyRi03OTlYSHZFUkJXdXQwOGRiRDBIOG1yNW8wYUFXMDQ1dFpWRUVsR0pPclUzNDJYUXRxRzQySjg1VDVIekhZS29RLUF0SlQ4amVPcTBhRVBiY0dWN2Z0SVVRSThNZDRMWTNmRE1hUTJXXy1jV0loUi0zM0o0dmFhLWd6MXRKUQ?oc=5",
-      "title": "Many Americans question Trump’s temperament amid Iran war, pope spat: Reuters/Ipsos poll - Reuters",
-      "summary": "Many Americans question Trump’s temperament amid Iran war, pope spat: Reuters/Ipsos poll Reuters"
-    },
-    {
-      "char": "💼",
-      "label": "fed balance sheet framework emerges",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVpCc1hSc2U5ZWlyMk5VbW14X0FxbU55WVRTa3pCa0pEdUFMbDRITU0tMG5lSkt5ODFyMmxmRzhaNWwtVFJUdlpUM0R4NjA1VnJJeUhuVUpzdmFSeW5INHdDdFBfVkpyTWNfaF9PUHBUVUZ0YjNYeXdkejhsaktJUnkxTWZnYlhUMDdnZVdGRnY2SEwzS3YyMlA3SjFicGFwWlhpNTlXU2ktNGJUajNmRHZrMGFQdk0?oc=5",
-      "title": "As Warsh faces hearing, a framework for smaller Fed balance sheet emerges - Reuters",
-      "summary": "As Warsh faces hearing, a framework for smaller Fed balance sheet emerges Reuters"
-    },
-    {
-      "char": "🚗",
-      "label": "changan aims for top-10 carmakers",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaGlSd21EZHoyLW56aWpUVERCRnJQSmt3TmE1b0hlQWxSWmdZNXJkNThQSUszTjBLVk5mZTd2UGpLdDRTSi1uTkdGNFJOcElOOHd4VW53amR3MWJnOWpwSFYtbDlnZnhaZWRMZy01Z05aem5IM2JZWG1URVU0cjZwY3ZMTG14c09iYlN2VkFrQVpvalVrYkZfZ0hReXVlN1hSTFlBenEyRlhIejh5NnlpQTAxeFpFSFkxN3RobzhJU05ETjcy?oc=5",
-      "title": "China's Changan aims to be among world's top-10 carmakers by 2030 - Reuters",
-      "summary": "China's Changan aims to be among world's top-10 carmakers by 2030 Reuters"
-    },
-    {
-      "char": "🛡️",
-      "label": "japan loosens arms export rules",
-      "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
-      "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
-      "summary": "This clears the way for Japan to sell weapons to more than a dozen countries."
-    },
-    {
-      "char": "🔫",
-      "label": "canadian woman killed in mexico",
-      "url": "https://www.theguardian.com/world/2026/apr/20/canadian-woman-killed-after-gunman-opens-fire-at-mexicos-teotihuacan-pyramids",
-      "title": "Canadian woman killed after gunman opens fire at Mexico’s Teotihuacán pyramids",
-      "summary": "At least four more injured at world heritage site in latest violent incident as country prepares to co-host World Cup One Canadian tourist has been killed and six other people were wounded by gunfire after an armed man opened fire at one..."
-    },
-    {
-      "char": "🔭",
-      "label": "nasa rover detects organic compounds",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVTZuTk5oeWZTNGd5WVBpUkNlOGRycUpvdEhQc01kM0R1dVhnTXU0Q2VfakVjNlExcm1uMVBfYmdMR2dRZlhNZkdnTzNWMlIyVGhGMTBqX0t4QmFrZ0I5QURnQjN4VDVPbVBiZkQ2Rmh4WEo0Z2RIcmRoUlZnVklCRzZ2OXgwLVdXLXNyZ0VjTktzM0hXaGF1U3d2Q1Y?oc=5",
-      "title": "NASA rover adds to the list of organic compounds detected on Mars - Reuters",
-      "summary": "NASA rover adds to the list of organic compounds detected on Mars Reuters"
-    },
-    {
-      "char": "🇺🇦",
-      "label": "zelensky criticizes us envoys",
-      "url": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
-      "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
-      "summary": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv."
-    },
-    {
-      "char": "🏳️‍🌈",
-      "label": "hungary's anti-lgbtq laws breached",
-      "url": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
-      "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
-      "summary": "The EU's top court finds that the reforms breached EU values on a number of levels and broke the founding values of the EU treaty."
-    },
-    {
-      "char": "🌧️",
-      "label": "new zealand emergency flooding",
-      "url": "https://www.nytimes.com/2026/04/21/world/australia/wellington-new-zealand-emergency-flooding.html",
-      "title": "New Zealand Declares Emergency in Capital After It Was Battered by Torrential Rain",
-      "summary": "There were landslides, flash floods and the closure of more than 100 schools in Wellington and the surrounding region."
+      "char": "📉",
+      "label": "carney advises on us-canada trade",
+      "url": "https://www.theguardian.com/world/2026/apr/21/mark-carney-advisers-us-canada-economic-trade",
+      "title": "Carney names broad team to advise on tense US-Canada trade talks",
+      "summary": "Conservatives and former provincial premiers among those PM names to advisory committee on economic relations Canada’s prime minister, Mark Carney , says his new advisory committee on economic relations with the United States will draw o..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Anger",
-    "emoji": "😡",
-    "rationale": "The day is marked by significant outrage over various issues, including the vandalism of a religious statue and violent incidents impacting innocent people, reflecting a pervasive sense of anger and frustration.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
