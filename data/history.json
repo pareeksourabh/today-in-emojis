@@ -36739,5 +36739,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-22",
+    "emojis": [
+      {
+        "char": "🇹🇼",
+        "label": "taiwan blames china for trip cancellation",
+        "url": "https://www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight",
+        "title": "Taiwan president blames China for forced cancellation of Eswatini trip",
+        "summary": "Lai Ching-te abandons visit after Seychelles, Mauritius and Madagascar revoke overflight permission Taiwan’s president, Lai Ching-te, has cancelled his trip to Eswatini, the democratic island’s only diplomatic ally in Africa, after his g..."
+      },
+      {
+        "char": "🌍",
+        "label": "climate change threatens democracy",
+        "url": "https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
+        "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
+        "summary": "Research shows natural hazards linked to climate crisis disrupted 23 elections in 18 countries in 2024 Democracy is under mounting threat from the climate crisis, with new analysis documenting how elections are increasingly shaped not on..."
+      },
+      {
+        "char": "💥",
+        "label": "thirteen killed in india fireworks blast",
+        "url": "https://www.bbc.com/news/articles/cwydzddp4j9o?at_medium=RSS&at_campaign=rss",
+        "title": "Thirteen killed in second India fireworks blast in three days",
+        "summary": "Earlier this week, an explosion at a firecracker factory in neighbouring state Tamil Nadu left at least 25 dead."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iranian expats caught between homes",
+        "url": "https://www.nytimes.com/2026/04/22/world/middleeast/iranian-expats-in-uae-caught-between-home-and-homeland.html",
+        "title": "Iranian Expats in U.A.E. Caught Between Home and Homeland",
+        "summary": "Iran’s retaliatory attacks on the United Arab Emirates have put the U.A.E.’s large Iranian expatriate community in an uncomfortable position."
+      },
+      {
+        "char": "🔫",
+        "label": "cia agents killed in mexico drug raid",
+        "url": "https://www.theguardian.com/world/2026/apr/21/mexico-drug-raid-cia-agents-embassy-investigation",
+        "title": "Two US officials who died after Mexico drug raid reported to be CIA agents",
+        "summary": "Mexico to investigate possible breach of its constitution and assess US’s role in anti-drug operation near Chihuahua Mexico has launched an investigation into a possible breach of its constitution as it was reported that two US embassy o..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
