@@ -37047,5 +37047,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-23",
+    "emojis": [
+      {
+        "char": "🚆",
+        "label": "trains collide in denmark injuring 5",
+        "url": "https://www.nytimes.com/2026/04/23/world/europe/denmark-trains-collision-copenhagen.html",
+        "title": "Trains Collide in Denmark, Leaving 5 Critically Injured",
+        "summary": "The head-on collision of two local trains happened north of Copenhagen on Thursday morning, the authorities said. The cause was not yet known."
+      },
+      {
+        "char": "🤖",
+        "label": "tesla's ai spending plan raises concerns",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRnRObUNiSVFjY2VMa3FfRHJJM2xPZmdKYmM1M0t5bjVzY0Ziakx6ZTZTbmtXcU1BbnUxS2VBcVFZYU5MNWRoUUdaNFVvVThMeGVMdnFOQlhMRHM0TGhzdzViazF2LTBFS0NPbXN5dWh0QXlCZG9rMml2TXZaU3NkdnVjOURYYjZlN1hkRDl3eXF6Wm1xOE5KaURHckNkT1RZS1QtY0hHZmE2Y1hNbDE1MjlIVVhoUjJJWmc3U3NiMDV6c2NzRHBrYklCMnV0SEFy?oc=5",
+        "title": "Tesla's $25 billion spending plan tests investor faith in unproven AI bets - Reuters",
+        "summary": "Tesla's $25 billion spending plan tests investor faith in unproven AI bets Reuters"
+      },
+      {
+        "char": "⚓",
+        "label": "us navy chief leaves post immediately",
+        "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
+        "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
+        "summary": "Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding."
+      },
+      {
+        "char": "🇦🇫",
+        "label": "trump considers sending afghans to congo",
+        "url": "https://www.theguardian.com/us-news/2026/apr/21/afghan-refugees-us-congo",
+        "title": "Trump officials consider sending 1,100 Afghans who aided US forces to Congo",
+        "summary": "Discussions reportedly come after Trump’s decision to stop initiative that allowed group to apply to resettle in the US The Trump administration is in discussions to potentially send up to 1,100 Afghans who helped US forces during the wa..."
+      },
+      {
+        "char": "🌍",
+        "label": "climate change threatens democracy globally",
+        "url": "https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
+        "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
+        "summary": "Research shows natural hazards linked to climate crisis disrupted 23 elections in 18 countries in 2024 Democracy is under mounting threat from the climate crisis, with new analysis documenting how elections are increasingly shaped not on..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
