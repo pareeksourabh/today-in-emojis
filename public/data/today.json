@@ -1,43 +1,204 @@
 {
   "date": "2026-04-23",
-  "timestamp": "2026-04-23T17:06:45Z",
+  "timestamp": "2026-04-23T00:00:00Z",
   "emojis": [
     {
-      "char": "🚆",
-      "label": "trains collide in denmark injuring 5",
-      "url": "https://www.nytimes.com/2026/04/23/world/europe/denmark-trains-collision-copenhagen.html",
-      "title": "Trains Collide in Denmark, Leaving 5 Critically Injured",
-      "summary": "The head-on collision of two local trains happened north of Copenhagen on Thursday morning, the authorities said. The cause was not yet known."
+      "char": "🇹🇼",
+      "label": "taiwan president cancels trip",
+      "url": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
+      "title": "Taiwan president cancels trip after African countries revoke flight permits",
+      "summary": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace to Lai's plane."
     },
     {
-      "char": "🤖",
-      "label": "tesla's ai spending plan raises concerns",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRnRObUNiSVFjY2VMa3FfRHJJM2xPZmdKYmM1M0t5bjVzY0Ziakx6ZTZTbmtXcU1BbnUxS2VBcVFZYU5MNWRoUUdaNFVvVThMeGVMdnFOQlhMRHM0TGhzdzViazF2LTBFS0NPbXN5dWh0QXlCZG9rMml2TXZaU3NkdnVjOURYYjZlN1hkRDl3eXF6Wm1xOE5KaURHckNkT1RZS1QtY0hHZmE2Y1hNbDE1MjlIVVhoUjJJWmc3U3NiMDV6c2NzRHBrYklCMnV0SEFy?oc=5",
-      "title": "Tesla's $25 billion spending plan tests investor faith in unproven AI bets - Reuters",
-      "summary": "Tesla's $25 billion spending plan tests investor faith in unproven AI bets Reuters"
+      "char": "✈️",
+      "label": "lufthansa cuts summer flights",
+      "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
+      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+      "summary": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring."
     },
     {
-      "char": "⚓",
-      "label": "us navy chief leaves post immediately",
-      "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
-      "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
-      "summary": "Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding."
+      "char": "🙏",
+      "label": "pope leo urges hope in prison",
+      "url": "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-equatorial-guinea.html",
+      "title": "Pope Leo, Visiting African Prison, Urges Inmates to Find Hope Amid Despair",
+      "summary": "“Life is not defined solely by one’s mistakes,” the pope told inmates being held in a port city of Equatorial Guinea."
     },
     {
-      "char": "🇦🇫",
-      "label": "trump considers sending afghans to congo",
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/afghan-refugees-us-congo",
-      "title": "Trump officials consider sending 1,100 Afghans who aided US forces to Congo",
-      "summary": "Discussions reportedly come after Trump’s decision to stop initiative that allowed group to apply to resettle in the US The Trump administration is in discussions to potentially send up to 1,100 Afghans who helped US forces during the wa..."
+      "char": "🕊️",
+      "label": "trump extends cease-fire with iran",
+      "url": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html",
+      "title": "To Iran, Trump Blinked First by Extending the Cease-Fire",
+      "summary": "Iran’s leaders believe that they can withstand an enduring standoff longer than President Trump. The strategy could be economically devastating for average Iranians."
     },
     {
-      "char": "🌍",
-      "label": "climate change threatens democracy globally",
+      "char": "⚖️",
+      "label": "el salvador mass trial for ms-13",
+      "url": "https://www.theguardian.com/world/2026/apr/22/el-salvador-mass-trial-alleged-members-ms-13-gang",
+      "title": "El Salvador holds mass trial for 486 alleged members of notorious MS-13 gang",
+      "summary": "Human rights groups have warned that the collective prosecutions violate due process and block defendants from accessing legal counsel A Salvadoran court on Tuesday began a collective trial of 486 alleged gang members, in one of the bigg..."
+    },
+    {
+      "char": "✈️",
+      "label": "lufthansa cuts summer flights",
+      "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
+      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+      "summary": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring."
+    },
+    {
+      "char": "🎭",
+      "label": "theron disapproves ballet comments",
+      "url": "https://www.theguardian.com/film/2026/apr/20/charlize-theron-timothee-chalamet-ballet-comments",
+      "title": "Charlize Theron joins chorus of disapproval over Timothée Chalamet’s ballet comments",
+      "summary": "The former ballet dancer said Chalamet’s comments were ‘reckless’ in an interview with the New York Times in which she also discussed her violent childhood Actor and former ballet dancer Charlize Theron has joined the chorus of disapprov..."
+    },
+    {
+      "char": "💰",
+      "label": "kinder morgan tops profit estimates",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOXM5SnluWThfWVlaOEgxRUpHbkZSRkdKQkRMSmdyeWo3X3dvOG5wcVRFWnQxRHpMWVV5WUQ2VFNlNFpnLWJwVHpWOV9Pem9nRHNJWHFTM2ZJeS15WUpIQmoycjlhbnExT0dFdTJrRWwzYmRsUjh0ZkkzRlNYampCZC1xZ2RMOEtJX1hxSDBIX01XaW5URjY2NlMzdEU0Zlp6amd0bXJTMjh6VTVtZ2hQQlZjb3NHS1ZlTTlhOA?oc=5",
+      "title": "Kinder Morgan tops quarterly profit estimates amid rising natural gas demand - Reuters",
+      "summary": "Kinder Morgan tops quarterly profit estimates amid rising natural gas demand Reuters"
+    },
+    {
+      "char": "🕵️‍♀",
+      "label": "british woman dies in ghana",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
+      "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
+      "summary": "Janet Fordham died in crash after travelling to see man who claimed he would help to recover money from earlier scams A British woman who was scammed out of up to £1m in a string of so-called romance frauds died in a road crash after tra..."
+    },
+    {
+      "char": "🙏",
+      "label": "pope urges hope in prison visit",
+      "url": "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-equatorial-guinea.html",
+      "title": "Pope Leo, Visiting African Prison, Urges Inmates to Find Hope Amid Despair",
+      "summary": "“Life is not defined solely by one’s mistakes,” the pope told inmates being held in a port city of Equatorial Guinea."
+    },
+    {
+      "char": "🕊️",
+      "label": "pope leo skips africa visit",
+      "url": "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html",
+      "title": "Pope Leo Is Skipping Some of Africa’s Biggest Catholic Nations",
+      "summary": "As the pontiff arrives in the tiny authoritarian nation of Equatorial Guinea, some Catholics in Africa say they are excited about his visit but are feeling a little left out."
+    },
+    {
+      "char": "💰",
+      "label": "billionaire sues trump's crypto firm",
+      "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
+      "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+      "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens."
+    },
+    {
+      "char": "🚤",
+      "label": "fishers survive us boat strike",
+      "url": "https://www.theguardian.com/global-development/2026/apr/21/ecuador-us-boat-strike-survivors",
+      "title": "‘We were terrified they were going to kill us’: fishers who survived US boat strike speak out",
+      "summary": "An Ecuadorian fishing crew describe their ordeal as victims of Trump’s purported war on ‘narcoterrorists’ By 4pm, the light was softening over the Pacific, and the crew of the Don Maca were finishing a long day hauling in lines of swordf..."
+    },
+    {
+      "char": "💼",
+      "label": "us withholds iraq oil money",
+      "url": "https://www.nytimes.com/2026/04/22/world/middleeast/iraq-us-dollars-shipment-iran.html",
+      "title": "US Withholding Iraq’s Own Oil Money Over Ties to Iran",
+      "summary": "The United States has halted dollar shipments to Iraq’s cash-based economy in an effort to force the Baghdad government to distance itself from Iran. The money comes from Iraq’s oil revenues."
+    },
+    {
+      "char": "📰",
+      "label": "lebanon accuses israel of targeting",
+      "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+      "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
+      "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site."
+    },
+    {
+      "char": "🇹🇼",
+      "label": "taiwan blames china for trip cancellation",
+      "url": "https://www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight",
+      "title": "Taiwan president blames China for forced cancellation of Eswatini trip",
+      "summary": "Lai Ching-te abandons visit after Seychelles, Mauritius and Madagascar revoke overflight permission Taiwan’s president, Lai Ching-te, has cancelled his trip to Eswatini, the democratic island’s only diplomatic ally in Africa, after his g..."
+    },
+    {
+      "char": "🌊",
+      "label": "survivors of us boat strike speak out",
+      "url": "https://www.theguardian.com/global-development/2026/apr/21/ecuador-us-boat-strike-survivors",
+      "title": "‘We were terrified they were going to kill us’: fishers who survived US boat strike speak out",
+      "summary": "An Ecuadorian fishing crew describe their ordeal as victims of Trump’s purported war on ‘narcoterrorists’ By 4pm, the light was softening over the Pacific, and the crew of the Don Maca were finishing a long day hauling in lines of swordf..."
+    },
+    {
+      "char": "🔥",
+      "label": "climate change threatens democracy",
       "url": "https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
       "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
       "summary": "Research shows natural hazards linked to climate crisis disrupted 23 elections in 18 countries in 2024 Democracy is under mounting threat from the climate crisis, with new analysis documenting how elections are increasingly shaped not on..."
+    },
+    {
+      "char": "💰",
+      "label": "billionaires could reach 4,000 soon",
+      "url": "https://www.theguardian.com/news/2026/apr/23/billionaires-super-rich-global-wealth-gap-economy",
+      "title": "Number of billionaires globally could reach 4,000 in next five years",
+      "summary": "There are now 3,110 billionaires but analysis shows ‘deep structural acceleration’ in wealth creation around world The number of billionaires in the world could reach nearly 4,000 by 2031, figures suggest, as the super-rich accumulate we..."
+    },
+    {
+      "char": "🇮🇷",
+      "label": "iran's new leadership revealed",
+      "url": "https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html",
+      "title": "The Generals Who Are Now Running Iran",
+      "summary": "The killing of Ayatollah Ali Khamenei ushered in a new form of collective leadership in the country, with more power for the Revolutionary Guards."
+    },
+    {
+      "char": "💼",
+      "label": "milan tech firm plans $20 billion listing",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSHBFZmdpbElOeDZzd0tvV0g4emVpN1cxdU5YdFBvTDdsckx6Rm1VS3g0RG5SajVuUmVlNVZ2bUhIZUp5V1h6NzJjOEEweEpXZTNJdVAxbkN6MldCYTlhQ2tnY1dOR1ZNMWRaamhUbzlVclBpN3VIVFZael80c3VfOFB1ME9CV0NUc0V3MXRqMnJPNjJTZkhHX01QQnZuekU4c200c1ljaG1QMHVaeFR1TFViT29Pc2FHRGVZWlJ3?oc=5",
+      "title": "Milan tech firm Bending Spoons picks banks for $20 billion US listing, sources say - Reuters",
+      "summary": "Milan tech firm Bending Spoons picks banks for $20 billion US listing, sources say Reuters"
+    },
+    {
+      "char": "🚨",
+      "label": "cia agents die in mexico drug raid",
+      "url": "https://www.theguardian.com/world/2026/apr/21/mexico-drug-raid-cia-agents-embassy-investigation",
+      "title": "Two US officials who died after Mexico drug raid reported to be CIA agents",
+      "summary": "Mexico to investigate possible breach of its constitution and assess US’s role in anti-drug operation near Chihuahua Mexico has launched an investigation into a possible breach of its constitution as it was reported that two US embassy o..."
+    },
+    {
+      "char": "🇩🇪",
+      "label": "germany voices frustration over israel support",
+      "url": "https://www.nytimes.com/2026/04/23/world/europe/germany-israel-iran-war-support.html",
+      "title": "Germany, a Steadfast Ally of Israel, Now Voices Some Frustration",
+      "summary": "In recent weeks, German officials have issued critical comments about Israel that convey Berlin’s recent frustration with its longtime ally."
+    },
+    {
+      "char": "💰",
+      "label": "eu loan reflects view on ukraine peace",
+      "url": "https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html",
+      "title": "$106 Billion Loan Reflects E.U.’s View That Peace in Ukraine Is Far Away",
+      "summary": "Unlike previous European assistance packages, this one is heavily weighted toward military spending, meant to put Ukraine on solid footing for a long fight."
+    },
+    {
+      "char": "🎬",
+      "label": "warner bros approves paramount takeover",
+      "url": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss",
+      "title": "Warner Bros shareholders approve Paramount's $111bn takeover",
+      "summary": "The approval came as Donald Trump is to attend a dinner with billionaire Paramount backers the Ellisons."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concern",
+    "emoji": "😔",
+    "rationale": "The news items reflect a day filled with serious issues, including international conflicts, economic pressures, and humanitarian concerns, leading to an overall sense of worry and sadness.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
