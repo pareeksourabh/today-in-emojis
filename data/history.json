@@ -36959,5 +36959,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-23",
+    "emojis": [
+      {
+        "char": "💰",
+        "label": "billionaire sues trump's crypto firm",
+        "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
+        "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+        "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens."
+      },
+      {
+        "char": "⛪",
+        "label": "pope skips major african nations",
+        "url": "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html",
+        "title": "Pope Leo Is Skipping Some of Africa’s Biggest Catholic Nations",
+        "summary": "As the pontiff arrives in the tiny authoritarian nation of Equatorial Guinea, some Catholics in Africa say they are excited about his visit but are feeling a little left out."
+      },
+      {
+        "char": "⚓",
+        "label": "us navy chief leaves post immediately",
+        "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
+        "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
+        "summary": "Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran-us stand-off affects dollar value",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlBHeHBuV095WU9oQ2FueXExUEtfV1dyZHNZQVdzbWstU0dXRjJqcHpxb0VFQkVRV2JzVlpPVk5lUnIzY2U2MEJzRzhjam5TcG1rcktLWHZpQ1A4cldYOXRncThRNWY0WWJydDdjOGE1TWpvbGNQei1zeDRLcU82cGd2MGhRTzJxY01ibk9oNzNUT0gtRUZoRnkwUlZQYXRnMVFROVRJVk9DRGQyS2NDLWtSZw?oc=5",
+        "title": "Dollar holds near 1-1/2-week high as Iran-US stand-off persists - Reuters",
+        "summary": "Dollar holds near 1-1/2-week high as Iran-US stand-off persists Reuters"
+      },
+      {
+        "char": "🚢",
+        "label": "two us officials die in mexico drug raid",
+        "url": "https://www.theguardian.com/world/2026/apr/21/mexico-drug-raid-cia-agents-embassy-investigation",
+        "title": "Two US officials who died after Mexico drug raid reported to be CIA agents",
+        "summary": "Mexico to investigate possible breach of its constitution and assess US’s role in anti-drug operation near Chihuahua Mexico has launched an investigation into a possible breach of its constitution as it was reported that two US embassy o..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
