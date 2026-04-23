@@ -1,204 +1,43 @@
 {
-  "date": "2026-04-22",
-  "timestamp": "2026-04-22T00:00:00Z",
+  "date": "2026-04-23",
+  "timestamp": "2026-04-23T00:00:00Z",
   "emojis": [
     {
-      "char": "📰",
-      "label": "trump ends civil rights protection",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTZRVWhiUkViVWZmakhjQ0R0MlRlNUxUcjk4VVlfZlJtWGp0cXhkZjhaMWgxMHdrZGZGZHhqNm8wbVl4dm9mR3FOVnpWSi1lclFOWXR6WVBoRXRLbFprQzVPZFRjYnFLbHJlR2RrYWFKYnh5STJvWG5VM0FPSGpkS2JUUnVqZEhzbFJxRlVUMUh1UVV3N2hLRUdsN2pZRjU5Z1pvTHQzc3Z1NVZJT2l6VTM2TTRtUlZveDhN?oc=5",
-      "title": "Trump consumer finance watchdog ends key civil rights-era anti-discrimination protection - Reuters",
-      "summary": "Trump consumer finance watchdog ends key civil rights-era anti-discrimination protection Reuters"
-    },
-    {
-      "char": "🔫",
-      "label": "canadian killed at teotihuacán",
-      "url": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
-      "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
-      "summary": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country hosts the Fifa World Cup."
-    },
-    {
-      "char": "✈️",
-      "label": "taiwan blames china for trip cancel",
-      "url": "https://www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight",
-      "title": "Taiwan president blames China for forced cancellation of Eswatini trip",
-      "summary": "Lai Ching-te abandons visit after Seychelles, Mauritius and Madagascar revoke overflight permission Taiwan’s president, Lai Ching-te, has cancelled his trip to Eswatini, the democratic island’s only diplomatic ally in Africa, after his g..."
-    },
-    {
-      "char": "🚇",
-      "label": "london tube drivers strike",
-      "url": "https://www.nytimes.com/2026/04/21/world/europe/london-underground-tube-strike.html",
-      "title": "London Tube Drivers’ Strike Halts a Key Line",
-      "summary": "The dispute over working conditions and hours was expected to cause widespread delays and service outages."
-    },
-    {
-      "char": "📉",
-      "label": "carney advises on us-canada trade",
-      "url": "https://www.theguardian.com/world/2026/apr/21/mark-carney-advisers-us-canada-economic-trade",
-      "title": "Carney names broad team to advise on tense US-Canada trade talks",
-      "summary": "Conservatives and former provincial premiers among those PM names to advisory committee on economic relations Canada’s prime minister, Mark Carney , says his new advisory committee on economic relations with the United States will draw o..."
-    },
-    {
-      "char": "🚇",
-      "label": "london tube drivers' strike",
-      "url": "https://www.nytimes.com/2026/04/21/world/europe/london-underground-tube-strike.html",
-      "title": "London Tube Drivers’ Strike Halts a Key Line",
-      "summary": "The dispute over working conditions and hours was expected to cause widespread delays and service outages."
-    },
-    {
-      "char": "🎮",
-      "label": "microsoft cuts xbox game pass price",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWmVpYmNua0U0RV9xSFdlUXhMUnRpdk1Gc1VUN0dZcW9QdzZGY3VtVHZySjdjaHVDcjgtMFAzM3ExMWI5SmxQZjlHQmtZb29jOThSaUNWb2hBQVlheDd6dy1RMmxwenRCQnc1Ti1od2JWQ01zOEdaN0JVc3dZWFVxejhTS1JjbkdxNmNBSjB0TU1oWFd4N3M2QkFvaWlfbzdGV1c1OWRLUDVoZ18yVF9rUkszUlVCUnc?oc=5",
-      "title": "Microsoft cuts Xbox Game Pass price, to remove 'Call of Duty' day one inclusions - Reuters",
-      "summary": "Microsoft cuts Xbox Game Pass price, to remove 'Call of Duty' day one inclusions Reuters"
-    },
-    {
-      "char": "⚖️",
-      "label": "domestic workers recognized in indonesia",
-      "url": "https://www.bbc.com/news/articles/c1mkvjkg10no?at_medium=RSS&at_campaign=rss",
-      "title": "Domestic workers legally recognised in Indonesia after '22-year struggle'",
-      "summary": "The country is home to some 4.2 million domestic workers - of which almost 90% are women."
-    },
-    {
-      "char": "🔫",
-      "label": "canadian woman killed in mexico",
-      "url": "https://www.theguardian.com/world/2026/apr/20/canadian-woman-killed-after-gunman-opens-fire-at-mexicos-teotihuacan-pyramids",
-      "title": "Canadian woman killed after gunman opens fire at Mexico’s Teotihuacán pyramids",
-      "summary": "At least four more injured at world heritage site in latest violent incident as country prepares to co-host World Cup One Canadian tourist has been killed and six other people were wounded by gunfire after an armed man opened fire at one..."
-    },
-    {
-      "char": "💻",
-      "label": "anthropic's mythos model breach",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3ZKZ0F0V2lPYndVRXUtUDVoNW00LWdWV2trMUEweDY1c0hwNEVTLUhqVU9wcWcwdFd6VkNmdUNPbXZ1S2JaS2ZxUGxvZ0ZlYW52bnRaUUhsSl9mOVlsal90Qnd0NzN5VHJoQ2NiMXZnR3NFcHBUcGpFNUVXaGlQN2o4RHJJU01hQnhGVE1rNkhkajNYR2N1d3lZWUJSMmlWSzNkdzQ3SUpSYzlEejNWRUFKMk5BY2V0bU54RC1LTG9VUQ?oc=5",
-      "title": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports - Reuters",
-      "summary": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports Reuters"
-    },
-    {
-      "char": "🏳️‍🌈",
-      "label": "hungary's anti-lgbtq laws breach eu values",
-      "url": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
-      "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
-      "summary": "The EU's top court finds that the reforms breached EU values on a number of levels and broke the founding values of the EU treaty."
-    },
-    {
-      "char": "🚤",
-      "label": "survivors of us boat strike speak out",
-      "url": "https://www.theguardian.com/global-development/2026/apr/21/ecuador-us-boat-strike-survivors",
-      "title": "‘We were terrified they were going to kill us’: fishers who survived US boat strike speak out",
-      "summary": "An Ecuadorian fishing crew describe their ordeal as victims of Trump’s purported war on ‘narcoterrorists’ By 4pm, the light was softening over the Pacific, and the crew of the Don Maca were finishing a long day hauling in lines of swordf..."
-    },
-    {
-      "char": "🇦🇫",
-      "label": "trump talks to send afghans to congo",
-      "url": "https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html",
-      "title": "Trump Is Said to Be in Talks to Send Afghans Who Aided U.S. Forces to Congo",
-      "summary": "A U.S. aid worker said that the Afghans, who were evacuated to Qatar, would face a choice between moving to the Democratic Republic of Congo and living under the Taliban."
-    },
-    {
-      "char": "💼",
-      "label": "canadian woman killed at teotihuacan",
-      "url": "https://www.theguardian.com/world/2026/apr/20/canadian-woman-killed-after-gunman-opens-fire-at-mexicos-teotihuacan-pyramids",
-      "title": "Canadian woman killed after gunman opens fire at Mexico’s Teotihuacán pyramids",
-      "summary": "At least four more injured at world heritage site in latest violent incident as country prepares to co-host World Cup One Canadian tourist has been killed and six other people were wounded by gunfire after an armed man opened fire at one..."
-    },
-    {
-      "char": "⚖️",
-      "label": "israeli soldiers punished for vandalism",
-      "url": "https://www.nytimes.com/2026/04/21/world/middleeast/israel-soldiers-statue-lebanon-replaced.html",
-      "title": "Israeli Soldiers Sentenced to Jail for Damaging Jesus Statue in Lebanon",
-      "summary": "A statue of the crucifixion of Christ has been replaced after one soldier photographed another swinging what looked like a sledgehammer at its head."
-    },
-    {
       "char": "🇹🇼",
-      "label": "taiwan cancels africa trip",
+      "label": "taiwan president cancels trip",
       "url": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
       "title": "Taiwan president cancels trip after African countries revoke flight permits",
       "summary": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace to Lai's plane."
     },
     {
-      "char": "🎭",
-      "label": "theron disapproves of ballet comments",
-      "url": "https://www.theguardian.com/film/2026/apr/20/charlize-theron-timothee-chalamet-ballet-comments",
-      "title": "Charlize Theron joins chorus of disapproval over Timothée Chalamet’s ballet comments",
-      "summary": "The former ballet dancer said Chalamet’s comments were ‘reckless’ in an interview with the New York Times in which she also discussed her violent childhood Actor and former ballet dancer Charlize Theron has joined the chorus of disapprov..."
-    },
-    {
-      "char": "📈",
-      "label": "jp morgan upgrades nikkei target",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0RHNS10UGFnN01ZMkg0bHhTRXpCVEhKR2p3YXh5NkpiNjZKSHBmQzY1bDdBV1hCRFJRUHYwOGU0VDdrSUpRYi1oZ0F6aUstY0wwT3VQTTlMZkhKSVdQQjl3WmlsMDBkQ2NuR3VlLXJMalBBZEp3UEFCeGFQWU9obFhqd3JDZHd6ZnFqYmNrSWx1aGxmMWctVm5IckJsWnl2ODVjSFpQbGFneFB3ei00ejYxLXJDOGg4OWpN?oc=5",
-      "title": "JP Morgan upgrades Nikkei year-end target to 70,000 on AI boom, weak yen - Reuters",
-      "summary": "JP Morgan upgrades Nikkei year-end target to 70,000 on AI boom, weak yen Reuters"
-    },
-    {
-      "char": "⚽",
-      "label": "mexico pledges world cup safety",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWxKdWM2UC02cXhFQ1NyMWwzQVZnLTgxTF9XMmwtd2tUWEFCeWw5Z09tY0RyWFBOZTJKNjhPUk9rWE5EOHNEUWpWeU9TdDBMdE1OcVRSdTBNS0Q1WEJ1eElvaTkwcC1qMlF0UzJmVkNJVGRaSXcxVlVINDRYWG9zdGxhQmx1Y3VvZGk5UUc4eTJTb3dCaVdkY2Z1d0lBRkViNnd6QlVTYVMwcUdhbXFlSmxobw?oc=5",
-      "title": "Mexico pledges World Cup safety after shooting at ancient pyramids - Reuters",
-      "summary": "Mexico pledges World Cup safety after shooting at ancient pyramids Reuters"
-    },
-    {
-      "char": "🌍",
-      "label": "climate change threatens democracy",
-      "url": "https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
-      "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
-      "summary": "Research shows natural hazards linked to climate crisis disrupted 23 elections in 18 countries in 2024 Democracy is under mounting threat from the climate crisis, with new analysis documenting how elections are increasingly shaped not on..."
-    },
-    {
       "char": "✈️",
-      "label": "us plane sent to cuba for child case",
-      "url": "https://www.nytimes.com/2026/04/21/world/americas/cuba-us-child-justice-department-transgender.html",
-      "title": "U.S. Sends Plane to Cuba to Get Child in Transgender Custody Case",
-      "summary": "The F.B.I. believed the child was kidnapped by a transgender parent to potentially undergo gender transition surgery, according to court filings."
+      "label": "lufthansa cuts summer flights",
+      "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
+      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+      "summary": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring."
     },
     {
-      "char": "🌍",
-      "label": "climate change threatens democracy",
-      "url": "https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
-      "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
-      "summary": "Research shows natural hazards linked to climate crisis disrupted 23 elections in 18 countries in 2024 Democracy is under mounting threat from the climate crisis, with new analysis documenting how elections are increasingly shaped not on..."
+      "char": "🙏",
+      "label": "pope leo urges hope in prison",
+      "url": "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-equatorial-guinea.html",
+      "title": "Pope Leo, Visiting African Prison, Urges Inmates to Find Hope Amid Despair",
+      "summary": "“Life is not defined solely by one’s mistakes,” the pope told inmates being held in a port city of Equatorial Guinea."
     },
     {
-      "char": "💼",
-      "label": "carney advises on us-canada trade talks",
-      "url": "https://www.theguardian.com/world/2026/apr/21/mark-carney-advisers-us-canada-economic-trade",
-      "title": "Carney names broad team to advise on tense US-Canada trade talks",
-      "summary": "Conservatives and former provincial premiers among those PM names to advisory committee on economic relations Canada’s prime minister, Mark Carney , says his new advisory committee on economic relations with the United States will draw o..."
+      "char": "🕊️",
+      "label": "trump extends cease-fire with iran",
+      "url": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html",
+      "title": "To Iran, Trump Blinked First by Extending the Cease-Fire",
+      "summary": "Iran’s leaders believe that they can withstand an enduring standoff longer than President Trump. The strategy could be economically devastating for average Iranians."
     },
     {
-      "char": "🚙",
-      "label": "rivian starts production of r2 suvs",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZUpaaU1VbWgzS2syYW5Tc1k1VE10MXd3Xzk1dXFrT3R3UERXalNYS3BQcTRyWjR1aGxlaGRNMEVFRl81ZGNWODV2N3k0bVh2d2QyQ3puU25YbWlCN2xvVVk3ODlvRmF2OFZuVDZyTHJRV2JjOGVoclVtejhTaWRHa1NTVHB4NjhIQXdWb2gxbWtpaDEyM1VXcEQ3N2pBOEpfbGRSN01iczQ1d29hNWFxLXJ4X0dhczRHQWE3THFmYUIzYi1EMWVjTTFSNUFKSXJ1bXc?oc=5",
-      "title": "Rivian starts production of R2 SUVs, deliveries expected later this spring - Reuters",
-      "summary": "Rivian starts production of R2 SUVs, deliveries expected later this spring Reuters"
-    },
-    {
-      "char": "🕌",
-      "label": "kashmir town longs for tourists post-attack",
-      "url": "https://www.nytimes.com/2026/04/22/world/asia/kashmir-attacks-kashmir-india.html",
-      "title": "A Year After Terrorist Attack, a Kashmir Town Longs for Tourists",
-      "summary": "Pahalgam, with steep ravines, grassy hillsides and pine forests, is a base for Hindu pilgrimages that business operators hope will revive visitors."
+      "char": "⚖️",
+      "label": "el salvador mass trial for ms-13",
+      "url": "https://www.theguardian.com/world/2026/apr/22/el-salvador-mass-trial-alleged-members-ms-13-gang",
+      "title": "El Salvador holds mass trial for 486 alleged members of notorious MS-13 gang",
+      "summary": "Human rights groups have warned that the collective prosecutions violate due process and block defendants from accessing legal counsel A Salvadoran court on Tuesday began a collective trial of 486 alleged gang members, in one of the bigg..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "Today's news highlights several tragic events, including a fatal shooting at a historic site and the end of civil rights protections, creating an overall somber and concerning atmosphere.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
