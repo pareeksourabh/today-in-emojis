@@ -37003,5 +37003,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-23",
+    "emojis": [
+      {
+        "char": "💰",
+        "label": "billionaires could reach 4,000 soon",
+        "url": "https://www.theguardian.com/news/2026/apr/23/billionaires-super-rich-global-wealth-gap-economy",
+        "title": "Number of billionaires globally could reach 4,000 in next five years",
+        "summary": "There are now 3,110 billionaires but analysis shows ‘deep structural acceleration’ in wealth creation around world The number of billionaires in the world could reach nearly 4,000 by 2031, figures suggest, as the super-rich accumulate we..."
+      },
+      {
+        "char": "⚖️",
+        "label": "mass trial for MS-13 gang members",
+        "url": "https://www.theguardian.com/world/2026/apr/22/el-salvador-mass-trial-alleged-members-ms-13-gang",
+        "title": "El Salvador holds mass trial for 486 alleged members of notorious MS-13 gang",
+        "summary": "Human rights groups have warned that the collective prosecutions violate due process and block defendants from accessing legal counsel A Salvadoran court on Tuesday began a collective trial of 486 alleged gang members, in one of the bigg..."
+      },
+      {
+        "char": "🌍",
+        "label": "Lebanon accuses Israel of targeting journalist",
+        "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+        "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
+        "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site."
+      },
+      {
+        "char": "🔥",
+        "label": "climate change threatens democracy",
+        "url": "https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
+        "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
+        "summary": "Research shows natural hazards linked to climate crisis disrupted 23 elections in 18 countries in 2024 Democracy is under mounting threat from the climate crisis, with new analysis documenting how elections are increasingly shaped not on..."
+      },
+      {
+        "char": "🚆",
+        "label": "trains collide in Denmark, 5 injured",
+        "url": "https://www.nytimes.com/2026/04/23/world/europe/denmark-trains-collision-copenhagen.html",
+        "title": "Trains Collide in Denmark, Leaving 5 Critically Injured",
+        "summary": "The head-on collision of two local trains happened north of Copenhagen on Thursday morning, the authorities said. The cause was not yet known."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
