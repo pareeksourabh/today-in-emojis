@@ -36871,5 +36871,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-23",
+    "emojis": [
+      {
+        "char": "🏛️",
+        "label": "mexico pyramid attack raises concerns",
+        "url": "https://www.bbc.com/news/articles/cre1r5gdq04o?at_medium=RSS&at_campaign=rss",
+        "title": "No cartels involved - but Mexico's pyramid attack prompts new concerns",
+        "summary": "The deadly shooting at a popular tourist site weeks before the World Cup has rocked Mexico."
+      },
+      {
+        "char": "🇳🇬",
+        "label": "nigeria coup plotters deny charges",
+        "url": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
+        "title": "Nigeria's suspected coup plotters deny treason charges",
+        "summary": "Allegations of a coup plot first surfaced last year when an Independence Day parade was cancelled."
+      },
+      {
+        "char": "💰",
+        "label": "us withholds iraq oil money over iran ties",
+        "url": "https://www.nytimes.com/2026/04/22/world/middleeast/iraq-us-dollars-shipment-iran.html",
+        "title": "US Withholding Iraq’s Own Oil Money Over Ties to Iran",
+        "summary": "The United States has halted dollar shipments to Iraq’s cash-based economy in an effort to force the Baghdad government to distance itself from Iran. The money comes from Iraq’s oil revenues."
+      },
+      {
+        "char": "🌍",
+        "label": "eu approves loan for ukraine pipeline",
+        "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
+        "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
+        "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary."
+      },
+      {
+        "char": "🛳️",
+        "label": "survivors speak out after us boat strike",
+        "url": "https://www.theguardian.com/global-development/2026/apr/21/ecuador-us-boat-strike-survivors",
+        "title": "‘We were terrified they were going to kill us’: fishers who survived US boat strike speak out",
+        "summary": "An Ecuadorian fishing crew describe their ordeal as victims of Trump’s purported war on ‘narcoterrorists’ By 4pm, the light was softening over the Pacific, and the crew of the Don Maca were finishing a long day hauling in lines of swordf..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
