@@ -37223,5 +37223,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-24",
+    "emojis": [
+      {
+        "char": "🇬🇧",
+        "label": "british woman died in ghana",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
+        "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
+        "summary": "Janet Fordham died in crash after travelling to see man who claimed he would help to recover money from earlier scams A British woman who was scammed out of up to £1m in a string of so-called romance frauds died in a road crash after tra..."
+      },
+      {
+        "char": "🇪🇺",
+        "label": "what if europe defends without nato?",
+        "url": "https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html",
+        "title": "Europeans Ask: What Would It Mean to Defend One Another Without NATO?",
+        "summary": "European Union nations have a little-known obligation to protect one another. Experts caution it is no replacement for NATO."
+      },
+      {
+        "char": "📰",
+        "label": "kuwait journalist acquitted",
+        "url": "https://www.nytimes.com/2026/04/23/world/middleeast/kuwait-journalist-acquitted.html",
+        "title": "Journalist Detained in Kuwait After Posting About Iran War Is Acquitted",
+        "summary": "Ahmed Shihab-Eldin, a Kuwaiti-American journalist, is expected to be released soon, after 52 days in detention, a lawyer for two of his family members said."
+      },
+      {
+        "char": "💵",
+        "label": "eu loan for peace in ukraine",
+        "url": "https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html",
+        "title": "$106 Billion Loan Reflects E.U.’s View That Peace in Ukraine Is Far Away",
+        "summary": "Unlike previous European assistance packages, this one is heavily weighted toward military spending, meant to put Ukraine on solid footing for a long fight."
+      },
+      {
+        "char": "🇦🇫",
+        "label": "afghans pushed back to taliban",
+        "url": "https://www.nytimes.com/2026/04/23/world/asia/afghans-qatar-refugees-congo.html",
+        "title": "Afghans Who Helped U.S. Forces Say They’re Being Pushed Back to the Taliban",
+        "summary": "Once promised a move to the United States, Afghan refugees who helped U.S. forces say they face ‘bad or worse’ options: resettlement to Congo or returning home to live under the Taliban."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
