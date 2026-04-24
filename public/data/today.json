@@ -1,41 +1,41 @@
 {
   "date": "2026-04-24",
-  "timestamp": "2026-04-24T13:47:11Z",
+  "timestamp": "2026-04-24T00:00:00Z",
   "emojis": [
     {
+      "char": "🇺🇸",
+      "label": "afghans sent to congo",
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/afghan-refugees-us-congo",
+      "title": "Trump officials consider sending 1,100 Afghans who aided US forces to Congo",
+      "summary": "Discussions reportedly come after Trump’s decision to stop initiative that allowed group to apply to resettle in the US The Trump administration is in discussions to potentially send up to 1,100 Afghans who helped US forces during the wa..."
+    },
+    {
       "char": "🇬🇧",
-      "label": "british woman died in ghana",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
-      "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
-      "summary": "Janet Fordham died in crash after travelling to see man who claimed he would help to recover money from earlier scams A British woman who was scammed out of up to £1m in a string of so-called romance frauds died in a road crash after tra..."
+      "label": "uk stance on falklands unchanged",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo",
+      "title": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
+      "summary": "Internal email proposes US should reassess support for UK claim to islands because of lack of support for Iran war UK politics live – latest updates The UK’s position on the Falklands is resolute and unchanging, Downing Street has insist..."
     },
     {
-      "char": "🇪🇺",
-      "label": "what if europe defends without nato?",
-      "url": "https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html",
-      "title": "Europeans Ask: What Would It Mean to Defend One Another Without NATO?",
-      "summary": "European Union nations have a little-known obligation to protect one another. Experts caution it is no replacement for NATO."
+      "char": "🌍",
+      "label": "global talks on fossil fuels",
+      "url": "https://www.theguardian.com/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia",
+      "title": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
+      "summary": "‘Coalition of the willing’ gathers in Colombia to try to bypass petrostate blockages of Cop summits and chart fresh path The world’s first Transitioning Away from Fossil Fuels conference, co-hosted by Colombia and the Netherlands, takes..."
     },
     {
-      "char": "📰",
-      "label": "kuwait journalist acquitted",
-      "url": "https://www.nytimes.com/2026/04/23/world/middleeast/kuwait-journalist-acquitted.html",
-      "title": "Journalist Detained in Kuwait After Posting About Iran War Is Acquitted",
-      "summary": "Ahmed Shihab-Eldin, a Kuwaiti-American journalist, is expected to be released soon, after 52 days in detention, a lawyer for two of his family members said."
+      "char": "🐾",
+      "label": "sloth deaths in florida",
+      "url": "https://www.theguardian.com/us-news/2026/apr/24/florida-sloth-deaths-tourist-attraction",
+      "title": "Florida officials investigate planned ‘Sloth World’ attraction after 31 sloths die in warehouse",
+      "summary": "Languorous tree dwellers from Guyana and Peru died from ‘cold stun’ in warehouse with no power or running water Sign up for the Breaking News US newsletter email Wildlife officials in Florida said in a newly released report that dozens o..."
     },
     {
-      "char": "💵",
-      "label": "eu loan for peace in ukraine",
-      "url": "https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html",
-      "title": "$106 Billion Loan Reflects E.U.’s View That Peace in Ukraine Is Far Away",
-      "summary": "Unlike previous European assistance packages, this one is heavily weighted toward military spending, meant to put Ukraine on solid footing for a long fight."
-    },
-    {
-      "char": "🇦🇫",
-      "label": "afghans pushed back to taliban",
-      "url": "https://www.nytimes.com/2026/04/23/world/asia/afghans-qatar-refugees-congo.html",
-      "title": "Afghans Who Helped U.S. Forces Say They’re Being Pushed Back to the Taliban",
-      "summary": "Once promised a move to the United States, Afghan refugees who helped U.S. forces say they face ‘bad or worse’ options: resettlement to Congo or returning home to live under the Taliban."
+      "char": "🌊",
+      "label": "coral reefs in jamaica",
+      "url": "https://www.theguardian.com/environment/2026/apr/24/coral-reefs-jamaica",
+      "title": "Soundtrack of the sea: divers use underwater speakers to help dying coral reefs",
+      "summary": "Divers are installing waterproof speakers in the ocean to help pull a coral reef near Jamaica back from the brink The northern coast of Jamaica once served as the backdrop for scenes in the James Bond thriller No Time to Die. But today,..."
     }
   ],
   "source": "ai-openai",
