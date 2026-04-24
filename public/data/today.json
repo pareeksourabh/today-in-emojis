@@ -1,43 +1,204 @@
 {
   "date": "2026-04-24",
-  "timestamp": "2026-04-24T16:42:28Z",
+  "timestamp": "2026-04-24T00:00:00Z",
   "emojis": [
     {
-      "char": "🦥",
-      "label": "sloth deaths in florida attraction",
+      "char": "⚖️",
+      "label": "giuffre family seeks justice",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3dycjFtZnR6VlNhaWhBNzN1WnlhY3JxVlJMVW1iTjBqN2xFRmlBNS1qWDFFbmF4MFhNRlYtd2xnUHRhSXlzVG1Kc1FSTEVqQkVubmtlR1pnY0t4bFp4LWFnQllvWVROdnhuOVptYUJSMVVSdkhmdnlXdU13LW83ZzhkZWxyT2oxaXdiWVRGVENMUk1yWFRRU1BNMTBSbURQbzhkRE1mNlZmRGRFdnA4?oc=5",
+      "title": "Virginia Giuffre’s family still seeks justice a year after her death - Reuters",
+      "summary": "Virginia Giuffre’s family still seeks justice a year after her death Reuters"
+    },
+    {
+      "char": "🇻🇨",
+      "label": "st vincent pauses amendments",
+      "url": "https://www.theguardian.com/world/2026/apr/23/st-vincent-and-grenadines-government-constitutional-amendment-bills-godwin-friday",
+      "title": "St Vincent and Grenadines government pauses constitutional amendment bills after public backlash",
+      "summary": "Bills are seeking to change section that opposition says makes Godwin Friday, a dual citizen, ineligible to be PM The St Vincent and the Grenadines government has delayed a controversial effort to amend a section of the country’s constit..."
+    },
+    {
+      "char": "🇧🇬",
+      "label": "bulgaria's leader faces choice",
+      "url": "https://www.nytimes.com/2026/04/23/world/europe/bulgaria-radev-election-russia-europe.html",
+      "title": "Will Bulgaria’s New Leader Cast His Lot With Europe or Russia?",
+      "summary": "With a record of pro-Russia statements, Rumen Radev handily won elections this week. Now Bulgarians and his E.U. partners wait to see which way he will turn."
+    },
+    {
+      "char": "💰",
+      "label": "billionaires wealth gap grows",
+      "url": "https://www.theguardian.com/news/2026/apr/23/billionaires-super-rich-global-wealth-gap-economy",
+      "title": "Number of billionaires globally could reach 4,000 in next five years",
+      "summary": "There are now 3,110 billionaires but analysis shows ‘deep structural acceleration’ in wealth creation around world The number of billionaires in the world could reach nearly 4,000 by 2031, figures suggest, as the super-rich accumulate we..."
+    },
+    {
+      "char": "🌍",
+      "label": "iran's new leadership revealed",
+      "url": "https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html",
+      "title": "The Generals Who Are Now Running Iran",
+      "summary": "The killing of Ayatollah Ali Khamenei ushered in a new form of collective leadership in the country, with more power for the Revolutionary Guards."
+    },
+    {
+      "char": "💰",
+      "label": "global billionaires on the rise",
+      "url": "https://www.theguardian.com/news/2026/apr/23/billionaires-super-rich-global-wealth-gap-economy",
+      "title": "Number of billionaires globally could reach 4,000 in next five years",
+      "summary": "There are now 3,110 billionaires but analysis shows ‘deep structural acceleration’ in wealth creation around world The number of billionaires in the world could reach nearly 4,000 by 2031, figures suggest, as the super-rich accumulate we..."
+    },
+    {
+      "char": "🎤",
+      "label": "singer arrested for child abuse images",
+      "url": "https://www.bbc.com/news/articles/cn53vg3y574o?at_medium=RSS&at_campaign=rss",
+      "title": "Singer D4vd had 'significant amount' of child sex abuse images when arrested, prosecutors say",
+      "summary": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him."
+    },
+    {
+      "char": "🌍",
+      "label": "glacier blocks everest climbing route",
+      "url": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss",
+      "title": "Huge chunk of glacier blocks Everest route in peak climbing season",
+      "summary": "Sherpas cannot prepare the route to the world's highest peak because a huge block of ice is in the way."
+    },
+    {
+      "char": "🗳️",
+      "label": "tanzania election violence report",
+      "url": "https://www.nytimes.com/2026/04/23/world/africa/tanzania-election-violence-report.html",
+      "title": "Tanzania Report Blames ‘Outside Forces’ for Deadly Election Violence",
+      "summary": "The findings in a new report by a commission appointed by the government were at odds with details from human rights groups, which estimate that hundreds and possibly thousands of people were killed."
+    },
+    {
+      "char": "🔥",
+      "label": "climate change threatens democracy",
+      "url": "https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
+      "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
+      "summary": "Research shows natural hazards linked to climate crisis disrupted 23 elections in 18 countries in 2024 Democracy is under mounting threat from the climate crisis, with new analysis documenting how elections are increasingly shaped not on..."
+    },
+    {
+      "char": "🕊️",
+      "label": "iran war cease-fire extended",
+      "url": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz",
+      "title": "Iran War Live Updates: Trump Says Lebanon Cease-Fire Is Extended by 3 Weeks",
+      "summary": "Stopping the fighting between Israel and Hezbollah, the Iran-backed militia in Lebanon, could be crucial to ending the war in Iran."
+    },
+    {
+      "char": "🛡️",
+      "label": "europe debates defense outside nato",
+      "url": "https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html",
+      "title": "Europe Mulls What Mutual Defense Looks Like Outside NATO",
+      "summary": "European Union nations have a little-known obligation to protect one another. Experts caution it is no replacement for NATO."
+    },
+    {
+      "char": "📜",
+      "label": "st vincent pauses amendment bills",
+      "url": "https://www.theguardian.com/world/2026/apr/23/st-vincent-and-grenadines-government-constitutional-amendment-bills-godwin-friday",
+      "title": "St Vincent and Grenadines government pauses constitutional amendment bills after public backlash",
+      "summary": "Bills are seeking to change section that opposition says makes Godwin Friday, a dual citizen, ineligible to be PM The St Vincent and the Grenadines government has delayed a controversial effort to amend a section of the country’s constit..."
+    },
+    {
+      "char": "⚖️",
+      "label": "uk lords block assisted dying bill",
+      "url": "https://www.nytimes.com/2026/04/24/world/europe/uk-assisted-dying-bill-lords.html",
+      "title": "In Britain, 7 Unelected Lords Are Helping to Block an Assisted Dying Bill",
+      "summary": "A small group in the House of Lords has proposed hundreds of amendments that are helping stymie a bill that was meant to legalize medically assisted death for the terminally ill."
+    },
+    {
+      "char": "🌪️",
+      "label": "tornadoes injure 10 in oklahoma",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUWNsdVVfVEZXLWNnOEhBaDExT1BYNzUyc1A2NUJPT3NXc3AzaklybXBGTHR0b2ZVUEJMU2Q1ZUhVUTNMbXAzNHV6Q3F3bzR1QkZzdHhJRnM4aEJFNHpkV2VfNVRFY0lNNFN5TlpSMS1kUkJzLWllTDh3N2FtZ0M1OVc3cWlKazdTclhsTGRTOXZjd1NpLVdZb0cwOXMtUlBYZS1nUmREZzNRaEE5bWxwX3J5T2lESnBiSVZNZjlZdk1JcV83RGRpTHdMSQ?oc=5",
+      "title": "At least 10 injured after tornadoes hit northern Oklahoma, local media reports - Reuters",
+      "summary": "At least 10 injured after tornadoes hit northern Oklahoma, local media reports Reuters"
+    },
+    {
+      "char": "🇻🇨",
+      "label": "st vincent pauses amendment bills",
+      "url": "https://www.theguardian.com/world/2026/apr/23/st-vincent-and-grenadines-government-constitutional-amendment-bills-godwin-friday",
+      "title": "St Vincent and Grenadines government pauses constitutional amendment bills after public backlash",
+      "summary": "Bills are seeking to change section that opposition says makes Godwin Friday, a dual citizen, ineligible to be PM The St Vincent and the Grenadines government has delayed a controversial effort to amend a section of the country’s constit..."
+    },
+    {
+      "char": "🇮🇷",
+      "label": "iran's new military leadership",
+      "url": "https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html",
+      "title": "The Generals Who Are Now Running Iran",
+      "summary": "The killing of Ayatollah Ali Khamenei ushered in a new form of collective leadership in the country, with more power for the Revolutionary Guards."
+    },
+    {
+      "char": "🇰🇪",
+      "label": "kenyan leader mocks nigerians",
+      "url": "https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss",
+      "title": "Kenyan leader sparks uproar after  mocking Nigerians' spoken English",
+      "summary": "William Ruto says Kenyans speak \"some of the best English in the world\" while it is hard to understand Nigerians."
+    },
+    {
+      "char": "🇪🇺",
+      "label": "eu loan for ukraine peace efforts",
+      "url": "https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html",
+      "title": "$106 Billion Loan Reflects E.U.’s View That Peace in Ukraine Is Far Away",
+      "summary": "Unlike previous European assistance packages, this one is heavily weighted toward military spending, meant to put Ukraine on solid footing for a long fight."
+    },
+    {
+      "char": "🌊",
+      "label": "divers use speakers for coral reefs",
+      "url": "https://www.theguardian.com/environment/2026/apr/24/coral-reefs-jamaica",
+      "title": "Soundtrack of the sea: divers use underwater speakers to help dying coral reefs",
+      "summary": "Divers are installing waterproof speakers in the ocean to help pull a coral reef near Jamaica back from the brink The northern coast of Jamaica once served as the backdrop for scenes in the James Bond thriller No Time to Die. But today,..."
+    },
+    {
+      "char": "🇺🇸",
+      "label": "afghans sent to congo",
+      "url": "https://www.theguardian.com/us-news/2026/apr/21/afghan-refugees-us-congo",
+      "title": "Trump officials consider sending 1,100 Afghans who aided US forces to Congo",
+      "summary": "Discussions reportedly come after Trump’s decision to stop initiative that allowed group to apply to resettle in the US The Trump administration is in discussions to potentially send up to 1,100 Afghans who helped US forces during the wa..."
+    },
+    {
+      "char": "🇬🇧",
+      "label": "uk stance on falklands unchanged",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo",
+      "title": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
+      "summary": "Internal email proposes US should reassess support for UK claim to islands because of lack of support for Iran war UK politics live – latest updates The UK’s position on the Falklands is resolute and unchanging, Downing Street has insist..."
+    },
+    {
+      "char": "🌍",
+      "label": "global talks on fossil fuels",
+      "url": "https://www.theguardian.com/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia",
+      "title": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
+      "summary": "‘Coalition of the willing’ gathers in Colombia to try to bypass petrostate blockages of Cop summits and chart fresh path The world’s first Transitioning Away from Fossil Fuels conference, co-hosted by Colombia and the Netherlands, takes..."
+    },
+    {
+      "char": "🐾",
+      "label": "sloth deaths in florida",
       "url": "https://www.theguardian.com/us-news/2026/apr/24/florida-sloth-deaths-tourist-attraction",
       "title": "Florida officials investigate planned ‘Sloth World’ attraction after 31 sloths die in warehouse",
       "summary": "Languorous tree dwellers from Guyana and Peru died from ‘cold stun’ in warehouse with no power or running water Sign up for the Breaking News US newsletter email Wildlife officials in Florida said in a newly released report that dozens o..."
     },
     {
-      "char": "🇿🇦",
-      "label": "south africa envoy summoned over attacks",
-      "url": "https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss",
-      "title": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
-      "summary": "A Ghanaian national was confronted by South Africans in a viral clip and questioned about his immigration status."
-    },
-    {
-      "char": "🗳️",
-      "label": "gaza to hold first local election",
-      "url": "https://www.nytimes.com/2026/04/24/world/middleeast/gaza-elections-deir-al-balah.html",
-      "title": "Gaza Set to Hold First Local Election in Two Decades",
-      "summary": "Hamas said it was not participating in the municipal elections in Deir al-Balah, set for this weekend. Residents said it was a long-awaited opportunity to address the city’s problems"
-    },
-    {
-      "char": "🎗️",
-      "label": "netanyahu reveals cancer treatment",
-      "url": "https://www.nytimes.com/2026/04/24/world/middleeast/netanyahu-cancer-treatment.html",
-      "title": "Netanyahu Reveals He Had Prostate Cancer and Underwent Radiation Therapy",
-      "summary": "The Israeli leader had surgery in 2024 for an enlarged prostate. More recently, follow-up care detected a tumor, his office disclosed on Friday."
-    },
-    {
-      "char": "🌍",
-      "label": "global talks on ditching fossil fuels",
-      "url": "https://www.theguardian.com/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia",
-      "title": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
-      "summary": "‘Coalition of the willing’ gathers in Colombia to try to bypass petrostate blockages of Cop summits and chart fresh path The world’s first Transitioning Away from Fossil Fuels conference, co-hosted by Colombia and the Netherlands, takes..."
+      "char": "🌊",
+      "label": "coral reefs in jamaica",
+      "url": "https://www.theguardian.com/environment/2026/apr/24/coral-reefs-jamaica",
+      "title": "Soundtrack of the sea: divers use underwater speakers to help dying coral reefs",
+      "summary": "Divers are installing waterproof speakers in the ocean to help pull a coral reef near Jamaica back from the brink The northern coast of Jamaica once served as the backdrop for scenes in the James Bond thriller No Time to Die. But today,..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concern",
+    "emoji": "😔",
+    "rationale": "The day is marked by multiple troubling events, including ongoing struggles for justice, political controversies, and environmental crises, reflecting an overall sense of concern.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
