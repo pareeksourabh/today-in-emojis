@@ -37179,5 +37179,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-24",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "pope's visit to africa",
+        "url": "https://www.nytimes.com/2026/04/23/world/europe/pope-leo-africa-trump.html",
+        "title": "Touring Africa, Pope Leo Raised His Voice, but Didn’t Like the Echo",
+        "summary": "On his recent trip abroad, Leo XIV made some of his most forthright comments since becoming pope last year, but grew uncomfortable at how that criticism was interpreted."
+      },
+      {
+        "char": "🎤",
+        "label": "ringo starr reflects on stage",
+        "url": "https://www.bbc.com/news/articles/cp8645d9lvyo?at_medium=RSS&at_campaign=rss",
+        "title": "Ringo Starr: 'I made all my mistakes on stage'",
+        "summary": "Beatles star reveals all about his new country album, being a Sir and coming up with the phrase A Hard Day's Night."
+      },
+      {
+        "char": "🗳️",
+        "label": "india's elections and the hindu right",
+        "url": "https://www.nytimes.com/2026/04/24/world/asia/india-elections-modi-bengal.html",
+        "title": "‘Didi vs. Modi’: A Test for the Hindu Right in India’s Bengali Heartland",
+        "summary": "The party of Prime Minister Narendra Modi has been making gains in a state once beyond its grasp, but many decry an audit that removed nine million voters, many of them Muslim."
+      },
+      {
+        "char": "🛡️",
+        "label": "europe's defense strategy outside nato",
+        "url": "https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html",
+        "title": "Europe Mulls What Mutual Defense Looks Like Outside NATO",
+        "summary": "European Union nations have a little-known obligation to protect one another. Experts caution it is no replacement for NATO."
+      },
+      {
+        "char": "🎭",
+        "label": "charlize theron on ballet comments",
+        "url": "https://www.theguardian.com/film/2026/apr/20/charlize-theron-timothee-chalamet-ballet-comments",
+        "title": "Charlize Theron joins chorus of disapproval over Timothée Chalamet’s ballet comments",
+        "summary": "The former ballet dancer said Chalamet’s comments were ‘reckless’ in an interview with the New York Times in which she also discussed her violent childhood Actor and former ballet dancer Charlize Theron has joined the chorus of disapprov..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
