@@ -1,7 +1,14 @@
 {
   "date": "2026-04-24",
-  "timestamp": "2026-04-24T01:52:41Z",
+  "timestamp": "2026-04-24T00:00:00Z",
   "emojis": [
+    {
+      "char": "💰",
+      "label": "global billionaires on the rise",
+      "url": "https://www.theguardian.com/news/2026/apr/23/billionaires-super-rich-global-wealth-gap-economy",
+      "title": "Number of billionaires globally could reach 4,000 in next five years",
+      "summary": "There are now 3,110 billionaires but analysis shows ‘deep structural acceleration’ in wealth creation around world The number of billionaires in the world could reach nearly 4,000 by 2031, figures suggest, as the super-rich accumulate we..."
+    },
     {
       "char": "🎤",
       "label": "singer arrested for child abuse images",
@@ -10,32 +17,25 @@
       "summary": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him."
     },
     {
-      "char": "🚨",
-      "label": "crash highlights US-Mexico security ties",
-      "url": "https://www.nytimes.com/2026/04/23/world/americas/mexico-crash-us-security-cia.html",
-      "title": "Crash That Killed 2 Americans Is a Reminder of the Depth of Security Ties in Mexico",
-      "summary": "The deaths of two C.I.A. officers in a crash in northern Mexico sparked questions about authorization and sovereignty, but also reflected a longstanding, sensitive security partnership between the two countries."
-    },
-    {
-      "char": "✈️",
-      "label": "taiwan blames china for trip cancellation",
-      "url": "https://www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight",
-      "title": "Taiwan president blames China for forced cancellation of Eswatini trip",
-      "summary": "Lai Ching-te abandons visit after Seychelles, Mauritius and Madagascar revoke overflight permission Taiwan’s president, Lai Ching-te, has cancelled his trip to Eswatini, the democratic island’s only diplomatic ally in Africa, after his g..."
-    },
-    {
-      "char": "⚖️",
-      "label": "soldier charged in maduro raid case",
-      "url": "https://www.theguardian.com/us-news/2026/apr/23/maduro-raid-soldier-charged",
-      "title": "US soldier involved in Maduro raid charged over alleged bets on capture",
-      "summary": "Gannon Ken Van Dyke, who allegedly made more than $400,000 on Polymarket, could face up to 60 years in prison A US soldier who played a role in the January capture of Venezuelan president Nicolás Maduro is now in custody after allegedly..."
-    },
-    {
       "char": "🌍",
-      "label": "tanzania blames outside forces for violence",
+      "label": "glacier blocks everest climbing route",
+      "url": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss",
+      "title": "Huge chunk of glacier blocks Everest route in peak climbing season",
+      "summary": "Sherpas cannot prepare the route to the world's highest peak because a huge block of ice is in the way."
+    },
+    {
+      "char": "🗳️",
+      "label": "tanzania election violence report",
       "url": "https://www.nytimes.com/2026/04/23/world/africa/tanzania-election-violence-report.html",
       "title": "Tanzania Report Blames ‘Outside Forces’ for Deadly Election Violence",
       "summary": "The findings in a new report by a commission appointed by the government were at odds with details from human rights groups, which estimate that hundreds and possibly thousands of people were killed."
+    },
+    {
+      "char": "🔥",
+      "label": "climate change threatens democracy",
+      "url": "https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
+      "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
+      "summary": "Research shows natural hazards linked to climate crisis disrupted 23 elections in 18 countries in 2024 Democracy is under mounting threat from the climate crisis, with new analysis documenting how elections are increasingly shaped not on..."
     }
   ],
   "source": "ai-openai",
