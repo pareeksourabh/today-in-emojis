@@ -37487,5 +37487,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-25",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "raqqa showcases syria’s tumultuous past",
+        "url": "https://www.nytimes.com/2026/04/25/world/middleeast/syria-war-raqqa-past.html",
+        "title": "Raqqa Showcases Syria’s Tumultuous Past",
+        "summary": "The city on the Euphrates, once a cradle of civilization, suffered under a succession of recent rulers. Our visit found it hoping for change."
+      },
+      {
+        "char": "🚨",
+        "label": "openai ceo apologizes after shooting",
+        "url": "https://www.theguardian.com/us-news/2026/apr/25/altman-apologizes-after-openai-failed-to-alert-police-before-fatal-canada-shooting",
+        "title": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting",
+        "summary": "OpenAI said the company had identified an account using abuse-detection efforts, but determined at the time it didn’t meet threshold for legal referral The head of OpenAI has written a letter apologizing that his company didn’t alert law..."
+      },
+      {
+        "char": "🇹🇷",
+        "label": "turkey proposes new investment law",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUY2ZVJjWFYzajF5M3VyNTNjX2IzUTdyMHBnMVdSWmNFYWhjb2JSZGJqUVBfTFFPeDE5WjVZM3BrOHIyVnBwYmFNUFV2eTFnMkFLNVpvc2h4Zi1TaWFqeThib0M5bC10Q3E4OWlwc3lQWEQtdERXdlNQWHBMOUJzWS05MW9Cd1FLNXByb0p5b0Jhb1d5UnJUQml4aHcxS2F1SjlkUlMtbGI0eVd6aThSQV9CMkk?oc=5",
+        "title": "Turkey floats new investment law including exporters' tax cut - Reuters",
+        "summary": "Turkey floats new investment law including exporters' tax cut Reuters"
+      },
+      {
+        "char": "🦠",
+        "label": "discovery could save children from noma",
+        "url": "https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria",
+        "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
+        "summary": "A previously unknown species of bacteria found in patients with noma could be key to creating treatments for the neglected tropical disease The “astonishing” discovery of a new bacteria could open the door to better ways to prevent, dete..."
+      },
+      {
+        "char": "⚔️",
+        "label": "major russian attack on ukraine kills seven",
+        "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+        "title": "Seven dead in major Russian attack on Ukraine",
+        "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
