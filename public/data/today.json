@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The day’s news highlights significant issues such as climate threats, political unrest, and humanitarian crises, evoking a sense of concern and urgency about the state of the world.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "Today's news highlights numerous tragic events, including the deaths of sloths and the challenges faced by vulnerable populations in conflict zones. The overall emotional tone is one of sadness and concern.",
     "palette": [
       "😢",
       "😡",
