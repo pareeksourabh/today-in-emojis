@@ -1,34 +1,27 @@
 {
   "date": "2026-04-25",
-  "timestamp": "2026-04-25T13:15:26Z",
+  "timestamp": "2026-04-25T00:00:00Z",
   "emojis": [
     {
-      "char": "🚗",
-      "label": "china car giant thrives without us",
-      "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
-      "title": "China car giant BYD says it can thrive without US",
-      "summary": "With the price of fuel rising China's BYD says it is positioning itself to benefit from the global shift away from fossil fuels."
+      "char": "🇬🇧",
+      "label": "uk lords block assisted dying bill",
+      "url": "https://www.nytimes.com/2026/04/24/world/europe/uk-assisted-dying-bill-lords.html",
+      "title": "In Britain, 7 Unelected Lords Help Block an Assisted Dying Bill",
+      "summary": "A small group in the House of Lords proposed hundreds of amendments that helped stymie a bill that was meant to legalize medically assisted death for the terminally ill."
     },
     {
-      "char": "🗳️",
-      "label": "palestinians vote in local elections",
-      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
-      "summary": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part."
+      "char": "🌍",
+      "label": "climate change threatens democracy",
+      "url": "https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
+      "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
+      "summary": "Research shows natural hazards linked to climate crisis disrupted 23 elections in 18 countries in 2024 Democracy is under mounting threat from the climate crisis, with new analysis documenting how elections are increasingly shaped not on..."
     },
     {
-      "char": "💊",
-      "label": "johnson & johnson on trumpRx website",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaGtIbmpWRkJrNVh6bEg2TXlqOTVqY2pnU1FVWGFCNWVaeS1NN3dZbG5zM3RKM2RDWjVsNmRiZk50eWppT0E5VlZPdmNGN3JqVDFURTY5NWRwczdGajRRYi11Z1VBcEZ2UEtBYmlReGxOdl9HS1p5TTZtcnNGVVdLd0pVckV3SXpETHZIYTJzWE92WXZacE43Uk9EVVlZM1lVRDJyTVJyU0pYVmRxQ1BzcEhZaVFkQm9wNHpMLU5lMGRXc1VMZlZnZXNDRXpYUDg0ekpHN3c4M3o3Rzc1cUdCNHZTYVF1UXc?oc=5",
-      "title": "Johnson & Johnson to offer four prescription medicines on TrumpRx website - Reuters",
-      "summary": "Johnson & Johnson to offer four prescription medicines on TrumpRx website Reuters"
-    },
-    {
-      "char": "🧪",
-      "label": "discovery could save children from disease",
-      "url": "https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria",
-      "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
-      "summary": "A previously unknown species of bacteria found in patients with noma could be key to creating treatments for the neglected tropical disease The “astonishing” discovery of a new bacteria could open the door to better ways to prevent, dete..."
+      "char": "🦥",
+      "label": "thirty-one sloths die in florida",
+      "url": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
+      "title": "Thirty-one sloths die in Florida before opening of attraction",
+      "summary": "Many died due to conditions at a warehouse they'd been shipped to, while others arrived dead, authorities say."
     },
     {
       "char": "🐘",
@@ -36,6 +29,13 @@
       "url": "https://www.theguardian.com/us-news/2026/apr/24/millionaire-hunter-dies-elephants-gabon",
       "title": "US millionaire big-game hunter dies after being crushed by elephants",
       "summary": "Ernie Dosio, a 75-year-old vineyard owner, was hunting an antelope species in Africa when the incident occured Sign up for the Breaking News US email to get newsletter alerts in your inbox An American millionaire big-game hunter has died..."
+    },
+    {
+      "char": "🧪",
+      "label": "discovery could save children from noma",
+      "url": "https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria",
+      "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
+      "summary": "A previously unknown species of bacteria found in patients with noma could be key to creating treatments for the neglected tropical disease The “astonishing” discovery of a new bacteria could open the door to better ways to prevent, dete..."
     }
   ],
   "source": "ai-openai",
