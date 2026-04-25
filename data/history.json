@@ -37355,5 +37355,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-25",
+    "emojis": [
+      {
+        "char": "🛡️",
+        "label": "uk lords block assisted dying bill",
+        "url": "https://www.nytimes.com/2026/04/24/world/europe/uk-assisted-dying-bill-lords.html",
+        "title": "In Britain, 7 Unelected Lords Help Block an Assisted Dying Bill",
+        "summary": "A small group in the House of Lords proposed hundreds of amendments that helped stymie a bill that was meant to legalize medically assisted death for the terminally ill."
+      },
+      {
+        "char": "⚖️",
+        "label": "us justice dept intervenes in tech law",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjdyTjJ6ZHptLTJ0enRYd3JGaE9CZXhDaGxiS09WdGI1am9PaTMtX3FUbV9nejdmOHJCSGM1eU05WnRxVG9jRFAxMkRhckpxaHdYdmRvMDdwWnl4R21KUmFYY0VEV3FMX1lOcGpZNHRSLXl1X2JDZHRjem50clVhUlFjMXQ3dXVtdF9jdFRhN1N5S2VUdDhna2xwdXhJR2J0cmNaejQtbFI3QQ?oc=5",
+        "title": "US Justice Department intervenes in xAI challenge to Colorado tech law - Reuters",
+        "summary": "US Justice Department intervenes in xAI challenge to Colorado tech law Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "lebanese family keeps business alive",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KcFExU3IzV0hqRVctRnF0cDJLUFFfN0hGRktMeVQyc0tmVUNrRHd5MVQ4R3RsVG1HS0xET0FjV0NnNU40RnYxLXR5bDhQMC1EczI4?oc=5",
+        "title": "How one Lebanese family keeps business alive while displaced - Reuters",
+        "summary": "How one Lebanese family keeps business alive while displaced Reuters"
+      },
+      {
+        "char": "⚰️",
+        "label": "us to allow firing squads for executions",
+        "url": "https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss",
+        "title": "US to allow firing squads, gas, and electrocution for federal executions",
+        "summary": "In a memo, the Department of Justice says the move will \"strengthen\" the death penalty and deter crime."
+      },
+      {
+        "char": "🗳️",
+        "label": "gaza set to hold first local election",
+        "url": "https://www.nytimes.com/2026/04/24/world/middleeast/gaza-elections-deir-al-balah.html",
+        "title": "Gaza Set to Hold First Local Election in Two Decades",
+        "summary": "Hamas said it was not participating in the municipal elections in Deir al-Balah, set for this weekend. Residents said it was a long-awaited opportunity to address the city’s problems"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
