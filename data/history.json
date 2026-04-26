@@ -37575,5 +37575,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-26",
+    "emojis": [
+      {
+        "char": "💥",
+        "label": "coordinated attacks in mali",
+        "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+        "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
+        "summary": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years."
+      },
+      {
+        "char": "🧑‍⚕️",
+        "label": "discovery to save children from disease",
+        "url": "https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria",
+        "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
+        "summary": "A previously unknown species of bacteria found in patients with noma could be key to creating treatments for the neglected tropical disease The “astonishing” discovery of a new bacteria could open the door to better ways to prevent, dete..."
+      },
+      {
+        "char": "🇭🇺",
+        "label": "orbán steps down after defeat",
+        "url": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
+        "title": "Orbán steps down from Hungarian parliament after landslide defeat",
+        "summary": "The outgoing prime minister will not take up his seat after leading his party back into opposition."
+      },
+      {
+        "char": "⚖️",
+        "label": "trump fights deportation shield",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZF9JUDhpR0N6MUtoWTdwZEVHVy1BQkpoZTVMYmV6amx5NS1mbnV2UlNkRjltOVhmOWhNQVFseGw4aDdXRW5GZTMzRjZBM0xrQUMzZlhYcHZoR3kzNHlBejBhRVJFTi1qNGZoWU9WRDRXMUNuSGJLeFcwN2pNVU13bXhaWDNVaUtBMHIxZ1ByLVh5b3BnT3BMRmJlZ1RBY0tjWk11Q05sSXg3ckRTRkVUcXYyUDNHWmFYUE1MXzJuNmR2UjlianVyQ0V3?oc=5",
+        "title": "In Supreme Court fight against deportation shield, Trump says judges have no role - Reuters",
+        "summary": "In Supreme Court fight against deportation shield, Trump says judges have no role Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "uk position on falklands unchanged",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo",
+        "title": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
+        "summary": "Internal email proposes US should reassess support for UK claim to islands because of lack of support for Iran war UK politics live – latest updates Downing Street has been forced to insist that Britain will not yield sovereignty over th..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
