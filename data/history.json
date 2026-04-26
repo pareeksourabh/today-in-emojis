@@ -37663,5 +37663,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-26",
+    "emojis": [
+      {
+        "char": "⚽",
+        "label": "barcelona wins against getafe",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVXZaVG5PcmxIazNHTmhZWkhlN2Z6ckFnRXUyb3hHRE5PcjdPazNVNFQ2QV8tWmNQRmpCUjdFYnVTSWlSWElsUENETC1vRk40d3ZPLWpPRzRyUjdhTDNUTWszbjFoUDZQbkdoeEh3VmxuNk0xNUJGRk1RVUw2VTZuZEJrQWtVMF9DVlp0WmY2aDJ0ZnFOS2ZxZWZ1bEJnYnFVMF9lZGJ3?oc=5",
+        "title": "Barcelona march on towards title with 2-0 victory at Getafe - Reuters",
+        "summary": "Barcelona march on towards title with 2-0 victory at Getafe Reuters"
+      },
+      {
+        "char": "💣",
+        "label": "seven dead in russian attack on ukraine",
+        "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+        "title": "Seven dead in major Russian attack on Ukraine",
+        "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building."
+      },
+      {
+        "char": "🇯🇵",
+        "label": "japan fights against unruly tourists",
+        "url": "https://www.nytimes.com/2026/04/26/world/asia/japan-fuji-tourism-cherry-blossoms-overtourism.html",
+        "title": "In Japan, the Fight Is on Against Unruly Tourists",
+        "summary": "Huge crowds of visitors during cherry blossom season have put a picturesque Japanese town on edge. Some residents are trying to take charge."
+      },
+      {
+        "char": "🦓",
+        "label": "millionaire hunter dies by elephants",
+        "url": "https://www.theguardian.com/us-news/2026/apr/24/millionaire-hunter-dies-elephants-gabon",
+        "title": "US millionaire big-game hunter dies after being crushed by elephants",
+        "summary": "Ernie Dosio, a 75-year-old vineyard owner, was hunting an antelope species in Africa when the incident occured Sign up for the Breaking News US email to get newsletter alerts in your inbox An American millionaire big-game hunter has died..."
+      },
+      {
+        "char": "🤖",
+        "label": "altman apologizes after shooting incident",
+        "url": "https://www.theguardian.com/us-news/2026/apr/25/altman-apologizes-after-openai-failed-to-alert-police-before-fatal-canada-shooting",
+        "title": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting",
+        "summary": "OpenAI said the company had identified an account using abuse-detection efforts, but determined at the time it didn’t meet threshold for legal referral The head of OpenAI has written a letter apologizing that his company didn’t alert law..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
