@@ -1,204 +1,43 @@
 {
-  "date": "2026-04-25",
-  "timestamp": "2026-04-25T00:00:00Z",
+  "date": "2026-04-26",
+  "timestamp": "2026-04-26T00:00:00Z",
   "emojis": [
     {
-      "char": "🇷🇺",
-      "label": "russia economy struggles for solutions",
-      "url": "https://www.nytimes.com/2026/04/24/world/europe/russia-economy.html",
-      "title": "As Putin Orders That the Economy Be Fixed, Russia Grasps for Solutions",
-      "summary": "Another interest-rate cut highlights the narrowing path for the country’s central bank amid the strains of immense wartime spending."
+      "char": "💰",
+      "label": "trump's bond purchases revealed",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX0xRdkVkVzZzc0JxU0pRN0d5V1R0dU5xWlJZdGhsQWFoLVBHZmctczgwNndnRWNRRkd6VjFfenEza1RmRDZSbDlMS2p4SjBTUUUtendkRTA2V2VORFZYOGt1T3N0TFdNanF5MzBFSjJ3M1JqLXFyU3hUS0xvYThmWWROd2JnS0RuSlcyTTJ5dDZ6R09FR1NQaU5TZ3o1cnlrN0g0X1lfTGpQMHl1TTExcw?oc=5",
+      "title": "Trump bought at least $51 million in bonds in March, disclosure shows - Reuters",
+      "summary": "Trump bought at least $51 million in bonds in March, disclosure shows Reuters"
     },
     {
-      "char": "🔫",
-      "label": "suspect arrested in syria massacre",
-      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
-      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
-      "summary": "Amjad Youssef was wanted over the mass killing of blindfolded civilians in April 2013 in the district of Damascus."
+      "char": "⚔️",
+      "label": "coordinated attacks in mali",
+      "url": "https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali",
+      "title": "Militants and separatists launch coordinated attacks across Mali",
+      "summary": "Al-Qaida-linked group JNIM claims responsibility for strikes on airport in capital, Bamako and four other cities Islamic militants and separatists attacked several locations in Mali’s capital and other cities on Saturday in one of the la..."
     },
     {
-      "char": "🇹🇼",
-      "label": "taiwan blames china for trip cancellation",
-      "url": "https://www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight",
-      "title": "Taiwan president blames China for forced cancellation of Eswatini trip",
-      "summary": "Lai Ching-te abandons visit after Seychelles, Mauritius and Madagascar revoke overflight permission Taiwan’s president, Lai Ching-te, has cancelled his trip to Eswatini, the democratic island’s only diplomatic ally in Africa, after his g..."
+      "char": "🚨",
+      "label": "openai's apology after shooting",
+      "url": "https://www.theguardian.com/us-news/2026/apr/25/altman-apologizes-after-openai-failed-to-alert-police-before-fatal-canada-shooting",
+      "title": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting",
+      "summary": "OpenAI said the company had identified an account using abuse-detection efforts, but determined at the time it didn’t meet threshold for legal referral The head of OpenAI has written a letter apologizing that his company didn’t alert law..."
     },
     {
-      "char": "👶",
-      "label": "turkey bans children from social media",
-      "url": "https://www.nytimes.com/2026/04/24/world/europe/turkey-ban-children-social-media.html",
-      "title": "Turkey Passes Legislation to Bar Children Under 15 From Social Media",
-      "summary": "The government says the measure, which must be signed into law by the president, will protect minors. Critics worry it will threaten free speech and privacy online."
-    },
-    {
-      "char": "🤝",
-      "label": "europe debates defense without nato",
-      "url": "https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html",
-      "title": "Europeans Ask: What Would It Mean to Defend One Another Without NATO?",
-      "summary": "European Union nations have a little-known obligation to protect one another. Experts caution it is no replacement for NATO."
-    },
-    {
-      "char": "🌍",
-      "label": "global talks on fossil fuels",
-      "url": "https://www.theguardian.com/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia",
-      "title": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
-      "summary": "‘Coalition of the willing’ gathers in Colombia to try to bypass petrostate blockages of Cop summits and chart fresh path The world’s first Transitioning Away from Fossil Fuels conference, co-hosted by Colombia and the Netherlands, takes..."
-    },
-    {
-      "char": "🎗️",
-      "label": "netanyahu's cancer treatment revealed",
-      "url": "https://www.nytimes.com/2026/04/24/world/middleeast/netanyahu-cancer-treatment.html",
-      "title": "Netanyahu Reveals He Had Prostate Cancer and Underwent Radiation Therapy",
-      "summary": "The Israeli leader had surgery in 2024 for an enlarged prostate. More recently, follow-up care detected a tumor, his office disclosed on Friday."
-    },
-    {
-      "char": "🛡️",
-      "label": "nato's future without the us",
-      "url": "https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html",
-      "title": "Europeans Ask: What Would It Mean to Defend One Another Without NATO?",
-      "summary": "European Union nations have a little-known obligation to protect one another. Experts caution it is no replacement for NATO."
-    },
-    {
-      "char": "🦥",
-      "label": "sloth deaths in florida attraction",
-      "url": "https://www.theguardian.com/us-news/2026/apr/24/florida-sloth-deaths-tourist-attraction",
-      "title": "Florida officials investigate planned ‘Sloth World’ attraction after 31 sloths die in warehouse",
-      "summary": "Languorous tree dwellers from Guyana and Peru died from ‘cold stun’ in warehouse with no power or running water Sign up for the Breaking News US newsletter email Wildlife officials in Florida said in a newly released report that dozens o..."
-    },
-    {
-      "char": "🐘",
-      "label": "millionaire hunter dies by elephants",
-      "url": "https://www.theguardian.com/us-news/2026/apr/24/millionaire-hunter-dies-elephants-gabon",
-      "title": "US millionaire big-game hunter dies after being crushed by elephants",
-      "summary": "Ernie Dosio, a 75-year-old vineyard owner, was hunting an antelope species in Africa when the incident occured Sign up for the Breaking News US email to get newsletter alerts in your inbox An American millionaire big-game hunter has died..."
-    },
-    {
-      "char": "🇧🇷",
-      "label": "brazil tightens betting rules",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOTFwVEozdUNmWkhTOWFNbjJTaGRKYjloYXU4d3RIVVA0SlVmOV80T0FTU2JKNGw5djRvV1dKejFmV1JSVnNRMWlpaEVPcW00NE5Hdkg5cWQxemZ2eWNqS3QtZzdlcnpZejBLUV9ZeUJ6SUpiR2Y1V1E1ZUlnMEtUQUpTLUlxdEgwd1poWFp6bEMydzVFZnlvc0JCNmppSGFxZndnb3ZZLXlIczV6aFU3TDVvWm5LOWNtdDJVRzRNNUw?oc=5",
-      "title": "Brazil blocks prediction platforms, tightens rules to curb 'bet-like' products - Reuters",
-      "summary": "Brazil blocks prediction platforms, tightens rules to curb 'bet-like' products Reuters"
-    },
-    {
-      "char": "🇬🇧",
-      "label": "uk stance on falklands unchanged",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo",
-      "title": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
-      "summary": "Internal email proposes US should reassess support for UK claim to islands because of lack of support for Iran war UK politics live – latest updates Downing Street has been forced to insist that Britain will not yield sovereignty over th..."
-    },
-    {
-      "char": "🌊",
-      "label": "everest flood warning system neglected",
-      "url": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss",
-      "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
-      "summary": "The flood warning system at Imja glacial lake has not been maintained since 2016, fearful locals tell BBC."
-    },
-    {
-      "char": "🔥",
-      "label": "climate change threatens democracy",
-      "url": "https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
-      "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
-      "summary": "Research shows natural hazards linked to climate crisis disrupted 23 elections in 18 countries in 2024 Democracy is under mounting threat from the climate crisis, with new analysis documenting how elections are increasingly shaped not on..."
-    },
-    {
-      "char": "🇯🇵",
-      "label": "japan's new care workers trend",
-      "url": "https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html",
-      "title": "Japan’s New Care Workers: Bodybuilders, Wrestlers and M.M.A. Fighters",
-      "summary": "Young athletes are being recruited to plug a staff shortage in Japan’s nursing homes. The results are reshaping elder care."
-    },
-    {
-      "char": "🌍",
-      "label": "global talks on fossil fuels",
-      "url": "https://www.theguardian.com/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia",
-      "title": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
-      "summary": "‘Coalition of the willing’ gathers in Colombia to try to bypass petrostate blockages of Cop summits and chart fresh path The world’s first Transitioning Away from Fossil Fuels conference, co-hosted by Colombia and the Netherlands, takes..."
-    },
-    {
-      "char": "🇺🇸",
-      "label": "afghans sent to congo",
-      "url": "https://www.theguardian.com/us-news/2026/apr/21/afghan-refugees-us-congo",
-      "title": "Trump officials consider sending 1,100 Afghans who aided US forces to Congo",
-      "summary": "Discussions reportedly come after Trump’s decision to stop initiative that allowed group to apply to resettle in the US The Trump administration is in discussions to potentially send up to 1,100 Afghans who helped US forces during the wa..."
-    },
-    {
-      "char": "🦥",
-      "label": "sloth deaths in florida",
-      "url": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
-      "title": "31 sloths die in Florida before opening of attraction",
-      "summary": "Many died due to conditions at a Florida warehouse where they'd been shipped, while others arrived from South America dead, authorities say."
-    },
-    {
-      "char": "🐘",
-      "label": "hunter dies from elephants",
-      "url": "https://www.theguardian.com/us-news/2026/apr/24/millionaire-hunter-dies-elephants-gabon",
-      "title": "US millionaire big-game hunter dies after being crushed by elephants",
-      "summary": "Ernie Dosio, a 75-year-old vineyard owner, was hunting an antelope species in Africa when the incident occured Sign up for the Breaking News US email to get newsletter alerts in your inbox An American millionaire big-game hunter has died..."
-    },
-    {
-      "char": "🌊",
-      "label": "coral reefs and soundtracks",
-      "url": "https://www.theguardian.com/environment/2026/apr/24/coral-reefs-jamaica",
-      "title": "Soundtrack of the sea: divers use underwater speakers to help dying coral reefs",
-      "summary": "Divers are installing waterproof speakers in the ocean to help pull a coral reef near Jamaica back from the brink The northern coast of Jamaica once served as the backdrop for scenes in the James Bond thriller No Time to Die. But today,..."
-    },
-    {
-      "char": "🇬🇧",
-      "label": "uk lords block assisted dying bill",
-      "url": "https://www.nytimes.com/2026/04/24/world/europe/uk-assisted-dying-bill-lords.html",
-      "title": "In Britain, 7 Unelected Lords Help Block an Assisted Dying Bill",
-      "summary": "A small group in the House of Lords proposed hundreds of amendments that helped stymie a bill that was meant to legalize medically assisted death for the terminally ill."
-    },
-    {
-      "char": "🌍",
-      "label": "climate change threatens democracy",
-      "url": "https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
-      "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
-      "summary": "Research shows natural hazards linked to climate crisis disrupted 23 elections in 18 countries in 2024 Democracy is under mounting threat from the climate crisis, with new analysis documenting how elections are increasingly shaped not on..."
-    },
-    {
-      "char": "🦥",
-      "label": "thirty-one sloths die in florida",
+      "char": "🦙",
+      "label": "sloths die before attraction opens",
       "url": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
       "title": "Thirty-one sloths die in Florida before opening of attraction",
       "summary": "Many died due to conditions at a warehouse they'd been shipped to, while others arrived dead, authorities say."
     },
     {
-      "char": "🐘",
-      "label": "millionaire hunter dies by elephants",
-      "url": "https://www.theguardian.com/us-news/2026/apr/24/millionaire-hunter-dies-elephants-gabon",
-      "title": "US millionaire big-game hunter dies after being crushed by elephants",
-      "summary": "Ernie Dosio, a 75-year-old vineyard owner, was hunting an antelope species in Africa when the incident occured Sign up for the Breaking News US email to get newsletter alerts in your inbox An American millionaire big-game hunter has died..."
-    },
-    {
-      "char": "🧪",
-      "label": "discovery could save children from noma",
+      "char": "🌍",
+      "label": "discovery to save children from disease",
       "url": "https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria",
       "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
       "summary": "A previously unknown species of bacteria found in patients with noma could be key to creating treatments for the neglected tropical disease The “astonishing” discovery of a new bacteria could open the door to better ways to prevent, dete..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "Today's news highlights numerous tragic events, including the deaths of sloths and the challenges faced by vulnerable populations in conflict zones. The overall emotional tone is one of sadness and concern.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
