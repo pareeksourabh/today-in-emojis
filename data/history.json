@@ -37927,5 +37927,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-27",
+    "emojis": [
+      {
+        "char": "🇬🇧",
+        "label": "king charles us visit",
+        "url": "https://www.nytimes.com/2026/04/27/world/europe/king-charles-us-visit-uk-relations.html",
+        "title": "King Charles Is Coming to the U.S. at a Very Delicate Time",
+        "summary": "Not since his mother, Queen Elizabeth II, traveled to Washington after the Suez Crisis has a visit by the British monarch come at such a fraught point in Anglo-American relations."
+      },
+      {
+        "char": "💰",
+        "label": "iran war drives up power prices",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMG1vMGszUnhJWmVHaUtuSU1EM3pnV2JDRHU1NzRhUFd0TlpFbVZFVnpScl8yQmJ6NUY0Ql9pbVNQWjR2bXhKMVE2WVAtM0dEbFVZQnZuVnI2ay1HSHRsRE12SEQxLTYxQW9QYXBkR19BQ2ZkVlVDcmQ2QXpOcG9JbnJFUUxlNmNGamFuRERNVloybF9hbHczdWw3RVNBRkhWOHFpNjBCREFsWkpkVUIybzBSb1A1MDJUUWpQYUoyeUJrdnlia3ZKM0NjSQ?oc=5",
+        "title": "Renewables in vogue as Iran war drives up Europe power prices - Reuters",
+        "summary": "Renewables in vogue as Iran war drives up Europe power prices Reuters"
+      },
+      {
+        "char": "🎓",
+        "label": "pakistan attacks afghan university",
+        "url": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss",
+        "title": "Pakistan accused of attacking Afghan university",
+        "summary": "Air attacks on the province of Kunar have killed at least seven people and injured 75, sources tell the BBC."
+      },
+      {
+        "char": "💣",
+        "label": "bomb blast in colombia",
+        "url": "https://www.theguardian.com/world/2026/apr/27/bomb-pan-american-highway-colombia-casualties-dead-ahead-may-elections",
+        "title": "Bomb blast on Colombia highway leaves at least 20 dead ahead of May elections",
+        "summary": "Dissident Farc faction blamed for attack on Pan-American Highway that also injured 36 people in south-western region The death toll in a weekend highway bombing in Colombia has risen to 20, with another 36 people injured, amid a surge of..."
+      },
+      {
+        "char": "⚔️",
+        "label": "mali defence minister killed",
+        "url": "https://www.theguardian.com/world/2026/apr/26/mali-defence-minister-killed-amid-flurry-of-insurgent-attacks",
+        "title": "Mali defence minister killed amid flurry of insurgent attacks",
+        "summary": "Car bomb kills Sadio Camara at home during coordinated assaults by rebel groups including West African al-Qaida affiliate Mali’s defence minister was killed in an attack on his residence, the government said on Sunday, a high-profile fat..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
