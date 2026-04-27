@@ -1,41 +1,41 @@
 {
   "date": "2026-04-27",
-  "timestamp": "2026-04-27T00:00:00Z",
+  "timestamp": "2026-04-27T10:20:33Z",
   "emojis": [
     {
-      "char": "🛢️",
-      "label": "oil prices rise as us-iran talks stall",
-      "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
-      "title": "Oil prices rise as US-Iran peace talks stall",
-      "summary": "President Trump said on Saturday that the US had cancelled plans to send a team to Pakistan for negotiations."
-    },
-    {
-      "char": "🇭🇺",
-      "label": "hungary's former ruling party licks wounds",
-      "url": "https://www.nytimes.com/2026/04/25/world/europe/viktor-orban-fidesz.html",
-      "title": "Crushed at the Polls, Hungary’s Former Ruling Party Licks Its Wounds",
-      "summary": "Viktor Orban, who helped found the Fidesz party, said he would leave his Parliament seat but hoped to remain as head of his party."
-    },
-    {
-      "char": "🌲",
-      "label": "nova scotia's woods ban ruled out",
-      "url": "https://www.theguardian.com/world/2026/apr/25/canada-nova-scotia-wildfire-woods-ban",
-      "title": "What counts as the woods? Judge axes Nova Scotia’s ban that defied ‘commonsense definitions’",
-      "summary": "The court sided with a Canadian hiker who deliberately challenged the order imposed to curb spread of wildfires As wildfires raged across Nova Scotia last summer, the Canadian province made a simple plea to residents: stay away from the..."
+      "char": "🇮🇱",
+      "label": "israel and hezbollah trade strikes",
+      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html",
+      "title": "Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold",
+      "summary": "Cease-fires in Lebanon and Iran are on shaky ground, with military attacks flaring and direct talks between Washington and Tehran to end their war stalled."
     },
     {
       "char": "💰",
-      "label": "us mint buys drug cartel gold",
+      "label": "us mint buys cartel gold",
       "url": "https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html",
       "title": "U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’",
       "summary": "As prices for the precious metal soar, the industry’s guardrails have broken down."
     },
     {
       "char": "⚔️",
-      "label": "attacks across mali by militants",
+      "label": "militants attack across mali",
       "url": "https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali",
       "title": "Militants and separatists launch coordinated attacks across Mali",
       "summary": "Al-Qaida-linked group JNIM claims responsibility for strikes on airport in capital, Bamako and four other cities Islamic militants and separatists attacked several locations in Mali’s capital and other cities on Saturday in one of the la..."
+    },
+    {
+      "char": "🚤",
+      "label": "us strike on narco boat",
+      "url": "https://www.theguardian.com/us-news/2026/apr/27/us-three-killed-boat-alleged-narco-eastern-pacific",
+      "title": "US strike kills three on alleged narco boat as campaign death toll hits 185",
+      "summary": "Military video shows boat moving swiftly in water before explosion leaves it in flames The US military said on Sunday three men were killed when it struck a boat it claimed was “engaged in narco-trafficking operations” in the Eastern Pac..."
+    },
+    {
+      "char": "🌧️",
+      "label": "flooding fears in southern china",
+      "url": "https://www.theguardian.com/environment/2026/apr/27/weather-tracker-torrential-rain-southern-china-flooding-fears-india-heatwave-canada-cold",
+      "title": "Weather tracker: Torrential rain in southern China leads to flooding fears",
+      "summary": "Heatwaves reach 45C across India as unseasonably cold weather affects parts of central Canada Widespread heavy rain is sweeping over southern China. By Wednesday, rainfall totals are expected to exceed 100mm across many parts of Guangxi,..."
     }
   ],
   "source": "ai-openai",
