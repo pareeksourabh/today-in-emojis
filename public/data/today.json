@@ -1,204 +1,43 @@
 {
-  "date": "2026-04-26",
-  "timestamp": "2026-04-26T00:00:00Z",
+  "date": "2026-04-27",
+  "timestamp": "2026-04-27T00:00:00Z",
   "emojis": [
     {
-      "char": "💰",
-      "label": "trump's bond purchases revealed",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX0xRdkVkVzZzc0JxU0pRN0d5V1R0dU5xWlJZdGhsQWFoLVBHZmctczgwNndnRWNRRkd6VjFfenEza1RmRDZSbDlMS2p4SjBTUUUtendkRTA2V2VORFZYOGt1T3N0TFdNanF5MzBFSjJ3M1JqLXFyU3hUS0xvYThmWWROd2JnS0RuSlcyTTJ5dDZ6R09FR1NQaU5TZ3o1cnlrN0g0X1lfTGpQMHl1TTExcw?oc=5",
-      "title": "Trump bought at least $51 million in bonds in March, disclosure shows - Reuters",
-      "summary": "Trump bought at least $51 million in bonds in March, disclosure shows Reuters"
-    },
-    {
-      "char": "⚔️",
-      "label": "coordinated attacks in mali",
-      "url": "https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali",
-      "title": "Militants and separatists launch coordinated attacks across Mali",
-      "summary": "Al-Qaida-linked group JNIM claims responsibility for strikes on airport in capital, Bamako and four other cities Islamic militants and separatists attacked several locations in Mali’s capital and other cities on Saturday in one of the la..."
-    },
-    {
-      "char": "🚨",
-      "label": "openai's apology after shooting",
-      "url": "https://www.theguardian.com/us-news/2026/apr/25/altman-apologizes-after-openai-failed-to-alert-police-before-fatal-canada-shooting",
-      "title": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting",
-      "summary": "OpenAI said the company had identified an account using abuse-detection efforts, but determined at the time it didn’t meet threshold for legal referral The head of OpenAI has written a letter apologizing that his company didn’t alert law..."
-    },
-    {
-      "char": "🦙",
-      "label": "sloths die before attraction opens",
-      "url": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
-      "title": "Thirty-one sloths die in Florida before opening of attraction",
-      "summary": "Many died due to conditions at a warehouse they'd been shipped to, while others arrived dead, authorities say."
-    },
-    {
-      "char": "🌍",
-      "label": "discovery to save children from disease",
-      "url": "https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria",
-      "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
-      "summary": "A previously unknown species of bacteria found in patients with noma could be key to creating treatments for the neglected tropical disease The “astonishing” discovery of a new bacteria could open the door to better ways to prevent, dete..."
-    },
-    {
-      "char": "📰",
-      "label": "yalda hakim on seeing is believing",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM0xRQlRTWUtETy1aLUFjX2lIRE9KbjVoREJ1bzYzWmVWbGdsdExFZkZ5bUhvWTVPQ241QWZwSXYyTTNxblU0emV4VGhGYU1aZmhtd2NTb2xoTTh5VE5DLTM1MHhNR1dTLWRuNWlSM1lfUEFKcnhXWHVlekozbTQ2WVZvY1F1RUFycnRyLWZURjBaZ1FxaGo1ek84THBNQVFZVnRhWg?oc=5",
-      "title": "Yalda Hakim on the collapse of ‘seeing is believing’ - Reuters",
-      "summary": "Yalda Hakim on the collapse of ‘seeing is believing’ Reuters"
-    },
-    {
-      "char": "💣",
-      "label": "russian forces attack dnipro killing 10",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGx1b3BuN3Vpd25tT2lxZ1VBTVdNTU1pbnJ5WWo4RGVSV01PR2Q3UzlCZkVCV0FxSWZYWmdPYjVnR2piRHhJdERPT19ULTV3Y2lmc1ZiemlPMUJzMlNZT095NUpVdXhEUWN5NzczaVhpWmZ0NHhQTmJvMmxXbzFsSE5zNTBISjV3c0VXaVQ0MGl6VlA0WkNBdFhlZkVRNzhHd0twbw?oc=5",
-      "title": "Russian forces pound Ukraine's Dnipro, other areas, killing 10 people - Reuters",
-      "summary": "Russian forces pound Ukraine's Dnipro, other areas, killing 10 people Reuters"
-    },
-    {
-      "char": "🏴‍☠️",
-      "label": "coordinated attacks across mali",
-      "url": "https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali",
-      "title": "Militants and separatists launch coordinated attacks across Mali",
-      "summary": "Al-Qaida-linked group JNIM claims responsibility for strikes on airport in capital, Bamako and four other cities Islamic militants and separatists attacked several locations in Mali’s capital and other cities on Saturday in one of the la..."
-    },
-    {
-      "char": "⚖️",
-      "label": "uk position on falklands unchanged",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo",
-      "title": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
-      "summary": "Internal email proposes US should reassess support for UK claim to islands because of lack of support for Iran war UK politics live – latest updates Downing Street has been forced to insist that Britain will not yield sovereignty over th..."
-    },
-    {
-      "char": "🌊",
-      "label": "us military kills in pacific strike",
-      "url": "https://www.theguardian.com/us-news/2026/apr/24/us-military-strike-boat-pacific",
-      "title": "US military kills two more people in strike on alleged drug boat in Pacific",
-      "summary": "Small boat destroyed in video posted on social media as US campaign has killed at least 178 people since September The US military announced on Friday that it killed two people in an attack on a boat in the eastern Pacific, part of a ser..."
+      "char": "📈",
+      "label": "goldman sachs raises oil forecasts",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFVLaDdMSWhvNFk4d0FlZkM3d3lTRUxtUXRYU3VSZ2dzbEpuRGx5MUpMVUpEOW1DcDIteTFhSGtlRm03dmFyOVZQT3V6aElON0UyZlFRUU0xQmROb3IzaHZJVlZTNVBOSWlSRXl1OWdSSS1Uc1F2YUJUd3p4eGhjRDgwbVk5aENZcUxKQTA0cmgwdmJfci1QcWlka0NnRlpkLTlDZG50STA?oc=5",
+      "title": "Goldman Sachs raises oil price forecasts on tight supply - Reuters",
+      "summary": "Goldman Sachs raises oil price forecasts on tight supply Reuters"
     },
     {
       "char": "🇭🇺",
-      "label": "orban steps down after defeat",
-      "url": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
-      "title": "Orbán steps down from Hungarian parliament after landslide defeat",
-      "summary": "The outgoing prime minister will not take up his seat after leading his party back into opposition."
-    },
-    {
-      "char": "💣",
-      "label": "russian forces attack ukraine",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGx1b3BuN3Vpd25tT2lxZ1VBTVdNTU1pbnJ5WWo4RGVSV01PR2Q3UzlCZkVCV0FxSWZYWmdPYjVnR2piRHhJdERPT19ULTV3Y2lmc1ZiemlPMUJzMlNZT095NUpVdXhEUWN5NzczaVhpWmZ0NHhQTmJvMmxXbzFsSE5zNTBISjV3c0VXaVQ0MGl6VlA0WkNBdFhlZkVRNzhHd0twbw?oc=5",
-      "title": "Russian forces pound Ukraine's Dnipro, other areas, killing 10 people - Reuters",
-      "summary": "Russian forces pound Ukraine's Dnipro, other areas, killing 10 people Reuters"
-    },
-    {
-      "char": "🎨",
-      "label": "nieves gonzalez painting fame",
-      "url": "https://www.nytimes.com/2026/04/26/world/europe/nieves-gonzalez-lily-allen-artist-west-end-girl-spain.html",
-      "title": "How Nieves González’s Painting of Lily Allen Made Her Famous",
-      "summary": "Nieves González, a 29-year-old painter, once worked in relative obscurity in Andalusia. Her picture of the British singer Lily Allen changed that."
-    },
-    {
-      "char": "🌍",
-      "label": "attacks across mali",
-      "url": "https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali",
-      "title": "Militants and separatists launch coordinated attacks across Mali",
-      "summary": "Al-Qaida-linked group JNIM claims responsibility for strikes on airport in capital, Bamako and four other cities Islamic militants and separatists attacked several locations in Mali’s capital and other cities on Saturday in one of the la..."
-    },
-    {
-      "char": "🛡️",
-      "label": "us military strike on drug boat",
-      "url": "https://www.theguardian.com/us-news/2026/apr/24/us-military-strike-boat-pacific",
-      "title": "US military kills two more people in strike on alleged drug boat in Pacific",
-      "summary": "Small boat destroyed in video posted on social media as US campaign has killed at least 178 people since September The US military announced on Friday that it killed two people in an attack on a boat in the eastern Pacific, part of a ser..."
-    },
-    {
-      "char": "🇬🇧",
-      "label": "uk stance on falklands remains unchanged",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo",
-      "title": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
-      "summary": "Internal email proposes US should reassess support for UK claim to islands because of lack of support for Iran war UK politics live – latest updates Downing Street has been forced to insist that Britain will not yield sovereignty over th..."
-    },
-    {
-      "char": "🇭🇺",
-      "label": "hungary's ruling party faces defeat aftermath",
+      "label": "hungary's ruling party licks wounds",
       "url": "https://www.nytimes.com/2026/04/25/world/europe/viktor-orban-fidesz.html",
       "title": "Crushed at the Polls, Hungary’s Former Ruling Party Licks Its Wounds",
-      "summary": "Outgoing prime minister, Viktor Orban, who helped found the Fidesz party, said he would leave his Parliament seat but hoped to remain as head of his party."
+      "summary": "Viktor Orban, who helped found the Fidesz party, said he would leave his Parliament seat but hoped to remain as head of his party."
+    },
+    {
+      "char": "🇮🇱",
+      "label": "israel's president delays netanyahu pardon",
+      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
+      "title": "Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal",
+      "summary": "President Isaac Herzog of Israel has decided not to issue a pardon to Prime Minister Benjamin Netanyahu in his corruption case at this time, and instead will seek mediation, officials say."
     },
     {
       "char": "🔫",
-      "label": "openai's apology after canada shooting",
-      "url": "https://www.theguardian.com/us-news/2026/apr/25/altman-apologizes-after-openai-failed-to-alert-police-before-fatal-canada-shooting",
-      "title": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting",
-      "summary": "OpenAI said the company had identified an account using abuse-detection efforts, but determined at the time it didn’t meet threshold for legal referral The head of OpenAI has written a letter apologizing that his company didn’t alert law..."
+      "label": "trump likely target of press dinner shooting",
+      "url": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
+      "summary": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said."
     },
     {
-      "char": "🐾",
-      "label": "31 sloths die before florida attraction opens",
-      "url": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
-      "title": "Thirty-one sloths die in Florida before opening of attraction",
-      "summary": "Many died due to conditions at a warehouse they'd been shipped to, while others arrived dead, authorities say."
-    },
-    {
-      "char": "🌍",
-      "label": "coordinated attacks across mali reported",
-      "url": "https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali",
-      "title": "Militants and separatists launch coordinated attacks across Mali",
-      "summary": "Al-Qaida-linked group JNIM claims responsibility for strikes on airport in capital, Bamako and four other cities Islamic militants and separatists attacked several locations in Mali’s capital and other cities on Saturday in one of the la..."
-    },
-    {
-      "char": "🧬",
-      "label": "discovery aids children with noma",
-      "url": "https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria",
-      "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
-      "summary": "A previously unknown species of bacteria found in patients with noma could be key to creating treatments for the neglected tropical disease The “astonishing” discovery of a new bacterium could open the door to better ways to prevent, det..."
-    },
-    {
-      "char": "⚖️",
-      "label": "iran and us in no war, no peace limbo",
-      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
-      "title": "Iran and U.S. Sink Into Awkward Limbo of ‘No War, No Peace’",
-      "summary": "Each side is betting it can last longer than the other, analysts say. But there are risks in a stalemate without a deal."
-    },
-    {
-      "char": "🔫",
-      "label": "openai's failure linked to canada shooting",
-      "url": "https://www.theguardian.com/us-news/2026/apr/25/altman-apologizes-after-openai-failed-to-alert-police-before-fatal-canada-shooting",
-      "title": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting",
-      "summary": "OpenAI said the company had identified an account using abuse-detection efforts, but determined at the time it didn’t meet threshold for legal referral The head of OpenAI has written a letter apologizing that his company didn’t alert law..."
-    },
-    {
-      "char": "💰",
-      "label": "us mint buys gold from drug cartels",
-      "url": "https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html",
-      "title": "U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’",
-      "summary": "As prices for the precious metal soar, the industry’s guardrails have broken down."
-    },
-    {
-      "char": "🌍",
-      "label": "islamabad reopens after failed talks",
-      "url": "https://www.nytimes.com/2026/04/26/world/asia/islamabad-talks-iran-us.html",
-      "title": "Islamabad Reopens After U.S.-Iran Talks Fail to Materialize",
-      "summary": "Officials had locked the city down, anticipating talks between U.S. and Iranian delegations. But they didn’t happen. “What did I close my business for?” one business owner asked."
+      "char": "👑",
+      "label": "king charles and camilla's us visit",
+      "url": "https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html",
+      "title": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
+      "summary": "The British royals are set to arrive on Monday for a visit hosted by President Trump, with a garden party, an address to Congress and a banquet on the schedule."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "Today's news is filled with tragic events, including loss of life in conflicts and the death of sloths due to poor conditions, evoking a profound sense of sadness.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
