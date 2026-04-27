@@ -37795,5 +37795,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-27",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israel's president delays netanyahu pardon",
+        "url": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
+        "title": "Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal",
+        "summary": "President Isaac Herzog of Israel has decided not to issue a pardon to Prime Minister Benjamin Netanyahu in his corruption case at this time, and instead will seek mediation, officials say."
+      },
+      {
+        "char": "💰",
+        "label": "colombia cartel mine found on military base",
+        "url": "https://www.nytimes.com/2026/04/26/world/americas/colombia-cartel-illegal-gold-mining-military-base.html",
+        "title": "What Happened After The New York Times Found a Cartel Mine on a Colombian Military Base",
+        "summary": "Officers denied that an illegal, large-scale gold operation was underway within earshot of their posts. But we had seen it with our own eyes."
+      },
+      {
+        "char": "⚖️",
+        "label": "venezuela prisoner release scheme ends",
+        "url": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
+        "title": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
+        "summary": "More than 500 political prisoners are thought to still be in jail, despite the releases since the amnesty law was brought in."
+      },
+      {
+        "char": "🇭🇺",
+        "label": "hungary's orbán steps down after defeat",
+        "url": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
+        "title": "Orbán steps down from Hungarian parliament after landslide defeat",
+        "summary": "The outgoing prime minister will not take up his seat after leading his party back into opposition."
+      },
+      {
+        "char": "💔",
+        "label": "british woman dies in ghana scam attempt",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
+        "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
+        "summary": "Janet Fordham died in crash after travelling to see man who claimed he would help to recover money from earlier scams A British woman who was scammed out of up to £1m in a string of so-called romance frauds died in a road crash after tra..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
