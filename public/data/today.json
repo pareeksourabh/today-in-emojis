@@ -1,43 +1,204 @@
 {
   "date": "2026-04-27",
-  "timestamp": "2026-04-27T17:13:35Z",
+  "timestamp": "2026-04-27T00:00:00Z",
   "emojis": [
     {
-      "char": "🇬🇧",
+      "char": "📈",
+      "label": "goldman sachs raises oil forecasts",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFVLaDdMSWhvNFk4d0FlZkM3d3lTRUxtUXRYU3VSZ2dzbEpuRGx5MUpMVUpEOW1DcDIteTFhSGtlRm03dmFyOVZQT3V6aElON0UyZlFRUU0xQmROb3IzaHZJVlZTNVBOSWlSRXl1OWdSSS1Uc1F2YUJUd3p4eGhjRDgwbVk5aENZcUxKQTA0cmgwdmJfci1QcWlka0NnRlpkLTlDZG50STA?oc=5",
+      "title": "Goldman Sachs raises oil price forecasts on tight supply - Reuters",
+      "summary": "Goldman Sachs raises oil price forecasts on tight supply Reuters"
+    },
+    {
+      "char": "🇭🇺",
+      "label": "hungary's ruling party licks wounds",
+      "url": "https://www.nytimes.com/2026/04/25/world/europe/viktor-orban-fidesz.html",
+      "title": "Crushed at the Polls, Hungary’s Former Ruling Party Licks Its Wounds",
+      "summary": "Viktor Orban, who helped found the Fidesz party, said he would leave his Parliament seat but hoped to remain as head of his party."
+    },
+    {
+      "char": "🇮🇱",
+      "label": "israel's president delays netanyahu pardon",
+      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
+      "title": "Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal",
+      "summary": "President Isaac Herzog of Israel has decided not to issue a pardon to Prime Minister Benjamin Netanyahu in his corruption case at this time, and instead will seek mediation, officials say."
+    },
+    {
+      "char": "🔫",
+      "label": "trump likely target of press dinner shooting",
+      "url": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
+      "summary": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said."
+    },
+    {
+      "char": "👑",
+      "label": "king charles and camilla's us visit",
+      "url": "https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html",
+      "title": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
+      "summary": "The British royals are set to arrive on Monday for a visit hosted by President Trump, with a garden party, an address to Congress and a banquet on the schedule."
+    },
+    {
+      "char": "🪖",
+      "label": "militants attack in mali",
+      "url": "https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali",
+      "title": "Militants and separatists launch coordinated attacks across Mali",
+      "summary": "Al-Qaida-linked group JNIM claims responsibility for strikes on airport in capital, Bamako and four other cities Islamic militants and separatists attacked several locations in Mali’s capital and other cities on Saturday in one of the la..."
+    },
+    {
+      "char": "👑",
       "label": "king charles us visit",
-      "url": "https://www.nytimes.com/2026/04/27/world/europe/king-charles-us-visit-uk-relations.html",
-      "title": "King Charles Is Coming to the U.S. at a Very Delicate Time",
-      "summary": "Not since his mother, Queen Elizabeth II, traveled to Washington after the Suez Crisis has a visit by the British monarch come at such a fraught point in Anglo-American relations."
+      "url": "https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html",
+      "title": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
+      "summary": "The British royals are set to arrive on Monday for a visit hosted by President Trump, with a garden party, an address to Congress and a banquet on the schedule."
+    },
+    {
+      "char": "⚖️",
+      "label": "iran us no war no peace",
+      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
+      "title": "Iran and U.S. Sink Into Awkward Limbo of ‘No War, No Peace’",
+      "summary": "Each side is betting it can last longer than the other, analysts say. But there are risks in a stalemate without a deal."
+    },
+    {
+      "char": "🚤",
+      "label": "us military strike narco boat",
+      "url": "https://www.theguardian.com/us-news/2026/apr/24/us-military-strike-boat-pacific",
+      "title": "US military kills two more people in strike on alleged drug boat in Pacific",
+      "summary": "Small boat destroyed in video posted on social media as US campaign has killed at least 178 people since September The US military announced on Friday that it killed two people in an attack on a boat in the eastern Pacific, part of a ser..."
+    },
+    {
+      "char": "🔬",
+      "label": "discovery for noma disease",
+      "url": "https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria",
+      "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
+      "summary": "A previously unknown species of bacteria found in patients with noma could be key to creating treatments for the neglected tropical disease The “astonishing” discovery of a new bacterium could open the door to better ways to prevent, det..."
+    },
+    {
+      "char": "🛢️",
+      "label": "oil prices rise as us-iran talks stall",
+      "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
+      "title": "Oil prices rise as US-Iran peace talks stall",
+      "summary": "President Trump said on Saturday that the US had cancelled plans to send a team to Pakistan for negotiations."
+    },
+    {
+      "char": "🇭🇺",
+      "label": "hungary's former ruling party licks wounds",
+      "url": "https://www.nytimes.com/2026/04/25/world/europe/viktor-orban-fidesz.html",
+      "title": "Crushed at the Polls, Hungary’s Former Ruling Party Licks Its Wounds",
+      "summary": "Viktor Orban, who helped found the Fidesz party, said he would leave his Parliament seat but hoped to remain as head of his party."
+    },
+    {
+      "char": "🌲",
+      "label": "nova scotia's woods ban ruled out",
+      "url": "https://www.theguardian.com/world/2026/apr/25/canada-nova-scotia-wildfire-woods-ban",
+      "title": "What counts as the woods? Judge axes Nova Scotia’s ban that defied ‘commonsense definitions’",
+      "summary": "The court sided with a Canadian hiker who deliberately challenged the order imposed to curb spread of wildfires As wildfires raged across Nova Scotia last summer, the Canadian province made a simple plea to residents: stay away from the..."
     },
     {
       "char": "💰",
-      "label": "iran war drives up power prices",
+      "label": "us mint buys drug cartel gold",
+      "url": "https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html",
+      "title": "U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’",
+      "summary": "As prices for the precious metal soar, the industry’s guardrails have broken down."
+    },
+    {
+      "char": "⚔️",
+      "label": "attacks across mali by militants",
+      "url": "https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali",
+      "title": "Militants and separatists launch coordinated attacks across Mali",
+      "summary": "Al-Qaida-linked group JNIM claims responsibility for strikes on airport in capital, Bamako and four other cities Islamic militants and separatists attacked several locations in Mali’s capital and other cities on Saturday in one of the la..."
+    },
+    {
+      "char": "⚡",
+      "label": "renewables surge in europe amid war",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMG1vMGszUnhJWmVHaUtuSU1EM3pnV2JDRHU1NzRhUFd0TlpFbVZFVnpScl8yQmJ6NUY0Ql9pbVNQWjR2bXhKMVE2WVAtM0dEbFVZQnZuVnI2ay1HSHRsRE12SEQxLTYxQW9QYXBkR19BQ2ZkVlVDcmQ2QXpOcG9JbnJFUUxlNmNGamFuRERNVloybF9hbHczdWw3RVNBRkhWOHFpNjBCREFsWkpkVUIybzBSb1A1MDJUUWpQYUoyeUJrdnlia3ZKM0NjSQ?oc=5",
       "title": "Renewables in vogue as Iran war drives up Europe power prices - Reuters",
       "summary": "Renewables in vogue as Iran war drives up Europe power prices Reuters"
     },
     {
-      "char": "🎓",
-      "label": "pakistan attacks afghan university",
-      "url": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss",
-      "title": "Pakistan accused of attacking Afghan university",
-      "summary": "Air attacks on the province of Kunar have killed at least seven people and injured 75, sources tell the BBC."
+      "char": "🇲🇱",
+      "label": "mali's defense minister killed in attacks",
+      "url": "https://www.theguardian.com/world/2026/apr/27/mali-attacks-insurgents-seize-towns-kill-defence-minister",
+      "title": "Mali in turmoil after insurgents seize towns and kill defence minister",
+      "summary": "Military intelligence chief reportedly also killed in sweeping attacks by jihadists and separatist rebels Mali has been left reeling from sweeping attacks by jihadists and separatist rebels who seized several towns and military bases and..."
+    },
+    {
+      "char": "💰",
+      "label": "canada's gold traced to drug cartels",
+      "url": "https://www.nytimes.com/2026/04/27/world/americas/royal-canadian-mint-gold-drug-cartel-colombia.html",
+      "title": "Canada Says Its Gold Is Traceable and Clean. So We Traced It.",
+      "summary": "We ended up in a Colombian mine controlled by a drug cartel."
     },
     {
       "char": "💣",
-      "label": "bomb blast in colombia",
+      "label": "bomb blast in colombia ahead of elections",
       "url": "https://www.theguardian.com/world/2026/apr/27/bomb-pan-american-highway-colombia-casualties-dead-ahead-may-elections",
       "title": "Bomb blast on Colombia highway leaves at least 20 dead ahead of May elections",
       "summary": "Dissident Farc faction blamed for attack on Pan-American Highway that also injured 36 people in south-western region The death toll in a weekend highway bombing in Colombia has risen to 20, with another 36 people injured, amid a surge of..."
     },
     {
+      "char": "👑",
+      "label": "king charles aims to mend us-uk ties",
+      "url": "https://www.nytimes.com/2026/04/27/world/europe/king-charles-us-visit-uk-relations.html",
+      "title": "Can King Charles Help Heal the U.S.-British Rupture?",
+      "summary": "Not since his mother, Queen Elizabeth II, traveled to Washington after the Suez Crisis has a visit by the British monarch come at such a fraught time in Anglo-American relations."
+    },
+    {
+      "char": "💧",
+      "label": "42 killed in Chad over water dispute",
+      "url": "https://www.bbc.com/news/articles/cr717plvxvgo?at_medium=RSS&at_campaign=rss",
+      "title": "At least 42 killed in Chad after water well dispute escalates",
+      "summary": "The dispute was initially between two families before escalating into a cycle of reprisal attacks."
+    },
+    {
+      "char": "🤖",
+      "label": "Google to build AI campus in South Korea",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTHNXa2ZaRVI5TE9YSWR5TUlaUE8tdV9tcnFURjRXYkJ3T3RFdGphMGJmN2plLU9hUjJZSzN2Vl9WSDhiWGRsNDRrTHV1ajBUMDdkV1plMUxYR01TZjB6Yk5vWlM2eXMtcUc2YnFQV3BZN1dlQW43VERHeGhGRFltZVZwNnktRmVCX2M4dHhCVTFrYTMtRUV4cjNtLUxBR1Q3SWZzenVQNHdDQi1zZWdkYjlBUk8?oc=5",
+      "title": "Google to build AI campus in South Korea, presidential office says - Reuters",
+      "summary": "Google to build AI campus in South Korea, presidential office says Reuters"
+    },
+    {
+      "char": "🔫",
+      "label": "Gunmen raid Nigerian orphanage, kidnap kids",
+      "url": "https://www.bbc.com/news/articles/cjd8dmx41vko?at_medium=RSS&at_campaign=rss",
+      "title": "Gunmen raid Nigerian orphanage and kidnap children",
+      "summary": "The attack saw 23 children and the facility's proprietress kidnapped by gunmen on Sunday."
+    },
+    {
+      "char": "🌧️",
+      "label": "Torrential rain in southern China causes fears",
+      "url": "https://www.theguardian.com/environment/2026/apr/27/weather-tracker-torrential-rain-southern-china-flooding-fears-india-heatwave-canada-cold",
+      "title": "Weather tracker: Torrential rain in southern China leads to flooding fears",
+      "summary": "Heatwaves reach 45C across India as unseasonably cold weather affects parts of central Canada Widespread heavy rain is sweeping over southern China. By Wednesday, rainfall totals are expected to exceed 100mm across many parts of Guangxi,..."
+    },
+    {
       "char": "⚔️",
-      "label": "mali defence minister killed",
-      "url": "https://www.theguardian.com/world/2026/apr/26/mali-defence-minister-killed-amid-flurry-of-insurgent-attacks",
-      "title": "Mali defence minister killed amid flurry of insurgent attacks",
-      "summary": "Car bomb kills Sadio Camara at home during coordinated assaults by rebel groups including West African al-Qaida affiliate Mali’s defence minister was killed in an attack on his residence, the government said on Sunday, a high-profile fat..."
+      "label": "Mali in turmoil after insurgents seize towns",
+      "url": "https://www.theguardian.com/world/2026/apr/27/mali-attacks-insurgents-seize-towns-kill-defence-minister",
+      "title": "Mali in turmoil after insurgents seize towns and kill defence minister",
+      "summary": "Military intelligence chief reportedly also killed in sweeping attacks by jihadists and separatist rebels Mali’s militant attacks expose limits of Putin’s power in Africa Mali has been left reeling from sweeping attacks by jihadists and..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concern",
+    "emoji": "😨",
+    "rationale": "The day's news highlights multiple violent incidents and political turmoil, notably in Mali and Colombia, creating an overall sense of fear and concern for safety and stability.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
