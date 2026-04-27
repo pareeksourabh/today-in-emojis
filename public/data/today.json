@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concern",
-    "emoji": "😨",
-    "rationale": "The day's news highlights multiple violent incidents and political turmoil, notably in Mali and Colombia, creating an overall sense of fear and concern for safety and stability.",
+    "emotion_label": "Sadness",
+    "emoji": "😢",
+    "rationale": "The news today is marked by violence and turmoil, with reports of bomb blasts, coordinated attacks, and tragic incidents resulting in loss of life. The overall tone reflects a sense of sorrow and concern for global stability.",
     "palette": [
       "😢",
       "😡",
