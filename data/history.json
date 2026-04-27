@@ -37751,5 +37751,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-27",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "king charles and queen camilla's us visit",
+        "url": "https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html",
+        "title": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
+        "summary": "The British royals are set to arrive on Monday for a visit hosted by President Trump, with a garden party, an address to Congress and a banquet on the schedule."
+      },
+      {
+        "char": "⚖️",
+        "label": "israel's president pushes for plea deal",
+        "url": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
+        "title": "Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal",
+        "summary": "President Isaac Herzog of Israel has decided not to issue a pardon to Prime Minister Benjamin Netanyahu in his corruption case at this time, and instead will seek mediation, officials say."
+      },
+      {
+        "char": "🚤",
+        "label": "us military strikes drug boat in pacific",
+        "url": "https://www.theguardian.com/us-news/2026/apr/24/us-military-strike-boat-pacific",
+        "title": "US military kills two more people in strike on alleged drug boat in Pacific",
+        "summary": "Small boat destroyed in video posted on social media as US campaign has killed at least 178 people since September The US military announced on Friday that it killed two people in an attack on a boat in the eastern Pacific, part of a ser..."
+      },
+      {
+        "char": "💔",
+        "label": "mali defence minister killed in attacks",
+        "url": "https://www.theguardian.com/world/2026/apr/26/mali-defence-minister-killed-amid-flurry-of-insurgent-attacks",
+        "title": "Mali defence minister killed amid flurry of insurgent attacks",
+        "summary": "Car bomb kills Sadio Camara at home during coordinated assaults by rebel groups including West African al-Qaida affiliate Mali’s defence minister was killed in an attack on his residence, the government said on Sunday, a high-profile fat..."
+      },
+      {
+        "char": "🐾",
+        "label": "florida sloth deaths under investigation",
+        "url": "https://www.theguardian.com/us-news/2026/apr/24/florida-sloth-deaths-tourist-attraction",
+        "title": "Florida officials investigate planned ‘Sloth World’ attraction after 31 sloths die in warehouse",
+        "summary": "Languorous tree dwellers from Guyana and Peru died from ‘cold stun’ in warehouse with no power or running water Sign up for the Breaking News US newsletter email Wildlife officials in Florida said in a newly released report that dozens o..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
