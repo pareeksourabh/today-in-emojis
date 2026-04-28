@@ -38103,5 +38103,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-28",
+    "emojis": [
+      {
+        "char": "🏨",
+        "label": "hilton raises revenue growth forecast",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTi1JaVpuN0xzUEpWUUo1Wl94cnVhS0ZaZjNpazRhaktRRWI4cVdMOFNKOGRzQW8xM21DQmc5Q0EwNEtxNFA4eGRXMVE1Z1NfTE1CUENUMkZhRUpvS0pnMUdUMEFlRHVNMjljdlBKWEsybFVMTkZWSFY4VU9va0xhRHVYOTdKZkNzVXZXaG1KanhjenprZ3BMWW9oRi1ULTkxOXZnSGNaNm02eU9jenh2N1MwYkU4bzZ4MS1kekVkM1dlZ2Q1TGNEU016bw?oc=5",
+        "title": "Hilton raises 2026 room revenue growth forecast, flags impact from Middle East conflict - Reuters",
+        "summary": "Hilton raises 2026 room revenue growth forecast, flags impact from Middle East conflict Reuters"
+      },
+      {
+        "char": "🤖",
+        "label": "south korea uses ai for elderly care",
+        "url": "https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html",
+        "title": "How South Korea Uses A.I. to Check on Its Elderly",
+        "summary": "In the world’s fastest aging society, artificial intelligence is being used to make care calls to older adults who live alone and to fight dementia."
+      },
+      {
+        "char": "🇷🇺",
+        "label": "russians question putin amid internet limits",
+        "url": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
+        "title": "Internet Restrictions Spur Russians to Openly Question Putin’s Moves",
+        "summary": "From beauty influencers to the token political opposition, Russians are openly questioning President Vladimir V. Putin’s moves to hamstring access."
+      },
+      {
+        "char": "🐍",
+        "label": "german tourist dies from snake bite in egypt",
+        "url": "https://www.theguardian.com/world/2026/apr/27/german-tourist-dies-bite-snake-show-holiday-egypt",
+        "title": "German tourist dies after being bitten at snake show on family holiday in Egypt",
+        "summary": "Man, 57, was watching snake-charming show when reptile crawled into his trousers, say German police A German tourist has died after a snake crawled into his trousers and bit him as he watched a show in Egypt on a family holiday, police i..."
+      },
+      {
+        "char": "⚔️",
+        "label": "mali turmoil after insurgents seize towns",
+        "url": "https://www.theguardian.com/world/2026/apr/27/mali-attacks-insurgents-seize-towns-kill-defence-minister",
+        "title": "Mali in turmoil after insurgents seize towns and kill defence minister",
+        "summary": "Military intelligence chief reportedly also killed in sweeping attacks by jihadists and separatist rebels Mali’s militant attacks expose limits of Putin’s power in Africa Mali has been left reeling from sweeping attacks by jihadists and..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
