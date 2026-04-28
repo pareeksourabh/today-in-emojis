@@ -37971,5 +37971,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-28",
+    "emojis": [
+      {
+        "char": "🌲",
+        "label": "nova scotia woods ban ruling",
+        "url": "https://www.theguardian.com/world/2026/apr/25/canada-nova-scotia-wildfire-woods-ban",
+        "title": "What counts as the woods? Judge axes Nova Scotia’s ban that defied ‘commonsense definitions’",
+        "summary": "The court sided with a Canadian hiker who deliberately challenged the order imposed to curb spread of wildfires As wildfires raged across Nova Scotia last summer, the Canadian province made a simple plea to residents: stay away from the..."
+      },
+      {
+        "char": "🚤",
+        "label": "us strike on narco boat",
+        "url": "https://www.theguardian.com/us-news/2026/apr/27/us-three-killed-boat-alleged-narco-eastern-pacific",
+        "title": "US strike kills three on alleged narco boat as campaign death toll hits 185",
+        "summary": "Military video shows boat moving swiftly in water before explosion leaves it in flames The US military said on Sunday three men were killed when it struck a boat it claimed was “engaged in narco-trafficking operations” in the Eastern Pac..."
+      },
+      {
+        "char": "💰",
+        "label": "canada's new sovereign wealth fund",
+        "url": "https://www.nytimes.com/2026/04/27/world/canada/canada-sovereign-wealth-fund.html",
+        "title": "Carney to Launch Sovereign Wealth Fund to Distance Canada’s Economy From U.S.",
+        "summary": "The sovereign wealth fund announced by Prime Minister Mark Carney will be far smaller than ones in other oil producers like Norway and the Middle East."
+      },
+      {
+        "char": "🚆",
+        "label": "indonesia train crash casualties",
+        "url": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss",
+        "title": "At least four killed and dozens injured in Indonesia train crash",
+        "summary": "Officials say a commuter train and a long-distance train collided on the outskirts of Jakarta on Monday."
+      },
+      {
+        "char": "⚔️",
+        "label": "mali minister killed in attacks",
+        "url": "https://www.theguardian.com/world/2026/apr/26/mali-defence-minister-killed-amid-flurry-of-insurgent-attacks",
+        "title": "Mali defence minister killed amid flurry of insurgent attacks",
+        "summary": "Car bomb kills Sadio Camara at home during coordinated assaults by rebel groups including West African al-Qaida affiliate Mali’s defence minister was killed in an attack on his residence, the government said on Sunday, a high-profile fat..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
