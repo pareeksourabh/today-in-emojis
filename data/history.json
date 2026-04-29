@@ -38279,5 +38279,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-29",
+    "emojis": [
+      {
+        "char": "🌊",
+        "label": "somali piracy resurgence fears",
+        "url": "https://www.theguardian.com/world/2026/apr/28/fears-resurgence-somalia-piracy-three-vessels-hijacked-past-week",
+        "title": "Fears of resurgence in Somali piracy after three vessels hijacked in a week",
+        "summary": "Pirates appear to be taking advantage of international naval strength being diverted to Middle East Three vessels have been hijacked off the coast of Somalia in the past week, raising fears of a resurgence in piracy around the Horn of Af..."
+      },
+      {
+        "char": "🏠",
+        "label": "cuba's confiscated properties",
+        "url": "https://www.nytimes.com/2026/04/28/world/americas/cuba-communist-government-confiscated-property.html",
+        "title": "They Lost Their Homes in Cuba to the Communist Government. Will They Ever Get Them Back?",
+        "summary": "With Cuba in dire economic crisis, people whose properties were seized by its government decades ago say it’s time to resolve thorny compensation claims."
+      },
+      {
+        "char": "⚖️",
+        "label": "indonesia acid attack trial",
+        "url": "https://www.nytimes.com/2026/04/28/world/asia/indonesia-andrei-acid-trial.html",
+        "title": "Acid Attack in Indonesia Evokes Brutality of Suharto Era",
+        "summary": "The victim had protested against the widening role of the military, which activists say is reminiscent of the country’s decades-long dictatorship."
+      },
+      {
+        "char": "📈",
+        "label": "t-mobile lifts annual forecast",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNnRGdjVORXJvdF9wR0p5QXQzYXB1OHl3UUZiYTlMRnpvMkVmejFpS2JleTRYWjlCZ2tZRnJtS0NCaXFNaFdaOGZ1XzZHNEFhdTk5MUptdHFoc0JTRDI1YnBISHFSRlRlMEdtTEduSzhzSXRlcHZNUVB5RVV0Q3VWR3NWMjMxLUJPQ0tsdU4tSXluaXNEa0VkZ2VQdkd6cUZPRzNZZFlYODkzT3Z0eG9mYmR0bm50TTdQR1k2c3NMaUNVN2pDR01vdTRpb3Bibl9KTDVmMg?oc=5",
+        "title": "T-Mobile lifts annual forecast for account additions after upbeat quarterly results - Reuters",
+        "summary": "T-Mobile lifts annual forecast for account additions after upbeat quarterly results Reuters"
+      },
+      {
+        "char": "🎉",
+        "label": "trump on us passports",
+        "url": "https://www.bbc.com/news/articles/cr5pn1ngerpo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump's face to feature on commemorative US passports",
+        "summary": "The passports will be released as part of the 250th anniversary of the US Declaration of Independence."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
