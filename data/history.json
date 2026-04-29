@@ -38367,5 +38367,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-29",
+    "emojis": [
+      {
+        "char": "📉",
+        "label": "cognizant revenue forecast drop",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdnJDWFZRZm42TWFVYkd4WFZxcndYQmQ3c2M4dFN5UEdHRExUanlpNzVxQXp0SUV3dG5ET2JNSk5FWTR2TjJwemFpWktaSU5oVElSTE9wNGI1azZMOVhndGc3blNhcl9mbGMzUkljSUFDMU1yWXJ3MEZJWm1mZElGR2hwQkFGbDcwZzZmcjFWaGZSdWRDTXNxNWRSMVJHaDB6LUFsSlBFWUhOTFZpbkRQTFFHeVFGQ1RSSFlB?oc=5",
+        "title": "Cognizant forecasts quarterly revenue below estimates on cautious IT spending - Reuters",
+        "summary": "Cognizant forecasts quarterly revenue below estimates on cautious IT spending Reuters"
+      },
+      {
+        "char": "💔",
+        "label": "humanitarian crisis in iran",
+        "url": "https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid",
+        "title": "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid",
+        "summary": "Soaring oil prices and the blockade are preventing food, fuel and medicine being delivered to millions of people in desperate need, say NGOs The volatility of global oil prices caused by the US and Israel’s war on Iran is taking a toll o..."
+      },
+      {
+        "char": "🚢",
+        "label": "somali piracy resurgence fears",
+        "url": "https://www.theguardian.com/world/2026/apr/28/fears-resurgence-somalia-piracy-three-vessels-hijacked-past-week",
+        "title": "Fears of resurgence in Somali piracy after three vessels hijacked in a week",
+        "summary": "Pirates appear to be taking advantage of international naval strength being diverted to Middle East Three vessels have been hijacked off the coast of Somalia in the past week, raising fears of a resurgence in piracy around the Horn of Af..."
+      },
+      {
+        "char": "🗳️",
+        "label": "colombia election violence concerns",
+        "url": "https://www.theguardian.com/world/2026/apr/29/colombia-election-total-peace-promise-violence",
+        "title": "‘Total peace’ or ‘all-out war’? Colombian voters face stark choice as rebel attacks surge",
+        "summary": "As the country prepares to elect a new president, a fierce debate is raging on how to end the decades-long armed conflict for good The landmark 2016 peace deal between the Colombian government and the largest insurgent army in Latin Amer..."
+      },
+      {
+        "char": "📸",
+        "label": "suspect selfies before shooting",
+        "url": "https://www.bbc.com/news/articles/cm2p99n35z4o?at_medium=RSS&at_campaign=rss",
+        "title": "New images show suspect taking selfies before Washington press dinner shooting",
+        "summary": "Prosecutors argue Cole Tomas Allen should remain in custody until trial on a charge of attempted assassination of President Donald Trump."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
