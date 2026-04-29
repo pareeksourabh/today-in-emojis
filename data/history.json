@@ -38191,5 +38191,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-29",
+    "emojis": [
+      {
+        "char": "🎓",
+        "label": "afghanistan university strike",
+        "url": "https://www.nytimes.com/2026/04/28/world/asia/afghanistan-pakistan-university-strike.html",
+        "title": "Afghanistan Accuses Pakistan of Artillery Strike on a University",
+        "summary": "Pakistan, which has been waging an “open war” on its neighbor, did not acknowledge strikes on civilian areas Monday that officials said killed at least four people and wounded about 70 others."
+      },
+      {
+        "char": "🏠",
+        "label": "cuba confiscated properties",
+        "url": "https://www.nytimes.com/2026/04/28/world/americas/cuba-communist-government-confiscated-property.html",
+        "title": "They Lost Their Homes in Cuba to the Communist Government. Will They Ever Get Them Back?",
+        "summary": "With Cuba in dire economic crisis, people whose properties were seized by its government decades ago say it’s time to resolve thorny compensation claims."
+      },
+      {
+        "char": "🌊",
+        "label": "somali piracy resurgence",
+        "url": "https://www.theguardian.com/world/2026/apr/28/fears-resurgence-somalia-piracy-three-vessels-hijacked-past-week",
+        "title": "Fears of resurgence in Somali piracy after three vessels hijacked in a week",
+        "summary": "Pirates appear to be taking advantage of international naval strength being diverted to Middle East Three vessels have been hijacked off the coast of Somalia in the past week, raising fears of a resurgence in piracy around the Horn of Af..."
+      },
+      {
+        "char": "🚤",
+        "label": "us narco boat strike",
+        "url": "https://www.theguardian.com/us-news/2026/apr/27/us-three-killed-boat-alleged-narco-eastern-pacific",
+        "title": "US strike kills three on alleged narco boat as campaign death toll hits 185",
+        "summary": "Military video shows boat moving swiftly in water before explosion leaves it in flames The US military said on Sunday three men were killed when it struck a boat it claimed was “engaged in narco-trafficking operations” in the Eastern Pac..."
+      },
+      {
+        "char": "🛢️",
+        "label": "uae leaves opec",
+        "url": "https://www.nytimes.com/2026/04/28/world/middleeast/uae-opec.html",
+        "title": "UAE Says It Will Leave OPEC as Iran War Strains Oil Markets",
+        "summary": "The Gulf government has long complained about the group’s quotas, which officials believe unfairly limited its exports. Its departure is expected to weaken OPEC’s influence."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
