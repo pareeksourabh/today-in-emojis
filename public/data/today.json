@@ -1,41 +1,41 @@
 {
   "date": "2026-04-29",
-  "timestamp": "2026-04-29T02:07:02Z",
+  "timestamp": "2026-04-29T00:00:00Z",
   "emojis": [
     {
-      "char": "🎓",
-      "label": "afghanistan university strike",
+      "char": "📈",
+      "label": "seagate forecasts upbeat quarter",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSWVqc0VFWklDcXlQN1JOMXZCSnVfVU9QTy05VWQ4M01CTWc5MGdmWGJsTGpKdlVxSjNHbHJjdlljdXJGNG84VkR3N09tdXFGcGZ3a2tJY0FXaE1BVzg1Ri01RDY3QVlmTE9FQWZhbWNlWDZ1T2JyMUF2NVRpNzBQNGRiakpmRUVUT3JCbmdWNmo0d1pybEk0bHdPVE9ma3hfZ3FQb193ZTZuV3hoNGFkcHoxLUlFT1VPRE1v?oc=5",
+      "title": "Seagate forecasts upbeat quarter as AI boom powers strong data-storage demand - Reuters",
+      "summary": "Seagate forecasts upbeat quarter as AI boom powers strong data-storage demand Reuters"
+    },
+    {
+      "char": "🦛",
+      "label": "billionaire's son saves hippos",
+      "url": "https://www.bbc.com/news/articles/cr7prm4ke8do?at_medium=RSS&at_campaign=rss",
+      "title": "Indian billionaire's son offers to save Escobar's hippos",
+      "summary": "Anant Ambani - son of Asia's richest man Mukesh Ambani - says he can take care of the animals roaming free since the drug lord's death."
+    },
+    {
+      "char": "🇲🇽",
+      "label": "mexico cartel raid kills cia officers",
+      "url": "https://www.nytimes.com/2026/04/28/world/americas/mexico-crash-cia-officers.html",
+      "title": "Mexico Says 4 Foreigners Were at Cartel Raid Where 2 C.I.A. Officers Died",
+      "summary": "Mexican officials revealed that four foreigners — not two — were present during a counterdrug operation in northern Mexico where a crash killed two men later identified as C.I.A. officers."
+    },
+    {
+      "char": "🏫",
+      "label": "afghanistan accuses pakistan of strike",
       "url": "https://www.nytimes.com/2026/04/28/world/asia/afghanistan-pakistan-university-strike.html",
       "title": "Afghanistan Accuses Pakistan of Artillery Strike on a University",
       "summary": "Pakistan, which has been waging an “open war” on its neighbor, did not acknowledge strikes on civilian areas Monday that officials said killed at least four people and wounded about 70 others."
     },
     {
-      "char": "🏠",
-      "label": "cuba confiscated properties",
-      "url": "https://www.nytimes.com/2026/04/28/world/americas/cuba-communist-government-confiscated-property.html",
-      "title": "They Lost Their Homes in Cuba to the Communist Government. Will They Ever Get Them Back?",
-      "summary": "With Cuba in dire economic crisis, people whose properties were seized by its government decades ago say it’s time to resolve thorny compensation claims."
-    },
-    {
-      "char": "🌊",
-      "label": "somali piracy resurgence",
-      "url": "https://www.theguardian.com/world/2026/apr/28/fears-resurgence-somalia-piracy-three-vessels-hijacked-past-week",
-      "title": "Fears of resurgence in Somali piracy after three vessels hijacked in a week",
-      "summary": "Pirates appear to be taking advantage of international naval strength being diverted to Middle East Three vessels have been hijacked off the coast of Somalia in the past week, raising fears of a resurgence in piracy around the Horn of Af..."
-    },
-    {
-      "char": "🚤",
-      "label": "us narco boat strike",
-      "url": "https://www.theguardian.com/us-news/2026/apr/27/us-three-killed-boat-alleged-narco-eastern-pacific",
-      "title": "US strike kills three on alleged narco boat as campaign death toll hits 185",
-      "summary": "Military video shows boat moving swiftly in water before explosion leaves it in flames The US military said on Sunday three men were killed when it struck a boat it claimed was “engaged in narco-trafficking operations” in the Eastern Pac..."
-    },
-    {
-      "char": "🛢️",
-      "label": "uae leaves opec",
-      "url": "https://www.nytimes.com/2026/04/28/world/middleeast/uae-opec.html",
-      "title": "UAE Says It Will Leave OPEC as Iran War Strains Oil Markets",
-      "summary": "The Gulf government has long complained about the group’s quotas, which officials believe unfairly limited its exports. Its departure is expected to weaken OPEC’s influence."
+      "char": "⛵",
+      "label": "luxury yacht linked to oligarch",
+      "url": "https://www.nytimes.com/2026/04/28/world/middleeast/yacht-strait-hormuz-russia-oligarch.html",
+      "title": "Luxury Yacht Linked to Russian Oligarch Passes Through Strait of Hormuz",
+      "summary": "The Nord, a 464-foot vessel, appears to be tied to Aleksei A. Mordashov, a Russian steel mogul who is under American and European sanctions."
     }
   ],
   "source": "ai-openai",
