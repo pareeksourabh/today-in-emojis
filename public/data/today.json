@@ -1,41 +1,41 @@
 {
   "date": "2026-04-29",
-  "timestamp": "2026-04-29T06:29:20Z",
+  "timestamp": "2026-04-29T00:00:00Z",
   "emojis": [
     {
-      "char": "🇺🇸",
-      "label": "us soldier pleads not guilty to charges",
+      "char": "👮‍♂️",
+      "label": "mexican forces arrest cartel leader",
+      "url": "https://www.theguardian.com/world/2026/apr/28/mexican-special-forces-arrest-top-commander-audias-flores-el-jardinero-of-powerful-cartel",
+      "title": "Mexican special forces arrest top commander of cartel and his alleged money launderer",
+      "summary": "Arrests of Audias Flores and César Alejandro ‘N’ lead to gunmen blocking roads, as US embassy warns employees to avoid Reynosa after earlier arrest The Mexican authorities have arrested two top criminals, one of them a close ally of the..."
+    },
+    {
+      "char": "🔄",
+      "label": "belarus-polish prisoner swap",
+      "url": "https://www.nytimes.com/2026/04/28/world/europe/belarus-poland-prisoner-swap-trump.html",
+      "title": "Prisoner Swap Between Belarus, Poland and Other Nations Frees 10",
+      "summary": "Multiple countries took part in the exchange of prisoners, including a well-known journalist released to Poland, as the Trump administration’s outreach to Belarus continued to pay dividends."
+    },
+    {
+      "char": "🇦🇪",
+      "label": "uae exits opec amid tensions",
+      "url": "https://www.nytimes.com/2026/04/28/world/middleeast/united-arab-emirates-leaves-opec.html",
+      "title": "Amid Iran War and Tensions with Neighbors, U.A.E. Goes Its Own Way",
+      "summary": "The United Arab Emirates’ decision to leave OPEC has rocked the region, underscoring how the country, at odds with Saudi Arabia, is increasingly charting its own course."
+    },
+    {
+      "char": "⚖️",
+      "label": "us soldier pleads not guilty",
       "url": "https://www.theguardian.com/us-news/2026/apr/28/us-soldier-maduro-betting-charges-plea",
       "title": "US soldier pleads not guilty to charges of betting on Nicolás Maduro’s ouster",
       "summary": "Prosecutors allege Gannon Van Dyke won $400,000 using insider information to bet on Maduro raid on Polymarket Sign up for the Breaking News US email to get newsletter alerts in your inbox The US army soldier charged with winning $400,000..."
     },
     {
-      "char": "🏦",
-      "label": "goldman sachs bars bankers from using ai",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXJ1Y25ZdEZWNGdILUF6TjdBeUpuWFBWREIteDVqUm9pUGZNbEN5ajdOMWZJV2JMSTM2QkRPTjZJc1pIRnhVc1JZeUptTk5fWEVVYWVxR0tOdVhfXzRLVjZJdTYxUGRXT29HTkUtb2Z5NkRlQUdaOG4tM3lsZ2t2RXI4dExyUm1vdUJPSnFKVUY5dnZYNEFoYWJ4ZzZ3R3pMcmxLVkZ1b21lQ0VRT2x2Wk5B?oc=5",
-      "title": "Goldman Sachs bars Hong Kong bankers from using Anthropic AI, source says - Reuters",
-      "summary": "Goldman Sachs bars Hong Kong bankers from using Anthropic AI, source says Reuters"
-    },
-    {
-      "char": "⚔️",
-      "label": "russia to mark war anniversary with parade",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRjB6RzB2SzcxbXBpX0hfWVRBN3VqYk9tc18zTEZzQmJpV3RRbXRtazhoVExoUm9FQzNHVTkzeVV4MVZLSl9IZVV2U2VpZ3E3U0dETkx6OV82eFRtQzNwM1NTXzN0VjRSeHowajVwa0xjTzdKeGdZdURrQk82U0ItQ3hUZjU1ak5yRW5ZcVQ1NDR3TGFucG1XQkVLdHdzbWJzUjZKX1JiTVRzSFN0aUhMenNjdFJZZw?oc=5",
-      "title": "Russia to mark war anniversary with parade, but no equipment - Reuters",
-      "summary": "Russia to mark war anniversary with parade, but no equipment Reuters"
-    },
-    {
-      "char": "🎭",
-      "label": "us regulator to review disney broadcast licences",
-      "url": "https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss",
-      "title": "US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump",
-      "summary": "The move comes as the White House pressures Disney-owned ABC to fire Kimmel after he called Melania an \"expectant widow\"."
-    },
-    {
-      "char": "🐘",
-      "label": "indian billionaire's son offers to save hippos",
-      "url": "https://www.bbc.com/news/articles/cr7prm4ke8do?at_medium=RSS&at_campaign=rss",
-      "title": "Indian billionaire's son offers to save Escobar's hippos",
-      "summary": "Anant Ambani - son of Asia's richest man Mukesh Ambani - says he can take care of the animals roaming free since the drug lord's death."
+      "char": "💻",
+      "label": "russia questions internet restrictions",
+      "url": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
+      "title": "Internet Restrictions Spur Russians to Openly Question Putin’s Moves",
+      "summary": "From beauty influencers to the token political opposition, Russians are openly questioning President Vladimir V. Putin’s moves to hamstring access."
     }
   ],
   "source": "ai-openai",
