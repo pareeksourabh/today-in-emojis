@@ -38587,5 +38587,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-04-30",
+    "emojis": [
+      {
+        "char": "🏠",
+        "label": "aung san suu kyi under house arrest",
+        "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+        "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+        "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021."
+      },
+      {
+        "char": "🚑",
+        "label": "humanitarian corridor in iran conflict",
+        "url": "https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid",
+        "title": "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid",
+        "summary": "Soaring oil prices and the blockade are preventing food, fuel and medicine being delivered to millions of people in desperate need, say NGOs The volatility of global oil prices caused by the US and Israel’s war on Iran is taking a toll o..."
+      },
+      {
+        "char": "🎶",
+        "label": "african music industry faces ai challenges",
+        "url": "https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence",
+        "title": "‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards",
+        "summary": "Delegates at event in Cape Verde highlight opportunities from tech while stressing AI is no replacement for talent Last July, the Nigerian singer-songwriter Fave found herself caught up in a viral moment: an unauthorised version of a tra..."
+      },
+      {
+        "char": "💳",
+        "label": "mastercard profit beats estimates",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQzNNZEVmbXBiM3ZvWkRPLU5ZNFA3dU1nUEFmeTV3dzl5OW9zeHJWR0t2WWo4VDBRMGJ0cHdISVVjakRHTS1NTm43VGlLb0VLcndYOHVYbUgxblNrcXFnamo3RGR2OEh6UEZILXZidjZNa3d0RzFPWkZreENYNjFFNDQ2NkdKUXloTUNjSS1zeWp6N0NjUk9oOG5CMDQ?oc=5",
+        "title": "Mastercard profit beats estimates on steady transaction volumes - Reuters",
+        "summary": "Mastercard profit beats estimates on steady transaction volumes Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "climate talks end with fossil fuel phaseout",
+        "url": "https://www.theguardian.com/environment/2026/apr/30/colombia-climate-talks-end-fossil-fuel-phaseout",
+        "title": "‘Historic breakthrough’: Colombia climate talks end with hopes raised for fossil fuel phaseout",
+        "summary": "Nearly 60 countries back voluntary roadmaps to wean world off coal, oil and gas, at conference prompted by frustration with UN climate summits Business live – latest updates Europe live – latest updates Governments have been asked to dev..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
