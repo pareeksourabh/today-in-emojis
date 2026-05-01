@@ -38675,5 +38675,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-01",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "attacks on jewish targets in europe",
+        "url": "https://www.nytimes.com/2026/04/30/world/europe/european-antisemitism-hybrid-warfare.html",
+        "title": "Attacks on Jewish Targets in Europe Suggest Hybrid Warfare",
+        "summary": "Officials are investigating similar attacks across Europe, all claimed by a shadowy Islamist group that may be using low-cost, unsophisticated methods to sow fear in Jewish communities."
+      },
+      {
+        "char": "🎨",
+        "label": "venice biennale jury resigns",
+        "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
+        "title": "Venice Biennale jury resigns days before start of top art exhibition",
+        "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine."
+      },
+      {
+        "char": "📈",
+        "label": "asia shares find hope in tech resilience",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aOUhJZFZFa0lhZjZvc3lXSVB0UzRIU3hmdkwtZUJCRXZQckZRQnR2WkR4dUJ1WGlVSFlCUkxqeTJDNUlPUW1DaUkwQVQzbkJyZ2xTSjgyX3hvRlB4aDc2bGEyZy1JZ0hGQWRWQU5mRUx1ZEk3?oc=5",
+        "title": "Asia shares find hope in tech resilience, oil off peak - Reuters",
+        "summary": "Asia shares find hope in tech resilience, oil off peak Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "iran's supreme leader signals control plan",
+        "url": "https://www.nytimes.com/2026/04/30/world/middleeast/iran-war-supreme-leader-mojtaba-khamenei-strait-hormuz.html",
+        "title": "Iran’s Supreme Leader Signals Plan to Maintain Control Over Strait of Hormuz",
+        "summary": "Ayatollah Mojtaba Khamenei said in a statement that Iran would establish “new legal frameworks” for the Strait of Hormuz. He also said his country would retain its nuclear capabilities."
+      },
+      {
+        "char": "🏊‍♂️",
+        "label": "iceland's pools now unesco-recognized",
+        "url": "https://www.nytimes.com/2026/04/30/world/europe/iceland-hot-tub-pools-tourism.html",
+        "title": "Iceland’s Pools and Hot Tubs Are Now UNESCO-Recognized. Some Locals Aren’t Thrilled.",
+        "summary": "Iceland’s swimming pools and hot tubs serve as hubs of social life, a cultural distinction recently honored by UNESCO. Some Icelanders aren’t so thrilled."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
