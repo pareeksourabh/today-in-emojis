@@ -1,41 +1,41 @@
 {
   "date": "2026-05-01",
-  "timestamp": "2026-05-01T00:00:00Z",
+  "timestamp": "2026-05-01T02:11:05Z",
   "emojis": [
     {
-      "char": "🗡️",
-      "label": "stabbing attack in london",
-      "url": "https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html",
-      "title": "What to Know About the Stabbing Attack Against 2 Jewish Men in London",
-      "summary": "The British police said the attack on Wednesday was being treated as terrorism, and they warned of rising antisemitic hate crimes."
+      "char": "📈",
+      "label": "asia shares find relief in tech resilience",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aOUhJZFZFa0lhZjZvc3lXSVB0UzRIU3hmdkwtZUJCRXZQckZRQnR2WkR4dUJ1WGlVSFlCUkxqeTJDNUlPUW1DaUkwQVQzbkJyZ2xTSjgyX3hvRlB4aDc2bGEyZy1JZ0hGQWRWQU5mRUx1ZEk3?oc=5",
+      "title": "Asia shares find relief in tech resilience, oil off peak - Reuters",
+      "summary": "Asia shares find relief in tech resilience, oil off peak Reuters"
     },
     {
-      "char": "💊",
-      "label": "drug trafficking charges in mexico",
+      "char": "🏛️",
+      "label": "aung san suu kyi moved to house arrest",
+      "url": "https://www.nytimes.com/2026/04/30/world/asia/myanmar-aung-san-suu-kyi.html",
+      "title": "Daw Aung San Suu Kyi Is Moved to House Arrest From Prison in Myanmar",
+      "summary": "The ousted civilian leader has been detained since a military coup forced her from power in 2021."
+    },
+    {
+      "char": "🚨",
+      "label": "terror risk warned before bondi attack",
+      "url": "https://www.nytimes.com/2026/04/30/world/asia/australia-bondi-beach-attack-antisemitism.html",
+      "title": "Police in Australia Were Warned of Terror Risk Before Bondi Attack, Report Says",
+      "summary": "A Jewish security group told police an attack on the community was “likely” because of heightened antisemitism, days before December’s mass shooting in Sydney."
+    },
+    {
+      "char": "💣",
+      "label": "deadly strikes on southern lebanon",
+      "url": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
+      "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+      "summary": "At least nine people - including two children - were killed, according to Lebanon's health ministry."
+    },
+    {
+      "char": "💼",
+      "label": "us charges sinaloa governor with drug offences",
       "url": "https://www.theguardian.com/world/2026/apr/30/us-charges-sinaloa-governor-and-other-mexican-officials-with-drug-trafficking-offences",
       "title": "US charges Sinaloa governor and other Mexican officials with drug trafficking offences",
       "summary": "Indictment accuses high-level officials in Sinaloa of offences such as drug trafficking, weapons offences and kidnapping The US justice department has charged the governor of Sinaloa and nine other current and former Mexican officials fo..."
-    },
-    {
-      "char": "🇮🇷",
-      "label": "iranian mood after war",
-      "url": "https://www.nytimes.com/2026/04/30/world/middleeast/iranian-mood-after-war.html",
-      "title": "Iranians Live With Pain and Powerlessness, Beneath a Smooth Veneer",
-      "summary": "After months of upheaval, many are attempting to get on with their lives while quietly grappling with grief, economic stress and a loss of hope."
-    },
-    {
-      "char": "🎤",
-      "label": "african music industry and ai",
-      "url": "https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence",
-      "title": "‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards",
-      "summary": "Delegates at event in Cape Verde highlight opportunities from tech while stressing AI is no replacement for talent Last July, the Nigerian singer-songwriter Fave found herself caught up in a viral moment: an unauthorised version of a tra..."
-    },
-    {
-      "char": "✈️",
-      "label": "first flight to venezuela since 2019",
-      "url": "https://www.theguardian.com/world/2026/apr/30/us-venezuela-first-direct-commercial-fight-since-2019-miami-simon-bolivar-airport",
-      "title": "‘A new chapter’: first commercial flight from US since 2019 lands in Venezuela",
-      "summary": "Four months after US capture of Nicolás Maduro, officials hail repairing of ties as airliner touches down in Caracas US and Venezuelan officials have hailed a new era in diplomatic relations as the first direct commercial flight between..."
     }
   ],
   "source": "ai-openai",

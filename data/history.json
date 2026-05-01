@@ -38631,5 +38631,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-01",
+    "emojis": [
+      {
+        "char": "📈",
+        "label": "asia shares find relief in tech resilience",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aOUhJZFZFa0lhZjZvc3lXSVB0UzRIU3hmdkwtZUJCRXZQckZRQnR2WkR4dUJ1WGlVSFlCUkxqeTJDNUlPUW1DaUkwQVQzbkJyZ2xTSjgyX3hvRlB4aDc2bGEyZy1JZ0hGQWRWQU5mRUx1ZEk3?oc=5",
+        "title": "Asia shares find relief in tech resilience, oil off peak - Reuters",
+        "summary": "Asia shares find relief in tech resilience, oil off peak Reuters"
+      },
+      {
+        "char": "🏛️",
+        "label": "aung san suu kyi moved to house arrest",
+        "url": "https://www.nytimes.com/2026/04/30/world/asia/myanmar-aung-san-suu-kyi.html",
+        "title": "Daw Aung San Suu Kyi Is Moved to House Arrest From Prison in Myanmar",
+        "summary": "The ousted civilian leader has been detained since a military coup forced her from power in 2021."
+      },
+      {
+        "char": "🚨",
+        "label": "terror risk warned before bondi attack",
+        "url": "https://www.nytimes.com/2026/04/30/world/asia/australia-bondi-beach-attack-antisemitism.html",
+        "title": "Police in Australia Were Warned of Terror Risk Before Bondi Attack, Report Says",
+        "summary": "A Jewish security group told police an attack on the community was “likely” because of heightened antisemitism, days before December’s mass shooting in Sydney."
+      },
+      {
+        "char": "💣",
+        "label": "deadly strikes on southern lebanon",
+        "url": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
+        "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+        "summary": "At least nine people - including two children - were killed, according to Lebanon's health ministry."
+      },
+      {
+        "char": "💼",
+        "label": "us charges sinaloa governor with drug offences",
+        "url": "https://www.theguardian.com/world/2026/apr/30/us-charges-sinaloa-governor-and-other-mexican-officials-with-drug-trafficking-offences",
+        "title": "US charges Sinaloa governor and other Mexican officials with drug trafficking offences",
+        "summary": "Indictment accuses high-level officials in Sinaloa of offences such as drug trafficking, weapons offences and kidnapping The US justice department has charged the governor of Sinaloa and nine other current and former Mexican officials fo..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
