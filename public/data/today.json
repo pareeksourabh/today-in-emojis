@@ -1,43 +1,204 @@
 {
   "date": "2026-05-01",
-  "timestamp": "2026-05-01T16:41:29Z",
+  "timestamp": "2026-05-01T00:00:00Z",
   "emojis": [
     {
-      "char": "✊",
-      "label": "turkish police arrest at may day rallies",
-      "url": "https://www.bbc.com/news/articles/cwy2x7rq3nqo?at_medium=RSS&at_campaign=rss",
-      "title": "Turkish police arrest more than 500 people at May Day rallies",
-      "summary": "Turkey sees significant police deployments on 1 May each year, when marches led by workers and unions are held."
+      "char": "🗡️",
+      "label": "stabbing attack in london",
+      "url": "https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html",
+      "title": "What to Know About the Stabbing Attack Against 2 Jewish Men in London",
+      "summary": "The British police said the attack on Wednesday was being treated as terrorism, and they warned of rising antisemitic hate crimes."
     },
     {
-      "char": "🌍",
-      "label": "iran war threatens global food supply",
-      "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
-      "summary": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara."
+      "char": "💊",
+      "label": "drug trafficking charges in mexico",
+      "url": "https://www.theguardian.com/world/2026/apr/30/us-charges-sinaloa-governor-and-other-mexican-officials-with-drug-trafficking-offences",
+      "title": "US charges Sinaloa governor and other Mexican officials with drug trafficking offences",
+      "summary": "Indictment accuses high-level officials in Sinaloa of offences such as drug trafficking, weapons offences and kidnapping The US justice department has charged the governor of Sinaloa and nine other current and former Mexican officials fo..."
     },
     {
-      "char": "🎶",
-      "label": "african music industry weighs ai risks",
+      "char": "🇮🇷",
+      "label": "iranian mood after war",
+      "url": "https://www.nytimes.com/2026/04/30/world/middleeast/iranian-mood-after-war.html",
+      "title": "Iranians Live With Pain and Powerlessness, Beneath a Smooth Veneer",
+      "summary": "After months of upheaval, many are attempting to get on with their lives while quietly grappling with grief, economic stress and a loss of hope."
+    },
+    {
+      "char": "🎤",
+      "label": "african music industry and ai",
       "url": "https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence",
       "title": "‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards",
       "summary": "Delegates at event in Cape Verde highlight opportunities from tech while stressing AI is no replacement for talent Last July, the Nigerian singer-songwriter Fave found herself caught up in a viral moment: an unauthorised version of a tra..."
     },
     {
+      "char": "✈️",
+      "label": "first flight to venezuela since 2019",
+      "url": "https://www.theguardian.com/world/2026/apr/30/us-venezuela-first-direct-commercial-fight-since-2019-miami-simon-bolivar-airport",
+      "title": "‘A new chapter’: first commercial flight from US since 2019 lands in Venezuela",
+      "summary": "Four months after US capture of Nicolás Maduro, officials hail repairing of ties as airliner touches down in Caracas US and Venezuelan officials have hailed a new era in diplomatic relations as the first direct commercial flight between..."
+    },
+    {
+      "char": "🛢️",
+      "label": "oil prices rise amid iran tensions",
+      "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran."
+    },
+    {
+      "char": "🕵️‍♂",
+      "label": "stabbing attack on jewish men in london",
+      "url": "https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html",
+      "title": "What to Know About the Stabbing Attack Against 2 Jewish Men in London",
+      "summary": "The British police said the attack on Wednesday was being treated as terrorism, and they warned of rising antisemitic hate crimes."
+    },
+    {
+      "char": "🇦🇺",
+      "label": "bondi beach terror risk report",
+      "url": "https://www.nytimes.com/2026/04/30/world/asia/australia-bondi-beach-attack-antisemitism.html",
+      "title": "Police in Australia Were Warned of Terror Risk Before Bondi Attack, Report Says",
+      "summary": "A Jewish security group told police an attack on the community was “likely” because of heightened antisemitism, days before December’s mass shooting in Sydney."
+    },
+    {
+      "char": "🎶",
+      "label": "african music industry faces ai risks",
+      "url": "https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence",
+      "title": "‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards",
+      "summary": "Delegates at event in Cape Verde highlight opportunities from tech while stressing AI is no replacement for talent Last July, the Nigerian singer-songwriter Fave found herself caught up in a viral moment: an unauthorised version of a tra..."
+    },
+    {
+      "char": "✈️",
+      "label": "first us-venezuela flight since 2019",
+      "url": "https://www.theguardian.com/world/2026/apr/30/us-venezuela-first-direct-commercial-fight-since-2019-miami-simon-bolivar-airport",
+      "title": "‘A new chapter’: first commercial flight from US since 2019 lands in Venezuela",
+      "summary": "Four months after US capture of Nicolás Maduro, officials hail repairing of ties as airliner touches down in Caracas US and Venezuelan officials have hailed a new era in diplomatic relations as the first direct commercial flight between..."
+    },
+    {
+      "char": "📰",
+      "label": "hybrid warfare in europe",
+      "url": "https://www.nytimes.com/2026/04/30/world/europe/european-antisemitism-hybrid-warfare.html",
+      "title": "Attacks on Jewish Targets in Europe Suggest Hybrid Warfare",
+      "summary": "Officials are investigating similar attacks across Europe, all claimed by a shadowy Islamist group that may be using low-cost, unsophisticated methods to sow fear in Jewish communities."
+    },
+    {
+      "char": "🛢️",
+      "label": "oil prices surge amid iran tensions",
+      "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran."
+    },
+    {
       "char": "🇧🇷",
-      "label": "brazil reduces prison sentence for bolsonaro",
+      "label": "brazil reduces bolsonaro's sentence",
       "url": "https://www.theguardian.com/world/2026/apr/30/brazils-congress-approves-bill-reducing-prison-sentence-of-former-president-jair-bolsonaro",
       "title": "Brazil’s congress approves bill reducing prison sentence of former president Jair Bolsonaro",
       "summary": "President Lula’s veto of the bill was overturned by Brazil’s congress and senate, meaning it now awaits confirmation by supreme court Brazil’s largely conservative congress has approved a bill reducing the prison sentence of the far-righ..."
     },
     {
       "char": "✈️",
-      "label": "first us commercial flight to venezuela",
+      "label": "us resumes flights to venezuela",
       "url": "https://www.theguardian.com/world/2026/apr/30/us-venezuela-first-direct-commercial-fight-since-2019-miami-simon-bolivar-airport",
       "title": "‘A new chapter’: first commercial flight from US since 2019 lands in Venezuela",
       "summary": "Four months after US capture of Nicolás Maduro, officials hail repairing of ties as airliner touches down in Caracas US and Venezuelan officials have hailed a new era in diplomatic relations as the first direct commercial flight between..."
+    },
+    {
+      "char": "🎨",
+      "label": "venice biennale jury resigns",
+      "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
+      "title": "Venice Biennale jury resigns days before start of top art exhibition",
+      "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine."
+    },
+    {
+      "char": "💰",
+      "label": "japan signs $2.2 billion loan",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRG1BcC05V0xxR09Fb00wNXg3R3NfTmk1WG5yUTZHcjlsc0t6Z29FcS1qRVV3bTVxcnJHSHprd3VJLWlPRE9LSlNXdFRFRElvdWJ6WGd1RFE4dmgwVlc3UmtCbzUyVDVVWkZjaWRqb3d1NzBYZWtFUXBjRjhrVjFpdnMwVVhpV0Y1YWtKdXN6SlpoczVkOWh1V012ZGZlRjlWRlVLMFR0X3cybkowVTl5dU5LY1pIOUo1WlozLUFiVHE5bENFUmc?oc=5",
+      "title": "Japan signs first $2.2 billion loan under $550 billion US investment pledge - Reuters",
+      "summary": "Japan signs first $2.2 billion loan under $550 billion US investment pledge Reuters"
+    },
+    {
+      "char": "🏆",
+      "label": "oscar goes missing on flight",
+      "url": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
+      "title": "Oscar goes missing after Academy Award winner is blocked from taking it on flight",
+      "summary": "The airline said it regrets the situation and was doing an urgent \"comprehensive internal search\" for the award."
+    },
+    {
+      "char": "📉",
+      "label": "sell in may? let's find out",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ3BUMXR0Q1M1TWNIdGlmWUhmYkh4dWQ3NnRDcWtKNTgyX2l0NHNhMjFXTFYzal9sTFVuYTMxVTJqcDU3UkhzdHhZR2U5SG5uZ0xERE1IbUplLXg4LXV2QUlDcm1ibkRmeXRGZ2dKeWlORS1PRG1Dd3M5OEhMd1Zjb3hBczRnZWllTkZlTg?oc=5",
+      "title": "Sell in May? Let's find out - Reuters",
+      "summary": "Sell in May? Let's find out Reuters"
+    },
+    {
+      "char": "🇸🇦",
+      "label": "saudi arabia's spending era ends",
+      "url": "https://www.nytimes.com/2026/05/01/world/middleeast/saudi-arabia-spending-sports-liv-golf.html",
+      "title": "What the End of Saudi Arabia’s Big-Spending Era Means for the Kingdom and Beyond",
+      "summary": "The kingdom is pulling back from a costly and high-profile golf venture amid mounting financial concerns, raising questions about its plans."
+    },
+    {
+      "char": "🌍",
+      "label": "food shortages due to iran war",
+      "url": "https://www.theguardian.com/business/2026/may/01/iran-war-may-cause-food-shortages-in-africa-world-largest-fertiliser-firm-yara-says",
+      "title": "Iran war may cause food shortages in Africa, world’s largest fertiliser firm says",
+      "summary": "Yara CEO warns of global auction that would leave poorest countries scrambling for supplies they can ill afford The Iran war could have “dramatic consequences”, causing food shortages and price rises in some of Africa’s poorest and most..."
+    },
+    {
+      "char": "☕",
+      "label": "solace in iranian cafes",
+      "url": "https://www.nytimes.com/2026/05/01/world/middleeast/iran-war-cafes.html",
+      "title": "As Iranians Face War, There’s Still Solace in a Cafe",
+      "summary": "Cafes and coffee shops give Iranians affordable places to talk about their hopes, fears and the cost of living as well as to seek company in uncertain times."
+    },
+    {
+      "char": "📜",
+      "label": "uganda's dissent bill",
+      "url": "https://www.theguardian.com/global-development/2026/may/01/uganda-copying-russia-and-china-with-new-bill-designed-to-crush-dissent-say-critics",
+      "title": "Uganda copying Russia and China with new bill designed to crush dissent, say critics",
+      "summary": "New law proposes up to 20 years in prison for promoting ‘foreign interests’, and restricts those who work with or are funded by overseas partners Ugandan opposition figures, human rights organisations and legal experts have condemned a s..."
+    },
+    {
+      "char": "🧗‍♀️",
+      "label": "missing australian hiker",
+      "url": "https://www.theguardian.com/australia-news/2026/may/01/denise-williams-australian-hiker-missing-canada-nova-scotia",
+      "title": "Australian hiker missing in Nova Scotia national park not heard from for two weeks",
+      "summary": "Denise Ann Williams, 62, was last heard from on 15 April, when she told her family she was travelling to the west coast of Cape Breton Island in Canada’s east A search is underway in Canada for a 62-year-old Australian woman who was repo..."
+    },
+    {
+      "char": "✈️",
+      "label": "first us flight to venezuela",
+      "url": "https://www.theguardian.com/world/2026/apr/30/us-venezuela-first-direct-commercial-fight-since-2019-miami-simon-bolivar-airport",
+      "title": "‘A new chapter’: first commercial flight from US since 2019 lands in Venezuela",
+      "summary": "Four months after US capture of Nicolás Maduro, officials hail repairing of ties as airliner touches down in Caracas US and Venezuelan officials have hailed a new era in diplomatic relations as the first direct commercial flight between..."
+    },
+    {
+      "char": "⚖️",
+      "label": "bae lawsuit over aid aircraft",
+      "url": "https://www.theguardian.com/global-development/2026/may/01/bae-lawsuit-scrap-support-aid-aircraft-encomm-aviation",
+      "title": "BAE faces £120m lawsuit over decision to scrap support for aid aircraft",
+      "summary": "EnComm Aviation says the firm’s action has cut off vital support for crisis-hit countries including South Sudan and the DRC Britain’s biggest weapons manufacturer, BAE Systems, is facing a £120m lawsuit after scrapping support for aircra..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "The overall news highlights serious issues such as terrorism, geopolitical tensions, and social injustices, which evoke feelings of fear and concern about safety and stability, justifying the choice of the worried emoji.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
