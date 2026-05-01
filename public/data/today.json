@@ -1,13 +1,34 @@
 {
   "date": "2026-05-01",
-  "timestamp": "2026-05-01T06:41:00Z",
+  "timestamp": "2026-05-01T00:00:00Z",
   "emojis": [
     {
-      "char": "🕊️",
-      "label": "attacks on jewish targets in europe",
+      "char": "📰",
+      "label": "hybrid warfare in europe",
       "url": "https://www.nytimes.com/2026/04/30/world/europe/european-antisemitism-hybrid-warfare.html",
       "title": "Attacks on Jewish Targets in Europe Suggest Hybrid Warfare",
       "summary": "Officials are investigating similar attacks across Europe, all claimed by a shadowy Islamist group that may be using low-cost, unsophisticated methods to sow fear in Jewish communities."
+    },
+    {
+      "char": "🛢️",
+      "label": "oil prices surge amid iran tensions",
+      "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "brazil reduces bolsonaro's sentence",
+      "url": "https://www.theguardian.com/world/2026/apr/30/brazils-congress-approves-bill-reducing-prison-sentence-of-former-president-jair-bolsonaro",
+      "title": "Brazil’s congress approves bill reducing prison sentence of former president Jair Bolsonaro",
+      "summary": "President Lula’s veto of the bill was overturned by Brazil’s congress and senate, meaning it now awaits confirmation by supreme court Brazil’s largely conservative congress has approved a bill reducing the prison sentence of the far-righ..."
+    },
+    {
+      "char": "✈️",
+      "label": "us resumes flights to venezuela",
+      "url": "https://www.theguardian.com/world/2026/apr/30/us-venezuela-first-direct-commercial-fight-since-2019-miami-simon-bolivar-airport",
+      "title": "‘A new chapter’: first commercial flight from US since 2019 lands in Venezuela",
+      "summary": "Four months after US capture of Nicolás Maduro, officials hail repairing of ties as airliner touches down in Caracas US and Venezuelan officials have hailed a new era in diplomatic relations as the first direct commercial flight between..."
     },
     {
       "char": "🎨",
@@ -15,27 +36,6 @@
       "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
       "title": "Venice Biennale jury resigns days before start of top art exhibition",
       "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine."
-    },
-    {
-      "char": "📈",
-      "label": "asia shares find hope in tech resilience",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aOUhJZFZFa0lhZjZvc3lXSVB0UzRIU3hmdkwtZUJCRXZQckZRQnR2WkR4dUJ1WGlVSFlCUkxqeTJDNUlPUW1DaUkwQVQzbkJyZ2xTSjgyX3hvRlB4aDc2bGEyZy1JZ0hGQWRWQU5mRUx1ZEk3?oc=5",
-      "title": "Asia shares find hope in tech resilience, oil off peak - Reuters",
-      "summary": "Asia shares find hope in tech resilience, oil off peak Reuters"
-    },
-    {
-      "char": "🌍",
-      "label": "iran's supreme leader signals control plan",
-      "url": "https://www.nytimes.com/2026/04/30/world/middleeast/iran-war-supreme-leader-mojtaba-khamenei-strait-hormuz.html",
-      "title": "Iran’s Supreme Leader Signals Plan to Maintain Control Over Strait of Hormuz",
-      "summary": "Ayatollah Mojtaba Khamenei said in a statement that Iran would establish “new legal frameworks” for the Strait of Hormuz. He also said his country would retain its nuclear capabilities."
-    },
-    {
-      "char": "🏊‍♂️",
-      "label": "iceland's pools now unesco-recognized",
-      "url": "https://www.nytimes.com/2026/04/30/world/europe/iceland-hot-tub-pools-tourism.html",
-      "title": "Iceland’s Pools and Hot Tubs Are Now UNESCO-Recognized. Some Locals Aren’t Thrilled.",
-      "summary": "Iceland’s swimming pools and hot tubs serve as hubs of social life, a cultural distinction recently honored by UNESCO. Some Icelanders aren’t so thrilled."
     }
   ],
   "source": "ai-openai",
