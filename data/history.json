@@ -39027,5 +39027,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-02",
+    "emojis": [
+      {
+        "char": "💰",
+        "label": "us fast-tracks arms deals to mideast",
+        "url": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
+        "title": "U.S. Fast-Tracks Arms Deals Valued at $8.6 Billion to Mideast Partners",
+        "summary": "The Persian Gulf countries and Israel have faced repeated Iranian attacks during the U.S.-Israeli war with Iran. The State Department move bypassed congressional review."
+      },
+      {
+        "char": "🚗",
+        "label": "uk driving-test backlog leaves learners waiting",
+        "url": "https://www.nytimes.com/2026/05/02/world/europe/uk-driving-tests-backlog.html",
+        "title": "UK Driving-Test Backlog Leaves Learners Waiting Months",
+        "summary": "The average wait for a test in England and Scotland has hit 22 weeks, up from five weeks before the pandemic, leading to frustration and attempts to jump the line."
+      },
+      {
+        "char": "🌸",
+        "label": "south korea’s cherry blossoms attract tourists",
+        "url": "https://www.nytimes.com/2026/05/02/world/asia/south-korea-cherry-blossoms-japan-travel.html",
+        "title": "South Korea’s Cherry Blossoms Attract a Connoisseur: The Japanese",
+        "summary": "Cherry blossom viewing, or hanami, is a cherished rite in Japan. Some Japanese are also doing it in South Korea."
+      },
+      {
+        "char": "🥋",
+        "label": "learning muay thai extends thailand visa",
+        "url": "https://www.nytimes.com/2026/05/02/world/asia/muay-thai-thailand-visa.html",
+        "title": "Learning Muay Thai Can Allow Visitors to Stay in Thailand Longer",
+        "summary": "Visitors can apply for a five-year visa if they take lessons in “soft power” activities like the Thai martial art. Training does not have to be grueling, and sparring is optional."
+      },
+      {
+        "char": "🚢",
+        "label": "us threatens sanctions on shipping firms",
+        "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
+        "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
+        "summary": "The warning comes as President Donald Trump said he was \"not excited\" by Iran's latest proposal for a peace deal."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
