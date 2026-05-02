@@ -38939,5 +38939,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-02",
+    "emojis": [
+      {
+        "char": "🇸🇦",
+        "label": "saudi arabia's spending era ends",
+        "url": "https://www.nytimes.com/2026/05/01/world/middleeast/saudi-arabia-spending-sports-liv-golf.html",
+        "title": "What the End of Saudi Arabia’s Big-Spending Era Means for the Kingdom and Beyond",
+        "summary": "The kingdom is pulling back from a costly and high-profile golf venture amid mounting financial concerns, raising questions about its plans."
+      },
+      {
+        "char": "🧑‍⚕️",
+        "label": "new malaria drug for babies approved",
+        "url": "https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment",
+        "title": "First malaria drug for babies is approved in ‘major public health milestone’",
+        "summary": "WHO prequalification of Coartem Baby means newborns can be safely treated rather than using medication for older children The first malaria treatment for babies has been approved by the World Health Organization, opening the door to wide..."
+      },
+      {
+        "char": "🗳️",
+        "label": "cuba rejects new trump sanctions",
+        "url": "https://www.theguardian.com/world/2026/may/02/cuba-trump-new-sanctions-economy",
+        "title": "Cuba says Trump’s fresh sanctions on its economy amount to ‘collective punishment’",
+        "summary": "The US sanctions target people operating in broad sections of Cuban economy, including energy, defence and mining Cuba’s government has said new sanctions imposed on the island by Donald Trump amounted to “collective punishment”, as an e..."
+      },
+      {
+        "char": "🏃‍♂️",
+        "label": "kenyan hero's welcome for marathoner",
+        "url": "https://www.theguardian.com/global-development/2026/may/01/sabastian-sawe-hero-welcome-kenya-sub-two-marathon",
+        "title": "Sabastian Sawe receives hero’s welcome in Kenya after sub-two hour marathon feat",
+        "summary": "Record-breaker says London Marathon win was ‘a victory for all of us’ as he is greeted by family and friends in Eldoret Hugged, cheered and adorned with garlands, the first man to run an official marathon in under two hours has returned..."
+      },
+      {
+        "char": "⚖️",
+        "label": "us court rules on military lawyers",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSmZvZkNteWtHVkR0MUZIYkJzNnFIQVZlQ0dpU0FrV3kzSjEtaFJhR293TFdGYmNMZEtJNnM2b0pkRWNla0JJeklLTk95Y3BOeEFXNTJsNlZRZXVQN2hLV2FMZ3lHTURiS29oa2JOaHlyeXMwajlkaUdXUDZYWVI2SUNnVE9CekFoeUpxYUk4emhkcTcxcXlYbmlQb1FHZGxQTl9NNWZPSWtabDdBXzNNRmw0YVFYLXhqdlBHc3VPWFU?oc=5",
+        "title": "US Justice Department can use military lawyers to prosecute civilians, judge rules - Reuters",
+        "summary": "US Justice Department can use military lawyers to prosecute civilians, judge rules Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
