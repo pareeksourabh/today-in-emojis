@@ -38851,5 +38851,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-02",
+    "emojis": [
+      {
+        "char": "📦",
+        "label": "us court limits abortion pill access",
+        "url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+        "title": "US court limits mail-order access to abortion pill mifepristone",
+        "summary": "The court decision curbs access to the drug used in medication abortions, which is currently the most common method for the procedure in the US."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuba condemns new us sanctions",
+        "url": "https://www.theguardian.com/world/2026/may/02/cuba-trump-new-sanctions-economy",
+        "title": "Cuba says Trump’s fresh sanctions on its economy amount to ‘collective punishment’",
+        "summary": "The US sanctions target people operating in broad sections of Cuban economy, including energy, defence and mining Cuba’s government has said new sanctions imposed on the island by Donald Trump amounted to “collective punishment”, as an e..."
+      },
+      {
+        "char": "⚖️",
+        "label": "us indictment of sinaloa governor",
+        "url": "https://www.nytimes.com/2026/05/01/world/americas/us-indictment-sinaloa-governor-cartels-drugs.html",
+        "title": "U.S. Indictment of Sinaloa’s Governor Is a Reckoning for Residents of the Mexican State",
+        "summary": "The U.S. indictment of a Mexican governor confirms what many residents say they had long suspected: The line between organized crime and the upper echelons of government has blurred."
+      },
+      {
+        "char": "🕊️",
+        "label": "trump unsatisfied with iran proposal",
+        "url": "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html",
+        "title": "Trump ‘Not Satisfied’ With Iran’s Proposal on Ending War",
+        "summary": "The details of the latest plan were unclear, and President Trump did not specify his objections."
+      },
+      {
+        "char": "🏃‍♂️",
+        "label": "kenya welcomes marathon hero",
+        "url": "https://www.theguardian.com/global-development/2026/may/01/sabastian-sawe-hero-welcome-kenya-sub-two-marathon",
+        "title": "Sabastian Sawe receives hero’s welcome in Kenya after sub-two hour marathon feat",
+        "summary": "Record-breaker says London Marathon win was ‘a victory for all of us’ as he is greeted by family and friends in Eldoret Hugged, cheered and adorned with garlands, the first man to run an official marathon in under two hours has returned..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
