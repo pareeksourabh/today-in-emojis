@@ -1,41 +1,41 @@
 {
   "date": "2026-05-03",
-  "timestamp": "2026-05-03T13:21:28Z",
+  "timestamp": "2026-05-03T00:00:00Z",
   "emojis": [
     {
       "char": "🏃‍♂️",
-      "label": "kenya welcomes marathon hero",
+      "label": "kenya marathon hero welcome",
       "url": "https://www.theguardian.com/global-development/2026/may/01/sabastian-sawe-hero-welcome-kenya-sub-two-marathon",
       "title": "Sabastian Sawe receives hero’s welcome in Kenya after sub-two hour marathon feat",
       "summary": "Record-breaker says London Marathon win was ‘a victory for all of us’ as he is greeted by family and friends in Eldoret Hugged, cheered and adorned with garlands, the first man to run an official marathon in under two hours has returned..."
     },
     {
-      "char": "🌐",
-      "label": "smuggling starlink tech into iran",
-      "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
-      "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-      "summary": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\"."
+      "char": "🇨🇺",
+      "label": "cuba sanctions collective punishment",
+      "url": "https://www.theguardian.com/world/2026/may/02/cuba-trump-new-sanctions-economy",
+      "title": "Cuba says Trump’s fresh sanctions on its economy amount to ‘collective punishment’",
+      "summary": "The US sanctions target people operating in broad sections of Cuban economy, including energy, defence and mining Cuba’s government has said new sanctions imposed on the island by Donald Trump amounted to “collective punishment”, as an e..."
     },
     {
-      "char": "🦖",
-      "label": "germany returns dinosaur skull to brazil",
-      "url": "https://www.theguardian.com/science/2026/may/02/germany-brazil-irritator-dinosaur-skull-restitution",
-      "title": "German museum to return rare Irritator dinosaur skull to Brazil",
-      "summary": "Spinosaurid fossil bought by Stuttgart institution in 1991 has been the subject of a long restitution campaign It is a 113-million-year-old bone of contention. After Stuttgart’s museum of natural history bought a fossilised dinosaur skul..."
+      "char": "🌌",
+      "label": "norway northern lights nightmare",
+      "url": "https://www.nytimes.com/2026/05/03/world/europe/norway-northern-lights-tromso.html",
+      "title": "Norway’s Northern Lights Nightmare",
+      "summary": "This Arctic region has seen a boom in tourism, but as tourists chase the northern lights, scammers chase their money."
     },
     {
-      "char": "🗳️",
-      "label": "antigua and barbuda election results",
-      "url": "https://www.theguardian.com/world/2026/may/01/antigua-barbuda-gaston-browne-win-election",
-      "title": "Antigua and Barbuda prime minister set to win fourth term in election",
-      "summary": "Gaston Browne is on course to win 15 of the 17 seats in parliament after calling snap election Gaston Browne, the prime minister of Antigua and Barbuda, is set to win a fourth term in the country’s snap general election with preliminary..."
-    },
-    {
-      "char": "💊",
-      "label": "new malaria drug approved for babies",
+      "char": "👶",
+      "label": "malaria drug for babies approved",
       "url": "https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment",
       "title": "First malaria drug for babies is approved in ‘major public health milestone’",
       "summary": "WHO prequalification of Coartem Baby means newborns can be safely treated rather than using medication for older children The first malaria treatment for babies has been approved by the World Health Organization, opening the door to wide..."
+    },
+    {
+      "char": "🦖",
+      "label": "dinosaur skull returned to brazil",
+      "url": "https://www.theguardian.com/science/2026/may/02/germany-brazil-irritator-dinosaur-skull-restitution",
+      "title": "German museum to return rare Irritator dinosaur skull to Brazil",
+      "summary": "Spinosaurid fossil bought by Stuttgart institution in 1991 has been the subject of a long restitution campaign It is a 113-million-year-old bone of contention. After Stuttgart’s museum of natural history bought a fossilised dinosaur skul..."
     }
   ],
   "source": "ai-openai",
