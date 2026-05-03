@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Mixed Feelings",
-    "emoji": "😨",
-    "rationale": "The news reflects a mix of triumph, such as the marathon record, alongside significant global issues like sanctions and economic struggles, creating a sense of unease.",
+    "emotion_label": "mixed feelings",
+    "emoji": "😔",
+    "rationale": "The day is marked by a mix of uplifting moments, such as a marathon record, alongside significant challenges like economic sanctions and humanitarian crises, reflecting a somber yet hopeful atmosphere.",
     "palette": [
       "😢",
       "😡",
