@@ -1,34 +1,20 @@
 {
   "date": "2026-05-03",
-  "timestamp": "2026-05-03T00:00:00Z",
+  "timestamp": "2026-05-03T06:30:23Z",
   "emojis": [
     {
-      "char": "✈️",
-      "label": "no need for us airline bailout",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMnozVDFHbUVBREtIZV9jTVppNG5BbGNWYzZHQW53RnY3ZTdFZHQzX1RrSVZVaU1Ca3VaM3A2WUhtN0M4UkpENW0xbVFENjdKQ2lqcXhxWEZiVmlUTEtVSDBVcEo3YmNoZFh1Q01ZOUJlRzFoNXJYNEtNRS1feFk5M1kxWjZqNElHemtUYTlpSkVWNGNMTUlFVGtzSEJtZ1ZjTWV4dUhUaW1tSHkwY2lKZkRTd29IOWJOTDRiVlphQThNM0lNVHc?oc=5",
-      "title": "After Spirit collapse, Duffy says no need for US budget airline bailout - Reuters",
-      "summary": "After Spirit collapse, Duffy says no need for US budget airline bailout Reuters"
+      "char": "🚢",
+      "label": "oil tanker hijacking fears",
+      "url": "https://www.nytimes.com/2026/05/02/world/middleeast/hijacking-tanker-houthis-somalia-pirates.html",
+      "title": "Oil Tanker Hijacking Stokes Fear of Links Between Houthi Rebels and Somali Pirates",
+      "summary": "The attack’s location and timing fueled concerns about potential collaboration between Somalia’s pirates and Yemen’s Houthi rebels amid the Iran war."
     },
     {
-      "char": "🇺🇦",
-      "label": "fighting in ukrainian stronghold",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT29scnJvTXJSU0REZl8xTlZ0WFBKeHdJeW04SFJzRzE2dXFkb0RxT0l6V04tOVAwd2FpVlFkcEV6aUI0c2s2NjZRQTZlWUVhOUpURENnSW1ETlhTazFKZkhiMzVOWGhTektJRkhkWkJFUVliU0JEN2dYUkVkX0pQOV9pT1V2aHgzUVFVQnFxcWQ1Nk9iMlk5dEtmeF8wU091eldQWEVab25vS0tvYnNZ?oc=5",
-      "title": "Fighting reaches outskirts of Kostiantynivka, a Ukrainian stronghold - Reuters",
-      "summary": "Fighting reaches outskirts of Kostiantynivka, a Ukrainian stronghold Reuters"
-    },
-    {
-      "char": "⚖️",
-      "label": "supreme court abortion pill access",
-      "url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "title": "US Supreme Court asked to restore abortion pill access",
-      "summary": "A lower court has limited mail-order access to the abortion pill mifepristone, which the drug's maker says will cause \"irreparable harm\"."
-    },
-    {
-      "char": "💰",
-      "label": "us fast-tracks arms deals",
-      "url": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
-      "title": "U.S. Fast-Tracks Arms Deals Valued at $8.6 Billion to Mideast Partners",
-      "summary": "The Persian Gulf countries and Israel have faced repeated Iranian attacks during the U.S.-Israeli war with Iran. The State Department move bypassed congressional review."
+      "char": "🇩🇪",
+      "label": "germany misjudges trump's anger",
+      "url": "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html",
+      "title": "How Germany May Have Misjudged Trump’s Anger on Iran",
+      "summary": "Germany had appeared not to believe President Trump’s threats to pull troops from the country. Once it was announced, Berlin offered a measured response."
     },
     {
       "char": "🦖",
@@ -36,6 +22,20 @@
       "url": "https://www.theguardian.com/science/2026/may/02/germany-brazil-irritator-dinosaur-skull-restitution",
       "title": "German museum to return rare Irritator dinosaur skull to Brazil",
       "summary": "Spinosaurid fossil bought by Stuttgart institution in 1991 has been the subject of a long restitution campaign It is a 113-million-year-old bone of contention. After Stuttgart’s museum of natural history bought a fossilised dinosaur skul..."
+    },
+    {
+      "char": "🌌",
+      "label": "norway's northern lights nightmare",
+      "url": "https://www.nytimes.com/2026/05/03/world/europe/norway-northern-lights-tromso.html",
+      "title": "Norway’s Northern Lights Nightmare",
+      "summary": "This Arctic region has seen a boom in tourism, but as tourists chase the northern lights, scammers chase their money."
+    },
+    {
+      "char": "📜",
+      "label": "uganda's dissent-crushing bill",
+      "url": "https://www.theguardian.com/global-development/2026/may/01/uganda-copying-russia-and-china-with-new-bill-designed-to-crush-dissent-say-critics",
+      "title": "Uganda copying Russia and China with new bill designed to crush dissent, say critics",
+      "summary": "New law proposes up to 20 years in prison for promoting ‘foreign interests’, and restricts those who work with or are funded by overseas partners Ugandan opposition figures, human rights organisations and legal experts have condemned a s..."
     }
   ],
   "source": "ai-openai",
