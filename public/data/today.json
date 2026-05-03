@@ -1,41 +1,41 @@
 {
   "date": "2026-05-03",
-  "timestamp": "2026-05-03T09:23:37Z",
+  "timestamp": "2026-05-03T00:00:00Z",
   "emojis": [
     {
       "char": "🇻🇪",
-      "label": "venezuela's struggles post-trump",
+      "label": "venezuela after trump's ousting",
       "url": "https://www.nytimes.com/2026/05/02/world/americas/maduro-trump-raid-venezuela-life.html",
       "title": "After Trump’s Ousting of Maduro, Little Has Changed for Most Venezuelans",
       "summary": "U.S. officials say they will “unleash prosperity” by commandeering the oil industry. Many people in Caracas say it will take far more than that."
     },
     {
-      "char": "🤖",
-      "label": "ai's impact on china's entertainment",
-      "url": "https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html",
-      "title": "How A.I. Is Transforming China’s Entertainment Industry",
-      "summary": "A.I.-generated microdramas have taken off. Celebrities have threatened legal action against the use of their likeness, while actors say jobs have dried up."
+      "char": "⛏️",
+      "label": "insurgency threatens mining in pakistan",
+      "url": "https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html",
+      "title": "An Insurgency Threatens U.S. Mining Ambitions in Pakistan",
+      "summary": "Attacks by the Baloch Liberation Army could derail Pakistan’s plans for a billion-dollar mining deal with the Trump administration."
+    },
+    {
+      "char": "🚢",
+      "label": "oil tanker hijacked off yemen",
+      "url": "https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss",
+      "title": "Oil tanker hijacked off coast of Yemen and taken towards Somalia",
+      "summary": "It is the second time an oil tanker has been hijacked in the area in the past 10 days."
+    },
+    {
+      "char": "🏃‍♂️",
+      "label": "sabastian sawe's marathon welcome",
+      "url": "https://www.theguardian.com/global-development/2026/may/01/sabastian-sawe-hero-welcome-kenya-sub-two-marathon",
+      "title": "Sabastian Sawe receives hero’s welcome in Kenya after sub-two hour marathon feat",
+      "summary": "Record-breaker says London Marathon win was ‘a victory for all of us’ as he is greeted by family and friends in Eldoret Hugged, cheered and adorned with garlands, the first man to run an official marathon in under two hours has returned..."
     },
     {
       "char": "🌍",
-      "label": "cuba condemns us sanctions",
-      "url": "https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss",
-      "title": "Cuba condemns new US sanctions as 'illegal' and 'abusive'",
-      "summary": "The new measures come on top of a US blockade of oil to Cuba that has caused widespread blackouts and fuel shortages."
-    },
-    {
-      "char": "🏇",
-      "label": "golden tempo wins kentucky derby",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZTBYOThNSncycEFTcmlpVGxuWUdadl9OeW85V3diNm1uaUp2QUUtUXdHaGdnSWFIeXE2b1FnQlRkZjZuaXYtZGJtS2gxZE5LcFVFd1NubWNfMjl4UlBleENvdG5vU1VhVTU4M3hHMjFJVEh6bDl5M2wxbzNEdWkwajJGV0xkOGhPcWdqM3RvQkVzSlJiSnd4d3ln?oc=5",
-      "title": "Golden Tempo wins Kentucky Derby as trainer DeVaux makes history - Reuters",
-      "summary": "Golden Tempo wins Kentucky Derby as trainer DeVaux makes history Reuters"
-    },
-    {
-      "char": "💊",
-      "label": "new malaria drug for babies approved",
-      "url": "https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment",
-      "title": "First malaria drug for babies is approved in ‘major public health milestone’",
-      "summary": "WHO prequalification of Coartem Baby means newborns can be safely treated rather than using medication for older children The first malaria treatment for babies has been approved by the World Health Organization, opening the door to wide..."
+      "label": "zambia cancels human rights summit",
+      "url": "https://www.theguardian.com/global-development/2026/may/02/zambia-cancels-rightscon-summit-largest-human-rights-technology-conference",
+      "title": "Zambia cancels world’s largest human rights and tech summit days before start",
+      "summary": "Government blocks RightsCon 2026 conference saying it did not ‘align with national values’ The world’s largest conference on human rights and technology has been cancelled just days before it was due to start after the Zambian government..."
     }
   ],
   "source": "ai-openai",
