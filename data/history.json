@@ -39159,5 +39159,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-03",
+    "emojis": [
+      {
+        "char": "🇻🇪",
+        "label": "venezuela's struggles post-trump",
+        "url": "https://www.nytimes.com/2026/05/02/world/americas/maduro-trump-raid-venezuela-life.html",
+        "title": "After Trump’s Ousting of Maduro, Little Has Changed for Most Venezuelans",
+        "summary": "U.S. officials say they will “unleash prosperity” by commandeering the oil industry. Many people in Caracas say it will take far more than that."
+      },
+      {
+        "char": "🤖",
+        "label": "ai's impact on china's entertainment",
+        "url": "https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html",
+        "title": "How A.I. Is Transforming China’s Entertainment Industry",
+        "summary": "A.I.-generated microdramas have taken off. Celebrities have threatened legal action against the use of their likeness, while actors say jobs have dried up."
+      },
+      {
+        "char": "🌍",
+        "label": "cuba condemns us sanctions",
+        "url": "https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss",
+        "title": "Cuba condemns new US sanctions as 'illegal' and 'abusive'",
+        "summary": "The new measures come on top of a US blockade of oil to Cuba that has caused widespread blackouts and fuel shortages."
+      },
+      {
+        "char": "🏇",
+        "label": "golden tempo wins kentucky derby",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZTBYOThNSncycEFTcmlpVGxuWUdadl9OeW85V3diNm1uaUp2QUUtUXdHaGdnSWFIeXE2b1FnQlRkZjZuaXYtZGJtS2gxZE5LcFVFd1NubWNfMjl4UlBleENvdG5vU1VhVTU4M3hHMjFJVEh6bDl5M2wxbzNEdWkwajJGV0xkOGhPcWdqM3RvQkVzSlJiSnd4d3ln?oc=5",
+        "title": "Golden Tempo wins Kentucky Derby as trainer DeVaux makes history - Reuters",
+        "summary": "Golden Tempo wins Kentucky Derby as trainer DeVaux makes history Reuters"
+      },
+      {
+        "char": "💊",
+        "label": "new malaria drug for babies approved",
+        "url": "https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment",
+        "title": "First malaria drug for babies is approved in ‘major public health milestone’",
+        "summary": "WHO prequalification of Coartem Baby means newborns can be safely treated rather than using medication for older children The first malaria treatment for babies has been approved by the World Health Organization, opening the door to wide..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
