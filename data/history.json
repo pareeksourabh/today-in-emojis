@@ -39203,5 +39203,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-03",
+    "emojis": [
+      {
+        "char": "🏃‍♂️",
+        "label": "kenya welcomes marathon hero",
+        "url": "https://www.theguardian.com/global-development/2026/may/01/sabastian-sawe-hero-welcome-kenya-sub-two-marathon",
+        "title": "Sabastian Sawe receives hero’s welcome in Kenya after sub-two hour marathon feat",
+        "summary": "Record-breaker says London Marathon win was ‘a victory for all of us’ as he is greeted by family and friends in Eldoret Hugged, cheered and adorned with garlands, the first man to run an official marathon in under two hours has returned..."
+      },
+      {
+        "char": "🌐",
+        "label": "smuggling starlink tech into iran",
+        "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
+        "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+        "summary": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\"."
+      },
+      {
+        "char": "🦖",
+        "label": "germany returns dinosaur skull to brazil",
+        "url": "https://www.theguardian.com/science/2026/may/02/germany-brazil-irritator-dinosaur-skull-restitution",
+        "title": "German museum to return rare Irritator dinosaur skull to Brazil",
+        "summary": "Spinosaurid fossil bought by Stuttgart institution in 1991 has been the subject of a long restitution campaign It is a 113-million-year-old bone of contention. After Stuttgart’s museum of natural history bought a fossilised dinosaur skul..."
+      },
+      {
+        "char": "🗳️",
+        "label": "antigua and barbuda election results",
+        "url": "https://www.theguardian.com/world/2026/may/01/antigua-barbuda-gaston-browne-win-election",
+        "title": "Antigua and Barbuda prime minister set to win fourth term in election",
+        "summary": "Gaston Browne is on course to win 15 of the 17 seats in parliament after calling snap election Gaston Browne, the prime minister of Antigua and Barbuda, is set to win a fourth term in the country’s snap general election with preliminary..."
+      },
+      {
+        "char": "💊",
+        "label": "new malaria drug approved for babies",
+        "url": "https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment",
+        "title": "First malaria drug for babies is approved in ‘major public health milestone’",
+        "summary": "WHO prequalification of Coartem Baby means newborns can be safely treated rather than using medication for older children The first malaria treatment for babies has been approved by the World Health Organization, opening the door to wide..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
