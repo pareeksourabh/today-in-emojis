@@ -39071,5 +39071,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-03",
+    "emojis": [
+      {
+        "char": "🦖",
+        "label": "dinosaur skull returned to brazil",
+        "url": "https://www.theguardian.com/science/2026/may/02/germany-brazil-irritator-dinosaur-skull-restitution",
+        "title": "German museum to return rare Irritator dinosaur skull to Brazil",
+        "summary": "Spinosaurid fossil bought by Stuttgart institution in 1991 has been the subject of a long restitution campaign It is a 113-million-year-old bone of contention. After Stuttgart’s museum of natural history bought a fossilised dinosaur skul..."
+      },
+      {
+        "char": "💼",
+        "label": "bae faces lawsuit over aid aircraft",
+        "url": "https://www.theguardian.com/global-development/2026/may/01/bae-lawsuit-scrap-support-aid-aircraft-encomm-aviation",
+        "title": "BAE faces £120m lawsuit over decision to scrap support for aid aircraft",
+        "summary": "EnComm Aviation says the firm’s action has cut off vital support for crisis-hit countries including South Sudan and the DRC Britain’s biggest weapons manufacturer, BAE Systems, is facing a £120m lawsuit after scrapping support for aircra..."
+      },
+      {
+        "char": "🇺🇸",
+        "label": "us to withdraw troops from germany",
+        "url": "https://www.nytimes.com/2026/05/02/world/europe/us-troops-germany-trump.html",
+        "title": "U.S. to Withdraw 5,000 Troops From Germany. But Thousands Will Remain.",
+        "summary": "The U.S. military has tens of thousands of personnel in Germany, more than in any other foreign country but Japan. Their significance extends well beyond Europe."
+      },
+      {
+        "char": "💊",
+        "label": "new malaria drug for babies approved",
+        "url": "https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment",
+        "title": "First malaria drug for babies is approved in ‘major public health milestone’",
+        "summary": "WHO prequalification of Coartem Baby means newborns can be safely treated rather than using medication for older children The first malaria treatment for babies has been approved by the World Health Organization, opening the door to wide..."
+      },
+      {
+        "char": "🌸",
+        "label": "south korea's cherry blossoms attract tourists",
+        "url": "https://www.nytimes.com/2026/05/02/world/asia/south-korea-cherry-blossoms-japan-travel.html",
+        "title": "South Korea’s Cherry Blossoms Attract a Connoisseur: The Japanese",
+        "summary": "Cherry blossom viewing, or hanami, is a cherished rite in Japan. Some Japanese are also doing it in South Korea."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
