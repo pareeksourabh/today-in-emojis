@@ -39379,5 +39379,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-04",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "first malaria drug for babies approved",
+        "url": "https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment",
+        "title": "First malaria drug for babies is approved in ‘major public health milestone’",
+        "summary": "WHO prequalification of Coartem Baby means newborns can be safely treated rather than using medication for older children The first malaria treatment for babies has been approved by the World Health Organization, opening the door to wide..."
+      },
+      {
+        "char": "⚖️",
+        "label": "zambia cancels human rights summit",
+        "url": "https://www.theguardian.com/global-development/2026/may/02/zambia-cancels-rightscon-summit-largest-human-rights-technology-conference",
+        "title": "Zambia cancels world’s largest human rights and tech summit days before start",
+        "summary": "Government blocks RightsCon 2026 conference saying it did not ‘align with national values’ The world’s largest conference on human rights and technology has been cancelled just days before it was due to start after the Zambian government..."
+      },
+      {
+        "char": "🔥",
+        "label": "hong kong fire kills three generations",
+        "url": "https://www.nytimes.com/2026/05/04/world/asia/hong-kong-apartment-fire-family.html",
+        "title": "After the Hong Kong Fire Killed 3 Generations of His Family, A Son Searches for Justice",
+        "summary": "Lee Chun Ho lost four members of his household in last November’s apartment-tower blaze. He’s now telling an investigative committee what contractors ignored."
+      },
+      {
+        "char": "👨‍⚖️",
+        "label": "pope appoints undocumented immigrant bishop",
+        "url": "https://www.theguardian.com/us-news/2026/may/01/pope-former-undocumented-immigrant-bishop-west-virginia",
+        "title": "Pope appoints former undocumented immigrant as bishop of West Virginia",
+        "summary": "Leo, who has criticized Trump’s hardline immigration policy, selected Evelio Menjivar-Ayala as state’s new bishop Sign up for the Breaking News US email to get newsletter alerts in your inbox Pope Leo XIV has appointed a man who had once..."
+      },
+      {
+        "char": "🌍",
+        "label": "three dead in hantavirus outbreak",
+        "url": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
+        "title": "Three passengers dead after suspected hantavirus outbreak on cruise ship",
+        "summary": "Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill What is hantavirus, the infection that has killed three people on a cruise ship? A suspected outbreak of the rare hantavirus..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
