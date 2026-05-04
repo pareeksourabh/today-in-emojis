@@ -39291,5 +39291,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-04",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "concern for jailed iranian laureate",
+        "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
+        "title": "Concern for jailed Iranian Nobel laureate as brother fears she is dying",
+        "summary": "Her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health."
+      },
+      {
+        "char": "🎾",
+        "label": "sinner wins fifth masters title",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNGV6ZHBtRDJhUk9oOGpsVmdvMFkyS3c1QlJLekVFQXRtUkJOZEtlMTRZS0ZjV3pwWlhtSmxLSXZ0anZHNmhnQVl6NUdLc29IV09XVmdxS2NyNnZ2bHo4NkQzOXl5NVJ5VGotLVF0cUdrZGVxVGZpY25IOGtkRXFfMGhVN1NlbFNSYXRjRVJURmc4Vld6N3dLMlYxQVk3eDgzYW1ZcVBfc194VWdGR2pDNm9NWW9VRkU?oc=5",
+        "title": "Sinner thrashes Zverev in Madrid to claim record fifth successive Masters title - Reuters",
+        "summary": "Sinner thrashes Zverev in Madrid to claim record fifth successive Masters title Reuters"
+      },
+      {
+        "char": "🇳🇬",
+        "label": "nigeria summons south african envoy",
+        "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+        "title": "Nigeria summons South African envoy over attacks on its nationals",
+        "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent."
+      },
+      {
+        "char": "💊",
+        "label": "first malaria drug for babies approved",
+        "url": "https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment",
+        "title": "First malaria drug for babies is approved in ‘major public health milestone’",
+        "summary": "WHO prequalification of Coartem Baby means newborns can be safely treated rather than using medication for older children The first malaria treatment for babies has been approved by the World Health Organization, opening the door to wide..."
+      },
+      {
+        "char": "🌌",
+        "label": "norway’s northern lights nightmare",
+        "url": "https://www.nytimes.com/2026/05/03/world/europe/norway-northern-lights-tromso.html",
+        "title": "Norway’s Northern Lights Nightmare",
+        "summary": "This Arctic region has seen a boom in tourism, but as tourists chase the northern lights, scammers chase their money."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
