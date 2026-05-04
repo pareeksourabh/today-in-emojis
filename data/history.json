@@ -39335,5 +39335,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-04",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "man charged with murder of girl",
+        "url": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
+        "title": "Man charged with murder of 5-year-old Australian girl",
+        "summary": "The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared."
+      },
+      {
+        "char": "🗳️",
+        "label": "elections in west bengal and india",
+        "url": "https://www.nytimes.com/2026/05/03/world/asia/india-elections-modi-bjp-what-to-know.html",
+        "title": "What to Know About Elections in West Bengal and Other Indian States",
+        "summary": "Vote counting starts on Monday after over 154 million people participated in elections for state legislatures last month. The contests can tilt the balance of power for the whole country."
+      },
+      {
+        "char": "🌍",
+        "label": "smuggling starlink tech into iran",
+        "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
+        "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+        "summary": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\"."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuba's response to trump sanctions",
+        "url": "https://www.theguardian.com/world/2026/may/02/cuba-trump-new-sanctions-economy",
+        "title": "Cuba says Trump’s fresh sanctions on its economy amount to ‘collective punishment’",
+        "summary": "The US sanctions target people operating in broad sections of Cuban economy, including energy, defence and mining Cuba’s government has said new sanctions imposed on the island by Donald Trump amounted to “collective punishment”, as an e..."
+      },
+      {
+        "char": "⚓",
+        "label": "oil tanker hijacking fears",
+        "url": "https://www.nytimes.com/2026/05/02/world/middleeast/hijacking-tanker-houthis-somalia-pirates.html",
+        "title": "Oil Tanker Hijacking Stokes Fear of Links Between Houthi Rebels and Somali Pirates",
+        "summary": "The location and timing of the attack fueled concerns about collaboration between Somali pirates and the Iran-backed Houthi rebels in Yemen under the cover of Mideast turmoil."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
