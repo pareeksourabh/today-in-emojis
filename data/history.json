@@ -39467,5 +39467,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-04",
+    "emojis": [
+      {
+        "char": "🇮🇹",
+        "label": "rubio visits rome amid trump feud",
+        "url": "https://www.nytimes.com/2026/05/04/world/europe/rubio-rome-trump-pope-italy.html",
+        "title": "Rubio to Visit Rome After Trump’s Feud With the Pope and Meloni",
+        "summary": "Secretary of State Marco Rubio’s trip will come after President Trump criticized Pope Leo XIV and then turned on Prime Minister Giorgia Meloni of Italy for defending the pontiff."
+      },
+      {
+        "char": "💊",
+        "label": "us supreme court allows abortion pill delivery",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHJGRnNsTmxoZ0Z1WFE5eFdEZFFIczVocUVuUFp2LWFMelk3R3hzUUE5WFhzYWJFbVpiOHpienlVd05yaUs1dlkwWEU4eGQ0US1Wc0s1ZExUQVdxWVVfRVRDZTlOc3dmOTdxN3E3U3dDYnpTaWg3Ylp1OEN0LUc2TG96TzhFMU5sUUZhZERJN2VGcW8yWXNlYXRwZlF3bXBjOUdMTjNn?oc=5",
+        "title": "US Supreme Court lets abortion pill mail delivery restart for now - Reuters",
+        "summary": "US Supreme Court lets abortion pill mail delivery restart for now Reuters"
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada at first non-european epc summit",
+        "url": "https://www.theguardian.com/world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
+        "title": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
+        "summary": "Attendance at European Political Community meeting in Yerevan seen as part of effort to build ties after US rupture Canada is to become the first non-European country to attend a meeting of the European Political Community when the prime..."
+      },
+      {
+        "char": "🎤",
+        "label": "kpop demon hunters rise in korea",
+        "url": "https://www.nytimes.com/2026/05/04/world/asia/ejae-kpop-demon-hunters.html",
+        "title": "Chasing Stardom in Korea Nearly Destroyed Ejae. Then Came ‘KPop Demon Hunters.’",
+        "summary": "Ejae, the movie’s breakout star, was the face of K-pop in 2025. Facing questions of art, national belonging and authenticity, she wants to be much more."
+      },
+      {
+        "char": "🤖",
+        "label": "kenya's ai health reforms raise costs",
+        "url": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
+        "title": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
+        "summary": "Exclusive : amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found An AI system used to predict how much Kenyans can afford to pay for access..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
