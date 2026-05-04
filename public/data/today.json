@@ -1,7 +1,28 @@
 {
   "date": "2026-05-04",
-  "timestamp": "2026-05-04T00:00:00Z",
+  "timestamp": "2026-05-04T14:12:38Z",
   "emojis": [
+    {
+      "char": "🇨🇺",
+      "label": "cuba sanctions by trump",
+      "url": "https://www.theguardian.com/world/2026/may/02/cuba-trump-new-sanctions-economy",
+      "title": "Cuba says Trump’s fresh sanctions on its economy amount to ‘collective punishment’",
+      "summary": "The US sanctions target people operating in broad sections of Cuban economy, including energy, defence and mining Cuba’s government has said new sanctions imposed on the island by Donald Trump amounted to “collective punishment”, as an e..."
+    },
+    {
+      "char": "🦠",
+      "label": "hantavirus outbreak on cruise",
+      "url": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
+      "title": "Three passengers dead after suspected hantavirus outbreak on cruise ship",
+      "summary": "Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill What is hantavirus, the infection thought to have killed three on cruise ship? A suspected outbreak of the rare hantavirus in..."
+    },
+    {
+      "char": "🌍",
+      "label": "rare earth minerals in amazon",
+      "url": "https://www.nytimes.com/2026/05/03/world/americas/illegal-miners-amazon-rainforest-critical-minerals.html",
+      "title": "Global Demand for Rare Earth Minerals Is Intensifying Criminal Threats in the Amazon Rainforest",
+      "summary": "Global demand for critical minerals, used to build drones and electric cars, is surging, setting of a new wave of criminality in the world’s largest rainforest."
+    },
     {
       "char": "🦖",
       "label": "dinosaur skull returned to brazil",
@@ -10,32 +31,11 @@
       "summary": "Spinosaurid fossil bought by Stuttgart institution in 1991 has been the subject of a long restitution campaign It is a 113-million-year-old bone of contention. After Stuttgart’s museum of natural history bought a fossilised dinosaur skul..."
     },
     {
-      "char": "🇺🇸",
-      "label": "us service members missing in morocco",
-      "url": "https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco",
-      "title": "Two US service members missing after military exercises in Morocco",
-      "summary": "Search and rescue operation launched after service members reported missing near south-western city of Tan Tan Two US service members are missing in south-western Morocco after taking part in annual multinational military exercises in th..."
-    },
-    {
-      "char": "⛪",
-      "label": "pope appoints immigrant bishop",
-      "url": "https://www.theguardian.com/us-news/2026/may/01/pope-former-undocumented-immigrant-bishop-west-virginia",
-      "title": "Pope appoints former undocumented immigrant as bishop of West Virginia",
-      "summary": "Leo, who has criticized Trump’s hardline immigration policy, selected Evelio Menjivar-Ayala as state’s new bishop Sign up for the Breaking News US email to get newsletter alerts in your inbox Pope Leo XIV has appointed a man who had once..."
-    },
-    {
-      "char": "🚢",
-      "label": "iran threatens ships over blockade",
-      "url": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html",
-      "title": "Iran Threatens Ships Over Trump Plan to Break Iran’s Blockade",
-      "summary": "A senior Iranian military official warned that any vessel that tries to cross the Strait of Hormuz without permission would be “at risk.”"
-    },
-    {
-      "char": "🦠",
-      "label": "hantavirus outbreak on cruise ship",
-      "url": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
-      "title": "Three passengers dead after suspected hantavirus outbreak on cruise ship",
-      "summary": "Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill What is hantavirus, the infection that has killed three people on a cruise ship? A suspected outbreak of the rare hantavirus..."
+      "char": "🤝",
+      "label": "canada at epc summit",
+      "url": "https://www.theguardian.com/world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
+      "title": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
+      "summary": "Attendance at European Political Community meeting in Yerevan seen as part of effort to build ties after US rupture Canada is to become the first non-European country to attend a meeting of the European Political Community when the prime..."
     }
   ],
   "source": "ai-openai",
