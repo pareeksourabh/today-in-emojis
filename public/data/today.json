@@ -3,14 +3,21 @@
   "timestamp": "2026-05-05T00:00:00Z",
   "emojis": [
     {
-      "char": "🦖",
-      "label": "dinosaur skull returned to brazil",
-      "url": "https://www.theguardian.com/science/2026/may/02/germany-brazil-irritator-dinosaur-skull-restitution",
-      "title": "German museum to return rare Irritator dinosaur skull to Brazil",
-      "summary": "Spinosaurid fossil bought by Stuttgart institution in 1991 has been the subject of a long restitution campaign It is a 113-million-year-old bone of contention. After Stuttgart’s museum of natural history bought a fossilised dinosaur skul..."
+      "char": "🇺🇸",
+      "label": "us service members missing in morocco",
+      "url": "https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco",
+      "title": "Two US service members missing after military exercises in Morocco",
+      "summary": "Search and rescue operation launched after service members reported missing near south-western city of Tan Tan Two US service members are missing in south-western Morocco after taking part in annual multinational military exercises in th..."
     },
     {
-      "char": "🦠",
+      "char": "🤖",
+      "label": "kenya's ai health reforms raise costs",
+      "url": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
+      "title": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
+      "summary": "Exclusive : amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found An AI system used to predict how much Kenyans can afford to pay for access..."
+    },
+    {
+      "char": "🛳️",
       "label": "hantavirus outbreak on cruise ship",
       "url": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
       "title": "British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship",
@@ -18,24 +25,17 @@
     },
     {
       "char": "🇨🇦",
-      "label": "canada closer to europe amid trump",
-      "url": "https://www.nytimes.com/2026/05/04/world/canada/carney-europe-trump.html",
-      "title": "Mark Carney Pulls Canada Closer to Europe as Both Struggle With Trump",
-      "summary": "At a summit of European leaders, the Canadian prime minister was a special guest offering deals and friendship to jittery allies."
+      "label": "canada at epc summit",
+      "url": "https://www.theguardian.com/world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
+      "title": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
+      "summary": "Attendance at European Political Community meeting in Yerevan seen as part of effort to build ties after US rupture Canada is to become the first non-European country to attend a meeting of the European Political Community when the prime..."
     },
     {
-      "char": "🚗",
-      "label": "car attack in german city",
-      "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
-      "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
-      "summary": "A 33-year-old German citizen was detained following the incident, the authorities say."
-    },
-    {
-      "char": "⚖️",
-      "label": "search for justice after hong kong fire",
-      "url": "https://www.nytimes.com/2026/05/04/world/asia/hong-kong-apartment-fire-family.html",
-      "title": "After the Hong Kong Fire Killed 3 Generations of His Family, A Son Searches for Justice",
-      "summary": "Lee Chun Ho lost four members of his household in last November’s apartment-tower blaze. He’s now telling an investigative committee what contractors ignored."
+      "char": "🔥",
+      "label": "explosion at china fireworks factory",
+      "url": "https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html",
+      "title": "Fireworks Factory Explosion in China Kills at Least 21",
+      "summary": "Dozens more were injured in the explosion, which appeared to be one of the country’s deadliest in recent years."
     }
   ],
   "source": "ai-openai",
