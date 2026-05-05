@@ -1,41 +1,41 @@
 {
   "date": "2026-05-05",
-  "timestamp": "2026-05-05T00:00:00Z",
+  "timestamp": "2026-05-05T02:02:30Z",
   "emojis": [
-    {
-      "char": "✈️",
-      "label": "united ceo's merger vision",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONHNkTzNaeFJqdFIyMXhFS1Y4TFFkay1Ic1kyRHhHZkY0X25EWmVUTFREQmZIbjNZUy1wZ3lRdXltZ1A4R0syenA1VHlVU1lkeXZxczd4RGJFSDV3SWV6VXVXeEJsUUtzRVMzVnRkS3g3enRDNnJuLVk4azM5Y3hFVEhGX1oySENBWXlGVGszclQ4cjB4RzlhNGUzLVRlRHJsbkdHRnYxN3M5Y2VsQkZ1OTVtUlFyWE5xTWZiVw?oc=5",
-      "title": "Exclusive: American pilots union chief says United CEO's merger idea showed 'bold vision' - Reuters",
-      "summary": "Exclusive: American pilots union chief says United CEO's merger idea showed 'bold vision' Reuters"
-    },
-    {
-      "char": "🤖",
-      "label": "white house reviews ai models",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWGlZa1RoakVfZmdhdU9fUnIwcHlvZWxNM09ZM2VEVmJ1Y2tBU0kycVFSMnN3UFFDUmJLUlMxb2Q4alg2dzRlNV9IVi1INTY4VlB4ZlZpczdEOWZyLWtGWmZYNVR1UDlVMGFUamFyUW5oYUpfcU40SVk4R3Zoc3NjbTZ0Tl9GRjU0eVZDZFh5RHJucHpIakFWWklhUE83Vzg5bk9HZFJvV2Y5NWg5NVFMb2c4TmRkNjNjUGc?oc=5",
-      "title": "White House considers government reviews for AI models, NYT reports - Reuters",
-      "summary": "White House considers government reviews for AI models, NYT reports Reuters"
-    },
     {
       "char": "🦠",
       "label": "hantavirus outbreak on cruise ship",
+      "url": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
+      "title": "Scramble to evacuate two people from cruise ship amid suspected hantavirus outbreak",
+      "summary": "WHO confirms seven cases of virus on MV Hondius after deaths of three passengers and four others left ill What is hantavirus, the infection thought to have killed three on cruise ship? Medics are scrambling to evacuate two people from a..."
+    },
+    {
+      "char": "⚓",
+      "label": "oil eases on strait of hormuz news",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQUkwOGpqZ0dnWnppaE1hVXczWWZ3eXRtam9ONU8zTlRpZ3NrX2swdDRtOUhFNXVFZmpQanhqQ1hjbFJNQVFLM1oyOUFoRGhyd0lOYnhkTHJyQ2lLS2p4Ml82SlVuT3VxUlhGT3E1TzVLQktYVzF5Qnhxb3Brd0VianZIbFFmOTRTcy1UUzhnd0tDN29LUm1kcVlidw?oc=5",
+      "title": "Oil eases on signs US is loosening Iranian closure of Strait of Hormuz - Reuters",
+      "summary": "Oil eases on signs US is loosening Iranian closure of Strait of Hormuz Reuters"
+    },
+    {
+      "char": "🚢",
+      "label": "spain seizes record cocaine shipment",
+      "url": "https://www.bbc.com/news/articles/cp8pn8py5gro?at_medium=RSS&at_campaign=rss",
+      "title": "Spain seizes record amount of cocaine in Atlantic Ocean, authorities say",
+      "summary": "The Civil Guard found between 30,000 and 45,000kg of the drug on a freighter headed to Libya."
+    },
+    {
+      "char": "🦖",
+      "label": "germany returns dinosaur skull to brazil",
+      "url": "https://www.theguardian.com/science/2026/may/02/germany-brazil-irritator-dinosaur-skull-restitution",
+      "title": "German museum to return rare Irritator dinosaur skull to Brazil",
+      "summary": "Spinosaurid fossil bought by Stuttgart institution in 1991 has been the subject of a long restitution campaign It is a 113-million-year-old bone of contention. After Stuttgart’s museum of natural history bought a fossilised dinosaur skul..."
+    },
+    {
+      "char": "🚑",
+      "label": "hantavirus case confirmed after cruise ship",
       "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-      "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
+      "title": "Second hantavirus case confirmed after three die in suspected cruise ship outbreak",
       "summary": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established."
-    },
-    {
-      "char": "🇮🇱",
-      "label": "israeli settlers intensify attacks",
-      "url": "https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html",
-      "title": "With World Distracted by Iran War, Israeli Settlers Intensify Attacks in West Bank",
-      "summary": "Israel has failed to arrest a wave of violence against Palestinians, prompting military officials to urge the government to intervene."
-    },
-    {
-      "char": "🤖",
-      "label": "robots replace waste management staff",
-      "url": "https://www.bbc.com/news/articles/cvg0w84q1wyo?at_medium=RSS&at_campaign=rss",
-      "title": "Robots move in as waste firms struggle to find staff",
-      "summary": "Humanoid robots are being added to the automation of waste sorting."
     }
   ],
   "source": "ai-openai",
