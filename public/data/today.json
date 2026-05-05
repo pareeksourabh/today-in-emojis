@@ -1,21 +1,7 @@
 {
   "date": "2026-05-05",
-  "timestamp": "2026-05-05T00:00:00Z",
+  "timestamp": "2026-05-05T17:12:00Z",
   "emojis": [
-    {
-      "char": "🦖",
-      "label": "dinosaur skull returned to brazil",
-      "url": "https://www.theguardian.com/science/2026/may/02/germany-brazil-irritator-dinosaur-skull-restitution",
-      "title": "German museum to return rare Irritator dinosaur skull to Brazil",
-      "summary": "Spinosaurid fossil bought by Stuttgart institution in 1991 has been the subject of a long restitution campaign It is a 113-million-year-old bone of contention. After Stuttgart’s museum of natural history bought a fossilised dinosaur skul..."
-    },
-    {
-      "char": "🕊️",
-      "label": "israeli settlers attack amid iran war",
-      "url": "https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html",
-      "title": "With World Distracted by Iran War, Israeli Settlers Intensify Attacks in West Bank",
-      "summary": "Israel has failed to arrest a wave of violence against Palestinians, prompting military officials to urge the government to intervene."
-    },
     {
       "char": "💥",
       "label": "fireworks factory explosion in china",
@@ -24,18 +10,32 @@
       "summary": "Dozens more were injured in the explosion, which appeared to be one of the country’s deadliest in recent years."
     },
     {
-      "char": "🚑",
-      "label": "hantavirus spreads on cruise ship",
-      "url": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
-      "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
-      "summary": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died."
+      "char": "🦠",
+      "label": "hantavirus outbreak on cruise ship",
+      "url": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
+      "title": "Three passengers dead after suspected hantavirus outbreak on cruise ship",
+      "summary": "Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill What is hantavirus, the infection thought to have killed three on cruise ship? A suspected outbreak of the rare hantavirus in..."
     },
     {
-      "char": "⚔️",
-      "label": "russia and ukraine ceasefires announced",
-      "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
-      "title": "Russia and Ukraine announce rival ceasefires as deadly strikes continue",
-      "summary": "Russia demanded a ceasefire on 8 and 9 May but Ukraine said it would pause the fighting sooner, meaning any violations would be pinned on Moscow."
+      "char": "🇨🇦",
+      "label": "canada appoints new governor general",
+      "url": "https://www.theguardian.com/world/2026/may/05/carney-appoints-louise-arbor-canada-governor-general",
+      "title": "Carney appoints former war crimes prosecutor as Canada governor general",
+      "summary": "Louise Arbour will serve as Canada’s representative of King Charles and carry out ceremonial and constitutional duties Canada’s prime minister, Mark Carney, has appointed a former supreme court justice and war crimes prosecutor as the co..."
+    },
+    {
+      "char": "💰",
+      "label": "trump's oil deals in venezuela",
+      "url": "https://www.nytimes.com/2026/05/05/world/trump-venezuela-oil-deals.html",
+      "title": "In Venezuela, Trump Vowed to Show Accountability. But Secret Oil Deals Linger.",
+      "summary": "Trump officials and their Venezuelan allies have promised a new era of accountability to unlock Venezuela’s immense oil wealth. But the country’s oil industry remains a black hole."
+    },
+    {
+      "char": "🌌",
+      "label": "rare comet appears over southern hemisphere",
+      "url": "https://www.nytimes.com/2026/05/05/world/australia/comet-oort-cloud-nz-australia-south-africa.html",
+      "title": "Rare Comet Appears Over New Zealand, Australia and South Africa",
+      "summary": "Known as C/2025 R3 PANSTARRS, the comet will be visible to stargazers using a telescope in New Zealand, Australia and South Africa."
     }
   ],
   "source": "ai-openai",

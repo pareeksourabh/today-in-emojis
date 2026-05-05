@@ -39599,5 +39599,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-05",
+    "emojis": [
+      {
+        "char": "💥",
+        "label": "fireworks factory explosion in china",
+        "url": "https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html",
+        "title": "Fireworks Factory Explosion in China Kills at Least 26",
+        "summary": "Dozens more were injured in the explosion, which appeared to be one of the country’s deadliest in recent years."
+      },
+      {
+        "char": "🦠",
+        "label": "hantavirus outbreak on cruise ship",
+        "url": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
+        "title": "Three passengers dead after suspected hantavirus outbreak on cruise ship",
+        "summary": "Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill What is hantavirus, the infection thought to have killed three on cruise ship? A suspected outbreak of the rare hantavirus in..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada appoints new governor general",
+        "url": "https://www.theguardian.com/world/2026/may/05/carney-appoints-louise-arbor-canada-governor-general",
+        "title": "Carney appoints former war crimes prosecutor as Canada governor general",
+        "summary": "Louise Arbour will serve as Canada’s representative of King Charles and carry out ceremonial and constitutional duties Canada’s prime minister, Mark Carney, has appointed a former supreme court justice and war crimes prosecutor as the co..."
+      },
+      {
+        "char": "💰",
+        "label": "trump's oil deals in venezuela",
+        "url": "https://www.nytimes.com/2026/05/05/world/trump-venezuela-oil-deals.html",
+        "title": "In Venezuela, Trump Vowed to Show Accountability. But Secret Oil Deals Linger.",
+        "summary": "Trump officials and their Venezuelan allies have promised a new era of accountability to unlock Venezuela’s immense oil wealth. But the country’s oil industry remains a black hole."
+      },
+      {
+        "char": "🌌",
+        "label": "rare comet appears over southern hemisphere",
+        "url": "https://www.nytimes.com/2026/05/05/world/australia/comet-oort-cloud-nz-australia-south-africa.html",
+        "title": "Rare Comet Appears Over New Zealand, Australia and South Africa",
+        "summary": "Known as C/2025 R3 PANSTARRS, the comet will be visible to stargazers using a telescope in New Zealand, Australia and South Africa."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
