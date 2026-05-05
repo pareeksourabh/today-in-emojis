@@ -1,41 +1,41 @@
 {
   "date": "2026-05-05",
-  "timestamp": "2026-05-05T00:00:00Z",
+  "timestamp": "2026-05-05T10:05:40Z",
   "emojis": [
     {
-      "char": "🇺🇸",
-      "label": "us service members missing in morocco",
-      "url": "https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco",
-      "title": "Two US service members missing after military exercises in Morocco",
-      "summary": "Search and rescue operation launched after service members reported missing near south-western city of Tan Tan Two US service members are missing in south-western Morocco after taking part in annual multinational military exercises in th..."
+      "char": "🚁",
+      "label": "drone hits moscow high-rise",
+      "url": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html",
+      "title": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
+      "summary": "Air defenses in the Russian capital were breached as Ukraine expands long-range strikes."
     },
     {
-      "char": "🤖",
-      "label": "kenya's ai health reforms raise costs",
-      "url": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
-      "title": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
-      "summary": "Exclusive : amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found An AI system used to predict how much Kenyans can afford to pay for access..."
+      "char": "🌍",
+      "label": "kremlin lures africans into war",
+      "url": "https://www.nytimes.com/2026/05/04/world/africa/ukraine-russia-war-african-soldiers.html",
+      "title": "How the Kremlin Lures Africans Into Russia’s War in Ukraine",
+      "summary": "A growing number of men across the continent say they are being promised jobs in Russia, only to be forced into the war. Some go as mercenaries, but many more are drawn unwittingly."
     },
     {
-      "char": "🛳️",
+      "char": "🦠",
       "label": "hantavirus outbreak on cruise ship",
       "url": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
       "title": "British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship",
       "summary": "WHO says seven confirmed or suspected cases of hantavirus on MV Hondius, including three passengers who died What is hantavirus, the infection thought to have killed three on cruise ship? A British crew member was in need of urgent medic..."
     },
     {
-      "char": "🇨🇦",
-      "label": "canada at epc summit",
-      "url": "https://www.theguardian.com/world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
-      "title": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
-      "summary": "Attendance at European Political Community meeting in Yerevan seen as part of effort to build ties after US rupture Canada is to become the first non-European country to attend a meeting of the European Political Community when the prime..."
-    },
-    {
       "char": "🔥",
       "label": "explosion at china fireworks factory",
       "url": "https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html",
-      "title": "Fireworks Factory Explosion in China Kills at Least 21",
+      "title": "Fireworks Factory Explosion in China Kills at Least 26",
       "summary": "Dozens more were injured in the explosion, which appeared to be one of the country’s deadliest in recent years."
+    },
+    {
+      "char": "🗳️",
+      "label": "modi wins west bengal state election",
+      "url": "https://www.nytimes.com/2026/05/04/world/asia/india-modi-hindu-bjp-west-bengal.html",
+      "title": "Modi’s B.J.P. Wins West Bengal State Election for the First Time",
+      "summary": "The party of Prime Minister Narendra Modi took control of West Bengal for the first time and made gains around the country. Its defeated opponents accused it of cheating."
     }
   ],
   "source": "ai-openai",

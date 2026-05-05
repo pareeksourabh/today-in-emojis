@@ -39555,5 +39555,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-05",
+    "emojis": [
+      {
+        "char": "🚁",
+        "label": "drone hits moscow high-rise",
+        "url": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html",
+        "title": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
+        "summary": "Air defenses in the Russian capital were breached as Ukraine expands long-range strikes."
+      },
+      {
+        "char": "🌍",
+        "label": "kremlin lures africans into war",
+        "url": "https://www.nytimes.com/2026/05/04/world/africa/ukraine-russia-war-african-soldiers.html",
+        "title": "How the Kremlin Lures Africans Into Russia’s War in Ukraine",
+        "summary": "A growing number of men across the continent say they are being promised jobs in Russia, only to be forced into the war. Some go as mercenaries, but many more are drawn unwittingly."
+      },
+      {
+        "char": "🦠",
+        "label": "hantavirus outbreak on cruise ship",
+        "url": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
+        "title": "British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship",
+        "summary": "WHO says seven confirmed or suspected cases of hantavirus on MV Hondius, including three passengers who died What is hantavirus, the infection thought to have killed three on cruise ship? A British crew member was in need of urgent medic..."
+      },
+      {
+        "char": "🔥",
+        "label": "explosion at china fireworks factory",
+        "url": "https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html",
+        "title": "Fireworks Factory Explosion in China Kills at Least 26",
+        "summary": "Dozens more were injured in the explosion, which appeared to be one of the country’s deadliest in recent years."
+      },
+      {
+        "char": "🗳️",
+        "label": "modi wins west bengal state election",
+        "url": "https://www.nytimes.com/2026/05/04/world/asia/india-modi-hindu-bjp-west-bengal.html",
+        "title": "Modi’s B.J.P. Wins West Bengal State Election for the First Time",
+        "summary": "The party of Prime Minister Narendra Modi took control of West Bengal for the first time and made gains around the country. Its defeated opponents accused it of cheating."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
