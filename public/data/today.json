@@ -1,41 +1,41 @@
 {
   "date": "2026-05-05",
-  "timestamp": "2026-05-05T10:05:40Z",
+  "timestamp": "2026-05-05T00:00:00Z",
   "emojis": [
     {
-      "char": "🚁",
-      "label": "drone hits moscow high-rise",
-      "url": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html",
-      "title": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
-      "summary": "Air defenses in the Russian capital were breached as Ukraine expands long-range strikes."
+      "char": "🎨",
+      "label": "met gala fashion highlights",
+      "url": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss",
+      "title": "The most talked-about looks at this year's Met Gala",
+      "summary": "The theme for 2026 Met Gala fundraiser is \"Costume Art\", exploring fashion as an embodied art form."
+    },
+    {
+      "char": "🚴‍♂️",
+      "label": "bike ride reveals apartheid lessons",
+      "url": "https://www.nytimes.com/2026/05/05/world/africa/cape-town-apartheid-bike-ride.html",
+      "title": "What a Bike Ride in Cape Town Taught Me About Apartheid",
+      "summary": "A New York Times reporter joined a group of cyclists on a route meant to break down Cape Town’s lingering racial and economic barriers."
     },
     {
       "char": "🌍",
-      "label": "kremlin lures africans into war",
-      "url": "https://www.nytimes.com/2026/05/04/world/africa/ukraine-russia-war-african-soldiers.html",
-      "title": "How the Kremlin Lures Africans Into Russia’s War in Ukraine",
-      "summary": "A growing number of men across the continent say they are being promised jobs in Russia, only to be forced into the war. Some go as mercenaries, but many more are drawn unwittingly."
+      "label": "uae and saudi arabia rift explained",
+      "url": "https://www.nytimes.com/2026/05/05/world/middleeast/uae-saudi-arabia-oil-opec-what-to-know.html",
+      "title": "The Growing Rift Between the UAE and Saudi Arabia, Explained",
+      "summary": "Officials say competition between the countries is healthy. But tensions are mounting over energy quotas, regional conflicts and their different visions for the Middle East."
     },
     {
-      "char": "🦠",
+      "char": "🚑",
       "label": "hantavirus outbreak on cruise ship",
-      "url": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
-      "title": "British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship",
-      "summary": "WHO says seven confirmed or suspected cases of hantavirus on MV Hondius, including three passengers who died What is hantavirus, the infection thought to have killed three on cruise ship? A British crew member was in need of urgent medic..."
+      "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "title": "Second hantavirus case confirmed after deaths on cruise ship",
+      "summary": "The operator of the MV Hondius ship says a Dutch couple and a German national have died."
     },
     {
-      "char": "🔥",
-      "label": "explosion at china fireworks factory",
-      "url": "https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html",
-      "title": "Fireworks Factory Explosion in China Kills at Least 26",
-      "summary": "Dozens more were injured in the explosion, which appeared to be one of the country’s deadliest in recent years."
-    },
-    {
-      "char": "🗳️",
-      "label": "modi wins west bengal state election",
-      "url": "https://www.nytimes.com/2026/05/04/world/asia/india-modi-hindu-bjp-west-bengal.html",
-      "title": "Modi’s B.J.P. Wins West Bengal State Election for the First Time",
-      "summary": "The party of Prime Minister Narendra Modi took control of West Bengal for the first time and made gains around the country. Its defeated opponents accused it of cheating."
+      "char": "🦖",
+      "label": "dinosaur skull returned to brazil",
+      "url": "https://www.theguardian.com/science/2026/may/02/germany-brazil-irritator-dinosaur-skull-restitution",
+      "title": "German museum to return rare Irritator dinosaur skull to Brazil",
+      "summary": "Spinosaurid fossil bought by Stuttgart institution in 1991 has been the subject of a long restitution campaign It is a 113-million-year-old bone of contention. After Stuttgart’s museum of natural history bought a fossilised dinosaur skul..."
     }
   ],
   "source": "ai-openai",
