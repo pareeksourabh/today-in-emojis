@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "concerned",
-    "emoji": "😨",
-    "rationale": "The news items highlight significant tragedies, including deaths from a hantavirus outbreak and a deadly explosion, paired with ongoing conflicts, indicating a prevailing sense of concern and anxiety in the world today.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day is marked by tragic events, including fatalities from a hantavirus outbreak and a deadly factory explosion, underscoring a sense of loss and sorrow worldwide.",
     "palette": [
       "😢",
       "😡",
