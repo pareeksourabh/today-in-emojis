@@ -39819,5 +39819,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-06",
+    "emojis": [
+      {
+        "char": "🇱🇧",
+        "label": "israeli bombing devastates lebanon",
+        "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
+        "title": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon",
+        "summary": "The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country."
+      },
+      {
+        "char": "👮‍♂️",
+        "label": "german police raid neo-nazi groups",
+        "url": "https://www.bbc.com/news/articles/cgkpmy6l2deo?at_medium=RSS&at_campaign=rss",
+        "title": "German police raid neo-Nazi criminal youth groups",
+        "summary": "Police search locations in 12 states, mainly in the East and South of the country in what prosecutors say is a targeted raid."
+      },
+      {
+        "char": "📰",
+        "label": "us cancels visas for costa rica newspaper",
+        "url": "https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump",
+        "title": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
+        "summary": "Leading newspaper La Nación calls US’s barring of board members ‘indirect attack on press freedom’ The US state department has cancelled tourist visas for more than half of the board members of Costa Rica’s leading national newspaper, La..."
+      },
+      {
+        "char": "📺",
+        "label": "cnn founder ted turner dies at 87",
+        "url": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
+        "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
+        "summary": "The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980."
+      },
+      {
+        "char": "⛪",
+        "label": "leo xiv is first us pope",
+        "url": "https://www.nytimes.com/2026/05/06/world/europe/leo-first-american-pope.html",
+        "title": "Leo XIV Is the First Pope From the U.S. He’s Making That an Asset.",
+        "summary": "A year into his papacy, Leo has shown a readiness to challenge Washington, defying any concerns about the election of an American pontiff."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
