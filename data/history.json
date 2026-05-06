@@ -39687,5 +39687,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-06",
+    "emojis": [
+      {
+        "char": "💥",
+        "label": "fireworks factory explosion in china",
+        "url": "https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html",
+        "title": "Fireworks Factory Explosion in China Kills at Least 26",
+        "summary": "Dozens more were injured in the explosion, which appeared to be one of the country’s deadliest in recent years."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada at epc summit",
+        "url": "https://www.theguardian.com/world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
+        "title": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
+        "summary": "Attendance at European Political Community meeting in Yerevan seen as part of effort to build ties after US rupture Canada is to become the first non-European country to attend a meeting of the European Political Community when the prime..."
+      },
+      {
+        "char": "🎻",
+        "label": "fiddler sues google over ai error",
+        "url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
+        "title": "Canadian fiddler sues Google after AI Overview wrongly claimed he was a sex offender",
+        "summary": "Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate information led to concert cancellation An acclaimed Canadian fiddle player has launched a $1.5m civil lawsuit against Google , alleging that the online giant defame..."
+      },
+      {
+        "char": "🔒",
+        "label": "alberta voter data breach",
+        "url": "https://www.theguardian.com/world/2026/may/05/canada-voting-data-breach-separatists",
+        "title": "Alberta voter data leaked as separatists file signatures for independence vote",
+        "summary": "Authorities investigate leak of 2.9 million voters’ details, adding to turmoil over push for independence referendum Alberta separatists have delivered more than 300,000 signatures to elections officials in western Canada , in support of..."
+      },
+      {
+        "char": "⛽",
+        "label": "nigerian refinery and jet fuel shortage",
+        "url": "https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz",
+        "title": "Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage",
+        "summary": "Heidi Alexander says part of answer to strait of Hormuz crisis is importing more fuel from US and west Africa A refinery in Nigeria accused of dismissing workers for joining a union has emerged as key to the UK government’s hopes of savi..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
