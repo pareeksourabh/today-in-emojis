@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "sadness",
+    "emotion_label": "😢",
     "emoji": "😢",
-    "rationale": "The news items today highlight significant tragedies, including a deadly explosion and missing service members, alongside ongoing global tensions, creating an overall atmosphere of sadness and concern.",
+    "rationale": "Today's news reflects a mix of tragedy and concern, from the devastating explosion in China to the ongoing conflicts and humanitarian issues. The emotional toll of these events fosters a sense of sadness and empathy.",
     "palette": [
       "😢",
       "😡",
