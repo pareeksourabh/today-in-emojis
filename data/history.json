@@ -39731,5 +39731,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-06",
+    "emojis": [
+      {
+        "char": "🛳️",
+        "label": "cruise ship hantavirus outbreak",
+        "url": "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html",
+        "title": "Cruise Ship Struck by Hantavirus Is to Head to Canary Islands, W.H.O. Says",
+        "summary": "The Spanish government will receive the vessel. The World Health Organization said human-to-human transmission may have played a role in the outbreak."
+      },
+      {
+        "char": "🇨🇳",
+        "label": "china calls for strait reopening",
+        "url": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss",
+        "title": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
+        "summary": "Wang Yi is holding talks with Iran's foreign minister Aragchi who is on his first trip to China since the war began."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "trump's secret oil deals in venezuela",
+        "url": "https://www.nytimes.com/2026/05/05/world/trump-venezuela-oil-deals.html",
+        "title": "In Venezuela, Trump Vowed to Show Accountability. But Secret Oil Deals Linger.",
+        "summary": "Trump officials and their Venezuelan allies have promised a new era of accountability to unlock Venezuela’s immense oil wealth. But the country’s oil industry remains a black hole."
+      },
+      {
+        "char": "🎻",
+        "label": "fiddler sues google over ai error",
+        "url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
+        "title": "Canadian fiddler sues Google after AI Overview wrongly claimed he was a sex offender",
+        "summary": "Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate information led to concert cancellation An acclaimed Canadian fiddle player has launched a $1.5m civil lawsuit against Google , alleging that the online giant defame..."
+      },
+      {
+        "char": "🌌",
+        "label": "rare comet appears over three countries",
+        "url": "https://www.nytimes.com/2026/05/05/world/australia/comet-oort-cloud-nz-australia-south-africa.html",
+        "title": "Rare Comet Appears Over New Zealand, Australia and South Africa",
+        "summary": "Known as C/2025 R3 PANSTARRS, the comet will be visible to stargazers using a telescope in New Zealand, Australia and South Africa."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
