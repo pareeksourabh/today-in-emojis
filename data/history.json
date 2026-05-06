@@ -39775,5 +39775,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-06",
+    "emojis": [
+      {
+        "char": "🇲🇽",
+        "label": "mexico nightclub cover charge",
+        "url": "https://www.theguardian.com/world/2026/may/06/mexico-nightclub-cover-charge-us-citizens",
+        "title": "Mexico nightclub’s $300 cover charge for US citizens captures popular mood",
+        "summary": "Owner of Japan nightclub says ‘This is a response to a year of insults directed at us – as a country – by the United States’ A Mexico City nightclub has gone viral for charging Americans a nearly $300 cover charge, while citizens from an..."
+      },
+      {
+        "char": "🕊️",
+        "label": "trump seeks end to iran war",
+        "url": "https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html",
+        "title": "Trump Looks for a Silver Bullet to End the Iran War. There May Be None.",
+        "summary": "The president is trying to ratchet up the economic pressure on Tehran, but Iran’s government is unlikely to make a deal without a big, face-saving compromise."
+      },
+      {
+        "char": "🚀",
+        "label": "massive alaska megatsunami recorded",
+        "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
+        "title": "Massive Alaska megatsunami was second largest ever recorded",
+        "summary": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves."
+      },
+      {
+        "char": "📰",
+        "label": "us cancels costa rica newspaper visas",
+        "url": "https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump",
+        "title": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
+        "summary": "Leading newspaper La Nación calls US’s barring of board members ‘indirect attack on press freedom’ The US state department has cancelled tourist visas for more than half of the board members of Costa Rica’s leading national newspaper, La..."
+      },
+      {
+        "char": "🌍",
+        "label": "kenya's ai health reforms issues",
+        "url": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
+        "title": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
+        "summary": "Exclusive : amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found An AI system used to predict how much Kenyans can afford to pay for access..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
