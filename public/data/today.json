@@ -1,13 +1,20 @@
 {
   "date": "2026-05-06",
-  "timestamp": "2026-05-06T00:00:00Z",
+  "timestamp": "2026-05-06T02:01:50Z",
   "emojis": [
     {
       "char": "🗳️",
-      "label": "alberta voter data leak",
-      "url": "https://www.theguardian.com/world/2026/may/05/canada-voting-data-breach-separatists",
-      "title": "Alberta voter data leaked as separatists file signatures for independence vote",
-      "summary": "Authorities investigate leak of 2.9 million voters’ details, adding to turmoil over push for independence referendum Alberta separatists have delivered more than 300,000 signatures to elections officials in western Canada , in support of..."
+      "label": "politics reshaped in india",
+      "url": "https://www.bbc.com/news/articles/c8xwjx54zggo?at_medium=RSS&at_campaign=rss",
+      "title": "A 'fun' superstar stuns rivals and reshapes politics in an Indian state",
+      "summary": "Film star Vijay has defied naysayers to almost sweep Tamil Nadu polls, marking a break in the political order."
+    },
+    {
+      "char": "🧗‍♀️",
+      "label": "search for missing hiker called off",
+      "url": "https://www.theguardian.com/world/2026/may/06/missing-hiker-canada-search-called-off-denise-williams",
+      "title": "Search called off for Australian hiker missing in rugged Canadian national park",
+      "summary": "Police suspend ‘extensive’ six-day air and ground search in Nova Scotia, citing ‘no new information’ Teams in eastern Canada have called off an “extensive” six-day air and ground search of a rugged park for a missing Australian hiker . T..."
     },
     {
       "char": "💥",
@@ -17,25 +24,18 @@
       "summary": "Dozens more were injured in the explosion, which appeared to be one of the country’s deadliest in recent years."
     },
     {
-      "char": "🦖",
-      "label": "dinosaur skull returned to brazil",
-      "url": "https://www.theguardian.com/science/2026/may/02/germany-brazil-irritator-dinosaur-skull-restitution",
-      "title": "German museum to return rare Irritator dinosaur skull to Brazil",
-      "summary": "Spinosaurid fossil bought by Stuttgart institution in 1991 has been the subject of a long restitution campaign It is a 113-million-year-old bone of contention. After Stuttgart’s museum of natural history bought a fossilised dinosaur skul..."
+      "char": "⚖️",
+      "label": "trump's secret oil deals in venezuela",
+      "url": "https://www.nytimes.com/2026/05/05/world/trump-venezuela-oil-deals.html",
+      "title": "In Venezuela, Trump Vowed to Show Accountability. But Secret Oil Deals Linger.",
+      "summary": "Trump officials and their Venezuelan allies have promised a new era of accountability to unlock Venezuela’s immense oil wealth. But the country’s oil industry remains a black hole."
     },
     {
-      "char": "🚢",
-      "label": "hantavirus outbreak on cruise ship",
-      "url": "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html",
-      "title": "Cruise Ship Struck by Hantavirus Is to Head to Canary Islands, W.H.O. Says",
-      "summary": "The Spanish government will receive the vessel. The World Health Organization said human-to-human transmission may have played a role in the outbreak."
-    },
-    {
-      "char": "🌍",
-      "label": "trump's focus on iran war",
-      "url": "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz",
-      "title": "Iran War Live Updates: Trump Again Shifts U.S. Focus on Strait, Pausing Day-Old Escort Mission",
-      "summary": "The president made the announcement in a social media post just hours after Secretary of State Marco Rubio had affirmed the newly created mission, which bore little connection to the original justification for war."
+      "char": "⛏️",
+      "label": "nine miners die in colombia explosion",
+      "url": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
+      "title": "Nine coal miners die in gas explosion in Colombia",
+      "summary": "The explosion is the latest accident in the locality of Sutatausa, the site of another deadly mine disaster in 2023."
     }
   ],
   "source": "ai-openai",

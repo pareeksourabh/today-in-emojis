@@ -39643,5 +39643,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-06",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "politics reshaped in india",
+        "url": "https://www.bbc.com/news/articles/c8xwjx54zggo?at_medium=RSS&at_campaign=rss",
+        "title": "A 'fun' superstar stuns rivals and reshapes politics in an Indian state",
+        "summary": "Film star Vijay has defied naysayers to almost sweep Tamil Nadu polls, marking a break in the political order."
+      },
+      {
+        "char": "🧗‍♀️",
+        "label": "search for missing hiker called off",
+        "url": "https://www.theguardian.com/world/2026/may/06/missing-hiker-canada-search-called-off-denise-williams",
+        "title": "Search called off for Australian hiker missing in rugged Canadian national park",
+        "summary": "Police suspend ‘extensive’ six-day air and ground search in Nova Scotia, citing ‘no new information’ Teams in eastern Canada have called off an “extensive” six-day air and ground search of a rugged park for a missing Australian hiker . T..."
+      },
+      {
+        "char": "💥",
+        "label": "fireworks factory explosion in china",
+        "url": "https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html",
+        "title": "Fireworks Factory Explosion in China Kills at Least 26",
+        "summary": "Dozens more were injured in the explosion, which appeared to be one of the country’s deadliest in recent years."
+      },
+      {
+        "char": "⚖️",
+        "label": "trump's secret oil deals in venezuela",
+        "url": "https://www.nytimes.com/2026/05/05/world/trump-venezuela-oil-deals.html",
+        "title": "In Venezuela, Trump Vowed to Show Accountability. But Secret Oil Deals Linger.",
+        "summary": "Trump officials and their Venezuelan allies have promised a new era of accountability to unlock Venezuela’s immense oil wealth. But the country’s oil industry remains a black hole."
+      },
+      {
+        "char": "⛏️",
+        "label": "nine miners die in colombia explosion",
+        "url": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
+        "title": "Nine coal miners die in gas explosion in Colombia",
+        "summary": "The explosion is the latest accident in the locality of Sutatausa, the site of another deadly mine disaster in 2023."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
