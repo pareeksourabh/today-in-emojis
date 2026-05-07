@@ -1,41 +1,41 @@
 {
   "date": "2026-05-07",
-  "timestamp": "2026-05-07T10:26:50Z",
+  "timestamp": "2026-05-07T00:00:00Z",
   "emojis": [
     {
+      "char": "🛢️",
+      "label": "iran's oil sector under pressure",
+      "url": "https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html",
+      "title": "Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites",
+      "summary": "Tehran says it can endure the pain, but its oil may soon have nowhere to go."
+    },
+    {
+      "char": "🚢",
+      "label": "hantavirus-hit cruise ship evacuations",
+      "url": "https://www.theguardian.com/world/2026/may/06/cruise-ship-hantavirus-strain-andes-spread-humans-south-africa",
+      "title": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
+      "summary": "British guide Martin Anstee among those evacuated from MV Hondius, which is now heading for Canary Islands Explainer: What is hantavirus? Three people with suspected hantavirus have been medically evacuated from a cruise ship. They inclu..."
+    },
+    {
+      "char": "🇲🇽",
+      "label": "mexico nightclub cover charge for us",
+      "url": "https://www.theguardian.com/world/2026/may/06/mexico-nightclub-cover-charge-us-citizens",
+      "title": "Mexico nightclub’s $300 cover charge for US citizens captures popular mood",
+      "summary": "Owner of Japan nightclub says ‘This is a response to a year of insults directed at us – as a country – by the United States’ A Mexico City nightclub has gone viral for charging Americans a nearly $300 cover charge, while citizens from an..."
+    },
+    {
       "char": "🗳️",
-      "label": "uk local elections and starmer",
-      "url": "https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-2026-keir-starmer.html",
-      "title": "Starmer Braces for Local Election Losses Amid New Era of UK Politics",
-      "summary": "Polls predict historic losses for Prime Minister Keir Starmer’s Labour Party on Thursday as anti-immigrant Reform U.K. makes gains, and a new era of multiparty politics takes shape."
+      "label": "starmer faces major election test",
+      "url": "https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-starmer.html",
+      "title": "Starmer Faces a Major Test in a Set of UK Elections: What to Know",
+      "summary": "Local elections in England, and parliamentary elections in Scotland and Wales, take place on Thursday. The governing Labour Party is expected to do very badly."
     },
     {
-      "char": "🇦🇺",
-      "label": "isis-linked women return to australia",
-      "url": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
-      "title": "Islamic State-linked women arrive home in Australia from Syria",
-      "summary": "A group of nine women and children has landed in Melbourne while another woman and her child arrived in Sydney."
-    },
-    {
-      "char": "⛪",
-      "label": "leo xiv: first us pope",
-      "url": "https://www.nytimes.com/2026/05/06/world/europe/leo-first-american-pope.html",
-      "title": "Leo XIV Is the First Pope From the U.S. He’s Making That an Asset.",
-      "summary": "A year into his papacy, Leo has shown a readiness to challenge Washington, defying any concerns about the election of an American pontiff."
-    },
-    {
-      "char": "🦠",
-      "label": "hantavirus outbreak in argentina",
-      "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
-      "title": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
-      "summary": "Argentina, where the MV Hondius cruise departed, consistently ranked by WHO as having highest incidence of hantavirus in region Officials and experts in Argentina are scrambling to determine if their country is the source of a deadly han..."
-    },
-    {
-      "char": "🤝",
-      "label": "trump hosts lula at white house",
-      "url": "https://www.nytimes.com/2026/05/07/world/americas/trump-brazil-lula-meeting.html",
-      "title": "Trump to Host Brazil’s President Lula at White House After Months of Ups and Downs",
-      "summary": "President Trump and President Luiz Inácio Lula da Silva, who have had a rocky relationship, will meet on Thursday for talks on security, trade and critical minerals."
+      "char": "🌍",
+      "label": "trump's counter-terrorism strategy",
+      "url": "https://www.theguardian.com/us-news/2026/may/07/new-trump-counterterrorism-strategy-targets-europe-terrorism-migration",
+      "title": "US says migration has made Europe an ‘incubator’ for terrorism in new counter-terrorism strategy",
+      "summary": "The 16-page report was led by Trump-ally Sebastian Gorka, and places drug cartels in the Americas at the centre of counter-terrorism efforts The Trump administration has accused Europe of being an “incubator” for terrorism fuelled by mas..."
     }
   ],
   "source": "ai-openai",
