@@ -39951,5 +39951,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-07",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "uk local elections and starmer",
+        "url": "https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-2026-keir-starmer.html",
+        "title": "Starmer Braces for Local Election Losses Amid New Era of UK Politics",
+        "summary": "Polls predict historic losses for Prime Minister Keir Starmer’s Labour Party on Thursday as anti-immigrant Reform U.K. makes gains, and a new era of multiparty politics takes shape."
+      },
+      {
+        "char": "🇦🇺",
+        "label": "isis-linked women return to australia",
+        "url": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
+        "title": "Islamic State-linked women arrive home in Australia from Syria",
+        "summary": "A group of nine women and children has landed in Melbourne while another woman and her child arrived in Sydney."
+      },
+      {
+        "char": "⛪",
+        "label": "leo xiv: first us pope",
+        "url": "https://www.nytimes.com/2026/05/06/world/europe/leo-first-american-pope.html",
+        "title": "Leo XIV Is the First Pope From the U.S. He’s Making That an Asset.",
+        "summary": "A year into his papacy, Leo has shown a readiness to challenge Washington, defying any concerns about the election of an American pontiff."
+      },
+      {
+        "char": "🦠",
+        "label": "hantavirus outbreak in argentina",
+        "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
+        "title": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
+        "summary": "Argentina, where the MV Hondius cruise departed, consistently ranked by WHO as having highest incidence of hantavirus in region Officials and experts in Argentina are scrambling to determine if their country is the source of a deadly han..."
+      },
+      {
+        "char": "🤝",
+        "label": "trump hosts lula at white house",
+        "url": "https://www.nytimes.com/2026/05/07/world/americas/trump-brazil-lula-meeting.html",
+        "title": "Trump to Host Brazil’s President Lula at White House After Months of Ups and Downs",
+        "summary": "President Trump and President Luiz Inácio Lula da Silva, who have had a rocky relationship, will meet on Thursday for talks on security, trade and critical minerals."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
