@@ -39863,5 +39863,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-07",
+    "emojis": [
+      {
+        "char": "🛳️",
+        "label": "hantavirus outbreak on cruise ship",
+        "url": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
+        "title": "Three passengers dead after suspected hantavirus outbreak on cruise ship",
+        "summary": "Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill What is hantavirus, the infection thought to have killed three on cruise ship? A suspected outbreak of the rare hantavirus in..."
+      },
+      {
+        "char": "🛡️",
+        "label": "weapons of war in romania",
+        "url": "https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html",
+        "title": "In Romania, Living With Weapons of War Spilling Into NATO Territory",
+        "summary": "Four years of battle in Ukraine is taking a toll on neighboring Romanians. Even if the war has not crossed the border, drones have done so."
+      },
+      {
+        "char": "🌊",
+        "label": "china calls for opening strait of hormuz",
+        "url": "https://www.nytimes.com/2026/05/06/world/asia/china-iran-us-trump-hormuz.html",
+        "title": "In Talks With Iran, China Calls for Opening of Strait of Hormuz",
+        "summary": "China’s top diplomat also warned against the restarting of hostilities as he met with Iran’s foreign minister. The U.S. has urged China to pressure Iran to reopen the waterway."
+      },
+      {
+        "char": "📚",
+        "label": "reclaiming black hero's name",
+        "url": "https://www.nytimes.com/2026/05/06/world/canada/uncle-toms-cabin-ontario-josiah-henson.html",
+        "title": "Reclaiming the Name of the Black Hero Who Inspired ‘Uncle Tom’s Cabin’",
+        "summary": "After 42 years of slavery, Josiah Henson escaped to Canada, where he wrote a memoir, founded a school and led others to freedom. But his home long bore the name “Uncle Tom,” to the offense of many."
+      },
+      {
+        "char": "📰",
+        "label": "us cancels visas for costa rica newspaper",
+        "url": "https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump",
+        "title": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
+        "summary": "Leading newspaper La Nación calls US’s barring of board members ‘indirect attack on press freedom’ The US state department has cancelled tourist visas for more than half of the board members of Costa Rica’s leading national newspaper, La..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
