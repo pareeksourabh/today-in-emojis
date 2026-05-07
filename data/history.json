@@ -39907,5 +39907,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-07",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "trump's iran peace deal caveats",
+        "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump's hopes for an Iran peace deal come with caveats",
+        "summary": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution."
+      },
+      {
+        "char": "🧗‍♀️",
+        "label": "search for missing hiker called off",
+        "url": "https://www.theguardian.com/world/2026/may/06/missing-hiker-canada-search-called-off-denise-williams",
+        "title": "Search called off for Australian hiker missing in rugged Canadian national park",
+        "summary": "Police suspend ‘extensive’ six-day air and ground search in Nova Scotia, citing ‘no new information’ Teams in eastern Canada have called off an “extensive” six-day air and ground search of a rugged park for a missing Australian hiker . T..."
+      },
+      {
+        "char": "🚢",
+        "label": "hantavirus outbreak on cruise ship",
+        "url": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
+        "title": "British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship",
+        "summary": "WHO says seven confirmed or suspected cases of hantavirus on MV Hondius, including three passengers who died What is hantavirus, the infection thought to have killed three on cruise ship? A British crew member was in need of urgent medic..."
+      },
+      {
+        "char": "🌍",
+        "label": "us counter-terrorism strategy for europe",
+        "url": "https://www.theguardian.com/us-news/2026/may/07/new-trump-counterterrorism-strategy-targets-europe-terrorism-migration",
+        "title": "US says migration has made Europe an ‘incubator’ for terrorism in new counter-terrorism strategy",
+        "summary": "The 16-page report was led by Trump-ally Sebastian Gorka, and places drug cartels in the Americas at the centre of counter-terrorism efforts The Trump administration has accused Europe of being an “incubator” for terrorism fuelled by mas..."
+      },
+      {
+        "char": "💔",
+        "label": "vigil for murdered girl in australia",
+        "url": "https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss",
+        "title": "Vigils to be held across Australia for 5-year-old girl allegedly murdered in Outback",
+        "summary": "Kumanjayi Little Baby was found dead after going missing from an Aboriginal town camp in Alice Springs."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
