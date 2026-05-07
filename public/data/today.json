@@ -1,41 +1,41 @@
 {
   "date": "2026-05-07",
-  "timestamp": "2026-05-07T02:04:09Z",
+  "timestamp": "2026-05-07T00:00:00Z",
   "emojis": [
     {
-      "char": "🛳️",
+      "char": "⚽",
+      "label": "world cup ticket pricing in argentina",
+      "url": "https://www.nytimes.com/2026/05/06/world/americas/2026-world-cup-ticket-prices-argentina.html",
+      "title": "World Cup Dynamic Ticket Pricing Drives Argentine Soccer Fans To Extremes",
+      "summary": "Dynamic ticket pricing has made this year’s tournament the most expensive in history, pushing Argentine fans to extremes."
+    },
+    {
+      "char": "🦠",
       "label": "hantavirus outbreak on cruise ship",
-      "url": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
-      "title": "Three passengers dead after suspected hantavirus outbreak on cruise ship",
-      "summary": "Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill What is hantavirus, the infection thought to have killed three on cruise ship? A suspected outbreak of the rare hantavirus in..."
+      "url": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
+      "title": "British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship",
+      "summary": "WHO says seven confirmed or suspected cases of hantavirus on MV Hondius, including three passengers who died What is hantavirus, the infection thought to have killed three on cruise ship? A British crew member was in need of urgent medic..."
     },
     {
-      "char": "🛡️",
-      "label": "weapons of war in romania",
-      "url": "https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html",
-      "title": "In Romania, Living With Weapons of War Spilling Into NATO Territory",
-      "summary": "Four years of battle in Ukraine is taking a toll on neighboring Romanians. Even if the war has not crossed the border, drones have done so."
+      "char": "🪖",
+      "label": "us service members missing in morocco",
+      "url": "https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco",
+      "title": "Two US service members missing after military exercises in Morocco",
+      "summary": "Search and rescue operation launched after service members reported missing near south-western city of Tan Tan Two US service members are missing in south-western Morocco after taking part in annual multinational military exercises in th..."
     },
     {
-      "char": "🌊",
-      "label": "china calls for opening strait of hormuz",
-      "url": "https://www.nytimes.com/2026/05/06/world/asia/china-iran-us-trump-hormuz.html",
-      "title": "In Talks With Iran, China Calls for Opening of Strait of Hormuz",
-      "summary": "China’s top diplomat also warned against the restarting of hostilities as he met with Iran’s foreign minister. The U.S. has urged China to pressure Iran to reopen the waterway."
+      "char": "🌍",
+      "label": "new us counter-terrorism strategy",
+      "url": "https://www.theguardian.com/us-news/2026/may/07/new-trump-counterterrorism-strategy-targets-europe-terrorism-migration",
+      "title": "US says migration has made Europe an ‘incubator’ for terrorism in new counter-terrorism strategy",
+      "summary": "The 16-page report was led by Trump-ally Sebastian Gorka, and places drug cartels in the Americas at the centre of counter-terrorism efforts The Trump administration has accused Europe of being an “incubator” for terrorism fuelled by mas..."
     },
     {
-      "char": "📚",
-      "label": "reclaiming black hero's name",
-      "url": "https://www.nytimes.com/2026/05/06/world/canada/uncle-toms-cabin-ontario-josiah-henson.html",
-      "title": "Reclaiming the Name of the Black Hero Who Inspired ‘Uncle Tom’s Cabin’",
-      "summary": "After 42 years of slavery, Josiah Henson escaped to Canada, where he wrote a memoir, founded a school and led others to freedom. But his home long bore the name “Uncle Tom,” to the offense of many."
-    },
-    {
-      "char": "📰",
-      "label": "us cancels visas for costa rica newspaper",
-      "url": "https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump",
-      "title": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
-      "summary": "Leading newspaper La Nación calls US’s barring of board members ‘indirect attack on press freedom’ The US state department has cancelled tourist visas for more than half of the board members of Costa Rica’s leading national newspaper, La..."
+      "char": "🏥",
+      "label": "kenya's ai healthcare cost issues",
+      "url": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
+      "title": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
+      "summary": "Exclusive : amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found An AI system used to predict how much Kenyans can afford to pay for access..."
     }
   ],
   "source": "ai-openai",
