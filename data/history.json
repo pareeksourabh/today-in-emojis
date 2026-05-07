@@ -40039,5 +40039,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-07",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "somalia protester jailed",
+        "url": "https://www.theguardian.com/global-development/2026/may/07/sadia-moalim-ali-woman-somalia-jail-peaceful-protest",
+        "title": "Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
+        "summary": "In an exclusive interview from prison, Sadia Moalim Ali, a 27-year-old rickshaw driver, tells of her treatment after being arrested for demonstrating against the government A woman being held in prison in Somalia for taking part in peace..."
+      },
+      {
+        "char": "🚢",
+        "label": "hantavirus outbreak on cruise ship",
+        "url": "https://www.theguardian.com/world/2026/may/06/cruise-ship-hantavirus-strain-andes-spread-humans-south-africa",
+        "title": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
+        "summary": "British guide Martin Anstee among those evacuated from MV Hondius, which is now heading for Canary Islands Explainer: What is hantavirus? Three people with suspected hantavirus have been medically evacuated from a cruise ship. They inclu..."
+      },
+      {
+        "char": "🌍",
+        "label": "mexico city sinking issue",
+        "url": "https://www.theguardian.com/world/2026/may/07/mexico-city-sinking-subsidence-2cm-a-month-nasa-nisar",
+        "title": "Up to 2cm a month: Nasa keeps track as Mexico City sinks into the ground",
+        "summary": "Powerful radar system is providing new data on city’s subsidence, which experts hope will draw more attention to it Walking into Mexico City’s sprawling central Zócalo is a dizzying experience. At one end of the plaza, the capital’s cath..."
+      },
+      {
+        "char": "📰",
+        "label": "us cancels costa rica visas",
+        "url": "https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump",
+        "title": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
+        "summary": "Leading newspaper La Nación calls US’s barring of board members ‘indirect attack on press freedom’ The US state department has cancelled tourist visas for more than half of the board members of Costa Rica’s leading national newspaper, La..."
+      },
+      {
+        "char": "🇦🇺",
+        "label": "isis women return to australia",
+        "url": "https://www.nytimes.com/2026/05/07/world/asia/australia-isis-women-children-syria.html",
+        "title": "Australian Women and Children Linked to ISIS Fighters Return Home",
+        "summary": "The police said two of them would face charges of crimes against humanity and the third would face a charge of belonging to a terrorist group."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
