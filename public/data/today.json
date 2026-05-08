@@ -1,41 +1,41 @@
 {
   "date": "2026-05-08",
-  "timestamp": "2026-05-08T09:26:02Z",
+  "timestamp": "2026-05-08T00:00:00Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "us-iran ceasefire update",
-      "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
-      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-      "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas."
-    },
-    {
-      "char": "✈️",
-      "label": "ntsb report on china crash",
-      "url": "https://www.nytimes.com/2026/05/07/world/asia/china-eastern-plane-crash-flight-5735-ntsb.html",
-      "title": "New NTSB Report Into Deadly China Eastern Crash Suggests Struggle in Cockpit",
-      "summary": "A report by the U.S. National Transportation Safety Board offers new details about the China Eastern Airlines crash in 2022, which killed all 132 people on board."
-    },
-    {
-      "char": "🗳️",
-      "label": "uk election results live",
-      "url": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results",
-      "title": "Live Updates: Early U.K. Election Results Point to Big Losses for Starmer’s Party",
-      "summary": "With votes still being tallied in thousands of local races, Prime Minister Keir Starmer took responsibility for large Labour Party losses of council seats but insisted he would not resign."
-    },
-    {
-      "char": "🌋",
-      "label": "indonesia volcano eruption",
-      "url": "https://www.nytimes.com/2026/05/08/world/asia/indonesia-volcano-eruption-dukono-hikers.html",
-      "title": "3 Hikers Dead and Several Missing After Volcano Erupts in Indonesia",
-      "summary": "The Indonesian authorities reported the deaths after Mount Dukono erupted on Friday morning. Rescue workers are trying to evacuate climbers."
-    },
-    {
       "char": "🌍",
-      "label": "mexico city sinking issue",
+      "label": "mexico city sinking into the ground",
       "url": "https://www.theguardian.com/world/2026/may/07/mexico-city-sinking-subsidence-2cm-a-month-nasa-nisar",
       "title": "Up to 2cm a month: Nasa keeps track as Mexico City sinks into the ground",
       "summary": "Powerful radar system is providing new data on city’s subsidence, which experts hope will draw more attention to it Walking into Mexico City’s sprawling central Zócalo is a dizzying experience. At one end of the plaza, the capital’s cath..."
+    },
+    {
+      "char": "🦠",
+      "label": "hantavirus outbreak on cruise ship",
+      "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
+      "title": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
+      "summary": "Argentina, where the MV Hondius cruise departed, consistently ranked by WHO as having highest incidence of hantavirus in region Officials and experts in Argentina are scrambling to determine if their country is the source of a deadly han..."
+    },
+    {
+      "char": "⚖️",
+      "label": "south africa president impeachment inquiry",
+      "url": "https://www.nytimes.com/2026/05/08/world/africa/south-africa-president-ramaphosa-court-ruling-impeachment.html",
+      "title": "Court Decision Leaves South Africa’s President Facing Impeachment Inquiry",
+      "summary": "Judges ruled that an impeachment hearing should be held over a case involving money stolen from a couch at President Cyril Ramaphosa’s farm six years ago."
+    },
+    {
+      "char": "🎭",
+      "label": "mexico nightclub cover charge controversy",
+      "url": "https://www.theguardian.com/world/2026/may/06/mexico-nightclub-cover-charge-us-citizens",
+      "title": "Mexico nightclub’s $300 cover charge for US citizens captures popular mood",
+      "summary": "Owner of Japan nightclub says ‘This is a response to a year of insults directed at us – as a country – by the United States’ A Mexico City nightclub has gone viral for charging Americans a nearly $300 cover charge, while citizens from an..."
+    },
+    {
+      "char": "🌋",
+      "label": "hikers dead after volcano erupts",
+      "url": "https://www.nytimes.com/2026/05/08/world/asia/indonesia-volcano-eruption-dukono-hikers.html",
+      "title": "3 Hikers Dead After Volcano Erupts in Indonesia",
+      "summary": "Indonesian authorities said other climbers had safely evacuated Mount Dukono, which had been off-limits because of volcanic activity."
     }
   ],
   "source": "ai-openai",
