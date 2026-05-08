@@ -40215,5 +40215,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-08",
+    "emojis": [
+      {
+        "char": "🇩🇪",
+        "label": "germany clashes over iran threat",
+        "url": "https://www.nytimes.com/2026/05/07/world/europe/germany-merz-iran-security-threat-spy.html",
+        "title": "German Leaders Clash With Spy Chiefs Over Domestic Threat From Iran",
+        "summary": "Intelligence agents have privately warned of the potential of hybrid attacks from Iran-linked groups. But political leaders, including Chancellor Friedrich Merz, have publicly played down the risk."
+      },
+      {
+        "char": "🚢",
+        "label": "hantavirus outbreak on cruise ship",
+        "url": "https://www.theguardian.com/world/2026/may/06/cruise-ship-hantavirus-strain-andes-spread-humans-south-africa",
+        "title": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
+        "summary": "British guide Martin Anstee among those evacuated from MV Hondius, which is now heading for Canary Islands Explainer: What is hantavirus? Three people with suspected hantavirus have been medically evacuated from a cruise ship. They inclu..."
+      },
+      {
+        "char": "💻",
+        "label": "cyber attack on us universities",
+        "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
+        "title": "Cyber attack disrupts swathe of US and Canada universities and schools",
+        "summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across North America."
+      },
+      {
+        "char": "🌋",
+        "label": "volcano eruption kills hikers in indonesia",
+        "url": "https://www.nytimes.com/2026/05/08/world/asia/indonesia-volcano-eruption-dukono-hikers.html",
+        "title": "3 Hikers Dead After Volcano Erupts in Indonesia",
+        "summary": "Indonesian authorities said other climbers had safely evacuated Mount Dukono, which had been off-limits because of volcanic activity."
+      },
+      {
+        "char": "⚖️",
+        "label": "south africa president faces impeachment",
+        "url": "https://www.nytimes.com/2026/05/08/world/africa/south-africa-president-ramaphosa-court-ruling-impeachment.html",
+        "title": "South Africa’s President Faces Potential Impeachment After Court Decision",
+        "summary": "Judges ordered Parliament to convene a committee to consider removing President Cyril Ramaphosa over a case involving money stolen from a couch at his farm six years ago."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
