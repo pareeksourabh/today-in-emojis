@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concern",
-    "emoji": "😨",
-    "rationale": "The news highlights significant global issues, including human rights violations, environmental concerns, and political instability, contributing to an overall sense of anxiety and concern.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day is marked by significant suffering and injustice, from a woman jailed in Somalia for peaceful protest to the deaths from a volcanic eruption in Indonesia. Such events evoke a deep sense of sadness and concern for human rights.",
     "palette": [
       "😢",
       "😡",
