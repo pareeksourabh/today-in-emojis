@@ -40259,5 +40259,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-08",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "mexico city sinking into the ground",
+        "url": "https://www.theguardian.com/world/2026/may/07/mexico-city-sinking-subsidence-2cm-a-month-nasa-nisar",
+        "title": "Up to 2cm a month: Nasa keeps track as Mexico City sinks into the ground",
+        "summary": "Powerful radar system is providing new data on city’s subsidence, which experts hope will draw more attention to it Walking into Mexico City’s sprawling central Zócalo is a dizzying experience. At one end of the plaza, the capital’s cath..."
+      },
+      {
+        "char": "✈️",
+        "label": "us jet fuel for europe shortages",
+        "url": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
+        "title": "US jet fuel could be used in Europe to ease possible shortages",
+        "summary": "An international air body suggests wider acceptance of US-grade jet fuel could help to head off any supply problems."
+      },
+      {
+        "char": "🇵🇰",
+        "label": "uae expels pakistani workers",
+        "url": "https://www.nytimes.com/2026/05/08/world/asia/uae-pakistan-workers-deportations.html",
+        "title": "U.A.E. Expels Pakistani Workers, as Pakistan’s Peacemaking Creates a Rift",
+        "summary": "As Pakistan mediates between the U.S. and Iran, its ties to the Emirates have deteriorated. Pakistani workers say they are now being sent home en masse."
+      },
+      {
+        "char": "📰",
+        "label": "us cancels costa rica newspaper visas",
+        "url": "https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump",
+        "title": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
+        "summary": "Leading newspaper La Nación calls US’s barring of board members ‘indirect attack on press freedom’ The US state department has cancelled tourist visas for more than half of the board members of Costa Rica’s leading national newspaper, La..."
+      },
+      {
+        "char": "🦠",
+        "label": "hantavirus-hit cruise ship passengers",
+        "url": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss",
+        "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
+        "summary": "About 12 countries have so far been linked to the hantavirus outbreak on the MV Hondius, as the UN health agency confirms at least five cases."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
