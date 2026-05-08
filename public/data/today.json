@@ -1,41 +1,41 @@
 {
   "date": "2026-05-08",
-  "timestamp": "2026-05-08T00:00:00Z",
+  "timestamp": "2026-05-08T06:06:11Z",
   "emojis": [
     {
+      "char": "🦠",
+      "label": "hantavirus outbreak in argentina",
+      "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
+      "title": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
+      "summary": "Argentina, where the MV Hondius cruise departed, consistently ranked by WHO as having highest incidence of hantavirus in region Officials and experts in Argentina are scrambling to determine if their country is the source of a deadly han..."
+    },
+    {
       "char": "🇩🇪",
-      "label": "germany clashes over iran threat",
-      "url": "https://www.nytimes.com/2026/05/07/world/europe/germany-merz-iran-security-threat-spy.html",
-      "title": "German Leaders Clash With Spy Chiefs Over Domestic Threat From Iran",
-      "summary": "Intelligence agents have privately warned of the potential of hybrid attacks from Iran-linked groups. But political leaders, including Chancellor Friedrich Merz, have publicly played down the risk."
+      "label": "german minister blames trump for slowdown",
+      "url": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+      "summary": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy."
     },
     {
-      "char": "🇨🇳",
-      "label": "china sentences former ministers",
-      "url": "https://www.nytimes.com/2026/05/07/world/asia/china-ministers-death-sentences-military-corruption.html",
-      "title": "China Hands Suspended Death Sentences to 2 Former Defense Ministers",
-      "summary": "Gen. Wei Fenghe and Gen. Li Shangfu are likely to spend the rest of their lives in prison after receiving suspended death sentences."
+      "char": "✊",
+      "label": "somali woman jailed for peaceful protest",
+      "url": "https://www.theguardian.com/global-development/2026/may/07/sadia-moalim-ali-woman-somalia-jail-peaceful-protest",
+      "title": "Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
+      "summary": "In an exclusive interview from prison, Sadia Moalim Ali, a 27-year-old rickshaw driver, tells of her treatment after being arrested for demonstrating against the government A woman being held in prison in Somalia for taking part in peace..."
     },
     {
-      "char": "🌍",
-      "label": "nasa tracks mexico city's sinking",
-      "url": "https://www.theguardian.com/world/2026/may/07/mexico-city-sinking-subsidence-2cm-a-month-nasa-nisar",
-      "title": "Up to 2cm a month: Nasa keeps track as Mexico City sinks into the ground",
-      "summary": "Powerful radar system is providing new data on city’s subsidence, which experts hope will draw more attention to it Walking into Mexico City’s sprawling central Zócalo is a dizzying experience. At one end of the plaza, the capital’s cath..."
+      "char": "📰",
+      "label": "us cancels visas for costa rica newspaper",
+      "url": "https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump",
+      "title": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
+      "summary": "Leading newspaper La Nación calls US’s barring of board members ‘indirect attack on press freedom’ The US state department has cancelled tourist visas for more than half of the board members of Costa Rica’s leading national newspaper, La..."
     },
     {
-      "char": "🛳️",
-      "label": "hantavirus outbreak on cruise ship",
-      "url": "https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
-      "title": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
-      "summary": "Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in Netherlands What is hantavirus? Two Britons who were medically evacuated from the hantavirus -hit cruise ship are improving, globa..."
-    },
-    {
-      "char": "🗳️",
-      "label": "uk local elections amid new politics",
-      "url": "https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-2026-keir-starmer.html",
-      "title": "Starmer Braces for Local Election Losses Amid New Era of UK Politics",
-      "summary": "Polls predict historic losses for Prime Minister Keir Starmer’s Labour Party on Thursday as anti-immigrant Reform U.K. makes gains, and a new era of multiparty politics takes shape."
+      "char": "🛬",
+      "label": "china eastern crash investigation report",
+      "url": "https://www.nytimes.com/2026/05/07/world/asia/china-eastern-plane-crash-flight-5735-ntsb.html",
+      "title": "New NTSB Report Into Deadly China Eastern Crash Suggests Struggle in Cockpit",
+      "summary": "A report by the U.S. National Transportation Safety Board offers new details about the China Eastern Airlines crash in 2022, which killed all 132 people on board."
     }
   ],
   "source": "ai-openai",
