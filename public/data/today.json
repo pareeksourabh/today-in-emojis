@@ -1,204 +1,43 @@
 {
-  "date": "2026-05-07",
-  "timestamp": "2026-05-07T00:00:00Z",
+  "date": "2026-05-08",
+  "timestamp": "2026-05-08T00:00:00Z",
   "emojis": [
     {
-      "char": "🇺🇸",
-      "label": "first american pope",
-      "url": "https://www.nytimes.com/2026/05/06/world/europe/leo-first-american-pope.html",
-      "title": "Leo XIV Is the First Pope From the U.S. He’s Making That an Asset.",
-      "summary": "A year into his papacy, Leo has shown a readiness to challenge Washington, defying any concerns about the election of an American pontiff."
-    },
-    {
-      "char": "🇺🇦",
-      "label": "ukrainian civilians trapped",
-      "url": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
-      "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
-      "summary": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "canada's new governor general",
-      "url": "https://www.theguardian.com/world/2026/may/05/carney-appoints-louise-arbor-canada-governor-general",
-      "title": "Carney appoints former war crimes prosecutor as Canada governor general",
-      "summary": "Louise Arbour will serve as Canada’s representative of King Charles and carry out ceremonial and constitutional duties Canada’s prime minister, Mark Carney, has appointed a former supreme court justice and war crimes prosecutor as the co..."
-    },
-    {
-      "char": "🇲🇽",
-      "label": "mexico nightclub cover charge",
-      "url": "https://www.theguardian.com/world/2026/may/06/mexico-nightclub-cover-charge-us-citizens",
-      "title": "Mexico nightclub’s $300 cover charge for US citizens captures popular mood",
-      "summary": "Owner of Japan nightclub says ‘This is a response to a year of insults directed at us – as a country – by the United States’ A Mexico City nightclub has gone viral for charging Americans a nearly $300 cover charge, while citizens from an..."
-    },
-    {
-      "char": "🛢️",
-      "label": "iran's oil sector pressure",
-      "url": "https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html",
-      "title": "Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites",
-      "summary": "Tehran says it can endure the pain, but its oil may soon have nowhere to go."
-    },
-    {
       "char": "⚽",
-      "label": "world cup ticket pricing in argentina",
-      "url": "https://www.nytimes.com/2026/05/06/world/americas/2026-world-cup-ticket-prices-argentina.html",
-      "title": "World Cup Dynamic Ticket Pricing Drives Argentine Soccer Fans To Extremes",
-      "summary": "Dynamic ticket pricing has made this year’s tournament the most expensive in history, pushing Argentine fans to extremes."
+      "label": "trump on usa ticket price",
+      "url": "https://www.bbc.com/sport/football/articles/cdxpq70grzlo?at_medium=RSS&at_campaign=rss",
+      "title": "'I wouldn't pay it' - Trump on USA ticket price",
+      "summary": "US President Donald Trump says he \"wouldn't pay it either\" when asked about the potential ticket price to watch his country play Paraguay in their 2026 World Cup opener."
     },
     {
-      "char": "🦠",
-      "label": "hantavirus outbreak on cruise ship",
-      "url": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
-      "title": "British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship",
-      "summary": "WHO says seven confirmed or suspected cases of hantavirus on MV Hondius, including three passengers who died What is hantavirus, the infection thought to have killed three on cruise ship? A British crew member was in need of urgent medic..."
-    },
-    {
-      "char": "🪖",
-      "label": "us service members missing in morocco",
-      "url": "https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco",
-      "title": "Two US service members missing after military exercises in Morocco",
-      "summary": "Search and rescue operation launched after service members reported missing near south-western city of Tan Tan Two US service members are missing in south-western Morocco after taking part in annual multinational military exercises in th..."
-    },
-    {
-      "char": "🌍",
-      "label": "new us counter-terrorism strategy",
-      "url": "https://www.theguardian.com/us-news/2026/may/07/new-trump-counterterrorism-strategy-targets-europe-terrorism-migration",
-      "title": "US says migration has made Europe an ‘incubator’ for terrorism in new counter-terrorism strategy",
-      "summary": "The 16-page report was led by Trump-ally Sebastian Gorka, and places drug cartels in the Americas at the centre of counter-terrorism efforts The Trump administration has accused Europe of being an “incubator” for terrorism fuelled by mas..."
-    },
-    {
-      "char": "🏥",
-      "label": "kenya's ai healthcare cost issues",
-      "url": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
-      "title": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
-      "summary": "Exclusive : amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found An AI system used to predict how much Kenyans can afford to pay for access..."
-    },
-    {
-      "char": "🏖️",
-      "label": "german tourist sun lounger payout",
-      "url": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss",
-      "title": "German tourist wins payout after losing sun lounger race",
-      "summary": "The man sued his tour operator for allowing people to reserve sun loungers with towels despite a hotel ban on the practice."
-    },
-    {
-      "char": "🗳️",
-      "label": "starmer braces for local election losses",
-      "url": "https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-2026-keir-starmer.html",
-      "title": "Starmer Braces for Local Election Losses Amid New Era of UK Politics",
-      "summary": "Polls predict historic losses for Prime Minister Keir Starmer’s Labour Party on Thursday as anti-immigrant Reform U.K. makes gains, and a new era of multiparty politics takes shape."
-    },
-    {
-      "char": "🦠",
-      "label": "hantavirus-hit cruise ship evacuations",
-      "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
-      "title": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
-      "summary": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius."
-    },
-    {
-      "char": "🌍",
-      "label": "china calls for opening strait of hormuz",
-      "url": "https://www.nytimes.com/2026/05/06/world/asia/china-iran-us-trump-hormuz.html",
-      "title": "In Talks With Iran, China Calls for Opening of Strait of Hormuz",
-      "summary": "China’s top diplomat also warned against the restarting of hostilities as he met with Iran’s foreign minister. The U.S. has urged China to pressure Iran to reopen the waterway."
-    },
-    {
-      "char": "📚",
-      "label": "reclaiming black hero's name",
-      "url": "https://www.nytimes.com/2026/05/06/world/canada/uncle-toms-cabin-ontario-josiah-henson.html",
-      "title": "Reclaiming the Name of the Black Hero Who Inspired ‘Uncle Tom’s Cabin’",
-      "summary": "After 42 years of slavery, Josiah Henson escaped to Canada, where he wrote a memoir, founded a school and led others to freedom. But his home long bore the name “Uncle Tom,” to the offense of many."
-    },
-    {
-      "char": "🛢️",
-      "label": "iran's oil sector under pressure",
-      "url": "https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html",
-      "title": "Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites",
-      "summary": "Tehran says it can endure the pain, but its oil may soon have nowhere to go."
-    },
-    {
-      "char": "🚢",
-      "label": "hantavirus-hit cruise ship evacuations",
-      "url": "https://www.theguardian.com/world/2026/may/06/cruise-ship-hantavirus-strain-andes-spread-humans-south-africa",
-      "title": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
-      "summary": "British guide Martin Anstee among those evacuated from MV Hondius, which is now heading for Canary Islands Explainer: What is hantavirus? Three people with suspected hantavirus have been medically evacuated from a cruise ship. They inclu..."
-    },
-    {
-      "char": "🇲🇽",
-      "label": "mexico nightclub cover charge for us",
-      "url": "https://www.theguardian.com/world/2026/may/06/mexico-nightclub-cover-charge-us-citizens",
-      "title": "Mexico nightclub’s $300 cover charge for US citizens captures popular mood",
-      "summary": "Owner of Japan nightclub says ‘This is a response to a year of insults directed at us – as a country – by the United States’ A Mexico City nightclub has gone viral for charging Americans a nearly $300 cover charge, while citizens from an..."
-    },
-    {
-      "char": "🗳️",
-      "label": "starmer faces major election test",
-      "url": "https://www.nytimes.com/2026/05/07/world/europe/uk-local-elections-starmer.html",
-      "title": "Starmer Faces a Major Test in a Set of UK Elections: What to Know",
-      "summary": "Local elections in England, and parliamentary elections in Scotland and Wales, take place on Thursday. The governing Labour Party is expected to do very badly."
-    },
-    {
-      "char": "🌍",
-      "label": "trump's counter-terrorism strategy",
-      "url": "https://www.theguardian.com/us-news/2026/may/07/new-trump-counterterrorism-strategy-targets-europe-terrorism-migration",
-      "title": "US says migration has made Europe an ‘incubator’ for terrorism in new counter-terrorism strategy",
-      "summary": "The 16-page report was led by Trump-ally Sebastian Gorka, and places drug cartels in the Americas at the centre of counter-terrorism efforts The Trump administration has accused Europe of being an “incubator” for terrorism fuelled by mas..."
+      "char": "📰",
+      "label": "us cancels visas for costa rica newspaper",
+      "url": "https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump",
+      "title": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
+      "summary": "Leading newspaper La Nación calls US’s barring of board members ‘indirect attack on press freedom’ The US state department has cancelled tourist visas for more than half of the board members of Costa Rica’s leading national newspaper, La..."
     },
     {
       "char": "🇭🇺",
-      "label": "hungary limits china ties",
+      "label": "voters expose limits of china ties in hungary",
       "url": "https://www.nytimes.com/2026/05/07/world/europe/hungary-orban-china-fidesz-magyar.html",
       "title": "In Hungary, Voters Exposed the Limits of China’s Ties to Orban",
       "summary": "Beijing depended on Hungary’s outgoing leader, Viktor Orban, to gain a toehold in Europe. A giant battery factory proved a step too far."
     },
     {
-      "char": "🦠",
-      "label": "hantavirus outbreak in argentina",
-      "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
-      "title": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
-      "summary": "Argentina, where the MV Hondius cruise departed, consistently ranked by WHO as having highest incidence of hantavirus in region Officials and experts in Argentina are scrambling to determine if their country is the source of a deadly han..."
+      "char": "🚢",
+      "label": "britons evacuated from hantavirus-hit ship",
+      "url": "https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
+      "title": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
+      "summary": "Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in Netherlands What is hantavirus? Two Britons who were medically evacuated from the hantavirus -hit cruise ship are improving, globa..."
     },
     {
-      "char": "🇦🇺",
-      "label": "isis women arrested in australia",
-      "url": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
-      "title": "Three women linked to Islamic State arrested in Australia on return from Syria",
-      "summary": "Three women who allegedly supported IS were arrested after they flew home to Australia for the first time in years."
-    },
-    {
-      "char": "🌍",
-      "label": "mexico city sinking issue",
-      "url": "https://www.theguardian.com/world/2026/may/07/mexico-city-sinking-subsidence-2cm-a-month-nasa-nisar",
-      "title": "Up to 2cm a month: Nasa keeps track as Mexico City sinks into the ground",
-      "summary": "Powerful radar system is providing new data on city’s subsidence, which experts hope will draw more attention to it Walking into Mexico City’s sprawling central Zócalo is a dizzying experience. At one end of the plaza, the capital’s cath..."
-    },
-    {
-      "char": "🤝",
-      "label": "trump hosts brazil's lula",
-      "url": "https://www.nytimes.com/2026/05/07/world/americas/trump-brazil-lula-meeting.html",
-      "title": "Trump to Host Brazil’s President Lula at White House After Months of Ups and Downs",
-      "summary": "President Trump and President Luiz Inácio Lula da Silva, who have had a rocky relationship, will meet on Thursday for talks on security, trade and critical minerals."
+      "char": "✊",
+      "label": "woman jailed in somalia for protest",
+      "url": "https://www.theguardian.com/global-development/2026/may/07/sadia-moalim-ali-woman-somalia-jail-peaceful-protest",
+      "title": "Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
+      "summary": "In an exclusive interview from prison, Sadia Moalim Ali, a 27-year-old rickshaw driver, tells of her treatment after being arrested for demonstrating against the government A woman being held in prison in Somalia for taking part in peace..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😨",
-    "emoji": "😨",
-    "rationale": "Today's news highlights significant global tensions and crises, from the plight of Ukrainian civilians to health emergencies aboard cruise ships, evoking a sense of anxiety and concern for safety.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
