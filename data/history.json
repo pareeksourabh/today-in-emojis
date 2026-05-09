@@ -40391,5 +40391,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-09",
+    "emojis": [
+      {
+        "char": "🇭🇺",
+        "label": "hungary's new leader prepares",
+        "url": "https://www.nytimes.com/2026/05/09/world/europe/peter-magyar-hungary-viktor-orban.html",
+        "title": "Peter Magyar Prepares to Take Over as Hungary’s Leader From Viktor Orban",
+        "summary": "The former opposition leader, who won a landslide election, now faces the formidable job of dismantling what his predecessor called an “illiberal democracy.”"
+      },
+      {
+        "char": "🌍",
+        "label": "trump seizes uranium from venezuela",
+        "url": "https://www.theguardian.com/world/2026/may/08/venezuela-enriched-uranium-trump",
+        "title": "Frustrated by Iran, Trump at last seizes enriched uranium – but from Venezuela",
+        "summary": "US energy department says 13.5kg of uranium taken from reactor in Caracas – a fraction of the 408kg held by Tehran Donald Trump has succeeded in removing a country’s stash of highly enriched uranium – although that country is not Iran ...."
+      },
+      {
+        "char": "🚢",
+        "label": "hantavirus outbreak on cruise ship",
+        "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
+        "title": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
+        "summary": "Argentina, where the MV Hondius cruise departed, consistently ranked by WHO as having highest incidence of hantavirus in region Officials and experts in Argentina are scrambling to determine if their country is the source of a deadly han..."
+      },
+      {
+        "char": "🌋",
+        "label": "volcano erupts in indonesia",
+        "url": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
+        "title": "Three dead after volcano erupts on Indonesian island",
+        "summary": "Officials had previously issued warnings on climbing the active volcano due to safety concerns."
+      },
+      {
+        "char": "🇨🇳",
+        "label": "china's record trade exports in april",
+        "url": "https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html",
+        "title": "China’s Exports and Imports Set Records in April Amid High Energy Costs",
+        "summary": "The country’s exports surged and its trade surplus with the United States widened ahead of President Trump’s scheduled visit next week to Beijing."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
