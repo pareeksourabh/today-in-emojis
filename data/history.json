@@ -40435,5 +40435,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-09",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "hantavirus outbreak on cruise ship",
+        "url": "https://www.theguardian.com/world/2026/may/06/cruise-ship-hantavirus-strain-andes-spread-humans-south-africa",
+        "title": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
+        "summary": "British guide Martin Anstee among those evacuated from MV Hondius, which is now heading for Canary Islands Explainer: What is hantavirus? Three people with suspected hantavirus have been medically evacuated from a cruise ship. They inclu..."
+      },
+      {
+        "char": "🎖️",
+        "label": "putin's victory day parade",
+        "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
+        "title": "Putin denounces Nato at scaled back Victory Day parade",
+        "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine."
+      },
+      {
+        "char": "💻",
+        "label": "international cyber attack disrupts schools",
+        "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
+        "title": "International cyber attack disrupts swathe of universities and schools",
+        "summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe."
+      },
+      {
+        "char": "🇦🇺",
+        "label": "one nation wins australian election",
+        "url": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html",
+        "title": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
+        "summary": "One Nation, an anti-immigration party with Trumpian policies that has risen in popularity, won a seat in Parliament’s lower house for the first time."
+      },
+      {
+        "char": "📰",
+        "label": "reporter detained by somali police",
+        "url": "https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police",
+        "title": "Guardian reporter and colleagues detained and beaten by Somali police",
+        "summary": "Mohamed Bulbul arrested in Mogadishu after covering case of woman allegedly being tortured in prison A journalist who covered the case of a woman who said she was being tortured in prison was detained and beaten with pistols by Somali au..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
