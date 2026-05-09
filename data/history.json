@@ -40303,5 +40303,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-09",
+    "emojis": [
+      {
+        "char": "🎭",
+        "label": "white house reacts to hamill's post",
+        "url": "https://www.bbc.com/news/articles/c4g723pkgllo?at_medium=RSS&at_campaign=rss",
+        "title": "White House calls Mark Hamill 'sick' after actor's Trump grave post",
+        "summary": "The Star Wars actor apologised and deleted the post, which contained an AI image of the president in a shallow grave."
+      },
+      {
+        "char": "🔫",
+        "label": "four men convicted in haiti assassination",
+        "url": "https://www.theguardian.com/world/2026/may/08/four-men-convicted-haitian-president-assassination",
+        "title": "Four south Florida men convicted in Haitian president’s assassination",
+        "summary": "Men were convicted in Miami federal court for plotting to kill Jovenel Moïse at his Port-au-Prince home in 2021 Four south Florida men were convicted on Friday of plotting to kill the Haitian president, Jovenel Moïse , in 2021 by hiring..."
+      },
+      {
+        "char": "🗳️",
+        "label": "uk local elections results",
+        "url": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results",
+        "title": "Starmer’s Party Suffers Stark Losses in U.K. Local Elections",
+        "summary": "Prime Minister Keir Starmer took responsibility as Labour lost more than a thousand municipal seats but insisted he would not resign."
+      },
+      {
+        "char": "🦠",
+        "label": "hantavirus outbreak on cruise ship",
+        "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
+        "title": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
+        "summary": "Argentina, where the MV Hondius cruise departed, consistently ranked by WHO as having highest incidence of hantavirus in region Officials and experts in Argentina are scrambling to determine if their country is the source of a deadly han..."
+      },
+      {
+        "char": "⚔️",
+        "label": "us drains weapons on iran war",
+        "url": "https://www.nytimes.com/2026/05/08/world/asia/trump-xi-china-us-iran-munitions.html",
+        "title": "China Sees a ‘Giant With a Limp’ as U.S. Drains Weapons on Iran War",
+        "summary": "America’s ability to deter China in a war over Taiwan is weakened, Chinese analysts say, giving Beijing leverage in an upcoming summit with President Trump."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

@@ -1,7 +1,21 @@
 {
   "date": "2026-05-09",
-  "timestamp": "2026-05-09T00:00:00Z",
+  "timestamp": "2026-05-09T02:04:56Z",
   "emojis": [
+    {
+      "char": "🎭",
+      "label": "white house reacts to hamill's post",
+      "url": "https://www.bbc.com/news/articles/c4g723pkgllo?at_medium=RSS&at_campaign=rss",
+      "title": "White House calls Mark Hamill 'sick' after actor's Trump grave post",
+      "summary": "The Star Wars actor apologised and deleted the post, which contained an AI image of the president in a shallow grave."
+    },
+    {
+      "char": "🔫",
+      "label": "four men convicted in haiti assassination",
+      "url": "https://www.theguardian.com/world/2026/may/08/four-men-convicted-haitian-president-assassination",
+      "title": "Four south Florida men convicted in Haitian president’s assassination",
+      "summary": "Men were convicted in Miami federal court for plotting to kill Jovenel Moïse at his Port-au-Prince home in 2021 Four south Florida men were convicted on Friday of plotting to kill the Haitian president, Jovenel Moïse , in 2021 by hiring..."
+    },
     {
       "char": "🗳️",
       "label": "uk local elections results",
@@ -10,32 +24,18 @@
       "summary": "Prime Minister Keir Starmer took responsibility as Labour lost more than a thousand municipal seats but insisted he would not resign."
     },
     {
-      "char": "🌋",
-      "label": "volcano erupts in indonesia",
-      "url": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
-      "title": "Three dead after volcano erupts on Indonesian island",
-      "summary": "Officials had previously issued warnings on climbing the active volcano due to safety concerns."
+      "char": "🦠",
+      "label": "hantavirus outbreak on cruise ship",
+      "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
+      "title": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
+      "summary": "Argentina, where the MV Hondius cruise departed, consistently ranked by WHO as having highest incidence of hantavirus in region Officials and experts in Argentina are scrambling to determine if their country is the source of a deadly han..."
     },
     {
-      "char": "⚖️",
-      "label": "south africa president court ruling",
-      "url": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
-      "title": "South Africa president faces call to resign after court ruling",
-      "summary": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa."
-    },
-    {
-      "char": "🔫",
-      "label": "haiti president assassination verdict",
-      "url": "https://www.nytimes.com/2026/05/08/world/americas/haiti-president-assassination-four-men-charged.html",
-      "title": "Four Men Found Guilty of Haiti President’s Assassination",
-      "summary": "President Jovenel Moïse of Haiti was shot in his bedroom in July 2021, but the convictions for conspiracy have not revealed who ordered his assassination."
-    },
-    {
-      "char": "🌍",
-      "label": "mexico city sinking issue",
-      "url": "https://www.theguardian.com/world/2026/may/07/mexico-city-sinking-subsidence-2cm-a-month-nasa-nisar",
-      "title": "Up to 2cm a month: Nasa keeps track as Mexico City sinks into the ground",
-      "summary": "Powerful radar system is providing new data on city’s subsidence, which experts hope will draw more attention to it Walking into Mexico City’s sprawling central Zócalo is a dizzying experience. At one end of the plaza, the capital’s cath..."
+      "char": "⚔️",
+      "label": "us drains weapons on iran war",
+      "url": "https://www.nytimes.com/2026/05/08/world/asia/trump-xi-china-us-iran-munitions.html",
+      "title": "China Sees a ‘Giant With a Limp’ as U.S. Drains Weapons on Iran War",
+      "summary": "America’s ability to deter China in a war over Taiwan is weakened, Chinese analysts say, giving Beijing leverage in an upcoming summit with President Trump."
     }
   ],
   "source": "ai-openai",
