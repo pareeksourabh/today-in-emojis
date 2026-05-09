@@ -40347,5 +40347,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-09",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "uk local elections results",
+        "url": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results",
+        "title": "Starmer’s Party Suffers Stark Losses in U.K. Local Elections",
+        "summary": "Prime Minister Keir Starmer took responsibility as Labour lost more than a thousand municipal seats but insisted he would not resign."
+      },
+      {
+        "char": "🇭🇺",
+        "label": "hungary's new pm sworn in",
+        "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+        "title": "Hungary's new PM to be sworn in during 'regime change' party",
+        "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán."
+      },
+      {
+        "char": "🚢",
+        "label": "britons evacuated from ship",
+        "url": "https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
+        "title": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
+        "summary": "Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in Netherlands What is hantavirus? Two Britons who were medically evacuated from the hantavirus -hit cruise ship are improving, globa..."
+      },
+      {
+        "char": "🤝",
+        "label": "trump-xi summit significance",
+        "url": "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html",
+        "title": "Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It",
+        "summary": "The war in Iran, trade, artificial intelligence and Taiwan are expected to be on the agenda. But expectations are modest."
+      },
+      {
+        "char": "🏫",
+        "label": "canadian school shooting site",
+        "url": "https://www.theguardian.com/world/2026/may/08/tumbler-ridge-canada-school-shooting",
+        "title": "Canadian high school where deadly mass shooting occurred to be torn down",
+        "summary": "Tumbler Ridge secondary school was site of February mass shooting in which nine were killed and dozens injured The school that was the site of one of Canada’s deadliest mass shootings will be torn down, officials have announced. The deci..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
