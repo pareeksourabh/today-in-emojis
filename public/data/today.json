@@ -1,27 +1,118 @@
 {
   "date": "2026-05-09",
-  "timestamp": "2026-05-09T16:38:10Z",
+  "timestamp": "2026-05-09T00:00:00Z",
   "emojis": [
     {
+      "char": "🗳️",
+      "label": "uk local elections results",
+      "url": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results",
+      "title": "Starmer’s Party Suffers Stark Losses in U.K. Local Elections",
+      "summary": "Prime Minister Keir Starmer took responsibility as Labour lost more than a thousand municipal seats but insisted he would not resign."
+    },
+    {
+      "char": "🌋",
+      "label": "volcano erupts in indonesia",
+      "url": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
+      "title": "Three dead after volcano erupts on Indonesian island",
+      "summary": "Officials had previously issued warnings on climbing the active volcano due to safety concerns."
+    },
+    {
+      "char": "⚖️",
+      "label": "south africa president court ruling",
+      "url": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
+      "title": "South Africa president faces call to resign after court ruling",
+      "summary": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa."
+    },
+    {
+      "char": "🔫",
+      "label": "haiti president assassination verdict",
+      "url": "https://www.nytimes.com/2026/05/08/world/americas/haiti-president-assassination-four-men-charged.html",
+      "title": "Four Men Found Guilty of Haiti President’s Assassination",
+      "summary": "President Jovenel Moïse of Haiti was shot in his bedroom in July 2021, but the convictions for conspiracy have not revealed who ordered his assassination."
+    },
+    {
+      "char": "🌍",
+      "label": "mexico city sinking issue",
+      "url": "https://www.theguardian.com/world/2026/may/07/mexico-city-sinking-subsidence-2cm-a-month-nasa-nisar",
+      "title": "Up to 2cm a month: Nasa keeps track as Mexico City sinks into the ground",
+      "summary": "Powerful radar system is providing new data on city’s subsidence, which experts hope will draw more attention to it Walking into Mexico City’s sprawling central Zócalo is a dizzying experience. At one end of the plaza, the capital’s cath..."
+    },
+    {
+      "char": "🇨🇳",
+      "label": "us drains weapons on iran war",
+      "url": "https://www.nytimes.com/2026/05/08/world/asia/trump-xi-china-us-iran-munitions.html",
+      "title": "China Sees a ‘Giant With a Limp’ as U.S. Drains Weapons on Iran War",
+      "summary": "America’s ability to deter China in a war over Taiwan is weakened, Chinese analysts say, giving Beijing leverage in an upcoming summit with President Trump."
+    },
+    {
       "char": "🦠",
-      "label": "virus-hit cruise ship in tenerife",
-      "url": "https://www.bbc.com/news/articles/czr2vjmnlmpo?at_medium=RSS&at_campaign=rss",
-      "title": "WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship",
-      "summary": "\"This is not another Covid,\" Tedros Ghebreyesus tells islanders before MV Hondius docks on Sunday."
+      "label": "hantavirus outbreak on cruise ship",
+      "url": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
+      "title": "British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship",
+      "summary": "WHO says seven confirmed or suspected cases of hantavirus on MV Hondius, including three passengers who died What is hantavirus, the infection thought to have killed three on cruise ship? A British crew member was in need of urgent medic..."
+    },
+    {
+      "char": "🌋",
+      "label": "three dead after volcano erupts",
+      "url": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
+      "title": "Three dead after volcano erupts on Indonesian island",
+      "summary": "Officials had previously issued warnings on climbing the active volcano due to safety concerns."
+    },
+    {
+      "char": "⚖️",
+      "label": "court revives case against sa president",
+      "url": "https://www.nytimes.com/2026/05/08/world/africa/south-africa-president-ramaphosa-court-ruling-impeachment.html",
+      "title": "Court Revives ‘Farmgate’ Case Against South African President",
+      "summary": "Judges ordered Parliament to convene a committee to consider removing President Cyril Ramaphosa over a case involving money stolen at his farm six years ago."
+    },
+    {
+      "char": "🔫",
+      "label": "four men guilty of haitian president's murder",
+      "url": "https://www.nytimes.com/2026/05/08/world/americas/haiti-president-assassination-four-men-charged.html",
+      "title": "Four Men Found Guilty of Haiti President’s Assassination",
+      "summary": "President Jovenel Moïse of Haiti was shot in his bedroom in July 2021, but the convictions for conspiracy have not revealed who ordered his assassination."
+    },
+    {
+      "char": "🏫",
+      "label": "canadian school shooting site to be torn down",
+      "url": "https://www.theguardian.com/world/2026/may/08/tumbler-ridge-canada-school-shooting",
+      "title": "Canadian high school where deadly mass shooting occurred to be torn down",
+      "summary": "Tumbler Ridge secondary school was site of February mass shooting in which nine were killed and dozens injured The school that was the site of one of Canada’s deadliest mass shootings will be torn down, officials have announced. The deci..."
+    },
+    {
+      "char": "🚢",
+      "label": "britons evacuated from hantavirus-hit ship",
+      "url": "https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
+      "title": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
+      "summary": "Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in Netherlands What is hantavirus? Two Britons who were medically evacuated from the hantavirus -hit cruise ship are improving, globa..."
+    },
+    {
+      "char": "✊",
+      "label": "woman jailed in somalia for peaceful protest",
+      "url": "https://www.theguardian.com/global-development/2026/may/07/sadia-moalim-ali-woman-somalia-jail-peaceful-protest",
+      "title": "Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
+      "summary": "In an exclusive interview from prison, Sadia Moalim Ali, a 27-year-old rickshaw driver, tells of her treatment after being arrested for demonstrating against the government A woman being held in prison in Somalia for taking part in peace..."
     },
     {
       "char": "🇭🇺",
-      "label": "peter magyar takes over hungary",
-      "url": "https://www.nytimes.com/2026/05/09/world/europe/peter-magyar-hungary-viktor-orban.html",
-      "title": "Peter Magyar Takes Over as Hungary’s Leader From Viktor Orban",
-      "summary": "The former opposition leader, who won a landslide election, now faces the formidable job of dismantling what his predecessor called an “illiberal democracy.”"
+      "label": "hungary's new pm to be sworn in soon",
+      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+      "title": "Hungary's new PM to be sworn in during 'regime change' party",
+      "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán."
     },
     {
-      "char": "🐒",
-      "label": "punch the monkey in japan zoo",
-      "url": "https://www.nytimes.com/2026/05/09/world/asia/punch-baby-monkey-japan-zoo.html",
-      "title": "Punch, the Lonely Monkey Who Drew Crowds to a Small Japan Zoo, Is Growing Up. He’s Still a Star.",
-      "summary": "The macaque, now 9 months old, has been attracting tens of thousands of visitors to a small Japanese zoo. He ignores the attention."
+      "char": "⚔️",
+      "label": "iran accuses us of reckless military adventure",
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+      "title": "Iran accuses US of 'reckless military adventure'",
+      "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table."
+    },
+    {
+      "char": "🏭",
+      "label": "nigeria refinery key to jet fuel plan",
+      "url": "https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz",
+      "title": "Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage",
+      "summary": "Heidi Alexander says part of answer to strait of Hormuz crisis is importing more fuel from US and west Africa A refinery in Nigeria accused of dismissing workers for joining a union has emerged as key to the UK government’s hopes of savi..."
     },
     {
       "char": "⚖️",
@@ -31,13 +122,83 @@
       "summary": "Men were convicted in Miami federal court for plotting to kill Jovenel Moïse at his Port-au-Prince home in 2021 Four south Florida men were convicted on Friday of plotting to kill the Haitian president, Jovenel Moïse , in 2021 by hiring..."
     },
     {
+      "char": "🇨🇳",
+      "label": "china's leader lost faith in generals",
+      "url": "https://www.nytimes.com/2026/05/09/world/asia/china-military-generals.html",
+      "title": "How China’s Leader Lost Faith in His Generals",
+      "summary": "Xi Jinping spent 13 years building a military to rival that of the United States. But the stronger the Chinese forces grew, the less he trusted the generals he had handpicked to run them."
+    },
+    {
+      "char": "🎖️",
+      "label": "putin denounces nato at victory parade",
+      "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
+      "title": "Putin denounces Nato at scaled back Victory Day parade",
+      "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine."
+    },
+    {
+      "char": "🌋",
+      "label": "three dead after volcano erupts in indonesia",
+      "url": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
+      "title": "Three dead after volcano erupts on Indonesian island",
+      "summary": "Officials had previously issued warnings on climbing the active volcano due to safety concerns."
+    },
+    {
+      "char": "🌋",
+      "label": "volcano eruption in indonesia",
+      "url": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
+      "title": "Three dead after volcano erupts on Indonesian island",
+      "summary": "Officials had previously issued warnings on climbing the active volcano due to safety concerns."
+    },
+    {
+      "char": "🏫",
+      "label": "canadian school shooting site to be torn down",
+      "url": "https://www.theguardian.com/world/2026/may/08/tumbler-ridge-canada-school-shooting",
+      "title": "Canadian high school where deadly mass shooting occurred to be torn down",
+      "summary": "Tumbler Ridge secondary school was site of February mass shooting in which nine were killed and dozens injured The school that was the site of one of Canada’s deadliest mass shootings will be torn down, officials have announced. The deci..."
+    },
+    {
+      "char": "🗳️",
+      "label": "britain's electorate splintering",
+      "url": "https://www.nytimes.com/2026/05/09/world/europe/britain-elections-starmer-labour-reform.html",
+      "title": "Britain’s Electorate Is ‘Splintering.’ Can Its System Stand the Strain?",
+      "summary": "Insurgent parties like Reform U.K. surged at the polls this week. But the British electoral system wasn’t built for multiparty democracy."
+    },
+    {
+      "char": "🦠",
+      "label": "britons evacuated from hantavirus ship",
+      "url": "https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
+      "title": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
+      "summary": "Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in Netherlands What is hantavirus? Two Britons who were medically evacuated from the hantavirus -hit cruise ship are improving, globa..."
+    },
+    {
       "char": "🌍",
-      "label": "guardian reporter beaten by somali police",
-      "url": "https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police",
-      "title": "Guardian reporter and colleagues detained and beaten by Somali police",
-      "summary": "Mohamed Bulbul arrested in Mogadishu after covering case of woman allegedly being tortured in prison A journalist who covered the case of a woman who said she was being tortured in prison was detained and beaten with pistols by Somali au..."
+      "label": "africa's news influencers reshaping media",
+      "url": "https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media",
+      "title": "‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere",
+      "summary": "Africa is leading a change in news consumption habits – and transforming the lives of current affairs enthusiasts Last year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Republic of the Congo..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Sorrow",
+    "emoji": "😢",
+    "rationale": "The news highlights multiple tragedies, including volcanic eruptions and political turmoil leading to loss of life and stability. The overall tone is somber, reflecting societal struggles and personal losses.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
