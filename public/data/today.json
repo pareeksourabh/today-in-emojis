@@ -1,41 +1,41 @@
 {
   "date": "2026-05-09",
-  "timestamp": "2026-05-09T06:21:00Z",
+  "timestamp": "2026-05-09T00:00:00Z",
   "emojis": [
     {
-      "char": "🗳️",
-      "label": "uk local elections results",
-      "url": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results",
-      "title": "Starmer’s Party Suffers Stark Losses in U.K. Local Elections",
-      "summary": "Prime Minister Keir Starmer took responsibility as Labour lost more than a thousand municipal seats but insisted he would not resign."
-    },
-    {
-      "char": "🇭🇺",
-      "label": "hungary's new pm sworn in",
-      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-      "title": "Hungary's new PM to be sworn in during 'regime change' party",
-      "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán."
+      "char": "🏫",
+      "label": "canadian school shooting site to be torn down",
+      "url": "https://www.theguardian.com/world/2026/may/08/tumbler-ridge-canada-school-shooting",
+      "title": "Canadian high school where deadly mass shooting occurred to be torn down",
+      "summary": "Tumbler Ridge secondary school was site of February mass shooting in which nine were killed and dozens injured The school that was the site of one of Canada’s deadliest mass shootings will be torn down, officials have announced. The deci..."
     },
     {
       "char": "🚢",
-      "label": "britons evacuated from ship",
+      "label": "britons evacuated from hantavirus-hit ship",
       "url": "https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
       "title": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
       "summary": "Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in Netherlands What is hantavirus? Two Britons who were medically evacuated from the hantavirus -hit cruise ship are improving, globa..."
     },
     {
-      "char": "🤝",
-      "label": "trump-xi summit significance",
-      "url": "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html",
-      "title": "Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It",
-      "summary": "The war in Iran, trade, artificial intelligence and Taiwan are expected to be on the agenda. But expectations are modest."
+      "char": "✊",
+      "label": "woman jailed in somalia for peaceful protest",
+      "url": "https://www.theguardian.com/global-development/2026/may/07/sadia-moalim-ali-woman-somalia-jail-peaceful-protest",
+      "title": "Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
+      "summary": "In an exclusive interview from prison, Sadia Moalim Ali, a 27-year-old rickshaw driver, tells of her treatment after being arrested for demonstrating against the government A woman being held in prison in Somalia for taking part in peace..."
     },
     {
-      "char": "🏫",
-      "label": "canadian school shooting site",
-      "url": "https://www.theguardian.com/world/2026/may/08/tumbler-ridge-canada-school-shooting",
-      "title": "Canadian high school where deadly mass shooting occurred to be torn down",
-      "summary": "Tumbler Ridge secondary school was site of February mass shooting in which nine were killed and dozens injured The school that was the site of one of Canada’s deadliest mass shootings will be torn down, officials have announced. The deci..."
+      "char": "🇭🇺",
+      "label": "hungary's new pm to be sworn in soon",
+      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+      "title": "Hungary's new PM to be sworn in during 'regime change' party",
+      "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán."
+    },
+    {
+      "char": "⚔️",
+      "label": "iran accuses us of reckless military adventure",
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+      "title": "Iran accuses US of 'reckless military adventure'",
+      "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table."
     }
   ],
   "source": "ai-openai",
