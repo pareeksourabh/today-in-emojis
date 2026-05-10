@@ -40699,5 +40699,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-10",
+    "emojis": [
+      {
+        "char": "🚢",
+        "label": "hantavirus-hit ship evacuated",
+        "url": "https://www.theguardian.com/world/2026/may/06/cruise-ship-hantavirus-strain-andes-spread-humans-south-africa",
+        "title": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
+        "summary": "British guide Martin Anstee among those evacuated from MV Hondius, which is now heading for Canary Islands Explainer: What is hantavirus? Three people with suspected hantavirus have been medically evacuated from a cruise ship. They inclu..."
+      },
+      {
+        "char": "🍖",
+        "label": "perfect slice of jamon iberico",
+        "url": "https://www.nytimes.com/2026/05/10/world/europe/jamon-iberico-perfect-slice.html",
+        "title": "The Man Who Cuts the Perfect Slice of Ham",
+        "summary": "Spaniards line up at weddings, tennis tournaments and galas to eat ham prepared by Ernesto Soriano, one of the world’s best slicers of jamón ibérico."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "maduro's victory and migration",
+        "url": "https://www.nytimes.com/2026/05/10/world/americas/venezuela-maduro-trump-migration.html",
+        "title": "After Capturing Maduro, Trump Celebrated Victory. Did It Bring Venezuelans Home?",
+        "summary": "Dire conditions in Venezuela prompted an exodus. In the wake of the attack that ousted its top leader, the question is whether things have changed enough to make a return appealing."
+      },
+      {
+        "char": "⚖️",
+        "label": "convicted in haitian president's case",
+        "url": "https://www.theguardian.com/world/2026/may/08/four-men-convicted-haitian-president-assassination",
+        "title": "Four south Florida men convicted in Haitian president’s assassination",
+        "summary": "Men were convicted in Miami federal court for plotting to kill Jovenel Moïse at his Port-au-Prince home in 2021 Four south Florida men were convicted on Friday of plotting to kill the Haitian president, Jovenel Moïse , in 2021 by hiring..."
+      },
+      {
+        "char": "🌍",
+        "label": "us-china rivalry in south america",
+        "url": "https://www.nytimes.com/2026/05/10/world/americas/us-china-telescope-argentina-chile.html",
+        "title": "U.S.-China Rivalry Reaches South American Skies",
+        "summary": "The U.S. has pressed Argentina and Chile to review two Chinese telescope projects in the Andean deserts. Astronomers are worried about setbacks to research."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
