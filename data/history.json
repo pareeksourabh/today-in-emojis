@@ -40567,5 +40567,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-10",
+    "emojis": [
+      {
+        "char": "🇦🇺",
+        "label": "one nation wins australia election",
+        "url": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html",
+        "title": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
+        "summary": "One Nation, an anti-immigration party with Trumpian policies that has risen in popularity, won a seat in Parliament’s lower house for the first time."
+      },
+      {
+        "char": "🧘‍♂️",
+        "label": "monk arrested in sri lanka",
+        "url": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss",
+        "title": "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
+        "summary": "The Venerable Pallegama Hemarathana Thero holds one of the most revered positions in the Buddhist world."
+      },
+      {
+        "char": "🚢",
+        "label": "britons evacuated from hantavirus ship",
+        "url": "https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
+        "title": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
+        "summary": "Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in Netherlands What is hantavirus? Two Britons who were medically evacuated from the hantavirus -hit cruise ship are improving, globa..."
+      },
+      {
+        "char": "🎖️",
+        "label": "conscription lottery in thailand",
+        "url": "https://www.nytimes.com/2026/05/10/world/asia/thailand-conscription-lottery.html",
+        "title": "Red Card or Black Card? The Conscription Lottery in Thailand.",
+        "summary": "The draft, which is mandatory for men, is a deeply divisive issue in the country. But volunteer enlistments have soared amid a surge in nationalism and a sluggish economy."
+      },
+      {
+        "char": "🐒",
+        "label": "punch the monkey in japan zoo",
+        "url": "https://www.nytimes.com/2026/05/09/world/asia/punch-baby-monkey-japan-zoo.html",
+        "title": "Punch, the Lonely Monkey Who Drew Crowds to a Small Japan Zoo, Is Growing Up. He’s Still a Star.",
+        "summary": "The macaque, now 9 months old, has been attracting tens of thousands of visitors to a small Japanese zoo. He ignores the attention."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
