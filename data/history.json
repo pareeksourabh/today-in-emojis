@@ -40655,5 +40655,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-10",
+    "emojis": [
+      {
+        "char": "🐒",
+        "label": "lonely monkey in japan zoo",
+        "url": "https://www.nytimes.com/2026/05/09/world/asia/punch-baby-monkey-japan-zoo.html",
+        "title": "Punch, the Lonely Monkey Who Drew Crowds to a Small Japan Zoo, Is Growing Up. He’s Still a Star.",
+        "summary": "The macaque, now 9 months old, has been attracting tens of thousands of visitors to a small Japanese zoo. He ignores the attention."
+      },
+      {
+        "char": "🇺🇦",
+        "label": "putin on ukraine conflict",
+        "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
+        "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
+        "summary": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky."
+      },
+      {
+        "char": "🎖️",
+        "label": "thailand conscription lottery",
+        "url": "https://www.nytimes.com/2026/05/10/world/asia/thailand-conscription-lottery.html",
+        "title": "Red Card or Black Card? The Conscription Lottery in Thailand.",
+        "summary": "The draft, which is mandatory for men, is a deeply divisive issue in the country. But volunteer enlistments have soared amid a surge in nationalism and a sluggish economy."
+      },
+      {
+        "char": "🚢",
+        "label": "hantavirus cruise ship in canaries",
+        "url": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
+        "title": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
+        "summary": "The MV Hondius, which had carried passengers infected with the virus, anchored off Spain’s Canary Islands on Sunday. Evacuations of other passengers were expected through Monday evening, officials said."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela and trump migration",
+        "url": "https://www.nytimes.com/2026/05/10/world/americas/venezuela-maduro-trump-migration.html",
+        "title": "After Capturing Maduro, Trump Celebrated Victory. Did It Bring Venezuelans Home?",
+        "summary": "Dire conditions in Venezuela prompted an exodus. In the wake of the attack that ousted its top leader, the question is whether things have changed enough to make a return appealing."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
