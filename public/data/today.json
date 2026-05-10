@@ -1,41 +1,41 @@
 {
   "date": "2026-05-10",
-  "timestamp": "2026-05-10T09:40:40Z",
+  "timestamp": "2026-05-10T00:00:00Z",
   "emojis": [
     {
-      "char": "🛰️",
-      "label": "us-china rivalry in south america",
-      "url": "https://www.nytimes.com/2026/05/10/world/americas/us-china-telescope-argentina-chile.html",
-      "title": "U.S.-China Rivalry Reaches South American Skies",
-      "summary": "The U.S. has pressed Argentina and Chile to review two Chinese telescope projects in the Andean deserts. Astronomers are worried about setbacks to research."
+      "char": "🇻🇪",
+      "label": "trump seizes uranium from venezuela",
+      "url": "https://www.theguardian.com/world/2026/may/08/venezuela-enriched-uranium-trump",
+      "title": "Frustrated by Iran, Trump at last seizes enriched uranium – but from Venezuela",
+      "summary": "US energy department says 13.5kg of uranium taken from reactor in Caracas – a fraction of the 408kg held by Tehran Donald Trump has succeeded in removing a country’s stash of highly enriched uranium – although that country is not Iran ...."
     },
     {
-      "char": "🦠",
-      "label": "hantavirus outbreak on cruise ship",
-      "url": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
-      "title": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
-      "summary": "The MV Hondius, the cruise ship that had carried passengers infected with hantavirus, anchored off the Spanish territory, where other passengers would soon disembark."
+      "char": "🍖",
+      "label": "the man who cuts perfect ham",
+      "url": "https://www.nytimes.com/2026/05/10/world/europe/jamon-iberico-perfect-slice.html",
+      "title": "The Man Who Cuts the Perfect Slice of Ham",
+      "summary": "Spaniards line up at weddings, tennis tournaments and galas to eat ham prepared by Ernesto Soriano, one of the world’s best slicers of jamón ibérico."
     },
     {
-      "char": "💔",
-      "label": "lebanon reports israeli strikes",
-      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "title": "Lebanon says Israeli strikes killed 39",
-      "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month."
+      "char": "📰",
+      "label": "reporter detained by somali police",
+      "url": "https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police",
+      "title": "Guardian reporter and colleagues detained and beaten by Somali police",
+      "summary": "Mohamed Bulbul arrested in Mogadishu after covering case of woman allegedly being tortured in prison A journalist who covered the case of a woman who said she was being tortured in prison was detained and beaten with pistols by Somali au..."
     },
     {
-      "char": "💣",
-      "label": "greece blasts naval drone explosives",
-      "url": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
-      "title": "Greece conducts controlled blast of mystery naval drone explosives",
-      "summary": "The unmanned vessel, suspected to be of Ukrainian origin, was found by fishermen in a cave on Thursday."
-    },
-    {
-      "char": "📉",
+      "char": "💼",
       "label": "mass layoffs in iran's economy",
       "url": "https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html",
       "title": "Mass Layoffs in Iran as Businesses Buckle Under Wartime Pressures",
       "summary": "Iran was already struggling economically before 2026 brought widespread instability. A government-imposed internet shutdown has crippled an entire sector."
+    },
+    {
+      "char": "🐒",
+      "label": "punch the monkey growing up",
+      "url": "https://www.nytimes.com/2026/05/09/world/asia/punch-baby-monkey-japan-zoo.html",
+      "title": "Punch, the Lonely Monkey Who Drew Crowds to a Small Japan Zoo, Is Growing Up. He’s Still a Star.",
+      "summary": "The macaque, now 9 months old, has been attracting tens of thousands of visitors to a small Japanese zoo. He ignores the attention."
     }
   ],
   "source": "ai-openai",
