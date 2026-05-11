@@ -1,13 +1,27 @@
 {
   "date": "2026-05-11",
-  "timestamp": "2026-05-11T07:49:42Z",
+  "timestamp": "2026-05-11T00:00:00Z",
   "emojis": [
     {
-      "char": "😢",
-      "label": "lebanese family mourns victims",
-      "url": "https://www.nytimes.com/2026/05/10/world/middleeast/lebanon-family-funeral-israel-strikes.html",
-      "title": "Lebanese Mourn Eight Members of One Family Killed in Israeli Strike",
-      "summary": "Israel has escalated attacks on Lebanon since Thursday, further unraveling a truce in its war with Hezbollah. Among those killed on Saturday was a 6-month-old infant, relatives said."
+      "char": "🇻🇪",
+      "label": "maduro's impact on migration",
+      "url": "https://www.nytimes.com/2026/05/10/world/americas/venezuela-maduro-trump-migration.html",
+      "title": "After Capturing Maduro, Trump Celebrated Victory. Did It Bring Venezuelans Home?",
+      "summary": "Dire conditions in Venezuela prompted an exodus. In the wake of the attack that ousted its top leader, the question is whether things have changed enough to make a return appealing."
+    },
+    {
+      "char": "🦠",
+      "label": "hantavirus case on flight",
+      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+      "title": "US national on repatriation flight tests positive for hantavirus",
+      "summary": "Another one of 17 Americans who are being flown home has mild symptoms, the US health department says."
+    },
+    {
+      "char": "⚓",
+      "label": "missing soldier found in morocco",
+      "url": "https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco",
+      "title": "Body of missing US soldier recovered off coast of Morocco",
+      "summary": "1st Lt Kendrick Lamont Key Jr was participating in largest military exercise among US, Nato allies and African nations A search team recovered the body of a US soldier who went missing near a cliff during a training exercise in Cap Draa,..."
     },
     {
       "char": "🌍",
@@ -17,25 +31,11 @@
       "summary": "The U.S. has pressed Argentina and Chile to review two Chinese telescope projects in the Andean deserts. Astronomers are worried about setbacks to research."
     },
     {
-      "char": "🪦",
-      "label": "missing us soldier found in morocco",
-      "url": "https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco",
-      "title": "Body of missing US soldier recovered off coast of Morocco",
-      "summary": "1st Lt Kendrick Lamont Key Jr was participating in largest military exercise among US, Nato allies and African nations A search team recovered the body of a US soldier who went missing near a cliff during a training exercise in Cap Draa,..."
-    },
-    {
-      "char": "🎥",
-      "label": "film on post-coup brazil's rainforest",
-      "url": "https://www.theguardian.com/world/2026/may/10/amazon-of-america-vitoria-regia-film-brazil-rainforest",
-      "title": "‘Amazon of America’: film paints vision of a post-coup Brazil giving up rainforest",
-      "summary": "Vitória Régia imagines rightwing Bolsonaro plot succeeded with US help – and highlights threats facing Indigenous peoples The year is 2025 and far-right coup plotters have annihilated Brazil’s democracy, assassinating the president, clos..."
-    },
-    {
-      "char": "⚔️",
-      "label": "putin's forces struggle in ukraine",
-      "url": "https://www.nytimes.com/2026/05/10/world/europe/russia-ukraine-putin-war.html",
-      "title": "Putin’s Forces Are Barely Inching Along on the Battlefield",
-      "summary": "The Russian military has yet to solve a fundamental problem: how to make big advances in eastern Ukraine when drones are everywhere."
+      "char": "💔",
+      "label": "lebanon mourns family killed",
+      "url": "https://www.nytimes.com/2026/05/10/world/middleeast/lebanon-family-funeral-israel-strikes.html",
+      "title": "Lebanese Mourn Eight Members of One Family Killed in Israeli Strike",
+      "summary": "Israel has escalated attacks on Lebanon since Thursday, further unraveling a truce in its war with Hezbollah. Among those killed on Saturday was a 6-month-old infant, relatives said."
     }
   ],
   "source": "ai-openai",
