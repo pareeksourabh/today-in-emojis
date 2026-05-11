@@ -40875,5 +40875,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-11",
+    "emojis": [
+      {
+        "char": "🖼️",
+        "label": "portrait looted by nazis found",
+        "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
+        "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+        "summary": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two."
+      },
+      {
+        "char": "🐦",
+        "label": "drop in forever chemicals in eggs",
+        "url": "https://www.theguardian.com/environment/2026/may/11/pfas-seabird-eggs-forever-chemicals",
+        "title": "Sharp drop in ‘forever chemicals’ in seabird eggs hailed as win for regulation",
+        "summary": "Levels of Pfas in northern gannet eggs in Canada fell up to 74% over 55-year period of study Levels of some of the most dangerous Pfas compounds have dramatically fallen in Canadian seabird eggs, which the authors of a new peer-reviewed..."
+      },
+      {
+        "char": "⚔️",
+        "label": "nigerian fishermen feared dead",
+        "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
+        "title": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
+        "summary": "A fishermen's leader tells the BBC that 40 people are feared dead - either in the strikes or drowning as they tried to flee."
+      },
+      {
+        "char": "🇹🇭",
+        "label": "thaksin shinawatra out of prison",
+        "url": "https://www.nytimes.com/2026/05/10/world/asia/thailand-thaksin-shinawatra-released-prison.html",
+        "title": "Thailand’s Thaksin Shinawatra Is Out of Prison. What Will He Do Now?",
+        "summary": "Mr. Thaksin has long been a foil to Thailand’s conservative establishment. He still holds significant influence, with his political party a member of the governing coalition."
+      },
+      {
+        "char": "🦛",
+        "label": "fight to euthanize escobar's hippos",
+        "url": "https://www.nytimes.com/2026/05/11/world/americas/pablo-escobar-hippos-colombia.html",
+        "title": "The Fight to Euthanize Pablo Escobar’s Hippos in Colombia",
+        "summary": "Colombia is planning to cull a population of wild hippos, the offspring of the drug lord’s pets, dividing a town where hippos are the main draw."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
