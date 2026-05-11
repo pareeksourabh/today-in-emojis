@@ -40919,5 +40919,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-11",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "alberta voter data breach",
+        "url": "https://www.theguardian.com/world/2026/may/11/alberta-voter-data-breach-separatists-referendum",
+        "title": "‘Truly terrifying’: Alberta voter data breach raises fears for Canada’s electoral integrity",
+        "summary": "Debates over secession overshadowed by revelations separatist-linked group gained access to list of electors The illegal use of voter information by rightwing separatists in the province of Alberta has raised fresh fears over Canada’s el..."
+      },
+      {
+        "char": "🐋",
+        "label": "whales harmed by diverted ships",
+        "url": "https://www.bbc.com/news/articles/cz02dkkd9j9o?at_medium=RSS&at_campaign=rss",
+        "title": "Whales could be harmed by diverted ships avoiding Middle East, scientists warn",
+        "summary": "Ships have rerouted around the Cape of Good Hope since 2023 to avoid conflicts in the Middle East."
+      },
+      {
+        "char": "🎤",
+        "label": "how to win eurovision",
+        "url": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-votes.html",
+        "title": "How to Win Eurovision With Just a Few Hundred Voters",
+        "summary": "Exclusive voting data shows that, despite Eurovision’s assurances, an Israeli campaign could easily have influenced last year’s contest."
+      },
+      {
+        "char": "🌍",
+        "label": "drop in canadians visiting us",
+        "url": "https://www.theguardian.com/world/2026/may/11/canadians-visiting-us",
+        "title": "Researchers find 42% drop in Canadians visiting US metro areas amid Trump 2.0",
+        "summary": "Data from University of Toronto suggests Canadians are avoiding US cities during the second Trump administration A new research tool that tracks cell phone activity has found a 42% drop in visitors from Canada to big metropolitan areas i..."
+      },
+      {
+        "char": "🔫",
+        "label": "washington dinner shooting suspect",
+        "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
+        "title": "Washington dinner shooting suspect pleads not guilty",
+        "summary": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

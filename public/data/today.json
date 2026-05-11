@@ -1,20 +1,13 @@
 {
   "date": "2026-05-11",
-  "timestamp": "2026-05-11T00:00:00Z",
+  "timestamp": "2026-05-11T17:47:41Z",
   "emojis": [
     {
-      "char": "🚢",
-      "label": "britons evacuated from ship",
-      "url": "https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
-      "title": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
-      "summary": "Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in Netherlands What is hantavirus? Two Britons who were medically evacuated from the hantavirus -hit cruise ship are improving, globa..."
-    },
-    {
-      "char": "🚂",
-      "label": "six dead near texas border",
-      "url": "https://www.theguardian.com/us-news/2026/may/11/six-people-found-dead-train-car-texas-mexico-border",
-      "title": "Six people found dead inside train car at rail yard near Texas-Mexico border",
-      "summary": "Discovery was made by Union Pacific employee inspecting stopped train at the yard in Laredo before it continued its journey north Sign up for the Breaking News US newsletter email Rail workers in Texas found six people dead inside a boxc..."
+      "char": "🗳️",
+      "label": "alberta voter data breach",
+      "url": "https://www.theguardian.com/world/2026/may/11/alberta-voter-data-breach-separatists-referendum",
+      "title": "‘Truly terrifying’: Alberta voter data breach raises fears for Canada’s electoral integrity",
+      "summary": "Debates over secession overshadowed by revelations separatist-linked group gained access to list of electors The illegal use of voter information by rightwing separatists in the province of Alberta has raised fresh fears over Canada’s el..."
     },
     {
       "char": "🐋",
@@ -24,18 +17,25 @@
       "summary": "Ships have rerouted around the Cape of Good Hope since 2023 to avoid conflicts in the Middle East."
     },
     {
-      "char": "🇺🇦",
-      "label": "ukraine steps away from us",
-      "url": "https://www.nytimes.com/2026/05/11/world/europe/ukraine-war-zelensky-us-trump-russia.html",
-      "title": "Ukraine Looks to Step Away From Trump and U.S.",
-      "summary": "With peace talks on ice and Ukraine now more self-reliant, President Volodymyr Zelensky seems to be stepping away from the United States."
+      "char": "🎤",
+      "label": "how to win eurovision",
+      "url": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-votes.html",
+      "title": "How to Win Eurovision With Just a Few Hundred Voters",
+      "summary": "Exclusive voting data shows that, despite Eurovision’s assurances, an Israeli campaign could easily have influenced last year’s contest."
     },
     {
-      "char": "🔒",
-      "label": "alberta voter data breach",
-      "url": "https://www.theguardian.com/world/2026/may/11/alberta-voter-data-breach-separatists-referendum",
-      "title": "‘Truly terrifying’: Alberta voter data breach raises fears for Canada’s electoral integrity",
-      "summary": "Debates over secession overshadowed by revelations separatist-linked group gained access to list of electors The illegal use of voter information by rightwing separatists in the province of Alberta has raised fresh fears over Canada’s el..."
+      "char": "🌍",
+      "label": "drop in canadians visiting us",
+      "url": "https://www.theguardian.com/world/2026/may/11/canadians-visiting-us",
+      "title": "Researchers find 42% drop in Canadians visiting US metro areas amid Trump 2.0",
+      "summary": "Data from University of Toronto suggests Canadians are avoiding US cities during the second Trump administration A new research tool that tracks cell phone activity has found a 42% drop in visitors from Canada to big metropolitan areas i..."
+    },
+    {
+      "char": "🔫",
+      "label": "washington dinner shooting suspect",
+      "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
+      "title": "Washington dinner shooting suspect pleads not guilty",
+      "summary": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump."
     }
   ],
   "source": "ai-openai",
