@@ -40831,5 +40831,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-11",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "reporter beaten by police in somalia",
+        "url": "https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police",
+        "title": "Guardian reporter and colleagues detained and beaten by Somali police",
+        "summary": "Mohamed Bulbul arrested in Mogadishu after covering case of woman allegedly being tortured in prison A journalist who covered the case of a woman who said she was being tortured in prison was detained and beaten with pistols by Somali au..."
+      },
+      {
+        "char": "🚢",
+        "label": "hantavirus outbreak on cruise ship",
+        "url": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
+        "title": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
+        "summary": "Small groups of passengers and crew left the ship after it anchored off Spain’s Canary Islands on Sunday. Those aboard were expected to be flown to their home countries, officials said."
+      },
+      {
+        "char": "🌍",
+        "label": "us-mexico heatwave and floods",
+        "url": "https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa",
+        "title": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa",
+        "summary": "Temperatures soar in California and Arizona, while deluge continues across Western and Northern Cape Heat is expected to intensify across western parts of the US and Mexico this week as a ridge of high pressure pushes temperatures well a..."
+      },
+      {
+        "char": "🎤",
+        "label": "israel uses eurovision for soft power",
+        "url": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html",
+        "title": "How Israel Turned Eurovision’s Stage Into a Soft Power Tool",
+        "summary": "Israel’s efforts to influence Eurovision’s vote were broader and started years earlier than previously known."
+      },
+      {
+        "char": "🔒",
+        "label": "alberta voter data breach concerns",
+        "url": "https://www.theguardian.com/world/2026/may/11/alberta-voter-data-breach-separatists-referendum",
+        "title": "‘Truly terrifying’: Alberta voter data breach raises fears for Canada’s electoral integrity",
+        "summary": "Debates over secession overshadowed by revelations separatist-linked group gained access to list of electors The illegal use of voter information by rightwing separatists in the province of Alberta has raised fresh fears over Canada’s el..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
