@@ -1,41 +1,41 @@
 {
   "date": "2026-05-11",
-  "timestamp": "2026-05-11T11:27:05Z",
+  "timestamp": "2026-05-11T00:00:00Z",
   "emojis": [
     {
-      "char": "📰",
-      "label": "reporter beaten by police in somalia",
-      "url": "https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police",
-      "title": "Guardian reporter and colleagues detained and beaten by Somali police",
-      "summary": "Mohamed Bulbul arrested in Mogadishu after covering case of woman allegedly being tortured in prison A journalist who covered the case of a woman who said she was being tortured in prison was detained and beaten with pistols by Somali au..."
+      "char": "🇬🇧",
+      "label": "starmer's urgent change speech",
+      "url": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html",
+      "title": "Starmer Promises Urgent Change as He Battles to Save Premiership",
+      "summary": "Prime Minister Keir Starmer of Britain used a speech to attempt to quell a mutiny in the Labour Party after last week’s dire election results."
     },
     {
-      "char": "🚢",
-      "label": "hantavirus outbreak on cruise ship",
-      "url": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
-      "title": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
-      "summary": "Small groups of passengers and crew left the ship after it anchored off Spain’s Canary Islands on Sunday. Those aboard were expected to be flown to their home countries, officials said."
+      "char": "🇨🇦",
+      "label": "canadians visiting us drops",
+      "url": "https://www.theguardian.com/world/2026/may/11/canadians-visiting-us",
+      "title": "Researchers find 42% drop in Canadians visiting US metro areas amid Trump 2.0",
+      "summary": "Data from University of Toronto suggests Canadians are avoiding US cities during the second Trump administration A new research tool that tracks cell phone activity has found a 42% drop in visitors from Canada to big metropolitan areas i..."
+    },
+    {
+      "char": "🦠",
+      "label": "hantavirus outbreak in argentina",
+      "url": "https://www.theguardian.com/world/2026/may/10/hantavirus-is-not-easily-spread-but-is-global-heating-upping-our-exposure",
+      "title": "Argentina in spotlight over hantavirus as authorities retrace footsteps of ship’s passengers",
+      "summary": "Thirty years after first person-to-person transmission was documented in Patagonia, scientists say global heating could increase world’s exposure An outbreak in rural communities 30 years ago in the Patagonia area of Argentina led scient..."
     },
     {
       "char": "🌍",
-      "label": "us-mexico heatwave and floods",
+      "label": "weather tracker: us and mexico heatwave",
       "url": "https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa",
       "title": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa",
       "summary": "Temperatures soar in California and Arizona, while deluge continues across Western and Northern Cape Heat is expected to intensify across western parts of the US and Mexico this week as a ridge of high pressure pushes temperatures well a..."
     },
     {
-      "char": "🎤",
-      "label": "israel uses eurovision for soft power",
-      "url": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html",
-      "title": "How Israel Turned Eurovision’s Stage Into a Soft Power Tool",
-      "summary": "Israel’s efforts to influence Eurovision’s vote were broader and started years earlier than previously known."
-    },
-    {
-      "char": "🔒",
-      "label": "alberta voter data breach concerns",
-      "url": "https://www.theguardian.com/world/2026/may/11/alberta-voter-data-breach-separatists-referendum",
-      "title": "‘Truly terrifying’: Alberta voter data breach raises fears for Canada’s electoral integrity",
-      "summary": "Debates over secession overshadowed by revelations separatist-linked group gained access to list of electors The illegal use of voter information by rightwing separatists in the province of Alberta has raised fresh fears over Canada’s el..."
+      "char": "📰",
+      "label": "disappearances in mexico report",
+      "url": "https://www.theguardian.com/world/2026/may/11/disappearances-mexico-involving-state-alarming-rate-iachr-report",
+      "title": "Disappearances in Mexico involving state at ‘alarming’ rate, says report",
+      "summary": "Exclusive: Human rights group warns of ‘deep collusion’ between criminals and officials in some parts of country State actors are involved in disappearances in Mexico at an “alarming” rate, according to a report from the Inter-American C..."
     }
   ],
   "source": "ai-openai",
