@@ -1,41 +1,41 @@
 {
   "date": "2026-05-11",
-  "timestamp": "2026-05-11T02:14:41Z",
+  "timestamp": "2026-05-11T00:00:00Z",
   "emojis": [
     {
-      "char": "⚔️",
-      "label": "putin's forces struggle in ukraine",
-      "url": "https://www.nytimes.com/2026/05/10/world/europe/russia-ukraine-putin-war.html",
-      "title": "Putin’s Forces Are Barely Inching Along on the Battlefield",
-      "summary": "The Russian military has yet to solve a fundamental problem: how to make big advances in eastern Ukraine when drones are everywhere."
+      "char": "🇮🇷",
+      "label": "mass layoffs in iran amid war pressures",
+      "url": "https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html",
+      "title": "Mass Layoffs in Iran as Businesses Buckle Under Wartime Pressures",
+      "summary": "Iran was already struggling economically before 2026 brought widespread instability. A government-imposed internet shutdown has crippled an entire sector."
+    },
+    {
+      "char": "🎬",
+      "label": "film on post-coup brazil's rainforest",
+      "url": "https://www.theguardian.com/world/2026/may/10/amazon-of-america-vitoria-regia-film-brazil-rainforest",
+      "title": "‘Amazon of America’: film paints vision of a post-coup Brazil giving up rainforest",
+      "summary": "Vitória Régia imagines rightwing Bolsonaro plot succeeded with US help – and highlights threats facing Indigenous peoples The year is 2025 and far-right coup plotters have annihilated Brazil’s democracy, assassinating the president, clos..."
+    },
+    {
+      "char": "🪦",
+      "label": "missing us soldier found in morocco",
+      "url": "https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco",
+      "title": "Body of missing US soldier recovered off coast of Morocco",
+      "summary": "1st Lt Kendrick Lamont Key Jr was participating in largest military exercise among US, Nato allies and African nations A search team recovered the body of a US soldier who went missing near a cliff during a training exercise in Cap Draa,..."
+    },
+    {
+      "char": "⚖️",
+      "label": "woman jailed in somalia for protest",
+      "url": "https://www.theguardian.com/global-development/2026/may/07/sadia-moalim-ali-woman-somalia-jail-peaceful-protest",
+      "title": "Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
+      "summary": "In an exclusive interview from prison, Sadia Moalim Ali, a 27-year-old rickshaw driver, tells of her treatment after being arrested for demonstrating against the government A woman being held in prison in Somalia for taking part in peace..."
     },
     {
       "char": "🌍",
-      "label": "africa's news influencers rise",
-      "url": "https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media",
-      "title": "‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere",
-      "summary": "Africa is leading a change in news consumption habits – and transforming the lives of current affairs enthusiasts Last year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Republic of the Congo..."
-    },
-    {
-      "char": "🦠",
-      "label": "hantavirus symptoms reported",
-      "url": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
-      "title": "French national shows symptoms on return from hantavirus-hit ship",
-      "summary": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says."
-    },
-    {
-      "char": "🛰️",
-      "label": "u.s.-china rivalry in south america",
+      "label": "us-china rivalry in south america",
       "url": "https://www.nytimes.com/2026/05/10/world/americas/us-china-telescope-argentina-chile.html",
       "title": "U.S.-China Rivalry Reaches South American Skies",
       "summary": "The U.S. has pressed Argentina and Chile to review two Chinese telescope projects in the Andean deserts. Astronomers are worried about setbacks to research."
-    },
-    {
-      "char": "🚢",
-      "label": "hantavirus cruise ship arrives",
-      "url": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
-      "title": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
-      "summary": "Small groups of passengers and crew left the ship after it anchored off Spain’s Canary Islands on Sunday. Those aboard were expected to be flown to their home countries, officials said."
     }
   ],
   "source": "ai-openai",
