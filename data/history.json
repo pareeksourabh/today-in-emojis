@@ -40963,5 +40963,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-12",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "hantavirus risk in us",
+        "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+        "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
+        "summary": "Two people are being monitored in Atlanta, 16 in Nebraska and another six passengers in Canada."
+      },
+      {
+        "char": "🔒",
+        "label": "canada voter data breach",
+        "url": "https://www.theguardian.com/world/2026/may/11/alberta-voter-data-breach-separatists-referendum",
+        "title": "‘Truly terrifying’: Alberta voter data breach raises fears for Canada’s electoral integrity",
+        "summary": "Debates over secession overshadowed by revelations separatist-linked group gained access to list of electors The illegal use of voter information by rightwing separatists in the province of Alberta has raised fresh fears over Canada’s el..."
+      },
+      {
+        "char": "⚔️",
+        "label": "putin on ukraine war",
+        "url": "https://www.nytimes.com/2026/05/11/world/europe/putin-russia-ukraine-war.html",
+        "title": "Putin Said the War ‘Is Coming to a Close,’ but That’s Not All He Said",
+        "summary": "The Russian leader is walking a tightrope: acknowledging public discontent while offering no indication that he might give up on his demands."
+      },
+      {
+        "char": "⚰️",
+        "label": "missing us soldier found",
+        "url": "https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco",
+        "title": "Body of missing US soldier recovered off coast of Morocco",
+        "summary": "1st Lt Kendrick Lamont Key Jr was participating in military exercise among US, Nato allies and African countries A search team recovered the body of a US soldier who went missing near a cliff during a training exercise in Cap Draa, Moroc..."
+      },
+      {
+        "char": "📉",
+        "label": "teen dies after ice custody fight",
+        "url": "https://www.theguardian.com/us-news/2026/may/11/chicago-teen-kevin-gonzalez-ice-cancer",
+        "title": "Chicago teen who pushed for parents’ release from ICE custody dies of cancer",
+        "summary": "Kevin González, 18-year-old who had terminal colon cancer, died shortly after reuniting with his parents in Mexico A Chicago-born teen who advocated for his parents’ release from US immigration authorities’ custody while fighting termina..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
