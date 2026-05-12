@@ -41095,5 +41095,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-12",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "chicago teen dies of cancer",
+        "url": "https://www.theguardian.com/us-news/2026/may/11/chicago-teen-kevin-gonzalez-ice-cancer",
+        "title": "Chicago teen who pushed for parents’ release from ICE custody dies of cancer",
+        "summary": "Kevin González, 18-year-old who had terminal colon cancer, died shortly after reuniting with his parents in Mexico A Chicago-born teen who advocated for his parents’ release from US immigration authorities’ custody while fighting termina..."
+      },
+      {
+        "char": "🚂",
+        "label": "six dead in train car near border",
+        "url": "https://www.theguardian.com/us-news/2026/may/11/six-people-found-dead-train-car-texas-mexico-border",
+        "title": "Six people found dead inside train car at rail yard near Texas-Mexico border",
+        "summary": "Discovery was made by Union Pacific employee inspecting stopped train at the yard in Laredo before it continued its journey north Sign up for the Breaking News US newsletter email Rail workers in Texas found six people dead inside a boxc..."
+      },
+      {
+        "char": "💣",
+        "label": "nigerian military bombings accused",
+        "url": "https://www.nytimes.com/2026/05/12/world/africa/nigeria-tumfa-market-strikes.html",
+        "title": "Amnesty Accuses Nigerian Military of Bombing Another Market",
+        "summary": "The rights group said more than 100 people were killed in airstrikes on Sunday that appeared to be the latest in a series of similar attacks."
+      },
+      {
+        "char": "🇧🇸",
+        "label": "bahamas election battle begins",
+        "url": "https://www.theguardian.com/world/2026/may/12/bahamas-goes-to-polls-caribbean-election-battle",
+        "title": "The Bahamas goes to polls in three-way battle with immigration a key issue",
+        "summary": "Rising cost of living such as high gas prices also a concern in election that will have record number of voters Voters in the Bahamas head to the polls on Tuesday in a hotly contested general election featuring high-profile candidates su..."
+      },
+      {
+        "char": "🌍",
+        "label": "macron seeks new partners in africa",
+        "url": "https://www.nytimes.com/2026/05/12/world/africa/macron-africa-summit-kenya.html",
+        "title": "Macron Makes a Bid for New Partners in Africa",
+        "summary": "The French president visited Kenya this week for a summit designed to build stronger ties with Anglophone African countries."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
