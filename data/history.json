@@ -41051,5 +41051,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-12",
+    "emojis": [
+      {
+        "char": "🇬🇱",
+        "label": "us talks on greenland bases",
+        "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
+        "title": "US in closely guarded talks to open new bases in Greenland",
+        "summary": "It is seeking to open three bases in the south of the Arctic territory, according to multiple officials familiar with the talks."
+      },
+      {
+        "char": "🌍",
+        "label": "africa's news influencers",
+        "url": "https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media",
+        "title": "‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere",
+        "summary": "Africa is leading a change in news consumption habits – and transforming the lives of current affairs enthusiasts Last year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Republic of the Congo..."
+      },
+      {
+        "char": "🕊️",
+        "label": "trump on iran ceasefire",
+        "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump says Iran ceasefire is on 'massive life support'",
+        "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\"."
+      },
+      {
+        "char": "🎤",
+        "label": "israel's eurovision strategy",
+        "url": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html",
+        "title": "How Israel Turned Eurovision’s Stage Into a Soft Power Tool",
+        "summary": "Israel’s efforts to influence Eurovision’s vote were broader and started years earlier than previously known."
+      },
+      {
+        "char": "🗳️",
+        "label": "bahamas election battle",
+        "url": "https://www.theguardian.com/world/2026/may/12/bahamas-goes-to-polls-caribbean-election-battle",
+        "title": "The Bahamas goes to polls in three-way battle with immigration a key issue",
+        "summary": "Rising cost of living such as high gas prices also a concern in election that will have record number of voters Voters in the Bahamas head to the polls on Tuesday in a hotly contested general election featuring high-profile candidates su..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
