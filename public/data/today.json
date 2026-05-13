@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The day features troubling stories about violence and corruption, as well as inspiring narratives about resilience and progress, creating an overall sense of concern.",
+    "emotion_label": "😔",
+    "emoji": "😔",
+    "rationale": "The day is marked by a mix of troubling events, including violence, political turmoil, and personal tragedies, which create an overall somber atmosphere. While there are some positive developments, the weight of negative news prevails.",
     "palette": [
       "😢",
       "😡",
