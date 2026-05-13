@@ -41315,5 +41315,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-13",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "epstein survivor testifies to lawmakers",
+        "url": "https://www.bbc.com/news/articles/clypr378l2wo?at_medium=RSS&at_campaign=rss",
+        "title": "Epstein abused me while under house arrest, survivor tells US lawmakers",
+        "summary": "Roza was among several victims who gave testimony to Democratic lawmakers on Tuesday."
+      },
+      {
+        "char": "🏝️",
+        "label": "woman isolates after hantavirus contact",
+        "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman isolating on British island in South Pacific after hantavirus contact",
+        "summary": "The woman who was on a virus-hit ship shows \"no signs of illness\", the government of Pitcairn Islands, a British Overseas Territory, says."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "bahamas election battle begins",
+        "url": "https://www.theguardian.com/world/2026/may/12/bahamas-goes-to-polls-caribbean-election-battle",
+        "title": "The Bahamas goes to polls in three-way battle with immigration a key issue",
+        "summary": "Rising cost of living such as high gas prices also a concern in election that will have record number of voters Voters in the Bahamas head to the polls on Tuesday in a hotly contested general election featuring high-profile candidates su..."
+      },
+      {
+        "char": "🍫",
+        "label": "german court rules on milka chocolate",
+        "url": "https://www.bbc.com/news/articles/crmp428zylko?at_medium=RSS&at_campaign=rss",
+        "title": "Shrinking Milka chocolate bar tricked consumers, says German court",
+        "summary": "A court in Bremen has found the manufacturer of the classic Alpine Milk chocolate bar guilty of \"shrinkflation\"."
+      },
+      {
+        "char": "🌍",
+        "label": "official marking land for uncontacted tribe",
+        "url": "https://www.theguardian.com/global-development/2026/may/13/official-marking-land-brazil-uncontacted-kawahiva",
+        "title": "Official marking of land for Brazil’s uncontacted Kawahiva people begins after 27-year wait",
+        "summary": "Demarcation of 410,000 hectares of territory is intended to protect the Amazonian community from farming, illegal mining and logging More than 25 years after the existence of one of the Amazon’s most vulnerable nomadic hunter-gatherer co..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
