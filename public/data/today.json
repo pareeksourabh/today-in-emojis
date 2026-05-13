@@ -1,9 +1,23 @@
 {
   "date": "2026-05-13",
-  "timestamp": "2026-05-13T02:25:23Z",
+  "timestamp": "2026-05-13T00:00:00Z",
   "emojis": [
     {
-      "char": "🏞️",
+      "char": "🏃‍♂️",
+      "label": "botswana's sprinting success",
+      "url": "https://www.theguardian.com/world/2026/may/12/gaborone-gold-rush-botswana-sprinting-athletics",
+      "title": "Gaborone gold rush: how Botswana rose to the top of men’s sprinting",
+      "summary": "Country with a population of just 2.5m credits investment in young athletes for its rise but this progress is under threat It was a fairytale ending to the World Athletics Relays in Gaborone. In the final strait, Collen Kebinatshipi surg..."
+    },
+    {
+      "char": "🇨🇳",
+      "label": "trump and assertive china",
+      "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
+      "title": "A decade on, Trump returns to a stronger and more assertive China",
+      "summary": "Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says."
+    },
+    {
+      "char": "🚨",
       "label": "indigenous families flee violence",
       "url": "https://www.theguardian.com/world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico",
       "title": "Drug gang attacks ‘force hundreds of Indigenous families to flee’ in Mexico",
@@ -11,31 +25,17 @@
     },
     {
       "char": "⚖️",
-      "label": "lawyer for abuse victims",
-      "url": "https://www.nytimes.com/2026/05/12/world/asia/philippines-catholic-church-sex-abuse.html",
-      "title": "Altar Boy Who Called Out Sexual Abuse in the Philippines Is Now a Lawyer for Victims",
-      "summary": "Michal Gatchalian dared to speak out against sexual abuse by a priest in the devoutly Catholic Philippines. He’s now a lawyer helping other victims."
+      "label": "chicago teen's cancer battle",
+      "url": "https://www.theguardian.com/us-news/2026/may/11/chicago-teen-kevin-gonzalez-ice-cancer",
+      "title": "Chicago teen who pushed for parents’ release from ICE custody dies of cancer",
+      "summary": "Kevin González, 18-year-old who had terminal colon cancer, died shortly after reuniting with his parents in Mexico A Chicago -born teen who advocated for his parents’ release from US immigration authorities’ custody while fighting termin..."
     },
     {
-      "char": "🐦",
-      "label": "seabird eggs chemical win",
-      "url": "https://www.theguardian.com/environment/2026/may/11/pfas-seabird-eggs-forever-chemicals",
-      "title": "Sharp drop in ‘forever chemicals’ in seabird eggs hailed as win for regulation",
-      "summary": "Levels of Pfas in northern gannet eggs in Canada fell up to 74% over 55-year period of study Levels of some of the most dangerous Pfas compounds have dramatically fallen in Canadian seabird eggs, which the authors of a new peer-reviewed..."
-    },
-    {
-      "char": "💼",
-      "label": "us firms under attack in ukraine",
-      "url": "https://www.nytimes.com/2026/05/12/world/europe/russian-strikes-us-firms-ukraine-trump.html",
-      "title": "Russia Keeps Attacking U.S. Firms in Ukraine. The White House Is Silent.",
-      "summary": "Facilities tied to Coca-Cola, Cargill, Mondelez and others appear to have been deliberately hit. The Trump administration’s muted response has raised concerns."
-    },
-    {
-      "char": "🪦",
-      "label": "missing soldier found in morocco",
-      "url": "https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco",
-      "title": "Body of missing US soldier recovered off coast of Morocco",
-      "summary": "1st Lt Kendrick Lamont Key Jr was participating in military exercise among US, Nato allies and African countries A search team recovered the body of a US soldier who went missing near a cliff during a training exercise in Cap Draa, Moroc..."
+      "char": "🗳️",
+      "label": "bahamas election battle",
+      "url": "https://www.theguardian.com/world/2026/may/12/bahamas-goes-to-polls-caribbean-election-battle",
+      "title": "The Bahamas goes to polls in three-way battle with immigration a key issue",
+      "summary": "Rising cost of living such as high gas prices also a concern in election that will have record number of voters Voters in the Bahamas head to the polls on Tuesday in a hotly contested general election featuring high-profile candidates su..."
     }
   ],
   "source": "ai-openai",
