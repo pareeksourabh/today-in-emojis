@@ -41359,5 +41359,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-13",
+    "emojis": [
+      {
+        "char": "🇨🇳",
+        "label": "trump's high-stakes talks in china",
+        "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
+        "title": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
+        "summary": "The US president says his first request to Xi would be to \"open up\" China, while Beijing is expected to press Trump on the status of Taiwan."
+      },
+      {
+        "char": "🗣️",
+        "label": "epstein survivor testifies to lawmakers",
+        "url": "https://www.bbc.com/news/articles/clypr378l2wo?at_medium=RSS&at_campaign=rss",
+        "title": "Epstein abused me while under house arrest, survivor tells US lawmakers",
+        "summary": "Roza was among several victims who gave testimony to Democratic lawmakers on Tuesday."
+      },
+      {
+        "char": "🔫",
+        "label": "philippine senate lockdown after gunfire",
+        "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
+        "title": "Philippine Senate in lockdown after gunshots fired",
+        "summary": "Police commandos entered the building where a senator wanted by the International Criminal Court had sought refuge."
+      },
+      {
+        "char": "🇮🇱",
+        "label": "israeli strikes kill 12 in lebanon",
+        "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli strikes on cars in southern Lebanon kill 12, health ministry says",
+        "summary": "Two children are among those reported dead after seven cars were struck in separate attacks south of Beirut."
+      },
+      {
+        "char": "📺",
+        "label": "les simpson returns to quebec",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/may/13/les-simpson-quebecois-show-returns",
+        "title": "Les Simpson: return of Québécois show spares viewers from ‘European French’",
+        "summary": "Beloved animated series will return for 36th season in the fall after telecoms giant Bell Media reaches deal with Disney Fans of Les Simpson have a message for anyone who doubted the future of the beloved and long-running Québécois versi..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
