@@ -41271,5 +41271,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-13",
+    "emojis": [
+      {
+        "char": "🏛️",
+        "label": "trump's golden dome missile defense",
+        "url": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
+        "summary": "That pricetag is nearly seven times higher than Trump's initial estimate, found an independent budget office."
+      },
+      {
+        "char": "🏞️",
+        "label": "indigenous families flee drug gang violence",
+        "url": "https://www.theguardian.com/world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico",
+        "title": "Drug gang attacks ‘force hundreds of Indigenous families to flee’ in Mexico",
+        "summary": "Violence in Guerrero state has driven as many as 1,000 households from their homes, rights group says Hundreds of Indigenous families have been forced to flee their homes in the mountains of central Mexico by intense attacks from a local..."
+      },
+      {
+        "char": "⚖️",
+        "label": "gulf countries arrest shiite 'traitors'",
+        "url": "https://www.nytimes.com/2026/05/13/world/middleeast/gulf-countries-arrest-shiite.html",
+        "title": "Gulf Countries Arrest Shiite ‘Traitors’ Amid War With Iran",
+        "summary": "Dozens of Gulf citizens have been accused of belonging to Iran-linked terrorism cells as the war accelerates a shift toward deeper authoritarianism in the region."
+      },
+      {
+        "char": "📱",
+        "label": "gabon faces social media clampdown",
+        "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
+        "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
+        "summary": "Activists claim use of laws to curtail internet freedoms part of well-documented history of cracking down on dissent When Gabon’s media regulator indefinitely suspended major social media platforms in February, citing security concerns d..."
+      },
+      {
+        "char": "🕊️",
+        "label": "six dead near texas-mexico border",
+        "url": "https://www.theguardian.com/us-news/2026/may/11/six-people-found-dead-train-car-texas-mexico-border",
+        "title": "Six people found dead inside train car at rail yard near Texas-Mexico border",
+        "summary": "Discovery was made by Union Pacific employee inspecting stopped train at the yard in Laredo before it continued its journey north Sign up for the Breaking News US newsletter email Rail workers in Texas found six people dead inside a boxc..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
