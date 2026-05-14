@@ -41579,5 +41579,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-14",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "record high internal displacements",
+        "url": "https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025",
+        "title": "Internal displacements caused by violence or conflict at record high in 2025",
+        "summary": "The 32.3m surpasses those caused by disasters for the first time, as 82.2m people displaced in total around world The number of internal displacements triggered by conflict or violence around the world reached a record high in 2025, surp..."
+      },
+      {
+        "char": "🚢",
+        "label": "floating armoury seized by iran",
+        "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+        "title": "'Floating armoury' ship reportedly seized by Iran",
+        "summary": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports."
+      },
+      {
+        "char": "🌪️",
+        "label": "over 100 killed in india storms",
+        "url": "https://www.nytimes.com/2026/05/14/world/asia/india-storms-deaths-uttar-pradesh.html",
+        "title": "Over 100 People Killed in India’s Uttar Pradesh as Storms Wreak Destruction",
+        "summary": "The deaths were scattered across a swath of India’s most populous state, Uttar Pradesh, where many homes were destroyed."
+      },
+      {
+        "char": "✈️",
+        "label": "miraculous atlantic plane rescue",
+        "url": "https://www.theguardian.com/us-news/2026/may/14/florida-atlantic-plane-rescue-fuel-low",
+        "title": "Florida crew recounts ‘miraculous’ Atlantic plane rescue with fuel low",
+        "summary": "All 11 onboard survived after the plane made an emergency landing near the Bahamas Sign up for the Breaking News US newsletter email A military rescue crew in Florida has spoken of the “pretty miraculous” survival of all 11 people it sav..."
+      },
+      {
+        "char": "🌳",
+        "label": "brazil's forest deforestation record",
+        "url": "https://www.theguardian.com/world/2026/may/14/brazil-atlantic-forest-deforestation-record",
+        "title": "Brazil’s Atlantic forest records lowest deforestation in 40 years",
+        "summary": "Environmentalists hail decline but warn weakened laws could reverse gains Brazil’s Atlantic forest, the country’s most threatened biome, last year recorded its lowest level of deforestation since monitoring began 40 years ago, a new repo..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
