@@ -41447,5 +41447,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-14",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "epstein abuse survivor testifies",
+        "url": "https://www.bbc.com/news/articles/clypr378l2wo?at_medium=RSS&at_campaign=rss",
+        "title": "Epstein abused me while under house arrest, survivor tells US lawmakers",
+        "summary": "Roza was among several victims who gave testimony to Democratic lawmakers on Tuesday."
+      },
+      {
+        "char": "🐶",
+        "label": "dogs rescued in uganda investigation",
+        "url": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss",
+        "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
+        "summary": "A BBC investigation exposed how scammers posted social content of dogs in distress to dupe donors into giving money."
+      },
+      {
+        "char": "⚔️",
+        "label": "israeli strikes kill 22 in lebanon",
+        "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli strikes in southern Lebanon kill 22 people, health ministry says",
+        "summary": "Eight children are among those reported dead after a series of air strikes hit the south of Beirut."
+      },
+      {
+        "char": "🌍",
+        "label": "gabon social media clampdown concerns",
+        "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
+        "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
+        "summary": "Activists claim use of laws to curtail internet freedoms part of well-documented history of cracking down on dissent When Gabon’s media regulator indefinitely suspended major social media platforms in February, citing security concerns d..."
+      },
+      {
+        "char": "🏅",
+        "label": "gaborone gold rush in athletics",
+        "url": "https://www.theguardian.com/world/2026/may/12/gaborone-gold-rush-botswana-sprinting-athletics",
+        "title": "Gaborone gold rush: how Botswana rose to the top of men’s sprinting",
+        "summary": "Country with a population of just 2.5m credits investment in young athletes for its rise but this progress is under threat It was a fairytale ending to the World Athletics Relays in Gaborone. In the final strait, Collen Kebinatshipi surg..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
