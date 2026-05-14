@@ -1,204 +1,43 @@
 {
-  "date": "2026-05-13",
-  "timestamp": "2026-05-13T00:00:00Z",
+  "date": "2026-05-14",
+  "timestamp": "2026-05-14T00:00:00Z",
   "emojis": [
     {
-      "char": "🌍",
-      "label": "macron's africa summit",
-      "url": "https://www.nytimes.com/2026/05/12/world/africa/macron-africa-summit-kenya.html",
-      "title": "Macron Makes a Bid for New Partners in Africa",
-      "summary": "The French president visited Kenya this week for a summit designed to build stronger ties with Anglophone African countries."
-    },
-    {
-      "char": "🗳️",
-      "label": "bahamas election battle",
-      "url": "https://www.theguardian.com/world/2026/may/12/bahamas-goes-to-polls-caribbean-election-battle",
-      "title": "The Bahamas goes to polls in three-way battle with immigration a key issue",
-      "summary": "Rising cost of living such as high gas prices also a concern in election that will have record number of voters Voters in the Bahamas head to the polls on Tuesday in a hotly contested general election featuring high-profile candidates su..."
-    },
-    {
-      "char": "⚖️",
-      "label": "ukraine corruption probe",
-      "url": "https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss",
-      "title": "Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates",
-      "summary": "Andriy Yermak was named by Ukraine's two anti-corruption agencies as a suspect in a money-laundering scheme."
-    },
-    {
-      "char": "🚂",
-      "label": "bodies found in train car",
-      "url": "https://www.theguardian.com/us-news/2026/may/11/six-people-found-dead-train-car-texas-mexico-border",
-      "title": "Six people found dead inside train car at rail yard near Texas-Mexico border",
-      "summary": "Discovery was made by Union Pacific employee inspecting stopped train at the yard in Laredo before it continued its journey north Sign up for the Breaking News US newsletter email Rail workers in Texas found six people dead inside a boxc..."
-    },
-    {
-      "char": "🌊",
-      "label": "forever chemicals in seabird eggs",
-      "url": "https://www.theguardian.com/environment/2026/may/11/pfas-seabird-eggs-forever-chemicals",
-      "title": "Sharp drop in ‘forever chemicals’ in seabird eggs hailed as win for regulation",
-      "summary": "Levels of Pfas in northern gannet eggs in Canada fell up to 74% over 55-year period of study Levels of some of the most dangerous Pfas compounds have dramatically fallen in Canadian seabird eggs, which the authors of a new peer-reviewed..."
-    },
-    {
-      "char": "🏃‍♂️",
-      "label": "botswana's sprinting success",
-      "url": "https://www.theguardian.com/world/2026/may/12/gaborone-gold-rush-botswana-sprinting-athletics",
-      "title": "Gaborone gold rush: how Botswana rose to the top of men’s sprinting",
-      "summary": "Country with a population of just 2.5m credits investment in young athletes for its rise but this progress is under threat It was a fairytale ending to the World Athletics Relays in Gaborone. In the final strait, Collen Kebinatshipi surg..."
-    },
-    {
-      "char": "🇨🇳",
-      "label": "trump and assertive china",
-      "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
-      "title": "A decade on, Trump returns to a stronger and more assertive China",
-      "summary": "Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says."
-    },
-    {
-      "char": "🚨",
-      "label": "indigenous families flee violence",
-      "url": "https://www.theguardian.com/world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico",
-      "title": "Drug gang attacks ‘force hundreds of Indigenous families to flee’ in Mexico",
-      "summary": "Violence in Guerrero state has driven as many as 1,000 households from their homes, rights group says Hundreds of Indigenous families have been forced to flee their homes in the mountains of central Mexico by intense attacks from a local..."
-    },
-    {
-      "char": "⚖️",
-      "label": "chicago teen's cancer battle",
-      "url": "https://www.theguardian.com/us-news/2026/may/11/chicago-teen-kevin-gonzalez-ice-cancer",
-      "title": "Chicago teen who pushed for parents’ release from ICE custody dies of cancer",
-      "summary": "Kevin González, 18-year-old who had terminal colon cancer, died shortly after reuniting with his parents in Mexico A Chicago -born teen who advocated for his parents’ release from US immigration authorities’ custody while fighting termin..."
-    },
-    {
-      "char": "🗳️",
-      "label": "bahamas election battle",
-      "url": "https://www.theguardian.com/world/2026/may/12/bahamas-goes-to-polls-caribbean-election-battle",
-      "title": "The Bahamas goes to polls in three-way battle with immigration a key issue",
-      "summary": "Rising cost of living such as high gas prices also a concern in election that will have record number of voters Voters in the Bahamas head to the polls on Tuesday in a hotly contested general election featuring high-profile candidates su..."
+      "char": "🇺🇸",
+      "label": "us soldier remains recovered in morocco",
+      "url": "https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco",
+      "title": "Remains of second US soldier who went missing during military exercises in Morocco have been recovered",
+      "summary": "Mariyah Symone Collington and Kendrick Lamont Key Jr, who also died, had fallen off a cliff during an off-duty hike The remains of the second US army soldier who went missing during military exercises in Morocco have been recovered, the..."
     },
     {
       "char": "🕊️",
-      "label": "hamas weaponised sexual violence",
-      "url": "https://www.bbc.com/news/articles/cvgz9k7pzggo?at_medium=RSS&at_campaign=rss",
-      "title": "Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says",
-      "summary": "The most comprehensive report of its kind details harrowing cases of sexual attacks which it says were systematic."
-    },
-    {
-      "char": "⚖️",
-      "label": "lawyer for abuse victims in ph",
-      "url": "https://www.nytimes.com/2026/05/12/world/asia/philippines-catholic-church-sex-abuse.html",
-      "title": "Altar Boy Who Called Out Sexual Abuse in the Philippines Is Now a Lawyer for Victims",
-      "summary": "Michal Gatchalian dared to speak out against sexual abuse by a priest in the devoutly Catholic Philippines. He’s now a lawyer helping other victims."
-    },
-    {
-      "char": "🗳️",
-      "label": "bahamas election battle",
-      "url": "https://www.theguardian.com/world/2026/may/12/bahamas-goes-to-polls-caribbean-election-battle",
-      "title": "The Bahamas goes to polls in three-way battle with immigration a key issue",
-      "summary": "Rising cost of living such as high gas prices also a concern in election that will have record number of voters Voters in the Bahamas head to the polls on Tuesday in a hotly contested general election featuring high-profile candidates su..."
-    },
-    {
-      "char": "💼",
-      "label": "russia attacks us firms in ukraine",
-      "url": "https://www.nytimes.com/2026/05/12/world/europe/russian-strikes-us-firms-ukraine-trump.html",
-      "title": "Russia Keeps Attacking U.S. Firms in Ukraine. The White House Is Silent.",
-      "summary": "Facilities tied to Coca-Cola, Cargill, Mondelez and others appear to have been deliberately hit. The Trump administration’s muted response has raised concerns."
-    },
-    {
-      "char": "🌍",
-      "label": "macron seeks new partners in africa",
-      "url": "https://www.nytimes.com/2026/05/12/world/africa/macron-africa-summit-kenya.html",
-      "title": "Macron Makes a Bid for New Partners in Africa",
-      "summary": "The French president visited Kenya this week for a summit designed to build stronger ties with Anglophone African countries."
-    },
-    {
-      "char": "✈️",
-      "label": "air india crisis deepens",
-      "url": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss",
-      "title": "Air India crisis deepens ahead of final Ahmedabad crash report",
-      "summary": "Air India faces a leadership vacuum and mounting financial losses as it struggles to recover from the crash."
-    },
-    {
-      "char": "🗣️",
-      "label": "gabon social media clampdown",
-      "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
-      "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
-      "summary": "Activists claim use of laws to curtail internet freedoms part of well-documented history of cracking down on dissent When Gabon’s media regulator indefinitely suspended major social media platforms in February, citing security concerns d..."
-    },
-    {
-      "char": "🏗️",
-      "label": "gaza sisters win prize for bricks",
-      "url": "https://www.bbc.com/news/articles/ce8p7vngmp3o?at_medium=RSS&at_campaign=rss",
-      "title": "Gaza sisters win prize for turning rubble into reusable bricks",
-      "summary": "Displaced teenagers Farah and Tala wanted to 'turn destruction into something useful'."
-    },
-    {
-      "char": "⚔️",
-      "label": "russia-ukraine war cease-fires",
+      "label": "russia-ukraine ceasefire issues",
       "url": "https://www.nytimes.com/2026/05/13/world/europe/russia-ukraine-truce-trump.html",
       "title": "Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump",
       "summary": "Temporary truces have become a tool of performative diplomacy, an end in themselves rather than a prelude to a lasting settlement, analysts say."
     },
     {
-      "char": "🚂",
-      "label": "six dead in train car near border",
-      "url": "https://www.theguardian.com/us-news/2026/may/11/six-people-found-dead-train-car-texas-mexico-border",
-      "title": "Six people found dead inside train car at rail yard near Texas-Mexico border",
-      "summary": "Discovery was made by Union Pacific employee inspecting stopped train at the yard in Laredo before it continued its journey north Sign up for the Breaking News US newsletter email Rail workers in Texas found six people dead inside a boxc..."
+      "char": "🇨🇳",
+      "label": "xi jinping's closed-door strategies",
+      "url": "https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html",
+      "title": "The Lecturer and Philosopher King: Xi Jinping Behind Closed Doors",
+      "summary": "Encounters with other world leaders reveal a side of China’s leader that the public rarely sees, and offer clues to how he will approach President Trump in Beijing."
     },
     {
-      "char": "🗳️",
-      "label": "bahamas election battle",
-      "url": "https://www.theguardian.com/world/2026/may/12/bahamas-goes-to-polls-caribbean-election-battle",
-      "title": "The Bahamas goes to polls in three-way battle with immigration a key issue",
-      "summary": "Rising cost of living such as high gas prices also a concern in election that will have record number of voters Voters in the Bahamas head to the polls on Tuesday in a hotly contested general election featuring high-profile candidates su..."
+      "char": "💰",
+      "label": "farage faces investigation for gift",
+      "url": "https://www.nytimes.com/2026/05/13/world/europe/nigel-farage-reform-uk-investigation-5-million-gift.html",
+      "title": "Nigel Farage, Leader of Reform U.K., Faces Investigation for £5 Million Gift",
+      "summary": "The Conservative Party referred the case against Mr. Farage, the leader of a right-wing populist party in Britain, to a parliamentary watchdog."
     },
     {
-      "char": "⚓",
-      "label": "missing soldier found",
-      "url": "https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco",
-      "title": "Body of missing US soldier recovered off coast of Morocco",
-      "summary": "1st Lt Kendrick Lamont Key Jr was participating in military exercise among US, Nato allies and African countries A search team recovered the body of a US soldier who went missing near a cliff during a training exercise in Cap Draa, Moroc..."
-    },
-    {
-      "char": "🌊",
-      "label": "us-mexico heatwave",
-      "url": "https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa",
-      "title": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa",
-      "summary": "Temperatures soar in California and Arizona, while deluge continues across Western and Northern Cape Heat is expected to intensify across western parts of the US and Mexico this week as a ridge of high pressure pushes temperatures well a..."
-    },
-    {
-      "char": "🚨",
-      "label": "drug gang attacks in mexico",
-      "url": "https://www.theguardian.com/world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico",
-      "title": "Drug gang attacks ‘force hundreds of Indigenous families to flee’ in Mexico",
-      "summary": "Violence in Guerrero state has driven as many as 1,000 households from their homes, rights group says Hundreds of Indigenous families have been forced to flee their homes in the mountains of central Mexico by intense attacks from a local..."
-    },
-    {
-      "char": "🌍",
-      "label": "land marking for kawahiva",
-      "url": "https://www.theguardian.com/global-development/2026/may/13/official-marking-land-brazil-uncontacted-kawahiva",
-      "title": "Official marking of land for Brazil’s uncontacted Kawahiva people begins after 27-year wait",
-      "summary": "Demarcation of 410,000 hectares of territory is intended to protect the Amazonian community from farming, illegal mining and logging More than 25 years after the existence of one of the Amazon’s most vulnerable nomadic hunter-gatherer co..."
+      "char": "⚔️",
+      "label": "israeli strikes in southern lebanon",
+      "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli strikes in southern Lebanon kill 22 people, health ministry says",
+      "summary": "Eight children are among those reported dead after a series of air strikes hit the south of Beirut."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "The day is marked by a mix of troubling events, including violence, political turmoil, and personal tragedies, which create an overall somber atmosphere. While there are some positive developments, the weight of negative news prevails.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
