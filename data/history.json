@@ -41491,5 +41491,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-14",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "woman isolating after hantavirus contact",
+        "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
+        "title": "Woman isolating on British island in South Pacific after hantavirus contact",
+        "summary": "The woman who was on a virus-hit ship shows \"no signs of illness\", the government of Pitcairn Islands, a British Overseas Territory, says."
+      },
+      {
+        "char": "✈️",
+        "label": "secret mission to fly taiwan's president",
+        "url": "https://www.nytimes.com/2026/05/14/world/asia/taiwan-eswatini-china-flight.html",
+        "title": "Inside the Secret Mission to Fly Taiwan’s President to Africa",
+        "summary": "From satellite phone check-ins to a borrowed royal plane, new details show how Taiwan’s leader’s team outwitted China and pulled off an audacious journey to southern Africa."
+      },
+      {
+        "char": "🌧️",
+        "label": "us and mexico brace for heatwave",
+        "url": "https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa",
+        "title": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa",
+        "summary": "Temperatures soar in California and Arizona, while deluge continues across Western and Northern Cape Heat is expected to intensify across western parts of the US and Mexico this week as a ridge of high pressure pushes temperatures well a..."
+      },
+      {
+        "char": "🗳️",
+        "label": "bahamas re-elects progressive liberal party",
+        "url": "https://www.theguardian.com/world/2026/may/13/the-bahamas-reelects-progressive-liberal-party-philip-davis-as-prime-minister",
+        "title": "Bahamas re-elects Progressive Liberal party’s Philip Davis as prime minister",
+        "summary": "Davis is the country’s first leader to serve a second consecutive term in nearly 30 years The Bahamas prime minister, Philip Davis, and his ruling Progressive Liberal party (PLP) have been re-elected , making him the country’s first lead..."
+      },
+      {
+        "char": "💔",
+        "label": "cecilia flores became voice of mothers",
+        "url": "https://www.nytimes.com/2026/05/14/world/americas/cecilia-flores-mexico-disappeared.html",
+        "title": "Cecilia Flores Became the Voice of Mexican Mothers",
+        "summary": "One of the most prominent activists for Mexico’s disappeared recently found the remains of one missing son. Now she has turned her attention to finding the other."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
