@@ -1,34 +1,27 @@
 {
   "date": "2026-05-14",
-  "timestamp": "2026-05-14T00:00:00Z",
+  "timestamp": "2026-05-14T14:25:17Z",
   "emojis": [
     {
-      "char": "💔",
-      "label": "israeli strikes in lebanon kill 22",
-      "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
-      "title": "Israeli strikes in southern Lebanon kill 22 people, health ministry says",
-      "summary": "Eight children are among those reported dead after a series of air strikes hit the south of Beirut."
+      "char": "🇨🇳",
+      "label": "musk returns to trump in beijing",
+      "url": "https://www.nytimes.com/2026/05/14/world/asia/musk-china-trump-xi-beijing.html",
+      "title": "Elon Musk Returns to Trump’s Side in Beijing",
+      "summary": "Mr. Musk is part of a delegation of business leaders to China, where his interests include Tesla’s electric vehicle factory and solar panels."
     },
     {
-      "char": "🌳",
-      "label": "brazil's forest sees lowest deforestation",
-      "url": "https://www.theguardian.com/world/2026/may/14/brazil-atlantic-forest-deforestation-record",
-      "title": "Brazil’s Atlantic forest records lowest deforestation in 40 years",
-      "summary": "Environmentalists hail decline but warn weakened laws could reverse gains Brazil’s Atlantic forest, the country’s most threatened biome, last year recorded its lowest level of deforestation since monitoring began 40 years ago, a new repo..."
+      "char": "✈️",
+      "label": "taiwan president's secret africa flight",
+      "url": "https://www.nytimes.com/2026/05/14/world/asia/taiwan-eswatini-china-flight.html",
+      "title": "Inside the Secret Mission to Fly Taiwan’s President to Africa",
+      "summary": "From satellite phone check-ins to a borrowed royal plane, new details show how Taiwan’s leader’s team outwitted China and pulled off an audacious journey to southern Africa."
     },
     {
-      "char": "📱",
-      "label": "gabon faces social media clampdown",
-      "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
-      "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
-      "summary": "Activists claim use of laws to curtail internet freedoms part of well-documented history of cracking down on dissent When Gabon’s media regulator indefinitely suspended major social media platforms in February, citing security concerns d..."
-    },
-    {
-      "char": "🦠",
-      "label": "hantavirus outbreak in argentina",
-      "url": "https://www.nytimes.com/2026/05/14/world/americas/hantavirus-cruise-ship-argentina.html",
-      "title": "Argentina Races To Find Origin of Hantavirus Outbreak",
-      "summary": "The scientific investigation into the origin of cruise infection has become entangled with international finger pointing."
+      "char": "🏅",
+      "label": "botswana's gold rush in sprinting",
+      "url": "https://www.theguardian.com/world/2026/may/12/gaborone-gold-rush-botswana-sprinting-athletics",
+      "title": "Gaborone gold rush: how Botswana rose to the top of men’s sprinting",
+      "summary": "Country with a population of just 2.5m credits investment in young athletes for its rise but this progress is under threat It was a fairytale ending to the World Athletics Relays in Gaborone. In the final strait, Collen Kebinatshipi surg..."
     },
     {
       "char": "⚖️",
@@ -36,6 +29,13 @@
       "url": "https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss",
       "title": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
       "summary": "Former Power Minister Saleh Mamman was convicted last week - but the authorities do not know his whereabouts."
+    },
+    {
+      "char": "🌍",
+      "label": "global temperatures rise with el niño",
+      "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
+      "title": "Warning of record global temperatures as chance of very strong El Niño grows",
+      "summary": "As El Niño develops this year, scientists are increasingly confident it could be one of the strongest on record with global consequences, as Simon King explains."
     }
   ],
   "source": "ai-openai",
