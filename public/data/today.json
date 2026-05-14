@@ -1,41 +1,41 @@
 {
   "date": "2026-05-14",
-  "timestamp": "2026-05-14T14:25:17Z",
+  "timestamp": "2026-05-14T00:00:00Z",
   "emojis": [
     {
-      "char": "🇨🇳",
-      "label": "musk returns to trump in beijing",
-      "url": "https://www.nytimes.com/2026/05/14/world/asia/musk-china-trump-xi-beijing.html",
-      "title": "Elon Musk Returns to Trump’s Side in Beijing",
-      "summary": "Mr. Musk is part of a delegation of business leaders to China, where his interests include Tesla’s electric vehicle factory and solar panels."
-    },
-    {
-      "char": "✈️",
-      "label": "taiwan president's secret africa flight",
-      "url": "https://www.nytimes.com/2026/05/14/world/asia/taiwan-eswatini-china-flight.html",
-      "title": "Inside the Secret Mission to Fly Taiwan’s President to Africa",
-      "summary": "From satellite phone check-ins to a borrowed royal plane, new details show how Taiwan’s leader’s team outwitted China and pulled off an audacious journey to southern Africa."
-    },
-    {
-      "char": "🏅",
-      "label": "botswana's gold rush in sprinting",
+      "char": "🏃‍♂️",
+      "label": "botswana's sprinting gold rush",
       "url": "https://www.theguardian.com/world/2026/may/12/gaborone-gold-rush-botswana-sprinting-athletics",
       "title": "Gaborone gold rush: how Botswana rose to the top of men’s sprinting",
       "summary": "Country with a population of just 2.5m credits investment in young athletes for its rise but this progress is under threat It was a fairytale ending to the World Athletics Relays in Gaborone. In the final strait, Collen Kebinatshipi surg..."
     },
     {
       "char": "⚖️",
-      "label": "nigerian minister sentenced for corruption",
-      "url": "https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss",
-      "title": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
-      "summary": "Former Power Minister Saleh Mamman was convicted last week - but the authorities do not know his whereabouts."
+      "label": "murdaugh's murder conviction overturned",
+      "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
+      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
+      "summary": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh."
     },
     {
-      "char": "🌍",
-      "label": "global temperatures rise with el niño",
-      "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
-      "title": "Warning of record global temperatures as chance of very strong El Niño grows",
-      "summary": "As El Niño develops this year, scientists are increasingly confident it could be one of the strongest on record with global consequences, as Simon King explains."
+      "char": "📺",
+      "label": "les simpson returns to tv",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/13/les-simpson-quebecois-show-returns",
+      "title": "Les Simpson: return of Québécois show spares viewers from ‘European French’",
+      "summary": "Beloved animated series will return for 36th season in the fall after telecoms giant Bell Media reaches deal with Disney Fans of Les Simpson have a message for anyone who doubted the future of the beloved and long-running Québécois versi..."
+    },
+    {
+      "char": "🤝",
+      "label": "trump and xi's positive summit",
+      "url": "https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china",
+      "title": "After Xi’s Warning on Taiwan, He and Trump Strike Positive Tone",
+      "summary": "Xi Jinping, China’s leader, told President Trump that if the Taiwan issue were handled poorly, it could lead to a clash with the United States. Later, at a state dinner, they emphasized cooperation."
+    },
+    {
+      "char": "🌪️",
+      "label": "devastating storms in india",
+      "url": "https://www.nytimes.com/2026/05/14/world/asia/india-storms-deaths-uttar-pradesh.html",
+      "title": "Over 100 People Killed in India’s Uttar Pradesh as Storms Wreak Destruction",
+      "summary": "The deaths were scattered across a swath of India’s most populous state, Uttar Pradesh, where many homes were destroyed."
     }
   ],
   "source": "ai-openai",
