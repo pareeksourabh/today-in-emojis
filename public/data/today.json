@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Sorrowful",
+    "emotion_label": "sorrow",
     "emoji": "😢",
-    "rationale": "The news items reflect significant loss of life due to military actions and natural disasters, highlighting a somber emotional tone. This choice encapsulates the grief felt from these events.",
+    "rationale": "The news is dominated by tragic events, including military casualties and natural disasters causing significant loss of life. Such reports evoke sadness and concern for those affected.",
     "palette": [
       "😢",
       "😡",
