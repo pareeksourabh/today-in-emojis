@@ -41403,5 +41403,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-14",
+    "emojis": [
+      {
+        "char": "🇧🇸",
+        "label": "bahamas re-elects prime minister",
+        "url": "https://www.theguardian.com/world/2026/may/13/the-bahamas-reelects-progressive-liberal-party-philip-davis-as-prime-minister",
+        "title": "Bahamas re-elects Progressive Liberal party’s Philip Davis as prime minister",
+        "summary": "Davis is the country’s first leader to serve a second consecutive term in nearly 30 years The Bahamas prime minister, Philip Davis, and his ruling Progressive Liberal party (PLP) have been re-elected , making him the country’s first lead..."
+      },
+      {
+        "char": "💰",
+        "label": "us-mexico cartel corruption claims",
+        "url": "https://www.theguardian.com/world/2026/may/13/cartel-corruption-claims-push-us-mexico-relations-to-breaking-point",
+        "title": "Cartel corruption claims push US-Mexico relations to breaking point",
+        "summary": "With Mexico under pressure from Trump to tackle drug trafficking groups, analysts say ‘it’s the most tense situation since the 1980s’ Relations between Mexico and the United States are being pushed to breaking point amid accusations by W..."
+      },
+      {
+        "char": "📱",
+        "label": "gabon social media clampdown",
+        "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
+        "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
+        "summary": "Activists claim use of laws to curtail internet freedoms part of well-documented history of cracking down on dissent When Gabon’s media regulator indefinitely suspended major social media platforms in February, citing security concerns d..."
+      },
+      {
+        "char": "🏃‍♂️",
+        "label": "botswana gold rush in sprinting",
+        "url": "https://www.theguardian.com/world/2026/may/12/gaborone-gold-rush-botswana-sprinting-athletics",
+        "title": "Gaborone gold rush: how Botswana rose to the top of men’s sprinting",
+        "summary": "Country with a population of just 2.5m credits investment in young athletes for its rise but this progress is under threat It was a fairytale ending to the World Athletics Relays in Gaborone. In the final strait, Collen Kebinatshipi surg..."
+      },
+      {
+        "char": "💣",
+        "label": "russian drone attacks resume in ukraine",
+        "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
+        "title": "Deadly Russian drone attacks on Ukraine resume after ceasefire expires",
+        "summary": "Six people have been killed after Zelensky warned of \"more waves\" of Russian strikes through Wednesday."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
