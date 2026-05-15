@@ -1,204 +1,43 @@
 {
-  "date": "2026-05-14",
-  "timestamp": "2026-05-14T00:00:00Z",
+  "date": "2026-05-15",
+  "timestamp": "2026-05-15T00:00:00Z",
   "emojis": [
     {
-      "char": "🇺🇸",
-      "label": "us soldier remains recovered in morocco",
-      "url": "https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco",
-      "title": "Remains of second US soldier who went missing during military exercises in Morocco have been recovered",
-      "summary": "Mariyah Symone Collington and Kendrick Lamont Key Jr, who also died, had fallen off a cliff during an off-duty hike The remains of the second US army soldier who went missing during military exercises in Morocco have been recovered, the..."
-    },
-    {
-      "char": "🕊️",
-      "label": "russia-ukraine ceasefire issues",
-      "url": "https://www.nytimes.com/2026/05/13/world/europe/russia-ukraine-truce-trump.html",
-      "title": "Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump",
-      "summary": "Temporary truces have become a tool of performative diplomacy, an end in themselves rather than a prelude to a lasting settlement, analysts say."
+      "char": "🇺🇦",
+      "label": "ukraine rescue efforts after strikes",
+      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+      "summary": "Two children are among at least 16 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say."
     },
     {
       "char": "🇨🇳",
-      "label": "xi jinping's closed-door strategies",
-      "url": "https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html",
-      "title": "The Lecturer and Philosopher King: Xi Jinping Behind Closed Doors",
-      "summary": "Encounters with other world leaders reveal a side of China’s leader that the public rarely sees, and offer clues to how he will approach President Trump in Beijing."
+      "label": "trump visits china",
+      "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-photos.html",
+      "title": "In Photos and Video: President Trump Goes to China",
+      "summary": "His talks with Xi Jinping in Beijing could decide whether the United States and China maintain their uneasy truce on trade."
     },
     {
-      "char": "💰",
-      "label": "farage faces investigation for gift",
-      "url": "https://www.nytimes.com/2026/05/13/world/europe/nigel-farage-reform-uk-investigation-5-million-gift.html",
-      "title": "Nigel Farage, Leader of Reform U.K., Faces Investigation for £5 Million Gift",
-      "summary": "The Conservative Party referred the case against Mr. Farage, the leader of a right-wing populist party in Britain, to a parliamentary watchdog."
-    },
-    {
-      "char": "⚔️",
-      "label": "israeli strikes in southern lebanon",
-      "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
-      "title": "Israeli strikes in southern Lebanon kill 22 people, health ministry says",
-      "summary": "Eight children are among those reported dead after a series of air strikes hit the south of Beirut."
-    },
-    {
-      "char": "🗣️",
-      "label": "gabon social media clampdown",
-      "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
-      "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
-      "summary": "Activists claim use of laws to curtail internet freedoms part of well-documented history of cracking down on dissent When Gabon’s media regulator indefinitely suspended major social media platforms in February, citing security concerns d..."
-    },
-    {
-      "char": "⚰️",
-      "label": "us soldier remains recovered",
-      "url": "https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco",
-      "title": "Remains of second US soldier who went missing during military exercises in Morocco have been recovered",
-      "summary": "Mariyah Symone Collington and Kendrick Lamont Key Jr, who also died, had fallen off a cliff during an off-duty hike The remains of the second US army soldier who went missing during military exercises in Morocco have been recovered, the..."
-    },
-    {
-      "char": "🌍",
-      "label": "trump in china amid iran war",
-      "url": "https://www.nytimes.com/2026/05/13/world/middleeast/trump-china-iran-war.html",
-      "title": "Trump Is in China as Iran War Continues With No End in Sight",
-      "summary": "Before leaving Washington on Tuesday, the president reiterated threats to decimate Iran if it doesn’t agree to a deal to resolve the conflict."
-    },
-    {
-      "char": "🗡️",
-      "label": "fourth musketeer bones found?",
-      "url": "https://www.nytimes.com/2026/05/13/world/europe/three-musketeers-maastricht-dumas-netherlands-dartagnan.html",
-      "title": "Are These the Bones of the Fourth Musketeer? This Dutch Village Hopes So.",
-      "summary": "Wolder, near the Belgian border, is waiting to see if the skeleton it dug up in a church is Count d’Artagnan, from Alexandre Dumas’s tale."
-    },
-    {
-      "char": "💰",
-      "label": "farage faces investigation",
-      "url": "https://www.nytimes.com/2026/05/13/world/europe/nigel-farage-reform-uk-investigation-5-million-gift.html",
-      "title": "Nigel Farage, Leader of Reform U.K., Faces Investigation for £5 Million Gift",
-      "summary": "The Conservative Party referred the case against Mr. Farage, the leader of a right-wing populist party in Britain, to a parliamentary watchdog."
-    },
-    {
-      "char": "⚔️",
-      "label": "us soldier remains recovered",
-      "url": "https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco",
-      "title": "Remains of second US soldier who went missing during military exercises in Morocco have been recovered",
-      "summary": "Mariyah Symone Collington and Kendrick Lamont Key Jr, who also died, had fallen off a cliff during an off-duty hike The remains of the second US army soldier who went missing during military exercises in Morocco have been recovered, the..."
-    },
-    {
-      "char": "🦠",
-      "label": "woman isolates after hantavirus",
-      "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
-      "title": "Woman isolating on British island in South Pacific after hantavirus contact",
-      "summary": "The woman who was on a virus-hit ship shows \"no signs of illness\", the government of Pitcairn Islands, a British Overseas Territory, says."
-    },
-    {
-      "char": "📈",
-      "label": "record high internal displacements",
-      "url": "https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025",
-      "title": "Internal displacements caused by violence or conflict at record high in 2025",
-      "summary": "The 32.3m surpasses those caused by disasters for the first time, as 82.2m people displaced in total around world The number of internal displacements triggered by conflict or violence around the world reached a record high in 2025, surp..."
-    },
-    {
-      "char": "💔",
-      "label": "22 killed in lebanon strikes",
-      "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
-      "title": "Israeli strikes in southern Lebanon kill 22 people, health ministry says",
-      "summary": "Eight children are among those reported dead after a series of air strikes hit the south of Beirut."
-    },
-    {
-      "char": "🇧🇸",
-      "label": "bahamas reelects prime minister",
-      "url": "https://www.theguardian.com/world/2026/may/13/the-bahamas-reelects-progressive-liberal-party-philip-davis-as-prime-minister",
-      "title": "Bahamas re-elects Progressive Liberal party’s Philip Davis as prime minister",
-      "summary": "Davis is the country’s first leader to serve a second consecutive term in nearly 30 years The Bahamas prime minister, Philip Davis, and his ruling Progressive Liberal party (PLP) have been re-elected , making him the country’s first lead..."
-    },
-    {
-      "char": "💔",
-      "label": "israeli strikes in lebanon kill 22",
-      "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
-      "title": "Israeli strikes in southern Lebanon kill 22 people, health ministry says",
-      "summary": "Eight children are among those reported dead after a series of air strikes hit the south of Beirut."
+      "char": "🕵️‍♂",
+      "label": "cia director talks in havana",
+      "url": "https://www.theguardian.com/world/2026/may/14/cia-director-has-met-officials-in-havana-for-talks-cuba-claims",
+      "title": "CIA director has met officials in Havana for talks, Cuba claims",
+      "summary": "Visit comes after US-Cuba relations deteriorated significantly, with Washington imposing a fuel blockade on the island in January CIA director John Ratcliffe met Cuban officials in Havana on Thursday as a way to improve dialogue between..."
     },
     {
       "char": "🌳",
-      "label": "brazil's forest sees lowest deforestation",
+      "label": "brazil's deforestation record",
       "url": "https://www.theguardian.com/world/2026/may/14/brazil-atlantic-forest-deforestation-record",
       "title": "Brazil’s Atlantic forest records lowest deforestation in 40 years",
       "summary": "Environmentalists hail decline but warn weakened laws could reverse gains Brazil’s Atlantic forest, the country’s most threatened biome, last year recorded its lowest level of deforestation since monitoring began 40 years ago, a new repo..."
     },
     {
-      "char": "📱",
-      "label": "gabon faces social media clampdown",
-      "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
-      "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
-      "summary": "Activists claim use of laws to curtail internet freedoms part of well-documented history of cracking down on dissent When Gabon’s media regulator indefinitely suspended major social media platforms in February, citing security concerns d..."
-    },
-    {
-      "char": "🦠",
-      "label": "hantavirus outbreak in argentina",
-      "url": "https://www.nytimes.com/2026/05/14/world/americas/hantavirus-cruise-ship-argentina.html",
-      "title": "Argentina Races To Find Origin of Hantavirus Outbreak",
-      "summary": "The scientific investigation into the origin of cruise infection has become entangled with international finger pointing."
-    },
-    {
-      "char": "⚖️",
-      "label": "nigerian minister sentenced for corruption",
-      "url": "https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss",
-      "title": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
-      "summary": "Former Power Minister Saleh Mamman was convicted last week - but the authorities do not know his whereabouts."
-    },
-    {
-      "char": "🏃‍♂️",
-      "label": "botswana's sprinting gold rush",
-      "url": "https://www.theguardian.com/world/2026/may/12/gaborone-gold-rush-botswana-sprinting-athletics",
-      "title": "Gaborone gold rush: how Botswana rose to the top of men’s sprinting",
-      "summary": "Country with a population of just 2.5m credits investment in young athletes for its rise but this progress is under threat It was a fairytale ending to the World Athletics Relays in Gaborone. In the final strait, Collen Kebinatshipi surg..."
-    },
-    {
-      "char": "⚖️",
-      "label": "murdaugh's murder conviction overturned",
-      "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
-      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
-      "summary": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh."
-    },
-    {
-      "char": "📺",
-      "label": "les simpson returns to tv",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/13/les-simpson-quebecois-show-returns",
-      "title": "Les Simpson: return of Québécois show spares viewers from ‘European French’",
-      "summary": "Beloved animated series will return for 36th season in the fall after telecoms giant Bell Media reaches deal with Disney Fans of Les Simpson have a message for anyone who doubted the future of the beloved and long-running Québécois versi..."
-    },
-    {
-      "char": "🤝",
-      "label": "trump and xi's positive summit",
-      "url": "https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china",
-      "title": "After Xi’s Warning on Taiwan, He and Trump Strike Positive Tone",
-      "summary": "Xi Jinping, China’s leader, told President Trump that if the Taiwan issue were handled poorly, it could lead to a clash with the United States. Later, at a state dinner, they emphasized cooperation."
-    },
-    {
-      "char": "🌪️",
-      "label": "devastating storms in india",
-      "url": "https://www.nytimes.com/2026/05/14/world/asia/india-storms-deaths-uttar-pradesh.html",
-      "title": "Over 100 People Killed in India’s Uttar Pradesh as Storms Wreak Destruction",
-      "summary": "The deaths were scattered across a swath of India’s most populous state, Uttar Pradesh, where many homes were destroyed."
+      "char": "✈️",
+      "label": "miraculous atlantic plane rescue",
+      "url": "https://www.theguardian.com/us-news/2026/may/14/florida-atlantic-plane-rescue-fuel-low",
+      "title": "Florida crew recounts ‘miraculous’ Atlantic plane rescue with fuel low",
+      "summary": "All 11 onboard survived after the plane made an emergency landing near the Bahamas Sign up for the Breaking News US newsletter email A military rescue crew in Florida has spoken of the “pretty miraculous” survival of all 11 people it sav..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "The news is dominated by tragic events, including military casualties and natural disasters causing significant loss of life. Such reports evoke sadness and concern for those affected.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
