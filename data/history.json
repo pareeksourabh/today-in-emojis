@@ -41667,5 +41667,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-15",
+    "emojis": [
+      {
+        "char": "🚢",
+        "label": "floating armoury seized by iran",
+        "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+        "title": "'Floating armoury' ship reportedly seized by Iran",
+        "summary": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports."
+      },
+      {
+        "char": "🌊",
+        "label": "five italians die in maldives cave dive",
+        "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+        "title": "Five Italians die during cave dive in Maldives",
+        "summary": "Italy says the incident happened at a depth of 50m. Maldivian rescuers have so far found one body."
+      },
+      {
+        "char": "✡️",
+        "label": "australian jews testify on antisemitism",
+        "url": "https://www.nytimes.com/2026/05/14/world/australia/jews-antisemitism-bondi-beach.html",
+        "title": "Australian Jews Testify on Experiences of Antisemitism in Bondi Beach Inquiry",
+        "summary": "As part of a public inquiry into the massacre at Bondi Beach, dozens have described being targeted for their Jewish identity in their daily lives."
+      },
+      {
+        "char": "🇨🇳",
+        "label": "trump visits china in photos",
+        "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-photos.html",
+        "title": "In Photos and Video: President Trump Goes to China",
+        "summary": "Mr. Trump’s trip, the first U.S. presidential visit to China in almost a decade, was closely watched for signs of whether a trade truce between the countries would hold."
+      },
+      {
+        "char": "⚖️",
+        "label": "us supreme court restores abortion pill access",
+        "url": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&at_campaign=rss",
+        "title": "US Supreme Court restores abortion pill access for now",
+        "summary": "Abortion pills are the most common method of terminating pregnancies in the US."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
