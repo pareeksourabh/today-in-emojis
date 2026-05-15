@@ -41755,5 +41755,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-15",
+    "emojis": [
+      {
+        "char": "⚡",
+        "label": "ola electric invests in ev tech",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdHBfLWlEM1JBeGdwamVNd01vaWx6ZlFUck9qdHJLRTI5UWFldE5Zc3MzSDh0SGQwVlRRY2VaSFpGdkxzbHBzeXE5NXJoN1Noc0tZcUQ3OG1lMVpCQ2trVWRXTmY1ZUgtZnNGWFIwOFduN1NvZlphdVFFd09KaHRXVEdZVGI2RktZTDhMMVBTMXNmUVhZZzdJaUs2aE96QTZycnlLLTdrUkJCbDEtUzRzWUNjeWlyc2VVVmVDeXQyVnZmdFdnWlE?oc=5",
+        "title": "India's Ola Electric to invest $208.5 million in EV, cell tech units - Reuters",
+        "summary": "India's Ola Electric to invest $208.5 million in EV, cell tech units Reuters"
+      },
+      {
+        "char": "🤖",
+        "label": "ai hyperscalers global expansion",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA1aWlfTHBOUUVBVXg1Y2RNZXRGMHA1Z2kybE9wSHlsc244YUFYcEdYNG91bkVCWWpXbV9RWVAwZl94ODhy?oc=5",
+        "title": "Sectors Up Close: 'AI hyperscalers are not just in the US any more' - Reuters",
+        "summary": "Sectors Up Close: 'AI hyperscalers are not just in the US any more' Reuters"
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cia talks with cuba officials",
+        "url": "https://www.theguardian.com/world/2026/may/14/cia-director-has-met-officials-in-havana-for-talks-cuba-claims",
+        "title": "CIA director has met officials in Havana for talks, Cuba claims",
+        "summary": "Visit comes after US-Cuba relations deteriorated significantly, and as the island nation declared it had ‘absolutely no fuel’ because of US blockade CIA director John Ratcliffe met Cuban officials in Havana on Thursday as a way to improv..."
+      },
+      {
+        "char": "💵",
+        "label": "dollar gains on fed rate hike bets",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdkk3dXlHRzRYeUNLS2JZRFdXbURfNG0zZTJWMmhBeDZreHdMRmVhT1E1YmtFYzBrMXlGU254RWUzUGpoWFNjbERtNThxWWFfN2JlUndRdlBSVTR1THk1ODdMLWZQXzZUVGRXOXhLTE1QSzc1cjk3bEFLUHZxTDlNUktSMllGeGRqM1ExSzhwd0E4NU53T2xpak1sbzRpam9NdzVuMlExUWxPR05LOVZCajVqQ2w5dXN5TmdNVm1qVQ?oc=5",
+        "title": "Dollar inches up, set for largest weekly gain in two months on Fed rate hike bets - Reuters",
+        "summary": "Dollar inches up, set for largest weekly gain in two months on Fed rate hike bets Reuters"
+      },
+      {
+        "char": "🏳️‍⚧",
+        "label": "australia court landmark ruling",
+        "url": "https://www.bbc.com/news/articles/cdjpzgppr7mo?at_medium=RSS&at_campaign=rss",
+        "title": "Australia court doubles payout for trans woman in landmark discrimination case",
+        "summary": "Roxanne Tickle has been awarded AU$40,000 in damages for being kicked off the Giggle for Girls app."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
