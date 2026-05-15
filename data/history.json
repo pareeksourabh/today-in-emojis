@@ -41799,5 +41799,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-15",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "ice releases soldier's wife from detention",
+        "url": "https://www.bbc.com/news/articles/cm2pd1mn23go?at_medium=RSS&at_campaign=rss",
+        "title": "ICE releases wife of US soldier and Afghanistan veteran from detention",
+        "summary": "Deisy Rivera Ortega was taken into custody at an immigration appointment in Texas last month."
+      },
+      {
+        "char": "🎬",
+        "label": "bolsonaro son seeks funds for film",
+        "url": "https://www.theguardian.com/world/2026/may/14/flavio-bolsonaro-banker-film-jair-bolsonaro",
+        "title": "Tape shows Bolsonaro son asking jailed banker for $26.8m to fund film on father",
+        "summary": "Revelation seen as serious blow to candidacy of Flávio Bolsonaro, Brazil’s leading rightwing presidential hopeful Flávio Bolsonaro, Brazil’s leading rightwing presidential hopeful, has been caught on tape asking a banker accused of corru..."
+      },
+      {
+        "char": "💊",
+        "label": "drug cartel's influence in mexico",
+        "url": "https://www.nytimes.com/2026/05/15/world/americas/mexican-officials-protect-sinaloa-cartel.html",
+        "title": "How a Drug Cartel Made a Mexican State Its Tool",
+        "summary": "Cartel insiders say that in exchange for bribes and political support they were allowed to operate in Sinaloa state with near total freedom."
+      },
+      {
+        "char": "🤖",
+        "label": "ukrainian ai shaping future warfare",
+        "url": "https://www.nytimes.com/2026/05/15/world/europe/mykhailo-fedorov-ukraine-ai.html",
+        "title": "Enter the Killer Robots: The Ukrainian Forging the Future of Warfare",
+        "summary": "Mykhailo Fedorov, Ukraine’s 35-year-old defense minister, sees futuristic military technology as crucial to his country’s survival."
+      },
+      {
+        "char": "⚔️",
+        "label": "us military airstrikes identify victims",
+        "url": "https://www.theguardian.com/us-news/2026/may/15/us-military-airstrikes-caribbean-pacific-victim-identities",
+        "title": "13 men killed by US military boat strikes identified: ‘These were flesh-and-blood people’",
+        "summary": "All victims of US strikes in eastern Pacific and the Caribbean identified so far came from extremely poor communities Sign up for the Breaking News US newsletter email A five-month investigation has named 13 previously unidentified victi..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
