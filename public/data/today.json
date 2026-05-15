@@ -1,41 +1,41 @@
 {
   "date": "2026-05-15",
-  "timestamp": "2026-05-15T00:00:00Z",
+  "timestamp": "2026-05-15T02:25:34Z",
   "emojis": [
     {
-      "char": "🇺🇦",
-      "label": "ukraine rescue efforts after strikes",
+      "char": "🚢",
+      "label": "iran seizes floating armoury ship",
+      "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+      "title": "'Floating armoury' ship reportedly seized by Iran",
+      "summary": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports."
+    },
+    {
+      "char": "🏙️",
+      "label": "ukraine rescuers recover bodies in kyiv",
       "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
       "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
       "summary": "Two children are among at least 16 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say."
     },
     {
-      "char": "🇨🇳",
-      "label": "trump visits china",
-      "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-photos.html",
-      "title": "In Photos and Video: President Trump Goes to China",
-      "summary": "His talks with Xi Jinping in Beijing could decide whether the United States and China maintain their uneasy truce on trade."
+      "char": "🤝",
+      "label": "trump and xi meet amid tensions",
+      "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html",
+      "title": "Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes.",
+      "summary": "In contrast to his rhetoric about China at home, President Trump spoke in conciliatory terms with Xi Jinping, the Chinese leader."
     },
     {
-      "char": "🕵️‍♂",
-      "label": "cia director talks in havana",
-      "url": "https://www.theguardian.com/world/2026/may/14/cia-director-has-met-officials-in-havana-for-talks-cuba-claims",
-      "title": "CIA director has met officials in Havana for talks, Cuba claims",
-      "summary": "Visit comes after US-Cuba relations deteriorated significantly, with Washington imposing a fuel blockade on the island in January CIA director John Ratcliffe met Cuban officials in Havana on Thursday as a way to improve dialogue between..."
+      "char": "📉",
+      "label": "gabon faces social media clampdown",
+      "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
+      "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
+      "summary": "Activists claim use of laws to curtail internet freedoms part of well-documented history of cracking down on dissent When Gabon’s media regulator indefinitely suspended major social media platforms in February, citing security concerns d..."
     },
     {
-      "char": "🌳",
-      "label": "brazil's deforestation record",
-      "url": "https://www.theguardian.com/world/2026/may/14/brazil-atlantic-forest-deforestation-record",
-      "title": "Brazil’s Atlantic forest records lowest deforestation in 40 years",
-      "summary": "Environmentalists hail decline but warn weakened laws could reverse gains Brazil’s Atlantic forest, the country’s most threatened biome, last year recorded its lowest level of deforestation since monitoring began 40 years ago, a new repo..."
-    },
-    {
-      "char": "✈️",
-      "label": "miraculous atlantic plane rescue",
-      "url": "https://www.theguardian.com/us-news/2026/may/14/florida-atlantic-plane-rescue-fuel-low",
-      "title": "Florida crew recounts ‘miraculous’ Atlantic plane rescue with fuel low",
-      "summary": "All 11 onboard survived after the plane made an emergency landing near the Bahamas Sign up for the Breaking News US newsletter email A military rescue crew in Florida has spoken of the “pretty miraculous” survival of all 11 people it sav..."
+      "char": "⚖️",
+      "label": "judge orders return of colombian woman",
+      "url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
+      "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
+      "summary": "Judge called Adriana Maria Quiroz Zapata’s deportation to the Democratic Republic of Congo ‘likely illegal’ A federal judge has ordered the Trump administration to bring a Colombian woman back to the US from the Democratic Republic of Co..."
     }
   ],
   "source": "ai-openai",

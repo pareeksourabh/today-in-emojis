@@ -41623,5 +41623,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-15",
+    "emojis": [
+      {
+        "char": "🚢",
+        "label": "iran seizes floating armoury ship",
+        "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+        "title": "'Floating armoury' ship reportedly seized by Iran",
+        "summary": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports."
+      },
+      {
+        "char": "🏙️",
+        "label": "ukraine rescuers recover bodies in kyiv",
+        "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+        "summary": "Two children are among at least 16 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say."
+      },
+      {
+        "char": "🤝",
+        "label": "trump and xi meet amid tensions",
+        "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html",
+        "title": "Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes.",
+        "summary": "In contrast to his rhetoric about China at home, President Trump spoke in conciliatory terms with Xi Jinping, the Chinese leader."
+      },
+      {
+        "char": "📉",
+        "label": "gabon faces social media clampdown",
+        "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
+        "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
+        "summary": "Activists claim use of laws to curtail internet freedoms part of well-documented history of cracking down on dissent When Gabon’s media regulator indefinitely suspended major social media platforms in February, citing security concerns d..."
+      },
+      {
+        "char": "⚖️",
+        "label": "judge orders return of colombian woman",
+        "url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
+        "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
+        "summary": "Judge called Adriana Maria Quiroz Zapata’s deportation to the Democratic Republic of Congo ‘likely illegal’ A federal judge has ordered the Trump administration to bring a Colombian woman back to the US from the Democratic Republic of Co..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
