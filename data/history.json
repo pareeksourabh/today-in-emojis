@@ -41931,5 +41931,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-16",
+    "emojis": [
+      {
+        "char": "🇨🇳",
+        "label": "trump's summit with xi on china",
+        "url": "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html",
+        "title": "Trump’s ‘Learning Curve’ on China Ends With Conciliation at Summit",
+        "summary": "The president has shifted the foundations of American policy toward China, throwing aside the adversarial approach of recent years."
+      },
+      {
+        "char": "💥",
+        "label": "us kills senior is leader",
+        "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+        "title": "Senior IS leader killed by US and Nigerian forces",
+        "summary": "US President Donald Trump said the joint operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki."
+      },
+      {
+        "char": "🇵🇸",
+        "label": "abbas boosts son's political rise",
+        "url": "https://www.nytimes.com/2026/05/15/world/middleeast/abbas-fatah-palestinian-authority.html",
+        "title": "Aging Palestinian Leader Boosting His Son’s Political Rise, Officials Say",
+        "summary": "Mahmoud Abbas’s years in power have been dogged by accusations of corruption. Many Palestinians yearn for fresh leadership."
+      },
+      {
+        "char": "🌍",
+        "label": "ebola outbreak in dr congo",
+        "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
+        "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
+        "summary": "Uganda also reports outbreak and health officials say cases were caused by Bundibugyo strain of virus An outbreak of Ebola has killed 65 people in the Democratic Republic of the Congo, health officials said. There have been 246 suspected..."
+      },
+      {
+        "char": "🌪️",
+        "label": "extreme weather in siberia",
+        "url": "https://www.theguardian.com/environment/2026/may/15/weather-tracker-furnace-creek-siberia-snow-siberia-week-extremes",
+        "title": "Weather tracker: Furnace Creek sizzles as snow sweeps Siberia in a week of extremes",
+        "summary": "Record heat in North and Central America coincides with egg-sized hailstones in eastern China Extreme weather across several parts of the world this week has brought record-breaking temperatures to Honduras, North America and Indonesia...."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
