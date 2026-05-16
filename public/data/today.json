@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The day’s news items highlight alarming issues, including multiple Ebola outbreaks, military actions, and humanitarian crises, evoking a sense of concern and fear about the state of global affairs.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day is marked by tragic news, including multiple deaths from Ebola outbreaks and military strikes, evoking a sense of sorrow and concern for the suffering of people affected by these events.",
     "palette": [
       "😢",
       "😡",
