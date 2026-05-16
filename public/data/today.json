@@ -1,204 +1,43 @@
 {
-  "date": "2026-05-15",
-  "timestamp": "2026-05-15T00:00:00Z",
+  "date": "2026-05-16",
+  "timestamp": "2026-05-16T00:00:00Z",
   "emojis": [
     {
-      "char": "🇺🇦",
-      "label": "ukraine rescue efforts after strikes",
-      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
-      "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
-      "summary": "Two children are among at least 16 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say."
-    },
-    {
-      "char": "🇨🇳",
-      "label": "trump visits china",
-      "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-photos.html",
-      "title": "In Photos and Video: President Trump Goes to China",
-      "summary": "His talks with Xi Jinping in Beijing could decide whether the United States and China maintain their uneasy truce on trade."
-    },
-    {
-      "char": "🕵️‍♂",
-      "label": "cia director talks in havana",
-      "url": "https://www.theguardian.com/world/2026/may/14/cia-director-has-met-officials-in-havana-for-talks-cuba-claims",
-      "title": "CIA director has met officials in Havana for talks, Cuba claims",
-      "summary": "Visit comes after US-Cuba relations deteriorated significantly, with Washington imposing a fuel blockade on the island in January CIA director John Ratcliffe met Cuban officials in Havana on Thursday as a way to improve dialogue between..."
-    },
-    {
-      "char": "🌳",
-      "label": "brazil's deforestation record",
-      "url": "https://www.theguardian.com/world/2026/may/14/brazil-atlantic-forest-deforestation-record",
-      "title": "Brazil’s Atlantic forest records lowest deforestation in 40 years",
-      "summary": "Environmentalists hail decline but warn weakened laws could reverse gains Brazil’s Atlantic forest, the country’s most threatened biome, last year recorded its lowest level of deforestation since monitoring began 40 years ago, a new repo..."
-    },
-    {
-      "char": "✈️",
-      "label": "miraculous atlantic plane rescue",
-      "url": "https://www.theguardian.com/us-news/2026/may/14/florida-atlantic-plane-rescue-fuel-low",
-      "title": "Florida crew recounts ‘miraculous’ Atlantic plane rescue with fuel low",
-      "summary": "All 11 onboard survived after the plane made an emergency landing near the Bahamas Sign up for the Breaking News US newsletter email A military rescue crew in Florida has spoken of the “pretty miraculous” survival of all 11 people it sav..."
-    },
-    {
-      "char": "🕵️‍♂",
-      "label": "cia chief visits cuba amid crisis",
-      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "title": "CIA chief visits Cuba as energy crisis worsens",
-      "summary": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade."
-    },
-    {
-      "char": "🇨🇳",
-      "label": "trump's first day in china",
-      "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-first-day-china-xi.html",
-      "title": "Key Moments From the First Day of Trump’s China Visit",
-      "summary": "During the first round of two days of talks, Xi Jinping issued a stern warning about Taiwan while Trump touted all the top business leaders in his delegation."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "canadian officer acquitted of spying",
-      "url": "https://www.theguardian.com/world/2026/may/14/canada-police-spying-china-acquitted",
-      "title": "Canadian officer accused of spying for China acquitted of charges",
-      "summary": "William Majcher was accused of helping Chinese police coerce a Vancouver-area real estate investor, accused of fraud, to return to China A retired police officer Canada accused of being an agent for China has been acquitted of national s..."
-    },
-    {
-      "char": "🌊",
-      "label": "miraculous atlantic plane rescue",
-      "url": "https://www.theguardian.com/us-news/2026/may/14/florida-atlantic-plane-rescue-fuel-low",
-      "title": "Florida crew recounts ‘miraculous’ Atlantic plane rescue with fuel low",
-      "summary": "All 11 onboard survived after the plane made an emergency landing near the Bahamas Sign up for the Breaking News US newsletter email A military rescue crew in Florida has spoken of the “pretty miraculous” survival of all 11 people it sav..."
-    },
-    {
-      "char": "🌍",
-      "label": "gabon social media clampdown concerns",
-      "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
-      "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
-      "summary": "Activists claim use of laws to curtail internet freedoms part of well-documented history of cracking down on dissent When Gabon’s media regulator indefinitely suspended major social media platforms in February, citing security concerns d..."
-    },
-    {
-      "char": "🕵️‍♂",
-      "label": "cia chief visits cuba amid crisis",
-      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "title": "CIA chief visits Cuba as energy crisis worsens",
-      "summary": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade."
-    },
-    {
-      "char": "🇨🇳",
-      "label": "trump's first day in china",
-      "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-first-day-china-xi.html",
-      "title": "Key Moments From the First Day of Trump’s China Visit",
-      "summary": "During the first round of two days of talks, Xi Jinping issued a stern warning about Taiwan while Trump touted all the top business leaders in his delegation."
+      "char": "⚖️",
+      "label": "us targets mexican officials with laws",
+      "url": "https://www.nytimes.com/2026/05/15/world/americas/doj-terrorism-charges-mexican-officials.html",
+      "title": "Justice Dept. Aims to Use Terrorism Laws to Target Mexican Officials",
+      "summary": "In a new tactic, the Justice Department this week instructed federal prosecutors to build criminal drug cases against Mexican officials using terrorism statutes."
     },
     {
       "char": "💔",
-      "label": "voice of mexican mothers",
-      "url": "https://www.nytimes.com/2026/05/14/world/americas/cecilia-flores-mexico-disappeared.html",
-      "title": "Cecilia Flores Became the Voice of Mexican Mothers",
-      "summary": "One of the most prominent activists for Mexico’s disappeared recently found the remains of one missing son. Now she has turned her attention to finding the other."
+      "label": "us military strikes kill 13 men",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/us-military-airstrikes-caribbean-pacific-victim-identities",
+      "title": "13 men killed by US military boat strikes identified: ‘These were flesh-and-blood people’",
+      "summary": "All victims of US strikes in eastern Pacific and the Caribbean identified so far came from extremely poor communities Sign up for the Breaking News US newsletter email A five-month investigation has named 13 previously unidentified victi..."
     },
     {
-      "char": "🏢",
-      "label": "ukraine rubble after strikes",
-      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
-      "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
-      "summary": "Two children are among at least 16 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say."
+      "char": "🇩🇪",
+      "label": "germany reports good call with us",
+      "url": "https://www.nytimes.com/2026/05/15/world/europe/merz-trump-germany-us.html",
+      "title": "German Chancellor, After Iran Spat With Trump, Reports ‘Good’ Phone Call",
+      "summary": "The call, initiated by Friedrich Merz, came soon after he told young people, “I am a great admirer of America. My admiration is not increasing at the moment.”"
     },
     {
-      "char": "🦖",
-      "label": "new dinosaur discovered in thailand",
-      "url": "https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&at_campaign=rss",
-      "title": "Giant new dinosaur identified from fossils in Thailand",
-      "summary": "The nagatitan is the largest dinosaur found in South-East Asia and weighs as much as nine elephants."
-    },
-    {
-      "char": "🤖",
-      "label": "ukraine's ai in warfare",
-      "url": "https://www.nytimes.com/2026/05/15/world/europe/mykhailo-fedorov-ukraine-ai.html",
-      "title": "Enter the Killer Robots: The Ukrainian Forging the Future of Warfare",
-      "summary": "Mykhailo Fedorov, Ukraine’s 35-year-old defense minister, sees futuristic military technology as crucial to his country’s survival."
-    },
-    {
-      "char": "🇨🇳",
-      "label": "trump and xi's talks",
-      "url": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html",
-      "title": "Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes.",
-      "summary": "In contrast to his rhetoric about China at home, President Trump spoke in conciliatory terms with Xi Jinping, the Chinese leader."
-    },
-    {
-      "char": "❄️",
-      "label": "extreme weather in siberia",
-      "url": "https://www.theguardian.com/environment/2026/may/15/weather-tracker-furnace-creek-siberia-snow-siberia-week-extremes",
-      "title": "Weather tracker: Furnace Creek sizzles as snow sweeps Siberia in a week of extremes",
-      "summary": "Record heat in North and Central America coincides with egg-sized hailstones in eastern China Extreme weather across several parts of the world this week has brought record-breaking temperatures to Honduras, North America and Indonesia...."
-    },
-    {
-      "char": "📰",
-      "label": "gabon social media clampdown",
-      "url": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
-      "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
-      "summary": "Activists claim use of laws to curtail internet freedoms part of well-documented history of cracking down on dissent When Gabon’s media regulator indefinitely suspended major social media platforms in February, citing security concerns d..."
+      "char": "🇨🇺",
+      "label": "cia director meets cuban officials",
+      "url": "https://www.theguardian.com/world/2026/may/14/cia-director-has-met-officials-in-havana-for-talks-cuba-claims",
+      "title": "CIA director has met officials in Havana for talks, Cuba claims",
+      "summary": "Visit comes after US-Cuba relations deteriorated significantly, and as the island nation declared it had ‘absolutely no fuel’ because of US blockade CIA director John Ratcliffe met Cuban officials in Havana on Thursday as a way to improv..."
     },
     {
       "char": "🦠",
-      "label": "ebola outbreak in drc",
-      "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
-      "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
-      "summary": "Concerns raised that cases were caused by a new strain of the virus as African health officials race to coordinate and contain the infection An outbreak of Ebola has killed 65 people in the Democratic Republic of the Congo, according to..."
-    },
-    {
-      "char": "🇺🇸",
-      "label": "trump's taiwan stance",
-      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump says he 'made no commitment either way' to Xi on Taiwan",
-      "summary": "Trump said Xi Jinping had asked directly if the US would defend Taiwan, and he had responded, \"I don't talk about that\"."
-    },
-    {
-      "char": "🌊",
-      "label": "five italians die scuba diving",
-      "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
-      "title": "Five Italians die during cave scuba dive in Maldives",
-      "summary": "Four of the Italians were part of a team from the University of Genoa."
-    },
-    {
-      "char": "🕵️‍♂",
-      "label": "ai vigilante catches teacher",
-      "url": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss",
-      "title": "AI vigilante trap snares alleged paedophile ex-teacher in France",
-      "summary": "The 66-year-old handed himself in after an influencer used AI to pose as a 14-year-old girl and broadcast their conversation online."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola outbreak kills 65",
-      "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
-      "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
-      "summary": "Concerns raised that cases were caused by a new strain of the virus as African health officials race to coordinate and contain the infection An outbreak of Ebola has killed 65 people in the Democratic Republic of the Congo, according to..."
-    },
-    {
-      "char": "🎬",
-      "label": "bolsonaro son film funding scandal",
-      "url": "https://www.theguardian.com/world/2026/may/14/flavio-bolsonaro-banker-film-jair-bolsonaro",
-      "title": "Tape shows Bolsonaro son asking jailed banker for $26.8m to fund film on father",
-      "summary": "Revelation seen as serious blow to candidacy of Flávio Bolsonaro, Brazil’s leading rightwing presidential hopeful Flávio Bolsonaro, Brazil’s leading rightwing presidential hopeful, has been caught on tape asking a banker accused of corru..."
+      "label": "ebola outbreak declared in congo",
+      "url": "https://www.nytimes.com/2026/05/15/world/africa/congo-ebola-outbreak.html",
+      "title": "Large Ebola Outbreak Is Declared in Congo",
+      "summary": "Dozens of deaths and hundreds of infections are suspected, an African agency said. Health experts were alarmed that the outbreak hadn’t been announced sooner."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "The day is marked by tragic events, including the loss of lives in Ukraine and the Ebola outbreak in the Democratic Republic of the Congo. These incidents evoke a deep sense of sorrow and concern.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
