@@ -41843,5 +41843,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-16",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "trump on iran nuclear deal",
+        "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+        "summary": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment."
+      },
+      {
+        "char": "🤖",
+        "label": "ai vigilante catches teacher",
+        "url": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss",
+        "title": "AI vigilante trap snares alleged paedophile ex-teacher in France",
+        "summary": "The 66-year-old handed himself in after an influencer used AI to pose as a 14-year-old girl and broadcast their conversation online."
+      },
+      {
+        "char": "🌍",
+        "label": "extreme weather in siberia",
+        "url": "https://www.theguardian.com/environment/2026/may/15/weather-tracker-furnace-creek-siberia-snow-siberia-week-extremes",
+        "title": "Weather tracker: Furnace Creek sizzles as snow sweeps Siberia in a week of extremes",
+        "summary": "Record heat in North and Central America coincides with egg-sized hailstones in eastern China Extreme weather across several parts of the world this week has brought record-breaking temperatures to Honduras, North America and Indonesia...."
+      },
+      {
+        "char": "💔",
+        "label": "ebola outbreak in congo",
+        "url": "https://www.nytimes.com/2026/05/15/world/africa/congo-ebola-outbreak.html",
+        "title": "Large Ebola Outbreak Is Declared in Congo",
+        "summary": "Dozens of deaths and hundreds of infections are suspected, an African agency said. Health experts were alarmed that the outbreak hadn’t been announced sooner."
+      },
+      {
+        "char": "⚖️",
+        "label": "judge orders deportation return",
+        "url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
+        "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
+        "summary": "Judge called Adriana Maria Quiroz Zapata’s deportation to the Democratic Republic of Congo ‘likely illegal’ A federal judge has ordered the Trump administration to bring a Colombian woman back to the US from the Democratic Republic of Co..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
