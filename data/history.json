@@ -41975,5 +41975,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-16",
+    "emojis": [
+      {
+        "char": "💻",
+        "label": "investors flock to semiconductors",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd1MxVGc5ZGJHeG1GbEFKNEhNbVBOQ0J4NlF3MHViWVJIVVdOWU4wRFlzcmxqa09PQ19qQlNOQWR0Yl8zT1RhS2pfZy1MV1dSZkdmY0xheGZJbUhKR2RaQU9paW1qb0VSVjhsdlVhYWQ4a2RTazVUYzFEZXJpVkdNOFExVTVJbVRzS0IyMmlNaERTQUI3cHBDMTlkckFid2NCRXA2UUNXQklDWDJuMnVQajR3dUY0MXdVWURQcjJFR1FScFlsbWpudFR3?oc=5",
+        "title": "Institutional investors flocked to establish new stakes in semiconductor firms in first quarter - Reuters",
+        "summary": "Institutional investors flocked to establish new stakes in semiconductor firms in first quarter Reuters"
+      },
+      {
+        "char": "⚔️",
+        "label": "senior is leader killed in operation",
+        "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+        "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+        "summary": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki."
+      },
+      {
+        "char": "🤝",
+        "label": "trump and xi's successful talks",
+        "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
+        "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit."
+      },
+      {
+        "char": "🎤",
+        "label": "canada joins eurovision song contest",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/may/15/canada-eurovision-song-contest",
+        "title": "Canada is welcome to join Eurovision, says song contest director",
+        "summary": "‘We know that Mark Carney wants to sort of embrace Europe,’ says competition director Martin Green Canada is welcome to join Eurovision if it wishes, its director has said, months after the country revealed it wanted to “explore” joining..."
+      },
+      {
+        "char": "🌍",
+        "label": "weather extremes in siberia",
+        "url": "https://www.theguardian.com/environment/2026/may/15/weather-tracker-furnace-creek-siberia-snow-siberia-week-extremes",
+        "title": "Weather tracker: Furnace Creek sizzles as snow sweeps Siberia in a week of extremes",
+        "summary": "Record heat in North and Central America coincides with egg-sized hailstones in eastern China Extreme weather across several parts of the world this week has brought record-breaking temperatures to Honduras, North America and Indonesia...."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
