@@ -1,27 +1,34 @@
 {
   "date": "2026-05-17",
-  "timestamp": "2026-05-17T02:12:02Z",
+  "timestamp": "2026-05-17T00:00:00Z",
   "emojis": [
     {
-      "char": "🕊️",
-      "label": "switzerland opens files on mengele",
-      "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
-      "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
-      "summary": "Mengele fled Europe after the war but for years there were rumours he spent time in Switzerland."
+      "char": "⚓",
+      "label": "us military strikes identified victims",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/us-military-airstrikes-caribbean-pacific-victim-identities",
+      "title": "13 men killed by US military boat strikes identified: ‘These were flesh-and-blood people’",
+      "summary": "All victims of US strikes in eastern Pacific and the Caribbean identified so far came from extremely poor communities Sign up for the Breaking News US newsletter email A five-month investigation has named 13 previously unidentified victi..."
     },
     {
       "char": "🌍",
-      "label": "ebola outbreak in drc kills 65",
-      "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
-      "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
-      "summary": "Uganda also reports outbreak and health officials say cases were caused by Bundibugyo strain of virus An outbreak of Ebola has killed 65 people in the Democratic Republic of the Congo, health officials said. There have been 246 suspected..."
+      "label": "un pleads for asylum seekers' safety",
+      "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
+      "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’",
+      "summary": "Human rights experts make rare public appeal as US deportees describe being held in ‘prison-like’ conditions Human rights experts at the United Nations issued a rare public appeal to Equatorial Guinea, urging the central African country..."
     },
     {
-      "char": "🚢",
-      "label": "hantavirus nightmare on cruise",
-      "url": "https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html",
-      "title": "How a Nature Cruise Turned Into a Nightmare",
-      "summary": "The hantavirus outbreak on the MV Hondius set off alarms for a world still traumatized by Covid. For those on board, the danger was much closer."
+      "char": "🐋",
+      "label": "whale found dead near danish island",
+      "url": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
+      "title": "Whale found dead near Danish island after German rescue operation",
+      "summary": "Wildlife experts had previous criticised the operation, saying it would only cause the animal more distress."
+    },
+    {
+      "char": "🕊️",
+      "label": "settlers attack in palestinian territory",
+      "url": "https://www.nytimes.com/2026/05/16/world/middleeast/settler-attacks-palestinians-west-bank.html",
+      "title": "They Fled to Safety in Palestinian Territory, Then Settlers Attacked Again",
+      "summary": "Violent settlers are not merely clearing Palestinians from land under Israel’s control. They are attacking areas where Israel agreed to Palestinian self-governance."
     },
     {
       "char": "🗳️",
@@ -29,13 +36,6 @@
       "url": "https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html",
       "title": "Rival Protests Take Place in London, With a Major Security Effort",
       "summary": "The police have deployed thousands of officers, partly to keep far-right and pro-Palestinian marchers apart. The events drew tens of thousands to London."
-    },
-    {
-      "char": "💣",
-      "label": "senior is leader killed in operation",
-      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
-      "summary": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki."
     }
   ],
   "source": "ai-openai",
