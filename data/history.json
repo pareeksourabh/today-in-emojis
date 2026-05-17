@@ -42195,5 +42195,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-17",
+    "emojis": [
+      {
+        "char": "🇻🇪",
+        "label": "post-maduro venezuela's new era",
+        "url": "https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela",
+        "title": "‘Feels like an illusion’: inside post-Maduro Venezuela’s bewildering new era",
+        "summary": "Four months after Trump’s surprise raid, a political thaw has descended – but mingled with hope is trepidation for what comes next When Ángel Linares heard a strange buzz followed by an explosion, his first thought was that neighbours we..."
+      },
+      {
+        "char": "⚖️",
+        "label": "trump administration's deportation case",
+        "url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
+        "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
+        "summary": "Judge called Adriana Maria Quiroz Zapata’s deportation to the Democratic Republic of Congo ‘likely illegal’ A federal judge has ordered the Trump administration to bring a Colombian woman back to the US from the Democratic Republic of Co..."
+      },
+      {
+        "char": "🐋",
+        "label": "whale found dead near denmark",
+        "url": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
+        "title": "Whale found dead near Danish island after German rescue operation",
+        "summary": "Wildlife experts had previous criticised the operation, saying it would only cause the animal more distress."
+      },
+      {
+        "char": "🌍",
+        "label": "ebola outbreak in dr congo",
+        "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
+        "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
+        "summary": "Uganda also reports outbreak and health officials say cases were caused by Bundibugyo strain of virus An outbreak of Ebola has killed 65 people in the Democratic Republic of the Congo, health officials said. There have been 246 suspected..."
+      },
+      {
+        "char": "🚗",
+        "label": "car crash injures pedestrians in italy",
+        "url": "https://www.nytimes.com/2026/05/16/world/europe/car-crash-modena-italy.html",
+        "title": "Car Plows Into Pedestrians in Northern Italian Town, Injuring at Least 8",
+        "summary": "Four of the injured were in serious condition, the mayor of Modena said, praising residents who rushed to stop the car’s driver from escaping on foot."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
