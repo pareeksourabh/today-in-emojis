@@ -1,7 +1,14 @@
 {
   "date": "2026-05-17",
-  "timestamp": "2026-05-17T13:40:51Z",
+  "timestamp": "2026-05-17T00:00:00Z",
   "emojis": [
+    {
+      "char": "🐋",
+      "label": "whale found dead near danish island",
+      "url": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
+      "title": "Whale found dead near Danish island after German rescue operation",
+      "summary": "Wildlife experts had previous criticised the operation, saying it would only cause the animal more distress."
+    },
     {
       "char": "🇻🇪",
       "label": "post-maduro venezuela's new era",
@@ -10,32 +17,25 @@
       "summary": "Four months after Trump’s surprise raid, a political thaw has descended – but mingled with hope is trepidation for what comes next When Ángel Linares heard a strange buzz followed by an explosion, his first thought was that neighbours we..."
     },
     {
+      "char": "⚔️",
+      "label": "ukrainian strikes kill in moscow",
+      "url": "https://www.nytimes.com/2026/05/17/world/europe/russia-ukraine-strikes-moscow.html",
+      "title": "Wave of Ukrainian Strikes Kills at Least 4, Russia Says",
+      "summary": "More than 550 drones were intercepted or shot down in more than a dozen regions, including Moscow, in one of largest attacks of the war."
+    },
+    {
+      "char": "🦠",
+      "label": "canadian tests positive for hantavirus",
+      "url": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
+      "title": "Canadian from hantavirus-hit cruise ship tests positive",
+      "summary": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia."
+    },
+    {
       "char": "⚖️",
-      "label": "trump administration's deportation case",
-      "url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
-      "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
-      "summary": "Judge called Adriana Maria Quiroz Zapata’s deportation to the Democratic Republic of Congo ‘likely illegal’ A federal judge has ordered the Trump administration to bring a Colombian woman back to the US from the Democratic Republic of Co..."
-    },
-    {
-      "char": "🐋",
-      "label": "whale found dead near denmark",
-      "url": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
-      "title": "Whale found dead near Danish island after German rescue operation",
-      "summary": "Wildlife experts had previous criticised the operation, saying it would only cause the animal more distress."
-    },
-    {
-      "char": "🌍",
-      "label": "ebola outbreak in dr congo",
-      "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
-      "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
-      "summary": "Uganda also reports outbreak and health officials say cases were caused by Bundibugyo strain of virus An outbreak of Ebola has killed 65 people in the Democratic Republic of the Congo, health officials said. There have been 246 suspected..."
-    },
-    {
-      "char": "🚗",
-      "label": "car crash injures pedestrians in italy",
-      "url": "https://www.nytimes.com/2026/05/16/world/europe/car-crash-modena-italy.html",
-      "title": "Car Plows Into Pedestrians in Northern Italian Town, Injuring at Least 8",
-      "summary": "Four of the injured were in serious condition, the mayor of Modena said, praising residents who rushed to stop the car’s driver from escaping on foot."
+      "label": "venezuela extradites alex saab",
+      "url": "https://www.nytimes.com/2026/05/16/world/americas/venezuela-extradites-tycoon-alex-saab.html",
+      "title": "Venezuela Extradites Billionaire Tycoon Alex Saab to U.S.",
+      "summary": "The extradition of Alex Saab, who is tied to a huge graft scheme, is part of a purge of powerful figures who helped the deposed president, Nicolás Maduro, stay in power."
     }
   ],
   "source": "ai-openai",
