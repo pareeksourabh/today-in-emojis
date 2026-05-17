@@ -1,41 +1,41 @@
 {
   "date": "2026-05-17",
-  "timestamp": "2026-05-17T00:00:00Z",
+  "timestamp": "2026-05-17T09:49:10Z",
   "emojis": [
     {
-      "char": "🇲🇱",
-      "label": "mali's forces target rebels",
-      "url": "https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists",
-      "title": "Mali’s forces target rebel alliance in junta’s fight to keep power",
-      "summary": "Army supported by Russian mercenaries launches airstrikes after offensive by coalition of Islamist extremists and Tuareg separatists Mali’s armed forces, supported by Russian mercenaries, have launched airstrikes targeting a rebel allian..."
+      "char": "🕊️",
+      "label": "felicien kabuga dies in rwanda",
+      "url": "https://www.nytimes.com/2026/05/16/world/africa/felicien-kabuga-dead.html",
+      "title": "Félicien Kabuga Dies; Accused of Masterminding Rwanda’s Genocide",
+      "summary": "One of his country’s richest businessmen, he fled arrest and escaped prosecution for allegedly financing and directing the bloodletting that cost 800,000 lives in 1994."
+    },
+    {
+      "char": "🇻🇪",
+      "label": "post-maduro venezuela's new era",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela",
+      "title": "‘Feels like an illusion’: inside post-Maduro Venezuela’s bewildering new era",
+      "summary": "Four months after Trump’s surprise raid, a political thaw has descended – but mingled with hope is trepidation for what comes next When Ángel Linares heard a strange buzz followed by an explosion, his first thought was that neighbours we..."
     },
     {
       "char": "🦠",
-      "label": "ebola outbreak declared emergency",
-      "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
-      "title": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
-      "summary": "Just a day after the outbreak was announced, cases were confirmed in the capitals of Uganda and the Democratic Republic of Congo. There is no approved vaccine for the strain."
-    },
-    {
-      "char": "👶",
-      "label": "schoolchildren kidnapped in nigeria",
-      "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
-      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
-      "summary": "No group has yet claimed responsibility for the attacks, which have devastated Mussa town in Borno state."
-    },
-    {
-      "char": "🗳️",
-      "label": "rival protests in london",
-      "url": "https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html",
-      "title": "Rival Protests Take Place in London, With a Major Security Effort",
-      "summary": "The police have deployed thousands of officers, partly to keep far-right and pro-Palestinian marchers apart. The events drew tens of thousands to London."
-    },
-    {
-      "char": "🇨🇦",
       "label": "canada's first hantavirus case",
       "url": "https://www.theguardian.com/world/2026/may/16/canada-first-hantavirus-case-british-columbia",
       "title": "Canada confirms first hantavirus case in isolation in British Columbia",
       "summary": "The person was on board the MV Hondius, the center of the outbreak that has claimed three lives Canadian officials said on Saturday that a test for one of the four Canadians currently quarantining in British Columbia after being exposed..."
+    },
+    {
+      "char": "⚽",
+      "label": "north korean soccer team visits south",
+      "url": "https://www.nytimes.com/2026/05/17/world/asia/north-korea-naegohyang-soccer-football.html",
+      "title": "A North Korean Soccer Team Makes a Rare Visit to South Korea",
+      "summary": "The team’s trip, for a women’s soccer tournament, is unlikely to catalyze a diplomatic thaw between the two Koreas, although some sports events have."
+    },
+    {
+      "char": "🚑",
+      "label": "ebola outbreak declared emergency",
+      "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+      "title": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
+      "summary": "Just a day after the outbreak was announced, cases were confirmed in the capitals of Uganda and the Democratic Republic of Congo. There is no approved vaccine for the strain."
     }
   ],
   "source": "ai-openai",
