@@ -42107,5 +42107,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-17",
+    "emojis": [
+      {
+        "char": "🚗",
+        "label": "car crash in italy injures 8",
+        "url": "https://www.nytimes.com/2026/05/16/world/europe/car-crash-modena-italy.html",
+        "title": "Car Plows Into Pedestrians in Northern Italian Town, Injuring at Least 8",
+        "summary": "Four of the injured were in serious condition, the mayor of Modena said, praising residents who rushed to stop the car’s driver from escaping on foot."
+      },
+      {
+        "char": "🕊️",
+        "label": "iran's proxy groups raise concerns",
+        "url": "https://www.nytimes.com/2026/05/16/world/middleeast/iran-proxy-groups-us.html",
+        "title": "Fears Grow That Iran May Be Using Proxy Groups Beyond Mideast",
+        "summary": "The charges against Mohammad al-Saadi in the United States have raised concerns that Iran could be working with its proxies to stage attacks outside the region."
+      },
+      {
+        "char": "🏴‍☠️",
+        "label": "settler attacks on palestinians escalate",
+        "url": "https://www.nytimes.com/2026/05/16/world/middleeast/settler-attacks-palestinians-west-bank.html",
+        "title": "They Fled to Safety in Palestinian Territory, Then Settlers Attacked Again",
+        "summary": "Violent settlers are not merely clearing Palestinians from land under Israel’s control. They are attacking areas where Israel agreed to Palestinian self-governance."
+      },
+      {
+        "char": "🛡️",
+        "label": "trump's risky arms deal with taiwan",
+        "url": "https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html",
+        "title": "Trump Uses Taiwan Arms Sales as Bargaining Chip With China, in a Risky Move",
+        "summary": "The president said a potential arms deal for Taiwan was a “very good negotiating chip” in talks with Beijing. His words raise questions about the reliability of U.S. support."
+      },
+      {
+        "char": "⚖️",
+        "label": "judge orders return of deported woman",
+        "url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
+        "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
+        "summary": "Judge called Adriana Maria Quiroz Zapata’s deportation to the Democratic Republic of Congo ‘likely illegal’ A federal judge has ordered the Trump administration to bring a Colombian woman back to the US from the Democratic Republic of Co..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
