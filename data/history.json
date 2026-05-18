@@ -42327,5 +42327,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-18",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "israeli outposts in iraq revealed",
+        "url": "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html",
+        "title": "In Iraqi Desert, Two Israeli Outposts Were Kept Secret for Months",
+        "summary": "Israel spent over a year preparing a covert site in Iraq for its operations against Iran, regional officials say. Iraqi officials later confirmed the existence of a second base."
+      },
+      {
+        "char": "⚔️",
+        "label": "islamic state leader killed",
+        "url": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says",
+        "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
+        "summary": "US president calls Abu-Bilal al-Minuki ‘most active terrorist in the world’ and says he was eliminated in ‘very complex mission’ Donald Trump has said US and Nigerian forces killed the “second in command” global leader of the Islamic Sta..."
+      },
+      {
+        "char": "🌍",
+        "label": "ebola outbreak declared emergency",
+        "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+        "title": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
+        "summary": "The agency made the declaration just a day after Africa’s top public health agency first announced the outbreak. There is no approved vaccine for this species of Ebola."
+      },
+      {
+        "char": "⚽",
+        "label": "mbappe faces far right in france",
+        "url": "https://www.nytimes.com/2026/05/18/world/europe/kylian-mbappe-national-rally-france.html",
+        "title": "A French Soccer Star Faces Off Against a Surging Foe: The Far Right",
+        "summary": "Kylian Mbappé, the captain of France’s national team, set off a storm a month before the World Cup by suggesting that the National Rally party was a threat to France."
+      },
+      {
+        "char": "🐦",
+        "label": "birding apps boost colombian tourism",
+        "url": "https://www.nytimes.com/2026/05/17/world/americas/colombia-birding-app-merlin-ebird-tourism.html",
+        "title": "How Birding Apps Are Boosting Tourism in the World’s Top Bird Destination",
+        "summary": "Colombia is home to the most species of birds known to ornithologists. Merlin, an app, is helping to build an “avian tourism” industry there."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

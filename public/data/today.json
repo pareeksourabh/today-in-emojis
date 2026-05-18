@@ -1,27 +1,34 @@
 {
   "date": "2026-05-18",
-  "timestamp": "2026-05-18T00:00:00Z",
+  "timestamp": "2026-05-18T08:09:29Z",
   "emojis": [
     {
-      "char": "🇨🇺",
-      "label": "us pressure on cuba intensifies",
-      "url": "https://www.theguardian.com/world/2026/may/15/raul-castro-indictment-cuba-trump",
-      "title": "Threatened indictment of Raúl Castro ratchets up US pressure on Cuba",
-      "summary": "Trump administration move echoes indictment of Venezuela’s Nicolás Maduro as fuel crisis racks Cuba Tensions between Cuba and US seem set to rise further amid reports that Raúl Castro, the country’s 94-year-old former president, may soon..."
+      "char": "📰",
+      "label": "israeli outposts in iraq revealed",
+      "url": "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html",
+      "title": "In Iraqi Desert, Two Israeli Outposts Were Kept Secret for Months",
+      "summary": "Israel spent over a year preparing a covert site in Iraq for its operations against Iran, regional officials say. Iraqi officials later confirmed the existence of a second base."
     },
     {
-      "char": "🦠",
-      "label": "ebola outbreak in dr congo",
-      "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
-      "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
-      "summary": "Uganda also reports outbreak and health officials say cases were caused by Bundibugyo strain of virus An outbreak of Ebola has killed 65 people in the Democratic Republic of the Congo, health officials said. There have been 246 suspected..."
-    },
-    {
-      "char": "💥",
-      "label": "us kills islamic state leader",
+      "char": "⚔️",
+      "label": "islamic state leader killed",
       "url": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says",
       "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
       "summary": "US president calls Abu-Bilal al-Minuki ‘most active terrorist in the world’ and says he was eliminated in ‘very complex mission’ Donald Trump has said US and Nigerian forces killed the “second in command” global leader of the Islamic Sta..."
+    },
+    {
+      "char": "🌍",
+      "label": "ebola outbreak declared emergency",
+      "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+      "title": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
+      "summary": "The agency made the declaration just a day after Africa’s top public health agency first announced the outbreak. There is no approved vaccine for this species of Ebola."
+    },
+    {
+      "char": "⚽",
+      "label": "mbappe faces far right in france",
+      "url": "https://www.nytimes.com/2026/05/18/world/europe/kylian-mbappe-national-rally-france.html",
+      "title": "A French Soccer Star Faces Off Against a Surging Foe: The Far Right",
+      "summary": "Kylian Mbappé, the captain of France’s national team, set off a storm a month before the World Cup by suggesting that the National Rally party was a threat to France."
     },
     {
       "char": "🐦",
@@ -29,13 +36,6 @@
       "url": "https://www.nytimes.com/2026/05/17/world/americas/colombia-birding-app-merlin-ebird-tourism.html",
       "title": "How Birding Apps Are Boosting Tourism in the World’s Top Bird Destination",
       "summary": "Colombia is home to the most species of birds known to ornithologists. Merlin, an app, is helping to build an “avian tourism” industry there."
-    },
-    {
-      "char": "⚔️",
-      "label": "mali targets rebel alliance",
-      "url": "https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists",
-      "title": "Mali’s forces target rebel alliance in junta’s fight to keep power",
-      "summary": "Army supported by Russian mercenaries launches airstrikes after offensive by coalition of Islamist extremists and Tuareg separatists Mali’s armed forces, supported by Russian mercenaries, have launched airstrikes targeting a rebel allian..."
     }
   ],
   "source": "ai-openai",
