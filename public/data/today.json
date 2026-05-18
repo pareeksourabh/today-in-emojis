@@ -1,41 +1,41 @@
 {
   "date": "2026-05-18",
-  "timestamp": "2026-05-18T02:32:49Z",
+  "timestamp": "2026-05-18T00:00:00Z",
   "emojis": [
     {
-      "char": "🗣️",
-      "label": "political executions in iran",
-      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
-      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
-      "summary": "Since the US and Israel attacked Iran on 28 February, the UN says it’s verified the execution of at least 32 political prisoners."
+      "char": "🕊️",
+      "label": "trump warns on iran peace talks",
+      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+      "summary": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals."
     },
     {
-      "char": "🦠",
-      "label": "ebola outbreak emergency",
-      "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
-      "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
-      "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency."
-    },
-    {
-      "char": "🇺🇸",
-      "label": "trump returns colombian woman",
-      "url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
-      "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
-      "summary": "Judge called Adriana Maria Quiroz Zapata’s deportation to the Democratic Republic of Congo ‘likely illegal’ A federal judge has ordered the Trump administration to bring a Colombian woman back to the US from the Democratic Republic of Co..."
-    },
-    {
-      "char": "💰",
-      "label": "venezuela extradites alex saab",
-      "url": "https://www.nytimes.com/2026/05/16/world/americas/venezuela-extradites-tycoon-alex-saab.html",
-      "title": "Venezuela Extradites Billionaire Tycoon Alex Saab to U.S.",
-      "summary": "The extradition of Alex Saab, who is tied to a huge graft scheme, is part of a purge of powerful figures who helped the deposed president, Nicolás Maduro, stay in power."
-    },
-    {
-      "char": "🚁",
-      "label": "us military airstrikes identified",
+      "char": "⚓",
+      "label": "us military strikes identified victims",
       "url": "https://www.theguardian.com/us-news/2026/may/15/us-military-airstrikes-caribbean-pacific-victim-identities",
       "title": "13 men killed by US military boat strikes identified: ‘These were flesh-and-blood people’",
       "summary": "All victims of US strikes in eastern Pacific and the Caribbean identified so far came from extremely poor communities Sign up for the Breaking News US newsletter email A five-month investigation has named 13 previously unidentified victi..."
+    },
+    {
+      "char": "⚽",
+      "label": "north korean soccer team visits south",
+      "url": "https://www.nytimes.com/2026/05/17/world/asia/north-korea-naegohyang-soccer-football.html",
+      "title": "A North Korean Soccer Team Makes a Rare Visit to South Korea",
+      "summary": "The team’s trip, for a women’s soccer tournament, is unlikely to catalyze a diplomatic thaw between the two Koreas, although some sports events have."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola outbreak in dr congo",
+      "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
+      "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
+      "summary": "Uganda also reports outbreak and health officials say cases were caused by Bundibugyo strain of virus An outbreak of Ebola has killed 65 people in the Democratic Republic of the Congo, health officials said. There have been 246 suspected..."
+    },
+    {
+      "char": "🌍",
+      "label": "birding apps boost colombian tourism",
+      "url": "https://www.nytimes.com/2026/05/17/world/americas/colombia-birding-app-merlin-ebird-tourism.html",
+      "title": "How Birding Apps Are Boosting Tourism in the World’s Top Bird Destination",
+      "summary": "Colombia is home to the most species of birds known to ornithologists. Merlin, an app, is helping to build an “avian tourism” industry there."
     }
   ],
   "source": "ai-openai",
