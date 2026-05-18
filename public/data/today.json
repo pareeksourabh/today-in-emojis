@@ -1,41 +1,41 @@
 {
   "date": "2026-05-18",
-  "timestamp": "2026-05-18T11:46:30Z",
+  "timestamp": "2026-05-18T00:00:00Z",
   "emojis": [
     {
-      "char": "🚢",
-      "label": "israeli forces boarding flotilla",
-      "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
-      "title": "Israeli forces boarding Gaza-bound flotilla near Cyprus, activists say",
-      "summary": "Live broadcasts from the Global Sumud flotilla show commandos boarding several boats trying to breach the Gaza maritime blockade."
+      "char": "⚽",
+      "label": "mbappé vs far right in france",
+      "url": "https://www.nytimes.com/2026/05/18/world/europe/kylian-mbappe-national-rally-france.html",
+      "title": "Soccer Star Kylian Mbappé Faces Off Against France’s Far Right",
+      "summary": "Kylian Mbappé, the captain of France’s national team, set off a storm a month before the World Cup by suggesting that the National Rally party was a threat to France."
     },
     {
-      "char": "💣",
-      "label": "trump says isis leader killed",
-      "url": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says",
-      "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
-      "summary": "US president calls Abu-Bilal al-Minuki ‘most active terrorist in the world’ and says he was eliminated in ‘very complex mission’ Donald Trump has said US and Nigerian forces killed the “second in command” global leader of the Islamic Sta..."
-    },
-    {
-      "char": "🇷🇺",
-      "label": "governor's controversial policies in russia",
-      "url": "https://www.nytimes.com/2026/05/18/world/europe/russia-governor-vologda.html",
-      "title": "He Shut Liquor Stores and Banned Abortion, All for the Glory of Russia",
-      "summary": "A firebrand governor aims to transform his region into a laboratory for the Kremlin’s reactionary ideals."
-    },
-    {
-      "char": "⚓",
-      "label": "blocked strait of hormuz impacts syria",
-      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html",
-      "title": "Blocked Strait of Hormuz Leads to New Opportunities for Syria",
-      "summary": "The latest war in the Middle East has created new economic opportunities for Syria thanks to its geography."
+      "char": "👶",
+      "label": "erdogan's baby boom campaign",
+      "url": "https://www.nytimes.com/2026/05/17/world/europe/erdogan-turkey-demography-babies-family-planning-economy.html",
+      "title": "Erdogan Wants Turkey to Have More Babies. Few Parents Are Listening.",
+      "summary": "Using cash grants and subsidized loans, President Recep Tayyip Erdogan’s government is trying to increase the birthrate. It’s not working."
     },
     {
       "char": "🌍",
-      "label": "un pleads for asylum seekers' safety",
-      "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
-      "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’",
-      "summary": "Human rights experts make rare public appeal as US deportees describe being held in ‘prison-like’ conditions Human rights experts at the United Nations issued a rare public appeal to Equatorial Guinea, urging the central African country..."
+      "label": "us role in greenland talks",
+      "url": "https://www.nytimes.com/2026/05/18/world/europe/us-greenland-talks-trump.html",
+      "title": "In Closed-Door Talks, U.S. Demands a Major Role in Greenland",
+      "summary": "Greenlandic officials worry about the direction of the negotiations aimed at defusing President Trump’s threats to seize their island. But they have little leverage."
+    },
+    {
+      "char": "🗳️",
+      "label": "democracy issues in hr",
+      "url": "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html",
+      "title": "Actually, Democracy Dies in H.R.",
+      "summary": "New research sheds light on how mediocre employees help would-be authoritarians maintain power."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola declared global emergency",
+      "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+      "title": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
+      "summary": "The agency made the declaration just a day after Africa’s top public health agency first announced the outbreak. There is no approved vaccine for this species of Ebola."
     }
   ],
   "source": "ai-openai",
