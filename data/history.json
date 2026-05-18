@@ -42283,5 +42283,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-18",
+    "emojis": [
+      {
+        "char": "🗣️",
+        "label": "political executions in iran",
+        "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+        "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+        "summary": "Since the US and Israel attacked Iran on 28 February, the UN says it’s verified the execution of at least 32 political prisoners."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak emergency",
+        "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+        "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
+        "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency."
+      },
+      {
+        "char": "🇺🇸",
+        "label": "trump returns colombian woman",
+        "url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
+        "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
+        "summary": "Judge called Adriana Maria Quiroz Zapata’s deportation to the Democratic Republic of Congo ‘likely illegal’ A federal judge has ordered the Trump administration to bring a Colombian woman back to the US from the Democratic Republic of Co..."
+      },
+      {
+        "char": "💰",
+        "label": "venezuela extradites alex saab",
+        "url": "https://www.nytimes.com/2026/05/16/world/americas/venezuela-extradites-tycoon-alex-saab.html",
+        "title": "Venezuela Extradites Billionaire Tycoon Alex Saab to U.S.",
+        "summary": "The extradition of Alex Saab, who is tied to a huge graft scheme, is part of a purge of powerful figures who helped the deposed president, Nicolás Maduro, stay in power."
+      },
+      {
+        "char": "🚁",
+        "label": "us military airstrikes identified",
+        "url": "https://www.theguardian.com/us-news/2026/may/15/us-military-airstrikes-caribbean-pacific-victim-identities",
+        "title": "13 men killed by US military boat strikes identified: ‘These were flesh-and-blood people’",
+        "summary": "All victims of US strikes in eastern Pacific and the Caribbean identified so far came from extremely poor communities Sign up for the Breaking News US newsletter email A five-month investigation has named 13 previously unidentified victi..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
