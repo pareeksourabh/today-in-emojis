@@ -1,41 +1,41 @@
 {
   "date": "2026-05-18",
-  "timestamp": "2026-05-18T08:09:29Z",
+  "timestamp": "2026-05-18T11:46:30Z",
   "emojis": [
     {
-      "char": "📰",
-      "label": "israeli outposts in iraq revealed",
-      "url": "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html",
-      "title": "In Iraqi Desert, Two Israeli Outposts Were Kept Secret for Months",
-      "summary": "Israel spent over a year preparing a covert site in Iraq for its operations against Iran, regional officials say. Iraqi officials later confirmed the existence of a second base."
+      "char": "🚢",
+      "label": "israeli forces boarding flotilla",
+      "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli forces boarding Gaza-bound flotilla near Cyprus, activists say",
+      "summary": "Live broadcasts from the Global Sumud flotilla show commandos boarding several boats trying to breach the Gaza maritime blockade."
     },
     {
-      "char": "⚔️",
-      "label": "islamic state leader killed",
+      "char": "💣",
+      "label": "trump says isis leader killed",
       "url": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says",
       "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
       "summary": "US president calls Abu-Bilal al-Minuki ‘most active terrorist in the world’ and says he was eliminated in ‘very complex mission’ Donald Trump has said US and Nigerian forces killed the “second in command” global leader of the Islamic Sta..."
     },
     {
+      "char": "🇷🇺",
+      "label": "governor's controversial policies in russia",
+      "url": "https://www.nytimes.com/2026/05/18/world/europe/russia-governor-vologda.html",
+      "title": "He Shut Liquor Stores and Banned Abortion, All for the Glory of Russia",
+      "summary": "A firebrand governor aims to transform his region into a laboratory for the Kremlin’s reactionary ideals."
+    },
+    {
+      "char": "⚓",
+      "label": "blocked strait of hormuz impacts syria",
+      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html",
+      "title": "Blocked Strait of Hormuz Leads to New Opportunities for Syria",
+      "summary": "The latest war in the Middle East has created new economic opportunities for Syria thanks to its geography."
+    },
+    {
       "char": "🌍",
-      "label": "ebola outbreak declared emergency",
-      "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
-      "title": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
-      "summary": "The agency made the declaration just a day after Africa’s top public health agency first announced the outbreak. There is no approved vaccine for this species of Ebola."
-    },
-    {
-      "char": "⚽",
-      "label": "mbappe faces far right in france",
-      "url": "https://www.nytimes.com/2026/05/18/world/europe/kylian-mbappe-national-rally-france.html",
-      "title": "A French Soccer Star Faces Off Against a Surging Foe: The Far Right",
-      "summary": "Kylian Mbappé, the captain of France’s national team, set off a storm a month before the World Cup by suggesting that the National Rally party was a threat to France."
-    },
-    {
-      "char": "🐦",
-      "label": "birding apps boost colombian tourism",
-      "url": "https://www.nytimes.com/2026/05/17/world/americas/colombia-birding-app-merlin-ebird-tourism.html",
-      "title": "How Birding Apps Are Boosting Tourism in the World’s Top Bird Destination",
-      "summary": "Colombia is home to the most species of birds known to ornithologists. Merlin, an app, is helping to build an “avian tourism” industry there."
+      "label": "un pleads for asylum seekers' safety",
+      "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
+      "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’",
+      "summary": "Human rights experts make rare public appeal as US deportees describe being held in ‘prison-like’ conditions Human rights experts at the United Nations issued a rare public appeal to Equatorial Guinea, urging the central African country..."
     }
   ],
   "source": "ai-openai",

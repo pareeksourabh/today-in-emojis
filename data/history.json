@@ -42371,5 +42371,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-18",
+    "emojis": [
+      {
+        "char": "🚢",
+        "label": "israeli forces boarding flotilla",
+        "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli forces boarding Gaza-bound flotilla near Cyprus, activists say",
+        "summary": "Live broadcasts from the Global Sumud flotilla show commandos boarding several boats trying to breach the Gaza maritime blockade."
+      },
+      {
+        "char": "💣",
+        "label": "trump says isis leader killed",
+        "url": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says",
+        "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
+        "summary": "US president calls Abu-Bilal al-Minuki ‘most active terrorist in the world’ and says he was eliminated in ‘very complex mission’ Donald Trump has said US and Nigerian forces killed the “second in command” global leader of the Islamic Sta..."
+      },
+      {
+        "char": "🇷🇺",
+        "label": "governor's controversial policies in russia",
+        "url": "https://www.nytimes.com/2026/05/18/world/europe/russia-governor-vologda.html",
+        "title": "He Shut Liquor Stores and Banned Abortion, All for the Glory of Russia",
+        "summary": "A firebrand governor aims to transform his region into a laboratory for the Kremlin’s reactionary ideals."
+      },
+      {
+        "char": "⚓",
+        "label": "blocked strait of hormuz impacts syria",
+        "url": "https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html",
+        "title": "Blocked Strait of Hormuz Leads to New Opportunities for Syria",
+        "summary": "The latest war in the Middle East has created new economic opportunities for Syria thanks to its geography."
+      },
+      {
+        "char": "🌍",
+        "label": "un pleads for asylum seekers' safety",
+        "url": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
+        "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’",
+        "summary": "Human rights experts make rare public appeal as US deportees describe being held in ‘prison-like’ conditions Human rights experts at the United Nations issued a rare public appeal to Equatorial Guinea, urging the central African country..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
