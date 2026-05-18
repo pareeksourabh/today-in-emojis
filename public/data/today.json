@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
+    "emotion_label": "😨",
     "emoji": "😨",
-    "rationale": "The news highlights significant global concerns, including the Ebola outbreak and geopolitical tensions, evoking a sense of fear and anxiety about the state of the world.",
+    "rationale": "The day is marked by alarming news, particularly the Ebola outbreak declared a global health emergency and rising geopolitical tensions, evoking fear for public health and international stability.",
     "palette": [
       "😢",
       "😡",
