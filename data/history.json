@@ -42547,5 +42547,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-19",
+    "emojis": [
+      {
+        "char": "⚔️",
+        "label": "iran's potential war response",
+        "url": "https://www.nytimes.com/2026/05/18/world/middleeast/iran-war-retaliation-options.html",
+        "title": "Here’s How Iran Could Respond to Renewed U.S.-Israeli Strikes",
+        "summary": "In any new round of fighting, Iranian officials could adopt new tactics, including intensified strikes on neighbors and trying to close off a second strait."
+      },
+      {
+        "char": "💉",
+        "label": "infectious diseases on the rise",
+        "url": "https://www.theguardian.com/global-development/2026/may/18/infectious-diseases-hantavirus-ebola-more-frequent-damaging-pandemic-outbreak",
+        "title": "Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts",
+        "summary": "Pandemic report warns of growing global threat as health teams in Africa move to contain Ebola outbreak The world is becoming less resilient to outbreaks of infectious diseases, experts have warned, as health authorities in the Democrati..."
+      },
+      {
+        "char": "🚁",
+        "label": "drones impact in colombia",
+        "url": "https://www.theguardian.com/world/2026/may/18/drones-war-colombia-civilians-farc-acled",
+        "title": "Drones reshape war in Colombia as deaths and injuries mount",
+        "summary": "Civilians left increasingly exposed as a dangerous new front opens up in the country’s decades-old conflict As night fell over southern Colombia , and a group of children began their weekly Tuesday football match, a drone appeared overhe..."
+      },
+      {
+        "char": "🌍",
+        "label": "oil slick in persian gulf",
+        "url": "https://www.nytimes.com/2026/05/19/world/europe/oil-slick-reaches-a-pristine-persian-gulf-island-in-iran.html",
+        "title": "Oil Slick Reaches a Pristine Persian Gulf Island in Iran",
+        "summary": "Videos show birds, turtles and crabs trapped inside mounds of tar around Shidvar island, a protected wildlife sanctuary with turquoise waters and white sand beaches."
+      },
+      {
+        "char": "🕊️",
+        "label": "libyan militia commander at icc",
+        "url": "https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court",
+        "title": "‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC",
+        "summary": "Prosecution is seen as landmark step towards justice over abuses of refugees trying to reach Europe from Africa A former militia commander accused of overseeing murder, rape, enslavement and torture in Libyan detention centres will appea..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
