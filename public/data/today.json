@@ -1,41 +1,41 @@
 {
   "date": "2026-05-19",
-  "timestamp": "2026-05-19T15:34:29Z",
+  "timestamp": "2026-05-19T00:00:00Z",
   "emojis": [
     {
-      "char": "🌍",
-      "label": "blocked strait of hormuz impacts syria",
-      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html",
-      "title": "Blocked Strait of Hormuz Leads to New Opportunities for Syria",
-      "summary": "The latest war in the Middle East has created new economic opportunities for Syria thanks to its geography."
+      "char": "🕵️‍♂",
+      "label": "missing italians found in maldives",
+      "url": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss",
+      "title": "Two bodies of missing Italians recovered from inside Maldives cave",
+      "summary": "The two were among four divers located in the furthest chamber in the cave and their bodies were recovered by specialist divers."
     },
     {
-      "char": "🇺🇸",
-      "label": "us seeks role in greenland talks",
-      "url": "https://www.nytimes.com/2026/05/18/world/europe/us-greenland-talks-trump.html",
-      "title": "In Closed-Door Talks, U.S. Demands a Major Role in Greenland",
-      "summary": "Greenlandic officials worry about the direction of the negotiations aimed at defusing President Trump’s threats to seize their island. But they have little leverage."
+      "char": "🇮🇳",
+      "label": "trump's portrait on indian rickshaws",
+      "url": "https://www.nytimes.com/2026/05/19/world/asia/india-trump-auto-rickshaws.html",
+      "title": "Trump’s Portrait Pops Up on Rickshaws in India to Mark America’s 250th",
+      "summary": "The president is popping up on the back of the iconic three-wheeler to kick off America’s 250th anniversary celebrations in India."
     },
     {
-      "char": "🦠",
-      "label": "ebola outbreak raises concerns in drc",
-      "url": "https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again",
-      "title": "As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?",
-      "summary": "Conflict, mistrust and delayed detection could complicate response to emergency caused by Bundibugyo variant To be around the centre of an Ebola outbreak is to become used to the smell of chlorine. At hospitals and government buildings,..."
-    },
-    {
-      "char": "🎨",
-      "label": "record sale for jackson pollock painting",
-      "url": "https://www.bbc.com/news/articles/crkp777llgko?at_medium=RSS&at_campaign=rss",
-      "title": "Jackson Pollock painting sells for record $181m at auction",
-      "summary": "The Abstract Expressionist's Number 7A, 1948 painting is now his most expensive artwork ever sold at auction."
-    },
-    {
-      "char": "🐉",
+      "char": "✈️",
       "label": "drones reshape war in colombia",
       "url": "https://www.theguardian.com/world/2026/may/18/drones-war-colombia-civilians-farc-acled",
       "title": "Drones reshape war in Colombia as deaths and injuries mount",
       "summary": "Civilians left increasingly exposed as a dangerous new front opens up in the country’s decades-old conflict As night fell over southern Colombia , and a group of children began their weekly Tuesday football match, a drone appeared overhe..."
+    },
+    {
+      "char": "🔥",
+      "label": "california wildfires seen from space",
+      "url": "https://www.bbc.com/news/articles/cg4pn0e2yp6o?at_medium=RSS&at_campaign=rss",
+      "title": "Uncontrolled California wildfires seen from space",
+      "summary": "Some 750 firefighters are tackling the uncontrolled blazes supported by water-dropping helicopters."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola outbreak concerns in drc",
+      "url": "https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned",
+      "title": "WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC",
+      "summary": "WHO chief said he was ‘deeply concerned’ after at least 500 suspected Ebola cases and 130 deaths reported in outbreak of Bundibugyo strain ‘It’s heartbreaking’: panic in eastern DRC over return of Ebola Global health leaders are consider..."
     }
   ],
   "source": "ai-openai",
