@@ -1,41 +1,41 @@
 {
   "date": "2026-05-19",
-  "timestamp": "2026-05-19T02:32:00Z",
+  "timestamp": "2026-05-19T00:00:00Z",
   "emojis": [
     {
+      "char": "🗳️",
+      "label": "trump's political battles",
+      "url": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump v Massie: Could president's Republican nemesis survive $20m attack to oust him?",
+      "summary": "The Kentucky congressman, who has crossed the president on federal spending and the Epstein files, faces Republican voters on Tuesday."
+    },
+    {
+      "char": "👶",
+      "label": "ukrainian children kidnapped",
+      "url": "https://www.nytimes.com/2026/05/18/world/europe/russia-ukraine-children-kidnapping.html",
+      "title": "Russia’s New Human Rights Commissioner Accused of Helping Kidnap Ukrainian Children",
+      "summary": "Yana Lantratova was instrumental in helping the chairman of her party to illegally adopt an infant girl from Russian-occupied Ukraine, the Ukrainian authorities say."
+    },
+    {
       "char": "🦠",
-      "label": "panic in eastern DRC over Ebola",
+      "label": "ebola outbreak in drc",
       "url": "https://www.theguardian.com/world/2026/may/18/ituri-eastern-drc-ebola-outbreak-panic-fear",
       "title": "‘It’s heartbreaking’: panic in eastern DRC over return of Ebola",
       "summary": "Residents of Ituri province fear spread of disease and economic impact of outbreak six years after the last “On public transport, in bars and at mass gatherings, everyone is talking about Ebola,” said Gloire Mumbesa, a resident of Mongbw..."
     },
     {
-      "char": "🏦",
-      "label": "StanChart plans cuts by 2030",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcWFqOXhLd1BoTTcxNjdvSzUtdDBDUkNaWHVHWGdoMG1VS0ZqNFZpQTdGTTlhaFVXSW9qSTBtZ1VWNmlMRkdVZVNSZEtqT09vQ0hEM3FXUlJ1NERZU3pKN2EtNzBaTGMxN2tQdHcwUjktS19scndyUldrRzJCR1pKUnZSRy1PZko2MkxwY2lTOFZLN1pGUkhQMW44ZlJZNzdvTHNoNXZ2TTBoTlFtOTdXNk9McmZCQVp4ckdYY04wbV9MVmJ6?oc=5",
-      "title": "StanChart targets higher return in 2028, plans 15% cut in corporate roles by 2030 - Reuters",
-      "summary": "StanChart targets higher return in 2028, plans 15% cut in corporate roles by 2030 Reuters"
+      "char": "🇨🇺",
+      "label": "cuba warns of bloodbath",
+      "url": "https://www.theguardian.com/world/2026/may/18/cuba-warns-of-bloodbath-us-military-drone-claim",
+      "title": "Cuba warns US of ‘bloodbath’ if military action follows drone claims",
+      "summary": "Cuba’s president, Miguel Díaz-Canel, says any US strike would be catastrophic after reports of 300+ drones Cuba’s president, Miguel Díaz-Canel, has warned that any US military action against his country would lead to a “bloodbath” with i..."
     },
     {
-      "char": "🐒",
-      "label": "Americans detained in Japan zoo",
-      "url": "https://www.nytimes.com/2026/05/18/world/asia/punch-monkey-japan-zoo-arrest.html",
-      "title": "2 Americans Detained in Japan After Entering Punch the Monkey’s Zoo Enclosure",
-      "summary": "The men were charged with obstructing operations at a zoo, apparently as a stunt connected to a cryptocurrency. They denied the charges."
-    },
-    {
-      "char": "🕌",
-      "label": "three killed in San Diego mosque",
-      "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
-      "title": "Three killed in suspected hate crime at San Diego mosque",
-      "summary": "A note left by one of the teenage suspects contains general \"hate rhetoric\", investigators say."
-    },
-    {
-      "char": "⚖️",
-      "label": "OpenAI wins lawsuit against Musk",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0puWGhhMjgtT2JBWXRDUVJXaVh0Zks3QkNvSVRrdmtaYjZwWHZYS3pJWXVpVC15aFlBdlBCbzRQMzJ0N0IwT1pyNzJGaXprLUR4QXNNRzdmdVUwN1NyOTBFT1VmeXpXQ2JDa0xfUUpmbFY2QUVTbk1ha3ppWWhQeWh1OW1BUC1kWUdOUUtOY1YyQjR2Uy1WRE5za2JDXzNPbXlHbFdmNEpSX3RFMUE?oc=5",
-      "title": "Instant View: California jury sides with OpenAI over Musk lawsuit - Reuters",
-      "summary": "Instant View: California jury sides with OpenAI over Musk lawsuit Reuters"
+      "char": "💰",
+      "label": "shakira wins tax refund",
+      "url": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss",
+      "title": "Shakira wins £50m tax refund from Spanish government",
+      "summary": "The Colombian singer says the court ruling means the \"narrative\" that she was guilty now \"crumbles\"."
     }
   ],
   "source": "ai-openai",
