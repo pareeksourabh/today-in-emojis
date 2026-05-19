@@ -42679,5 +42679,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-19",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "ukraine strikes russian oil sites",
+        "url": "https://www.nytimes.com/2026/05/19/world/europe/russia-ukraine-oil-attacks-war-tuapse.html",
+        "title": "As Ukraine Strikes Russian Oil Sites, an Environmental Disaster Unfolds",
+        "summary": "After invading more than four years ago, Moscow has usually been the one causing ecological disaster. But Kyiv’s strikes, intended to cut into the Kremlin’s oil revenue, have flipped the script."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak spreading in drc",
+        "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
+        "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
+        "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher."
+      },
+      {
+        "char": "🚔",
+        "label": "woman shot by police in jamaica",
+        "url": "https://www.theguardian.com/world/2026/may/19/woman-shot-dead-by-police-jamaica-protest",
+        "title": "Woman shot dead by police in Jamaica at protest over previous police shooting",
+        "summary": "Investigation launched as video circulates online showing officer firing at vehicle and colleagues dragging away body Authorities in Jamaica have launched an investigation after CCTV footage of a woman’s fatal shooting by police sent sho..."
+      },
+      {
+        "char": "⚔️",
+        "label": "trump postpones attack on iran",
+        "url": "https://www.nytimes.com/2026/05/19/world/middleeast/iran-trump-tension.html",
+        "title": "Trump Says He Postponed a ‘Very Major Attack’ on Iran, Leaving Mideast on Edge",
+        "summary": "President Trump threatened “another big hit” on Iran, saying the country had days to return to the negotiating table, as Pakistan continued its mediation efforts to end the war."
+      },
+      {
+        "char": "🇬🇱",
+        "label": "us envoy cold welcome in greenland",
+        "url": "https://www.nytimes.com/2026/05/19/world/europe/us-envoy-greenland-visit.html",
+        "title": "Trump’s Special Envoy to Greenland Receives a Cold Welcome From Locals",
+        "summary": "After President Trump’s threats to seize the island, Gov. Jeff Landry’s offers of MAGA hats and chocolate chip cookies fall flat."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
