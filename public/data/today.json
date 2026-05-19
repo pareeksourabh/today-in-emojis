@@ -1,41 +1,41 @@
 {
   "date": "2026-05-19",
-  "timestamp": "2026-05-19T00:00:00Z",
+  "timestamp": "2026-05-19T15:34:29Z",
   "emojis": [
     {
-      "char": "🎨",
-      "label": "pollock painting sells for $181m",
-      "url": "https://www.bbc.com/news/articles/crkp777llgko?at_medium=RSS&at_campaign=rss",
-      "title": "Jackson Pollock painting sells for record $181m at auction",
-      "summary": "The Abstract Expressionist's Number 7A, 1948 painting is now his most expensive artwork ever sold at auction."
-    },
-    {
-      "char": "🚢",
+      "char": "🌍",
       "label": "blocked strait of hormuz impacts syria",
       "url": "https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html",
       "title": "Blocked Strait of Hormuz Leads to New Opportunities for Syria",
       "summary": "The latest war in the Middle East has created new economic opportunities for Syria thanks to its geography."
     },
     {
-      "char": "🛩️",
+      "char": "🇺🇸",
+      "label": "us seeks role in greenland talks",
+      "url": "https://www.nytimes.com/2026/05/18/world/europe/us-greenland-talks-trump.html",
+      "title": "In Closed-Door Talks, U.S. Demands a Major Role in Greenland",
+      "summary": "Greenlandic officials worry about the direction of the negotiations aimed at defusing President Trump’s threats to seize their island. But they have little leverage."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola outbreak raises concerns in drc",
+      "url": "https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again",
+      "title": "As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?",
+      "summary": "Conflict, mistrust and delayed detection could complicate response to emergency caused by Bundibugyo variant To be around the centre of an Ebola outbreak is to become used to the smell of chlorine. At hospitals and government buildings,..."
+    },
+    {
+      "char": "🎨",
+      "label": "record sale for jackson pollock painting",
+      "url": "https://www.bbc.com/news/articles/crkp777llgko?at_medium=RSS&at_campaign=rss",
+      "title": "Jackson Pollock painting sells for record $181m at auction",
+      "summary": "The Abstract Expressionist's Number 7A, 1948 painting is now his most expensive artwork ever sold at auction."
+    },
+    {
+      "char": "🐉",
       "label": "drones reshape war in colombia",
       "url": "https://www.theguardian.com/world/2026/may/18/drones-war-colombia-civilians-farc-acled",
       "title": "Drones reshape war in Colombia as deaths and injuries mount",
       "summary": "Civilians left increasingly exposed as a dangerous new front opens up in the country’s decades-old conflict As night fell over southern Colombia , and a group of children began their weekly Tuesday football match, a drone appeared overhe..."
-    },
-    {
-      "char": "🎤",
-      "label": "calls for release of jailed singer",
-      "url": "https://www.theguardian.com/global-development/2026/may/19/calls-for-release-of-sierra-leonean-singer-jailed-in-crackdown-on-free-speech",
-      "title": "Calls for release of Sierra Leonean singer jailed in ‘crackdown on free speech’",
-      "summary": "Zainab Sheriff unjustly sentenced to four years in prison for incitement and threatening language, say activists Lawyers, politicians and activists have called for the release of one of Sierra Leone’s best-known celebrities, who they sai..."
-    },
-    {
-      "char": "🌍",
-      "label": "us admits more south african refugees",
-      "url": "https://www.theguardian.com/us-news/2026/may/19/us-government-increase-white-south-africa-refugees",
-      "title": "US claims ‘emergency refugee situation’ as it admits 10,000 more white South Africans",
-      "summary": "Trump has repeatedly made false claims that white Afrikaners facing genocide with costs of resettling them at $100m The US government has said it will increase the number of white South Africans it admits as refugees this year from about..."
     }
   ],
   "source": "ai-openai",
