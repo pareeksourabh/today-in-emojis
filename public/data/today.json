@@ -1,28 +1,7 @@
 {
   "date": "2026-05-20",
-  "timestamp": "2026-05-20T00:00:00Z",
+  "timestamp": "2026-05-20T02:31:59Z",
   "emojis": [
-    {
-      "char": "🚔",
-      "label": "toronto police officers arrested",
-      "url": "https://www.theguardian.com/world/2026/may/19/toronto-police-sexual-assault-charge-barcelona",
-      "title": "Three Toronto police officers arrested over sexual assault in Barcelona",
-      "summary": "Two off-duty officers allegedly assaulted a sex worker in a taxi in Ciutat Vella, according to police in Catalonia Sign up for the Breaking News US newsletter email The Toronto police force, which is already under intense public scrutiny..."
-    },
-    {
-      "char": "🛑",
-      "label": "key people smuggler arrested",
-      "url": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
-      "title": "Key people smuggler arrested after BBC uncovered identity",
-      "summary": "The 28-year-old's network is thought to have transported thousands of illegal migrants into the UK."
-    },
-    {
-      "char": "⚔️",
-      "label": "trump postpones attack on iran",
-      "url": "https://www.nytimes.com/2026/05/19/world/middleeast/iran-trump-tension.html",
-      "title": "Trump Says He Postponed a ‘Very Major Attack’ on Iran, Leaving Mideast on Edge",
-      "summary": "President Trump threatened “another big hit” on Iran, saying the country had days to return to the negotiating table, as Pakistan continued its mediation efforts to end the war."
-    },
     {
       "char": "🦠",
       "label": "ebola outbreak in central africa",
@@ -31,11 +10,32 @@
       "summary": "Health officials reported more than 130 suspected deaths and 540 cases in the Democratic Republic of Congo and Uganda, but experts say the figures could be much higher."
     },
     {
-      "char": "👶",
-      "label": "afghan fathers selling children",
-      "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
-      "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
-      "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs."
+      "char": "🇲🇽",
+      "label": "mexico officials surrender over cartel ties",
+      "url": "https://www.theguardian.com/world/2026/may/18/mexico-officials-surrender-alleged-cartel-ties",
+      "title": "Pressure on Mexico after two ex-officials surrender to US over alleged cartel ties",
+      "summary": "Mexican president Claudia Sheinbaum denies any links between her Morena party and organized crime Pressure is mounting on Claudia Sheinbaum, Mexico’s president, after two former top officials from the country’s Sinaloa state – both membe..."
+    },
+    {
+      "char": "🎤",
+      "label": "singer denies sexual assault allegations",
+      "url": "https://www.bbc.com/news/articles/cjwpyzwn7epo?at_medium=RSS&at_campaign=rss",
+      "title": "Singer Patrick Bruel denies wave of sexual assault allegations in France",
+      "summary": "Among Bruel's latest accusers is well-known TV and radio presenter Flavie Flament, who alleges he raped her in 1991."
+    },
+    {
+      "char": "🚨",
+      "label": "woman shot by police in jamaica protest",
+      "url": "https://www.theguardian.com/world/2026/may/19/woman-shot-dead-by-police-jamaica-protest",
+      "title": "Woman shot dead by police in Jamaica at protest over previous police shooting",
+      "summary": "Investigation launched as video circulates online showing officer firing at vehicle and colleagues dragging away body Authorities in Jamaica have launched an investigation after CCTV footage of a woman’s fatal shooting by police sent sho..."
+    },
+    {
+      "char": "🎧",
+      "label": "did trump rescue venezuela? podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/may/20/did-trump-really-rescue-venezuela-podcast",
+      "title": "Did Trump really rescue Venezuela? – podcast",
+      "summary": "Tom Phillips on life in the country four months after the US abduction of the former president Nicolás Maduro “The last time I flew out of Venezuela was right at the start of August 2024, just after the disputed presidential election,” t..."
     }
   ],
   "source": "ai-openai",
