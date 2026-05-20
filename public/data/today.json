@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concern",
-    "emoji": "😨",
-    "rationale": "The news items reflect significant issues such as police misconduct, health crises, and social unrest, evoking a strong sense of anxiety and concern about global events.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "Today's news reveals a troubling landscape filled with violence, injustice, and humanitarian crises, evoking deep sadness. From the arrest of police officers to the ongoing Ebola outbreak and dire situations in Afghanistan, the emotionality",
     "palette": [
       "😢",
       "😡",
