@@ -42811,5 +42811,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-20",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "trump's grip on republicans",
+        "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump exerts iron grip on Republican Party with Massie defeated",
+        "summary": "Victory over a Republican rebel in Kentucky shows the president's strength but his power comes with risks for the midterms."
+      },
+      {
+        "char": "💉",
+        "label": "ebola outbreak in drc",
+        "url": "https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned",
+        "title": "WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC",
+        "summary": "WHO chief said he was ‘deeply concerned’ after at least 500 suspected Ebola cases and 130 deaths reported in outbreak of Bundibugyo strain ‘It’s heartbreaking’: panic in eastern DRC over return of Ebola Global health leaders are consider..."
+      },
+      {
+        "char": "🔫",
+        "label": "police shooting protest in jamaica",
+        "url": "https://www.theguardian.com/world/2026/may/19/woman-shot-dead-by-police-jamaica-protest",
+        "title": "Woman shot dead by police in Jamaica at protest over previous police shooting",
+        "summary": "Investigation launched as video circulates online showing officer firing at vehicle and colleagues dragging away body Authorities in Jamaica have launched an investigation after CCTV footage of a woman’s fatal shooting by police sent sho..."
+      },
+      {
+        "char": "🌍",
+        "label": "mexico officials surrender over cartel ties",
+        "url": "https://www.theguardian.com/world/2026/may/18/mexico-officials-surrender-alleged-cartel-ties",
+        "title": "Pressure on Mexico after two ex-officials surrender to US over alleged cartel ties",
+        "summary": "Mexican president Claudia Sheinbaum denies any links between her Morena party and organized crime Pressure is mounting on Claudia Sheinbaum, Mexico’s president, after two former top officials from the country’s Sinaloa state – both membe..."
+      },
+      {
+        "char": "🎤",
+        "label": "sierra leonean singer jailed",
+        "url": "https://www.theguardian.com/global-development/2026/may/19/calls-for-release-of-sierra-leonean-singer-jailed-in-crackdown-on-free-speech",
+        "title": "Calls for release of Sierra Leonean singer jailed in ‘crackdown on free speech’",
+        "summary": "Zainab Sheriff unjustly sentenced to four years in prison for incitement and threatening language, say activists Lawyers, politicians and activists have called for the release of one of Sierra Leone’s best-known celebrities, who they sai..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
