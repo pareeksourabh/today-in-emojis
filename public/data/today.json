@@ -1,204 +1,43 @@
 {
-  "date": "2026-05-19",
-  "timestamp": "2026-05-19T00:00:00Z",
+  "date": "2026-05-20",
+  "timestamp": "2026-05-20T00:00:00Z",
   "emojis": [
     {
-      "char": "📰",
-      "label": "trump says is leader killed by us forces",
-      "url": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says",
-      "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
-      "summary": "US president calls Abu-Bilal al-Minuki ‘most active terrorist in the world’ and says he was eliminated in ‘very complex mission’ Donald Trump has said US and Nigerian forces killed the “second in command” global leader of the Islamic Sta..."
+      "char": "🚔",
+      "label": "toronto police officers arrested",
+      "url": "https://www.theguardian.com/world/2026/may/19/toronto-police-sexual-assault-charge-barcelona",
+      "title": "Three Toronto police officers arrested over sexual assault in Barcelona",
+      "summary": "Two off-duty officers allegedly assaulted a sex worker in a taxi in Ciutat Vella, according to police in Catalonia Sign up for the Breaking News US newsletter email The Toronto police force, which is already under intense public scrutiny..."
+    },
+    {
+      "char": "🛑",
+      "label": "key people smuggler arrested",
+      "url": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
+      "title": "Key people smuggler arrested after BBC uncovered identity",
+      "summary": "The 28-year-old's network is thought to have transported thousands of illegal migrants into the UK."
+    },
+    {
+      "char": "⚔️",
+      "label": "trump postpones attack on iran",
+      "url": "https://www.nytimes.com/2026/05/19/world/middleeast/iran-trump-tension.html",
+      "title": "Trump Says He Postponed a ‘Very Major Attack’ on Iran, Leaving Mideast on Edge",
+      "summary": "President Trump threatened “another big hit” on Iran, saying the country had days to return to the negotiating table, as Pakistan continued its mediation efforts to end the war."
     },
     {
       "char": "🦠",
-      "label": "ebola outbreak kills 65 in dr congo",
-      "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
-      "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
-      "summary": "Uganda also reports outbreak and health officials say cases were caused by Bundibugyo strain of virus An outbreak of Ebola has killed 65 people in the Democratic Republic of the Congo, health officials said. There have been 246 suspected..."
-    },
-    {
-      "char": "⚽",
-      "label": "fifa corruption scandal resurfaces",
-      "url": "https://www.nytimes.com/2026/05/18/world/americas/fifa-south-america-conmebol-dominguez.html",
-      "title": "Millions Recovered in FIFA Corruption Scandal May Now Be Missing Again Before World Cup",
-      "summary": "Ahead of the World Cup, the head of South American soccer faces an ethics complaint he received payments recovered from a 2015 investigation that shook global soccer."
-    },
-    {
-      "char": "🚁",
-      "label": "drones reshape war in colombia",
-      "url": "https://www.theguardian.com/world/2026/may/18/drones-war-colombia-civilians-farc-acled",
-      "title": "Drones reshape war in Colombia as deaths and injuries mount",
-      "summary": "Civilians left increasingly exposed as a dangerous new front opens up in the country’s decades-old conflict As night fell over southern Colombia , and a group of children began their weekly Tuesday football match, a drone appeared overhe..."
-    },
-    {
-      "char": "🇨🇺",
-      "label": "cuba warns of bloodbath over drone claims",
-      "url": "https://www.theguardian.com/world/2026/may/18/cuba-warns-of-bloodbath-us-military-drone-claim",
-      "title": "Cuba warns US of ‘bloodbath’ if military action follows drone claims",
-      "summary": "Cuba’s president, Miguel Díaz-Canel, says any US strike would be catastrophic after reports of 300+ drones Cuba’s president, Miguel Díaz-Canel, has warned that any US military action against his country would lead to a “bloodbath” with i..."
-    },
-    {
-      "char": "🗳️",
-      "label": "trump's political battles",
-      "url": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump v Massie: Could president's Republican nemesis survive $20m attack to oust him?",
-      "summary": "The Kentucky congressman, who has crossed the president on federal spending and the Epstein files, faces Republican voters on Tuesday."
+      "label": "ebola outbreak in central africa",
+      "url": "https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html",
+      "title": "Ebola Outbreak in Central Africa Could Last Months, W.H.O. Says",
+      "summary": "Health officials reported more than 130 suspected deaths and 540 cases in the Democratic Republic of Congo and Uganda, but experts say the figures could be much higher."
     },
     {
       "char": "👶",
-      "label": "ukrainian children kidnapped",
-      "url": "https://www.nytimes.com/2026/05/18/world/europe/russia-ukraine-children-kidnapping.html",
-      "title": "Russia’s New Human Rights Commissioner Accused of Helping Kidnap Ukrainian Children",
-      "summary": "Yana Lantratova was instrumental in helping the chairman of her party to illegally adopt an infant girl from Russian-occupied Ukraine, the Ukrainian authorities say."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola outbreak in drc",
-      "url": "https://www.theguardian.com/world/2026/may/18/ituri-eastern-drc-ebola-outbreak-panic-fear",
-      "title": "‘It’s heartbreaking’: panic in eastern DRC over return of Ebola",
-      "summary": "Residents of Ituri province fear spread of disease and economic impact of outbreak six years after the last “On public transport, in bars and at mass gatherings, everyone is talking about Ebola,” said Gloire Mumbesa, a resident of Mongbw..."
-    },
-    {
-      "char": "🇨🇺",
-      "label": "cuba warns of bloodbath",
-      "url": "https://www.theguardian.com/world/2026/may/18/cuba-warns-of-bloodbath-us-military-drone-claim",
-      "title": "Cuba warns US of ‘bloodbath’ if military action follows drone claims",
-      "summary": "Cuba’s president, Miguel Díaz-Canel, says any US strike would be catastrophic after reports of 300+ drones Cuba’s president, Miguel Díaz-Canel, has warned that any US military action against his country would lead to a “bloodbath” with i..."
-    },
-    {
-      "char": "💰",
-      "label": "shakira wins tax refund",
-      "url": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss",
-      "title": "Shakira wins £50m tax refund from Spanish government",
-      "summary": "The Colombian singer says the court ruling means the \"narrative\" that she was guilty now \"crumbles\"."
-    },
-    {
-      "char": "🕌",
-      "label": "hate crime at san diego mosque",
-      "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
-      "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
-      "summary": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say."
-    },
-    {
-      "char": "🇻🇪",
-      "label": "post-maduro venezuela's new era",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela",
-      "title": "‘Feels like an illusion’: inside post-Maduro Venezuela’s bewildering new era",
-      "summary": "Four months after Trump’s surprise raid, a political thaw has descended – but mingled with hope is trepidation for what comes next When Ángel Linares heard a strange buzz followed by an explosion, his first thought was that neighbours we..."
-    },
-    {
-      "char": "🇨🇳",
-      "label": "trump's taiwan gambit",
-      "url": "https://www.nytimes.com/2026/05/18/world/asia/trump-taiwan-china-weapons.html",
-      "title": "Trump’s Taiwan Gambit is Already a Gift to China",
-      "summary": "President Trump’s open willingness to hold up a $14 billion Taiwan arms package is a win for Beijing. Now China could be weighing how to keep the weapons on ice for as long as it can."
-    },
-    {
-      "char": "🦠",
-      "label": "panic over ebola in eastern drc",
-      "url": "https://www.theguardian.com/world/2026/may/18/ituri-eastern-drc-ebola-outbreak-panic-fear",
-      "title": "‘It’s heartbreaking’: panic in eastern DRC over return of Ebola",
-      "summary": "Residents of Ituri province fear spread of disease and economic impact of outbreak six years after the last “On public transport, in bars and at mass gatherings, everyone is talking about Ebola,” said Gloire Mumbesa, a resident of Mongbw..."
-    },
-    {
-      "char": "💰",
-      "label": "fifa corruption scandal updates",
-      "url": "https://www.nytimes.com/2026/05/18/world/americas/fifa-south-america-conmebol-dominguez.html",
-      "title": "Millions Recovered in FIFA Corruption Scandal May Now Be Missing Again Before World Cup",
-      "summary": "Ahead of the World Cup, the head of South American soccer faces an ethics complaint he received payments recovered from a 2015 investigation that shook global soccer."
-    },
-    {
-      "char": "🎨",
-      "label": "pollock painting sells for $181m",
-      "url": "https://www.bbc.com/news/articles/crkp777llgko?at_medium=RSS&at_campaign=rss",
-      "title": "Jackson Pollock painting sells for record $181m at auction",
-      "summary": "The Abstract Expressionist's Number 7A, 1948 painting is now his most expensive artwork ever sold at auction."
-    },
-    {
-      "char": "🚢",
-      "label": "blocked strait of hormuz impacts syria",
-      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html",
-      "title": "Blocked Strait of Hormuz Leads to New Opportunities for Syria",
-      "summary": "The latest war in the Middle East has created new economic opportunities for Syria thanks to its geography."
-    },
-    {
-      "char": "🛩️",
-      "label": "drones reshape war in colombia",
-      "url": "https://www.theguardian.com/world/2026/may/18/drones-war-colombia-civilians-farc-acled",
-      "title": "Drones reshape war in Colombia as deaths and injuries mount",
-      "summary": "Civilians left increasingly exposed as a dangerous new front opens up in the country’s decades-old conflict As night fell over southern Colombia , and a group of children began their weekly Tuesday football match, a drone appeared overhe..."
-    },
-    {
-      "char": "🎤",
-      "label": "calls for release of jailed singer",
-      "url": "https://www.theguardian.com/global-development/2026/may/19/calls-for-release-of-sierra-leonean-singer-jailed-in-crackdown-on-free-speech",
-      "title": "Calls for release of Sierra Leonean singer jailed in ‘crackdown on free speech’",
-      "summary": "Zainab Sheriff unjustly sentenced to four years in prison for incitement and threatening language, say activists Lawyers, politicians and activists have called for the release of one of Sierra Leone’s best-known celebrities, who they sai..."
-    },
-    {
-      "char": "🌍",
-      "label": "us admits more south african refugees",
-      "url": "https://www.theguardian.com/us-news/2026/may/19/us-government-increase-white-south-africa-refugees",
-      "title": "US claims ‘emergency refugee situation’ as it admits 10,000 more white South Africans",
-      "summary": "Trump has repeatedly made false claims that white Afrikaners facing genocide with costs of resettling them at $100m The US government has said it will increase the number of white South Africans it admits as refugees this year from about..."
-    },
-    {
-      "char": "🕵️‍♂",
-      "label": "missing italians found in maldives",
-      "url": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss",
-      "title": "Two bodies of missing Italians recovered from inside Maldives cave",
-      "summary": "The two were among four divers located in the furthest chamber in the cave and their bodies were recovered by specialist divers."
-    },
-    {
-      "char": "🇮🇳",
-      "label": "trump's portrait on indian rickshaws",
-      "url": "https://www.nytimes.com/2026/05/19/world/asia/india-trump-auto-rickshaws.html",
-      "title": "Trump’s Portrait Pops Up on Rickshaws in India to Mark America’s 250th",
-      "summary": "The president is popping up on the back of the iconic three-wheeler to kick off America’s 250th anniversary celebrations in India."
-    },
-    {
-      "char": "✈️",
-      "label": "drones reshape war in colombia",
-      "url": "https://www.theguardian.com/world/2026/may/18/drones-war-colombia-civilians-farc-acled",
-      "title": "Drones reshape war in Colombia as deaths and injuries mount",
-      "summary": "Civilians left increasingly exposed as a dangerous new front opens up in the country’s decades-old conflict As night fell over southern Colombia , and a group of children began their weekly Tuesday football match, a drone appeared overhe..."
-    },
-    {
-      "char": "🔥",
-      "label": "california wildfires seen from space",
-      "url": "https://www.bbc.com/news/articles/cg4pn0e2yp6o?at_medium=RSS&at_campaign=rss",
-      "title": "Uncontrolled California wildfires seen from space",
-      "summary": "Some 750 firefighters are tackling the uncontrolled blazes supported by water-dropping helicopters."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola outbreak concerns in drc",
-      "url": "https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned",
-      "title": "WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC",
-      "summary": "WHO chief said he was ‘deeply concerned’ after at least 500 suspected Ebola cases and 130 deaths reported in outbreak of Bundibugyo strain ‘It’s heartbreaking’: panic in eastern DRC over return of Ebola Global health leaders are consider..."
+      "label": "afghan fathers selling children",
+      "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
+      "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
+      "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "heartbreak",
-    "emoji": "😢",
-    "rationale": "Today's news highlights significant tragedies, including the Ebola outbreak and violence in various regions, causing widespread fear and sorrow. The emotional weight of these events evokes a profound sense of heartbreak.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
