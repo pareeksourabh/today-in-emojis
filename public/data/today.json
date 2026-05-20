@@ -1,41 +1,41 @@
 {
   "date": "2026-05-20",
-  "timestamp": "2026-05-20T15:33:25Z",
+  "timestamp": "2026-05-20T00:00:00Z",
   "emojis": [
     {
+      "char": "🇬🇧",
+      "label": "uk ambassador leaves abruptly",
+      "url": "https://www.nytimes.com/2026/05/20/world/europe/british-ambassador-us-james-roscoe-uk.html",
+      "title": "James Roscoe, Deputy British Ambassador to the U.S., Leaves Job Abruptly",
+      "summary": "James Roscoe, a diplomat who previously worked for the royal family and at the United Nations, left his role without an immediate explanation."
+    },
+    {
+      "char": "🇮🇷",
+      "label": "iran threatens strikes beyond middle east",
+      "url": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html",
+      "title": "Iran Threatens to Strike Beyond the Middle East if the U.S. Resumes Attacks",
+      "summary": "The warning was issued as President Trump and Vice President JD Vance say progress is being made toward a deal, while keeping open the threat of renewed strikes."
+    },
+    {
+      "char": "⚽",
+      "label": "north and south korea soccer match",
+      "url": "https://www.nytimes.com/2026/05/20/world/asia/north-korea-soccer-south-naegohyang.html",
+      "title": "Soccer Game Between North and South Korean Teams Draws Strong Emotion On and Off the Pitch",
+      "summary": "While diplomatic relations between the two Koreas are near a historic low, a rare trip by athletes from the North triggered intense emotions in some older South Koreans."
+    },
+    {
+      "char": "🔫",
+      "label": "woman shot dead by police in jamaica",
+      "url": "https://www.theguardian.com/world/2026/may/19/woman-shot-dead-by-police-jamaica-protest",
+      "title": "Woman shot dead by police in Jamaica at protest over previous police shooting",
+      "summary": "Investigation launched as video circulates online showing officer firing at vehicle and colleagues dragging away body Authorities in Jamaica have launched an investigation after CCTV footage of a woman’s fatal shooting by police sent sho..."
+    },
+    {
       "char": "🦠",
-      "label": "ebola outbreak in drc",
-      "url": "https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned",
-      "title": "WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC",
-      "summary": "WHO chief said he was ‘deeply concerned’ after at least 500 suspected Ebola cases and 130 deaths reported in outbreak of Bundibugyo strain ‘It’s heartbreaking’: panic in eastern DRC over return of Ebola Global health leaders are consider..."
-    },
-    {
-      "char": "👩‍⚖️",
-      "label": "french civil servant accused",
-      "url": "https://www.nytimes.com/2026/05/20/world/europe/french-civil-servant-accused-drugging-women.html",
-      "title": "The French Civil Servant Accused of Drugging More Than 100 Women",
-      "summary": "For years, prosecutors have accused Christian Nègre, once a senior official, of slipping diuretics into women’s drinks. Despite admitting some accusations in an interview with a French daily, he is yet to stand trial."
-    },
-    {
-      "char": "🔪",
-      "label": "murder of teen tiktok star",
-      "url": "https://www.bbc.com/news/articles/cvgzrgm0rgvo?at_medium=RSS&at_campaign=rss",
-      "title": "Man who murdered teen TikTok star in Pakistan gets death sentence",
-      "summary": "Sana Yousaf's murder highlights a pattern of violence against women in Pakistan, activists say."
-    },
-    {
-      "char": "🇯🇵",
-      "label": "killing stirs tokuryu fears",
-      "url": "https://www.nytimes.com/2026/05/20/world/asia/japan-tokuryu-crime-killing.html",
-      "title": "Killing in Japan Stirs Fears of Tokuryu Crime Rings",
-      "summary": "Four teenage boys were arrested in the killing of a woman at her home. The police say they might have been directed by a new type of transient criminal network known as tokuryu."
-    },
-    {
-      "char": "🎙️",
-      "label": "trump and venezuela podcast",
-      "url": "https://www.theguardian.com/news/audio/2026/may/20/did-trump-really-rescue-venezuela-podcast",
-      "title": "Did Trump really rescue Venezuela? – podcast",
-      "summary": "Tom Phillips on life in the country four months after the US abduction of the former president Nicolás Maduro “The last time I flew out of Venezuela was right at the start of August 2024, just after the disputed presidential election,” t..."
+      "label": "rubio criticizes who on ebola response",
+      "url": "https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola",
+      "title": "Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts",
+      "summary": "US secretary of state says WHO was ‘a little late’ in identifying deadly Ebola outbreak in the DRC and Uganda The US secretary of state, Marco Rubio, said on Tuesday that the World Health Organization (WHO) was “a little late” in identif..."
     }
   ],
   "source": "ai-openai",
