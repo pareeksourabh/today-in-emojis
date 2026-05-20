@@ -42899,5 +42899,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-20",
+    "emojis": [
+      {
+        "char": "🇮🇷",
+        "label": "iran gains leverage in the war",
+        "url": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triangular-coercion.html",
+        "title": "How Iran Gained Leverage in the War",
+        "summary": "Outmatched militarily, Iran used “triangular coercion” by attacking Gulf states and closing the Strait of Hormuz. It points to a long-term U.S. vulnerability."
+      },
+      {
+        "char": "⚽",
+        "label": "north-south korea soccer emotions",
+        "url": "https://www.nytimes.com/2026/05/20/world/asia/north-korea-soccer-south-naegohyang.html",
+        "title": "Soccer Game Between North and South Korean Teams Draws Strong Emotion On and Off the Pitch",
+        "summary": "While diplomatic relations between the two Koreas are near a historic low, a rare trip by athletes from the North triggered intense emotions in some older South Koreans."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola cases rise in drc",
+        "url": "https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned",
+        "title": "WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC",
+        "summary": "WHO chief said he was ‘deeply concerned’ after at least 500 suspected Ebola cases and 130 deaths reported in outbreak of Bundibugyo strain ‘It’s heartbreaking’: panic in eastern DRC over return of Ebola Global health leaders are consider..."
+      },
+      {
+        "char": "👮‍♂️",
+        "label": "french civil servant drugging scandal",
+        "url": "https://www.nytimes.com/2026/05/20/world/europe/french-civil-servant-accused-drugging-women.html",
+        "title": "The French Civil Servant Accused of Drugging More Than 100 Women",
+        "summary": "For years, prosecutors have accused Christian Nègre, once a senior official, of slipping diuretics into women’s drinks. Despite admitting some accusations in an interview with a French daily, he is yet to stand trial."
+      },
+      {
+        "char": "🌍",
+        "label": "bolivia protests amid coup fears",
+        "url": "https://www.theguardian.com/world/2026/may/20/bolivia-protests-coup-paz-pereira",
+        "title": "Bolivia rocked by protests as US warns of ‘coup d’état’",
+        "summary": "Clashes between demonstrators and police in La Paz have entered second week, shaking centre-right president Protests blocking roads across Bolivia and turning the centre of the capital, La Paz, into a battleground between demonstrators a..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
