@@ -42767,5 +42767,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-20",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "china buys 200 boeing jets",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeVJsZ2lMYnlRMEJRNUhPWHNjR2FFb3o5TmxlbElPUkRIZVpRNm4wclhnOGhfTHE4emh0WTRDUXY1Wnc2aFVxTkhFdF85VE55NC1TYWx1S1FPdW1NUXNfUXZmQkg1aktNNnNSUFdfNF9FajJkVGFqcE54eEdpdk45RzJFbkp4Q1NxVG5QUnNodFotZ0M4bXNvamxvdFJfQUN5NjRPcE9jTVVNa1BONEFKcmlxYmU1VEFXenNtd2gyZDlTYmhwOVdhVWxHNXM?oc=5",
+        "title": "China says it will buy 200 Boeing jets, seek extension of US trade truce - Reuters",
+        "summary": "China says it will buy 200 Boeing jets, seek extension of US trade truce Reuters"
+      },
+      {
+        "char": "⚖️",
+        "label": "murderer of teen tiktok star sentenced",
+        "url": "https://www.bbc.com/news/articles/cvgzrgm0rgvo?at_medium=RSS&at_campaign=rss",
+        "title": "Man who murdered teen TikTok star in Pakistan gets death sentence",
+        "summary": "Sana Yousaf's murder highlights a pattern of violence against women in Pakistan, activists say."
+      },
+      {
+        "char": "🛡️",
+        "label": "us airstrikes inquiry opened",
+        "url": "https://www.theguardian.com/us-news/2026/may/19/defense-department-inquiry-airstrikes-alleged-drug-boats",
+        "title": "Defense department watchdog opens inquiry into US airstrikes on alleged drug boats",
+        "summary": "Officials will determine if standard process was followed before lethal strikes in Caribbean and eastern Pacific Sign up for the Breaking News US newsletter email The Pentagon’s internal watchdog has opened an investigation into whether..."
+      },
+      {
+        "char": "🍑",
+        "label": "son of mango boss arrested",
+        "url": "https://www.bbc.com/news/articles/c0m2pg1z4x8o?at_medium=RSS&at_campaign=rss",
+        "title": "Son of Mango boss arrested over father's fatal fall from cliff",
+        "summary": "Isak, 71, died in December 2024 after falling from a ravine while walking in the Montserrat mountains near Barcelona."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in central africa",
+        "url": "https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html",
+        "title": "Ebola Outbreak in Central Africa Could Last Months, W.H.O. Says",
+        "summary": "Health officials reported more than 130 suspected deaths and 540 cases in the Democratic Republic of Congo and Uganda, but experts say the figures could be much higher."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
