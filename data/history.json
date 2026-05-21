@@ -43031,5 +43031,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-21",
+    "emojis": [
+      {
+        "char": "📈",
+        "label": "australia's unemployment rate rises",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSXY4Uy1idWhpeklZaG9FY2hFQnBMV1dnVnh6ZlROZDFmZWdnb1RBM1ZHU3h2MDhDd080eGhkWUdxeHFEWk90ZlBTbk1pVWwwVEdmeXhfc0NsaTQxVEd6eFpsWFJwdm9UTXgtdjdEQ0pERzVyTG16VURFWF82d1VYdlZYRDA4TGoyd3dqY0otelcwRVlPZ1Y2U1ZNcVd1enh0alZ6OW5vX1BzZFhublNpZHU0MGRMVFhwS2VqN2dR?oc=5",
+        "title": "Australia's unemployment hits 4-1/2 year high, lessens risk of rate rise - Reuters",
+        "summary": "Australia's unemployment hits 4-1/2 year high, lessens risk of rate rise Reuters"
+      },
+      {
+        "char": "🐋",
+        "label": "timmy the whale's strange story",
+        "url": "https://www.nytimes.com/2026/05/20/world/europe/timmy-whale-dead-denmark-rescue.html",
+        "title": "Timmy the Whale Got Stranded Off the German Coast. Then Things Got Weird.",
+        "summary": "A humpback that became stuck in the Baltic seemed to unite a nation in hope. Rescue efforts followed, and then finger-pointing."
+      },
+      {
+        "char": "🦠",
+        "label": "us doctor treated for ebola in germany",
+        "url": "https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany",
+        "title": "US doctor who contracted Ebola in DRC flown to Germany for treatment",
+        "summary": "Dr Peter Stafford’s wife and four children are also being monitored for symptoms amid Ebola outbreak in Congo An American doctor who contracted Ebola in the Democratic Republic of the Congo has been flown to Germany for treatment, along..."
+      },
+      {
+        "char": "💉",
+        "label": "ebola vaccine timeline concerns",
+        "url": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
+        "title": "Ebola vaccine could take nine months as death toll rises further, WHO warns",
+        "summary": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases."
+      },
+      {
+        "char": "🎤",
+        "label": "colombian music legend dies",
+        "url": "https://www.theguardian.com/music/2026/may/20/toto-la-momposina-vocalist-and-colombian-music-legend-dies-aged-85",
+        "title": "Totó la Momposina, vocalist and Colombian music legend, dies aged 85",
+        "summary": "The singer was one of her country’s most’s popular musical exports, and travelled the world with an evangelistic vision for spreading cumbia music Totó la Momposina, one of the most celebrated musicians in Colombian history, has died age..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
