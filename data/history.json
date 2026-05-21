@@ -43119,5 +43119,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-21",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "gonorrhoea and syphilis rise in europe",
+        "url": "https://www.bbc.com/news/articles/cm2pj07dr7lo?at_medium=RSS&at_campaign=rss",
+        "title": "Gonorrhoea and syphilis hit record levels in Europe",
+        "summary": "STIs have surged thanks to record cases and gaps in testing and prevention, a health agency reports."
+      },
+      {
+        "char": "💉",
+        "label": "rubio criticizes who’s ebola response",
+        "url": "https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola",
+        "title": "Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts",
+        "summary": "US secretary of state says WHO was ‘a little late’ in identifying deadly Ebola outbreak in the DRC and Uganda The US secretary of state, Marco Rubio, said on Tuesday that the World Health Organization (WHO) was “a little late” in identif..."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "russia and china condemn us over cuba",
+        "url": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
+        "title": "Russia and China condemn US over indictment of former Cuban leader",
+        "summary": "It comes after the US charged Raúl Castro with murder, the latest move putting pressure on the regime."
+      },
+      {
+        "char": "🇯🇲",
+        "label": "jamaican language row in parliament",
+        "url": "https://www.theguardian.com/news/2026/may/21/jamaica-parliament-language-english-patois",
+        "title": "‘It’s broken English’: MP’s attempt to speak Jamaican in parliament sparks language row",
+        "summary": "Parliamentary rule that only English is allowed has reignited debate about language, legitimacy and postcolonial identity When the Jamaican MP Nekeisha Burchell stood up to give her maiden speech, she was keenly aware of how much her cou..."
+      },
+      {
+        "char": "⚽",
+        "label": "dr congo cancels world cup training camp",
+        "url": "https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss",
+        "title": "DR Congo cancels World Cup training camp over Ebola outbreak",
+        "summary": "The outbreak, caused by a rare Ebola species, is thought to have caused 139 deaths so far."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
