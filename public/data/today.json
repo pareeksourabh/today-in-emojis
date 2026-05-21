@@ -1,204 +1,43 @@
 {
-  "date": "2026-05-20",
-  "timestamp": "2026-05-20T00:00:00Z",
+  "date": "2026-05-21",
+  "timestamp": "2026-05-21T00:00:00Z",
   "emojis": [
     {
-      "char": "🚔",
-      "label": "toronto police officers arrested",
-      "url": "https://www.theguardian.com/world/2026/may/19/toronto-police-sexual-assault-charge-barcelona",
-      "title": "Three Toronto police officers arrested over sexual assault in Barcelona",
-      "summary": "Two off-duty officers allegedly assaulted a sex worker in a taxi in Ciutat Vella, according to police in Catalonia Sign up for the Breaking News US newsletter email The Toronto police force, which is already under intense public scrutiny..."
-    },
-    {
-      "char": "🛑",
-      "label": "key people smuggler arrested",
-      "url": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
-      "title": "Key people smuggler arrested after BBC uncovered identity",
-      "summary": "The 28-year-old's network is thought to have transported thousands of illegal migrants into the UK."
-    },
-    {
-      "char": "⚔️",
-      "label": "trump postpones attack on iran",
-      "url": "https://www.nytimes.com/2026/05/19/world/middleeast/iran-trump-tension.html",
-      "title": "Trump Says He Postponed a ‘Very Major Attack’ on Iran, Leaving Mideast on Edge",
-      "summary": "President Trump threatened “another big hit” on Iran, saying the country had days to return to the negotiating table, as Pakistan continued its mediation efforts to end the war."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola outbreak in central africa",
-      "url": "https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html",
-      "title": "Ebola Outbreak in Central Africa Could Last Months, W.H.O. Says",
-      "summary": "Health officials reported more than 130 suspected deaths and 540 cases in the Democratic Republic of Congo and Uganda, but experts say the figures could be much higher."
-    },
-    {
-      "char": "👶",
-      "label": "afghan fathers selling children",
-      "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
-      "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
-      "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs."
-    },
-    {
-      "char": "🇧🇴",
-      "label": "bolivia protests paralyze country",
-      "url": "https://www.nytimes.com/2026/05/19/world/americas/bolivia-protests-la-paz.html",
-      "title": "Bolivia Has Been Paralyzed by Protests. Here’s Why.",
-      "summary": "After two decades of leftist rule, many voters who backed Bolivia’s new, more conservative president say he’s made their lives harder and are demanding his removal."
-    },
-    {
-      "char": "🎤",
-      "label": "sierra leone singer jailed for free speech",
-      "url": "https://www.theguardian.com/global-development/2026/may/19/calls-for-release-of-sierra-leonean-singer-jailed-in-crackdown-on-free-speech",
-      "title": "Calls for release of Sierra Leonean singer jailed in ‘crackdown on free speech’",
-      "summary": "Zainab Sheriff unjustly sentenced to four years in prison for incitement and threatening language, say activists Lawyers, politicians and activists have called for the release of one of Sierra Leone’s best-known celebrities, who they sai..."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola outbreak grips eastern dr congo",
-      "url": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
-      "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
-      "summary": "The health minister has acknowledged that medics are playing catch-up with the virus after being slow to detect it."
-    },
-    {
-      "char": "👮",
-      "label": "toronto police officers charged in assault",
-      "url": "https://www.theguardian.com/world/2026/may/19/toronto-police-sexual-assault-charge-barcelona",
-      "title": "Three Toronto police officers arrested over sexual assault in Barcelona",
-      "summary": "Two off-duty officers allegedly assaulted a sex worker in a taxi in Ciutat Vella, according to police in Catalonia Sign up for the Breaking News US newsletter email The Toronto police force, which is already under intense public scrutiny..."
-    },
-    {
-      "char": "🤝",
-      "label": "putin visits china amid tensions",
-      "url": "https://www.nytimes.com/2026/05/19/world/europe/putin-china-state-visit.html",
-      "title": "As a Weakened Putin Follows Trump to Beijing, Iran War Offers an Opening",
-      "summary": "With the upheaval in the Persian Gulf disrupting oil and gas supplies, Russia is looking to deepen its energy ties to China."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola outbreak in drc raises concerns",
-      "url": "https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again",
-      "title": "As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?",
-      "summary": "Conflict, mistrust and delayed detection could complicate response to emergency caused by Bundibugyo variant To be around the centre of an Ebola outbreak is to become used to the smell of chlorine. At hospitals and government buildings,..."
-    },
-    {
-      "char": "🚨",
-      "label": "toronto police officers arrested",
-      "url": "https://www.theguardian.com/world/2026/may/19/toronto-police-sexual-assault-charge-barcelona",
-      "title": "Three Toronto police officers arrested over sexual assault in Barcelona",
-      "summary": "Two off-duty officers allegedly assaulted a sex worker in a taxi in Ciutat Vella, according to police in Catalonia Sign up for the Breaking News US newsletter email The Toronto police force, which is already under intense public scrutiny..."
-    },
-    {
-      "char": "🌊",
-      "label": "oil slick reaches iranian island",
-      "url": "https://www.nytimes.com/2026/05/19/world/europe/oil-spill-iran-shidvar-island.html",
-      "title": "Oil Slick Reaches a Pristine Persian Gulf Island in Iran",
-      "summary": "Videos show birds, turtles and crabs trapped inside mounds of tar around Shidvar island, a protected wildlife sanctuary with turquoise waters and white sand beaches."
-    },
-    {
-      "char": "🔫",
-      "label": "protest in jamaica turns deadly",
-      "url": "https://www.theguardian.com/world/2026/may/19/woman-shot-dead-by-police-jamaica-protest",
-      "title": "Woman shot dead by police in Jamaica at protest over previous police shooting",
-      "summary": "Investigation launched as video circulates online showing officer firing at vehicle and colleagues dragging away body Authorities in Jamaica have launched an investigation after CCTV footage of a woman’s fatal shooting by police sent sho..."
-    },
-    {
-      "char": "✊",
-      "label": "bolivia paralyzed by protests",
-      "url": "https://www.nytimes.com/2026/05/19/world/americas/bolivia-protests-la-paz.html",
-      "title": "Bolivia Has Been Paralyzed by Protests. Here’s Why.",
-      "summary": "After two decades of leftist rule, many voters who backed Bolivia’s new, more conservative president say he’s made their lives harder and are demanding his removal."
-    },
-    {
-      "char": "🎙️",
-      "label": "did trump rescue venezuela? podcast",
-      "url": "https://www.theguardian.com/news/audio/2026/may/20/did-trump-really-rescue-venezuela-podcast",
-      "title": "Did Trump really rescue Venezuela? – podcast",
-      "summary": "Tom Phillips on life in the country four months after the US abduction of the former president Nicolás Maduro “The last time I flew out of Venezuela was right at the start of August 2024, just after the disputed presidential election,” t..."
-    },
-    {
-      "char": "🦠",
-      "label": "who defends ebola response",
-      "url": "https://www.nytimes.com/2026/05/20/world/africa/ebola-congo-tedros-rubio.html",
-      "title": "Head of W.H.O. Defends Its Response to Ebola Outbreak",
-      "summary": "Tedros Adhanom Ghebreyesus said criticism of the World Health Organization may have reflected a “lack of understanding” about how the agency works."
-    },
-    {
-      "char": "🎶",
-      "label": "colombian music legend dies",
-      "url": "https://www.theguardian.com/music/2026/may/20/toto-la-momposina-vocalist-and-colombian-music-legend-dies-aged-85",
-      "title": "Totó la Momposina, vocalist and Colombian music legend, dies aged 85",
-      "summary": "The singer was one of her country’s most’s popular musical exports, and travelled the world with an evangelistic vision for spreading cumbia music Totó la Momposina, one of the most celebrated musicians in Colombian history, has died age..."
-    },
-    {
-      "char": "🚨",
-      "label": "toronto police sexual assault case",
-      "url": "https://www.theguardian.com/world/2026/may/19/toronto-police-sexual-assault-charge-barcelona",
-      "title": "Three Toronto police officers arrested over sexual assault in Barcelona",
-      "summary": "Two off-duty officers allegedly assaulted a sex worker in a taxi in Ciutat Vella, according to police in Catalonia Sign up for the Breaking News US newsletter email The Toronto police force, which is already under intense public scrutiny..."
-    },
-    {
-      "char": "🌍",
-      "label": "xi hosts putin after trump",
-      "url": "https://www.nytimes.com/2026/05/20/world/asia/china-putin-trump-russia-xi.html",
-      "title": "Days After Hosting Trump, Xi Deepens Ties With Putin",
-      "summary": "China’s leader Xi Jinping called for a halt to fighting in the Middle East, ignored Russia’s war in Ukraine and took a veiled swipe at the United States."
-    },
-    {
-      "char": "🇬🇧",
-      "label": "uk ambassador leaves abruptly",
-      "url": "https://www.nytimes.com/2026/05/20/world/europe/british-ambassador-us-james-roscoe-uk.html",
-      "title": "James Roscoe, Deputy British Ambassador to the U.S., Leaves Job Abruptly",
-      "summary": "James Roscoe, a diplomat who previously worked for the royal family and at the United Nations, left his role without an immediate explanation."
+      "char": "🇷🇺",
+      "label": "putin visits china for talks",
+      "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
+      "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
+      "summary": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Editor."
     },
     {
       "char": "🇮🇷",
-      "label": "iran threatens strikes beyond middle east",
+      "label": "iran threatens u.s. strikes",
       "url": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html",
       "title": "Iran Threatens to Strike Beyond the Middle East if the U.S. Resumes Attacks",
       "summary": "The warning was issued as President Trump and Vice President JD Vance say progress is being made toward a deal, while keeping open the threat of renewed strikes."
     },
     {
-      "char": "⚽",
-      "label": "north and south korea soccer match",
-      "url": "https://www.nytimes.com/2026/05/20/world/asia/north-korea-soccer-south-naegohyang.html",
-      "title": "Soccer Game Between North and South Korean Teams Draws Strong Emotion On and Off the Pitch",
-      "summary": "While diplomatic relations between the two Koreas are near a historic low, a rare trip by athletes from the North triggered intense emotions in some older South Koreans."
+      "char": "🇨🇺",
+      "label": "castro charged with murder",
+      "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
+      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+      "summary": "Castro and five others are charged with conspiracy to kill US nationals, murder, and destruction of aircraft"
     },
     {
-      "char": "🔫",
-      "label": "woman shot dead by police in jamaica",
-      "url": "https://www.theguardian.com/world/2026/may/19/woman-shot-dead-by-police-jamaica-protest",
-      "title": "Woman shot dead by police in Jamaica at protest over previous police shooting",
-      "summary": "Investigation launched as video circulates online showing officer firing at vehicle and colleagues dragging away body Authorities in Jamaica have launched an investigation after CCTV footage of a woman’s fatal shooting by police sent sho..."
+      "char": "🌍",
+      "label": "ebola crisis sparks debate",
+      "url": "https://www.nytimes.com/2026/05/20/world/africa/ebola-virus-outbreak-africa.html",
+      "title": "Ebola Crisis Sparks Debate Over Global Health Double Standards",
+      "summary": "To some Africans, the claim that the continent’s largest health agency had already bungled its response scratched a familiar wound."
     },
     {
-      "char": "🦠",
-      "label": "rubio criticizes who on ebola response",
-      "url": "https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola",
-      "title": "Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts",
-      "summary": "US secretary of state says WHO was ‘a little late’ in identifying deadly Ebola outbreak in the DRC and Uganda The US secretary of state, Marco Rubio, said on Tuesday that the World Health Organization (WHO) was “a little late” in identif..."
+      "char": "🇧🇴",
+      "label": "bolivia protests escalate",
+      "url": "https://www.theguardian.com/world/2026/may/20/bolivia-protests-coup-paz-pereira",
+      "title": "Bolivia rocked by protests as US warns of ‘coup d’état’",
+      "summary": "Clashes between demonstrators and police in La Paz have entered second week, shaking centre-right president Protests blocking roads across Bolivia and turning the centre of the capital, La Paz, into a battleground between demonstrators a..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "Today's news reveals a troubling landscape filled with violence, injustice, and humanitarian crises, evoking deep sadness. From the arrest of police officers to the ongoing Ebola outbreak and dire situations in Afghanistan, the emotionality",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
