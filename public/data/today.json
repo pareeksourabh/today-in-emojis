@@ -1,41 +1,41 @@
 {
   "date": "2026-05-21",
-  "timestamp": "2026-05-21T11:29:13Z",
+  "timestamp": "2026-05-21T00:00:00Z",
   "emojis": [
     {
-      "char": "📈",
-      "label": "australia's unemployment rate rises",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSXY4Uy1idWhpeklZaG9FY2hFQnBMV1dnVnh6ZlROZDFmZWdnb1RBM1ZHU3h2MDhDd080eGhkWUdxeHFEWk90ZlBTbk1pVWwwVEdmeXhfc0NsaTQxVEd6eFpsWFJwdm9UTXgtdjdEQ0pERzVyTG16VURFWF82d1VYdlZYRDA4TGoyd3dqY0otelcwRVlPZ1Y2U1ZNcVd1enh0alZ6OW5vX1BzZFhublNpZHU0MGRMVFhwS2VqN2dR?oc=5",
-      "title": "Australia's unemployment hits 4-1/2 year high, lessens risk of rate rise - Reuters",
-      "summary": "Australia's unemployment hits 4-1/2 year high, lessens risk of rate rise Reuters"
-    },
-    {
-      "char": "🐋",
-      "label": "timmy the whale's strange story",
-      "url": "https://www.nytimes.com/2026/05/20/world/europe/timmy-whale-dead-denmark-rescue.html",
-      "title": "Timmy the Whale Got Stranded Off the German Coast. Then Things Got Weird.",
-      "summary": "A humpback that became stuck in the Baltic seemed to unite a nation in hope. Rescue efforts followed, and then finger-pointing."
-    },
-    {
       "char": "🦠",
-      "label": "us doctor treated for ebola in germany",
-      "url": "https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany",
-      "title": "US doctor who contracted Ebola in DRC flown to Germany for treatment",
-      "summary": "Dr Peter Stafford’s wife and four children are also being monitored for symptoms amid Ebola outbreak in Congo An American doctor who contracted Ebola in the Democratic Republic of the Congo has been flown to Germany for treatment, along..."
+      "label": "ebola crisis sparks debate over health standards",
+      "url": "https://www.nytimes.com/2026/05/20/world/africa/ebola-virus-outbreak-africa.html",
+      "title": "Ebola Crisis Sparks Debate Over Global Health Double Standards",
+      "summary": "To some Africans, the claim that the continent’s largest health agency had already bungled its response scratched a familiar wound."
     },
     {
-      "char": "💉",
-      "label": "ebola vaccine timeline concerns",
-      "url": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
-      "title": "Ebola vaccine could take nine months as death toll rises further, WHO warns",
-      "summary": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases."
+      "char": "📉",
+      "label": "nvidia's record result fails to impress",
+      "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
+      "title": "Nvidia's latest record result fails to impress investors",
+      "summary": "The chip giant reported more stellar results but its shares fell after-hours as investors wonder if it can keep up its pace of growth amid greater competition."
     },
     {
       "char": "🎤",
-      "label": "colombian music legend dies",
+      "label": "colombian music legend totó dies at 85",
       "url": "https://www.theguardian.com/music/2026/may/20/toto-la-momposina-vocalist-and-colombian-music-legend-dies-aged-85",
       "title": "Totó la Momposina, vocalist and Colombian music legend, dies aged 85",
       "summary": "The singer was one of her country’s most’s popular musical exports, and travelled the world with an evangelistic vision for spreading cumbia music Totó la Momposina, one of the most celebrated musicians in Colombian history, has died age..."
+    },
+    {
+      "char": "🌍",
+      "label": "iran gains leverage in regional conflicts",
+      "url": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triangular-coercion.html",
+      "title": "How Iran Gained Leverage in the War",
+      "summary": "Outmatched militarily, Iran used “triangular coercion” by attacking Gulf states and closing the Strait of Hormuz. It points to a long-term U.S. vulnerability."
+    },
+    {
+      "char": "🚗",
+      "label": "berlin car ban sparks culture war",
+      "url": "https://www.nytimes.com/2026/05/21/world/europe/berlin-car-ban.html",
+      "title": "In Berlin, Cars Are a Culture War Flashpoint",
+      "summary": "With municipal elections approaching, conservatives and progressives are sparring over congestion in the city center and how to fix it."
     }
   ],
   "source": "ai-openai",
