@@ -42987,5 +42987,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-21",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "us doctor flown to germany for ebola",
+        "url": "https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany",
+        "title": "US doctor who contracted Ebola in DRC flown to Germany for treatment",
+        "summary": "Dr Peter Stafford’s wife and four children are also being monitored for symptoms amid Ebola outbreak in Congo An American doctor who contracted Ebola in the Democratic Republic of the Congo has been flown to Germany for treatment, along..."
+      },
+      {
+        "char": "🎙️",
+        "label": "trump rescue venezuela podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/may/20/did-trump-really-rescue-venezuela-podcast",
+        "title": "Did Trump really rescue Venezuela? – podcast",
+        "summary": "Tom Phillips on life in the country four months after the US abduction of the former president Nicolás Maduro “The last time I flew out of Venezuela was right at the start of August 2024, just after the disputed presidential election,” t..."
+      },
+      {
+        "char": "💼",
+        "label": "fed proposes fintech payment accounts",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXZQNVE2ajYwU183UXVqd0FOajdnUnBudHUxTThJbUEtR0l5YVhTcm5KRU9DSnctYWUzWm11djdpdVFfX1lmME5feFlSaWppc2E5S0kxV2dnTzdFYkotZWROWS00cE5KS0JoM2lYbkI3a0FoOUo2R3hGajlDVi1aM28zUGdSUm9jOFFZbTVwaDJ1Tk1rOHlsZWNkX0NNRDFiZUE?oc=5",
+        "title": "Fed proposes limited payment accounts for fintechs, others - Reuters",
+        "summary": "Fed proposes limited payment accounts for fintechs, others Reuters"
+      },
+      {
+        "char": "👮‍♂️",
+        "label": "french civil servant drugging women",
+        "url": "https://www.nytimes.com/2026/05/20/world/europe/french-civil-servant-accused-drugging-women.html",
+        "title": "The French Civil Servant Accused of Drugging More Than 100 Women",
+        "summary": "For years, prosecutors have accused Christian Nègre, once a senior official, of slipping diuretics into women’s drinks. Despite admitting to some accusations in an interview with a French daily, he is yet to stand trial."
+      },
+      {
+        "char": "🌍",
+        "label": "bolivia protests amid coup warnings",
+        "url": "https://www.theguardian.com/world/2026/may/20/bolivia-protests-coup-paz-pereira",
+        "title": "Bolivia rocked by protests as US warns of ‘coup d’état’",
+        "summary": "Clashes between demonstrators and police in La Paz have entered second week, shaking centre-right president Protests blocking roads across Bolivia and turning the centre of the capital, La Paz, into a battleground between demonstrators a..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
