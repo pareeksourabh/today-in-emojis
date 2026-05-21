@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news reflects significant global tensions and crises, including political unrest and health debates, which evoke a sense of concern and urgency.",
+    "emotion_label": "😡",
+    "emoji": "😡",
+    "rationale": "Today's news is dominated by conflict and political tensions, from threats of strikes in the Middle East to protests in Bolivia. This atmosphere of anger and unrest is palpable across multiple stories.",
     "palette": [
       "😢",
       "😡",
