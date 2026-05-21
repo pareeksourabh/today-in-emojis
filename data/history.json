@@ -42943,5 +42943,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-21",
+    "emojis": [
+      {
+        "char": "👩‍⚕️",
+        "label": "french civil servant accused of drugging women",
+        "url": "https://www.nytimes.com/2026/05/20/world/europe/french-civil-servant-accused-drugging-women.html",
+        "title": "The French Civil Servant Accused of Drugging More Than 100 Women",
+        "summary": "For years, prosecutors have accused Christian Nègre, once a senior official, of slipping diuretics into women’s drinks. Despite admitting some accusations in an interview with a French daily, he is yet to stand trial."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuba says us not negotiating in good faith",
+        "url": "https://www.nytimes.com/2026/05/20/world/americas/guzman-cuba-us-negotiations-trump.html",
+        "title": "Cuba Says the Trump Administration Is Not Negotiating in Good Faith",
+        "summary": "Cuba’s ambassador to the United Nations said in an interview that Havana wanted to talk but the Trump administration was creating pretexts for military action."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in drc raises concerns",
+        "url": "https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again",
+        "title": "As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?",
+        "summary": "Conflict, mistrust and delayed detection could complicate response to emergency caused by Bundibugyo variant To be around the centre of an Ebola outbreak is to become used to the smell of chlorine. At hospitals and government buildings,..."
+      },
+      {
+        "char": "⚖️",
+        "label": "bolivia protests amid coup warnings",
+        "url": "https://www.theguardian.com/world/2026/may/20/bolivia-protests-coup-paz-pereira",
+        "title": "Bolivia rocked by protests as US warns of ‘coup d’état’",
+        "summary": "Clashes between demonstrators and police in La Paz have entered second week, shaking centre-right president Protests blocking roads across Bolivia and turning the centre of the capital, La Paz, into a battleground between demonstrators a..."
+      },
+      {
+        "char": "🌍",
+        "label": "iran threatens strikes beyond middle east",
+        "url": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html",
+        "title": "Iran Threatens to Strike Beyond the Middle East if the U.S. Resumes Attacks",
+        "summary": "The warning was issued as President Trump and Vice President JD Vance say progress is being made toward a deal, while keeping open the threat of renewed strikes."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
