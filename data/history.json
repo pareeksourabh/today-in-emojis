@@ -43075,5 +43075,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-21",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "air france flight diverted over ebola fears",
+        "url": "https://www.nytimes.com/2026/05/21/world/africa/air-france-ebola-flight.html",
+        "title": "Air France Flight to U.S. Is Diverted to Montreal Over Congolese Passenger Amid Ebola Fears",
+        "summary": "An Air France plane was sent to Montreal because a passenger from the Democratic Republic of Congo was on board. The U.S. has closed its borders to recent visitors to the African country."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "us indicts raul castro in cuba",
+        "url": "https://www.theguardian.com/world/2026/may/20/cuba-raul-castro-indictment",
+        "title": "US indicts former Cuban president Raúl Castro as it seeks to oust regime",
+        "summary": "Charges filed in Miami against 94-year-old for allegedly shooting down exiles’ planes in 1996 The United States issued a federal criminal indictment against Raúl Castro , Cuba ’s former president, and five others on Wednesday in a signif..."
+      },
+      {
+        "char": "🐋",
+        "label": "timmy the whale's strange rescue",
+        "url": "https://www.nytimes.com/2026/05/20/world/europe/timmy-whale-dead-denmark-rescue.html",
+        "title": "Timmy the Whale Got Stranded Off the German Coast. Then Things Got Weird.",
+        "summary": "A humpback that became stuck in the Baltic seemed to unite a nation in hope. Rescue efforts followed, and then finger-pointing."
+      },
+      {
+        "char": "💰",
+        "label": "crypto exchange blockchain.com files for ipo",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcmVKTzBMck9qNWYyQXozbG5QYks1ZjdEMktQVGZKTUlETkw5RUI5b1hvb3c0S2lqbFpLN3Jvd3FvNUNIOTgyME5ISUxhLWhCZXl3bzlhWkE3NTMwV2ZJdVlhdnc3Y0xGSzNobDFPQWxBaEM4TXVGOEpkenVnc29RV3h0Y1hWNlFXc21ZVnNxVF9WNmlHUGV4Vjc2NTBiSGZwaVU3c0toWlpXbW8?oc=5",
+        "title": "Crypto exchange Blockchain.com confidentially files for IPO - Reuters",
+        "summary": "Crypto exchange Blockchain.com confidentially files for IPO Reuters"
+      },
+      {
+        "char": "🌍",
+        "label": "colombia's climate crossroads election",
+        "url": "https://www.theguardian.com/world/2026/may/21/colombia-climate-crossroads-trumpism-casts-shadow-presidential-election",
+        "title": "Colombia’s climate crossroads: Trumpism casts shadow over presidential battle",
+        "summary": "Colombia is a global leader in climate activism. Could US influence drag country to a future of mining and fracking? Several hours after dark in a quiet Caribbean neighbourhood, a cluster of environmental activists gather on plastic chai..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
