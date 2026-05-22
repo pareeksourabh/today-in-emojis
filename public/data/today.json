@@ -1,41 +1,41 @@
 {
   "date": "2026-05-22",
-  "timestamp": "2026-05-22T02:34:33Z",
+  "timestamp": "2026-05-22T00:00:00Z",
   "emojis": [
     {
-      "char": "🦠",
-      "label": "uganda restricts travel over ebola outbreak",
-      "url": "https://www.nytimes.com/2026/05/21/world/africa/uganda-ebola-clinics-congo-us.html",
-      "title": "Uganda Restricts Travel with Congo Over Ebola Outbreak",
-      "summary": "Uganda said that flights to and from the Democratic Republic of Congo would be temporarily suspended, as the outbreak appeared to spread to a rebel-controlled province in Congo."
-    },
-    {
       "char": "🐋",
-      "label": "timmy the whale stranded in germany",
+      "label": "timmy the whale's strange rescue",
       "url": "https://www.nytimes.com/2026/05/20/world/europe/timmy-whale-dead-denmark-rescue.html",
       "title": "Timmy the Whale Got Stranded Off the German Coast. Then Things Got Weird.",
       "summary": "A humpback that became stuck in the Baltic seemed to unite a nation in hope. Rescue efforts followed, and then finger-pointing."
     },
     {
-      "char": "🛢️",
-      "label": "exxon nearing deal to pump oil in venezuela",
-      "url": "https://www.nytimes.com/2026/05/21/world/americas/exxon-venezuela-oil-trump.html",
-      "title": "Exxon Is Nearing a Deal to Pump Oil in Venezuela, Marking a Victory for Trump",
-      "summary": "The U.S. oil giant is negotiating a deal to pump oil in Venezuela, ending a standoff with its socialist rulers and marking a victory for President Trump."
+      "char": "🦠",
+      "label": "rubio criticizes who on ebola",
+      "url": "https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola",
+      "title": "Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts",
+      "summary": "US secretary of state says WHO was ‘a little late’ in identifying deadly Ebola outbreak in the DRC and Uganda The US secretary of state, Marco Rubio, said on Tuesday that the World Health Organization (WHO) was “a little late” in identif..."
     },
     {
-      "char": "🌍",
-      "label": "colombia's climate crossroads and elections",
-      "url": "https://www.theguardian.com/world/2026/may/21/colombia-climate-crossroads-trumpism-casts-shadow-presidential-election",
-      "title": "Colombia’s climate crossroads: Trumpism casts shadow over presidential battle",
-      "summary": "Colombia is a global leader in climate activism. Could US influence drag country to a future of mining and fracking? Several hours after dark in a quiet Caribbean neighbourhood, a cluster of environmental activists gather on plastic chai..."
+      "char": "🇮🇷",
+      "label": "iran's military control revealed",
+      "url": "https://www.nytimes.com/2026/05/21/world/middleeast/iran-revolutionary-guards.html",
+      "title": "The Hard-Line Military Fraternity Running Iran",
+      "summary": "Decision making in the country is guided by a small group of men associated with the Islamic Revolutionary Guards Corps."
     },
     {
-      "char": "🇨🇺",
-      "label": "cubans outraged at us charges against castro",
-      "url": "https://www.theguardian.com/world/2026/may/21/cuba-us-attack-raul-castro-indictment",
-      "title": "Cubans outraged at US charges against Raúl Castro as fears of military strikes grow",
-      "summary": "It’s a nerve-racking time for Havana neighbours of top Cuban officials as fears of US attack mount A new question in being asked in Havana as people digest the news that the US has brought criminal charges against Cuba’s 94-year-old form..."
+      "char": "🔥",
+      "label": "fire destroys sacred hall in japan",
+      "url": "https://www.nytimes.com/2026/05/21/world/asia/japan-fire-eternal-flame-reikado.html",
+      "title": "Fire Destroys Sacred Buddhist Hall in Japan that Housed ‘Eternal Flame’",
+      "summary": "The flame, which spiritual leaders say has been continuously lit for more than 1,200 years, was salvaged after the blaze and moved to a different site."
+    },
+    {
+      "char": "🚗",
+      "label": "berlin's car culture war",
+      "url": "https://www.nytimes.com/2026/05/21/world/europe/berlin-car-ban.html",
+      "title": "In Berlin, Cars Are a Culture War Flashpoint",
+      "summary": "With municipal elections approaching, conservatives and progressives are sparring over congestion in the city center and how to fix it."
     }
   ],
   "source": "ai-openai",
