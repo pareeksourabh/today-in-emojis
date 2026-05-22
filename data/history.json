@@ -43339,5 +43339,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-22",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "us-iran cease-fire efforts",
+        "url": "https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html",
+        "title": "Regional Mediators Rush to Save U.S.-Iran Cease-Fire",
+        "summary": "Pakistan and Qatar have dispatched teams to Tehran under the looming threat of resumed war, after weeks of diplomacy failed to produce an agreement."
+      },
+      {
+        "char": "⚖️",
+        "label": "turkey opposition court fight",
+        "url": "https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss",
+        "title": "Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan",
+        "summary": "The appeal court declared Özgür Özel's party leadership victory void, further cementing the president's grip on power."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola cases surge in drc",
+        "url": "https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc",
+        "title": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC",
+        "summary": "Situation described as ‘deeply worrisome’ by officials as aid cuts and community distrust impede responders The Ebola outbreak in the Democratic Republic of the Congo poses a “very high” risk to the country, the World Health Organization..."
+      },
+      {
+        "char": "🇯🇲",
+        "label": "jamaican language debate",
+        "url": "https://www.theguardian.com/news/2026/may/21/jamaica-parliament-language-english-patois",
+        "title": "‘It’s broken English’: MP’s attempt to speak Jamaican in parliament sparks language row",
+        "summary": "Parliamentary rule that only English is allowed has reignited debate about language, legitimacy and postcolonial identity When the Jamaican MP Nekeisha Burchell stood up to give her maiden speech, she was keenly aware of how much her cou..."
+      },
+      {
+        "char": "🚨",
+        "label": "manhunt in philippines",
+        "url": "https://www.nytimes.com/2026/05/22/world/asia/manhunt-philippines-bato-dela-rosa-fugitive.html",
+        "title": "Manhunt Underway in Philippines for Duterte Ally Who Is Evading I.C.C. Warrant",
+        "summary": "The fugitive, Senator Ronald dela Rosa, had sought refuge in the country’s Senate last week, eventually giving government agents the slip."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
