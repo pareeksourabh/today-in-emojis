@@ -43251,5 +43251,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-22",
+    "emojis": [
+      {
+        "char": "🇨🇺",
+        "label": "rubio doubts diplomacy with cuba",
+        "url": "https://www.theguardian.com/us-news/2026/may/22/marco-rubio-doubtful-diplomacy-cuba-trump-renews-threat-military-action",
+        "title": "Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action",
+        "summary": "US secretary of state says president would like a negotiated agreement with Havana but likelihood ‘is not high’ The US president, Donald Trump, and the secretary of state, Marco Rubio, on Thursday again raised the spectre of military int..."
+      },
+      {
+        "char": "🦠",
+        "label": "uganda restricts travel over ebola",
+        "url": "https://www.nytimes.com/2026/05/21/world/africa/uganda-ebola-clinics-congo-us.html",
+        "title": "Uganda Restricts Travel with Congo Over Ebola Outbreak",
+        "summary": "Uganda said that flights to and from the Democratic Republic of Congo would be temporarily suspended, as the outbreak appeared to spread to a rebel-controlled province in Congo."
+      },
+      {
+        "char": "🔥",
+        "label": "crowd sets ebola hospital tents on fire",
+        "url": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
+        "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
+        "summary": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial."
+      },
+      {
+        "char": "📈",
+        "label": "hate crimes rising in the uk",
+        "url": "https://www.nytimes.com/2026/05/22/world/europe/hate-crime-rise-uk-religion-race.html",
+        "title": "Why Islamophobic, Antisemitic and Racist Crimes Are Rising in the UK",
+        "summary": "Islamophobic, antisemitic and racist crimes are being fueled by online disinformation, global instability and divisive political rhetoric, experts say."
+      },
+      {
+        "char": "🔍",
+        "label": "manhunt for fugitive in philippines",
+        "url": "https://www.nytimes.com/2026/05/22/world/asia/manhunt-philippines-bato-dela-rosa-fugitive.html",
+        "title": "Manhunt Underway in Philippines for Duterte Ally Who Is Evading I.C.C. Warrant",
+        "summary": "The fugitive, Senator Ronald dela Rosa, had sought refuge in the country’s Senate last week, eventually giving government agents the slip."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
