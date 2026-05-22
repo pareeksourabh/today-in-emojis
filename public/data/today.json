@@ -1,43 +1,204 @@
 {
   "date": "2026-05-22",
-  "timestamp": "2026-05-22T17:30:34Z",
+  "timestamp": "2026-05-22T00:00:00Z",
   "emojis": [
     {
-      "char": "🕊️",
-      "label": "us-iran cease-fire efforts",
-      "url": "https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html",
-      "title": "Regional Mediators Rush to Save U.S.-Iran Cease-Fire",
-      "summary": "Pakistan and Qatar have dispatched teams to Tehran under the looming threat of resumed war, after weeks of diplomacy failed to produce an agreement."
+      "char": "🦠",
+      "label": "uganda restricts travel over ebola",
+      "url": "https://www.nytimes.com/2026/05/21/world/africa/uganda-ebola-clinics-congo-us.html",
+      "title": "Uganda Restricts Travel with Congo Over Ebola Outbreak",
+      "summary": "Uganda said that flights to and from the Democratic Republic of Congo would be temporarily suspended, as the outbreak appeared to spread to a rebel-controlled province in Congo."
     },
     {
-      "char": "⚖️",
-      "label": "turkey opposition court fight",
-      "url": "https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss",
-      "title": "Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan",
-      "summary": "The appeal court declared Özgür Özel's party leadership victory void, further cementing the president's grip on power."
+      "char": "🔥",
+      "label": "crowd sets ebola hospital tents on fire",
+      "url": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
+      "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
+      "summary": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial."
+    },
+    {
+      "char": "⚓",
+      "label": "iran claims control of strait of hormuz",
+      "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran steps up claim to control Strait of Hormuz",
+      "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway."
+    },
+    {
+      "char": "🤝",
+      "label": "macron addresses reparations for slavery",
+      "url": "https://www.theguardian.com/news/2026/may/21/macron-pressure-reparatory-justice-france-slave-trade-legacies-enslavement",
+      "title": "Macron says France must address issue of reparations for its role in slave trade",
+      "summary": "French president’s use of term comes as demand grows for formal discussion on addressing legacies of enslavement Emmanuel Macron has said reparations for France’s role in hundreds of years of enslavement of African people is an issue tha..."
+    },
+    {
+      "char": "✈️",
+      "label": "air france guilty of manslaughter over crash",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "summary": "The companies were found guilty by a French court over an air disaster which killed 228 people."
+    },
+    {
+      "char": "🐋",
+      "label": "timmy the whale's strange rescue",
+      "url": "https://www.nytimes.com/2026/05/20/world/europe/timmy-whale-dead-denmark-rescue.html",
+      "title": "Timmy the Whale Got Stranded Off the German Coast. Then Things Got Weird.",
+      "summary": "A humpback that became stuck in the Baltic seemed to unite a nation in hope. Rescue efforts followed, and then finger-pointing."
     },
     {
       "char": "🦠",
-      "label": "ebola cases surge in drc",
-      "url": "https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc",
-      "title": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC",
-      "summary": "Situation described as ‘deeply worrisome’ by officials as aid cuts and community distrust impede responders The Ebola outbreak in the Democratic Republic of the Congo poses a “very high” risk to the country, the World Health Organization..."
+      "label": "rubio criticizes who on ebola",
+      "url": "https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola",
+      "title": "Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts",
+      "summary": "US secretary of state says WHO was ‘a little late’ in identifying deadly Ebola outbreak in the DRC and Uganda The US secretary of state, Marco Rubio, said on Tuesday that the World Health Organization (WHO) was “a little late” in identif..."
     },
     {
-      "char": "🇯🇲",
-      "label": "jamaican language debate",
-      "url": "https://www.theguardian.com/news/2026/may/21/jamaica-parliament-language-english-patois",
-      "title": "‘It’s broken English’: MP’s attempt to speak Jamaican in parliament sparks language row",
-      "summary": "Parliamentary rule that only English is allowed has reignited debate about language, legitimacy and postcolonial identity When the Jamaican MP Nekeisha Burchell stood up to give her maiden speech, she was keenly aware of how much her cou..."
+      "char": "🇮🇷",
+      "label": "iran's military control revealed",
+      "url": "https://www.nytimes.com/2026/05/21/world/middleeast/iran-revolutionary-guards.html",
+      "title": "The Hard-Line Military Fraternity Running Iran",
+      "summary": "Decision making in the country is guided by a small group of men associated with the Islamic Revolutionary Guards Corps."
     },
     {
-      "char": "🚨",
-      "label": "manhunt in philippines",
+      "char": "🔥",
+      "label": "fire destroys sacred hall in japan",
+      "url": "https://www.nytimes.com/2026/05/21/world/asia/japan-fire-eternal-flame-reikado.html",
+      "title": "Fire Destroys Sacred Buddhist Hall in Japan that Housed ‘Eternal Flame’",
+      "summary": "The flame, which spiritual leaders say has been continuously lit for more than 1,200 years, was salvaged after the blaze and moved to a different site."
+    },
+    {
+      "char": "🚗",
+      "label": "berlin's car culture war",
+      "url": "https://www.nytimes.com/2026/05/21/world/europe/berlin-car-ban.html",
+      "title": "In Berlin, Cars Are a Culture War Flashpoint",
+      "summary": "With municipal elections approaching, conservatives and progressives are sparring over congestion in the city center and how to fix it."
+    },
+    {
+      "char": "🇨🇺",
+      "label": "rubio says cuba is threat to us",
+      "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
+      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+      "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\"."
+    },
+    {
+      "char": "👑",
+      "label": "queen pushed for prince andrew's role",
+      "url": "https://www.nytimes.com/2026/05/21/world/europe/prince-andrew-appointment-queen-uk.html",
+      "title": "Queen Elizabeth Pushed for Ex-Prince Andrew to Get Envoy Position, New Documents Show",
+      "summary": "Andrew Mountbatten-Windsor is accused of sharing secrets with Jeffrey Epstein when he was a British trade envoy. Newly released documents shed some light on how he got the appointment."
+    },
+    {
+      "char": "🦠",
+      "label": "us choosing not to stop ebola outbreak",
+      "url": "https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health",
+      "title": "US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say",
+      "summary": "Hundreds of cases reported in the DRC after USAID has been dismantled and key scientific research canceled A previously undetected outbreak of Ebola is coursing through parts of central Africa, and the US appears to be doing little to he..."
+    },
+    {
+      "char": "🛢️",
+      "label": "exxon nearing deal to pump oil in venezuela",
+      "url": "https://www.nytimes.com/2026/05/21/world/americas/exxon-venezuela-oil-trump.html",
+      "title": "Exxon Is Nearing a Deal to Pump Oil in Venezuela, Marking a Victory for Trump",
+      "summary": "The U.S. oil giant is negotiating a deal to pump oil in Venezuela, ending a standoff with its socialist rulers and marking a victory for President Trump."
+    },
+    {
+      "char": "🌍",
+      "label": "macron addresses reparations for slavery",
+      "url": "https://www.theguardian.com/news/2026/may/21/macron-pressure-reparatory-justice-france-slave-trade-legacies-enslavement",
+      "title": "Macron says France must address issue of reparations for its role in slave trade",
+      "summary": "French president’s use of term comes as demand grows for formal discussion on addressing legacies of enslavement Emmanuel Macron has said reparations for France’s role in hundreds of years of enslavement of African people is an issue tha..."
+    },
+    {
+      "char": "🕵️‍♂",
+      "label": "manhunt for fugitive in philippines",
       "url": "https://www.nytimes.com/2026/05/22/world/asia/manhunt-philippines-bato-dela-rosa-fugitive.html",
       "title": "Manhunt Underway in Philippines for Duterte Ally Who Is Evading I.C.C. Warrant",
       "summary": "The fugitive, Senator Ronald dela Rosa, had sought refuge in the country’s Senate last week, eventually giving government agents the slip."
+    },
+    {
+      "char": "💼",
+      "label": "banks rift hampers euro payments",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXZtN3VvZk5kS0wzNTNlRl9TM0FUNFZpYzg3VHF3Uy1EazlwaDZleEFabks3WjU4MXFtWEtGQVlKZk9VcHJIX1pta291b3dQYWlsTFBPdE9GMk1JTUswN1NyMFk5MVQ0OWJ6OW5pb3lPMy1YOFpnQThETFRpWEhQbnNhYlpaeFJMbUxZdXFyMjc1MkttTlVRWWZCQXNCS1BFZW9WalVIN2ZpWFV6bkVYRVhURU1FcUJHOEVNUHZsakU0bGlw?oc=5",
+      "title": "ECB, banks rift hampers Europe's efforts to loosen reliance on US payments giants - Reuters",
+      "summary": "ECB, banks rift hampers Europe's efforts to loosen reliance on US payments giants Reuters"
+    },
+    {
+      "char": "🎭",
+      "label": "ai fakes evidence in actor's case",
+      "url": "https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&at_campaign=rss",
+      "title": "AI used to fake evidence that ended Korean actor's career, say police",
+      "summary": "Police are seeking an arrest warrant for a YouTuber who allegedly fabricated evidence to defame actor Kim Soo-hyun."
+    },
+    {
+      "char": "🇨🇺",
+      "label": "outrage over us charges against castro",
+      "url": "https://www.theguardian.com/world/2026/may/21/cuba-us-attack-raul-castro-indictment",
+      "title": "Cubans outraged at US charges against Raúl Castro as fears of military strikes grow",
+      "summary": "It’s a nerve-racking time for Havana neighbours of top Cuban officials as fears of US attack mount A new question in being asked in Havana as people digest the news that the US has brought criminal charges against Cuba’s 94-year-old form..."
+    },
+    {
+      "char": "👶",
+      "label": "taliban decree formalizes child marriage",
+      "url": "https://www.nytimes.com/2026/05/22/world/asia/taliban-child-marriage-afghanistan.html",
+      "title": "New Taliban Decree on Divorce Formalizes Child Marriage in Afghanistan, U.N. Warns",
+      "summary": "A new Afghan law requires girls to wait until puberty before seeking to get out of a marriage. It also requires mediation for women seeking to escape an abusive husband."
+    },
+    {
+      "char": "🕌",
+      "label": "rise in hate crimes in the uk",
+      "url": "https://www.nytimes.com/2026/05/22/world/europe/hate-crime-rise-uk-religion-race.html",
+      "title": "Why Islamophobic, Antisemitic and Racist Crimes Are Rising in the UK",
+      "summary": "Islamophobic, antisemitic and racist crimes are being fueled by online disinformation, global instability and divisive political rhetoric, experts say."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola outbreak public health crisis",
+      "url": "https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health",
+      "title": "US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say",
+      "summary": "Hundreds of cases reported in the DRC after USAID has been dismantled and key scientific research canceled A previously undetected outbreak of Ebola is coursing through parts of central Africa, and the US appears to be doing little to he..."
+    },
+    {
+      "char": "👮‍♂️",
+      "label": "investigation into prince andrew",
+      "url": "https://www.nytimes.com/2026/05/22/world/europe/police-investigating-former-prince-andrew-britain.html",
+      "title": "Police Investigation of Former Prince Andrew Examines Reports of Sexual Misconduct",
+      "summary": "A British police force said it was assessing a report that a woman had been taken to an address in Windsor in 2010 for sexual purposes. No charges have been filed."
+    },
+    {
+      "char": "🌍",
+      "label": "cuba diplomacy and military threats",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/marco-rubio-doubtful-diplomacy-cuba-trump-renews-threat-military-action",
+      "title": "Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action",
+      "summary": "US secretary of state says president would like a negotiated agreement with Havana but likelihood ‘is not high’ The US president, Donald Trump, and the secretary of state, Marco Rubio, on Thursday again raised the spectre of military int..."
+    },
+    {
+      "char": "🐕",
+      "label": "settler violence in the west bank",
+      "url": "https://www.nytimes.com/2026/05/22/world/middleeast/settler-attack-dog-west-bank.html",
+      "title": "In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way",
+      "summary": "A video of a Palestinian family’s dog being savagely beaten has spread widely in the days after the attack."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "The news items reflect a sense of urgency and fear surrounding health outbreaks, social issues, and geopolitical tensions, warranting a concerned emotional response.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
