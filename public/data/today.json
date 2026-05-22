@@ -1,41 +1,41 @@
 {
   "date": "2026-05-22",
-  "timestamp": "2026-05-22T14:47:58Z",
+  "timestamp": "2026-05-22T00:00:00Z",
   "emojis": [
     {
-      "char": "🇯🇲",
-      "label": "jamaican language debate in parliament",
-      "url": "https://www.theguardian.com/news/2026/may/21/jamaica-parliament-language-english-patois",
-      "title": "‘It’s broken English’: MP’s attempt to speak Jamaican in parliament sparks language row",
-      "summary": "Parliamentary rule that only English is allowed has reignited debate about language, legitimacy and postcolonial identity When the Jamaican MP Nekeisha Burchell stood up to give her maiden speech, she was keenly aware of how much her cou..."
+      "char": "🕌",
+      "label": "rise in hate crimes in the uk",
+      "url": "https://www.nytimes.com/2026/05/22/world/europe/hate-crime-rise-uk-religion-race.html",
+      "title": "Why Islamophobic, Antisemitic and Racist Crimes Are Rising in the UK",
+      "summary": "Islamophobic, antisemitic and racist crimes are being fueled by online disinformation, global instability and divisive political rhetoric, experts say."
     },
     {
       "char": "🦠",
-      "label": "ebola travel ban controversy",
-      "url": "https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan",
-      "title": "Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’",
-      "summary": "Africa CDC says restrictions could increase public health risks and highlight ‘deeper structural injustice’ in global health A US travel ban for people coming from the Democratic Republic of the Congo, Uganda or South Sudan in response t..."
+      "label": "ebola outbreak public health crisis",
+      "url": "https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health",
+      "title": "US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say",
+      "summary": "Hundreds of cases reported in the DRC after USAID has been dismantled and key scientific research canceled A previously undetected outbreak of Ebola is coursing through parts of central Africa, and the US appears to be doing little to he..."
+    },
+    {
+      "char": "👮‍♂️",
+      "label": "investigation into prince andrew",
+      "url": "https://www.nytimes.com/2026/05/22/world/europe/police-investigating-former-prince-andrew-britain.html",
+      "title": "Police Investigation of Former Prince Andrew Examines Reports of Sexual Misconduct",
+      "summary": "A British police force said it was assessing a report that a woman had been taken to an address in Windsor in 2010 for sexual purposes. No charges have been filed."
     },
     {
       "char": "🌍",
-      "label": "colombia's climate and politics",
-      "url": "https://www.theguardian.com/world/2026/may/21/colombia-climate-crossroads-trumpism-casts-shadow-presidential-election",
-      "title": "Colombia’s climate crossroads: Trumpism casts shadow over presidential battle",
-      "summary": "Colombia is a global leader in climate activism. Could US influence drag country to a future of mining and fracking? Several hours after dark in a quiet Caribbean neighbourhood, a cluster of environmental activists gather on plastic chai..."
+      "label": "cuba diplomacy and military threats",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/marco-rubio-doubtful-diplomacy-cuba-trump-renews-threat-military-action",
+      "title": "Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action",
+      "summary": "US secretary of state says president would like a negotiated agreement with Havana but likelihood ‘is not high’ The US president, Donald Trump, and the secretary of state, Marco Rubio, on Thursday again raised the spectre of military int..."
     },
     {
-      "char": "🤖",
-      "label": "ai fakes evidence in actor's case",
-      "url": "https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&at_campaign=rss",
-      "title": "AI used to fake evidence that ended Korean actor's career, say police",
-      "summary": "Police are seeking an arrest warrant for a YouTuber who allegedly fabricated evidence to defame actor Kim Soo-hyun."
-    },
-    {
-      "char": "📈",
-      "label": "us equity funds see outflows",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDg5azU0V3lnNXZHLWg0MnFiZU50dnh2MzBhSWMwN0s4blF3VXVuYkxyazdxb1hrQ01ORjRUWUVxNzNQcEN5TmdPaERTN3lMWTZ1RnhkQ0E4aS1BVXY5Njg4YTRkTjN6ZHhnbFA5bkMzSURmWENiS2NQb18wS09xQS1mMXFzSjMySVZBdWtEYlVlMVpJazJUSXJ4eU13OUM2X2g5UkZn?oc=5",
-      "title": "U.S. equity funds record outflows on caution over higher yields - Reuters",
-      "summary": "U.S. equity funds record outflows on caution over higher yields Reuters"
+      "char": "🐕",
+      "label": "settler violence in the west bank",
+      "url": "https://www.nytimes.com/2026/05/22/world/middleeast/settler-attack-dog-west-bank.html",
+      "title": "In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way",
+      "summary": "A video of a Palestinian family’s dog being savagely beaten has spread widely in the days after the attack."
     }
   ],
   "source": "ai-openai",
