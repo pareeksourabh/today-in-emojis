@@ -43207,5 +43207,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-22",
+    "emojis": [
+      {
+        "char": "🇨🇺",
+        "label": "cuba crisis after raúl castro indictment",
+        "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
+        "title": "Three ways Cuba crisis could play out  after US indictment of Raúl Castro",
+        "summary": "The Trump administration has been putting tremendous economic pressure on the island's Communist government."
+      },
+      {
+        "char": "🪖",
+        "label": "us sends more troops to poland",
+        "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+        "title": "US to send 5,000 more troops to Poland, Trump says",
+        "summary": "The announcement comes a week after the Pentagon cancelled a planned deployment of 4,000 troops to the country."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola fears divert air france flight",
+        "url": "https://www.nytimes.com/2026/05/21/world/africa/air-france-ebola-flight.html",
+        "title": "Air France Flight to U.S. Is Diverted to Montreal Over Congolese Passenger Amid Ebola Fears",
+        "summary": "An Air France plane was sent to Montreal because a passenger from the Democratic Republic of Congo was on board. The U.S. has closed its borders to recent visitors to the African country."
+      },
+      {
+        "char": "🌍",
+        "label": "australian man dies hiking machu picchu",
+        "url": "https://www.bbc.com/news/articles/c202z3yz9p5o?at_medium=RSS&at_campaign=rss",
+        "title": "Australian man dies after falling down ravine on hike to Machu Picchu",
+        "summary": "The body of Matthew Cameron Paton, 53, was found on Thursday, about 300m down a steep slope."
+      },
+      {
+        "char": "🎬",
+        "label": "mira nair finds new audience",
+        "url": "https://www.nytimes.com/2026/05/21/world/asia/filmmaker-miru-nair-india-zohran-mamdani.html",
+        "title": "Mira Nair Finds a New Audience as Mother of Zohran Mamdani",
+        "summary": "“I feel like we have given him to the world,” the filmmaker said in a conversation with The New York Times. Her next movie is about one of India’s greatest artists."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
