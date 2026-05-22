@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news items reflect a sense of urgency and fear surrounding health outbreaks, social issues, and geopolitical tensions, warranting a concerned emotional response.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day is marked by distressing events, including the spread of Ebola and violent reactions in the DRC, alongside troubling geopolitical tensions and social issues, all contributing to a somber atmosphere.",
     "palette": [
       "😢",
       "😡",
