@@ -1,204 +1,43 @@
 {
-  "date": "2026-05-21",
-  "timestamp": "2026-05-21T00:00:00Z",
+  "date": "2026-05-22",
+  "timestamp": "2026-05-22T00:00:00Z",
   "emojis": [
     {
-      "char": "🇷🇺",
-      "label": "putin visits china for talks",
-      "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
-      "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
-      "summary": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Editor."
-    },
-    {
-      "char": "🇮🇷",
-      "label": "iran threatens u.s. strikes",
-      "url": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html",
-      "title": "Iran Threatens to Strike Beyond the Middle East if the U.S. Resumes Attacks",
-      "summary": "The warning was issued as President Trump and Vice President JD Vance say progress is being made toward a deal, while keeping open the threat of renewed strikes."
-    },
-    {
-      "char": "🇨🇺",
-      "label": "castro charged with murder",
-      "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
-      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
-      "summary": "Castro and five others are charged with conspiracy to kill US nationals, murder, and destruction of aircraft"
-    },
-    {
-      "char": "🌍",
-      "label": "ebola crisis sparks debate",
-      "url": "https://www.nytimes.com/2026/05/20/world/africa/ebola-virus-outbreak-africa.html",
-      "title": "Ebola Crisis Sparks Debate Over Global Health Double Standards",
-      "summary": "To some Africans, the claim that the continent’s largest health agency had already bungled its response scratched a familiar wound."
-    },
-    {
-      "char": "🇧🇴",
-      "label": "bolivia protests escalate",
-      "url": "https://www.theguardian.com/world/2026/may/20/bolivia-protests-coup-paz-pereira",
-      "title": "Bolivia rocked by protests as US warns of ‘coup d’état’",
-      "summary": "Clashes between demonstrators and police in La Paz have entered second week, shaking centre-right president Protests blocking roads across Bolivia and turning the centre of the capital, La Paz, into a battleground between demonstrators a..."
-    },
-    {
-      "char": "⚔️",
-      "label": "iran threatens us strikes",
-      "url": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html",
-      "title": "Iran Threatens to Strike Beyond the Middle East if the U.S. Resumes Attacks",
-      "summary": "The warning was issued as President Trump and Vice President JD Vance say progress is being made toward a deal, while keeping open the threat of renewed strikes."
-    },
-    {
-      "char": "🇨🇺",
-      "label": "castro charged with murder",
-      "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
-      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
-      "summary": "Cuba's current president says the charges against Castro - including conspiracy to kill US nationals and destruction of aircraft - are a \"political manoeuvre\"."
-    },
-    {
       "char": "🦠",
-      "label": "ebola crisis sparks debate",
-      "url": "https://www.nytimes.com/2026/05/20/world/africa/ebola-virus-outbreak-africa.html",
-      "title": "Ebola Crisis Sparks Debate Over Global Health Double Standards",
-      "summary": "To some Africans, the claim that the continent’s largest health agency had already bungled its response scratched a familiar wound."
-    },
-    {
-      "char": "🌍",
-      "label": "bolivia protests coup",
-      "url": "https://www.theguardian.com/world/2026/may/20/bolivia-protests-coup-paz-pereira",
-      "title": "Bolivia rocked by protests as US warns of ‘coup d’état’",
-      "summary": "Clashes between demonstrators and police in La Paz have entered second week, shaking centre-right president Protests blocking roads across Bolivia and turning the centre of the capital, La Paz, into a battleground between demonstrators a..."
-    },
-    {
-      "char": "💉",
-      "label": "canada plasma death investigation",
-      "url": "https://www.theguardian.com/world/2026/may/20/canada-plasma-death",
-      "title": "Canada faces calls for investigation into death of woman after plasma donation",
-      "summary": "International student Rodiyat Alabede, 22, died due to a ‘perfect storm’ of lax safety protocols, advocates say Patient advocates in Canada have called for a new investigation into the death of a young woman who was donating blood plasma..."
-    },
-    {
-      "char": "🌍",
-      "label": "sierra leone receives us deportees",
-      "url": "https://www.bbc.com/news/articles/cn9pzjvly53o?at_medium=RSS&at_campaign=rss",
-      "title": "Sierra Leone becomes latest African country to receive deportees from US",
-      "summary": "Nine deportees arrive from the US as part of Donald Trump's crackdown on illegal immigration."
-    },
-    {
-      "char": "🐋",
-      "label": "timmy the whale's strange rescue",
-      "url": "https://www.nytimes.com/2026/05/20/world/europe/timmy-whale-dead-denmark-rescue.html",
-      "title": "Timmy the Whale Got Stranded Off the German Coast. Then Things Got Weird.",
-      "summary": "A humpback that became stuck in the Baltic seemed to unite a nation in hope. Rescue efforts followed, and then finger-pointing."
-    },
-    {
-      "char": "🇨🇺",
-      "label": "raul castro indicted by us",
-      "url": "https://www.theguardian.com/world/2026/may/20/cuba-raul-castro-indictment",
-      "title": "US indicts former Cuban president Raúl Castro as it seeks to oust regime",
-      "summary": "Charges filed in Miami against 94-year-old for allegedly shooting down exiles’ planes in 1996 The United States issued a federal criminal indictment against Raúl Castro , Cuba ’s former president, and five others on Wednesday in a signif..."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola outbreak not global threat",
-      "url": "https://www.nytimes.com/2026/05/20/world/africa/ebola-congo-tedros-rubio.html",
-      "title": "Ebola Outbreak Is Unlikely to Become Global Threat, W.H.O. Says",
-      "summary": "Tedros Adhanom Ghebreyesus, the World Health Organization’s director general, said the outbreak in central Africa was “not a pandemic emergency.”"
-    },
-    {
-      "char": "📽️",
-      "label": "mira nair's new audience",
-      "url": "https://www.nytimes.com/2026/05/21/world/asia/filmmaker-miru-nair-india-zohran-mamdani.html",
-      "title": "Mira Nair Finds a New Audience as Mother of Zohran Mamdani",
-      "summary": "“I feel like we have given him to the world,” the filmmaker said in a conversation with The New York Times. Her next movie is about one of India’s greatest artists."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola crisis sparks debate over health standards",
-      "url": "https://www.nytimes.com/2026/05/20/world/africa/ebola-virus-outbreak-africa.html",
-      "title": "Ebola Crisis Sparks Debate Over Global Health Double Standards",
-      "summary": "To some Africans, the claim that the continent’s largest health agency had already bungled its response scratched a familiar wound."
-    },
-    {
-      "char": "📉",
-      "label": "nvidia's record result fails to impress",
-      "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
-      "title": "Nvidia's latest record result fails to impress investors",
-      "summary": "The chip giant reported more stellar results but its shares fell after-hours as investors wonder if it can keep up its pace of growth amid greater competition."
-    },
-    {
-      "char": "🎤",
-      "label": "colombian music legend totó dies at 85",
-      "url": "https://www.theguardian.com/music/2026/may/20/toto-la-momposina-vocalist-and-colombian-music-legend-dies-aged-85",
-      "title": "Totó la Momposina, vocalist and Colombian music legend, dies aged 85",
-      "summary": "The singer was one of her country’s most’s popular musical exports, and travelled the world with an evangelistic vision for spreading cumbia music Totó la Momposina, one of the most celebrated musicians in Colombian history, has died age..."
-    },
-    {
-      "char": "🌍",
-      "label": "iran gains leverage in regional conflicts",
-      "url": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triangular-coercion.html",
-      "title": "How Iran Gained Leverage in the War",
-      "summary": "Outmatched militarily, Iran used “triangular coercion” by attacking Gulf states and closing the Strait of Hormuz. It points to a long-term U.S. vulnerability."
-    },
-    {
-      "char": "🚗",
-      "label": "berlin car ban sparks culture war",
-      "url": "https://www.nytimes.com/2026/05/21/world/europe/berlin-car-ban.html",
-      "title": "In Berlin, Cars Are a Culture War Flashpoint",
-      "summary": "With municipal elections approaching, conservatives and progressives are sparring over congestion in the city center and how to fix it."
+      "label": "uganda restricts travel over ebola",
+      "url": "https://www.nytimes.com/2026/05/21/world/africa/uganda-ebola-clinics-congo-us.html",
+      "title": "Uganda Restricts Travel with Congo Over Ebola Outbreak",
+      "summary": "Uganda said that flights to and from the Democratic Republic of Congo would be temporarily suspended, as the outbreak appeared to spread to a rebel-controlled province in Congo."
     },
     {
       "char": "🔥",
-      "label": "fire destroys sacred hall in japan",
-      "url": "https://www.nytimes.com/2026/05/21/world/asia/japan-fire-eternal-flame-reikado.html",
-      "title": "Fire Destroys Sacred Buddhist Hall in Japan that Housed ‘Eternal Flame’",
-      "summary": "The flame, which spiritual leaders say has been continuously lit for more than 1,200 years, was salvaged after the blaze and moved to a different site."
+      "label": "crowd sets ebola hospital tents on fire",
+      "url": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
+      "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
+      "summary": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial."
     },
     {
-      "char": "🚗",
-      "label": "cars culture war in berlin",
-      "url": "https://www.nytimes.com/2026/05/21/world/europe/berlin-car-ban.html",
-      "title": "In Berlin, Cars Are a Culture War Flashpoint",
-      "summary": "With municipal elections approaching, conservatives and progressives are sparring over congestion in the city center and how to fix it."
+      "char": "⚓",
+      "label": "iran claims control of strait of hormuz",
+      "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran steps up claim to control Strait of Hormuz",
+      "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway."
+    },
+    {
+      "char": "🤝",
+      "label": "macron addresses reparations for slavery",
+      "url": "https://www.theguardian.com/news/2026/may/21/macron-pressure-reparatory-justice-france-slave-trade-legacies-enslavement",
+      "title": "Macron says France must address issue of reparations for its role in slave trade",
+      "summary": "French president’s use of term comes as demand grows for formal discussion on addressing legacies of enslavement Emmanuel Macron has said reparations for France’s role in hundreds of years of enslavement of African people is an issue tha..."
     },
     {
       "char": "✈️",
-      "label": "air france guilty of manslaughter",
+      "label": "air france guilty of manslaughter over crash",
       "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
       "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
       "summary": "The companies were found guilty by a French court over an air disaster which killed 228 people."
-    },
-    {
-      "char": "🦠",
-      "label": "uganda unaware of ebola clinics",
-      "url": "https://www.nytimes.com/2026/05/21/world/africa/uganda-ebola-clinics-congo-us.html",
-      "title": "Uganda Says It’s Not Aware of Ebola Clinics Promised by U.S.",
-      "summary": "The State Department said it would fund up to 50 clinics in Uganda and the Democratic Republic of Congo. “I don’t know the ones they are talking about,” a top Ugandan official said."
-    },
-    {
-      "char": "💰",
-      "label": "nvidia earnings fail to impress",
-      "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
-      "title": "Nvidia's latest record earnings fail to impress investors",
-      "summary": "The chip giant reported more stellar results but its shares fell after-hours as investors wonder if it can keep up its pace of growth amid greater competition."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😡",
-    "emoji": "😡",
-    "rationale": "Today's news is dominated by conflict and political tensions, from threats of strikes in the Middle East to protests in Bolivia. This atmosphere of anger and unrest is palpable across multiple stories.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
