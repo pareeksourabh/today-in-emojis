@@ -43295,5 +43295,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-22",
+    "emojis": [
+      {
+        "char": "🇯🇲",
+        "label": "jamaican language debate in parliament",
+        "url": "https://www.theguardian.com/news/2026/may/21/jamaica-parliament-language-english-patois",
+        "title": "‘It’s broken English’: MP’s attempt to speak Jamaican in parliament sparks language row",
+        "summary": "Parliamentary rule that only English is allowed has reignited debate about language, legitimacy and postcolonial identity When the Jamaican MP Nekeisha Burchell stood up to give her maiden speech, she was keenly aware of how much her cou..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola travel ban controversy",
+        "url": "https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan",
+        "title": "Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’",
+        "summary": "Africa CDC says restrictions could increase public health risks and highlight ‘deeper structural injustice’ in global health A US travel ban for people coming from the Democratic Republic of the Congo, Uganda or South Sudan in response t..."
+      },
+      {
+        "char": "🌍",
+        "label": "colombia's climate and politics",
+        "url": "https://www.theguardian.com/world/2026/may/21/colombia-climate-crossroads-trumpism-casts-shadow-presidential-election",
+        "title": "Colombia’s climate crossroads: Trumpism casts shadow over presidential battle",
+        "summary": "Colombia is a global leader in climate activism. Could US influence drag country to a future of mining and fracking? Several hours after dark in a quiet Caribbean neighbourhood, a cluster of environmental activists gather on plastic chai..."
+      },
+      {
+        "char": "🤖",
+        "label": "ai fakes evidence in actor's case",
+        "url": "https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&at_campaign=rss",
+        "title": "AI used to fake evidence that ended Korean actor's career, say police",
+        "summary": "Police are seeking an arrest warrant for a YouTuber who allegedly fabricated evidence to defame actor Kim Soo-hyun."
+      },
+      {
+        "char": "📈",
+        "label": "us equity funds see outflows",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDg5azU0V3lnNXZHLWg0MnFiZU50dnh2MzBhSWMwN0s4blF3VXVuYkxyazdxb1hrQ01ORjRUWUVxNzNQcEN5TmdPaERTN3lMWTZ1RnhkQ0E4aS1BVXY5Njg4YTRkTjN6ZHhnbFA5bkMzSURmWENiS2NQb18wS09xQS1mMXFzSjMySVZBdWtEYlVlMVpJazJUSXJ4eU13OUM2X2g5UkZn?oc=5",
+        "title": "U.S. equity funds record outflows on caution over higher yields - Reuters",
+        "summary": "U.S. equity funds record outflows on caution over higher yields Reuters"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
