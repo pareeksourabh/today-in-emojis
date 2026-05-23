@@ -43427,5 +43427,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-23",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "ebola travel ban not a solution",
+        "url": "https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan",
+        "title": "Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’",
+        "summary": "Africa CDC says restrictions could increase public health risks and highlight ‘deeper structural injustice’ in global health A US travel ban for people coming from the Democratic Republic of the Congo, Uganda or South Sudan in response t..."
+      },
+      {
+        "char": "👮‍♂️",
+        "label": "prince andrew sexual misconduct probe",
+        "url": "https://www.nytimes.com/2026/05/22/world/europe/police-investigating-former-prince-andrew-britain.html",
+        "title": "Police Investigation of Former Prince Andrew Examines Reports of Sexual Misconduct",
+        "summary": "A British police force said it was assessing a report that a woman had been taken to an address in Windsor in 2010 for sexual purposes. No charges have been filed."
+      },
+      {
+        "char": "🛸",
+        "label": "us government releases ufo reports",
+        "url": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
+        "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
+        "summary": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela artist seeks asylum in spain",
+        "url": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum",
+        "title": "Venezuelan makeup artist who was deported to El Salvador seeks asylum in Spain: ‘I feel safe here’",
+        "summary": "Andry José Hernández Romero was deported from the US to El Salvador’s notorious Cecot prison before he was allowed to return to Venezuela One of the Venezuelan men sent from the US to El Salvador’s most notorious prison by Donald Trump h..."
+      },
+      {
+        "char": "⚖️",
+        "label": "taliban decree formalizes child marriage",
+        "url": "https://www.nytimes.com/2026/05/22/world/asia/taliban-child-marriage-afghanistan.html",
+        "title": "New Taliban Decree on Divorce Formalizes Child Marriage in Afghanistan, U.N. Warns",
+        "summary": "A new Afghan law requires girls to wait until puberty before seeking to get out of a marriage. It also requires mediation for women seeking to escape an abusive husband."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]

@@ -1,14 +1,7 @@
 {
   "date": "2026-05-23",
-  "timestamp": "2026-05-23T00:00:00Z",
+  "timestamp": "2026-05-23T06:37:54Z",
   "emojis": [
-    {
-      "char": "🕊️",
-      "label": "talks with putin debated in europe",
-      "url": "https://www.nytimes.com/2026/05/22/world/europe/ukraine-russia-putin-europe-peace-talks.html",
-      "title": "Before Europe Anoints Someone to Talk to Putin, It Debates What to Talk About",
-      "summary": "Europeans are considering appointing an envoy to Ukraine peace talks with Russia. First, many warn, they need to decide what to ask."
-    },
     {
       "char": "🦠",
       "label": "ebola travel ban not a solution",
@@ -17,25 +10,32 @@
       "summary": "Africa CDC says restrictions could increase public health risks and highlight ‘deeper structural injustice’ in global health A US travel ban for people coming from the Democratic Republic of the Congo, Uganda or South Sudan in response t..."
     },
     {
+      "char": "👮‍♂️",
+      "label": "prince andrew sexual misconduct probe",
+      "url": "https://www.nytimes.com/2026/05/22/world/europe/police-investigating-former-prince-andrew-britain.html",
+      "title": "Police Investigation of Former Prince Andrew Examines Reports of Sexual Misconduct",
+      "summary": "A British police force said it was assessing a report that a woman had been taken to an address in Windsor in 2010 for sexual purposes. No charges have been filed."
+    },
+    {
+      "char": "🛸",
+      "label": "us government releases ufo reports",
+      "url": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
+      "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
+      "summary": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years."
+    },
+    {
+      "char": "🌍",
+      "label": "venezuela artist seeks asylum in spain",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum",
+      "title": "Venezuelan makeup artist who was deported to El Salvador seeks asylum in Spain: ‘I feel safe here’",
+      "summary": "Andry José Hernández Romero was deported from the US to El Salvador’s notorious Cecot prison before he was allowed to return to Venezuela One of the Venezuelan men sent from the US to El Salvador’s most notorious prison by Donald Trump h..."
+    },
+    {
       "char": "⚖️",
-      "label": "hate crimes rising in the uk",
-      "url": "https://www.nytimes.com/2026/05/22/world/europe/hate-crime-rise-uk-religion-race.html",
-      "title": "Why Islamophobic, Antisemitic and Racist Crimes Are Rising in the UK",
-      "summary": "Islamophobic, antisemitic and racist crimes are being fueled by online disinformation, global instability and divisive political rhetoric, experts say."
-    },
-    {
-      "char": "🚀",
-      "label": "spacex launches starship v3",
-      "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-      "title": "SpaceX launches massive Starship V3 rocket on test flight",
-      "summary": "The launch of the largest and most powerful in history has happened, after a first attempted launch on Thursday was postponed."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "alberta's secession push",
-      "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
-      "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
-      "summary": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid The Canadian prime minister, Mark Carney , has said that Alberta is “essential” to the country’s future, hours after the provinc..."
+      "label": "taliban decree formalizes child marriage",
+      "url": "https://www.nytimes.com/2026/05/22/world/asia/taliban-child-marriage-afghanistan.html",
+      "title": "New Taliban Decree on Divorce Formalizes Child Marriage in Afghanistan, U.N. Warns",
+      "summary": "A new Afghan law requires girls to wait until puberty before seeking to get out of a marriage. It also requires mediation for women seeking to escape an abusive husband."
     }
   ],
   "source": "ai-openai",
