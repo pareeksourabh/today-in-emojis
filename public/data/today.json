@@ -1,41 +1,41 @@
 {
   "date": "2026-05-23",
-  "timestamp": "2026-05-23T06:37:54Z",
+  "timestamp": "2026-05-23T00:00:00Z",
   "emojis": [
     {
+      "char": "📈",
+      "label": "wall street hits record high",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcjM1c2ozQWFpSmVwbjV3TDhFQkJFQmVjUk5OalcwOHRHbjNwZFRFcG0xd3JaRmZOSDNmMXlxdjZ4eGp2UXFKSkVJakZMeWMyQ045N3N5WDhvYVdyVWY0UkRwc0hBTGlJX0JvRk90NWIxS3QtTFZtcG9zbjBCOVRwdUR2WW45TGlfeTlHT0s5MFluXzEwdHJGVnJ3UFpORWhWMktV?oc=5",
+      "title": "Wall Street rises, Dow hits record high as Middle East hopes lift sentiment - Reuters",
+      "summary": "Wall Street rises, Dow hits record high as Middle East hopes lift sentiment Reuters"
+    },
+    {
+      "char": "💰",
+      "label": "fenwick settles ftx case",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZnQ2S2ozYk5UOFVIRGdZSnNGbHBjbDdwaEJwSmhQWlRRXzZScEd4eWN6Q29laEVvaHhJSXY4MW9tZ2NsM0dhMEpYY3dJNGxuZXU0eUpYOFFQVG1IZF9raVk0aDNfQnVVZ2t5RkM3Zm5KVHlTbVVhTVluUkFQbnpPLUtMaGNHWm1JTFg4UTFFcGI4NVVYTmgxZ2F2QWN6Z0h3UXptblc2TjJVWTFvWVdkT3RNdjc5R2s?oc=5",
+      "title": "Law firm Fenwick agrees to pay $54 million in settlement over FTX work - Reuters",
+      "summary": "Law firm Fenwick agrees to pay $54 million in settlement over FTX work Reuters"
+    },
+    {
       "char": "🦠",
-      "label": "ebola travel ban not a solution",
+      "label": "ebola travel ban not solution",
       "url": "https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan",
       "title": "Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’",
       "summary": "Africa CDC says restrictions could increase public health risks and highlight ‘deeper structural injustice’ in global health A US travel ban for people coming from the Democratic Republic of the Congo, Uganda or South Sudan in response t..."
     },
     {
-      "char": "👮‍♂️",
-      "label": "prince andrew sexual misconduct probe",
-      "url": "https://www.nytimes.com/2026/05/22/world/europe/police-investigating-former-prince-andrew-britain.html",
-      "title": "Police Investigation of Former Prince Andrew Examines Reports of Sexual Misconduct",
-      "summary": "A British police force said it was assessing a report that a woman had been taken to an address in Windsor in 2010 for sexual purposes. No charges have been filed."
-    },
-    {
-      "char": "🛸",
-      "label": "us government releases ufo reports",
-      "url": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
-      "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
-      "summary": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years."
+      "char": "⚖️",
+      "label": "judge dismisses indictment case",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
+      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
+      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García..."
     },
     {
       "char": "🌍",
-      "label": "venezuela artist seeks asylum in spain",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum",
-      "title": "Venezuelan makeup artist who was deported to El Salvador seeks asylum in Spain: ‘I feel safe here’",
-      "summary": "Andry José Hernández Romero was deported from the US to El Salvador’s notorious Cecot prison before he was allowed to return to Venezuela One of the Venezuelan men sent from the US to El Salvador’s most notorious prison by Donald Trump h..."
-    },
-    {
-      "char": "⚖️",
-      "label": "taliban decree formalizes child marriage",
-      "url": "https://www.nytimes.com/2026/05/22/world/asia/taliban-child-marriage-afghanistan.html",
-      "title": "New Taliban Decree on Divorce Formalizes Child Marriage in Afghanistan, U.N. Warns",
-      "summary": "A new Afghan law requires girls to wait until puberty before seeking to get out of a marriage. It also requires mediation for women seeking to escape an abusive husband."
+      "label": "settler violence in west bank",
+      "url": "https://www.nytimes.com/2026/05/22/world/middleeast/settler-attack-dog-west-bank.html",
+      "title": "In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way",
+      "summary": "A video of a Palestinian family’s dog being savagely beaten has spread widely in the days after the attack."
     }
   ],
   "source": "ai-openai",
