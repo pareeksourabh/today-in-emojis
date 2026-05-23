@@ -1,41 +1,41 @@
 {
   "date": "2026-05-23",
-  "timestamp": "2026-05-23T00:00:00Z",
+  "timestamp": "2026-05-23T16:44:29Z",
   "emojis": [
     {
-      "char": "🇰🇷",
+      "char": "🇨🇦",
+      "label": "alberta essential to canada",
+      "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
+      "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
+      "summary": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid The Canadian prime minister, Mark Carney , has said that Alberta is “essential” to the country’s future, hours after the provinc..."
+    },
+    {
+      "char": "⚖️",
+      "label": "case dismissed against abrego garcia",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
+      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
+      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García..."
+    },
+    {
+      "char": "⚽",
+      "label": "congo soccer team isolates due to ebola",
+      "url": "https://www.nytimes.com/2026/05/23/world/africa/congo-soccer-ebola-world-cup.html",
+      "title": "White House Tells Congo’s Soccer Team to Isolate, Citing Ebola Outbreak",
+      "summary": "The team, now in Belgium, must isolate there for 21 days or risk being denied permission to come to Houston for the World Cup, an official said."
+    },
+    {
+      "char": "📦",
       "label": "tension over coupang in south korea",
       "url": "https://www.nytimes.com/2026/05/23/world/asia/coupang-south-korea-us.html",
       "title": "‘Amazon.com of South Korea’ Is New Source of Tension With U.S.",
       "summary": "A corporate compliance dispute between South Korea’s government and the online retailer Coupang is testing the resilience of U.S.-South Korean ties."
     },
     {
-      "char": "⚽",
-      "label": "congo soccer team isolation due to ebola",
-      "url": "https://www.nytimes.com/2026/05/23/world/africa/congo-soccer-ebola-world-cup.html",
-      "title": "White House Tells Congo’s Soccer Team to Isolate, Citing Ebola Outbreak",
-      "summary": "The team, now in Belgium, must isolate there for 21 days or risk being denied permission to come to Houston for the World Cup, an official said."
-    },
-    {
-      "char": "⚖️",
-      "label": "judge dismisses case against abrego garcia",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
-      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García..."
-    },
-    {
-      "char": "💥",
-      "label": "xi calls for rescue after mine explosion",
-      "url": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html",
-      "title": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 90 in China",
-      "summary": "The death count rose drastically on Saturday as the Chinese leader, Xi Jinping, called for an investigation and emphasized the need to “hold those responsible to account.”"
-    },
-    {
-      "char": "🛬",
-      "label": "refugees face detention in canada",
-      "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
-      "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
-      "summary": "As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claims As each day in US detention passes, Markens Appolon can feel the life he had dreamed of sli..."
+      "char": "🕊️",
+      "label": "netanyahu's changing role with trump",
+      "url": "https://www.nytimes.com/2026/05/23/world/middleeast/israel-trump-iran.html",
+      "title": "Once Trump’s Co-Pilot Against Iran, Netanyahu Is Now a Mere Passenger",
+      "summary": "A partner in the war, Israel has been largely left out of the peace talks, a humbling setback for its prime minister with significant risks for the country."
     }
   ],
   "source": "ai-openai",
