@@ -1,41 +1,41 @@
 {
   "date": "2026-05-23",
-  "timestamp": "2026-05-23T13:45:41Z",
+  "timestamp": "2026-05-23T00:00:00Z",
   "emojis": [
     {
-      "char": "🦠",
-      "label": "ebola risk raised in dr congo",
-      "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
-      "title": "Ebola risk raised to 'very high' in DR Congo",
-      "summary": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level."
+      "char": "🇰🇷",
+      "label": "tension over coupang in south korea",
+      "url": "https://www.nytimes.com/2026/05/23/world/asia/coupang-south-korea-us.html",
+      "title": "‘Amazon.com of South Korea’ Is New Source of Tension With U.S.",
+      "summary": "A corporate compliance dispute between South Korea’s government and the online retailer Coupang is testing the resilience of U.S.-South Korean ties."
     },
     {
-      "char": "🌍",
-      "label": "us-iran cease-fire mediators",
-      "url": "https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html",
-      "title": "Regional Mediators Rush to Save U.S.-Iran Cease-Fire",
-      "summary": "Pakistan and Qatar have dispatched teams to Iran under the looming threat of resumed war, after weeks of diplomacy failed to produce an agreement."
+      "char": "⚽",
+      "label": "congo soccer team isolation due to ebola",
+      "url": "https://www.nytimes.com/2026/05/23/world/africa/congo-soccer-ebola-world-cup.html",
+      "title": "White House Tells Congo’s Soccer Team to Isolate, Citing Ebola Outbreak",
+      "summary": "The team, now in Belgium, must isolate there for 21 days or risk being denied permission to come to Houston for the World Cup, an official said."
     },
     {
-      "char": "🚀",
-      "label": "spacex launches starship v3",
-      "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-      "title": "SpaceX launches massive Starship V3 rocket on test flight",
-      "summary": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed."
-    },
-    {
-      "char": "📱",
-      "label": "phone theft threats in london",
-      "url": "https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html",
-      "title": "Their Phones Were Stolen in London. Then the Threats Started.",
-      "summary": "Tens of thousands of smartphones were reported stolen in the British capital in recent years. For some victims, losing their phone was only the beginning."
+      "char": "⚖️",
+      "label": "judge dismisses case against abrego garcia",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
+      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
+      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García..."
     },
     {
       "char": "💥",
-      "label": "coal mine explosion in china",
+      "label": "xi calls for rescue after mine explosion",
       "url": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html",
       "title": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 90 in China",
       "summary": "The death count rose drastically on Saturday as the Chinese leader, Xi Jinping, called for an investigation and emphasized the need to “hold those responsible to account.”"
+    },
+    {
+      "char": "🛬",
+      "label": "refugees face detention in canada",
+      "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
+      "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
+      "summary": "As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claims As each day in US detention passes, Markens Appolon can feel the life he had dreamed of sli..."
     }
   ],
   "source": "ai-openai",
