@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news highlights significant global concerns including geopolitical tensions, health crises, and societal issues, reflecting an overall feeling of unease and anxiety.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day's news is overshadowed by serious global challenges, including rising violence, health crises like Ebola, and political tensions, evoking a sense of sadness and concern for humanity.",
     "palette": [
       "😢",
       "😡",
