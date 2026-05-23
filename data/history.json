@@ -43471,5 +43471,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-23",
+    "emojis": [
+      {
+        "char": "🇸🇳",
+        "label": "senegal's president sacks pm sonko",
+        "url": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
+        "title": "Senegal's president sacks prime minister Sonko after months of tensions",
+        "summary": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola cases triple in drc",
+        "url": "https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc",
+        "title": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC",
+        "summary": "Situation described as ‘deeply worrisome’ by officials as aid cuts and community distrust impede responders The Ebola outbreak in the Democratic Republic of the Congo poses a “very high” risk to the country, the World Health Organization..."
+      },
+      {
+        "char": "🤝",
+        "label": "europe debates talks with putin",
+        "url": "https://www.nytimes.com/2026/05/22/world/europe/ukraine-russia-putin-europe-peace-talks.html",
+        "title": "Before Europe Anoints Someone to Talk to Putin, It Debates What to Talk About",
+        "summary": "Europeans are considering appointing an envoy to Ukraine peace talks with Russia. First, many warn, they need to decide what to ask."
+      },
+      {
+        "char": "💥",
+        "label": "90 killed in chinese coal mine blast",
+        "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+        "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
+        "summary": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China."
+      },
+      {
+        "char": "🚀",
+        "label": "spacex launches starship v3 rocket",
+        "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
+        "title": "SpaceX launches massive Starship V3 rocket on test flight",
+        "summary": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
