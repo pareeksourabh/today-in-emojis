@@ -43383,5 +43383,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-23",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "rubio reassures nato allies",
+        "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+        "title": "Rubio tries to reassure Nato allies over US troop deployments",
+        "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment."
+      },
+      {
+        "char": "🐕",
+        "label": "settler violence in west bank",
+        "url": "https://www.nytimes.com/2026/05/22/world/middleeast/settler-attack-dog-west-bank.html",
+        "title": "In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way",
+        "summary": "A video of a Palestinian family’s dog being savagely beaten has spread widely in the days after the attack."
+      },
+      {
+        "char": "🛒",
+        "label": "walmart executives depart",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZW1rN0dZcXFhRHE1dDJyRlI0QktXbHA0NFgtdm5YblhvYjBFY2ktSlhRZHZIc0Y1WXBHNGVMaHZDVzBtbkZxUmpmdXAweWVMWGhCQW5YR3hzZnY4Znp6cUFIdkRkamtxQkt5VUJEME5FeklmcjRYbkRsMUc2RGExd2s0eWVMRXpzU0hDWGVGekNwN3lhbWFuRWpvRG13NGlXOVVLRnludEFseUhXVlRfc0hzUkVVcTA1SmxpYQ?oc=5",
+        "title": "Senior Walmart executives depart amid rejig under new CEO, memo shows - Reuters",
+        "summary": "Senior Walmart executives depart amid rejig under new CEO, memo shows Reuters"
+      },
+      {
+        "char": "🦠",
+        "label": "ebola travel ban not solution",
+        "url": "https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan",
+        "title": "Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’",
+        "summary": "Africa CDC says restrictions could increase public health risks and highlight ‘deeper structural injustice’ in global health A US travel ban for people coming from the Democratic Republic of the Congo, Uganda or South Sudan in response t..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "alberta secession plans",
+        "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
+        "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
+        "summary": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid The Canadian prime minister, Mark Carney , has said that Alberta is “essential” to the country’s future, hours after the provinc..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
