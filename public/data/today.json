@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "The day's news highlights multiple tragedies, including the Ebola outbreak, a deadly explosion in a coal mine, and ongoing violence in conflict zones, evoking a strong sense of sorrow and concern.",
+    "emotion_label": "Overwhelmed",
+    "emoji": "😨",
+    "rationale": "Today's news highlights a series of crises, including rapid spread of Ebola, devastating mining disasters, and escalating violence in conflict zones, evoking a sense of fear and concern.",
     "palette": [
       "😢",
       "😡",
