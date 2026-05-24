@@ -43691,5 +43691,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-24",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "alberta's independence push",
+        "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
+        "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
+        "summary": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid The Canadian prime minister, Mark Carney , has said that Alberta is “essential” to the country’s future, hours after the provinc..."
+      },
+      {
+        "char": "⚖️",
+        "label": "case dismissed for abrego garcia",
+        "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
+        "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
+        "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García..."
+      },
+      {
+        "char": "🚗",
+        "label": "future of us automakers in canada",
+        "url": "https://www.nytimes.com/2026/05/24/world/canada/auto-industry-canada-detroit-ontario-car-tariffs.html",
+        "title": "Do U.S. Automakers Have a Future in Canada?",
+        "summary": "Detroit-based automakers pioneered open trade between Canada and the United States, benefiting both countries. President Trump’s trade war now leaves their future in the country in question."
+      },
+      {
+        "char": "🍽️",
+        "label": "hunger as a weapon of war",
+        "url": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
+        "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
+        "summary": "More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018 Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in drc",
+        "url": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola",
+        "title": "White House pauses removal of detainees to DRC as Ebola outbreak widens",
+        "summary": "But Trump administration will not return detainees deported to third countries in disease-stricken region The Trump administration will temporarily pause the removal of refugees to the Democratic Republic of the Congo (DRC) during a spir..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
