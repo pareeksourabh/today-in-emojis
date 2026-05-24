@@ -1,204 +1,43 @@
 {
-  "date": "2026-05-23",
-  "timestamp": "2026-05-23T00:00:00Z",
+  "date": "2026-05-24",
+  "timestamp": "2026-05-24T00:00:00Z",
   "emojis": [
     {
-      "summary": "The popular leader of a region bordering Ukraine is replaced by a military commander as President Vladimir V. Putin looks to reward those who fought in his war.",
-      "title": "From General to Governor: Putin Pushes a ‘New Elite’ of War Veterans",
-      "url": "https://www.nytimes.com/2026/05/22/world/europe/russia-belgorod-governor.html",
-      "label": "putin's new elite of war veterans",
-      "char": "🇷🇺"
-    },
-    {
-      "title": "Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’",
-      "summary": "Africa CDC says restrictions could increase public health risks and highlight ‘deeper structural injustice’ in global health A US travel ban for people coming from the Democratic Republic of the Congo, Uganda or South Sudan in response t...",
       "char": "🦠",
-      "url": "https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan",
-      "label": "ebola travel ban not the solution"
+      "label": "ebola outbreak in drc",
+      "url": "https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo",
+      "title": "‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC",
+      "summary": "New strain of virus, aid cuts, and cultural norms around burials and touch add to difficulties in stemming outbreak The warnings from aid groups and healthcare workers in the Democratic Republic of the Congo have been stark, their calls..."
     },
     {
-      "url": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
-      "label": "alberta's essential role in canada",
-      "char": "🇨🇦",
-      "summary": "Alberta's decision to hold a referendum on separation has been widely criticised, including the separatists who say the question is not definitive enough.",
-      "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation"
+      "char": "🇻🇪",
+      "label": "venezuelan artist seeks asylum in spain",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum",
+      "title": "Venezuelan makeup artist who was deported to El Salvador seeks asylum in Spain: ‘I feel safe here’",
+      "summary": "Andry José Hernández Romero was deported from the US to El Salvador’s notorious Cecot prison before he was allowed to return to Venezuela One of the Venezuelan men sent from the US to El Salvador’s most notorious prison by Donald Trump h..."
     },
     {
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
-      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García...",
-      "char": "⚖️",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
-      "label": "judge dismisses case against abrego"
+      "char": "🔥",
+      "label": "california state of emergency declared",
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "title": "California declares state of emergency as fire crews race to contain toxic chemical leak",
+      "summary": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode."
     },
     {
-      "title": "Regional Mediators Rush to Save U.S.-Iran Cease-Fire",
-      "summary": "Pakistan and Qatar have dispatched teams to Iran under the looming threat of resumed war, after weeks of diplomacy failed to produce an agreement.",
-      "char": "🕊️",
-      "url": "https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html",
-      "label": "iran ceasefire negotiations ongoing"
-    },
-    {
-      "summary": "Europeans are considering appointing an envoy to Ukraine peace talks with Russia. First, many warn, they need to decide what to ask.",
-      "url": "https://www.nytimes.com/2026/05/22/world/europe/ukraine-russia-putin-europe-peace-talks.html",
-      "label": "talks with putin debated in europe",
-      "char": "🕊️",
-      "title": "Before Europe Anoints Someone to Talk to Putin, It Debates What to Talk About"
-    },
-    {
-      "title": "Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’",
-      "summary": "Africa CDC says restrictions could increase public health risks and highlight ‘deeper structural injustice’ in global health A US travel ban for people coming from the Democratic Republic of the Congo, Uganda or South Sudan in response t...",
-      "url": "https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan",
-      "label": "ebola travel ban not a solution",
-      "char": "🦠"
-    },
-    {
-      "title": "Why Islamophobic, Antisemitic and Racist Crimes Are Rising in the UK",
-      "url": "https://www.nytimes.com/2026/05/22/world/europe/hate-crime-rise-uk-religion-race.html",
-      "summary": "Islamophobic, antisemitic and racist crimes are being fueled by online disinformation, global instability and divisive political rhetoric, experts say.",
-      "char": "⚖️",
-      "label": "hate crimes rising in the uk"
-    },
-    {
-      "summary": "The launch of the largest and most powerful in history has happened, after a first attempted launch on Thursday was postponed.",
-      "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-      "label": "spacex launches starship v3",
-      "char": "🚀",
-      "title": "SpaceX launches massive Starship V3 rocket on test flight"
-    },
-    {
-      "char": "🇨🇦",
-      "label": "alberta's secession push",
-      "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
-      "summary": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid The Canadian prime minister, Mark Carney , has said that Alberta is “essential” to the country’s future, hours after the provinc...",
-      "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcjM1c2ozQWFpSmVwbjV3TDhFQkJFQmVjUk5OalcwOHRHbjNwZFRFcG0xd3JaRmZOSDNmMXlxdjZ4eGp2UXFKSkVJakZMeWMyQ045N3N5WDhvYVdyVWY0UkRwc0hBTGlJX0JvRk90NWIxS3QtTFZtcG9zbjBCOVRwdUR2WW45TGlfeTlHT0s5MFluXzEwdHJGVnJ3UFpORWhWMktV?oc=5",
-      "label": "wall street hits record high",
-      "summary": "Wall Street rises, Dow hits record high as Middle East hopes lift sentiment Reuters",
-      "title": "Wall Street rises, Dow hits record high as Middle East hopes lift sentiment - Reuters",
-      "char": "📈"
-    },
-    {
-      "summary": "Law firm Fenwick agrees to pay $54 million in settlement over FTX work Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZnQ2S2ozYk5UOFVIRGdZSnNGbHBjbDdwaEJwSmhQWlRRXzZScEd4eWN6Q29laEVvaHhJSXY4MW9tZ2NsM0dhMEpYY3dJNGxuZXU0eUpYOFFQVG1IZF9raVk0aDNfQnVVZ2t5RkM3Zm5KVHlTbVVhTVluUkFQbnpPLUtMaGNHWm1JTFg4UTFFcGI4NVVYTmgxZ2F2QWN6Z0h3UXptblc2TjJVWTFvWVdkT3RNdjc5R2s?oc=5",
-      "label": "fenwick settles ftx case",
-      "char": "💰",
-      "title": "Law firm Fenwick agrees to pay $54 million in settlement over FTX work - Reuters"
-    },
-    {
-      "summary": "Africa CDC says restrictions could increase public health risks and highlight ‘deeper structural injustice’ in global health A US travel ban for people coming from the Democratic Republic of the Congo, Uganda or South Sudan in response t...",
-      "url": "https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan",
-      "label": "ebola travel ban not solution",
-      "char": "🦠",
-      "title": "Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’"
-    },
-    {
-      "char": "⚖️",
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
-      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García...",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
-      "label": "judge dismisses indictment case"
-    },
-    {
-      "title": "In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way",
-      "char": "🌍",
-      "url": "https://www.nytimes.com/2026/05/22/world/middleeast/settler-attack-dog-west-bank.html",
-      "label": "settler violence in west bank",
-      "summary": "A video of a Palestinian family’s dog being savagely beaten has spread widely in the days after the attack."
-    },
-    {
-      "summary": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level.",
-      "title": "Ebola risk raised to 'very high' in DR Congo",
-      "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
-      "label": "ebola risk raised in dr congo",
-      "char": "🦠"
-    },
-    {
-      "title": "Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’",
-      "summary": "Africa CDC says restrictions could increase public health risks and highlight ‘deeper structural injustice’ in global health A US travel ban for people coming from the Democratic Republic of the Congo, Uganda or South Sudan in response t...",
-      "char": "✈️",
-      "url": "https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan",
-      "label": "us travel ban on ebola not solution"
-    },
-    {
-      "summary": "Law firm Fenwick agrees to pay $54 million in settlement over FTX work Reuters",
-      "title": "Law firm Fenwick agrees to pay $54 million in settlement over FTX work - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZnQ2S2ozYk5UOFVIRGdZSnNGbHBjbDdwaEJwSmhQWlRRXzZScEd4eWN6Q29laEVvaHhJSXY4MW9tZ2NsM0dhMEpYY3dJNGxuZXU0eUpYOFFQVG1IZF9raVk0aDNfQnVVZ2t5RkM3Zm5KVHlTbVVhTVluUkFQbnpPLUtMaGNHWm1JTFg4UTFFcGI4NVVYTmgxZ2F2QWN6Z0h3UXptblc2TjJVWTFvWVdkT3RNdjc5R2s?oc=5",
-      "label": "fenwick pays $54m over ftx work",
-      "char": "💼"
-    },
-    {
-      "title": "Wall Street rises, Dow hits record high as Middle East hopes lift sentiment - Reuters",
-      "summary": "Wall Street rises, Dow hits record high as Middle East hopes lift sentiment Reuters",
-      "char": "📈",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcjM1c2ozQWFpSmVwbjV3TDhFQkJFQmVjUk5OalcwOHRHbjNwZFRFcG0xd3JaRmZOSDNmMXlxdjZ4eGp2UXFKSkVJakZMeWMyQ045N3N5WDhvYVdyVWY0UkRwc0hBTGlJX0JvRk90NWIxS3QtTFZtcG9zbjBCOVRwdUR2WW45TGlfeTlHT0s5MFluXzEwdHJGVnJ3UFpORWhWMktV?oc=5",
-      "label": "wall street hits record high"
-    },
-    {
-      "char": "⚖️",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
-      "label": "judge dismisses case against abrego garcia",
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
-      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García..."
-    },
-    {
-      "title": "‘Amazon.com of South Korea’ Is New Source of Tension With U.S.",
-      "label": "tension over coupang in south korea",
-      "summary": "A corporate compliance dispute between South Korea’s government and the online retailer Coupang is testing the resilience of U.S.-South Korean ties.",
-      "url": "https://www.nytimes.com/2026/05/23/world/asia/coupang-south-korea-us.html",
-      "char": "🇰🇷"
-    },
-    {
-      "char": "⚽",
-      "summary": "The team, now in Belgium, must isolate there for 21 days or risk being denied permission to come to Houston for the World Cup, an official said.",
-      "url": "https://www.nytimes.com/2026/05/23/world/africa/congo-soccer-ebola-world-cup.html",
-      "label": "congo soccer team isolation due to ebola",
-      "title": "White House Tells Congo’s Soccer Team to Isolate, Citing Ebola Outbreak"
-    },
-    {
-      "char": "⚖️",
-      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García...",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
-      "label": "judge dismisses case against abrego garcia",
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García"
-    },
-    {
-      "summary": "The death count rose drastically on Saturday as the Chinese leader, Xi Jinping, called for an investigation and emphasized the need to “hold those responsible to account.”",
-      "url": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html",
       "char": "💥",
-      "title": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 90 in China",
-      "label": "xi calls for rescue after mine explosion"
+      "label": "coal mine explosion in china",
+      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "title": "At least 82 killed in Chinese coal mine explosion",
+      "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years."
     },
     {
-      "label": "refugees face detention in canada",
-      "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
-      "char": "🛬",
-      "summary": "As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claims As each day in US detention passes, Markens Appolon can feel the life he had dreamed of sli...",
-      "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention"
+      "char": "⚔️",
+      "label": "israeli strikes in lebanon",
+      "url": "https://www.nytimes.com/2026/05/23/world/middleeast/israel-strikes-lebanon-medics.html",
+      "title": "Israeli Strikes Pummel Lebanon, Killing Medics Amid Fragile Truce",
+      "summary": "Saturday’s strikes damaged a main hospital in the Lebanese city of Tyre, as funerals for paramedics killed a day earlier were held."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "The day's news is overshadowed by serious global challenges, including rising violence, health crises like Ebola, and political tensions, evoking a sense of sadness and concern for humanity.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
