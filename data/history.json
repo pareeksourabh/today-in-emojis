@@ -43735,5 +43735,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-24",
+    "emojis": [
+      {
+        "char": "🪨",
+        "label": "china's worst mining disaster",
+        "url": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
+        "title": "BBC at the site of China's worst mining disaster in more than a decade",
+        "summary": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China."
+      },
+      {
+        "char": "🕊️",
+        "label": "us and iran peace deal updates",
+        "url": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump",
+        "title": "Iran War Live Updates: U.S. and Iran Signal Move Toward Initial Peace Deal, but Details Remain Murky",
+        "summary": "President Trump said the United States and Iran had “largely negotiated” an agreement, even as American and Iranian officials described the terms differently."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in drc",
+        "url": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola",
+        "title": "White House pauses removal of detainees to DRC as Ebola outbreak widens",
+        "summary": "But Trump administration will not return detainees deported to third countries in disease-stricken region The Trump administration will temporarily pause the removal of refugees to the Democratic Republic of the Congo (DRC) during a spir..."
+      },
+      {
+        "char": "⚰️",
+        "label": "burials amid lebanon war",
+        "url": "https://www.nytimes.com/2026/05/23/world/europe/lebanon-war-burials.html",
+        "title": "A Lull in Fighting Gave Time to Bury Their Dead",
+        "summary": "In the relative calm of the early days of a cease-fire, there were heart-rending scenes as people exhumed their loved ones from temporary graves and reburied them."
+      },
+      {
+        "char": "⚽",
+        "label": "fifa world cup broadcast rights",
+        "url": "https://www.nytimes.com/2026/05/24/world/europe/fifa-world-cup-fox-broadcast-rights.html",
+        "title": "How a Curious FIFA Deal Gave Fox a Huge Bargain for World Cup Broadcast Rights",
+        "summary": "A decision to stave off litigation between Fox and FIFA turned into a bonanza worth hundreds of millions of dollars in discounted World Cup rights to the broadcaster."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
