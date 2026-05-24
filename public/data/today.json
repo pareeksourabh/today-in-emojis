@@ -1,41 +1,41 @@
 {
   "date": "2026-05-24",
-  "timestamp": "2026-05-24T00:00:00Z",
+  "timestamp": "2026-05-24T07:25:02Z",
   "emojis": [
     {
-      "char": "🦠",
-      "label": "ebola outbreak in drc",
+      "char": "🕊️",
+      "label": "iran war updates and peace talks",
+      "url": "https://www.nytimes.com/live/2026/05/23/world/us-iran-war-trump",
+      "title": "Iran War Live Updates: Trump Says Peace Deal Is Near",
+      "summary": "President Trump said the United States and Iran had “largely negotiated” an agreement, but American and Iranian officials described the terms differently."
+    },
+    {
+      "char": "🚢",
+      "label": "britain's mission in strait of hormuz",
+      "url": "https://www.nytimes.com/2026/05/23/us/politics/britain-strait-of-hormuz-iran.html",
+      "title": "Britain Preparing for Mission That Could Clear Strait of Hormuz",
+      "summary": "At Gibraltar, at the tip of Spain, British forces are ready to deploy autonomous mine-hunting equipment if a peace agreement is achieved."
+    },
+    {
+      "char": "⚠️",
+      "label": "ebola outbreak concerns in drc",
       "url": "https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo",
       "title": "‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC",
       "summary": "New strain of virus, aid cuts, and cultural norms around burials and touch add to difficulties in stemming outbreak The warnings from aid groups and healthcare workers in the Democratic Republic of the Congo have been stark, their calls..."
     },
     {
-      "char": "💥",
-      "label": "coal mine explosion in china",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "title": "At least 82 killed in Chinese coal mine explosion",
-      "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "alberta's push for independence",
+      "char": "💔",
+      "label": "alberta's independence push",
       "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
       "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
       "summary": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid The Canadian prime minister, Mark Carney , has said that Alberta is “essential” to the country’s future, hours after the provinc..."
     },
     {
-      "char": "⚔️",
-      "label": "israel strikes lebanon",
-      "url": "https://www.nytimes.com/2026/05/23/world/middleeast/israel-strikes-lebanon-medics.html",
-      "title": "Israeli Strikes Pummel Lebanon, Killing Medics Amid Fragile Truce",
-      "summary": "Saturday’s strikes damaged a main hospital in the Lebanese city of Tyre, as funerals for paramedics killed a day earlier were held."
-    },
-    {
-      "char": "⚖️",
-      "label": "case dismissed for abrego garcia",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
-      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García..."
+      "char": "💥",
+      "label": "coal mine explosion in china",
+      "url": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html",
+      "title": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China",
+      "summary": "The Chinese leader, Xi Jinping, called for an investigation and emphasized the need to “hold those responsible to account.”"
     }
   ],
   "source": "ai-openai",
