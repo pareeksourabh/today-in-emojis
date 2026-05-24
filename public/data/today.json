@@ -1,41 +1,41 @@
 {
   "date": "2026-05-24",
-  "timestamp": "2026-05-24T07:25:02Z",
+  "timestamp": "2026-05-24T00:00:00Z",
   "emojis": [
     {
-      "char": "🕊️",
-      "label": "iran war updates and peace talks",
-      "url": "https://www.nytimes.com/live/2026/05/23/world/us-iran-war-trump",
-      "title": "Iran War Live Updates: Trump Says Peace Deal Is Near",
-      "summary": "President Trump said the United States and Iran had “largely negotiated” an agreement, but American and Iranian officials described the terms differently."
+      "char": "🇫🇷",
+      "label": "france bans israeli minister",
+      "url": "https://www.nytimes.com/2026/05/23/world/middleeast/ben-gvir-travel-ban-france.html",
+      "title": "France Bans Israeli Minister Over Treatment of Detained Flotilla Activists",
+      "summary": "Itamar Ben-Gvir, the Israeli national security minister, has long drawn criticism for his hard-line statements and harsh policies against Palestinian prisoners."
     },
     {
-      "char": "🚢",
-      "label": "britain's mission in strait of hormuz",
-      "url": "https://www.nytimes.com/2026/05/23/us/politics/britain-strait-of-hormuz-iran.html",
-      "title": "Britain Preparing for Mission That Could Clear Strait of Hormuz",
-      "summary": "At Gibraltar, at the tip of Spain, British forces are ready to deploy autonomous mine-hunting equipment if a peace agreement is achieved."
-    },
-    {
-      "char": "⚠️",
-      "label": "ebola outbreak concerns in drc",
-      "url": "https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo",
-      "title": "‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC",
-      "summary": "New strain of virus, aid cuts, and cultural norms around burials and touch add to difficulties in stemming outbreak The warnings from aid groups and healthcare workers in the Democratic Republic of the Congo have been stark, their calls..."
-    },
-    {
-      "char": "💔",
-      "label": "alberta's independence push",
+      "char": "🇨🇦",
+      "label": "alberta essential to canada",
       "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
       "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
       "summary": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid The Canadian prime minister, Mark Carney , has said that Alberta is “essential” to the country’s future, hours after the provinc..."
     },
     {
-      "char": "💥",
-      "label": "coal mine explosion in china",
-      "url": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html",
-      "title": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China",
-      "summary": "The Chinese leader, Xi Jinping, called for an investigation and emphasized the need to “hold those responsible to account.”"
+      "char": "🇨🇺",
+      "label": "rubio doubts diplomacy with cuba",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/marco-rubio-doubtful-diplomacy-cuba-trump-renews-threat-military-action",
+      "title": "Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action",
+      "summary": "US secretary of state says president would like a negotiated agreement with Havana but likelihood ‘is not high’ The US president, Donald Trump, and the secretary of state, Marco Rubio, on Thursday again raised the spectre of military int..."
+    },
+    {
+      "char": "🌊",
+      "label": "can concrete molds revive coral reefs?",
+      "url": "https://www.nytimes.com/2026/05/24/world/asia/can-concrete-molds-revive-coral-reefs-ruined-by-bombs-and-climate-change.html",
+      "title": "Can Concrete Molds Revive Coral Reefs Ruined by Bombs and Climate Change?",
+      "summary": "In a devastated section of the Coral Triangle in the Pacific Ocean, a conservation group is trying to build an artificial reef."
+    },
+    {
+      "char": "💔",
+      "label": "nascar champion dies from pneumonia",
+      "url": "https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss",
+      "title": "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
+      "summary": "The driver died aged 41 on Thursday after \"overwhelming complications\" from the illnesses."
     }
   ],
   "source": "ai-openai",
