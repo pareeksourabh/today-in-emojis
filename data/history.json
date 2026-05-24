@@ -43779,5 +43779,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-24",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in drc",
+        "url": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola",
+        "title": "White House pauses removal of detainees to DRC as Ebola outbreak widens",
+        "summary": "But Trump administration will not return detainees deported to third countries in disease-stricken region The Trump administration will temporarily pause the removal of refugees to the Democratic Republic of the Congo (DRC) during a spir..."
+      },
+      {
+        "char": "🏗️",
+        "label": "building collapse in philippines",
+        "url": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+        "title": "One killed and many feared trapped under collapsed building in Philippines",
+        "summary": "A Malaysian man has died and about 20 people are feared trapped at the site near Manila, officials say."
+      },
+      {
+        "char": "🍽️",
+        "label": "hunger as weapon of war",
+        "url": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
+        "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
+        "summary": "More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018 Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in..."
+      },
+      {
+        "char": "🇮🇱",
+        "label": "israel reacts to iran deal",
+        "url": "https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html",
+        "title": "Israeli Leaders Say Little About Trump’s Potential Iran Deal",
+        "summary": "Analysts said the near silence reflected worries that an agreement will not significantly degrade Iran’s nuclear and missile capabilities."
+      },
+      {
+        "char": "🚨",
+        "label": "suspect shot near white house",
+        "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+        "title": "Suspect killed after opening fire on Secret Service near White House",
+        "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
