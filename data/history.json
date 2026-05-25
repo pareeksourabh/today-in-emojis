@@ -43823,5 +43823,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-25",
+    "emojis": [
+      {
+        "char": "🕌",
+        "label": "cote d’ivoire wary of jihadist threat",
+        "url": "https://www.theguardian.com/world/2026/may/23/cote-divoire-wary-of-jihadist-threat-in-north-10-years-on-from-major-attack",
+        "title": "Côte d’Ivoire wary of jihadist threat in north 10 years on from major attack",
+        "summary": "Threat of jihadism continues to lurk along borders with Mali and Burkina Faso These days, when she is not organising the annual International Day of Reggae celebrations in Côte d’Ivoire, Rose Ebirim picks up litter scattered on the beach..."
+      },
+      {
+        "char": "⚖️",
+        "label": "us judge dismisses indictment against abrego",
+        "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
+        "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
+        "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García..."
+      },
+      {
+        "char": "🚀",
+        "label": "kyiv hit in russian missile attack",
+        "url": "https://www.nytimes.com/2026/05/24/world/europe/russia-ukraine-kyiv-attack-oreshnik-missile.html",
+        "title": "Kyiv, Ukraine, Hit in Russian Missile Attack",
+        "summary": "Buildings rattled in the Ukrainian capital for hours early Sunday. Russia launched an Oreshnik intermediate-range ballistic missile for only the third time in the war."
+      },
+      {
+        "char": "🦠",
+        "label": "caught flat-footed by ebola outbreak",
+        "url": "https://www.nytimes.com/2026/05/24/world/africa/ebola-virus-congo-response.html",
+        "title": "Caught Flat-Footed, a City Races to Catch Up With Ebola",
+        "summary": "The deadly virus has spread alarmingly in Congo for months. Only now is the response taking shape."
+      },
+      {
+        "char": "💣",
+        "label": "blast targeting train kills at least 20",
+        "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+        "title": "Blast targeting train kills at least 20 in Pakistan",
+        "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
