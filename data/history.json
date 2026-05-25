@@ -43955,5 +43955,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-25",
+    "emojis": [
+      {
+        "char": "🔫",
+        "label": "suspect killed near white house",
+        "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+        "title": "Suspect killed after opening fire on Secret Service near White House",
+        "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "alberta separatists push for independence",
+        "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
+        "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
+        "summary": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid The Canadian prime minister, Mark Carney , has said that Alberta is “essential” to the country’s future, hours after the provinc..."
+      },
+      {
+        "char": "🔥",
+        "label": "venezuela inmates protest alleged abuse",
+        "url": "https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses",
+        "title": "Venezuela inmates occupy prison roof and set fire to mattresses to highlight alleged abuse",
+        "summary": "Inmates at Barinas prison allege they were peacefully protesting when prison staff opened fire, leaving some wounded Inmates at Venezuela’s western Barinas prison staged a protest on its roof on Sunday, piling flaming mattresses and call..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola crisis in congo worsens",
+        "url": "https://www.nytimes.com/2026/05/24/world/africa/ebola-virus-congo-response.html",
+        "title": "In City at Center of Ebola Crisis, ‘the Virus Is Far Ahead of Us’",
+        "summary": "The deadly virus has spread alarmingly in Congo for months. Only now is the response taking shape."
+      },
+      {
+        "char": "🔥",
+        "label": "cubans survive energy crisis",
+        "url": "https://www.nytimes.com/2026/05/25/world/americas/cuba-blackouts-fire-energy-oil.html",
+        "title": "Cubans Cook With Charcoal and Wood Fires to Survive During Energy Crisis",
+        "summary": "The U.S. oil blockade has left millions without cooking gas. In Santiago de Cuba, the cradle of the Cuban revolution, apartment tower residents resort to charcoal and firewood."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
