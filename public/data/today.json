@@ -1,204 +1,43 @@
 {
-  "date": "2026-05-24",
-  "timestamp": "2026-05-24T00:00:00Z",
+  "date": "2026-05-25",
+  "timestamp": "2026-05-25T00:00:00Z",
   "emojis": [
     {
-      "url": "https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo",
-      "label": "ebola outbreak in drc",
-      "char": "🦠",
-      "summary": "New strain of virus, aid cuts, and cultural norms around burials and touch add to difficulties in stemming outbreak The warnings from aid groups and healthcare workers in the Democratic Republic of the Congo have been stark, their calls...",
-      "title": "‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC"
+      "char": "🚨",
+      "label": "turkish police storm opposition offices",
+      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+      "title": "Turkish riot police storm opposition offices after leaders ousted",
+      "summary": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders."
     },
     {
-      "title": "Venezuelan makeup artist who was deported to El Salvador seeks asylum in Spain: ‘I feel safe here’",
-      "summary": "Andry José Hernández Romero was deported from the US to El Salvador’s notorious Cecot prison before he was allowed to return to Venezuela One of the Venezuelan men sent from the US to El Salvador’s most notorious prison by Donald Trump h...",
-      "char": "🇻🇪",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum",
-      "label": "venezuelan artist seeks asylum in spain"
+      "char": "🦈",
+      "label": "man killed in shark attack in australia",
+      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "summary": "The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing."
     },
     {
-      "title": "California declares state of emergency as fire crews race to contain toxic chemical leak",
-      "summary": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
-      "char": "🔥",
-      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "label": "california state of emergency declared"
+      "char": "🚖",
+      "label": "girl flees forced marriage in taxi",
+      "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
+      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+      "summary": "Nearly five years on from the school ban, young women say they have waved goodbye to their dreams."
     },
     {
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "label": "coal mine explosion in china",
-      "char": "💥",
-      "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
-      "title": "At least 82 killed in Chinese coal mine explosion"
+      "char": "🇮🇱",
+      "label": "israel's president denounces violence",
+      "url": "https://www.nytimes.com/2026/05/24/world/middleeast/israel-herzog-violence.html",
+      "title": "Israel’s President, Isaac Herzog, Denounces Israeli Violence",
+      "summary": "In a speech, Isaac Herzog, whose role is largely ceremonial, delivered a grave indictment of settler attacks in the West Bank and abuse of prisoners."
     },
     {
-      "summary": "Saturday’s strikes damaged a main hospital in the Lebanese city of Tyre, as funerals for paramedics killed a day earlier were held.",
-      "title": "Israeli Strikes Pummel Lebanon, Killing Medics Amid Fragile Truce",
-      "url": "https://www.nytimes.com/2026/05/23/world/middleeast/israel-strikes-lebanon-medics.html",
-      "label": "israeli strikes in lebanon",
-      "char": "⚔️"
-    },
-    {
-      "summary": "New strain of virus, aid cuts, and cultural norms around burials and touch add to difficulties in stemming outbreak The warnings from aid groups and healthcare workers in the Democratic Republic of the Congo have been stark, their calls...",
-      "char": "🦠",
-      "url": "https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo",
-      "title": "‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC",
-      "label": "ebola outbreak in drc"
-    },
-    {
-      "title": "At least 82 killed in Chinese coal mine explosion",
-      "label": "coal mine explosion in china",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "char": "💥",
-      "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years."
-    },
-    {
-      "summary": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid The Canadian prime minister, Mark Carney , has said that Alberta is “essential” to the country’s future, hours after the provinc...",
-      "char": "🇨🇦",
-      "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
-      "label": "alberta's push for independence",
-      "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession"
-    },
-    {
-      "title": "Israeli Strikes Pummel Lebanon, Killing Medics Amid Fragile Truce",
-      "label": "israel strikes lebanon",
-      "url": "https://www.nytimes.com/2026/05/23/world/middleeast/israel-strikes-lebanon-medics.html",
-      "char": "⚔️",
-      "summary": "Saturday’s strikes damaged a main hospital in the Lebanese city of Tyre, as funerals for paramedics killed a day earlier were held."
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
-      "label": "case dismissed for abrego garcia",
-      "char": "⚖️",
-      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García..."
-    },
-    {
-      "label": "france bans israeli minister",
-      "char": "🇫🇷",
-      "title": "France Bans Israeli Minister Over Treatment of Detained Flotilla Activists",
-      "summary": "Itamar Ben-Gvir, the Israeli national security minister, has long drawn criticism for his hard-line statements and harsh policies against Palestinian prisoners.",
-      "url": "https://www.nytimes.com/2026/05/23/world/middleeast/ben-gvir-travel-ban-france.html"
-    },
-    {
-      "label": "alberta essential to canada",
-      "char": "🇨🇦",
-      "summary": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid The Canadian prime minister, Mark Carney , has said that Alberta is “essential” to the country’s future, hours after the provinc...",
-      "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
-      "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence"
-    },
-    {
-      "label": "rubio doubts diplomacy with cuba",
-      "char": "🇨🇺",
-      "title": "Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action",
-      "summary": "US secretary of state says president would like a negotiated agreement with Havana but likelihood ‘is not high’ The US president, Donald Trump, and the secretary of state, Marco Rubio, on Thursday again raised the spectre of military int...",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/marco-rubio-doubtful-diplomacy-cuba-trump-renews-threat-military-action"
-    },
-    {
-      "summary": "In a devastated section of the Coral Triangle in the Pacific Ocean, a conservation group is trying to build an artificial reef.",
-      "url": "https://www.nytimes.com/2026/05/24/world/asia/can-concrete-molds-revive-coral-reefs-ruined-by-bombs-and-climate-change.html",
-      "title": "Can Concrete Molds Revive Coral Reefs Ruined by Bombs and Climate Change?",
-      "label": "can concrete molds revive coral reefs?",
-      "char": "🌊"
-    },
-    {
-      "label": "nascar champion dies from pneumonia",
-      "char": "💔",
-      "summary": "The driver died aged 41 on Thursday after \"overwhelming complications\" from the illnesses.",
-      "url": "https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss",
-      "title": "Nascar champion Kyle Busch died of pneumonia and sepsis, family says"
-    },
-    {
-      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García...",
-      "char": "⚖️",
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
-      "label": "us judge dismisses indictment",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed"
-    },
-    {
-      "label": "ebola outbreak in drc",
-      "url": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola",
-      "summary": "But Trump administration will not return detainees deported to third countries in disease-stricken region The Trump administration will temporarily pause the removal of refugees to the Democratic Republic of the Congo (DRC) during a spir...",
-      "char": "🦠",
-      "title": "White House pauses removal of detainees to DRC as Ebola outbreak widens"
-    },
-    {
-      "label": "us automakers future in canada",
-      "url": "https://www.nytimes.com/2026/05/24/world/canada/auto-industry-canada-detroit-ontario-car-tariffs.html",
-      "summary": "Detroit-based automakers pioneered open trade between Canada and the United States, benefiting both countries. President Trump’s trade war now leaves their future in the country in question.",
-      "char": "🚗",
-      "title": "Do U.S. Automakers Have a Future in Canada?"
-    },
-    {
-      "label": "california toxic leak emergency",
-      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
-      "char": "🔥",
-      "title": "California declares emergency as fire crews race to contain toxic leak"
-    },
-    {
-      "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
-      "summary": "More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018 Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in...",
-      "char": "🍽️",
-      "url": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
-      "label": "hunger as weapon of war"
-    },
-    {
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "char": "🇺🇦",
-      "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
-      "label": "large-scale russian attack on ukraine"
-    },
-    {
-      "summary": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
-      "label": "red cross volunteers die from ebola",
-      "char": "🦠",
-      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
-      "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
-      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García...",
-      "label": "us judge dismisses indictment against garcia",
-      "char": "⚖️"
-    },
-    {
-      "title": "White House pauses removal of detainees to DRC as Ebola outbreak widens",
-      "url": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola",
-      "summary": "But Trump administration will not return detainees deported to third countries in disease-stricken region The Trump administration will temporarily pause the removal of refugees to the Democratic Republic of the Congo (DRC) during a spir...",
-      "label": "white house pauses detainee removal to drc",
-      "char": "🚨"
-    },
-    {
-      "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
-      "url": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
-      "summary": "More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018 Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in...",
-      "label": "hunger used as weapon of war analysis",
-      "char": "🍽️"
+      "char": "🔫",
+      "label": "suspect killed near white house",
+      "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Overwhelmed",
-    "emoji": "😨",
-    "rationale": "Today's news highlights a series of crises, including rapid spread of Ebola, devastating mining disasters, and escalating violence in conflict zones, evoking a sense of fear and concern.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
