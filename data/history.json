@@ -43999,5 +43999,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-25",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "iran peace talks underway",
+        "url": "https://www.nytimes.com/live/2026/05/25/world/iran-war-trump",
+        "title": "Iran War Live Updates: Top Iranian Negotiators Arrive in Qatar for Talks on Peace Deal",
+        "summary": "President Trump gave conflicting signals over how much progress had been made in the talks. Both the United States and Iran suggested that a breakthrough was not imminent."
+      },
+      {
+        "char": "⚖️",
+        "label": "judge dismisses indictment case",
+        "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
+        "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
+        "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García..."
+      },
+      {
+        "char": "🔥",
+        "label": "anger after coal mining disaster",
+        "url": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
+        "title": "Anger grows after China's deadliest coal mining disaster in years",
+        "summary": "On China's tightly-controlled internet, people are calling for justice and questioning how this happened."
+      },
+      {
+        "char": "🌍",
+        "label": "ebola spread in drc alarming",
+        "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
+        "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
+        "summary": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic..."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "same-sex marriage case in botswana",
+        "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
+        "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
+        "summary": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was s..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
