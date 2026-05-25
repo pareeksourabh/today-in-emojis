@@ -43867,5 +43867,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-25",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in drc",
+        "url": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola",
+        "title": "White House pauses removal of detainees to DRC as Ebola outbreak widens",
+        "summary": "But Trump administration will not return detainees deported to third countries in disease-stricken region The Trump administration will temporarily pause the removal of refugees to the Democratic Republic of the Congo (DRC) during a spir..."
+      },
+      {
+        "char": "🤝",
+        "label": "iran peace deal projections",
+        "url": "https://www.nytimes.com/2026/05/24/world/europe/iran-war-leaders-peace-deal.html",
+        "title": "Iran Projects Victory in Potential Deal With Washington",
+        "summary": "Iran’s leaders argue that the possible preliminary agreement has not extracted any major concessions."
+      },
+      {
+        "char": "⚖️",
+        "label": "case dismissed for abrego garcia",
+        "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
+        "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
+        "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "refugees face us detention",
+        "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
+        "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
+        "summary": "As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claims As each day in US detention passes, Markens Appolon can feel the life he had dreamed of sli..."
+      },
+      {
+        "char": "🐋",
+        "label": "shark attack in australia",
+        "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+        "title": "Man killed in shark attack off Australia's north-east coast",
+        "summary": "The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
