@@ -1,43 +1,204 @@
 {
   "date": "2026-05-25",
-  "timestamp": "2026-05-25T17:26:39Z",
+  "timestamp": "2026-05-25T00:00:00Z",
   "emojis": [
     {
+      "title": "Turkish riot police storm opposition offices after leaders ousted",
+      "char": "🚨",
+      "label": "turkish police storm opposition offices",
+      "summary": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
+      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "char": "🦈",
+      "summary": "The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing.",
+      "label": "man killed in shark attack in australia",
+      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "char": "🚖",
+      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+      "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly five years on from the school ban, young women say they have waved goodbye to their dreams.",
+      "label": "girl flees forced marriage in taxi"
+    },
+    {
+      "label": "israel's president denounces violence",
+      "summary": "In a speech, Isaac Herzog, whose role is largely ceremonial, delivered a grave indictment of settler attacks in the West Bank and abuse of prisoners.",
+      "url": "https://www.nytimes.com/2026/05/24/world/middleeast/israel-herzog-violence.html",
+      "title": "Israel’s President, Isaac Herzog, Denounces Israeli Violence",
+      "char": "🇮🇱"
+    },
+    {
+      "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+      "label": "suspect killed near white house",
+      "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "char": "🔫"
+    },
+    {
+      "summary": "A Malaysian man has died and about 20 people are feared trapped at the site near Manila, officials say.",
+      "title": "One killed and many feared trapped under collapsed building in Philippines",
+      "label": "building collapse in philippines",
+      "url": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "char": "🏗️"
+    },
+    {
+      "summary": "The official said the sides had agreed in principle to reopen the Strait of Hormuz and commit Iran to disposing of its highly enriched uranium, but stressed that a deal had not yet been signed.",
+      "title": "Iran War Live Updates: U.S.-Iran Peace Deal Nearer, But Could Take Days to Nail Down, U.S. Official Says",
+      "label": "us-iran peace deal updates",
       "char": "🕊️",
-      "label": "iran peace talks underway",
-      "url": "https://www.nytimes.com/live/2026/05/25/world/iran-war-trump",
-      "title": "Iran War Live Updates: Top Iranian Negotiators Arrive in Qatar for Talks on Peace Deal",
-      "summary": "President Trump gave conflicting signals over how much progress had been made in the talks. Both the United States and Iran suggested that a breakthrough was not imminent."
+      "url": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump"
+    },
+    {
+      "title": "‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC",
+      "summary": "New strain of virus, aid cuts, and cultural norms around burials and touch add to difficulties in stemming outbreak The warnings from aid groups and healthcare workers in the Democratic Republic of the Congo have been stark, their calls...",
+      "url": "https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo",
+      "char": "🦠",
+      "label": "ebola outbreak in drc"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+      "char": "🚨",
+      "label": "turkish police storm opposition",
+      "title": "Turkish riot police storm opposition offices after leaders ousted",
+      "summary": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders."
+    },
+    {
+      "char": "⚔️",
+      "url": "https://www.theguardian.com/world/2026/may/23/cote-divoire-wary-of-jihadist-threat-in-north-10-years-on-from-major-attack",
+      "label": "jihadist threat in cote d'ivoire",
+      "title": "Côte d’Ivoire wary of jihadist threat in north 10 years on from major attack",
+      "summary": "Threat of jihadism continues to lurk along borders with Mali and Burkina Faso These days, when she is not organising the annual International Day of Reggae celebrations in Côte d’Ivoire, Rose Ebirim picks up litter scattered on the beach..."
+    },
+    {
+      "char": "⚽",
+      "url": "https://www.nytimes.com/2026/05/24/world/europe/fifa-world-cup-fox-broadcast-rights.html",
+      "summary": "A decision to stave off litigation between Fox and FIFA turned into a bonanza worth hundreds of millions of dollars in discounted World Cup rights to the broadcaster.",
+      "title": "How a Curious FIFA Deal Gave Fox a Huge Bargain for World Cup Broadcast Rights",
+      "label": "fifa world cup broadcast rights"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "char": "🕊️",
+      "label": "iran peace deal discussions",
+      "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, US media reports.",
+      "title": "Rubio says 'solid' Iran deal may come on Monday"
+    },
+    {
+      "char": "💔",
+      "url": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
+      "summary": "More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018 Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in...",
+      "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
+      "label": "hunger as a weapon of war"
+    },
+    {
+      "char": "🍷",
+      "url": "https://www.nytimes.com/2026/05/25/world/europe/wine-truffles-firefighting-climate-change.html",
+      "summary": "Countries are learning that the finer things in life sometimes have a serendipitous side benefit.",
+      "title": "How Wine, Truffles and Honey Could Help Europe Fight Wildfires",
+      "label": "wine and climate change solutions"
+    },
+    {
+      "label": "russian attack on ukraine",
+      "summary": "A hypersonic missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "char": "💔"
+    },
+    {
+      "summary": "Andry José Hernández Romero was deported from the US to El Salvador’s notorious Cecot prison before he was allowed to return to Venezuela One of the Venezuelan men sent from the US to El Salvador’s most notorious prison by Donald Trump h...",
+      "char": "🇻🇪",
+      "title": "Venezuelan makeup artist who was deported to El Salvador seeks asylum in Spain: ‘I feel safe here’",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum",
+      "label": "venezuelan artist seeks asylum in spain"
+    },
+    {
+      "title": "Caught Flat-Footed, a City Races to Catch Up With Ebola",
+      "url": "https://www.nytimes.com/2026/05/24/world/africa/ebola-virus-congo-response.html",
+      "label": "ebola outbreak response in congo",
+      "summary": "The deadly virus has spread alarmingly in Congo for months. Only now is the response taking shape.",
+      "char": "🦠"
+    },
+    {
+      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "char": "💥",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "label": "train blast kills 20 in pakistan"
+    },
+    {
+      "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
+      "url": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
+      "label": "hunger as weapon of war analysis",
+      "summary": "More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018 Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in...",
+      "char": "🍽️"
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
+      "label": "same-sex marriage case in botswana",
+      "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
+      "char": "🏳️‍🌈",
+      "summary": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was s..."
+    },
+    {
+      "title": "Cubans Cook With Charcoal and Wood Fires to Survive During Energy Crisis",
+      "label": "cuba's energy crisis and survival",
+      "url": "https://www.nytimes.com/2026/05/25/world/americas/cuba-blackouts-fire-energy-oil.html",
+      "summary": "The U.S. oil blockade has left millions without cooking gas. In Santiago de Cuba, the cradle of the Cuban revolution, apartment tower residents resort to charcoal and firewood.",
+      "char": "🔥"
+    },
+    {
+      "char": "🦠",
+      "summary": "But Trump administration will not return detainees deported to third countries in disease-stricken region The Trump administration will temporarily pause the removal of refugees to the Democratic Republic of the Congo (DRC) during a spir...",
+      "title": "White House pauses removal of detainees to DRC as Ebola outbreak widens",
+      "label": "ebola outbreak in drc escalates",
+      "url": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/25/world/europe/wine-truffles-firefighting-climate-change.html",
+      "title": "How Wine, Truffles and Honey Could Help Europe Fight Wildfires",
+      "label": "wine and truffles combat wildfires",
+      "summary": "Countries are learning that the finer things in life sometimes have a serendipitous side benefit.",
+      "char": "🍷"
     },
     {
       "char": "⚖️",
-      "label": "judge dismisses indictment case",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
-      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García..."
-    },
-    {
-      "char": "🔥",
-      "label": "anger after coal mining disaster",
-      "url": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
-      "title": "Anger grows after China's deadliest coal mining disaster in years",
-      "summary": "On China's tightly-controlled internet, people are calling for justice and questioning how this happened."
-    },
-    {
-      "char": "🌍",
-      "label": "ebola spread in drc alarming",
-      "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
-      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
-      "summary": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic..."
-    },
-    {
-      "char": "🏳️‍🌈",
-      "label": "same-sex marriage case in botswana",
+      "summary": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was s...",
       "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
       "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
-      "summary": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was s..."
+      "label": "same-sex marriage case in botswana"
+    },
+    {
+      "summary": "More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018 Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in...",
+      "char": "🍽️",
+      "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
+      "label": "hunger as a weapon of war",
+      "url": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges"
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Sorrow",
+    "emoji": "😢",
+    "rationale": "The day’s headlines reflect a significant amount of sorrow and tragedy, from violent clashes and natural disasters to personal struggles against oppression, warranting a sorrowful emoji.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
