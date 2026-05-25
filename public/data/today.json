@@ -1,7 +1,28 @@
 {
   "date": "2026-05-25",
-  "timestamp": "2026-05-25T08:24:46Z",
+  "timestamp": "2026-05-25T11:54:59Z",
   "emojis": [
+    {
+      "char": "🚗",
+      "label": "us automakers future in canada",
+      "url": "https://www.nytimes.com/2026/05/24/world/canada/auto-industry-canada-detroit-ontario-car-tariffs.html",
+      "title": "Do U.S. Automakers Have a Future in Canada?",
+      "summary": "Detroit-based automakers pioneered open trade between Canada and the United States, benefiting both countries. President Trump’s trade war now leaves their future in the country in question."
+    },
+    {
+      "char": "🍽️",
+      "label": "hunger as weapon of war",
+      "url": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
+      "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
+      "summary": "More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018 Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in..."
+    },
+    {
+      "char": "🔥",
+      "label": "venezuela prison protest",
+      "url": "https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses",
+      "title": "Venezuela inmates occupy prison roof and set fire to mattresses to protest alleged abuses",
+      "summary": "Inmates at Barinas prison allege they were peacefully protesting when prison staff opened fire, leaving some wounded Inmates at Venezuela’s western Barinas prison staged a protest on its roof on Sunday, piling flaming mattresses and call..."
+    },
     {
       "char": "🦠",
       "label": "ebola outbreak in drc",
@@ -10,32 +31,11 @@
       "summary": "But Trump administration will not return detainees deported to third countries in disease-stricken region The Trump administration will temporarily pause the removal of refugees to the Democratic Republic of the Congo (DRC) during a spir..."
     },
     {
-      "char": "🤝",
-      "label": "iran peace deal projections",
-      "url": "https://www.nytimes.com/2026/05/24/world/europe/iran-war-leaders-peace-deal.html",
-      "title": "Iran Projects Victory in Potential Deal With Washington",
-      "summary": "Iran’s leaders argue that the possible preliminary agreement has not extracted any major concessions."
-    },
-    {
       "char": "⚖️",
-      "label": "case dismissed for abrego garcia",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
-      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García..."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "refugees face us detention",
-      "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
-      "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
-      "summary": "As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claims As each day in US detention passes, Markens Appolon can feel the life he had dreamed of sli..."
-    },
-    {
-      "char": "🐋",
-      "label": "shark attack in australia",
-      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
-      "title": "Man killed in shark attack off Australia's north-east coast",
-      "summary": "The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing."
+      "label": "same-sex marriage in botswana",
+      "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
+      "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
+      "summary": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was s..."
     }
   ],
   "source": "ai-openai",
