@@ -1,41 +1,41 @@
 {
   "date": "2026-05-26",
-  "timestamp": "2026-05-26T15:50:30Z",
+  "timestamp": "2026-05-26T00:00:00Z",
   "emojis": [
     {
+      "char": "🔥",
+      "label": "cuban energy crisis and survival",
+      "url": "https://www.nytimes.com/2026/05/25/world/americas/cuba-blackouts-fire-energy-oil.html",
+      "title": "Cubans Cook With Charcoal and Wood Fires to Survive During Energy Crisis",
+      "summary": "The U.S. oil blockade has left millions without cooking gas. In Santiago de Cuba, the cradle of the Cuban revolution, apartment tower residents resort to charcoal and firewood."
+    },
+    {
       "char": "🦠",
-      "label": "australia diphtheria outbreak",
-      "url": "https://www.bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&at_campaign=rss",
-      "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
-      "summary": "Most cases are in the Northern Territory with some also in Western Australia, South Australia and Queensland."
+      "label": "ebola outbreak in drc",
+      "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
+      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
+      "summary": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic..."
     },
     {
-      "char": "🇸🇳",
-      "label": "senegal's new parliamentary speaker",
-      "url": "https://www.bbc.com/news/articles/cg4pppq12nvo?at_medium=RSS&at_campaign=rss",
-      "title": "Senegal's sacked PM Sonko elected parliamentary Speaker in challenge to president",
-      "summary": "As speaker, Sonko could use his position to challenge the policies of the president, his one-time ally."
-    },
-    {
-      "char": "🍽️",
-      "label": "hunger as a weapon of war",
-      "url": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
-      "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
-      "summary": "More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018 Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in..."
-    },
-    {
-      "char": "🌸",
-      "label": "chelsea flower show gnome controversy",
-      "url": "https://www.nytimes.com/2026/05/26/world/europe/chelsea-flower-show-gnomes-uk.html",
-      "title": "At Chelsea Flower Show, a Gnome Controversy and Some ‘Good British Madness’",
-      "summary": "At the prestigious garden show, attendees jockeyed to buy prizewinning blooms and debated the role of whimsy as a ban on garden gnomes was temporarily lifted."
-    },
-    {
-      "char": "⚖️",
+      "char": "🏳️‍🌈",
       "label": "same-sex marriage in botswana",
       "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
       "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
       "summary": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was s..."
+    },
+    {
+      "char": "🚨",
+      "label": "venezuela prison protest",
+      "url": "https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses",
+      "title": "Venezuela inmates occupy prison roof and set fire to mattresses to highlight alleged abuse",
+      "summary": "Inmates at Barinas prison allege they were peacefully protesting when prison staff opened fire, leaving some wounded Inmates at Venezuela’s western Barinas prison staged a protest on its roof on Sunday, piling flaming mattresses and call..."
+    },
+    {
+      "char": "⚖️",
+      "label": "deportation risks for haitian mothers",
+      "url": "https://www.nytimes.com/2026/05/26/world/americas/dominican-republic-haiti-hospital-deportations.html",
+      "title": "Threat of Deportations Leads to Risky Childbirth for Haitian Mothers",
+      "summary": "Haitian women are having babies in squalid, unsupervised settings after the Dominican Republic started sending immigration agents to detain migrants at hospitals."
     }
   ],
   "source": "ai-openai",
