@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concern",
-    "emoji": "😨",
-    "rationale": "The day’s news includes alarming reports of the Ebola outbreak in the DRC and the struggles faced by vulnerable communities, which invoke a sense of fear and concern for public health and human rights.",
+    "emotion_label": "😔",
+    "emoji": "😔",
+    "rationale": "The day is marked by a somber mix of global crises, including the Ebola outbreak and tragic events like the Belgium crash, reflecting a deep concern and sadness for those affected.",
     "palette": [
       "😢",
       "😡",
