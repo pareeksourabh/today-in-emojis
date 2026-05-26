@@ -1,43 +1,204 @@
 {
   "date": "2026-05-26",
-  "timestamp": "2026-05-26T18:14:29Z",
+  "timestamp": "2026-05-26T00:00:00Z",
   "emojis": [
     {
-      "char": "💰",
-      "label": "sunshine silver ipo valuation",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONThZdHFwQ1NVUVRHakJidDQ0X2pEM3dDNnFDRjBCVXl0cnlQQUM5aE1Qb2xUX2F2NnktbWxLWm5xTThEWlFYSGRsV1RhOWtQekdISGdwSXlQdW9Ic3EzSnFoREIxUWtha3FZYU52OTVfQTVfYldrdEhaWG9NX0NtbXpfcUg3dzZqWGtieDlrbVZuYVlMNFFiOTRvVmZfblp3M0tna3lNSjY?oc=5",
-      "title": "Sunshine Silver eyes $2.32 billion valuation in US IPO - Reuters",
-      "summary": "Sunshine Silver eyes $2.32 billion valuation in US IPO Reuters"
+      "char": "🇺🇦",
+      "label": "ukraine's divisive hero returns",
+      "url": "https://www.nytimes.com/2026/05/24/world/europe/ukraine-melnyk-nationalist-collaborator.html",
+      "summary": "Andriy Melnyk, criticized as a Nazi collaborator and lionized as an anti-Soviet resistance leader, was given state honors for his reburial near Kyiv.",
+      "title": "In Ukraine, a Divisive 20th-Century Hero Comes Home"
     },
     {
-      "char": "🌡️",
-      "label": "temperature records being smashed",
-      "url": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
-      "title": "Why temperature records are being not only broken but smashed",
-      "summary": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe."
+      "url": "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical-ai.html",
+      "label": "pope leo's ai encyclical",
+      "summary": "Leo XIV issued his thoughts about artificial intelligence in the modern world using a centuries-old form of papal communication called an encyclical.",
+      "title": "Pope Leo Has Released an Encyclical About A.I. Why Is That Important?",
+      "char": "🤖"
     },
     {
-      "char": "🏈",
-      "label": "supreme court nfl bias claims",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWtoZGQtbWRQaTIzWlhDQ3lqQUVoYmpsOWN4LXVCUjB3SWNXdjlnYmhaOGlUNTlXTEl3b092cEpoZjZqX3pNOGFGN1NUQjByOUw1RVNWYkNkQ1dOVVEyOGNKUmR4dVlQZUR4c2NGVmhsd0FveHhuSFdTT1RGTmVEcV82NGVCTVR6Q2IxTHRPaDB4NHU3alZZZW9jRHdNSWVCazFOOUlBa3UxQ3gtV2RuWGVR?oc=5",
-      "title": "US Supreme Court turns away NFL bid to move Black coach's bias claims into arbitration - Reuters",
-      "summary": "US Supreme Court turns away NFL bid to move Black coach's bias claims into arbitration Reuters"
+      "char": "🦠",
+      "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
+      "label": "ebola outbreak in drc",
+      "summary": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic...",
+      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO"
     },
     {
-      "char": "🔥",
-      "label": "venezuela inmates protest abuse",
-      "url": "https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses",
-      "title": "Venezuela inmates occupy prison roof and set fire to mattresses to highlight alleged abuse",
-      "summary": "Inmates at Barinas prison allege they were peacefully protesting when prison staff opened fire, leaving some wounded Inmates at Venezuela’s western Barinas prison staged a protest on its roof on Sunday, piling flaming mattresses and call..."
+      "summary": "Andry José Hernández Romero was deported from the US to El Salvador’s notorious Cecot prison before he was allowed to return to Venezuela One of the Venezuelan men sent from the US to El Salvador’s most notorious prison by Donald Trump h...",
+      "title": "Venezuelan makeup artist who was deported to El Salvador seeks asylum in Spain: ‘I feel safe here’",
+      "label": "venezuelan artist seeks asylum",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum",
+      "char": "💄"
     },
     {
-      "char": "🚍",
-      "label": "belgium minibus train collision",
+      "url": "https://www.nytimes.com/2026/05/25/world/europe/wine-truffles-firefighting-climate-change.html",
+      "label": "wine and truffles fight wildfires",
+      "summary": "Countries are learning that the finer things in life sometimes have a serendipitous side benefit.",
+      "title": "How Wine, Truffles and Honey Could Help Europe Fight Wildfires",
+      "char": "🍷"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+      "label": "israel intensifies strikes on hezbollah",
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
+      "char": "🇮🇱"
+    },
+    {
+      "summary": "WHO says outbreak poses ‘very high’ risk for country, but risk of disease spreading globally remains low Authorities in the Democratic Republic of the Congo say that suspected Ebola cases have now passed 900 in the ongoing outbreak in th...",
+      "char": "🦠",
+      "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
+      "label": "ebola cases in drc surpass 900",
+      "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks"
+    },
+    {
+      "label": "ukraine's divisive hero returns",
+      "url": "https://www.nytimes.com/2026/05/24/world/europe/ukraine-melnyk-nationalist-collaborator.html",
+      "summary": "Andriy Melnyk, criticized as a Nazi collaborator and lionized as an anti-Soviet resistance leader, was given state honors for his reburial near Kyiv.",
+      "char": "🇺🇦",
+      "title": "In Ukraine, a Divisive 20th-Century Hero Comes Home"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical-ai.html",
+      "label": "pope leo's encyclical on ai",
+      "title": "Pope Leo Has Released an Encyclical About A.I. Why Is That Important?",
+      "summary": "Leo XIV issued his thoughts about artificial intelligence in the modern world using a centuries-old form of papal communication called an encyclical.",
+      "char": "🤖"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/25/world/americas/cuba-blackouts-fire-energy-oil.html",
+      "label": "cuba faces energy crisis challenges",
+      "title": "Cubans Cook With Charcoal and Wood Fires to Survive During Energy Crisis",
+      "summary": "The U.S. oil blockade has left millions without cooking gas. In Santiago de Cuba, the cradle of the Cuban revolution, apartment tower residents resort to charcoal and firewood.",
+      "char": "🔥"
+    },
+    {
+      "summary": "The Canadian prime minister, who was the governor of the Bank of England when Britain voted to leave the European Union, said the Alberta referendum on separating from Canada could backfire.",
+      "char": "🇨🇦",
+      "label": "alberta referendum likened to brexit",
+      "title": "‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit",
+      "url": "https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html"
+    },
+    {
+      "title": "Cambodia’s Leader Pardons Top Opposition Politician Kem Sokha",
+      "url": "https://www.nytimes.com/2026/05/25/world/asia/cambodia-pardon-kem-sokha.html",
+      "summary": "The decision to release Kem Sokha is being seen as a likely attempt to recalibrate frayed ties with Western countries.",
+      "char": "🇰🇭",
+      "label": "cambodia's leader pardons opposition"
+    },
+    {
+      "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
+      "url": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
+      "summary": "More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018 Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in...",
+      "char": "🍞",
+      "label": "hunger as a weapon of war"
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum",
+      "title": "Venezuelan makeup artist who was deported to El Salvador seeks asylum in Spain: ‘I feel safe here’",
+      "label": "venezuelan artist seeks asylum in spain",
+      "summary": "Andry José Hernández Romero was deported from the US to El Salvador’s notorious Cecot prison before he was allowed to return to Venezuela One of the Venezuelan men sent from the US to El Salvador’s most notorious prison by Donald Trump h...",
+      "char": "🇻🇪"
+    },
+    {
+      "label": "iceland considers joining the eu",
+      "summary": "Iceland has stood apart from the rest of Europe. But President Trump’s threats to Greenland have provoked a reconsideration.",
+      "char": "🇮🇸",
+      "url": "https://www.nytimes.com/2026/05/26/world/europe/iceland-eu-membership-trump.html",
+      "title": "Iceland, Rattled by Trump’s Greenland Threats, Weighs Joining the E.U."
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cg5ppg50gplo?at_medium=RSS&at_campaign=rss",
+      "title": "China executes man for murdering prominent gaming tycoon",
+      "label": "china executes gaming tycoon murderer",
+      "summary": "The court said the man poisoned the tycoon for sidelining him after he helped secure a deal with Netflix for the 3 Body Problem.",
+      "char": "⚖️"
+    },
+    {
+      "title": "Rescuers race to free seven people trapped in flooded Laos cave",
+      "label": "rescuers race to free trapped people in laos",
+      "summary": "A team of experts who helped free a teen football team from a Thai cave in 2018 are among the rescuers.",
+      "char": "🚨",
+      "url": "https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "label": "ebola spread in drc outpacing response",
+      "summary": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic...",
+      "char": "🦠",
+      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
+      "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who"
+    },
+    {
       "url": "https://www.nytimes.com/2026/05/26/world/europe/belgium-minibus-train-collision-children.html",
-      "title": "Belgium Crash Kills 4 as Train Hits School Van",
-      "summary": "Two children, 12 and 15, were among those killed in the crash near Brussels, officials said. The students in the van attended a special education school."
+      "summary": "Two children, 12 and 15, were among those killed in the crash near Brussels, officials said. The students on the van attended a special education school.",
+      "char": "🚍",
+      "label": "four killed in belgium minibus train crash",
+      "title": "Belgium Crash Kills 4 as Train Hits School Van"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/25/world/americas/cuba-blackouts-fire-energy-oil.html",
+      "label": "cuba faces energy crisis cooking challenges",
+      "summary": "The U.S. oil blockade has left millions without cooking gas. In Santiago de Cuba, the cradle of the Cuban revolution, apartment tower residents resort to charcoal and firewood.",
+      "char": "🌍",
+      "title": "Cubans Cook With Charcoal and Wood Fires to Survive During Energy Crisis"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/25/world/americas/cuba-blackouts-fire-energy-oil.html",
+      "summary": "The U.S. oil blockade has left millions without cooking gas. In Santiago de Cuba, the cradle of the Cuban revolution, apartment tower residents resort to charcoal and firewood.",
+      "label": "cuban energy crisis and survival",
+      "title": "Cubans Cook With Charcoal and Wood Fires to Survive During Energy Crisis",
+      "char": "🔥"
+    },
+    {
+      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
+      "char": "🦠",
+      "summary": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic...",
+      "label": "ebola outbreak in drc",
+      "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who"
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
+      "char": "🏳️‍🌈",
+      "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
+      "summary": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was s...",
+      "label": "same-sex marriage in botswana"
+    },
+    {
+      "char": "🚨",
+      "title": "Venezuela inmates occupy prison roof and set fire to mattresses to highlight alleged abuse",
+      "summary": "Inmates at Barinas prison allege they were peacefully protesting when prison staff opened fire, leaving some wounded Inmates at Venezuela’s western Barinas prison staged a protest on its roof on Sunday, piling flaming mattresses and call...",
+      "label": "venezuela prison protest",
+      "url": "https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses"
+    },
+    {
+      "summary": "Haitian women are having babies in squalid, unsupervised settings after the Dominican Republic started sending immigration agents to detain migrants at hospitals.",
+      "label": "deportation risks for haitian mothers",
+      "char": "⚖️",
+      "title": "Threat of Deportations Leads to Risky Childbirth for Haitian Mothers",
+      "url": "https://www.nytimes.com/2026/05/26/world/americas/dominican-republic-haiti-hospital-deportations.html"
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concern",
+    "emoji": "😨",
+    "rationale": "The day’s news includes alarming reports of the Ebola outbreak in the DRC and the struggles faced by vulnerable communities, which invoke a sense of fear and concern for public health and human rights.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
