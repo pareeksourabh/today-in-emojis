@@ -44219,5 +44219,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-27",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "india's manipur violence and division",
+        "url": "https://www.nytimes.com/2026/05/26/world/asia/india-manipur-violence-ethnic-conflict.html",
+        "title": "Inside India’s Manipur State, Where Violence and Division Are Routine",
+        "summary": "Three years after riots tore apart Manipur, the state remains in disarray. Barbed wire and armed checkpoints made it difficult for Times reporters to cross, even before the recent clashes."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in drc outpacing response",
+        "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
+        "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
+        "summary": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic..."
+      },
+      {
+        "char": "🌼",
+        "label": "gnome controversy at chelsea flower show",
+        "url": "https://www.nytimes.com/2026/05/26/world/europe/chelsea-flower-show-gnomes-uk.html",
+        "title": "At Chelsea Flower Show, a Gnome Controversy and Some ‘Good British Madness’",
+        "summary": "At the prestigious garden show, attendees jockeyed to buy prizewinning blooms and debated the role of whimsy as a ban on garden gnomes was temporarily lifted."
+      },
+      {
+        "char": "⚖️",
+        "label": "same-sex marriage case in botswana",
+        "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
+        "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
+        "summary": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was s..."
+      },
+      {
+        "char": "🌍",
+        "label": "canada's lng deal with germany",
+        "url": "https://www.nytimes.com/2026/05/26/world/canada/canada-germany-natural-gas-lng.html",
+        "title": "Canada Strikes Landmark Deal to Export Liquefied Natural Gas to Germany",
+        "summary": "The agreement is important for both nations, as Canada seeks new markets away from the United States and Germany tries to diversify its energy supply."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
