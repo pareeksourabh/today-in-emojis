@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news items highlight severe issues such as extreme weather, public health emergencies, and social injustices, creating a pervasive sense of concern and urgency about global events.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "Today's news highlights severe crises including extreme weather, violence, and health emergencies, reflecting a deep sense of sadness and concern for human suffering.",
     "palette": [
       "😢",
       "😡",
