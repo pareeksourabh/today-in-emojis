@@ -44307,5 +44307,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-27",
+    "emojis": [
+      {
+        "char": "🍰",
+        "label": "basque cheesecake inventor retires",
+        "url": "https://www.nytimes.com/2026/05/27/world/europe/basque-cheesecake-inventor-rivera-spain.html",
+        "title": "Inventor of the Basque Cheesecake Plans to Retire. His Secret: He Prefers Chocolate",
+        "summary": "Santiago Rivera is widely credited with creating the “burnt” cheesecake in the 1980s, though he doesn’t love the spinoffs it has spawned. Decades later, he’s preparing to hand over his kitchen to his children."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canadian refugees face us detention",
+        "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
+        "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
+        "summary": "As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claims As each day in US detention passes, Markens Appolon can feel the life he had dreamed of sli..."
+      },
+      {
+        "char": "⚔️",
+        "label": "iran war updates and negotiations",
+        "url": "https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal",
+        "title": "Iran War Live Updates: White House Denies Iranian State Media’s Outline of ‘Unofficial’ Deal",
+        "summary": "The reported draft agreement said Iran would reopen the Strait of Hormuz in return for the United States’ lifting its naval blockade."
+      },
+      {
+        "char": "🏥",
+        "label": "ebola cases in drc and health worker attacks",
+        "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
+        "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
+        "summary": "WHO says outbreak poses ‘very high’ risk for country, but risk of disease spreading globally remains low Authorities in the Democratic Republic of the Congo say that suspected Ebola cases have now passed 900 in the ongoing outbreak in th..."
+      },
+      {
+        "char": "🌍",
+        "label": "same-sex marriage case in botswana",
+        "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
+        "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
+        "summary": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was s..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
