@@ -1,41 +1,41 @@
 {
   "date": "2026-05-27",
-  "timestamp": "2026-05-27T08:07:37Z",
+  "timestamp": "2026-05-27T00:00:00Z",
   "emojis": [
     {
-      "char": "🇨🇦",
-      "label": "canada refugees face us detention",
-      "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
-      "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
-      "summary": "As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claims As each day in US detention passes, Markens Appolon can feel the life he had dreamed of sli..."
-    },
-    {
       "char": "💥",
-      "label": "chemical explosion at us paper mill",
+      "label": "chemical explosion at paper mill",
       "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
       "title": "One killed and nine missing after chemical explosion at US paper mill",
       "summary": "Nine others were injured and another nine are missing after a tank ruptured at a paper mill in Longview, Washington."
     },
     {
+      "char": "🇨🇦",
+      "label": "alberta's push for independence",
+      "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
+      "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
+      "summary": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid The Canadian prime minister, Mark Carney , has said that Alberta is “essential” to the country’s future, hours after the provinc..."
+    },
+    {
+      "char": "⚖️",
+      "label": "case dismissed against abrego garcia",
+      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
+      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
+      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García..."
+    },
+    {
       "char": "🦠",
-      "label": "ebola cases in drc rise amid attacks",
-      "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
-      "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
-      "summary": "WHO says outbreak poses ‘very high’ risk for country, but risk of disease spreading globally remains low Authorities in the Democratic Republic of the Congo say that suspected Ebola cases have now passed 900 in the ongoing outbreak in th..."
+      "label": "ebola outbreak in dr congo",
+      "url": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
+      "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+      "summary": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread"
     },
     {
-      "char": "🇮🇸",
-      "label": "iceland considers eu membership",
-      "url": "https://www.nytimes.com/2026/05/26/world/europe/iceland-eu-membership-trump.html",
-      "title": "Iceland, Rattled by Trump’s Greenland Threats, Weighs Joining the E.U.",
-      "summary": "Iceland has stood apart from the rest of Europe. But President Trump’s threats to Greenland have provoked a reconsideration."
-    },
-    {
-      "char": "🚍",
-      "label": "minibus train collision in belgium",
-      "url": "https://www.nytimes.com/2026/05/26/world/europe/belgium-minibus-train-collision-children.html",
-      "title": "Belgium Crash Kills 4 as Train Hits School Van",
-      "summary": "Two children, 12 and 15, were among those killed in the crash near Brussels, officials said. The students in the van attended a special education school."
+      "char": "✈️",
+      "label": "israeli strike in gaza city",
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "summary": "At least three people were killed in the attack, which came despite a ceasefire with Hamas being in place."
     }
   ],
   "source": "ai-openai",
