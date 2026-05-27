@@ -1,41 +1,41 @@
 {
   "date": "2026-05-27",
-  "timestamp": "2026-05-27T00:00:00Z",
+  "timestamp": "2026-05-27T08:07:37Z",
   "emojis": [
     {
-      "char": "🦠",
-      "label": "measles outbreak in bangladesh",
-      "url": "https://www.bbc.com/news/articles/cwy2d5d7wn5o?at_medium=RSS&at_campaign=rss",
-      "title": "Hundreds of children die within months as measles cases soar in Bangladesh",
-      "summary": "The country has recorded more than 60,000 suspected cases of measles in just over two months."
-    },
-    {
-      "char": "💣",
-      "label": "hamas military leader killed",
-      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-      "title": "Israel says new head of Hamas' military wing killed in Gaza City strikes",
-      "summary": "At least three people were killed in the attacks, which came despite a ceasefire with Hamas being in place."
-    },
-    {
-      "char": "🛂",
-      "label": "refugees face us detention",
+      "char": "🇨🇦",
+      "label": "canada refugees face us detention",
       "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
       "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
       "summary": "As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claims As each day in US detention passes, Markens Appolon can feel the life he had dreamed of sli..."
     },
     {
-      "char": "🌍",
-      "label": "ebola response in drc",
-      "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
-      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
-      "summary": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic..."
+      "char": "💥",
+      "label": "chemical explosion at us paper mill",
+      "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
+      "title": "One killed and nine missing after chemical explosion at US paper mill",
+      "summary": "Nine others were injured and another nine are missing after a tank ruptured at a paper mill in Longview, Washington."
     },
     {
-      "char": "🌸",
-      "label": "gnome controversy at flower show",
-      "url": "https://www.nytimes.com/2026/05/26/world/europe/chelsea-flower-show-gnomes-uk.html",
-      "title": "At Chelsea Flower Show, a Gnome Controversy and Some ‘Good British Madness’",
-      "summary": "At the prestigious garden show, attendees jockeyed to buy prizewinning blooms and debated the role of whimsy as a ban on garden gnomes was temporarily lifted."
+      "char": "🦠",
+      "label": "ebola cases in drc rise amid attacks",
+      "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
+      "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
+      "summary": "WHO says outbreak poses ‘very high’ risk for country, but risk of disease spreading globally remains low Authorities in the Democratic Republic of the Congo say that suspected Ebola cases have now passed 900 in the ongoing outbreak in th..."
+    },
+    {
+      "char": "🇮🇸",
+      "label": "iceland considers eu membership",
+      "url": "https://www.nytimes.com/2026/05/26/world/europe/iceland-eu-membership-trump.html",
+      "title": "Iceland, Rattled by Trump’s Greenland Threats, Weighs Joining the E.U.",
+      "summary": "Iceland has stood apart from the rest of Europe. But President Trump’s threats to Greenland have provoked a reconsideration."
+    },
+    {
+      "char": "🚍",
+      "label": "minibus train collision in belgium",
+      "url": "https://www.nytimes.com/2026/05/26/world/europe/belgium-minibus-train-collision-children.html",
+      "title": "Belgium Crash Kills 4 as Train Hits School Van",
+      "summary": "Two children, 12 and 15, were among those killed in the crash near Brussels, officials said. The students in the van attended a special education school."
     }
   ],
   "source": "ai-openai",
