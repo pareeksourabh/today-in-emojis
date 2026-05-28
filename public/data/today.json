@@ -1,41 +1,41 @@
 {
   "date": "2026-05-28",
-  "timestamp": "2026-05-28T00:00:00Z",
+  "timestamp": "2026-05-28T16:09:19Z",
   "emojis": [
     {
+      "char": "💰",
+      "label": "italy seizes mafia assets",
+      "url": "https://www.bbc.com/news/articles/ceqpd4gqgveo?at_medium=RSS&at_campaign=rss",
+      "title": "Villas, cars and cash: Italy seizes dead Mafia mobster's millions",
+      "summary": "Police say the operation targeted the network of notorious late Sicilian mafia boss Matteo Messina Denaro."
+    },
+    {
       "char": "🦠",
-      "label": "ebola outbreak in drc",
-      "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
-      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
-      "summary": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic..."
+      "label": "ebola quarantine center in kenya",
+      "url": "https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya",
+      "title": "US building Ebola quarantine center in Kenya for Americans amid outbreak",
+      "summary": "Some experts criticize White House approach and say not allowing Americans to return to US hurts treatment efforts The Trump administration is building a quarantine and treatment center in Kenya for Americans affected by the Ebola outbre..."
     },
     {
-      "char": "✈️",
-      "label": "cuba loses fuel chance",
-      "url": "https://www.nytimes.com/2026/05/28/world/americas/cuba-oil-russia-tanker.html",
-      "title": "Cuba Loses Its Chance at Fuel After Russian Tanker Changes Route",
-      "summary": "A Russian tanker seemingly en route to Cuba with a lifeline of fuel has changed direction, a painful development for the island suffering under a U.S. oil blockade."
-    },
-    {
-      "char": "🏳️‍🌈",
-      "label": "same-sex marriage in botswana",
-      "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
-      "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
-      "summary": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was s..."
+      "char": "🚀",
+      "label": "iran war updates and strikes",
+      "url": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal",
+      "title": "Iran War Live Updates: U.S. and Iran Trade Strikes, Further Threatening Negotiations",
+      "summary": "The U.S. military said Iran had launched a ballistic missile toward Kuwait. Iran’s Revolutionary Guards said it had targeted an unspecified U.S. base in retaliation for earlier strikes."
     },
     {
       "char": "🔥",
-      "label": "kenya school fire kills 16",
-      "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
-      "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
-      "summary": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke..."
+      "label": "kenya school dormitory fire",
+      "url": "https://www.nytimes.com/2026/05/28/world/africa/kenya-school-fire.html",
+      "title": "Fire at School Dormitory in Kenya Kills at Least 16",
+      "summary": "Another 79 students were injured in the blaze, which was the latest in a series of deadly fires at schools in the country in recent years."
     },
     {
-      "char": "💼",
-      "label": "jill biden's debate scare",
-      "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
-      "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
-      "summary": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump."
+      "char": "✈️",
+      "label": "canada orders military planes from sweden",
+      "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+      "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+      "summary": "Mark Carney announces purchase of Saab’s GlobalEye early warning aircraft to patrol Arctic territory Canada has announced plans to buy a fleet of early warning planes from Sweden’s Saab rather than a competing option from Boeing, as the..."
     }
   ],
   "source": "ai-openai",
