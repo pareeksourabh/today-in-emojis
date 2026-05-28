@@ -44395,5 +44395,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-28",
+    "emojis": [
+      {
+        "char": "💧",
+        "label": "hotel refuses tap water ruling",
+        "url": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss",
+        "title": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
+        "summary": "The Italian Supreme Court rejected a tourist's claim that her consumer rights were breached when she was only offered €7 bottled mineral water."
+      },
+      {
+        "char": "💣",
+        "label": "us strikes on iran military site",
+        "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+        "title": "US carries out new strikes on Iran military site",
+        "summary": "The US military said it targeted a military site in Bandar Abbas - a strategic port city - and shot down four Iranian attack drones."
+      },
+      {
+        "char": "🤖",
+        "label": "samsung unions approve pay deal",
+        "url": "https://www.nytimes.com/2026/05/27/world/asia/samsung-ai-profit-bonus-workers.html",
+        "title": "Samsung Unions Approve Pay Deal That Highlights Inequality of A.I. Age",
+        "summary": "The agreement all but guarantees hefty bonuses for employees in the top-performing chip unit. Other workers say they feel left out."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola cases in drc surpass 900",
+        "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
+        "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
+        "summary": "WHO says outbreak poses ‘very high’ risk for country, but risk of disease spreading globally remains low Authorities in the Democratic Republic of the Congo say that suspected Ebola cases have now passed 900 in the ongoing outbreak in th..."
+      },
+      {
+        "char": "🌐",
+        "label": "iranians return online after censorship",
+        "url": "https://www.nytimes.com/2026/05/27/world/europe/iran-internet.html",
+        "title": "After 88 Days of Censored News, TV and Chat, Iranians Are Coming Back Online",
+        "summary": "The government is letting people connect with the world after a near-total internet shutdown. But not everyone has access, and those who do wonder how long it will last."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

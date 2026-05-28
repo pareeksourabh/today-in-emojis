@@ -1,41 +1,41 @@
 {
   "date": "2026-05-28",
-  "timestamp": "2026-05-28T00:00:00Z",
+  "timestamp": "2026-05-28T02:14:06Z",
   "emojis": [
     {
+      "char": "💧",
+      "label": "hotel refuses tap water ruling",
+      "url": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss",
+      "title": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
+      "summary": "The Italian Supreme Court rejected a tourist's claim that her consumer rights were breached when she was only offered €7 bottled mineral water."
+    },
+    {
+      "char": "💣",
+      "label": "us strikes on iran military site",
+      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "title": "US carries out new strikes on Iran military site",
+      "summary": "The US military said it targeted a military site in Bandar Abbas - a strategic port city - and shot down four Iranian attack drones."
+    },
+    {
+      "char": "🤖",
+      "label": "samsung unions approve pay deal",
+      "url": "https://www.nytimes.com/2026/05/27/world/asia/samsung-ai-profit-bonus-workers.html",
+      "title": "Samsung Unions Approve Pay Deal That Highlights Inequality of A.I. Age",
+      "summary": "The agreement all but guarantees hefty bonuses for employees in the top-performing chip unit. Other workers say they feel left out."
+    },
+    {
       "char": "🦠",
-      "label": "ebola cases in drc rise",
+      "label": "ebola cases in drc surpass 900",
       "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
       "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
       "summary": "WHO says outbreak poses ‘very high’ risk for country, but risk of disease spreading globally remains low Authorities in the Democratic Republic of the Congo say that suspected Ebola cases have now passed 900 in the ongoing outbreak in th..."
     },
     {
-      "char": "🏞️",
-      "label": "five rescued from flooded laos cave",
-      "url": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
-      "title": "Five people found alive after week trapped in flooded Laos cave",
-      "summary": "The search is continuing for a further two villagers who are still missing, rescuers say."
-    },
-    {
-      "char": "⚽",
-      "label": "iran team stays in mexico for world cup",
-      "url": "https://www.theguardian.com/world/2026/may/25/mexico-fifa-iran-team",
-      "title": "President Sheinbaum allows Iran team to stay in Mexico during World Cup after US refusal",
-      "summary": "Fifa approached Mexico after US declined to host Iran squad despite it playing group games in the United States Mexico’s president, Claudia Sheinbaum , said on Monday her government agreed to allow the Iranian national football team to s..."
-    },
-    {
-      "char": "🌏",
-      "label": "china's security testing in pacific village",
-      "url": "https://www.nytimes.com/2026/05/27/world/asia/china-solomons-pacific-security-threats.html",
-      "title": "A Quiet Pacific Village Becomes China’s Security Testing Ground",
-      "summary": "When a remote Pacific village asked for help with rowdy youth, the Chinese police arrived with a surveillance system. Then came the backlash."
-    },
-    {
-      "char": "🍰",
-      "label": "basque cheesecake inventor plans retirement",
-      "url": "https://www.nytimes.com/2026/05/27/world/europe/basque-cheesecake-inventor-rivera-spain.html",
-      "title": "Inventor of the Basque Cheesecake Plans to Retire. His Secret: He Prefers Chocolate",
-      "summary": "Santiago Rivera is widely credited with creating the “burnt” cheesecake in the 1980s, though he doesn’t love the spinoffs it has spawned. Decades later, he’s preparing to hand over his kitchen to his children."
+      "char": "🌐",
+      "label": "iranians return online after censorship",
+      "url": "https://www.nytimes.com/2026/05/27/world/europe/iran-internet.html",
+      "title": "After 88 Days of Censored News, TV and Chat, Iranians Are Coming Back Online",
+      "summary": "The government is letting people connect with the world after a near-total internet shutdown. But not everyone has access, and those who do wonder how long it will last."
     }
   ],
   "source": "ai-openai",
