@@ -1,204 +1,43 @@
 {
-  "date": "2026-05-27",
-  "timestamp": "2026-05-27T00:00:00Z",
+  "date": "2026-05-28",
+  "timestamp": "2026-05-28T00:00:00Z",
   "emojis": [
     {
-      "char": "🌡️",
-      "url": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe.",
-      "title": "Why temperature records are being not only broken but smashed",
-      "label": "temperature records being smashed"
+      "char": "🦠",
+      "label": "ebola cases in drc rise",
+      "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
+      "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
+      "summary": "WHO says outbreak poses ‘very high’ risk for country, but risk of disease spreading globally remains low Authorities in the Democratic Republic of the Congo say that suspected Ebola cases have now passed 900 in the ongoing outbreak in th..."
     },
     {
-      "summary": "The 36-year-old, named in the French news media as David G., is among more than 70 employees at schools in the capital who have been recently suspended or fired over allegations of sexual abuse and other misconduct.",
-      "title": "Paris School Worker Tried for Child Abuse in Widespread Assault Inquiry",
-      "label": "child abuse trial in paris",
-      "char": "👶",
-      "url": "https://www.nytimes.com/2026/05/26/world/europe/child-abuse-trial-school-paris.html"
-    },
-    {
-      "char": "🔥",
-      "url": "https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses",
-      "summary": "Inmates at Barinas prison allege they were peacefully protesting when prison staff opened fire, leaving some wounded Inmates at Venezuela’s western Barinas prison staged a protest on its roof on Sunday, piling flaming mattresses and call...",
-      "title": "Venezuela inmates occupy prison roof and set fire to mattresses to highlight alleged abuse",
-      "label": "venezuela prison protest"
+      "char": "🏞️",
+      "label": "five rescued from flooded laos cave",
+      "url": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
+      "title": "Five people found alive after week trapped in flooded Laos cave",
+      "summary": "The search is continuing for a further two villagers who are still missing, rescuers say."
     },
     {
       "char": "⚽",
+      "label": "iran team stays in mexico for world cup",
       "url": "https://www.theguardian.com/world/2026/may/25/mexico-fifa-iran-team",
-      "summary": "Fifa approached Mexico after US declined to host Iran squad despite it playing group games in the United States Mexico’s president, Claudia Sheinbaum , said on Monday her government agreed to allow the Iranian national football team to s...",
       "title": "President Sheinbaum allows Iran team to stay in Mexico during World Cup after US refusal",
-      "label": "iran team in mexico during world cup"
+      "summary": "Fifa approached Mexico after US declined to host Iran squad despite it playing group games in the United States Mexico’s president, Claudia Sheinbaum , said on Monday her government agreed to allow the Iranian national football team to s..."
     },
     {
-      "label": "ebola outbreak in drc",
-      "summary": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic...",
-      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
-      "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
-      "char": "🦠"
+      "char": "🌏",
+      "label": "china's security testing in pacific village",
+      "url": "https://www.nytimes.com/2026/05/27/world/asia/china-solomons-pacific-security-threats.html",
+      "title": "A Quiet Pacific Village Becomes China’s Security Testing Ground",
+      "summary": "When a remote Pacific village asked for help with rowdy youth, the Chinese police arrived with a surveillance system. Then came the backlash."
     },
     {
-      "title": "At Chelsea Flower Show, a Gnome Controversy and Some ‘Good British Madness’",
-      "label": "gnome controversy at flower show",
-      "url": "https://www.nytimes.com/2026/05/26/world/europe/chelsea-flower-show-gnomes-uk.html",
-      "summary": "At the prestigious garden show, attendees jockeyed to buy prizewinning blooms and debated the role of whimsy as a ban on garden gnomes was temporarily lifted.",
-      "char": "🌼"
-    },
-    {
-      "char": "🛂",
-      "summary": "As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claims As each day in US detention passes, Markens Appolon can feel the life he had dreamed of sli...",
-      "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
-      "label": "refugees face US detention",
-      "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention"
-    },
-    {
-      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
-      "label": "lebanon strikes escalate",
-      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
-      "char": "🔥"
-    },
-    {
-      "summary": "Iceland has stood apart from the rest of Europe. But President Trump’s threats to Greenland have provoked a reconsideration.",
-      "char": "🇮🇸",
-      "title": "Iceland, Rattled by Trump’s Greenland Threats, Weighs Joining the E.U.",
-      "label": "iceland considers EU membership",
-      "url": "https://www.nytimes.com/2026/05/26/world/europe/iceland-eu-membership-trump.html"
-    },
-    {
-      "char": "🌍",
-      "summary": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic...",
-      "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
-      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
-      "label": "ebola outbreak in DRC"
-    },
-    {
-      "char": "🦠",
-      "summary": "The country has recorded more than 60,000 suspected cases of measles in just over two months.",
-      "title": "Hundreds of children die within months as measles cases soar in Bangladesh",
-      "label": "measles outbreak in bangladesh",
-      "url": "https://www.bbc.com/news/articles/cwy2d5d7wn5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "char": "💣",
-      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-      "label": "hamas military leader killed",
-      "summary": "At least three people were killed in the attacks, which came despite a ceasefire with Hamas being in place.",
-      "title": "Israel says new head of Hamas' military wing killed in Gaza City strikes"
-    },
-    {
-      "summary": "As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claims As each day in US detention passes, Markens Appolon can feel the life he had dreamed of sli...",
-      "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
-      "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
-      "label": "refugees face us detention",
-      "char": "🛂"
-    },
-    {
-      "char": "🌍",
-      "summary": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic...",
-      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
-      "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
-      "label": "ebola response in drc"
-    },
-    {
-      "char": "🌸",
-      "label": "gnome controversy at flower show",
-      "url": "https://www.nytimes.com/2026/05/26/world/europe/chelsea-flower-show-gnomes-uk.html",
-      "summary": "At the prestigious garden show, attendees jockeyed to buy prizewinning blooms and debated the role of whimsy as a ban on garden gnomes was temporarily lifted.",
-      "title": "At Chelsea Flower Show, a Gnome Controversy and Some ‘Good British Madness’"
-    },
-    {
-      "summary": "Nine others were injured and another nine are missing after a tank ruptured at a paper mill in Longview, Washington.",
-      "label": "chemical explosion at paper mill",
-      "char": "💥",
-      "title": "One killed and nine missing after chemical explosion at US paper mill",
-      "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
-      "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
-      "summary": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid The Canadian prime minister, Mark Carney , has said that Alberta is “essential” to the country’s future, hours after the provinc...",
-      "label": "alberta's push for independence",
-      "char": "🇨🇦"
-    },
-    {
-      "char": "⚖️",
-      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García...",
-      "label": "case dismissed against abrego garcia",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García"
-    },
-    {
-      "char": "🦠",
-      "summary": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread",
-      "label": "ebola outbreak in dr congo",
-      "url": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
-      "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns"
-    },
-    {
-      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
-      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-      "summary": "At least three people were killed in the attack, which came despite a ceasefire with Hamas being in place.",
-      "label": "israeli strike in gaza city",
-      "char": "✈️"
-    },
-    {
-      "label": "woman jailed after 30 years on the run",
-      "url": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
-      "title": "Woman caught after 30 years on the run is jailed for armed robberies",
-      "summary": "Klette was finally caught in a flat in Berlin in 2024 and put on trial last year.",
-      "char": "🏃‍♀️"
-    },
-    {
-      "title": "High-Level British Spy Warns of Expanding Russia Threat",
-      "summary": "The director of Britain’s electronic surveillance agency warned that Moscow was getting more brazen, adding that estimates suggested 500,000 Russian soldiers had been killed in the Ukraine war.",
-      "char": "🕵️‍♂",
-      "url": "https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html",
-      "label": "british spy warns of russia threat"
-    },
-    {
-      "label": "same-sex marriage case in botswana",
-      "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
-      "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
-      "summary": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was s...",
-      "char": "🏳️‍🌈"
-    },
-    {
-      "title": "WHO chief calls for DRC ceasefire to tackle Ebola outbreak",
-      "summary": "Tedros Adhanom Ghebreyesus warns of ‘catastrophic collision of disease and conflict’, with suspected cases at 900 The head of the World Health Organization has called for an immediate ceasefire in the eastern Democratic Republic of the C...",
-      "char": "🦠",
-      "url": "https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola",
-      "label": "who calls for ebola ceasefire in drc"
-    },
-    {
-      "label": "nepal's unique time system",
-      "url": "https://www.nytimes.com/2026/05/27/world/asia/nepal-time-15-minutes.html",
-      "summary": "In Nepal, a nation wedged between India and China, a unique time zone is just one expression of a singular national identity.",
-      "char": "⏳",
-      "title": "Where Time Is Always 15 Minutes Apart From Everywhere Else"
+      "char": "🍰",
+      "label": "basque cheesecake inventor plans retirement",
+      "url": "https://www.nytimes.com/2026/05/27/world/europe/basque-cheesecake-inventor-rivera-spain.html",
+      "title": "Inventor of the Basque Cheesecake Plans to Retire. His Secret: He Prefers Chocolate",
+      "summary": "Santiago Rivera is widely credited with creating the “burnt” cheesecake in the 1980s, though he doesn’t love the spinoffs it has spawned. Decades later, he’s preparing to hand over his kitchen to his children."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "Today's news highlights severe crises including extreme weather, violence, and health emergencies, reflecting a deep sense of sadness and concern for human suffering.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
