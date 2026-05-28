@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "sadness",
-    "emoji": "😢",
-    "rationale": "The day is marked by alarming news about the Ebola outbreak, tragic loss of life in school fires, and ongoing societal struggles, which evoke a profound sense of sadness and concern.",
+    "emotion_label": "Concern",
+    "emoji": "😨",
+    "rationale": "The day is marked by alarming news about the ongoing Ebola outbreak and tragic incidents like the school fire in Kenya, reflecting a strong sense of unease and worry for public safety.",
     "palette": [
       "😢",
       "😡",
