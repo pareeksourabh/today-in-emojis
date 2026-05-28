@@ -44483,5 +44483,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-28",
+    "emojis": [
+      {
+        "char": "🇦🇷",
+        "label": "peter thiel in argentina",
+        "url": "https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html",
+        "title": "In Argentina, U.S. Tech Billionaire Peter Thiel Finds An Escape",
+        "summary": "The billionaire’s new roots in Argentina are said to be partly motivated by concerns about the future of the United States and a shared ideology with Argentina’s right-wing leader."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in drc",
+        "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
+        "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
+        "summary": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic..."
+      },
+      {
+        "char": "🔥",
+        "label": "kenya school dormitory fire",
+        "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
+        "title": "Dormitory fire at Kenyan school kills at least 15 students",
+        "summary": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire that ripped through a dormitory at a girls’ school in Kenya overnight has killed at least 15 students, according to po..."
+      },
+      {
+        "char": "⚔️",
+        "label": "iran targets us base",
+        "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+        "title": "Iran says it targeted American base after fresh US strikes",
+        "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war."
+      },
+      {
+        "char": "⚖️",
+        "label": "same-sex marriage in botswana",
+        "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
+        "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
+        "summary": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was s..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
