@@ -44571,5 +44571,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-28",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "why pakistan and afghanistan are still fighting",
+        "url": "https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html",
+        "title": "Why Pakistan and Afghanistan Are Still Fighting",
+        "summary": "Months after Pakistan declared “open war” on Afghanistan, neither side appears ready to back down, despite China’s efforts to mediate."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "same-sex marriage case in botswana",
+        "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
+        "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
+        "summary": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was s..."
+      },
+      {
+        "char": "💼",
+        "label": "carney's speech on us-canada relations",
+        "url": "https://www.nytimes.com/2026/05/28/world/canada/carney-united-states-canada-trump.html",
+        "title": "Carney Says That Canada’s Distancing is Good for U.S. in New York Speech",
+        "summary": "Speaking in New York, the Canadian prime minister called for a new relationship between Canada and United States."
+      },
+      {
+        "char": "🔥",
+        "label": "dormitory fire at kenyan school",
+        "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
+        "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
+        "summary": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke..."
+      },
+      {
+        "char": "🌍",
+        "label": "the race for oil in jamaica",
+        "url": "https://www.theguardian.com/global-development/2026/may/28/the-race-for-oil-will-jamaica-be-the-next-country-to-drill-and-what-does-that-mean-for-its-green-pledges",
+        "title": "The race for oil: will Jamaica be the next country to drill and what does that mean for its green pledges?",
+        "summary": "With early tests suggesting the presence of crude oil, the Caribbean island has begun to debate whether it could justify becoming a producer Jamaica is closer than ever to drilling for oil. Tests on samples from the seabed off the Caribb..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
