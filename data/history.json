@@ -44747,5 +44747,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-29",
+    "emojis": [
+      {
+        "char": "🚢",
+        "label": "ships stuck in hormuz",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tY3N5Nlg2MTI1am4wcEFhVS04SGhzakVEYW1tNHVNdy1Qd1REa25nanlzVkpnS2Z0d3ZDUzlYLXlRZExNalBHQmFKUQ?oc=5",
+        "title": "Market Talk: 'At least a month' to clear ships stuck in Hormuz - Reuters",
+        "summary": "Market Talk: 'At least a month' to clear ships stuck in Hormuz Reuters"
+      },
+      {
+        "char": "😡",
+        "label": "anger over extradition decision",
+        "url": "https://www.theguardian.com/technology/2026/may/29/anger-decision-not-extradite-canadian-suicide-kit-supplier-face-uk-justice",
+        "title": "Anger at decision not to extradite Canadian suicide kit supplier to face UK justice",
+        "summary": "Kenneth Law pleaded guilty in Canada to sending products internationally, knowing they would probably be used to end lives Bereaved families whose loved ones were the victims of an online supplier of suicide kits say they feel insulted b..."
+      },
+      {
+        "char": "🔥",
+        "label": "dormitory fire in kenya",
+        "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
+        "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
+        "summary": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke..."
+      },
+      {
+        "char": "🚀",
+        "label": "nasa moon plans in doubt",
+        "url": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
+        "title": "Exploding rocket casts doubts over Nasa's Moon plans",
+        "summary": "Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola quarantine center in kenya",
+        "url": "https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya",
+        "title": "US building Ebola quarantine center in Kenya for Americans amid outbreak",
+        "summary": "Some experts criticize White House approach and say not allowing Americans to return to US hurts treatment efforts The Trump administration is building a quarantine and treatment center in Kenya for Americans affected by the Ebola outbre..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
