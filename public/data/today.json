@@ -1,43 +1,204 @@
 {
   "date": "2026-05-29",
-  "timestamp": "2026-05-29T18:24:41Z",
+  "timestamp": "2026-05-29T00:00:00Z",
   "emojis": [
     {
-      "char": "🇮🇱",
-      "label": "netanyahu increases control of gaza",
-      "url": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
-      "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
-      "summary": "The expansion in control by Israel would contradict the terms of the ceasefire Israel and Hamas agreed to in October 2025."
+      "label": "why pakistan and afghanistan are fighting",
+      "url": "https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html",
+      "title": "Why Pakistan and Afghanistan Are Still Fighting",
+      "char": "🇵🇰",
+      "summary": "Months after Pakistan declared “open war” on Afghanistan, neither side appears ready to back down, despite China’s efforts to mediate."
     },
     {
-      "char": "🇫🇷",
-      "label": "france's far right leaders diverge",
-      "url": "https://www.nytimes.com/2026/05/29/world/europe/france-presidential-election-le-pen-bardella.html",
-      "title": "France’s Far Right Has 2 Leaders. They Don’t Always Have One Voice.",
-      "summary": "Marine Le Pen and her protégé, Jordan Bardella, lead presidential polls. They are united on curbing immigration but split recently on economic policy."
+      "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
+      "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
+      "label": "dormitory fire at kenyan school",
+      "summary": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke...",
+      "char": "🔥"
+    },
+    {
+      "summary": "Rival groups are vying for territorial control of strategic cocaine production and trafficking region At least 52 guerrilla fighters have been killed in clashes between two rival armed groups vying for territorial control of a strategic...",
+      "char": "⚔️",
+      "title": "Clashes between armed groups in Colombia kill at least 52",
+      "url": "https://www.theguardian.com/world/2026/may/28/clashes-between-armed-groups-in-colombia-kill-at-least-52",
+      "label": "clashes in colombia kill at least 52"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/28/world/canada/carney-united-states-canada-trump.html",
+      "title": "Carney Says That Canada’s Distancing is Good for U.S. in New York Speech",
+      "label": "carney on us-canada partnership",
+      "summary": "Speaking in New York, the Canadian prime minister called for a new relationship between Canada and United States.",
+      "char": "🌍"
     },
     {
       "char": "🦠",
-      "label": "who reports high ebola death rate",
-      "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
-      "title": "WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC",
-      "summary": "Tedros Adhanom Ghebreyesus calls for ceasefire among armed groups to help avoid deaths from preventable disease The death rate of the Ebola outbreak in the Democratic Republic of the Congo is between 30% and 50%, the World Health Organiz..."
+      "summary": "Tedros Adhanom Ghebreyesus warns of ‘catastrophic collision of disease and conflict’, as Uganda closes border with DRC The head of the World Health Organization has called for an immediate ceasefire in the eastern Democratic Republic of...",
+      "label": "who calls for drc ceasefire",
+      "title": "WHO chief calls for DRC ceasefire to tackle Ebola outbreak",
+      "url": "https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola"
     },
     {
-      "char": "🚁",
-      "label": "nato condemns russian drone attack",
-      "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
-      "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
-      "summary": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory."
+      "char": "🔥",
+      "summary": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke...",
+      "label": "kenyan school dormitory fire kills 16",
+      "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
+      "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil"
     },
     {
-      "char": "🌍",
-      "label": "vietnam warns of superpower conflict",
-      "url": "https://www.nytimes.com/2026/05/29/world/asia/vietnam-to-lam-shangri-la-dialogue.html",
-      "title": "Vietnam’s Leader Warns Asia About the Risks of Superpower Conflict",
-      "summary": "In a speech to military leaders from the region, To Lam said that distrust and a lack of respect for established rules had created a culture of “the big fish swallowing the small fish.”"
+      "char": "💰",
+      "summary": "Police say the operation targeted the network of notorious late Sicilian mafia boss Matteo Messina Denaro.",
+      "label": "italy seizes mafia mobster's millions",
+      "title": "Villas, cars and cash: Italy seizes dead Mafia mobster's millions",
+      "url": "https://www.bbc.com/news/articles/ceqpd4gqgveo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Moment Blue Origin rocket explodes during test in Florida",
+      "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
+      "label": "blue origin rocket explodes during test",
+      "summary": "A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night.",
+      "char": "🚀"
+    },
+    {
+      "char": "🤝",
+      "summary": "Central American country says its president spoke with Pete Hegseth to confirm terms of cooperation Sign up for the Breaking News US newsletter email Guatemala has requested US military cooperation spanning access to equipment, training...",
+      "label": "guatemala requests us military cooperation",
+      "url": "https://www.theguardian.com/world/2026/may/28/guatemala-us-military-drug-trafficking",
+      "title": "Guatemala requests US military cooperation against drug trafficking"
+    },
+    {
+      "title": "WHO chief calls for DRC ceasefire to tackle Ebola outbreak",
+      "url": "https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola",
+      "label": "who chief calls for ebola ceasefire",
+      "summary": "Tedros Adhanom Ghebreyesus warns of ‘catastrophic collision of disease and conflict’, as Uganda closes border with DRC The head of the World Health Organization has called for an immediate ceasefire in the eastern Democratic Republic of...",
+      "char": "🦠"
+    },
+    {
+      "label": "samsung union challenges pay deal",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnppM3Jla2xWUzlmcEFYYmoxc2hkdVJZbHlfanZlOHVESkpyRHczREloeGp3TlBLd3MxOVB0a0FYeV9kalVOb1EzaG5sc01EbVRNdVFQbWx6cW81b3l5VVV4ekdXQ3JjejdOQnFRckZwbmE1b291QkFCTlFQZG5ISi16eXRVTHBpNUswZzVCZzduNG45OXZQaUFmSFR2RVQ4dFVLeTVzN2hzak9kbklKOWZiWUdHM3ZxSGc?oc=5",
+      "title": "Minority union at Samsung Electronics to challenge pay deal in court - Reuters",
+      "char": "⚖️",
+      "summary": "Minority union at Samsung Electronics to challenge pay deal in court Reuters"
+    },
+    {
+      "summary": "The billionaire’s new roots in Argentina are said to be partly motivated by concerns about the future of the United States and shared beliefs with Argentina’s right-wing leader.",
+      "title": "In Argentina, U.S. Tech Billionaire Peter Thiel Finds An Escape",
+      "char": "🇦🇷",
+      "label": "peter thiel finds escape in argentina",
+      "url": "https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html"
+    },
+    {
+      "summary": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
+      "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
+      "char": "🏥",
+      "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
+      "label": "gaza hospitals report casualties from strike"
+    },
+    {
+      "summary": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke...",
+      "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
+      "char": "🔥",
+      "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
+      "label": "kenya school dormitory fire kills students"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzF0MW9ybndBRG41RVFUa2ItMVpFNFJ0MFhBSFB5dkkwdEpPZVlhUDBMX1pMcTJsX09zakdfVVhvTXRGc0hNRmZkUWNDWDQ1bXBpbWVTT0c0NzlaUXlBMm9ORExXaVF6OGtTdWZTVE01U0x5UnZVS0hRSmpFY295aDJXbTBCRklWZWN1RFh1VW9kVDduMmVTbVdCeVM4ZzhaR20zN3B6WQ?oc=5",
+      "label": "us treasury launches trump accounts app",
+      "title": "US Treasury rolls out Trump Accounts app nationwide - Reuters",
+      "char": "💻",
+      "summary": "US Treasury rolls out Trump Accounts app nationwide Reuters"
+    },
+    {
+      "title": "Carney calls for new US-Canada partnership to ‘help make America great again’",
+      "label": "new us-canada partnership",
+      "summary": "Canada prime minister urges greater economic cooperation between the two countries in speech delivered in New York Canada’s prime minister, Mark Carney has called for a new relationship with the United States to “help make America great...",
+      "char": "🇨🇦",
+      "url": "https://www.theguardian.com/world/2026/may/28/mark-carney-trade-partnership-canada-america"
+    },
+    {
+      "summary": "In Kyiv, military-inspired fashion can be seen everywhere. Soldiers and civilians alike say it’s a show of solidarity, not a fad.",
+      "char": "🇺🇦",
+      "title": "How Ukraine’s Street Style Is Shaped by the War",
+      "label": "ukraine's street style in war",
+      "url": "https://www.nytimes.com/2026/05/28/world/europe/ukraine-war-street-style-fashion-military.html"
+    },
+    {
+      "summary": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke...",
+      "char": "🔥",
+      "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
+      "label": "kenyan school dormitory fire",
+      "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil"
+    },
+    {
+      "url": "https://www.theguardian.com/technology/2026/may/29/anger-decision-not-extradite-canadian-suicide-kit-supplier-face-uk-justice",
+      "title": "Anger at decision not to extradite Canadian suicide kit supplier to face UK justice",
+      "label": "canadian suicide kit extradition",
+      "summary": "Kenneth Law expected to admit to sending products internationally in knowledge they would probably be used to end lives Bereaved families whose loved ones were the victims of an online supplier of suicide kits say they feel insulted by a...",
+      "char": "⚖️"
+    },
+    {
+      "title": "US building Ebola quarantine center in Kenya for Americans amid outbreak",
+      "label": "ebola quarantine center in kenya",
+      "summary": "Some experts criticize White House approach and say not allowing Americans to return to US hurts treatment efforts The Trump administration is building a quarantine and treatment center in Kenya for Americans affected by the Ebola outbre...",
+      "char": "💊",
+      "url": "https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya"
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya",
+      "label": "us building ebola quarantine center",
+      "title": "US building Ebola quarantine center in Kenya for Americans amid outbreak",
+      "char": "🦠",
+      "summary": "Some experts criticize White House approach and say not allowing Americans to return to US hurts treatment efforts The Trump administration is building a quarantine and treatment center in Kenya for Americans affected by the Ebola outbre..."
+    },
+    {
+      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
+      "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
+      "label": "poison seller admits aiding suicides",
+      "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
+      "char": "💊"
+    },
+    {
+      "title": "US designates Brazil’s two largest gangs as terrorist organizations",
+      "url": "https://www.theguardian.com/world/2026/may/29/brazil-gangs-terrorist-rubio",
+      "label": "brazil gangs designated as terrorists",
+      "summary": "Announcement by Marco Rubio is being widely seen as setback for Brazil’s president, and a boost for his far-right challenger The United States has designated Brazil’s two largest criminal gangs, the First Capital Command (PCC) and the Re...",
+      "char": "🚨"
+    },
+    {
+      "summary": "Tedros Adhanom Ghebreyesus warns of ‘catastrophic collision of disease and conflict’, as Uganda closes border with DRC The head of the World Health Organization has called for an immediate ceasefire in the eastern Democratic Republic of...",
+      "char": "🕊️",
+      "title": "WHO chief calls for DRC ceasefire to tackle Ebola outbreak",
+      "url": "https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola",
+      "label": "who calls for drc ceasefire"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c172yyvp55do?at_medium=RSS&at_campaign=rss",
+      "label": "delhi's poor face extreme heat",
+      "title": "Survival before safety for Delhi's poor as temperatures hit 45C",
+      "char": "🌡️",
+      "summary": "As temperatures peak, Delhi’s informal workers continue working despite growing health risks."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Sadness",
+    "emoji": "😢",
+    "rationale": "The news items are filled with sorrowful events, including school fires, armed conflicts, and humanitarian crises, evoking a strong sense of sadness and concern for the affected communities.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
