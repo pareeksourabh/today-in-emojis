@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Sadness",
+    "emotion_label": "sorrow",
     "emoji": "😢",
-    "rationale": "The news items are filled with sorrowful events, including school fires, armed conflicts, and humanitarian crises, evoking a strong sense of sadness and concern for the affected communities.",
+    "rationale": "The day's news is marked by tragic events, including the deaths of students in a school fire and ongoing violence in conflict zones, evoking a deep sense of sorrow and loss.",
     "palette": [
       "😢",
       "😡",
