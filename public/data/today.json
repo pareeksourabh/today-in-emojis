@@ -1,204 +1,43 @@
 {
-  "date": "2026-05-28",
-  "timestamp": "2026-05-28T00:00:00Z",
+  "date": "2026-05-29",
+  "timestamp": "2026-05-29T00:00:00Z",
   "emojis": [
     {
-      "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
-      "char": "🦠",
-      "summary": "WHO says outbreak poses ‘very high’ risk for country, but risk of disease spreading globally remains low Authorities in the Democratic Republic of the Congo say that suspected Ebola cases have now passed 900 in the ongoing outbreak in th...",
-      "label": "ebola cases in drc rise",
-      "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks"
-    },
-    {
-      "summary": "The search is continuing for a further two villagers who are still missing, rescuers say.",
-      "label": "five rescued from flooded laos cave",
-      "url": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
-      "title": "Five people found alive after week trapped in flooded Laos cave",
-      "char": "🏞️"
-    },
-    {
-      "title": "President Sheinbaum allows Iran team to stay in Mexico during World Cup after US refusal",
-      "char": "⚽",
-      "summary": "Fifa approached Mexico after US declined to host Iran squad despite it playing group games in the United States Mexico’s president, Claudia Sheinbaum , said on Monday her government agreed to allow the Iranian national football team to s...",
-      "label": "iran team stays in mexico for world cup",
-      "url": "https://www.theguardian.com/world/2026/may/25/mexico-fifa-iran-team"
-    },
-    {
-      "url": "https://www.nytimes.com/2026/05/27/world/asia/china-solomons-pacific-security-threats.html",
-      "summary": "When a remote Pacific village asked for help with rowdy youth, the Chinese police arrived with a surveillance system. Then came the backlash.",
-      "label": "china's security testing in pacific village",
-      "char": "🌏",
-      "title": "A Quiet Pacific Village Becomes China’s Security Testing Ground"
-    },
-    {
-      "char": "🍰",
-      "title": "Inventor of the Basque Cheesecake Plans to Retire. His Secret: He Prefers Chocolate",
-      "url": "https://www.nytimes.com/2026/05/27/world/europe/basque-cheesecake-inventor-rivera-spain.html",
-      "label": "basque cheesecake inventor plans retirement",
-      "summary": "Santiago Rivera is widely credited with creating the “burnt” cheesecake in the 1980s, though he doesn’t love the spinoffs it has spawned. Decades later, he’s preparing to hand over his kitchen to his children."
-    },
-    {
-      "summary": "Nigel Farage’s anti-immigrant, populist agenda has helped his party, Reform U.K., emerge from the fringe of politics in Britain. But it faces an uphill climb to win power.",
-      "label": "far-right party in britain",
-      "char": "🇬🇧",
-      "title": "Nigel Farage’s Far-Right Party Is Now Central to British Politics",
-      "url": "https://www.nytimes.com/2026/05/27/world/europe/britain-reform-party-farage.html"
-    },
-    {
-      "summary": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García...",
-      "label": "case dismissed for abrego garcia",
-      "char": "⚖️",
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
-      "url": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed"
-    },
-    {
-      "summary": "The agreement all but guarantees hefty bonuses for employees in the top-performing chip unit. Other workers say they feel left out.",
-      "label": "samsung unions approve pay deal",
-      "char": "🤖",
-      "title": "Samsung Unions Approve Pay Deal That Highlights Inequality of A.I. Age",
-      "url": "https://www.nytimes.com/2026/05/27/world/asia/samsung-ai-profit-bonus-workers.html"
-    },
-    {
-      "char": "🦠",
-      "summary": "Some experts criticize White House approach and say not allowing Americans to return to US hurts treatment efforts The Trump administration is building a quarantine and treatment center in Kenya for Americans affected by the Ebola outbre...",
-      "label": "ebola quarantine center in kenya",
-      "url": "https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya",
-      "title": "US building Ebola quarantine center in Kenya for Americans amid outbreak"
-    },
-    {
-      "summary": "Santiago Rivera is widely credited with creating the “burnt” cheesecake in the 1980s, though he doesn’t love the spinoffs it has spawned. Decades later, he’s preparing to hand over his kitchen to his children.",
-      "label": "basque cheesecake inventor retires",
-      "char": "🍰",
-      "title": "Inventor of the Basque Cheesecake Plans to Retire. His Secret: He Prefers Chocolate",
-      "url": "https://www.nytimes.com/2026/05/27/world/europe/basque-cheesecake-inventor-rivera-spain.html"
-    },
-    {
-      "label": "same-sex marriage in botswana",
-      "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
-      "summary": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was s...",
-      "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
-      "char": "🏳️‍🌈"
-    },
-    {
-      "title": "Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal",
-      "char": "⚔️",
-      "url": "https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html",
-      "label": "lebanon war deal us iran",
-      "summary": "Few in Lebanon believe that diplomatic efforts to end the wider war will bring peace to their country, as clashes between Israel and Hezbollah intensify in the south."
-    },
-    {
-      "title": "Venezuela inmates occupy prison roof and set fire to mattresses to highlight alleged abuse",
-      "char": "🔥",
-      "label": "venezuela prison protest",
-      "url": "https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses",
-      "summary": "Inmates at Barinas prison allege they were peacefully protesting when prison staff opened fire, leaving some wounded Inmates at Venezuela’s western Barinas prison staged a protest on its roof on Sunday, piling flaming mattresses and call..."
-    },
-    {
-      "char": "🦠",
-      "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
-      "summary": "WHO says outbreak poses ‘very high’ risk for country, but risk of disease spreading globally remains low Authorities in the Democratic Republic of the Congo say that suspected Ebola cases have now passed 900 in the ongoing outbreak in th...",
-      "label": "ebola cases in drc",
-      "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks"
-    },
-    {
-      "char": "🤝",
-      "title": "Rubio’s India Visit Yields No Major Deals to Repair U.S.-India Relations",
-      "summary": "The secretary of state visited India to reassure the South Asian giant that it can still rely on the United States. India did not gain much from the visit.",
-      "url": "https://www.nytimes.com/2026/05/27/world/asia/marco-rubio-visit-india-modi-trump.html",
-      "label": "rubio's india visit"
-    },
-    {
-      "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say",
-      "summary": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
-      "char": "⚖️",
-      "url": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
-      "label": "trump investigation news"
-    },
-    {
-      "label": "australia sues 3M over chemicals",
-      "url": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The A$2bn case, which centres on contamination at defence sites, is the largest ever brought by the government.",
-      "char": "🌏",
-      "title": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam"
-    },
-    {
-      "label": "guatemala us joint strikes",
-      "url": "https://www.nytimes.com/2026/05/28/world/americas/guatemala-us-joint-strikes.html",
-      "title": "Guatemala Agrees to Joint Strikes With U.S. Against Drug Gangs",
-      "summary": "The deal is part of a broader effort by the Trump administration to press Latin American countries to agree to joint operations inside their borders.",
-      "char": "💥"
-    },
-    {
-      "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
-      "label": "kenya school fire tragedy",
-      "summary": "Dozens of people were also injured in the fire, the cause of which is not yet known.",
-      "char": "🔥",
-      "title": "Sixteen pupils killed in Kenya school fire"
-    },
-    {
-      "summary": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic...",
-      "char": "🦠",
-      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
-      "label": "ebola outbreak in drc",
-      "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who"
-    },
-    {
-      "char": "🦠",
-      "url": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
-      "summary": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic...",
-      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
-      "label": "ebola outbreak in drc"
-    },
-    {
-      "char": "✈️",
-      "url": "https://www.nytimes.com/2026/05/28/world/americas/cuba-oil-russia-tanker.html",
-      "summary": "A Russian tanker seemingly en route to Cuba with a lifeline of fuel has changed direction, a painful development for the island suffering under a U.S. oil blockade.",
-      "title": "Cuba Loses Its Chance at Fuel After Russian Tanker Changes Route",
-      "label": "cuba loses fuel chance"
-    },
-    {
-      "summary": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was s...",
-      "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
-      "label": "same-sex marriage in botswana",
-      "char": "🏳️‍🌈",
-      "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court"
+      "char": "🇵🇰",
+      "label": "why pakistan and afghanistan are fighting",
+      "url": "https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html",
+      "title": "Why Pakistan and Afghanistan Are Still Fighting",
+      "summary": "Months after Pakistan declared “open war” on Afghanistan, neither side appears ready to back down, despite China’s efforts to mediate."
     },
     {
       "char": "🔥",
+      "label": "dormitory fire at kenyan school",
       "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
-      "summary": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke...",
       "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
-      "label": "kenya school fire kills 16"
+      "summary": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke..."
     },
     {
-      "label": "jill biden's debate scare",
-      "summary": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
-      "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
-      "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
-      "char": "💼"
+      "char": "⚔️",
+      "label": "clashes in colombia kill at least 52",
+      "url": "https://www.theguardian.com/world/2026/may/28/clashes-between-armed-groups-in-colombia-kill-at-least-52",
+      "title": "Clashes between armed groups in Colombia kill at least 52",
+      "summary": "Rival groups are vying for territorial control of strategic cocaine production and trafficking region At least 52 guerrilla fighters have been killed in clashes between two rival armed groups vying for territorial control of a strategic..."
+    },
+    {
+      "char": "🌍",
+      "label": "carney on us-canada partnership",
+      "url": "https://www.nytimes.com/2026/05/28/world/canada/carney-united-states-canada-trump.html",
+      "title": "Carney Says That Canada’s Distancing is Good for U.S. in New York Speech",
+      "summary": "Speaking in New York, the Canadian prime minister called for a new relationship between Canada and United States."
+    },
+    {
+      "char": "🦠",
+      "label": "who calls for drc ceasefire",
+      "url": "https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola",
+      "title": "WHO chief calls for DRC ceasefire to tackle Ebola outbreak",
+      "summary": "Tedros Adhanom Ghebreyesus warns of ‘catastrophic collision of disease and conflict’, as Uganda closes border with DRC The head of the World Health Organization has called for an immediate ceasefire in the eastern Democratic Republic of..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Concern",
-    "emoji": "😨",
-    "rationale": "The day is marked by alarming news about the ongoing Ebola outbreak and tragic incidents like the school fire in Kenya, reflecting a strong sense of unease and worry for public safety.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
