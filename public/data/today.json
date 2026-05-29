@@ -1,41 +1,41 @@
 {
   "date": "2026-05-29",
-  "timestamp": "2026-05-29T15:50:43Z",
+  "timestamp": "2026-05-29T00:00:00Z",
   "emojis": [
     {
-      "char": "🚢",
-      "label": "ships stuck in hormuz",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tY3N5Nlg2MTI1am4wcEFhVS04SGhzakVEYW1tNHVNdy1Qd1REa25nanlzVkpnS2Z0d3ZDUzlYLXlRZExNalBHQmFKUQ?oc=5",
-      "title": "Market Talk: 'At least a month' to clear ships stuck in Hormuz - Reuters",
-      "summary": "Market Talk: 'At least a month' to clear ships stuck in Hormuz Reuters"
-    },
-    {
-      "char": "😡",
-      "label": "anger over extradition decision",
-      "url": "https://www.theguardian.com/technology/2026/may/29/anger-decision-not-extradite-canadian-suicide-kit-supplier-face-uk-justice",
-      "title": "Anger at decision not to extradite Canadian suicide kit supplier to face UK justice",
-      "summary": "Kenneth Law pleaded guilty in Canada to sending products internationally, knowing they would probably be used to end lives Bereaved families whose loved ones were the victims of an online supplier of suicide kits say they feel insulted b..."
-    },
-    {
-      "char": "🔥",
-      "label": "dormitory fire in kenya",
-      "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
-      "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
-      "summary": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke..."
-    },
-    {
-      "char": "🚀",
-      "label": "nasa moon plans in doubt",
-      "url": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
-      "title": "Exploding rocket casts doubts over Nasa's Moon plans",
-      "summary": "Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans."
-    },
-    {
       "char": "🦠",
-      "label": "ebola quarantine center in kenya",
+      "label": "us building ebola quarantine center",
       "url": "https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya",
       "title": "US building Ebola quarantine center in Kenya for Americans amid outbreak",
       "summary": "Some experts criticize White House approach and say not allowing Americans to return to US hurts treatment efforts The Trump administration is building a quarantine and treatment center in Kenya for Americans affected by the Ebola outbre..."
+    },
+    {
+      "char": "💊",
+      "label": "poison seller admits aiding suicides",
+      "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
+      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
+      "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain."
+    },
+    {
+      "char": "🚨",
+      "label": "brazil gangs designated as terrorists",
+      "url": "https://www.theguardian.com/world/2026/may/29/brazil-gangs-terrorist-rubio",
+      "title": "US designates Brazil’s two largest gangs as terrorist organizations",
+      "summary": "Announcement by Marco Rubio is being widely seen as setback for Brazil’s president, and a boost for his far-right challenger The United States has designated Brazil’s two largest criminal gangs, the First Capital Command (PCC) and the Re..."
+    },
+    {
+      "char": "🕊️",
+      "label": "who calls for drc ceasefire",
+      "url": "https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola",
+      "title": "WHO chief calls for DRC ceasefire to tackle Ebola outbreak",
+      "summary": "Tedros Adhanom Ghebreyesus warns of ‘catastrophic collision of disease and conflict’, as Uganda closes border with DRC The head of the World Health Organization has called for an immediate ceasefire in the eastern Democratic Republic of..."
+    },
+    {
+      "char": "🌡️",
+      "label": "delhi's poor face extreme heat",
+      "url": "https://www.bbc.com/news/articles/c172yyvp55do?at_medium=RSS&at_campaign=rss",
+      "title": "Survival before safety for Delhi's poor as temperatures hit 45C",
+      "summary": "As temperatures peak, Delhi’s informal workers continue working despite growing health risks."
     }
   ],
   "source": "ai-openai",
