@@ -44659,5 +44659,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-29",
+    "emojis": [
+      {
+        "char": "💰",
+        "label": "anthropic's valuation soars",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUpjZXd5MTl2S0ZtVWhmelZRdXBNaEM1UU1KQkppbVoxOG9hWkRlSEp1cjZGZV94TG1uVi1vTHhJXzdpYUZ5ZHlTcm1qWUgtd0RGRWl4WlFTVGUxU2k5WkFwaXp4ZkVFcWF6eWhvaFVVQkwzVHZTWlllRV9iSTMtTWRmSmt0RXBJenVtbjFQU0RqQ0h6a0V2eFhrQQ?oc=5",
+        "title": "Anthropic's valuation surges to $965 billion, surpassing OpenAI - Reuters",
+        "summary": "Anthropic's valuation surges to $965 billion, surpassing OpenAI Reuters"
+      },
+      {
+        "char": "🛢️",
+        "label": "oil prices drop amid deal hopes",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWTVlS2Y4YzBmWGowUkNTSF94M21QQjZ1TzViNVJhaEgwZFBJa200R1hydjhQYWgzUXJlcENFSjlaZndHVms5eXd5VW5XT3ljUllpcVZ1emhFT1plNUhLVzNJOEg2Wi1zUVRkUzZCVENaVS1sQWhTN2V4cVZPXzZmY1VpcmpBeTFh?oc=5",
+        "title": "Oil eyes weekly drop on Hormuz deal hopes; AI sends stocks to record highs - Reuters",
+        "summary": "Oil eyes weekly drop on Hormuz deal hopes; AI sends stocks to record highs Reuters"
+      },
+      {
+        "char": "⚔️",
+        "label": "armed clashes in colombia",
+        "url": "https://www.theguardian.com/world/2026/may/28/clashes-between-armed-groups-in-colombia-kill-at-least-52",
+        "title": "Clashes between armed groups in Colombia kill at least 52",
+        "summary": "Rival groups are vying for territorial control of strategic cocaine production and trafficking region At least 52 guerrilla fighters have been killed in clashes between two rival armed groups vying for territorial control of a strategic..."
+      },
+      {
+        "char": "🇦🇷",
+        "label": "argentina's image under scrutiny",
+        "url": "https://www.theguardian.com/world/2026/may/28/argentina-european-self-image-racist-incidents-brazil",
+        "title": "Argentina’s ‘European’ self-image under renewed scrutiny after racist incidents in Brazil",
+        "summary": "Case involving seven-year-old boy is latest flashpoint in debate over race relations in Latin America ‘Argentina needs to end its fantasy of being a European country’: Lucrecia Martel on the story of a killing A woman celebrating her 32n..."
+      },
+      {
+        "char": "🌍",
+        "label": "carney calls for us-canada partnership",
+        "url": "https://www.theguardian.com/world/2026/may/28/mark-carney-trade-partnership-canada-america",
+        "title": "Carney calls for new US-Canada partnership to ‘help make America great again’",
+        "summary": "Canada prime minister urges greater economic cooperation between the two countries in speech delivered in New York Canada’s prime minister, Mark Carney has called for a new relationship with the United States to “help make America great..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
