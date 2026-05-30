@@ -44835,5 +44835,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-30",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "ebola aid cuts in the drc",
+        "url": "https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc",
+        "title": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
+        "summary": "In today’s newsletter: As the virus spreads across borders, health workers warn that weakened global support is making a prolonged crisis more likely Ebola is spreading rapidly in parts of east Africa. The deadly disease, which kills aro..."
+      },
+      {
+        "char": "🇮🇱",
+        "label": "israel on un sexual violence blacklist",
+        "url": "https://www.bbc.com/news/articles/cx21le869n1o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel put on UN sexual violence in warzones blacklist for first time",
+        "summary": "Israel says it rejects allegations in a new report by the office of the UN secretary general."
+      },
+      {
+        "char": "🚁",
+        "label": "drone hits apartment in romania",
+        "url": "https://www.nytimes.com/2026/05/29/world/europe/romania-drone-russia-ukraine.html",
+        "title": "Russian Drone Hits Romanian Apartment Building, Officials Say",
+        "summary": "Romania is a NATO country, and the security alliance condemned “Russia’s recklessness” for an episode that sharply escalated tensions with Moscow."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "ghana passes anti-lgbtq+ bill",
+        "url": "https://www.bbc.com/news/articles/c5yedendprko?at_medium=RSS&at_campaign=rss",
+        "title": "Ghana parliament passes anti-LGBTQ+ bill",
+        "summary": "Same-sex acts are punishable by jail terms under Ghana's new bill targeting those identifying as gay, lesbian or transgender."
+      },
+      {
+        "char": "💰",
+        "label": "hungary to receive eu funds",
+        "url": "https://www.nytimes.com/2026/05/29/world/europe/eu-hungary-funds.html",
+        "title": "After Orban’s Defeat, Hungary Is Poised to Get Billions From E.U.",
+        "summary": "The European Union is set to release 16 billion euros it had withheld, as Hungary moves to enact anti-corruption and rule of law policies."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
