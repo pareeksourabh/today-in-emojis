@@ -45231,5 +45231,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-05-31",
+    "emojis": [
+      {
+        "char": "🚤",
+        "label": "us boat strikes and local costs",
+        "url": "https://www.nytimes.com/2026/05/31/world/americas/us-boat-strikes-colombia-ecuador.html",
+        "title": "As Deaths From U.S. Boat Strikes Pass 200, Locals Tally an Even Greater Cost",
+        "summary": "Residents of coastal communities in Colombia and Ecuador said the airstrike campaign was making many reconsider anything involving the ocean as a livelihood."
+      },
+      {
+        "char": "🗳️",
+        "label": "colombia's election and political violence",
+        "url": "https://www.theguardian.com/world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence",
+        "title": "Colombia prepares to go to polls in election shadowed by resurgence of political violence",
+        "summary": "Sunday’s presidential vote is contest between left and right – and between contradictory proposals for dealing with the decades-long armed conflict Mateo Pérez Rueda was one internship away from completing a degree in political science...."
+      },
+      {
+        "char": "🎥",
+        "label": "film on jamaica's obeah tradition",
+        "url": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
+        "title": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
+        "summary": "Stew Peas focuses on obeah, an enduring African magic practice in Jamaica banned by colonisers in the 1700s A new movie from award-winning Jamaican film-maker Sosiessia Nixon shines a spotlight on Jamaica’s enduring west African-based ma..."
+      },
+      {
+        "char": "💔",
+        "label": "death renews race relations scrutiny",
+        "url": "https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations",
+        "title": "Death of Congolese man renews scrutiny of race relations in Ireland",
+        "summary": "Yves Sakila died after being restrained by security guards ‘in broad daylight’ Irish authorities have agreed to a second postmortem on the body of a Congolese man who died after being restrained by shop security guards on a Dublin street..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in dr congo alarming",
+        "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+        "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+        "summary": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
