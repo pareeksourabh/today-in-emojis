@@ -45143,5 +45143,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-05-31",
+    "emojis": [
+      {
+        "char": "🇨🇺",
+        "label": "cuba's fuel blockade impact",
+        "url": "https://www.nytimes.com/2026/05/31/world/americas/cuba-trash-fuel-blockade.html",
+        "title": "Even Havana’s Street Sweepers Can’t Escape the Impact of the Fuel Blockade",
+        "summary": "A fuel blockade on Cuba has aggravated a lack of consistent garbage pickup and produced enormous trash piles."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in dr congo",
+        "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
+        "title": "WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC",
+        "summary": "Tedros Adhanom Ghebreyesus calls for ceasefire among armed groups to help avoid deaths from preventable disease The death rate of the Ebola outbreak in the Democratic Republic of the Congo is between 30% and 50%, the World Health Organiz..."
+      },
+      {
+        "char": "🔥",
+        "label": "kenyan school dormitory fire",
+        "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
+        "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
+        "summary": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke..."
+      },
+      {
+        "char": "🎉",
+        "label": "champions league celebrations",
+        "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
+        "title": "Hundreds arrested in France after wild Champions League celebrations",
+        "summary": "Thousands of officers tried to quell unrest as crowds of fans - some firing flares - celebrated PSG's victory over Arsenal."
+      },
+      {
+        "char": "🗳️",
+        "label": "colombia presidential election",
+        "url": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html",
+        "title": "Colombia Presidential Election: What to Know About the Candidates and Main Issues",
+        "summary": "The election tests the legacy of the country’s first leftist leader against a rising far-right outsider and a traditional conservative."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
