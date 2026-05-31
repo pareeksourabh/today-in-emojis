@@ -1,41 +1,41 @@
 {
   "date": "2026-05-31",
-  "timestamp": "2026-05-31T07:48:52Z",
+  "timestamp": "2026-05-31T00:00:00Z",
   "emojis": [
     {
+      "char": "🎤",
+      "label": "italy bans concerts over security concerns",
+      "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
+      "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+      "summary": "Local authorities say the cancellation of other West concerts had played a role in the decision."
+    },
+    {
+      "char": "🇪🇨",
+      "label": "ecuador accused of meddling in election",
+      "url": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
+      "title": "Ecuador accused of meddling in Colombian election with tariff vow",
+      "summary": "Ecuadorian leader Daniel Noboa offers to cancel tariffs after speaking to a right-wing presidential candidate ahead of Sunday's vote."
+    },
+    {
       "char": "🚁",
-      "label": "romanian drone fears",
+      "label": "romania fears after drone attack",
       "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss",
       "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
       "summary": "People have just begun returning to check on their homes in the block that was hit early on Friday morning."
     },
     {
-      "char": "🎉",
-      "label": "toronto's best party",
-      "url": "https://www.nytimes.com/2026/05/31/world/canada/toronto-basement-jams-caribbean-diaspora.html",
-      "title": "Where Is Toronto’s Best Party? Try the Basement.",
-      "summary": "Millennials who yearn for a bygone era of dancing that feels pure and more organic are bringing back the basement jam, popularized decades ago by Toronto’s Caribbean diaspora."
+      "char": "⚽",
+      "label": "france arrests after champions league chaos",
+      "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds arrested in France after wild Champions League celebrations",
+      "summary": "Thousands of officers tried to quell unrest as crowds of fans - some firing flares - celebrated PSG's victory over Arsenal."
     },
     {
-      "char": "🔥",
-      "label": "dormitory fire in kenya",
-      "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
-      "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
-      "summary": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke..."
-    },
-    {
-      "char": "🕌",
-      "label": "eid amid war in middle east",
-      "url": "https://www.nytimes.com/2026/05/30/world/middleeast/eid-al-adha-iran-gaza-lebanon.html",
-      "title": "Across the Middle East, Muslims Mark Eid Amid War and Crisis",
-      "summary": "From Iran to Gaza, Eid al-Adha celebrations were muted as war dragged on and shortages of food and fuel roiled the region."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola outbreak in congo",
-      "url": "https://www.nytimes.com/2026/05/30/world/africa/ebola-epicenter-congo.html",
-      "title": "Inside the Ebola Epicenter, the Virus Rages With Little to Stop It",
-      "summary": "A remote gold mining town is under siege, as medical workers struggle to beat back a surge of deaths and infections."
+      "char": "🗳️",
+      "label": "mexico bill on foreign interference",
+      "url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment",
+      "title": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
+      "summary": "Opposition says constitutional amendment would give bill ruling party carte blanche to overturn will of voters Sign up for the Breaking News US newsletter email Amid fierce criticism from opposition groups, Mexico ’s senate has passed ‌a..."
     }
   ],
   "source": "ai-openai",
