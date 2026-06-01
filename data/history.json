@@ -45363,5 +45363,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-01",
+    "emojis": [
+      {
+        "char": "💉",
+        "label": "moderna develops ebola vaccine",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNXlma3JOalpXQUZNUWRVQ1JseXZIRmdMX28wTjJScWJCTHhLVUd6SGktdGdERUx6Z3l6bGZuM0UzTTFIWXFLbkNITjR4ejVRc0xmOEVFYzhXWUFjRkNzXzlrTEVjWl9YV1E0dzFfRzQ5a19lMDdGTFVYOVI1VHpWeEdnWm5rRlJwb3Y3UUVnd0YwNXRkZzdRVkZEWEI3aGtqaVlpZzdocGVEaWFpdXBibkc4Q2tNZEtrVXZnSnBLaVFrcXQzN0w0azBKU05PTXozUDBVUV9vUE1tbThLX3g5WVROdG8?oc=5",
+        "title": "Moderna partners with global health coalition to develop Bundibugyo Ebola vaccine - Reuters",
+        "summary": "Moderna partners with global health coalition to develop Bundibugyo Ebola vaccine Reuters"
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuba's fuel blockade impact",
+        "url": "https://www.nytimes.com/2026/05/31/world/americas/cuba-trash-fuel-blockade.html",
+        "title": "Even Havana’s Street Sweepers Can’t Escape the Impact of the Fuel Blockade",
+        "summary": "A fuel blockade on Cuba has aggravated a lack of consistent garbage pickup and produced enormous trash piles."
+      },
+      {
+        "char": "🇹🇼",
+        "label": "taiwan criticizes china's actions",
+        "url": "https://www.nytimes.com/2026/06/01/world/asia/taiwan-china-new-york-times-expulsion.html",
+        "title": "Taiwan Criticizes China’s Expulsion of New York Times Reporter",
+        "summary": "The Taiwan president’s spokeswoman said China used “baseless pretexts” to punish journalists, which she called evidence that Beijing was a “troublemaker.”"
+      },
+      {
+        "char": "🇧🇷",
+        "label": "brazil gangs designated as terrorists",
+        "url": "https://www.theguardian.com/world/2026/may/29/brazil-gangs-terrorist-rubio",
+        "title": "Lula says Brazil will not be treated like ‘tinpot country’ after US designates gangs as terrorists",
+        "summary": "Marco Rubio made announcement after meeting president’s far-right challenger Flávio Bolsonaro Brazil will not be treated as a “tinpot country,” the country’s president, Luiz Inácio da Silva, said on Friday after the United States designa..."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires impact wealthier areas",
+        "url": "https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study",
+        "title": "Wildfires devastating richer areas but fewer hectares burned globally – study",
+        "summary": "‘Megafires’ in California, Canada, South Korea and Europe in 2025, but changes to farming slowed spread in parts of Africa “Devastating” wildfires ripped across the wealthier parts of the world in 2025, a study has found, even as globall..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 40
+    }
   }
 ]
