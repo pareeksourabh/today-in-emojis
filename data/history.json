@@ -45319,5 +45319,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-01",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "polls open in ethiopia",
+        "url": "https://www.bbc.com/news/articles/cn0pngz2rego?at_medium=RSS&at_campaign=rss",
+        "title": "Polls open in Ethiopia, but not everyone can vote",
+        "summary": "Prime Minister Abiy Ahmed's party is expected to dominate the election as conflicts overshadow the vote."
+      },
+      {
+        "char": "⚽",
+        "label": "south africa world cup visa issues",
+        "url": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss",
+        "title": "South Africa made to look like fools over World Cup visa issues, says minister",
+        "summary": "After a day of uncertainty, the government confirms the team will depart for Mexico on Monday."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuba's fuel blockade impact",
+        "url": "https://www.nytimes.com/2026/05/31/world/americas/cuba-trash-fuel-blockade.html",
+        "title": "Even Havana’s Street Sweepers Can’t Escape the Impact of the Fuel Blockade",
+        "summary": "A fuel blockade on Cuba has aggravated a lack of consistent garbage pickup and produced enormous trash piles."
+      },
+      {
+        "char": "🎥",
+        "label": "film on jamaica's obeah tradition",
+        "url": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
+        "title": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
+        "summary": "Stew Peas focuses on obeah, an enduring African magic practice in Jamaica banned by colonisers in the 1700s A new movie from award-winning Jamaican film-maker Sosiessia Nixon shines a spotlight on Jamaica’s enduring west African-based ma..."
+      },
+      {
+        "char": "💥",
+        "label": "explosion in myanmar village",
+        "url": "https://www.nytimes.com/2026/06/01/world/asia/myanmar-explosion-blast-warehouse-deaths.html",
+        "title": "Dozens Killed as Explosion Flattens Rebel-Held Village in Myanmar",
+        "summary": "The local authorities said the cause was an accident at a warehouse that held explosives for mining operations."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
