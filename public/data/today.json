@@ -39,5 +39,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "Today highlights a mix of significant events that evoke concern, from political unrest in Mexico and Ghana's harsh new law against LGBTQ+ individuals to the challenges posed by environmental disasters. These issues reflect a day filled with",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
