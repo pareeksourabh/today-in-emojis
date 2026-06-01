@@ -45451,5 +45451,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-01",
+    "emojis": [
+      {
+        "char": "🎾",
+        "label": "williams returns to queen's doubles",
+        "url": "https://www.bbc.com/sport/tennis/articles/cx21k06ddvyo?at_medium=RSS&at_campaign=rss",
+        "title": "Williams, 44, to return to action in Queen's doubles",
+        "summary": "Serena Williams will return to competitive tennis for the first time in nearly four years when she plays in the women's doubles at Queen's."
+      },
+      {
+        "char": "🇲🇽",
+        "label": "mexico bill on election annulment",
+        "url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment",
+        "title": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
+        "summary": "Opposition says constitutional amendment would give bill ruling party carte blanche to overturn will of voters Sign up for the Breaking News US newsletter email Amid fierce criticism from opposition groups, Mexico ’s senate has passed ‌a..."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "ghana criminalises lgbtq+ activity",
+        "url": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
+        "title": "People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity",
+        "summary": "Community groups say some fear they could lose homes, jobs and access to healthcare if the new law is ratified by President John Dramani Mahama Ghana’s LGBTQ community is living in fear after the country’s parliament approved a sweeping..."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires impact wealthier areas",
+        "url": "https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study",
+        "title": "Wildfires devastating richer areas but fewer hectares burned globally – study",
+        "summary": "‘Megafires’ in California, Canada, South Korea and Europe in 2025, but changes to farming slowed spread in parts of Africa “Devastating” wildfires ripped across the wealthier parts of the world in 2025, a study has found, even as globall..."
+      },
+      {
+        "char": "🗳️",
+        "label": "colombia election results shock",
+        "url": "https://www.theguardian.com/world/2026/jun/01/trump-admirer-abelardo-de-la-espriella-election-win-blow-to-colombia-conservatives",
+        "title": "Trump admirer’s surprise first-round win is a blow to Colombia’s traditional conservatives",
+        "summary": "Success of far-right presidential candidate, Abelardo de la Espriella, suggests some voters are ‘fed up with politics’ The far-right lawyer Abelardo de la Espriella and the leftwing senator Iván Cepeda have just under three weeks to comp..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
