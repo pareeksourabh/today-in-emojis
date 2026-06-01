@@ -1,204 +1,43 @@
 {
-  "date": "2026-05-31",
-  "timestamp": "2026-05-31T00:00:00Z",
+  "date": "2026-06-01",
+  "timestamp": "2026-06-01T00:00:00Z",
   "emojis": [
     {
-      "summary": "Two of the seven villagers who entered the narrow tunnels in search for gold on 20 May are still missing.",
-      "title": "Four more men freed from flooded Laos cave after 10 days",
-      "label": "four men freed from laos cave",
-      "char": "🏞️",
-      "url": "https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss",
-      "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
-      "label": "romanian city fears drone attacks",
-      "char": "🚁",
-      "summary": "People have just begun returning to check on their homes in the block that was hit early on Friday morning."
-    },
-    {
-      "url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
-      "summary": "Aid agencies are racing to help underequipped health workers in the Democratic Republic of Congo. More than 245 people are now suspected to have died from the virus.",
-      "title": "What to Know About the Ebola Outbreak",
-      "label": "what to know about ebola outbreak",
-      "char": "🦠"
-    },
-    {
-      "summary": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
-      "title": "US, UK and Australia to develop underwater drone technology",
-      "label": "underwater drone tech development",
-      "char": "🤖",
-      "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "url": "https://www.nytimes.com/2026/05/30/world/europe/ye-travis-scott-italy-concerts.html",
-      "summary": "The events were canceled “to ensure public order and safety,” the authorities said. Jewish leaders had objected to the concert by Ye, formerly known as Kanye West, who has a history of antisemitic remarks.",
-      "title": "Ye and Travis Scott Concerts Canceled in Italy Over Security Fears",
-      "label": "ye and travis scott concerts canceled",
-      "char": "🎤"
-    },
-    {
-      "summary": "Kenneth Law, who sold lethal chemicals online with instructions on how to use them, admits counselling or aiding suicide ‘It was too easy’: families ask how Kenneth Law enabled so many suicides A Canadian man who mailed “suicide packets”...",
-      "label": "canadian man admits sending suicide packets",
-      "char": "🧠",
-      "title": "Canadian man admits sending ‘suicide packets’ to hundreds of people around world",
-      "url": "https://www.theguardian.com/world/2026/may/29/canada-kenneth-law-suicide-packets-hundreds-of-people-around-world"
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
-      "title": "WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC",
-      "char": "⚰️",
-      "summary": "Tedros Adhanom Ghebreyesus calls for ceasefire among armed groups to help avoid deaths from preventable disease The death rate of the Ebola outbreak in the Democratic Republic of the Congo is between 30% and 50%, the World Health Organiz...",
-      "label": "who puts ebola outbreak death rate at 30-50%"
-    },
-    {
-      "char": "🌍",
-      "summary": "The president has wavered on whether to move ahead with an agreement with Iran to end the war. On Friday, he vowed to make a “final determination” soon.",
-      "label": "trump mulls decision about iran war deal",
-      "url": "https://www.nytimes.com/2026/05/30/world/middleeast/trump-deal-middle-east-iran.html",
-      "title": "As Trump Mulls Decision About Iran War Deal, a Restive Middle East Waits to Hear"
-    },
-    {
-      "summary": "Thousands of officers tried to quell unrest as crowds of fans - some firing flares - celebrated PSG's victory over Arsenal.",
-      "label": "hundreds arrested in france after celebrations",
-      "char": "🎉",
-      "title": "Hundreds arrested in France after wild Champions League celebrations",
-      "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "summary": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke...",
-      "label": "dormitory fire at kenyan girls’ school kills 16",
-      "char": "🏫",
-      "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
-      "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil"
-    },
-    {
-      "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
-      "char": "🎤",
-      "summary": "Local authorities say the cancellation of other West concerts had played a role in the decision.",
-      "label": "italy bans concerts over security concerns",
-      "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "summary": "Ecuadorian leader Daniel Noboa offers to cancel tariffs after speaking to a right-wing presidential candidate ahead of Sunday's vote.",
-      "label": "ecuador accused of meddling in election",
-      "url": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
-      "title": "Ecuador accused of meddling in Colombian election with tariff vow",
-      "char": "🇪🇨"
-    },
-    {
-      "summary": "People have just begun returning to check on their homes in the block that was hit early on Friday morning.",
-      "label": "romania fears after drone attack",
-      "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss",
-      "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
-      "char": "🚁"
-    },
-    {
-      "title": "Hundreds arrested in France after wild Champions League celebrations",
-      "char": "⚽",
-      "summary": "Thousands of officers tried to quell unrest as crowds of fans - some firing flares - celebrated PSG's victory over Arsenal.",
-      "label": "france arrests after champions league chaos",
-      "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
-      "char": "🗳️",
-      "summary": "Opposition says constitutional amendment would give bill ruling party carte blanche to overturn will of voters Sign up for the Breaking News US newsletter email Amid fierce criticism from opposition groups, Mexico ’s senate has passed ‌a...",
-      "label": "mexico bill on foreign interference",
-      "url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment"
-    },
-    {
-      "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
-      "label": "japan criticizes china's militarism",
-      "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
-      "char": "🇯🇵",
-      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'"
-    },
-    {
-      "char": "🇨🇴",
-      "title": "Colombia Presidential Election: What to Know About the Candidates and Main Issues",
-      "summary": "The election tests the legacy of the country’s first leftist leader against a rising far-right outsider and a traditional conservative.",
-      "label": "colombia presidential election overview",
-      "url": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html"
-    },
-    {
-      "title": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
-      "char": "🇲🇽",
-      "label": "mexico bill on foreign election interference",
-      "url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment",
-      "summary": "Opposition says constitutional amendment would give bill ruling party carte blanche to overturn will of voters Sign up for the Breaking News US newsletter email Amid fierce criticism from opposition groups, Mexico ’s senate has passed ‌a..."
-    },
-    {
-      "summary": "Demand has soared for his figurines and statues of the warrior king. It started with a video he posted online.",
-      "label": "sculptor behind india's shivaji craze",
+      "char": "🗿",
+      "label": "the sculptor riding india’s shivaji craze",
       "url": "https://www.nytimes.com/2026/05/31/world/asia/india-shivaji-statue-sculptor.html",
-      "char": "🇮🇳",
-      "title": "The Sculptor Riding India’s Shivaji Craze"
+      "title": "The Sculptor Riding India’s Shivaji Craze",
+      "summary": "Demand has soared for his figurines and statues of the warrior king. It started with a video he posted online."
     },
     {
-      "char": "⚽",
-      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-      "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
-      "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
-      "label": "champions league riots in france"
+      "char": "🇮🇱",
+      "label": "israel seizes castle in lebanon",
+      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "summary": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation."
     },
     {
-      "summary": "Opposition says constitutional amendment would give bill ruling party carte blanche to overturn will of voters Sign up for the Breaking News US newsletter email Amid fierce criticism from opposition groups, Mexico ’s senate has passed ‌a...",
-      "url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment",
-      "title": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
-      "char": "🇲🇽",
-      "label": "mexico bill on elections annulment"
-    },
-    {
-      "label": "canadian man sends suicide packets",
-      "title": "Canadian man admits sending ‘suicide packets’ to hundreds of people around world",
-      "summary": "Kenneth Law, who sold lethal chemicals online with instructions on how to use them, admits counselling or aiding suicide ‘It was too easy’: families ask how Kenneth Law enabled so many suicides A Canadian man who mailed “suicide packets”...",
-      "url": "https://www.theguardian.com/world/2026/may/29/canada-kenneth-law-suicide-packets-hundreds-of-people-around-world",
-      "char": "🎨"
-    },
-    {
-      "label": "taiwan infiltration fears from spouses",
-      "summary": "At the heart of a criminal case involving one such wife is a question: How can Taiwan protect its democracy without unfairly targeting Chinese migrants?",
-      "url": "https://www.nytimes.com/2026/05/31/world/asia/taiwan-china-mainland-spouses-infiltration.html",
-      "title": "In Taiwan, ‘Mainland Spouses’ From China Become a Focus of Infiltration Fears",
-      "char": "🇹🇼"
-    },
-    {
-      "label": "death renews race relations scrutiny",
       "char": "💔",
-      "summary": "Yves Sakila died after being restrained by security guards ‘in broad daylight’ Irish authorities have agreed to a second postmortem on the body of a Congolese man who died after being restrained by shop security guards on a Dublin street...",
-      "url": "https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations",
-      "title": "Death of Congolese man renews scrutiny of race relations in Ireland"
+      "label": "canadian man sends suicide packets globally",
+      "url": "https://www.theguardian.com/world/2026/may/29/canada-kenneth-law-suicide-packets-hundreds-of-people-around-world",
+      "title": "Canadian man admits sending ‘suicide packets’ to hundreds of people around world",
+      "summary": "Kenneth Law, who sold lethal chemicals online with instructions on how to use them, admits counselling or aiding suicide ‘It was too easy’: families ask how Kenneth Law enabled so many suicides A Canadian man who mailed “suicide packets”..."
     },
     {
-      "label": "ebola outbreak death rate alarming",
-      "title": "WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC",
-      "summary": "Tedros Adhanom Ghebreyesus calls for ceasefire among armed groups to help avoid deaths from preventable disease The death rate of the Ebola outbreak in the Democratic Republic of the Congo is between 30% and 50%, the World Health Organiz...",
-      "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
-      "char": "🦠"
+      "char": "🎥",
+      "label": "film highlights jamaica’s obeah belief system",
+      "url": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
+      "title": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
+      "summary": "Stew Peas focuses on obeah, an enduring African magic practice in Jamaica banned by colonisers in the 1700s A new movie from award-winning Jamaican film-maker Sosiessia Nixon shines a spotlight on Jamaica’s enduring west African-based ma..."
+    },
+    {
+      "char": "⚠️",
+      "label": "death of congolese man renews scrutiny in ire",
+      "url": "https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations",
+      "title": "Death of Congolese man renews scrutiny of race relations in Ireland",
+      "summary": "Yves Sakila died after being restrained by security guards ‘in broad daylight’ Irish authorities have agreed to a second postmortem on the body of a Congolese man who died after being restrained by shop security guards on a Dublin street..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😨",
-    "emoji": "😨",
-    "rationale": "The day is marked by significant fear and anxiety due to multiple crises, including the ongoing Ebola outbreak, security concerns from concert cancellations, and unrest in various regions. These events contribute to a pervasive sense of une",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
