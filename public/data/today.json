@@ -1,27 +1,34 @@
 {
   "date": "2026-06-01",
-  "timestamp": "2026-06-01T09:29:58Z",
+  "timestamp": "2026-06-01T00:00:00Z",
   "emojis": [
     {
-      "char": "🗳️",
-      "label": "polls open in ethiopia",
-      "url": "https://www.bbc.com/news/articles/cn0pngz2rego?at_medium=RSS&at_campaign=rss",
-      "title": "Polls open in Ethiopia, but not everyone can vote",
-      "summary": "Prime Minister Abiy Ahmed's party is expected to dominate the election as conflicts overshadow the vote."
+      "char": "📰",
+      "label": "files on mandelson and epstein",
+      "url": "https://www.nytimes.com/2026/06/01/world/europe/mandelson-files-epstein-starmer-uk.html",
+      "title": "Starmer Braces for Release of More Files About Mandelson and Epstein",
+      "summary": "A second batch of documents about the former U.S. ambassador Peter Mandelson, who was fired over his links to Jeffrey Epstein, could create more problems for Prime Minister Keir Starmer."
     },
     {
-      "char": "⚽",
-      "label": "south africa world cup visa issues",
-      "url": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss",
-      "title": "South Africa made to look like fools over World Cup visa issues, says minister",
-      "summary": "After a day of uncertainty, the government confirms the team will depart for Mexico on Monday."
+      "char": "🚮",
+      "label": "litter fines in tokyo",
+      "url": "https://www.bbc.com/news/articles/cr7py513njmo?at_medium=RSS&at_campaign=rss",
+      "title": "Litterbugs now face on-the-spot fines in Tokyo's tourist hotspot",
+      "summary": "Dozens of officials will patrol world-famous Shibuya as Japan responds to the impacts of overtourism."
     },
     {
-      "char": "🇨🇺",
-      "label": "cuba's fuel blockade impact",
-      "url": "https://www.nytimes.com/2026/05/31/world/americas/cuba-trash-fuel-blockade.html",
-      "title": "Even Havana’s Street Sweepers Can’t Escape the Impact of the Fuel Blockade",
-      "summary": "A fuel blockade on Cuba has aggravated a lack of consistent garbage pickup and produced enormous trash piles."
+      "char": "⚔️",
+      "label": "us-iran conflict updates",
+      "url": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
+      "title": "Iran War Live Updates: U.S. and Iran Exchange New Attacks, Straining Peace Talks",
+      "summary": "U.S. Central Command said it conducted strikes against military targets in southern Iran over the weekend. Kuwait, which hosts U.S. military bases, accused Iran of attacking its territory."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola patients recover in dr congo",
+      "url": "https://www.bbc.com/news/articles/cz928xq588no?at_medium=RSS&at_campaign=rss",
+      "title": "Five patients recover from Ebola in DR Congo and leave hospital",
+      "summary": "Those infected can get better and officials stress that people should seek medical help if they have symptoms."
     },
     {
       "char": "🎥",
@@ -29,13 +36,6 @@
       "url": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
       "title": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
       "summary": "Stew Peas focuses on obeah, an enduring African magic practice in Jamaica banned by colonisers in the 1700s A new movie from award-winning Jamaican film-maker Sosiessia Nixon shines a spotlight on Jamaica’s enduring west African-based ma..."
-    },
-    {
-      "char": "💥",
-      "label": "explosion in myanmar village",
-      "url": "https://www.nytimes.com/2026/06/01/world/asia/myanmar-explosion-blast-warehouse-deaths.html",
-      "title": "Dozens Killed as Explosion Flattens Rebel-Held Village in Myanmar",
-      "summary": "The local authorities said the cause was an accident at a warehouse that held explosives for mining operations."
     }
   ],
   "source": "ai-openai",
