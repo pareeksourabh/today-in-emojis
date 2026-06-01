@@ -1,28 +1,7 @@
 {
   "date": "2026-06-01",
-  "timestamp": "2026-06-01T00:00:00Z",
+  "timestamp": "2026-06-01T17:50:55Z",
   "emojis": [
-    {
-      "char": "🇬🇧",
-      "label": "uk denies entry to activists",
-      "url": "https://www.nytimes.com/2026/06/01/world/europe/uk-hasan-piker-cenk-uygur-visa-israel.html",
-      "title": "Britain Denies Entry to Hasan Piker and Cenk Uygur",
-      "summary": "The authorities did not say why they had barred Cenk Uygur and Hasan Piker, who have popular social media channels, but said their presence “may not be conducive to the public good.”"
-    },
-    {
-      "char": "🕊️",
-      "label": "race relations scrutiny in ireland",
-      "url": "https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations",
-      "title": "Death of Congolese man renews scrutiny of race relations in Ireland",
-      "summary": "Yves Sakila died after being restrained by security guards ‘in broad daylight’ Irish authorities have agreed to a second postmortem on the body of a Congolese man who died after being restrained by shop security guards on a Dublin street..."
-    },
-    {
-      "char": "⚖️",
-      "label": "uk court rules on rwanda asylum scheme",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
-      "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
-      "summary": "Rwanda had sued UK government over alleged breach of agreement, after scheme scrapped by Labour on first day in office The UK will not have to pay the Rwandan government millions of pounds over a failed migrant deportation scheme set up..."
-    },
     {
       "char": "🔥",
       "label": "wildfires impact wealthier areas",
@@ -31,11 +10,32 @@
       "summary": "‘Megafires’ in California, Canada, South Korea and Europe in 2025, but changes to farming slowed spread in parts of Africa “Devastating” wildfires ripped across the wealthier parts of the world in 2025, a study has found, even as globall..."
     },
     {
-      "char": "💥",
-      "label": "explosion kills dozens in myanmar",
-      "url": "https://www.nytimes.com/2026/06/01/world/asia/myanmar-explosion-blast-warehouse-deaths.html",
-      "title": "Dozens Killed as Explosion Flattens Rebel-Held Village in Myanmar",
-      "summary": "The local authorities said the cause was an accident at a warehouse that held explosives for mining operations."
+      "char": "🇮🇷",
+      "label": "iran attacks on us military sites",
+      "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+      "summary": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged."
+    },
+    {
+      "char": "🗳️",
+      "label": "colombia election pits allies against trump",
+      "url": "https://www.theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates",
+      "title": "Colombia goes to polls in election pitting outgoing leader’s ally against pro-Trump candidates",
+      "summary": "Ballots are being cast in the first round of the South American nation’s presidential elections Colombians are casting ballots in the first round of the South American nation’s presidential election, choosing between candidates with radi..."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola patients recover in dr congo",
+      "url": "https://www.bbc.com/news/articles/cz928xq588no?at_medium=RSS&at_campaign=rss",
+      "title": "Five patients recover from Ebola in DR Congo and leave hospital",
+      "summary": "Those infected can get better and officials stress that people should seek medical help if they have symptoms."
+    },
+    {
+      "char": "⚖️",
+      "label": "lebanon fails to disarm hezbollah",
+      "url": "https://www.nytimes.com/2026/06/01/world/middleeast/lebanon-hezbollah-disarm.html",
+      "title": "How Lebanon’s Best Chance to Disarm Hezbollah Failed",
+      "summary": "Lebanon’s government has long wanted the powerful militia to give up its weapons. Before the Iran war began, there were signs of progress toward that goal."
     }
   ],
   "source": "ai-openai",

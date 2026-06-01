@@ -45407,5 +45407,49 @@
       "provider": "openai",
       "total_candidates": 40
     }
+  },
+  {
+    "date": "2026-06-01",
+    "emojis": [
+      {
+        "char": "🔥",
+        "label": "wildfires impact wealthier areas",
+        "url": "https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study",
+        "title": "Wildfires devastating richer areas but fewer hectares burned globally – study",
+        "summary": "‘Megafires’ in California, Canada, South Korea and Europe in 2025, but changes to farming slowed spread in parts of Africa “Devastating” wildfires ripped across the wealthier parts of the world in 2025, a study has found, even as globall..."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran attacks on us military sites",
+        "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+        "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+        "summary": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged."
+      },
+      {
+        "char": "🗳️",
+        "label": "colombia election pits allies against trump",
+        "url": "https://www.theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates",
+        "title": "Colombia goes to polls in election pitting outgoing leader’s ally against pro-Trump candidates",
+        "summary": "Ballots are being cast in the first round of the South American nation’s presidential elections Colombians are casting ballots in the first round of the South American nation’s presidential election, choosing between candidates with radi..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola patients recover in dr congo",
+        "url": "https://www.bbc.com/news/articles/cz928xq588no?at_medium=RSS&at_campaign=rss",
+        "title": "Five patients recover from Ebola in DR Congo and leave hospital",
+        "summary": "Those infected can get better and officials stress that people should seek medical help if they have symptoms."
+      },
+      {
+        "char": "⚖️",
+        "label": "lebanon fails to disarm hezbollah",
+        "url": "https://www.nytimes.com/2026/06/01/world/middleeast/lebanon-hezbollah-disarm.html",
+        "title": "How Lebanon’s Best Chance to Disarm Hezbollah Failed",
+        "summary": "Lebanon’s government has long wanted the powerful militia to give up its weapons. Before the Iran war began, there were signs of progress toward that goal."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
