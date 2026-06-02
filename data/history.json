@@ -45583,5 +45583,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-02",
+    "emojis": [
+      {
+        "char": "🇨🇴",
+        "label": "colombia election results",
+        "url": "https://www.theguardian.com/world/2026/jun/01/trump-admirer-abelardo-de-la-espriella-election-win-blow-to-colombia-conservatives",
+        "title": "Trump admirer’s surprise first-round win is a blow to Colombia’s traditional conservatives",
+        "summary": "Success of far-right presidential candidate, Abelardo de la Espriella, suggests some voters are ‘fed up with politics’ The far-right lawyer Abelardo de la Espriella and the leftwing senator Iván Cepeda have just under three weeks to comp..."
+      },
+      {
+        "char": "💔",
+        "label": "ukraine strikes kill civilians",
+        "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people",
+        "summary": "An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say."
+      },
+      {
+        "char": "🦜",
+        "label": "new zealand parakeet conservation",
+        "url": "https://www.nytimes.com/2026/06/02/world/australia/kakariki-karaka-bird-parakeet-new-zealand-endangered.html",
+        "title": "The New Zealand Parakeet Pair That Are Saving Their Species",
+        "summary": "There are about 450 orange-fronted parakeets left in the world. Super breeders Nacho and Trixie are doing their best to bolster the population."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires impact wealthier areas",
+        "url": "https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study",
+        "title": "Wildfires devastating richer areas but fewer hectares burned globally – study",
+        "summary": "‘Megafires’ in California, Canada, South Korea and Europe in 2025, but changes to farming slowed spread in parts of Africa “Devastating” wildfires ripped across the wealthier parts of the world in 2025, a study has found, even as globall..."
+      },
+      {
+        "char": "🌍",
+        "label": "ghana criminalizes lgbtq activity",
+        "url": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
+        "title": "People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity",
+        "summary": "Community groups say some fear they could lose homes, jobs and access to healthcare if the new law is ratified by President John Dramani Mahama Ghana’s LGBTQ community is living in fear after the country’s parliament approved a sweeping..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
