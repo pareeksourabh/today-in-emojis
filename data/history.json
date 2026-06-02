@@ -45495,5 +45495,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-02",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "ukraine corruption scandal",
+        "url": "https://www.nytimes.com/2026/06/01/world/europe/ukraine-corruption-yermak-zelensky.html",
+        "title": "Andriy Yermak, Once the Muscle Behind Zelensky, Is Now Crowdfunding Bail Money",
+        "summary": "Volodymyr Zelensky’s onetime right-hand man is accused of embezzling millions of dollars and consulting a fortuneteller on political decisions."
+      },
+      {
+        "char": "🗳️",
+        "label": "colombia election violence",
+        "url": "https://www.theguardian.com/world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence",
+        "title": "Colombia prepares to go to polls in election shadowed by resurgence of political violence",
+        "summary": "Sunday’s presidential vote is contest between left and right – and between contradictory proposals for dealing with the decades-long armed conflict Mateo Pérez Rueda was one internship away from completing a degree in political science...."
+      },
+      {
+        "char": "⚖️",
+        "label": "uk asylum scheme ruling",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
+        "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
+        "summary": "Rwanda had sued UK government over alleged breach of agreement, after scheme scrapped by Labour on first day in office The UK will not have to pay the Rwandan government millions of pounds over a failed migrant deportation scheme set up..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak response",
+        "url": "https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak",
+        "title": "WHO calls for community cooperation to contain Ebola outbreak in DRC",
+        "summary": "Tedros Adhanom Ghebreyesus makes appeal after protests against protocols for handling victims’ bodies in Ituri province Containing the Ebola outbreak in the Democratic Republic of Congo requires community cooperation and is “everybody’s..."
+      },
+      {
+        "char": "🗺️",
+        "label": "ethiopia election explained",
+        "url": "https://www.nytimes.com/2026/06/01/world/africa/ethiopia-election-abiy-ahmed-explained.html",
+        "title": "Ethiopia’s Election Comes at a Critical Moment for the Country: What to Know",
+        "summary": "The vote comes at a critical moment for the country, which faces fears of renewed conflict in the Tigray region and tensions with Eritrea over access to the Red Sea."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
