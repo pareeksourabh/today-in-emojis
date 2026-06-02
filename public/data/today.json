@@ -1,41 +1,41 @@
 {
   "date": "2026-06-02",
-  "timestamp": "2026-06-02T08:40:49Z",
+  "timestamp": "2026-06-02T00:00:00Z",
   "emojis": [
     {
-      "char": "🇦🇺",
-      "label": "australian inquiry into aukus deal",
-      "url": "https://www.bbc.com/news/articles/cn7p3ky2yl1o?at_medium=RSS&at_campaign=rss",
-      "title": "Australian ex-minister launches crowd-funded inquiry into Aukus submarine deal",
-      "summary": "Inquiry will look at whether Australia will receive the submarines and whether it will make the country safer."
+      "char": "🔥",
+      "label": "wildfires impact wealthier areas",
+      "url": "https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study",
+      "title": "Wildfires devastating richer areas but fewer hectares burned globally – study",
+      "summary": "‘Megafires’ in California, Canada, South Korea and Europe in 2025, but changes to farming slowed spread in parts of Africa “Devastating” wildfires ripped across the wealthier parts of the world in 2025, a study has found, even as globall..."
+    },
+    {
+      "char": "⚔️",
+      "label": "israel strikes lebanon amid tensions",
+      "url": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon",
+      "title": "Iran War Live Updates: Israel Strikes Southern Lebanon After Pulling Back From Threat to Beirut",
+      "summary": "Under pressure from President Trump, Prime Minister Benjamin Netanyahu of Israel held off from attacking Beirut. But he vowed to continue Israel’s campaign against Hezbollah, which could threaten peace talks with Iran."
+    },
+    {
+      "char": "📜",
+      "label": "uk releases files on mandelson and epstein",
+      "url": "https://www.nytimes.com/2026/06/01/world/europe/mandelson-files-epstein-starmer-uk.html",
+      "title": "UK Releases More Files About Mandelson, Ex-Diplomat With Ties to Epstein",
+      "summary": "Peter Mandelson, who was fired over his links to Jeffrey Epstein, made the claim in a letter among more than a thousand pages of documents released on Monday."
     },
     {
       "char": "🗳️",
-      "label": "colombia election pro-trump candidates",
+      "label": "colombia elections pit pro-trump candidates",
       "url": "https://www.theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates",
       "title": "Colombia goes to polls in election pitting outgoing leader’s ally against pro-Trump candidates",
       "summary": "Ballots are being cast in the first round of the South American nation’s presidential elections Colombians are casting ballots in the first round of the South American nation’s presidential election, choosing between candidates with radi..."
     },
     {
-      "char": "💔",
-      "label": "xenophobic attacks in south africa",
-      "url": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
-      "title": "Mozambique says five citizens killed in ‘xenophobic attacks’ in South Africa",
-      "summary": "About 800 Mozambicans said to be caught up in violence in Mossel Bay as anti-immigration protests sweep country Five Mozambique nationals were killed in “xenophobic attacks” in South Africa at the weekend, the Mozambican government said..."
-    },
-    {
-      "char": "🦠",
-      "label": "who calls for ebola outbreak cooperation",
-      "url": "https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak",
-      "title": "WHO calls for community cooperation to contain Ebola outbreak in DRC",
-      "summary": "Tedros Adhanom Ghebreyesus makes appeal after protests against protocols for handling victims’ bodies in Ituri province Containing the Ebola outbreak in the Democratic Republic of Congo requires community cooperation and is “everybody’s..."
-    },
-    {
-      "char": "🍔",
-      "label": "china targets ghost kitchens in food apps",
-      "url": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
-      "title": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
-      "summary": "The thousands of \"ghost kitchens\" - online shops that don't actually exist - have spooked Chinese consumers."
+      "char": "🐦",
+      "label": "new zealand parakeets saving their species",
+      "url": "https://www.nytimes.com/2026/06/02/world/australia/kakariki-karaka-bird-parakeet-new-zealand-endangered.html",
+      "title": "The New Zealand Parakeet Pair That Are Saving Their Species",
+      "summary": "There are about 450 orange-fronted parakeets left in the world. Super breeders Nacho and Trixie are doing their best to bolster the population."
     }
   ],
   "source": "ai-openai",
