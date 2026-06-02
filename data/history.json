@@ -45627,5 +45627,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-02",
+    "emojis": [
+      {
+        "char": "🇩🇰",
+        "label": "denmark forms new government",
+        "url": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss",
+        "title": "Denmark's Mette Frederiksen to form government after months of negotiations",
+        "summary": "The leader of Denmark's Social Democratic Party is forming a centre-left coalition minority government, giving her a third term as prime minister."
+      },
+      {
+        "char": "⚖️",
+        "label": "uk asylum scheme court ruling",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
+        "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
+        "summary": "Rwanda had sued UK government over alleged breach of agreement, after scheme scrapped by Labour on first day in office The UK will not have to pay the Rwandan government millions of pounds over a failed migrant deportation scheme set up..."
+      },
+      {
+        "char": "💥",
+        "label": "israel strikes southern lebanon",
+        "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+        "summary": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US."
+      },
+      {
+        "char": "🐶",
+        "label": "stray dog cultural symbol",
+        "url": "https://www.nytimes.com/2026/06/02/world/americas/stray-dog-caramelos-brazil-mexico.html",
+        "title": "A Stray Dog Became a Cultural Symbol in Brazil. Now, Mexico Is Claiming It.",
+        "summary": "To Brazilians, the ubiquitous caramel-colored mutts are a national icon. But a Mexican state has adopted them as its own homegrown symbol."
+      },
+      {
+        "char": "🌍",
+        "label": "kenya ebola quarantine protests",
+        "url": "https://www.nytimes.com/2026/06/02/world/africa/kenya-ebola-us-quarantine-unit-court.html",
+        "title": "U.S. Ebola Unit Plans in Kenya, Subject of Protests, Suffers New Setback From Court Ruling",
+        "summary": "The court further delayed the Trump administration’s proposed quarantine unit for Americans exposed to the virus. The plan has sparked angry protests in Kenya."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
