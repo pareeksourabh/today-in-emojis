@@ -45539,5 +45539,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-02",
+    "emojis": [
+      {
+        "char": "🇦🇺",
+        "label": "australian inquiry into aukus deal",
+        "url": "https://www.bbc.com/news/articles/cn7p3ky2yl1o?at_medium=RSS&at_campaign=rss",
+        "title": "Australian ex-minister launches crowd-funded inquiry into Aukus submarine deal",
+        "summary": "Inquiry will look at whether Australia will receive the submarines and whether it will make the country safer."
+      },
+      {
+        "char": "🗳️",
+        "label": "colombia election pro-trump candidates",
+        "url": "https://www.theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates",
+        "title": "Colombia goes to polls in election pitting outgoing leader’s ally against pro-Trump candidates",
+        "summary": "Ballots are being cast in the first round of the South American nation’s presidential elections Colombians are casting ballots in the first round of the South American nation’s presidential election, choosing between candidates with radi..."
+      },
+      {
+        "char": "💔",
+        "label": "xenophobic attacks in south africa",
+        "url": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
+        "title": "Mozambique says five citizens killed in ‘xenophobic attacks’ in South Africa",
+        "summary": "About 800 Mozambicans said to be caught up in violence in Mossel Bay as anti-immigration protests sweep country Five Mozambique nationals were killed in “xenophobic attacks” in South Africa at the weekend, the Mozambican government said..."
+      },
+      {
+        "char": "🦠",
+        "label": "who calls for ebola outbreak cooperation",
+        "url": "https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak",
+        "title": "WHO calls for community cooperation to contain Ebola outbreak in DRC",
+        "summary": "Tedros Adhanom Ghebreyesus makes appeal after protests against protocols for handling victims’ bodies in Ituri province Containing the Ebola outbreak in the Democratic Republic of Congo requires community cooperation and is “everybody’s..."
+      },
+      {
+        "char": "🍔",
+        "label": "china targets ghost kitchens in food apps",
+        "url": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
+        "title": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
+        "summary": "The thousands of \"ghost kitchens\" - online shops that don't actually exist - have spooked Chinese consumers."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
