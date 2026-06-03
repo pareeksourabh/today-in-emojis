@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
+    "emotion_label": "concerned",
     "emoji": "😨",
-    "rationale": "The news items feature significant health concerns, violent protests, and geopolitical tensions, indicating a pervasive sense of anxiety and trepidation globally, thus warranting the 'worried face' emoji.",
+    "rationale": "Today's news reflects a mix of distressing events, including health crises, violent protests, and environmental concerns, creating an overall sense of anxiety about safety and stability.",
     "palette": [
       "😢",
       "😡",
