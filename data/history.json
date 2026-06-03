@@ -45715,5 +45715,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-03",
+    "emojis": [
+      {
+        "char": "🇲🇿",
+        "label": "mozambique citizens killed in attacks",
+        "url": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
+        "title": "Mozambique says five citizens killed in ‘xenophobic attacks’ in South Africa",
+        "summary": "South African police confirm two deaths of Mozambicans in Mossel Bay as anti-immigration violence sweeps country Mozambique said five of its nationals were killed in “xenophobic attacks” in South Africa at the weekend and efforts were un..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "trump refers to canada as 51st state",
+        "url": "https://www.nytimes.com/2026/06/02/world/canada/trump-canada-us-trade-usmca.html",
+        "title": "Trump Again Refers to Canada as the ’51st State’ Hours Before Trade Talks",
+        "summary": "The Canadian trade minister met with the U.S. Trade Representative on Tuesday."
+      },
+      {
+        "char": "🏴‍☠️",
+        "label": "evidence of real pirates found in bahamas",
+        "url": "https://www.theguardian.com/world/2026/jun/02/shipwrecks-evidence-real-pirates-of-the-caribbean-nassau-harbour-bahamas",
+        "title": "Musket balls and a burnt hull: evidence of real pirates of the Caribbean found in Bahamas",
+        "summary": "Exclusive: First shipwrecks found in Nassau harbour on New Providence, once the hideout of Blackbeard and Calico Jack The first shipwrecks linked to the real pirates of the Caribbean in the Bahamas have been discovered by an internationa..."
+      },
+      {
+        "char": "💣",
+        "label": "israel strikes southern lebanon",
+        "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+        "summary": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US."
+      },
+      {
+        "char": "📚",
+        "label": "mexico city teachers protest",
+        "url": "https://www.theguardian.com/world/2026/jun/01/mexico-city-teachers-protest",
+        "title": "Mexico City police teargas teachers’ protest 10 days before World Cup",
+        "summary": "Teachers associated with CNTE union were marching toward Zócalo for salary raises and reversal of pension laws Riot police fired teargas at teachers who were marching toward Mexico City’s historic Zócalo plaza, just days before the squar..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
