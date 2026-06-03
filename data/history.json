@@ -45847,5 +45847,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-03",
+    "emojis": [
+      {
+        "char": "💰",
+        "label": "us colombia cartel gold sanctions",
+        "url": "https://www.nytimes.com/2026/06/02/world/americas/us-colombia-gold-blacklist-sanctions.html",
+        "title": "U.S. Was Asked to Blacklist Colombian Cartel Gold. It Was Also Buying It.",
+        "summary": "The request for sanctions, from Colombia’s defense minister, shows failures at both ends of the supply chain for illegal gold."
+      },
+      {
+        "char": "💣",
+        "label": "russia strikes kyiv after threats",
+        "url": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-war-russia-kyiv-attack.html",
+        "title": "Russia Launches Deadly Strikes on Kyiv After Threatening Ukraine for a Week",
+        "summary": "Moscow’s repeated warnings of a major strike, combined with the delay before it happened, seemed intended to inflict a psychological toll on the Ukrainian capital."
+      },
+      {
+        "char": "🚨",
+        "label": "protests in uk over murder case",
+        "url": "https://www.nytimes.com/2026/06/03/world/europe/henry-nowak-murder-southampton-protests-uk.html",
+        "title": "Protests in UK Over Henry Nowak Murder Case Turn Violent, as Leaders Urge Calm",
+        "summary": "Eleven officers were wounded in clashes with demonstrators after right-wing politicians and commentators accused the police of anti-white bias."
+      },
+      {
+        "char": "🔥",
+        "label": "fire at new delhi hotel kills 21",
+        "url": "https://www.nytimes.com/2026/06/03/world/asia/fire-hotel-new-delhi-india.html",
+        "title": "Fire at a New Delhi Hotel Kills at Least 21",
+        "summary": "Dozens more were injured, the authorities said. The blaze appears to be the deadliest in the Indian capital in at least four years."
+      },
+      {
+        "char": "🦜",
+        "label": "new zealand parakeet saving species",
+        "url": "https://www.nytimes.com/2026/06/02/world/australia/kakariki-karaka-bird-parakeet-new-zealand-endangered.html",
+        "title": "The New Zealand Parakeet Pair That Are Saving Their Species",
+        "summary": "There are about 450 orange-fronted parakeets left in the world. Super breeders Nacho and Trixie are doing their best to bolster the population."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
