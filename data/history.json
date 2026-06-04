@@ -46067,5 +46067,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-04",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "ukraine accused of killings in crimea",
+        "url": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine accused of killing four in occupied Crimea",
+        "summary": "At least 10 people have been injured in the attacks, according to Russian-backed officials."
+      },
+      {
+        "char": "🕊️",
+        "label": "hezbollah rejects ceasefire with israel",
+        "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+        "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+        "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks."
+      },
+      {
+        "char": "⚽",
+        "label": "colombia's jersey becomes political symbol",
+        "url": "https://www.nytimes.com/2026/06/04/world/americas/colombia-world-cup-jersey-politics.html",
+        "title": "Colombia’s Yellow World Cup Jersey, Once a Symbol of Unity, Becomes a Political Statement",
+        "summary": "A presidential candidate endorsed by President Trump has been accused by some Colombians of co-opting their beloved national team’s yellow soccer jersey."
+      },
+      {
+        "char": "🌏",
+        "label": "new zealand lawmakers banned from china",
+        "url": "https://www.nytimes.com/2026/06/04/world/australia/new-zealand-taiwan-china-travel-ban.html",
+        "title": "Four New Zealand Lawmakers Banned From China After Taiwan Trip",
+        "summary": "New Zealand’s foreign minister was “surprised” to hear about the one-year travel ban, a spokesperson said, given lawmakers have visited Taiwan for years without issues."
+      },
+      {
+        "char": "⚔️",
+        "label": "fighting in mogadishu, somalia",
+        "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
+        "title": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
+        "summary": "Gun battles erupted on Thursday, as armed groups loyal to rival politicians clashed. Residents said it was the worst fighting in years."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

@@ -1,41 +1,41 @@
 {
   "date": "2026-06-04",
-  "timestamp": "2026-06-04T00:00:00Z",
+  "timestamp": "2026-06-04T15:24:54Z",
   "emojis": [
     {
-      "char": "🇨🇴",
-      "label": "colombia's world cup jersey politics",
+      "char": "🇺🇦",
+      "label": "ukraine accused of killings in crimea",
+      "url": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine accused of killing four in occupied Crimea",
+      "summary": "At least 10 people have been injured in the attacks, according to Russian-backed officials."
+    },
+    {
+      "char": "🕊️",
+      "label": "hezbollah rejects ceasefire with israel",
+      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks."
+    },
+    {
+      "char": "⚽",
+      "label": "colombia's jersey becomes political symbol",
       "url": "https://www.nytimes.com/2026/06/04/world/americas/colombia-world-cup-jersey-politics.html",
       "title": "Colombia’s Yellow World Cup Jersey, Once a Symbol of Unity, Becomes a Political Statement",
       "summary": "A presidential candidate endorsed by President Trump has been accused by some Colombians of co-opting their beloved national team’s yellow soccer jersey."
     },
     {
-      "char": "🛩️",
-      "label": "hezbollah drones expose israeli flaws",
-      "url": "https://www.nytimes.com/2026/06/04/world/middleeast/hezbollah-fiber-optic-drones-israel.html",
-      "title": "Hezbollah’s Fiber-Optic Drones Expose Cracks in Israeli Defenses",
-      "summary": "The Lebanese militant group’s attacks have caught Israelis off guard, forcing its political and military leaders to scramble for solutions."
+      "char": "🌏",
+      "label": "new zealand lawmakers banned from china",
+      "url": "https://www.nytimes.com/2026/06/04/world/australia/new-zealand-taiwan-china-travel-ban.html",
+      "title": "Four New Zealand Lawmakers Banned From China After Taiwan Trip",
+      "summary": "New Zealand’s foreign minister was “surprised” to hear about the one-year travel ban, a spokesperson said, given lawmakers have visited Taiwan for years without issues."
     },
     {
-      "char": "🏙️",
-      "label": "civilians flee mogadishu conflict",
-      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
-      "title": "Civilians flee Mogadishu as Somali troops and opposition-allied militias trade fire",
-      "summary": "Violence flares before protests on Thursday over president’s decision to remain in office after his term expired Government troops and militias allied with the opposition have exchanged fire in Somalia’s capital, Mogadishu, damaging prop..."
-    },
-    {
-      "char": "📉",
-      "label": "trump's tariffs on brazil proposed",
-      "url": "https://www.theguardian.com/business/2026/jun/02/trump-administration-brazil-tariffs",
-      "title": "Trump administration proposes 25% tariffs on Brazil despite US trade surplus",
-      "summary": "US claims world’s 10th-biggest economy engages in ‘unreasonable’ trade practices that ‘restrict US commerce’ Sign up for the Breaking News US newsletter email The Trump administration proposed 25% tariffs on imports from Brazil , chargin..."
-    },
-    {
-      "char": "⚰️",
-      "label": "ebola outbreak in drc concerns",
-      "url": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
-      "title": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
-      "summary": "Tedros Adhanom Ghebreyesus says the virus ‘had a big head start’ but that the response was catching up The Ebola outbreak in the Democratic Republic of the Congo could have begun as early as January, the head of the World Health Organiza..."
+      "char": "⚔️",
+      "label": "fighting in mogadishu, somalia",
+      "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
+      "title": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
+      "summary": "Gun battles erupted on Thursday, as armed groups loyal to rival politicians clashed. Residents said it was the worst fighting in years."
     }
   ],
   "source": "ai-openai",
