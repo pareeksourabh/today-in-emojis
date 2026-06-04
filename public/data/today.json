@@ -1,41 +1,41 @@
 {
   "date": "2026-06-04",
-  "timestamp": "2026-06-04T15:24:54Z",
+  "timestamp": "2026-06-04T00:00:00Z",
   "emojis": [
     {
-      "char": "🇺🇦",
-      "label": "ukraine accused of killings in crimea",
-      "url": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
-      "title": "Ukraine accused of killing four in occupied Crimea",
-      "summary": "At least 10 people have been injured in the attacks, according to Russian-backed officials."
+      "char": "🛡️",
+      "label": "hezbollah drones expose israeli cracks",
+      "url": "https://www.nytimes.com/2026/06/04/world/middleeast/hezbollah-fiber-optic-drones-israel.html",
+      "title": "Hezbollah’s Fiber-Optic Drones Expose Cracks in Israeli Defenses",
+      "summary": "The Lebanese militant group’s attacks have caught Israelis off guard, forcing its political and military leaders to scramble for solutions."
     },
     {
-      "char": "🕊️",
-      "label": "hezbollah rejects ceasefire with israel",
-      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks."
+      "char": "🇮🇪",
+      "label": "ireland boosts defense capabilities",
+      "url": "https://www.nytimes.com/2026/06/04/world/europe/ireland-defense.html",
+      "title": "Ireland, Seen as a Weak Link in Europe’s Defense, Is Trying to Bulk Up",
+      "summary": "As concern rises in Europe over threats from an emboldened Russia, the Irish government says it’s working to plug gaps in its military, which reflect a tradition of neutrality."
     },
     {
-      "char": "⚽",
-      "label": "colombia's jersey becomes political symbol",
-      "url": "https://www.nytimes.com/2026/06/04/world/americas/colombia-world-cup-jersey-politics.html",
-      "title": "Colombia’s Yellow World Cup Jersey, Once a Symbol of Unity, Becomes a Political Statement",
-      "summary": "A presidential candidate endorsed by President Trump has been accused by some Colombians of co-opting their beloved national team’s yellow soccer jersey."
-    },
-    {
-      "char": "🌏",
-      "label": "new zealand lawmakers banned from china",
-      "url": "https://www.nytimes.com/2026/06/04/world/australia/new-zealand-taiwan-china-travel-ban.html",
-      "title": "Four New Zealand Lawmakers Banned From China After Taiwan Trip",
-      "summary": "New Zealand’s foreign minister was “surprised” to hear about the one-year travel ban, a spokesperson said, given lawmakers have visited Taiwan for years without issues."
+      "char": "🦠",
+      "label": "kenyans fear us ebola quarantine site",
+      "url": "https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site",
+      "title": "‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site",
+      "summary": "People from town of potential site for US citizens exposed to Ebola say it puts them at risk in country with no known cases People from a town in central Kenya where the US wants to set up an Ebola quarantine facility for its citizens ha..."
     },
     {
       "char": "⚔️",
-      "label": "fighting in mogadishu, somalia",
+      "label": "heavy fighting in mogadishu escalates",
       "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
       "title": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
       "summary": "Gun battles erupted on Thursday, as armed groups loyal to rival politicians clashed. Residents said it was the worst fighting in years."
+    },
+    {
+      "char": "📚",
+      "label": "marjane satrapi, author of persepolis, dies",
+      "url": "https://www.nytimes.com/2026/06/04/world/middleeast/marjane-satrapi-dead.html",
+      "title": "Marjane Satrapi, the Author of ‘Persepolis,’ Dies at 56",
+      "summary": "Her popular graphic novel series, published in the early 2000s, followed an Iranian girl through the Islamic Revolution and the Iran-Iraq War."
     }
   ],
   "source": "ai-openai",
