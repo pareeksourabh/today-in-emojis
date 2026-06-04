@@ -3,18 +3,32 @@
   "timestamp": "2026-06-04T00:00:00Z",
   "emojis": [
     {
-      "char": "🕊️",
-      "label": "israel lebanon ceasefire agreement",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-      "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US State Department says."
+      "char": "🚁",
+      "label": "navy helicopter crash in britain",
+      "url": "https://www.nytimes.com/2026/06/03/world/europe/navy-helicopter-crash-kills-three-in-britain.html",
+      "title": "Navy Helicopter Crash Kills Three in Britain",
+      "summary": "The helicopter was on a training exercise when it crashed in a field in southwestern England."
     },
     {
-      "char": "💥",
-      "label": "russia strikes kyiv amid tensions",
-      "url": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-war-russia-kyiv-attack.html",
-      "title": "Russia Launches Deadly Strikes on Kyiv After Threatening Ukraine for a Week",
-      "summary": "Moscow’s repeated warnings of a major strike, combined with the delay before it happened, seemed intended to inflict a psychological toll on the Ukrainian capital."
+      "char": "🏳️‍🌈",
+      "label": "ghana criminalises lgbtq+ activity",
+      "url": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
+      "title": "People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity",
+      "summary": "Community groups say some fear they could lose homes, jobs and access to healthcare if the new law is ratified by President John Dramani Mahama Ghana’s LGBTQ community is living in fear after the country’s parliament approved a sweeping..."
+    },
+    {
+      "char": "💰",
+      "label": "trump's tariffs on brazil",
+      "url": "https://www.theguardian.com/business/2026/jun/02/trump-administration-brazil-tariffs",
+      "title": "Trump administration proposes 25% tariffs on Brazil despite US trade surplus",
+      "summary": "US claims world’s 10th-biggest economy engages in ‘unreasonable’ trade practices that ‘restrict US commerce’ Sign up for the Breaking News US newsletter email The Trump administration proposed 25% tariffs on imports from Brazil , chargin..."
+    },
+    {
+      "char": "🌍",
+      "label": "iran's soccer team amid war",
+      "url": "https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html",
+      "title": "Amid War, Iran’s Soccer Leader Works to Get His Team to the World Cup",
+      "summary": "Mehdi Taj said his federation has been dealing with FIFA, not the United States, in trying to obtain visas for Iran to play in the tournament that begins next week."
     },
     {
       "char": "🔥",
@@ -22,20 +36,6 @@
       "url": "https://www.nytimes.com/2026/06/03/world/asia/fire-hotel-new-delhi-india.html",
       "title": "Fire at a New Delhi Hotel Kills at Least 21",
       "summary": "Dozens more were injured, the authorities said. The blaze appears to be the deadliest in the Indian capital in at least four years."
-    },
-    {
-      "char": "🌍",
-      "label": "drc ebola outbreak concerns",
-      "url": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
-      "title": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
-      "summary": "Tedros Adhanom Ghebreyesus says the virus ‘had a big head start’ but that the response was catching up The Ebola outbreak in the Democratic Republic of the Congo could have begun as early as January, the head of the World Health Organiza..."
-    },
-    {
-      "char": "⚖️",
-      "label": "uk court rules on rwanda asylum scheme",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
-      "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
-      "summary": "Rwanda had sued UK government over alleged breach of agreement, after scheme scrapped by Labour on first day in office The UK will not have to pay the Rwandan government millions of pounds over a failed migrant deportation scheme set up..."
     }
   ],
   "source": "ai-openai",
