@@ -45979,5 +45979,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-04",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "dubai’s migrants face war stress",
+        "url": "https://www.nytimes.com/2026/06/03/world/middleeast/dubai-uae-migrant-workers-war-stress.html",
+        "title": "For Dubai’s Migrants, War Is One More Worry in Super Stressed Lives",
+        "summary": "For laborers in Dubai, a free stress-management class offers a temporary oasis of calm amid struggles with debt, loneliness, long hours and, in recent months, the fear of missile strikes."
+      },
+      {
+        "char": "🇩🇪",
+        "label": "germany blames russia for un defeat",
+        "url": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
+        "title": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
+        "summary": "Johann Wadephul said it was \"no secret\" Russia had stirred up sentiment against Germany over its support for Ukraine."
+      },
+      {
+        "char": "💼",
+        "label": "trump proposes tariffs on brazil",
+        "url": "https://www.theguardian.com/business/2026/jun/02/trump-administration-brazil-tariffs",
+        "title": "Trump administration proposes 25% tariffs on Brazil despite US trade surplus",
+        "summary": "US claims world’s 10th-biggest economy engages in ‘unreasonable’ trade practices that ‘restrict US commerce’ Sign up for the Breaking News US newsletter email The Trump administration proposed 25% tariffs on imports from Brazil , chargin..."
+      },
+      {
+        "char": "⚔️",
+        "label": "rebel attacks in eastern drc",
+        "url": "https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response",
+        "title": "Rebel attacks in eastern DRC kill 30 people and hamper Ebola response",
+        "summary": "Islamic State-linked militia blamed for raids in North Kivu as governor says three patients with disease fled clinics Rebel attacks around a town that is one of the centres of the Ebola outbreak in the Democratic Republic of the Congo ha..."
+      },
+      {
+        "char": "🚁",
+        "label": "navy helicopter crash in britain",
+        "url": "https://www.nytimes.com/2026/06/03/world/europe/navy-helicopter-crash-kills-three-in-britain.html",
+        "title": "Navy Helicopter Crash Kills Three in Britain",
+        "summary": "The helicopter was on a training exercise when it crashed in a field in southwestern England."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
