@@ -46023,5 +46023,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-04",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "south korea local elections results",
+        "url": "https://www.nytimes.com/2026/06/04/world/asia/south-korea-seoul-mayor-elections.html",
+        "title": "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race",
+        "summary": "President Lee Jae Myung’s Democratic Party had hoped to consolidate its influence and extend his political momentum."
+      },
+      {
+        "char": "🛡️",
+        "label": "ireland boosts defense capabilities",
+        "url": "https://www.nytimes.com/2026/06/04/world/europe/ireland-defense.html",
+        "title": "Ireland, Seen as a Weak Link in Europe’s Defense, Is Trying to Bulk Up",
+        "summary": "As concern rises in Europe over threats from an emboldened Russia, the Irish government says it’s working to plug gaps in its military, which reflect a tradition of neutrality."
+      },
+      {
+        "char": "🕊️",
+        "label": "israel lebanon ceasefire agreement",
+        "url": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon",
+        "title": "Iran War Live Updates: Israel and Lebanon Agree to New Cease-Fire",
+        "summary": "The deal is contingent on Hezbollah, the Iran-backed armed group that was not part of the talks, stopping attacks against Israel and withdrawing from southern Lebanon."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola fears in congo town",
+        "url": "https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html",
+        "title": "Priest’s Ebola Death Stirs Fear an Doubt in Congolese Town",
+        "summary": "Priest’s Ebola Death Stirs Fear an Doubt in Congolese Town"
+      },
+      {
+        "char": "📚",
+        "label": "marjane satrapi passes away",
+        "url": "https://www.nytimes.com/2026/06/04/world/europe/marjane-satrapi-persepolis-death.html",
+        "title": "Marjane Satrapi, Author of ‘Persepolis,’ Dies at 56",
+        "summary": "Her graphic novel series, published in English in 2003, followed an Iranian girl through the Islamic revolution and the Iran-Iraq War. The work helped millions relate to Iranians."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
