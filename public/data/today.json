@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Sadness",
+    "emotion_label": "Distress",
     "emoji": "😢",
-    "rationale": "The news items overwhelmingly depict themes of violence, tragedy, and crisis, such as the clashes in Somalia and the murders in Argentina, which evoke a profound sense of sadness.",
+    "rationale": "The day's news is marked by violence, political turmoil, and tragic events, leaving a pervasive sense of sadness and concern for those affected.",
     "palette": [
       "😢",
       "😡",
