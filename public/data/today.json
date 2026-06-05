@@ -1,41 +1,41 @@
 {
   "date": "2026-06-05",
-  "timestamp": "2026-06-05T15:13:58Z",
+  "timestamp": "2026-06-05T00:00:00Z",
   "emojis": [
     {
-      "char": "🇨🇳",
-      "label": "xi visits north korea",
-      "url": "https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html",
-      "title": "What To Know as China’s Xi Jinping Heads to North Korea",
-      "summary": "As Xi Jinping visits Pyongyang, he faces an emboldened North Korean dictator, whose alliance with Russia has reduced his dependence on China."
+      "char": "⚖️",
+      "label": "african charter condemned by rights groups",
+      "url": "https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
+      "title": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
+      "summary": "Draft treaty claims sexual and reproductive health and rights are an existential threat to the African family An African treaty that rejects longstanding international human rights obligations moved a step closer to becoming policy this..."
     },
     {
-      "char": "👮‍♀️",
-      "label": "jamaican officer charged with murder",
-      "url": "https://www.theguardian.com/world/2026/jun/04/jamaica-police-officer-charged-murder-woman-protest",
-      "title": "Jamaican police officer charged with murder after woman shot during protest",
-      "summary": "Andrew Wilson appears in court over killing of Latoya Bulgin at protest over a police shooting days earlier Authorities in Jamaica have taken the rare step of charging a police officer with murder after he was accused of shooting a 45-ye..."
+      "char": "🇨🇺",
+      "label": "us sanctions on cuba's president",
+      "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
+      "title": "US imposes new sanctions on Cuban president and Castro family members",
+      "summary": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, along..."
     },
     {
-      "char": "🏰",
-      "label": "prince andrew sublets royal property",
-      "url": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
-      "title": "Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free",
-      "summary": "Andrew Mountbatten-Windsor received income from renting out three cottages at Royal Lodge, where he paid no rent himself, a British public spending watchdog found."
-    },
-    {
-      "char": "🗳️",
-      "label": "disinformation in armenia election",
-      "url": "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia-disinformation.html",
-      "title": "Russia Floods Armenia With Disinformation Ahead of Election",
-      "summary": "Fearing a loss of influence, groups linked to the Kremlin and intelligence agencies have sought to discredit the country’s prime minister."
-    },
-    {
-      "char": "💔",
-      "label": "femicide crisis in argentina",
+      "char": "🔪",
+      "label": "outrage over femicide in argentina",
       "url": "https://www.theguardian.com/world/2026/jun/04/argentina-teen-girls-murdered-femicide-crisis",
       "title": "Outrage in Argentina after two teen girls murdered as femicide crisis endures",
       "summary": "Country is shaken by the brutal murders of two girls, aged 14 and 17, whose bodies were discovered just days apart Argentina has reacted with fury after the bodies of two murdered teenage girls were found just two days apart. The latest..."
+    },
+    {
+      "char": "💰",
+      "label": "ebola outbreak linked to gold mines",
+      "url": "https://www.nytimes.com/2026/06/05/world/africa/congo-ebola-gold-mine.html",
+      "title": "The Gold Mines at the Heart of This Ebola Outbreak",
+      "summary": "Mining has been the lifeblood of this remote Congolese hill town for decades. Now, it is fueling the spread of a devastating virus."
+    },
+    {
+      "char": "🛡️",
+      "label": "italy calls for new military alliance",
+      "url": "https://www.nytimes.com/2026/06/05/world/europe/eu-italy-defense-military-alliance-crosetto.html",
+      "title": "Europe Needs New Military Alliance to Defend Itself, Italy Says",
+      "summary": "Guido Crosetto, Italy’s defense minister, said in an interview that European nations should forge a new joint defense system and take greater responsibility for their own security."
     }
   ],
   "source": "ai-openai",
