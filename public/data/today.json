@@ -1,20 +1,34 @@
 {
   "date": "2026-06-05",
-  "timestamp": "2026-06-05T00:00:00Z",
+  "timestamp": "2026-06-05T02:36:37Z",
   "emojis": [
     {
-      "char": "🏙️",
-      "label": "civilians flee mogadishu fighting",
-      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
-      "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
-      "summary": "Violence flares before protests on Thursday over president’s decision to remain in office after his term expired Fierce clashes have taken place between government troops and militias allied with the opposition in Somalia’s capital, Moga..."
+      "char": "💔",
+      "label": "argentina femicide outrage",
+      "url": "https://www.theguardian.com/world/2026/jun/04/argentina-teen-girls-murdered-femicide-crisis",
+      "title": "Outrage in Argentina after two teen girls murdered as femicide crisis endures",
+      "summary": "Country is shaken by the brutal murders of two girls, aged 14 and 17, whose bodies were discovered just days apart Argentina has reacted with fury after the bodies of two murdered teenage girls were found just two days apart. The latest..."
     },
     {
-      "char": "🦅",
-      "label": "hezbollah rejects ceasefire deal",
+      "char": "🚔",
+      "label": "jamaican police officer charged",
+      "url": "https://www.theguardian.com/world/2026/jun/04/jamaica-police-officer-charged-murder-woman-protest",
+      "title": "Jamaican police officer charged with murder after woman shot during protest",
+      "summary": "Andrew Wilson appears in court over killing of Latoya Bulgin at protest over a police shooting days earlier Authorities in Jamaica have taken the rare step of charging a police officer with murder after he was accused of shooting a 45-ye..."
+    },
+    {
+      "char": "🕊️",
+      "label": "hezbollah rejects ceasefire",
       "url": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon",
       "title": "Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
       "summary": "Hezbollah’s leader said the Iran-backed group, which was not included in U.S.-brokered talks, said a truce worked out between Israel and the Lebanese government amounted to surrender for his group."
+    },
+    {
+      "char": "🇮🇪",
+      "label": "ireland bulks up defense",
+      "url": "https://www.nytimes.com/2026/06/04/world/europe/ireland-defense.html",
+      "title": "Ireland, Seen as a Weak Link in Europe’s Defense, Is Trying to Bulk Up",
+      "summary": "As concern rises in Europe over threats from an emboldened Russia, the Irish government says it’s working to plug gaps in its military, which reflect a tradition of neutrality."
     },
     {
       "char": "🐋",
@@ -22,20 +36,6 @@
       "url": "https://www.theguardian.com/environment/2026/jun/04/canada-marineland-beluga-whale-deal",
       "title": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
       "summary": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to sanctuaries in Spain or across US Canada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales , ending a saga that..."
-    },
-    {
-      "char": "⚖️",
-      "label": "jamaican officer charged with murder",
-      "url": "https://www.theguardian.com/world/2026/jun/04/jamaica-police-officer-charged-murder-woman-protest",
-      "title": "Jamaican police officer charged with murder after woman shot during protest",
-      "summary": "Andrew Wilson appears in court over killing of Latoya Bulgin at protest over a police shooting days earlier Authorities in Jamaica have taken the rare step of charging a police officer with murder after he was accused of shooting a 45-ye..."
-    },
-    {
-      "char": "🌍",
-      "label": "ebola outbreak in drc concerns",
-      "url": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
-      "title": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
-      "summary": "Tedros Adhanom Ghebreyesus says the virus ‘had a big head start’ but that the response was catching up The Ebola outbreak in the Democratic Republic of the Congo could have begun as early as January, the head of the World Health Organiza..."
     }
   ],
   "source": "ai-openai",
