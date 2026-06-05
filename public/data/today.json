@@ -1,43 +1,204 @@
 {
   "date": "2026-06-05",
-  "timestamp": "2026-06-05T17:43:54Z",
+  "timestamp": "2026-06-05T00:00:00Z",
   "emojis": [
     {
-      "char": "🚀",
-      "label": "astronauts return to iss",
-      "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
-      "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
-      "summary": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard."
+      "char": "🏙️",
+      "label": "civilians flee mogadishu fighting",
+      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+      "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
+      "summary": "Violence flares before protests on Thursday over president’s decision to remain in office after his term expired Fierce clashes have taken place between government troops and militias allied with the opposition in Somalia’s capital, Moga..."
     },
     {
-      "char": "🚢",
-      "label": "ukraine strikes cargo ships",
-      "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
-      "title": "Ukraine strikes cargo ships and admits Romania drone blast",
-      "summary": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories."
+      "char": "🦅",
+      "label": "hezbollah rejects ceasefire deal",
+      "url": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon",
+      "title": "Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
+      "summary": "Hezbollah’s leader said the Iran-backed group, which was not included in U.S.-brokered talks, said a truce worked out between Israel and the Lebanese government amounted to surrender for his group."
     },
     {
-      "char": "🦠",
-      "label": "drc ebola outbreak update",
+      "char": "🐋",
+      "label": "canada relocates beluga whales",
+      "url": "https://www.theguardian.com/environment/2026/jun/04/canada-marineland-beluga-whale-deal",
+      "title": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
+      "summary": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to sanctuaries in Spain or across US Canada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales , ending a saga that..."
+    },
+    {
+      "char": "⚖️",
+      "label": "jamaican officer charged with murder",
+      "url": "https://www.theguardian.com/world/2026/jun/04/jamaica-police-officer-charged-murder-woman-protest",
+      "title": "Jamaican police officer charged with murder after woman shot during protest",
+      "summary": "Andrew Wilson appears in court over killing of Latoya Bulgin at protest over a police shooting days earlier Authorities in Jamaica have taken the rare step of charging a police officer with murder after he was accused of shooting a 45-ye..."
+    },
+    {
+      "char": "🌍",
+      "label": "ebola outbreak in drc concerns",
       "url": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
       "title": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
       "summary": "Tedros Adhanom Ghebreyesus says the virus ‘had a big head start’ but that the response was catching up The Ebola outbreak in the Democratic Republic of the Congo could have begun as early as January, the head of the World Health Organiza..."
     },
     {
-      "char": "🏴‍☠️",
-      "label": "gold mines and ebola outbreak",
+      "char": "🇨🇴",
+      "label": "colombia's presidential candidate",
+      "url": "https://www.nytimes.com/2026/06/04/world/americas/colombia-president-de-la-espriella-us-citizen.html",
+      "title": "Can Abelardo De La Espriella, a U.S. Citizen, Become Colombia’s President?",
+      "summary": "President Trump this week endorsed the right-wing candidate, Abelardo De La Espriella, a dual citizen of Colombia and the United States, in Colombia’s presidential runoff."
+    },
+    {
+      "char": "⚔️",
+      "label": "fighting in mogadishu",
+      "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
+      "title": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
+      "summary": "Gun battles erupted on Thursday, as armed groups loyal to rival politicians clashed. Residents said it was the worst fighting in years."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola fears in congo",
+      "url": "https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html",
+      "title": "Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town",
+      "summary": "Priest’s Ebola Death Stirs Fear an Doubt in Congolese Town"
+    },
+    {
+      "char": "🛡️",
+      "label": "hezbollah drones in israel",
+      "url": "https://www.nytimes.com/2026/06/04/world/middleeast/hezbollah-fiber-optic-drones-israel.html",
+      "title": "Hezbollah’s Fiber-Optic Drones Expose Cracks in Israeli Defenses",
+      "summary": "The Lebanese militant group’s attacks have caught Israelis off guard, forcing its political and military leaders to scramble for solutions."
+    },
+    {
+      "char": "📜",
+      "label": "iran's soccer world cup plans",
+      "url": "https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html",
+      "title": "Amid War, Iran’s Soccer Leader Works to Get His Team to the World Cup",
+      "summary": "Mehdi Taj said his federation has been dealing with FIFA, not the United States, in trying to obtain visas for Iran to play in the tournament that begins next week."
+    },
+    {
+      "char": "🐶",
+      "label": "us fights flesh-eating screwworm outbreak",
+      "url": "https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
+      "title": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
+      "summary": "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US."
+    },
+    {
+      "char": "⚖️",
+      "label": "judge orders deportation of murder victim",
+      "url": "https://www.theguardian.com/us-news/2026/jun/03/north-carolina-judge-deport-teen-murder-victim",
+      "title": "Dead but deportable: US immigration judge signed order to eject teen murder victim",
+      "summary": "North Carolina judge said Levi Mendez-Maldonado failed to show up in court – even after being told he had died in 2024 An immigration judge in Charlotte, North Carolina , recently ordered the deportation of a young man who was killed in..."
+    },
+    {
+      "char": "🇨🇴",
+      "label": "can us citizen become colombia’s president?",
+      "url": "https://www.nytimes.com/2026/06/04/world/americas/colombia-president-de-la-espriella-us-citizen.html",
+      "title": "Can Abelardo De La Espriella, a U.S. Citizen, Become Colombia’s President?",
+      "summary": "President Trump this week endorsed the right-wing candidate, Abelardo De La Espriella, a dual citizen of Colombia and the United States, in Colombia’s presidential runoff."
+    },
+    {
+      "char": "💔",
+      "label": "ebola death stirs fear in congo",
+      "url": "https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html",
+      "title": "Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town",
+      "summary": "Priest’s Ebola Death Stirs Fear an Doubt in Congolese Town"
+    },
+    {
+      "char": "🏙️",
+      "label": "civilians flee fighting in mogadishu",
+      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+      "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
+      "summary": "Violence flares before protests on Thursday over president’s decision to remain in office after his term expired Fierce clashes have taken place between government troops and militias allied with the opposition in Somalia’s capital, Moga..."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola quarantine plan in kenya",
+      "url": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
+      "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
+      "summary": "Plan departs from policy of bringing CDC staff back to US for treatment and offering support to all health workers Former top US officials and other experts are urging the Trump administration to abandon plans for an Ebola quarantine and..."
+    },
+    {
+      "char": "🎭",
+      "label": "mangrove forests healing",
+      "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
+      "title": "Mangrove forests are healing after decades of human destruction",
+      "summary": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate."
+    },
+    {
+      "char": "🇨🇺",
+      "label": "us sanctions on cuba",
+      "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
+      "title": "US imposes new sanctions on Cuban president and Castro family members",
+      "summary": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, along..."
+    },
+    {
+      "char": "📰",
+      "label": "disinformation in armenia election",
+      "url": "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia-disinformation.html",
+      "title": "Russia Floods Armenia With Disinformation Ahead of Election",
+      "summary": "Fearing a loss of influence, groups linked to the Kremlin and intelligence agencies have sought to discredit the country’s prime minister."
+    },
+    {
+      "char": "🐋",
+      "label": "beluga whale relocation plan",
+      "url": "https://www.theguardian.com/environment/2026/jun/04/canada-marineland-beluga-whale-deal",
+      "title": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
+      "summary": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to sanctuaries in Spain or across US Canada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales , ending a saga that..."
+    },
+    {
+      "char": "⚖️",
+      "label": "african charter condemned by rights groups",
+      "url": "https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
+      "title": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
+      "summary": "Draft treaty claims sexual and reproductive health and rights are an existential threat to the African family An African treaty that rejects longstanding international human rights obligations moved a step closer to becoming policy this..."
+    },
+    {
+      "char": "🇨🇺",
+      "label": "us sanctions on cuba's president",
+      "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
+      "title": "US imposes new sanctions on Cuban president and Castro family members",
+      "summary": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, along..."
+    },
+    {
+      "char": "🔪",
+      "label": "outrage over femicide in argentina",
+      "url": "https://www.theguardian.com/world/2026/jun/04/argentina-teen-girls-murdered-femicide-crisis",
+      "title": "Outrage in Argentina after two teen girls murdered as femicide crisis endures",
+      "summary": "Country is shaken by the brutal murders of two girls, aged 14 and 17, whose bodies were discovered just days apart Argentina has reacted with fury after the bodies of two murdered teenage girls were found just two days apart. The latest..."
+    },
+    {
+      "char": "💰",
+      "label": "ebola outbreak linked to gold mines",
       "url": "https://www.nytimes.com/2026/06/05/world/africa/congo-ebola-gold-mine.html",
       "title": "The Gold Mines at the Heart of This Ebola Outbreak",
       "summary": "Mining has been the lifeblood of this remote Congolese hill town for decades. Now, it is fueling the spread of a devastating virus."
     },
     {
-      "char": "🌏",
-      "label": "xi jinping visits north korea",
-      "url": "https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html",
-      "title": "What To Know as China’s Xi Jinping Heads to North Korea",
-      "summary": "As Xi Jinping visits Pyongyang, he faces an emboldened North Korean dictator, whose alliance with Russia has reduced his dependence on China."
+      "char": "🛡️",
+      "label": "italy calls for new military alliance",
+      "url": "https://www.nytimes.com/2026/06/05/world/europe/eu-italy-defense-military-alliance-crosetto.html",
+      "title": "Europe Needs New Military Alliance to Defend Itself, Italy Says",
+      "summary": "Guido Crosetto, Italy’s defense minister, said in an interview that European nations should forge a new joint defense system and take greater responsibility for their own security."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Sadness",
+    "emoji": "😢",
+    "rationale": "The news items overwhelmingly depict themes of violence, tragedy, and crisis, such as the clashes in Somalia and the murders in Argentina, which evoke a profound sense of sadness.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
