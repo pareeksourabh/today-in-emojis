@@ -46287,5 +46287,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-05",
+    "emojis": [
+      {
+        "char": "🇨🇳",
+        "label": "xi visits north korea",
+        "url": "https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html",
+        "title": "What To Know as China’s Xi Jinping Heads to North Korea",
+        "summary": "As Xi Jinping visits Pyongyang, he faces an emboldened North Korean dictator, whose alliance with Russia has reduced his dependence on China."
+      },
+      {
+        "char": "👮‍♀️",
+        "label": "jamaican officer charged with murder",
+        "url": "https://www.theguardian.com/world/2026/jun/04/jamaica-police-officer-charged-murder-woman-protest",
+        "title": "Jamaican police officer charged with murder after woman shot during protest",
+        "summary": "Andrew Wilson appears in court over killing of Latoya Bulgin at protest over a police shooting days earlier Authorities in Jamaica have taken the rare step of charging a police officer with murder after he was accused of shooting a 45-ye..."
+      },
+      {
+        "char": "🏰",
+        "label": "prince andrew sublets royal property",
+        "url": "https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html",
+        "title": "Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free",
+        "summary": "Andrew Mountbatten-Windsor received income from renting out three cottages at Royal Lodge, where he paid no rent himself, a British public spending watchdog found."
+      },
+      {
+        "char": "🗳️",
+        "label": "disinformation in armenia election",
+        "url": "https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia-disinformation.html",
+        "title": "Russia Floods Armenia With Disinformation Ahead of Election",
+        "summary": "Fearing a loss of influence, groups linked to the Kremlin and intelligence agencies have sought to discredit the country’s prime minister."
+      },
+      {
+        "char": "💔",
+        "label": "femicide crisis in argentina",
+        "url": "https://www.theguardian.com/world/2026/jun/04/argentina-teen-girls-murdered-femicide-crisis",
+        "title": "Outrage in Argentina after two teen girls murdered as femicide crisis endures",
+        "summary": "Country is shaken by the brutal murders of two girls, aged 14 and 17, whose bodies were discovered just days apart Argentina has reacted with fury after the bodies of two murdered teenage girls were found just two days apart. The latest..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
