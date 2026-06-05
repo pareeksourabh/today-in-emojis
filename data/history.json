@@ -46243,5 +46243,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-05",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "ebola quarantine plan in kenya",
+        "url": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
+        "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
+        "summary": "Plan departs from policy of bringing CDC staff back to US for treatment and offering support to all health workers Former top US officials and other experts are urging the Trump administration to abandon plans for an Ebola quarantine and..."
+      },
+      {
+        "char": "🕊️",
+        "label": "hezbollah rejects ceasefire",
+        "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+        "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+        "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks."
+      },
+      {
+        "char": "⚖️",
+        "label": "african charter condemned by rights groups",
+        "url": "https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
+        "title": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
+        "summary": "Draft treaty claims sexual and reproductive health and rights are an existential threat to the African family An African treaty that rejects longstanding international human rights obligations moved a step closer to becoming policy this..."
+      },
+      {
+        "char": "🐋",
+        "label": "canada relocates beluga whales",
+        "url": "https://www.theguardian.com/environment/2026/jun/04/canada-marineland-beluga-whale-deal",
+        "title": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
+        "summary": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to sanctuaries in Spain or across US Canada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales , ending a saga that..."
+      },
+      {
+        "char": "💔",
+        "label": "femicide crisis in argentina",
+        "url": "https://www.theguardian.com/world/2026/jun/04/argentina-teen-girls-murdered-femicide-crisis",
+        "title": "Outrage in Argentina after two teen girls murdered as femicide crisis endures",
+        "summary": "Country is shaken by the brutal murders of two girls, aged 14 and 17, whose bodies were discovered just days apart Argentina has reacted with fury after the bodies of two murdered teenage girls were found just two days apart. The latest..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
