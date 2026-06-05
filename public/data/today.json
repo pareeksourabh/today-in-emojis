@@ -3,39 +3,39 @@
   "timestamp": "2026-06-05T00:00:00Z",
   "emojis": [
     {
+      "char": "🐶",
+      "label": "us fights flesh-eating screwworm outbreak",
+      "url": "https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
+      "title": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
+      "summary": "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US."
+    },
+    {
+      "char": "⚖️",
+      "label": "judge orders deportation of murder victim",
+      "url": "https://www.theguardian.com/us-news/2026/jun/03/north-carolina-judge-deport-teen-murder-victim",
+      "title": "Dead but deportable: US immigration judge signed order to eject teen murder victim",
+      "summary": "North Carolina judge said Levi Mendez-Maldonado failed to show up in court – even after being told he had died in 2024 An immigration judge in Charlotte, North Carolina , recently ordered the deportation of a young man who was killed in..."
+    },
+    {
       "char": "🇨🇴",
-      "label": "colombia's presidential candidate",
+      "label": "can us citizen become colombia’s president?",
       "url": "https://www.nytimes.com/2026/06/04/world/americas/colombia-president-de-la-espriella-us-citizen.html",
       "title": "Can Abelardo De La Espriella, a U.S. Citizen, Become Colombia’s President?",
       "summary": "President Trump this week endorsed the right-wing candidate, Abelardo De La Espriella, a dual citizen of Colombia and the United States, in Colombia’s presidential runoff."
     },
     {
-      "char": "⚔️",
-      "label": "fighting in mogadishu",
-      "url": "https://www.nytimes.com/2026/06/04/world/africa/somalia-mogadishu-fighting.html",
-      "title": "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
-      "summary": "Gun battles erupted on Thursday, as armed groups loyal to rival politicians clashed. Residents said it was the worst fighting in years."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola fears in congo",
+      "char": "💔",
+      "label": "ebola death stirs fear in congo",
       "url": "https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html",
       "title": "Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town",
       "summary": "Priest’s Ebola Death Stirs Fear an Doubt in Congolese Town"
     },
     {
-      "char": "🛡️",
-      "label": "hezbollah drones in israel",
-      "url": "https://www.nytimes.com/2026/06/04/world/middleeast/hezbollah-fiber-optic-drones-israel.html",
-      "title": "Hezbollah’s Fiber-Optic Drones Expose Cracks in Israeli Defenses",
-      "summary": "The Lebanese militant group’s attacks have caught Israelis off guard, forcing its political and military leaders to scramble for solutions."
-    },
-    {
-      "char": "📜",
-      "label": "iran's soccer world cup plans",
-      "url": "https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html",
-      "title": "Amid War, Iran’s Soccer Leader Works to Get His Team to the World Cup",
-      "summary": "Mehdi Taj said his federation has been dealing with FIFA, not the United States, in trying to obtain visas for Iran to play in the tournament that begins next week."
+      "char": "🏙️",
+      "label": "civilians flee fighting in mogadishu",
+      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+      "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
+      "summary": "Violence flares before protests on Thursday over president’s decision to remain in office after his term expired Fierce clashes have taken place between government troops and militias allied with the opposition in Somalia’s capital, Moga..."
     }
   ],
   "source": "ai-openai",
