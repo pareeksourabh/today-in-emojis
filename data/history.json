@@ -46331,5 +46331,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-05",
+    "emojis": [
+      {
+        "char": "🚀",
+        "label": "astronauts return to iss",
+        "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
+        "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+        "summary": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard."
+      },
+      {
+        "char": "🚢",
+        "label": "ukraine strikes cargo ships",
+        "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine strikes cargo ships and admits Romania drone blast",
+        "summary": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories."
+      },
+      {
+        "char": "🦠",
+        "label": "drc ebola outbreak update",
+        "url": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
+        "title": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
+        "summary": "Tedros Adhanom Ghebreyesus says the virus ‘had a big head start’ but that the response was catching up The Ebola outbreak in the Democratic Republic of the Congo could have begun as early as January, the head of the World Health Organiza..."
+      },
+      {
+        "char": "🏴‍☠️",
+        "label": "gold mines and ebola outbreak",
+        "url": "https://www.nytimes.com/2026/06/05/world/africa/congo-ebola-gold-mine.html",
+        "title": "The Gold Mines at the Heart of This Ebola Outbreak",
+        "summary": "Mining has been the lifeblood of this remote Congolese hill town for decades. Now, it is fueling the spread of a devastating virus."
+      },
+      {
+        "char": "🌏",
+        "label": "xi jinping visits north korea",
+        "url": "https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html",
+        "title": "What To Know as China’s Xi Jinping Heads to North Korea",
+        "summary": "As Xi Jinping visits Pyongyang, he faces an emboldened North Korean dictator, whose alliance with Russia has reduced his dependence on China."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
