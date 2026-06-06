@@ -1,41 +1,41 @@
 {
   "date": "2026-06-06",
-  "timestamp": "2026-06-06T10:07:25Z",
+  "timestamp": "2026-06-06T00:00:00Z",
   "emojis": [
     {
+      "char": "🛩️",
+      "label": "ukrainian drones attack st petersburg",
+      "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war."
+    },
+    {
+      "char": "👶",
+      "label": "palestinian baby killed by gunfire",
+      "url": "https://www.bbc.com/news/articles/cy828e64vp8o?at_medium=RSS&at_campaign=rss",
+      "title": "Palestinian baby killed by Israeli gunfire in West Bank, health ministry says",
+      "summary": "The Israeli military says Friday's \"incident is under review\", expressing \"deep sorrow for any harm caused\"."
+    },
+    {
+      "char": "🐄",
+      "label": "canada bans texas cattle over outbreak",
+      "url": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
+      "title": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
+      "summary": "The ban came as a second infected calf was identified in Texas, and the US state declaring a state of disaster over the outbreak."
+    },
+    {
+      "char": "✈️",
+      "label": "aviation leaders gather for rio summit",
+      "url": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
+      "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
+      "summary": "Oil tankers may be stuck behind strait of Hormuz, but holding the Iata AGM in Brazil defies warnings of impending shortages Nothing says jet fuel crisis, as one prospective attender put it, like flying everyone to Rio de Janeiro. Aviatio..."
+    },
+    {
       "char": "⚔️",
-      "label": "us and iran exchange strikes in gulf",
-      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "summary": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain."
-    },
-    {
-      "char": "💍",
-      "label": "taylor swift wedding speculation",
-      "url": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
-      "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
-      "summary": "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola quarantine centre criticism",
-      "url": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
-      "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
-      "summary": "Plan departs from policy of bringing CDC staff back to US for treatment and offering support to all health workers Former top US officials and other experts are urging the Trump administration to abandon plans for an Ebola quarantine and..."
-    },
-    {
-      "char": "🇨🇺",
-      "label": "us sanctions on cuba president",
-      "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
-      "title": "US imposes new sanctions on Cuban president and Castro family members",
-      "summary": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, along..."
-    },
-    {
-      "char": "🌵",
-      "label": "50 die of thirst in sahara desert",
-      "url": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
-      "title": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
-      "summary": "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities."
+      "label": "mali conflict escalates with rebel seizures",
+      "url": "https://www.nytimes.com/2026/06/06/world/africa/mali-rebels-fighting-jnim-isis.html",
+      "title": "Mali Conflict Escalates as Rebel Alliance Seizes Key Cities",
+      "summary": "Jihadists have nearly tripled their attacks on urban areas. Analysts fear an extended standoff could lead to many more civilian deaths."
     }
   ],
   "source": "ai-openai",
