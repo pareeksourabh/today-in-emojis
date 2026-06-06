@@ -46419,5 +46419,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-06",
+    "emojis": [
+      {
+        "char": "🏳️‍🌈",
+        "label": "transgender priests in sulawesi",
+        "url": "https://www.nytimes.com/2026/06/05/world/asia/transgender-priests-sulawesi-bissu-bugis.html",
+        "title": "The Priests Revered in the Land of Five Genders",
+        "summary": "The bissus of South Sulawesi are considered a link between the earthly and celestial because they are thought to embody both male and female traits."
+      },
+      {
+        "char": "⚖️",
+        "label": "teen murder victim deportation order",
+        "url": "https://www.theguardian.com/us-news/2026/jun/03/north-carolina-judge-deport-teen-murder-victim",
+        "title": "Dead but deportable: US immigration judge signed order to eject teen murder victim",
+        "summary": "North Carolina judge said Levi Mendez-Maldonado failed to show up in court – even after being told he had died in 2024 An immigration judge in Charlotte, North Carolina , recently ordered the deportation of a young man who was killed in..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in central africa",
+        "url": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
+        "title": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
+        "summary": "Modelling from US CDC shows Ebola spread could be on ‘dangerous trajectory’, but experts warn outbreaks can be very hard to predict Central Africa’s Ebola outbreak could spread to be similar in scale to the worst outbreak in history, wes..."
+      },
+      {
+        "char": "🌍",
+        "label": "rebel attacks in eastern drc",
+        "url": "https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response",
+        "title": "Rebel attacks in eastern DRC kill 30 people and hamper Ebola response",
+        "summary": "Islamic State-linked militia blamed for raids in North Kivu as governor says three patients with disease fled clinics Rebel attacks around a town that is one of the centres of the Ebola outbreak in the Democratic Republic of the Congo ha..."
+      },
+      {
+        "char": "🇦🇲",
+        "label": "armenia election under pressure",
+        "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+        "title": "Armenia braces for election as Russia piles pressure on pro-West government",
+        "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
