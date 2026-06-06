@@ -46463,5 +46463,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-06",
+    "emojis": [
+      {
+        "char": "⚔️",
+        "label": "us and iran exchange strikes in gulf",
+        "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+        "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+        "summary": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain."
+      },
+      {
+        "char": "💍",
+        "label": "taylor swift wedding speculation",
+        "url": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
+        "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
+        "summary": "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola quarantine centre criticism",
+        "url": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
+        "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
+        "summary": "Plan departs from policy of bringing CDC staff back to US for treatment and offering support to all health workers Former top US officials and other experts are urging the Trump administration to abandon plans for an Ebola quarantine and..."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "us sanctions on cuba president",
+        "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
+        "title": "US imposes new sanctions on Cuban president and Castro family members",
+        "summary": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, along..."
+      },
+      {
+        "char": "🌵",
+        "label": "50 die of thirst in sahara desert",
+        "url": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
+        "title": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
+        "summary": "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
