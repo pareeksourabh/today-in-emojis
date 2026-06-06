@@ -46551,5 +46551,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-06",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "ebola quarantine plan in kenya",
+        "url": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
+        "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
+        "summary": "Plan departs from policy of bringing CDC staff back to US for treatment and offering support to all health workers Former top US officials and other experts are urging the Trump administration to abandon plans for an Ebola quarantine and..."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "us sanctions on cuba's leadership",
+        "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
+        "title": "US imposes new sanctions on Cuban president and Castro family members",
+        "summary": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, along..."
+      },
+      {
+        "char": "⚖️",
+        "label": "femicide crisis in argentina",
+        "url": "https://www.theguardian.com/world/2026/jun/04/argentina-teen-girls-murdered-femicide-crisis",
+        "title": "Outrage in Argentina after two teen girls murdered as femicide crisis endures",
+        "summary": "Country is shaken by the brutal murders of two girls, aged 14 and 17, whose bodies were discovered just days apart Argentina has reacted with fury after the bodies of two murdered teenage girls were found just two days apart. The latest..."
+      },
+      {
+        "char": "🌊",
+        "label": "beluga whales relocation in canada",
+        "url": "https://www.theguardian.com/environment/2026/jun/04/canada-marineland-beluga-whale-deal",
+        "title": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
+        "summary": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to sanctuaries in Spain or across US Canada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales , ending a saga that..."
+      },
+      {
+        "char": "💼",
+        "label": "canada's first walmart union deal",
+        "url": "https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal",
+        "title": "‘Historic’: Canadian warehouse workers sign first-ever union deal with Walmart",
+        "summary": "Union says collective agreement is just the start of a broader fight to unionize major employers across the country Canadian warehouse workers have signed the first-ever collective agreement with Walmart, a breakthrough labour organizers..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
