@@ -1,41 +1,41 @@
 {
   "date": "2026-06-07",
-  "timestamp": "2026-06-07T00:00:00Z",
+  "timestamp": "2026-06-07T07:57:33Z",
   "emojis": [
     {
+      "char": "🇨🇺",
+      "label": "us sanctions on cuba",
+      "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
+      "title": "US imposes new sanctions on Cuban president and Castro family members",
+      "summary": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, along..."
+    },
+    {
+      "char": "🇪🇸",
+      "label": "pope visits spain",
+      "url": "https://www.nytimes.com/2026/06/06/world/europe/leo-spain-visit.html",
+      "title": "Pope Leo, After Taking on Trump and A.I., Prepares for New Duels in Spain",
+      "summary": "Leo arrived in Spain on Saturday for a weeklong visit in which he will meet with migrants and may come under fire from Vox, Spain’s far-right party."
+    },
+    {
       "char": "🕊️",
-      "label": "israel's use of white phosphorus",
-      "url": "https://www.nytimes.com/2026/06/06/world/middleeast/white-phosphorous-israel-lebanon.html",
-      "title": "What Visual Evidence Tells Us About Israel’s Use of White Phosphorus in Lebanon",
-      "summary": "Videos collected by The Times shows how the Israeli military has deployed a munition that can be extremely harmful over populated areas in Lebanon."
-    },
-    {
-      "char": "⚖️",
-      "label": "african charter condemned by rights groups",
-      "url": "https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
-      "title": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
-      "summary": "Draft treaty claims sexual and reproductive health and rights are an existential threat to the African family An African treaty that rejects longstanding international human rights obligations moved a step closer to becoming policy this..."
-    },
-    {
-      "char": "💔",
-      "label": "funeral for baby shot in west bank",
+      "label": "funeral for baby in west bank",
       "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
       "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
       "summary": "The seven-month-old boy's shrouded body was wrapped in a Palestinian flag and carried by his father to the graveyard."
     },
     {
-      "char": "💰",
-      "label": "debt collector in venezuela",
-      "url": "https://www.nytimes.com/2026/06/06/world/americas/venezuela-caracas-debt-collector-dr-diablo.html",
-      "title": "In Venezuela, the Debt Collector Is the Devil",
-      "summary": "Got a debt to collect in Venezuela’s capital? Dr. Diablo and his pitchfork-wielding posse use public humiliation to pressure people into paying up."
+      "char": "⚖️",
+      "label": "ghana family values charter",
+      "url": "https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
+      "title": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
+      "summary": "Draft treaty claims sexual and reproductive health and rights are an existential threat to the African family An African treaty that rejects longstanding international human rights obligations moved a step closer to becoming policy this..."
     },
     {
-      "char": "🏃‍♂️",
-      "label": "civilians flee mogadishu conflict",
-      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
-      "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
-      "summary": "Violence flares before protests on Thursday over president’s decision to remain in office after his term expired Fierce clashes have taken place between government troops and militias allied with the opposition in Somalia’s capital, Moga..."
+      "char": "🐋",
+      "label": "beluga whales relocation plan",
+      "url": "https://www.theguardian.com/environment/2026/jun/04/canada-marineland-beluga-whale-deal",
+      "title": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
+      "summary": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to aquariums in Spain or across US Canada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales , ending a saga that ha..."
     }
   ],
   "source": "ai-openai",
