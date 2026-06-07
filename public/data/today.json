@@ -1,41 +1,41 @@
 {
   "date": "2026-06-07",
-  "timestamp": "2026-06-07T14:03:38Z",
+  "timestamp": "2026-06-07T00:00:00Z",
   "emojis": [
     {
-      "char": "🇸🇳",
-      "label": "senegal's political rift",
-      "url": "https://www.nytimes.com/2026/06/06/world/africa/senegal-faye-sonko-young-fight.html",
-      "title": "A President, His Prime Minister and the Bitter Rift Dividing Senegal",
-      "summary": "The two men became president and prime minister by defeating the political old guard in Senegal. Now they are fighting each other."
-    },
-    {
-      "char": "🦈",
-      "label": "beluga whales relocation",
-      "url": "https://www.theguardian.com/environment/2026/jun/04/canada-marineland-beluga-whale-deal",
-      "title": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
-      "summary": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to aquariums in Spain or across US Canada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales , ending a saga that ha..."
-    },
-    {
-      "char": "🕊️",
-      "label": "boko haram captives freed",
-      "url": "https://www.bbc.com/news/articles/ce8j0jn4xjgo?at_medium=RSS&at_campaign=rss",
-      "title": "Hundreds of captives freed from Boko Haram mountain hideout",
-      "summary": "The group includes many women and children who were abducted in March from an area close to Cameroon."
-    },
-    {
-      "char": "🗳️",
-      "label": "peru's election runoff",
-      "url": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
-      "title": "Peru’s discontented voters face straight left-right choice in election runoff",
-      "summary": "Keiko Fujimori, the daughter of 1990s leader Alberto, is vying with a congressman to become country’s ninth president in a decade Peruvians go to the polls on Sunday in an election runoff that pits a perennial rightwing candidate, Keiko..."
-    },
-    {
       "char": "🦠",
-      "label": "ebola outbreak concerns",
+      "label": "ebola outbreak concerns in africa",
       "url": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
       "title": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
       "summary": "Modelling from US CDC shows Ebola spread could be on ‘dangerous trajectory’, but experts warn outbreaks can be very hard to predict Central Africa’s Ebola outbreak could spread to be similar in scale to the worst outbreak in history, wes..."
+    },
+    {
+      "char": "⚖️",
+      "label": "african charter criticized by rights groups",
+      "url": "https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
+      "title": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
+      "summary": "Draft treaty claims sexual and reproductive health and rights are an existential threat to the African family An African treaty that rejects longstanding international human rights obligations moved a step closer to becoming policy this..."
+    },
+    {
+      "char": "🗳️",
+      "label": "peru's presidential race tightens",
+      "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
+      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
+      "summary": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality."
+    },
+    {
+      "char": "💔",
+      "label": "ex-child soldier's haunting memories",
+      "url": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss",
+      "title": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
+      "summary": "Yusuf Ali, now 34, struggles with his memories living in Mogadishu surrounded by dark reminders of his past."
+    },
+    {
+      "char": "✈️",
+      "label": "aviation leaders gather for rio summit",
+      "url": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
+      "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
+      "summary": "Oil tankers may be stuck behind strait of Hormuz, but holding the Iata AGM in Brazil defies warnings of impending shortages Nothing says jet fuel crisis, as one prospective attender put it, like flying everyone to Rio de Janeiro. Aviatio..."
     }
   ],
   "source": "ai-openai",
