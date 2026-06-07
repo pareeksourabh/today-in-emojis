@@ -46771,5 +46771,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-07",
+    "emojis": [
+      {
+        "char": "🔫",
+        "label": "shooting in israel leaves one dead",
+        "url": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
+        "title": "One dead, five injured after shooting in Israel",
+        "summary": "The suspect opened fire from a car in several locations before being shot dead."
+      },
+      {
+        "char": "💣",
+        "label": "israel bombs beirut outskirts amid conflict",
+        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
+        "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
+        "summary": "The Trump administration has pushed for a cease-fire, bringing Israeli and Lebanese officials together for talks in Washington. But so far, Hezbollah has rejected the truce."
+      },
+      {
+        "char": "🐋",
+        "label": "canada plans to relocate beluga whales",
+        "url": "https://www.theguardian.com/environment/2026/jun/04/canada-marineland-beluga-whale-deal",
+        "title": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
+        "summary": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to aquariums in Spain or across US Canada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales , ending a saga that ha..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak could match 2014 levels",
+        "url": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
+        "title": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
+        "summary": "Modelling from US CDC shows Ebola spread could be on ‘dangerous trajectory’, but experts warn outbreaks can be very hard to predict Central Africa’s Ebola outbreak could spread to be similar in scale to the worst outbreak in history, wes..."
+      },
+      {
+        "char": "🇵🇪",
+        "label": "peru faces left-right election runoff",
+        "url": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
+        "title": "Peru’s discontented voters face straight left-right choice in election runoff",
+        "summary": "Keiko Fujimori, the daughter of 1990s leader Alberto, is vying with a congressman to become country’s ninth president in a decade Peruvians go to the polls on Sunday in an election runoff that pits a perennial rightwing candidate, Keiko..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
