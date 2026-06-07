@@ -1,20 +1,27 @@
 {
   "date": "2026-06-07",
-  "timestamp": "2026-06-07T10:31:19Z",
+  "timestamp": "2026-06-07T00:00:00Z",
   "emojis": [
     {
-      "char": "✈️",
-      "label": "aviation leaders meet in rio",
-      "url": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
-      "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
-      "summary": "Oil tankers may be stuck behind strait of Hormuz, but holding the Iata AGM in Brazil defies warnings of impending shortages Nothing says jet fuel crisis, as one prospective attender put it, like flying everyone to Rio de Janeiro. Aviatio..."
+      "char": "🕊️",
+      "label": "pope's visit to spain",
+      "url": "https://www.nytimes.com/2026/06/06/world/europe/leo-spain-visit.html",
+      "title": "Pope Leo, After Taking on Trump and A.I., Prepares for New Duels in Spain",
+      "summary": "Leo arrived in Spain on Saturday for a weeklong visit in which he will meet with migrants and may come under fire from Vox, Spain’s far-right party."
     },
     {
-      "char": "🏛️",
-      "label": "neo-nazi mayoral runoff in germany",
-      "url": "https://www.nytimes.com/2026/06/07/world/europe/germany-neo-nazi-mayor-election.html",
-      "title": "Member of Neo-Nazi Party Reaches Mayoral Runoff in German Town",
-      "summary": "Since the fall of the Third Reich, German voters have shunned mayoral candidates from neo-Nazi parties. That could change on Sunday in a small town in the country’s east."
+      "char": "🏈",
+      "label": "nfl's flag football in korea",
+      "url": "https://www.nytimes.com/2026/06/07/world/asia/south-korea-nfl-football-flag.html",
+      "title": "Can the N.F.L. Win Fans in South Korea With Flag Football?",
+      "summary": "The inclusion of flag football in the next Olympic Games has spurred optimism about the prospects of American football in South Korea, where it has languished for decades."
+    },
+    {
+      "char": "🕊️",
+      "label": "somalia's ex-child soldier story",
+      "url": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss",
+      "title": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
+      "summary": "Yusuf Ali, now 34, struggles with his memories living in Mogadishu surrounded by dark reminders of his past."
     },
     {
       "char": "🗳️",
@@ -24,18 +31,11 @@
       "summary": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality."
     },
     {
-      "char": "💼",
-      "label": "canadian workers unionize at walmart",
-      "url": "https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal",
-      "title": "‘Historic’: Canadian warehouse workers sign first-ever union deal with Walmart",
-      "summary": "Union says collective agreement is just the start of a broader fight to unionize major employers across the country Canadian warehouse workers have signed the first-ever collective agreement with Walmart, a breakthrough labour organizers..."
-    },
-    {
-      "char": "⚔️",
-      "label": "drone attacks overshadow russia forum",
-      "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
-      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
-      "summary": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks."
+      "char": "✈️",
+      "label": "aviation leaders meet in rio",
+      "url": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
+      "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
+      "summary": "Oil tankers may be stuck behind strait of Hormuz, but holding the Iata AGM in Brazil defies warnings of impending shortages Nothing says jet fuel crisis, as one prospective attender put it, like flying everyone to Rio de Janeiro. Aviatio..."
     }
   ],
   "source": "ai-openai",
