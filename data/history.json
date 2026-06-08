@@ -46991,5 +46991,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-08",
+    "emojis": [
+      {
+        "char": "🏴‍☠️",
+        "label": "civilians flee mogadishu fighting",
+        "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+        "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
+        "summary": "Violence flares before protests on Thursday over president’s decision to remain in office after his term expired Fierce clashes have taken place between government troops and militias allied with the opposition in Somalia’s capital, Moga..."
+      },
+      {
+        "char": "🏛️",
+        "label": "armenia's pro-west government wins election",
+        "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
+        "title": "Armenia's pro-West government wins election despite Russian pressure",
+        "summary": "Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly 50% of the vote, comfortably beating the other contenders."
+      },
+      {
+        "char": "⚖️",
+        "label": "family values charter condemned by rights groups",
+        "url": "https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
+        "title": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
+        "summary": "Draft treaty claims sexual and reproductive health and rights are an existential threat to the African family An African treaty that rejects longstanding international human rights obligations moved a step closer to becoming policy this..."
+      },
+      {
+        "char": "🦠",
+        "label": "experts criticize ebola quarantine plan",
+        "url": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
+        "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
+        "summary": "Plan departs from policy of bringing CDC staff back to US for treatment and offering support to all health workers Former top US officials and other experts are urging the Trump administration to abandon plans for an Ebola quarantine and..."
+      },
+      {
+        "char": "🌍",
+        "label": "canadian workers sign first union deal",
+        "url": "https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal",
+        "title": "‘Historic’: Canadian warehouse workers sign first-ever union deal with Walmart",
+        "summary": "Union says collective agreement is just the start of a broader fight to unionize major employers across the country Canadian warehouse workers have signed the first-ever collective agreement with Walmart, a breakthrough labour organizers..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
