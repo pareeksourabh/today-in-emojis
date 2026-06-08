@@ -46859,5 +46859,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-08",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "ebola quarantine plan in kenya",
+        "url": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
+        "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
+        "summary": "Plan departs from policy of bringing CDC staff back to US for treatment and offering support to all health workers Former top US officials and other experts are urging the Trump administration to abandon plans for an Ebola quarantine and..."
+      },
+      {
+        "char": "🗳️",
+        "label": "peru presidential runoff tight race",
+        "url": "https://www.nytimes.com/2026/06/07/world/americas/peru-presidential-election.html",
+        "title": "Peru’s Presidential Runoff in a Dead Heat",
+        "summary": "The runoff pit a leftist seeking to win over undecided centrists against a right-winger with a tough-on-crime sales pitch."
+      },
+      {
+        "char": "💔",
+        "label": "iran faces war and inflation despair",
+        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html",
+        "title": "Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation",
+        "summary": "An imploding economy is causing hopelessness among both pro- and anti-government Iranians. And for those who wished for regime change, the letdown is palpable."
+      },
+      {
+        "char": "🌊",
+        "label": "mexico city attempts record wave",
+        "url": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&at_campaign=rss",
+        "title": "Mexico City attempts record-breaking wave",
+        "summary": "As part of the countdown to the World Cup, Mexico City is attempting to surpass the world record for largest wave."
+      },
+      {
+        "char": "🦈",
+        "label": "great white shark footage in mediterranean",
+        "url": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss",
+        "title": "Rare footage captured of Great White shark in Mediterranean Sea",
+        "summary": "A volunteer diver has described shaking as he filmed his encounter with an endangered Great White shark between Tunisia and Sicily."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
