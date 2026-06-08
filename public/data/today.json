@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The day’s news features alarming reports about potential global health crises, conflicts, and economic distress, evoking a sense of fear and uncertainty, thus the choice of the worried emoji.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day is marked by significant distressing news, including rising Ebola threats, violence in various regions, and humanitarian crises, leading to an overall sense of sadness and concern.",
     "palette": [
       "😢",
       "😡",
