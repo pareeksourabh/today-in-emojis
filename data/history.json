@@ -46815,5 +46815,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-08",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "neo-nazi mayoral race in germany",
+        "url": "https://www.nytimes.com/2026/06/07/world/europe/germany-neo-nazi-mayor-election.html",
+        "title": "Neo-Nazi Party Member Loses Close Mayoral Race in German Town",
+        "summary": "Despite losing in the runoff, his relative success capped a growing realization in Germany that voting for the far right, even within living memory of Adolf Hitler, is no longer considered taboo."
+      },
+      {
+        "char": "✌️",
+        "label": "zelensky's peace talk conditions",
+        "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+        "title": "Zelensky's close European allies set out five conditions for peace talks",
+        "summary": "The Ukrainian president's meeting with his staunchest European allies came as US President Donald Trump's focus shifts to the war with Iran."
+      },
+      {
+        "char": "💔",
+        "label": "iranians face war and inflation",
+        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html",
+        "title": "Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation",
+        "summary": "An imploding economy is causing hopelessness among both pro- and anti-government Iranians. And for those who wished for regime change, the letdown is palpable."
+      },
+      {
+        "char": "🔫",
+        "label": "israel shooting attack",
+        "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html",
+        "title": "Arab Gunman Kills One in Attack on Central Israel",
+        "summary": "The assailant, an Arab citizen of Israel, was killed. Hamas, the Palestinian militant group, praised the shooting, but it did not claim responsibility."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola quarantine centre criticism",
+        "url": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
+        "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
+        "summary": "Plan departs from policy of bringing CDC staff back to US for treatment and offering support to all health workers Former top US officials and other experts are urging the Trump administration to abandon plans for an Ebola quarantine and..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
