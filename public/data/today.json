@@ -1,41 +1,41 @@
 {
   "date": "2026-06-08",
-  "timestamp": "2026-06-08T16:01:32Z",
+  "timestamp": "2026-06-08T00:00:00Z",
   "emojis": [
     {
-      "char": "🕊️",
+      "char": "🇰🇵",
+      "label": "north korea's transformation",
+      "url": "https://www.nytimes.com/2026/06/08/world/asia/north-korea-kim-jong-un-pandemic-economy.html",
+      "title": "A ‘Miraculous Transformation’: How Kim Jong-un Fortified North Korea",
+      "summary": "He used the pandemic to ruthlessly tighten his grip on the country. Then he energized its economy by leveraging Russia’s war in Ukraine."
+    },
+    {
+      "char": "🤝",
+      "label": "canadian workers unionize",
+      "url": "https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal",
+      "title": "‘Historic’: Canadian warehouse workers sign first-ever union deal with Walmart",
+      "summary": "Union says collective agreement is just the start of a broader fight to unionize major employers across the country Canadian warehouse workers have signed the first-ever collective agreement with Walmart, a breakthrough labour organizers..."
+    },
+    {
+      "char": "✝️",
       "label": "pope and atheist oppose trump",
       "url": "https://www.nytimes.com/2026/06/08/world/europe/pope-leo-sanchez-trump.html",
       "title": "One Is the Pope, the Other an Atheist. They Both Oppose Trump.",
       "summary": "Pope Leo XIV and Prime Minister Pedro Sánchez of Spain, who met on Monday, have recently clashed with President Trump. Their motivations, however, may be different."
     },
     {
-      "char": "🐋",
-      "label": "canada relocates beluga whales",
-      "url": "https://www.theguardian.com/environment/2026/jun/04/canada-marineland-beluga-whale-deal",
-      "title": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
-      "summary": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to aquariums in Spain or across US Canada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales , ending a saga that ha..."
+      "char": "🏙️",
+      "label": "civilians flee mogadishu",
+      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+      "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
+      "summary": "Violence flares before protests on Thursday over president’s decision to remain in office after his term expired Fierce clashes have taken place between government troops and militias allied with the opposition in Somalia’s capital, Moga..."
     },
     {
-      "char": "🌍",
-      "label": "earthquake in the philippines",
-      "url": "https://www.nytimes.com/2026/06/07/world/asia/philippines-earthquake-tsunami-warning.html",
-      "title": "At Least 32 Dead After Earthquake and Landslide in the Philippines",
-      "summary": "A 7.8-magnitude quake struck off the island of Mindanao, causing widespread destruction and a deadly landslide. More than 100 others were injured and tens of thousands displaced."
-    },
-    {
-      "char": "🚨",
-      "label": "immigrants face backlash in south africa",
-      "url": "https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa",
-      "title": "‘Extreme fear’ among immigrants as backlash sweeps South Africa",
-      "summary": "African migrants say legal status offers little protection as rallies against illegal immigration gain momentum African migrants in South Africa say they are living in fear after a series of marches calling for illegal immigrants to leav..."
-    },
-    {
-      "char": "💔",
-      "label": "iran halts attacks on israel",
-      "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
-      "title": "Iran says it has halted attacks on Israel after first exchange of fire since truce",
-      "summary": "Iran launched about 30 missiles at Israel following a strike in Lebanon, while Israel carried out two waves of air strikes in Iran."
+      "char": "⚽",
+      "label": "mexico's world cup jerseys",
+      "url": "https://www.nytimes.com/2026/06/08/world/americas/adidas-mexico-indigenous-women-world-cup.html",
+      "title": "Artisanal or Exploitative? Unraveling the Story of Mexico’s World Cup Jerseys",
+      "summary": "Mexicans are enraged after viral videos claimed Adidas exploited Indigenous women to sew World Cup jerseys. We traveled into the mountains to speak to the artisans themselves."
     }
   ],
   "source": "ai-openai",
