@@ -47035,5 +47035,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-09",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "aviation leaders meet in rio",
+        "url": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
+        "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
+        "summary": "Oil tankers may be stuck behind strait of Hormuz, but holding the Iata AGM in Brazil defies warnings of impending shortages Nothing says jet fuel crisis, as one prospective attender put it, like flying everyone to Rio de Janeiro. Aviatio..."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "us sanctions on cuba's leadership",
+        "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
+        "title": "US imposes new sanctions on Cuban president and Castro family members",
+        "summary": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, along..."
+      },
+      {
+        "char": "👗",
+        "label": "mexico's world cup jerseys debate",
+        "url": "https://www.nytimes.com/2026/06/08/world/americas/adidas-mexico-indigenous-women-world-cup.html",
+        "title": "Artisanal or Exploitative? Unraveling the Story of Mexico’s World Cup Jerseys",
+        "summary": "Mexicans are enraged after viral videos claimed Adidas exploited Indigenous women to sew World Cup jerseys. We traveled into the mountains to speak to the artisans themselves."
+      },
+      {
+        "char": "🤝",
+        "label": "nigeria peace talks turn violent",
+        "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
+        "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
+        "summary": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negot..."
+      },
+      {
+        "char": "🌍",
+        "label": "earthquake devastation in philippines",
+        "url": "https://www.nytimes.com/2026/06/07/world/asia/philippines-earthquake-tsunami-warning.html",
+        "title": "At Least 32 Dead After Earthquake and Landslide in the Philippines",
+        "summary": "A 7.8-magnitude quake struck off the island of Mindanao, causing widespread destruction and a deadly landslide. More than 100 others were injured and tens of thousands displaced."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
