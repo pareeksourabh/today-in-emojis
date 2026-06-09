@@ -47079,5 +47079,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-09",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "icc suspends top prosecutor",
+        "url": "https://www.bbc.com/news/articles/c77yx53015no?at_medium=RSS&at_campaign=rss",
+        "title": "ICC suspends top prosecutor after investigating misconduct allegations",
+        "summary": "Karim Khan denies all allegations of sexual misconduct and his lawyers say he rejects the decision in the strongest terms."
+      },
+      {
+        "char": "🇨🇳",
+        "label": "china reasserts itself on north korea",
+        "url": "https://www.nytimes.com/2026/06/08/world/asia/xi-kim-china-north-korea-summit.html",
+        "title": "China Reasserts Itself, to Contain North Korea’s Tilt Toward Russia",
+        "summary": "On a rare visit to North Korea, China’s leader, Xi Jinping, projected unity but also sought to remind Kim Jong-un that he is the senior partner in their alliance."
+      },
+      {
+        "char": "🇮🇱",
+        "label": "iran risks attack on israel",
+        "url": "https://www.nytimes.com/2026/06/08/world/middleeast/israel-iran-strikes-regional-gains.html",
+        "title": "Why Iran Risked an Attack on Israel",
+        "summary": "Iran’s leaders want to show they are serious about defending their Hezbollah allies in Lebanon and maintaining the regional balance of power, analysts say."
+      },
+      {
+        "char": "🏀",
+        "label": "trump attends nba finals",
+        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+        "summary": "The catcalls came after ticketholders faced airport-style security to enter the venue at Madison Square Garden."
+      },
+      {
+        "char": "🎙️",
+        "label": "podcast on world cup cartels",
+        "url": "https://www.theguardian.com/news/audio/2026/jun/09/the-criminal-cartels-cashing-in-on-the-world-cup-podcast",
+        "title": "The criminal cartels cashing in on the World Cup – podcast",
+        "summary": "Football fans are celebrating the tournament coming to Guadalajara. But with a brutal crime syndicate holding sway there, what are the risks for fans – and the government? Excitement is mounting in Mexico as the World Cup opens in Mexico..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
