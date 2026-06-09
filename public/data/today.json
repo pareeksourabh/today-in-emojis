@@ -1,43 +1,204 @@
 {
   "date": "2026-06-09",
-  "timestamp": "2026-06-09T17:49:02Z",
+  "timestamp": "2026-06-09T00:00:00Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "icc suspends top prosecutor",
+      "char": "🇰🇵",
+      "label": "kim jong-un fortifies north korea",
+      "url": "https://www.nytimes.com/2026/06/08/world/asia/north-korea-kim-jong-un-pandemic-economy.html",
+      "title": "A ‘Miraculous Transformation’: How Kim Jong-un Fortified North Korea",
+      "summary": "He used the pandemic to ruthlessly tighten his grip on the country. Then he energized its economy by leveraging Russia’s war in Ukraine."
+    },
+    {
+      "char": "🔪",
+      "label": "uk stabbing linked to migrant invasion",
+      "url": "https://www.nytimes.com/2026/06/08/world/europe/vance-uk-stabbing-migrants.html",
+      "title": "Vance Blames Migrant ‘Invasion’ for UK Stabbing",
+      "summary": "British officials accused Vice President JD Vance of trying to “stir up division” in his comments on the murder of Henry Nowak, whose killer was sentenced to life in prison last week."
+    },
+    {
+      "char": "🗳️",
+      "label": "pashinyan wins re-election in armenia",
+      "url": "https://www.nytimes.com/2026/06/08/world/europe/armenia-election-results.html",
+      "title": "Nikol Pashinyan Wins Re-election in Armenia",
+      "summary": "Prime Minister Nikol Pashinyan overcame a pressure campaign by Moscow and was on track to win a mandate to move ahead on peace talks that President Trump helped broker."
+    },
+    {
+      "char": "🌍",
+      "label": "35 dead after earthquake in philippines",
+      "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
+      "title": "At least 35 dead after major earthquake strikes southern Philippines",
+      "summary": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan."
+    },
+    {
+      "char": "🦠",
+      "label": "scientist charged with mpox smuggling",
+      "url": "https://www.nytimes.com/2026/06/08/science/dutch-scientist-mpox-virus-smuggling.html",
+      "title": "Scientist Charged With Conspiring to Smuggle Mpox Virus Into U.S.",
+      "summary": "The virologist was stopped at the Detroit airport after working in Congo during an mpox epidemic. His lawyer said the material was for research."
+    },
+    {
+      "char": "📈",
+      "label": "stock market jitters amid attacks",
+      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+      "title": "Stock market jitters remain amid tech fears and renewed Middle East attacks",
+      "summary": "Markets in Asia are hit by a tech sell-off, and oil is volatile as Iran and Israel launch attacks on each other."
+    },
+    {
+      "char": "✈️",
+      "label": "aviation leaders gather for summit",
+      "url": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
+      "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
+      "summary": "Oil tankers may be stuck behind strait of Hormuz, but holding the Iata AGM in Brazil defies warnings of impending shortages Nothing says jet fuel crisis, as one prospective attender put it, like flying everyone to Rio de Janeiro. Aviatio..."
+    },
+    {
+      "char": "✈️",
+      "label": "us pilots killed in plane crash",
+      "url": "https://www.theguardian.com/us-news/2026/jun/08/us-pilots-killed-plane-crash-dominican-republic",
+      "title": "Two US pilots killed after plane bound to pick up former MLB star crashes",
+      "summary": "Plane on way to pick up Yadier Molina and his family crashed in Dominican Republic, killing pilot and co-pilot A pilot and co-pilot from the United States have died in a fiery plane crash as they attempted an emergency landing in the Dom..."
+    },
+    {
+      "char": "🗳️",
+      "label": "armenian election results announced",
+      "url": "https://www.nytimes.com/2026/06/08/world/europe/armenia-election-results.html",
+      "title": "Nikol Pashinyan Wins Re-election in Armenia",
+      "summary": "Prime Minister Nikol Pashinyan overcame a pressure campaign by Moscow and was on track to win a mandate to move ahead on peace talks that President Trump helped broker."
+    },
+    {
+      "char": "🌍",
+      "label": "bandits abduct villagers in nigeria",
+      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
+      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
+      "summary": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negot..."
+    },
+    {
+      "char": "🇰🇵",
+      "label": "north korea's transformation",
+      "url": "https://www.nytimes.com/2026/06/08/world/asia/north-korea-kim-jong-un-pandemic-economy.html",
+      "title": "A ‘Miraculous Transformation’: How Kim Jong-un Fortified North Korea",
+      "summary": "He used the pandemic to ruthlessly tighten his grip on the country. Then he energized its economy by leveraging Russia’s war in Ukraine."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "canada's historic union deal",
+      "url": "https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal",
+      "title": "‘Historic’: Canadian warehouse workers sign first-ever union deal with Walmart",
+      "summary": "Union says collective agreement is just the start of a broader fight to unionize major employers across the country Canadian warehouse workers have signed the first-ever collective agreement with Walmart, a breakthrough labour organizers..."
+    },
+    {
+      "char": "🔪",
+      "label": "uk stabbing linked to migrants",
+      "url": "https://www.nytimes.com/2026/06/08/world/europe/vance-uk-stabbing-migrants.html",
+      "title": "Vance Blames Migrant ‘Invasion’ for UK Stabbing",
+      "summary": "British officials accused Vice President JD Vance of trying to “stir up division” in his comments on the murder of Henry Nowak, whose killer was sentenced to life in prison last week."
+    },
+    {
+      "char": "✈️",
+      "label": "aviation leaders meet in rio",
+      "url": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
+      "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
+      "summary": "Oil tankers may be stuck behind strait of Hormuz, but holding the Iata AGM in Brazil defies warnings of impending shortages Nothing says jet fuel crisis, as one prospective attender put it, like flying everyone to Rio de Janeiro. Aviatio..."
+    },
+    {
+      "char": "🌍",
+      "label": "earthquake in the philippines",
+      "url": "https://www.nytimes.com/2026/06/07/world/asia/philippines-earthquake-tsunami-warning.html",
+      "title": "At Least 32 Dead After Earthquake and Landslide in the Philippines",
+      "summary": "A 7.8-magnitude quake struck off the island of Mindanao, causing widespread destruction and a deadly landslide. More than 100 others were injured and tens of thousands displaced."
+    },
+    {
+      "char": "🏀",
+      "label": "trump attends nba finals",
+      "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+      "summary": "The catcalls came after ticketholders faced airport-style security to enter the venue at Madison Square Garden."
+    },
+    {
+      "char": "🎧",
+      "label": "cartels and the world cup podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/jun/09/the-criminal-cartels-cashing-in-on-the-world-cup-podcast",
+      "title": "The criminal cartels cashing in on the World Cup – podcast",
+      "summary": "Football fans are celebrating the tournament coming to Guadalajara. But with a brutal crime syndicate holding sway there, what are the risks for fans – and the government? Excitement is mounting in Mexico as the World Cup opens in Mexico..."
+    },
+    {
+      "char": "🤝",
+      "label": "nigeria bandits abduct villagers",
+      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
+      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
+      "summary": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negot..."
+    },
+    {
+      "char": "🚨",
+      "label": "kenya police protest ebola plan",
+      "url": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss",
+      "title": "Kenyan police fire tear gas at protest against US Ebola quarantine centre plan",
+      "summary": "Protesters are concerned about cross-border infection risks and the lack of transparency from the government about the treatment centre."
+    },
+    {
+      "char": "🌍",
+      "label": "earthquake in the philippines",
+      "url": "https://www.nytimes.com/2026/06/07/world/asia/philippines-earthquake-tsunami-warning.html",
+      "title": "At Least 32 Dead After Earthquake and Landslide in the Philippines",
+      "summary": "A 7.8-magnitude quake struck off the island of Mindanao, causing widespread destruction and a deadly landslide. More than 100 others were injured and tens of thousands displaced."
+    },
+    {
+      "char": "⚽",
+      "label": "world cup and trump's connection",
+      "url": "https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html",
+      "title": "Infantino’s Yearslong Effort to Woo Trump for the World Cup",
+      "summary": "Gianni Infantino, the FIFA president, has unabashedly courted the president’s favor. Soccer officials privately ask, who really benefits?"
+    },
+    {
+      "char": "🚨",
+      "label": "migrants kidnapped in uk",
+      "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
+      "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
+      "summary": "The Iraqi Kurds were captured by a militia who demanded a ransom of $5,000 (£3,700) per person."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola outbreak concerns in africa",
+      "url": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
+      "title": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
+      "summary": "Modelling from US CDC shows Ebola spread could be on ‘dangerous trajectory’, but experts warn outbreaks can be very hard to predict Central Africa’s Ebola outbreak could spread to be similar in scale to the worst outbreak in history, wes..."
+    },
+    {
+      "char": "👮‍♂️",
+      "label": "icc prosecutor suspended",
       "url": "https://www.bbc.com/news/articles/c77yx53015no?at_medium=RSS&at_campaign=rss",
       "title": "ICC suspends top prosecutor after investigating misconduct allegations",
       "summary": "Karim Khan denies all allegations of sexual misconduct and his lawyers say he rejects the decision in the strongest terms."
     },
     {
-      "char": "🕊️",
-      "label": "cease-fire in lebanon",
-      "url": "https://www.nytimes.com/2026/06/09/world/middleeast/lebanon-israel-nabatieh.html",
-      "title": "The Roar of ‘Cease-Fire’ in a Once-Thriving City",
-      "summary": "The city of Nabatieh once spoke to the changing fortunes of Lebanon. Now, amid unending war, it speaks to the country’s worst fears."
-    },
-    {
-      "char": "🚨",
-      "label": "man shot in kenya protest",
-      "url": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
-      "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
-      "summary": "Police dispersed demonstrators in Nanyuki, 120 miles from Nairobi, amid rising anger at US plans Kenyan police have shot dead a man during a protest against a proposed Ebola quarantine facility for US citizens. Patrick Wahome, who has or..."
-    },
-    {
-      "char": "🌍",
-      "label": "florida earthquake reported",
-      "url": "https://www.theguardian.com/us-news/2026/jun/09/florida-earthquake-cuba-coast-mexico",
-      "title": "Florida shaken by 6.1-magnitude earthquake off coast of Cuba",
-      "summary": "Earthquake was region’s strongest tremor in nearly 150 years and was also felt in parts of Mexico including Cancún An earthquake on Monday off the coast of Cuba , which was that region’s strongest tremor in nearly 150 years, could be fel..."
-    },
-    {
-      "char": "💔",
-      "label": "many trapped in philippines quake",
-      "url": "https://www.nytimes.com/2026/06/09/world/asia/philippines-earthquake-trapped.html",
-      "title": "Many Feared Trapped Under Earthquake Rubble in Philippines",
-      "summary": "Families hope to recover their loved ones after the most powerful earthquake in 50 years to hit the Philippines."
+      "char": "✈️",
+      "label": "canadian workers unionize at walmart",
+      "url": "https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal",
+      "title": "‘Historic’: Canadian warehouse workers sign first-ever union deal with Walmart",
+      "summary": "Union says collective agreement is just the start of a broader fight to unionize major employers across the country Canadian warehouse workers have signed the first-ever collective agreement with Walmart, a breakthrough labour organizers..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Worried",
+    "emoji": "😨",
+    "rationale": "The day features multiple reports of tragedies, including earthquakes and violent incidents, alongside rising geopolitical tensions, which collectively evoke a sense of worry and concern.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
