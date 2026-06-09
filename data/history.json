@@ -47167,5 +47167,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-09",
+    "emojis": [
+      {
+        "char": "⚽",
+        "label": "somali referee denied world cup entry",
+        "url": "https://www.nytimes.com/2026/06/09/world/africa/somali-referee-world-cup-us-entry-omar-artan.html",
+        "title": "Somali Referee Says His World Cup Dream Is Dashed After U.S. Denies Entry",
+        "summary": "“I had the right papers and everything,” Omar Abdulkadir Artan said in his first interview since he was turned back. He would have been the first Somali to referee a game in the tournament."
+      },
+      {
+        "char": "🔪",
+        "label": "man arrested in belfast stabbing",
+        "url": "https://www.nytimes.com/2026/06/09/world/europe/belfast-stabbing-arrest-northern-ireland.html",
+        "title": "Man Arrested in ‘Brutal’ Stabbing in Belfast, Police Say",
+        "summary": "The suspect, who the police said is in his 30s and Sudanese, is alleged to have attacked another man in an assault in Belfast that was recorded and spread quickly online."
+      },
+      {
+        "char": "🚁",
+        "label": "sea drone rescues army crew",
+        "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+        "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+        "summary": "An uncrewed vessel picked up two crew members of an Apache helicopter that went down on Monday, US officials tells CBS News."
+      },
+      {
+        "char": "🤝",
+        "label": "canadian workers sign union deal",
+        "url": "https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal",
+        "title": "‘Historic’: Canadian warehouse workers sign first-ever union deal with Walmart",
+        "summary": "Union says collective agreement is just the start of a broader fight to unionize major employers across the country Canadian warehouse workers have signed the first-ever collective agreement with Walmart, a breakthrough labour organizers..."
+      },
+      {
+        "char": "🗳️",
+        "label": "peru voters face election runoff",
+        "url": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
+        "title": "Peru’s discontented voters face straight left-right choice in election runoff",
+        "summary": "Keiko Fujimori, the daughter of 1990s leader Alberto, is vying with a congressman to become country’s ninth president in a decade Peruvians go to the polls on Sunday in an election runoff that pits a perennial rightwing candidate, Keiko..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
