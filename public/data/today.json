@@ -1,41 +1,41 @@
 {
   "date": "2026-06-09",
-  "timestamp": "2026-06-09T02:13:28Z",
+  "timestamp": "2026-06-09T00:00:00Z",
   "emojis": [
     {
+      "char": "📈",
+      "label": "stock market jitters amid attacks",
+      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+      "title": "Stock market jitters remain amid tech fears and renewed Middle East attacks",
+      "summary": "Markets in Asia are hit by a tech sell-off, and oil is volatile as Iran and Israel launch attacks on each other."
+    },
+    {
       "char": "✈️",
-      "label": "aviation leaders meet in rio",
+      "label": "aviation leaders gather for summit",
       "url": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
       "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
       "summary": "Oil tankers may be stuck behind strait of Hormuz, but holding the Iata AGM in Brazil defies warnings of impending shortages Nothing says jet fuel crisis, as one prospective attender put it, like flying everyone to Rio de Janeiro. Aviatio..."
     },
     {
-      "char": "🇨🇺",
-      "label": "us sanctions on cuba's leadership",
-      "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
-      "title": "US imposes new sanctions on Cuban president and Castro family members",
-      "summary": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, along..."
+      "char": "✈️",
+      "label": "us pilots killed in plane crash",
+      "url": "https://www.theguardian.com/us-news/2026/jun/08/us-pilots-killed-plane-crash-dominican-republic",
+      "title": "Two US pilots killed after plane bound to pick up former MLB star crashes",
+      "summary": "Plane on way to pick up Yadier Molina and his family crashed in Dominican Republic, killing pilot and co-pilot A pilot and co-pilot from the United States have died in a fiery plane crash as they attempted an emergency landing in the Dom..."
     },
     {
-      "char": "👗",
-      "label": "mexico's world cup jerseys debate",
-      "url": "https://www.nytimes.com/2026/06/08/world/americas/adidas-mexico-indigenous-women-world-cup.html",
-      "title": "Artisanal or Exploitative? Unraveling the Story of Mexico’s World Cup Jerseys",
-      "summary": "Mexicans are enraged after viral videos claimed Adidas exploited Indigenous women to sew World Cup jerseys. We traveled into the mountains to speak to the artisans themselves."
-    },
-    {
-      "char": "🤝",
-      "label": "nigeria peace talks turn violent",
-      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
-      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
-      "summary": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negot..."
+      "char": "🗳️",
+      "label": "armenian election results announced",
+      "url": "https://www.nytimes.com/2026/06/08/world/europe/armenia-election-results.html",
+      "title": "Nikol Pashinyan Wins Re-election in Armenia",
+      "summary": "Prime Minister Nikol Pashinyan overcame a pressure campaign by Moscow and was on track to win a mandate to move ahead on peace talks that President Trump helped broker."
     },
     {
       "char": "🌍",
-      "label": "earthquake devastation in philippines",
-      "url": "https://www.nytimes.com/2026/06/07/world/asia/philippines-earthquake-tsunami-warning.html",
-      "title": "At Least 32 Dead After Earthquake and Landslide in the Philippines",
-      "summary": "A 7.8-magnitude quake struck off the island of Mindanao, causing widespread destruction and a deadly landslide. More than 100 others were injured and tens of thousands displaced."
+      "label": "bandits abduct villagers in nigeria",
+      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
+      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
+      "summary": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negot..."
     }
   ],
   "source": "ai-openai",
