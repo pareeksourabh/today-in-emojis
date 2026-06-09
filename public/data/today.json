@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Worried",
-    "emoji": "😨",
-    "rationale": "The day features multiple reports of tragedies, including earthquakes and violent incidents, alongside rising geopolitical tensions, which collectively evoke a sense of worry and concern.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day is marked by tragic events such as significant loss of life from earthquakes and kidnappings, alongside political tensions and societal issues, evoking a deep sense of sadness and concern.",
     "palette": [
       "😢",
       "😡",
