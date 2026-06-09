@@ -47123,5 +47123,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-09",
+    "emojis": [
+      {
+        "char": "🇲🇽",
+        "label": "mexico's world cup jerseys",
+        "url": "https://www.nytimes.com/2026/06/08/world/americas/adidas-mexico-indigenous-women-world-cup.html",
+        "title": "Artisanal or Exploitative? Unraveling the Story of Mexico’s World Cup Jerseys",
+        "summary": "Mexicans are enraged after viral videos claimed Adidas exploited Indigenous women to sew World Cup jerseys. We traveled into the mountains to speak to the artisans themselves."
+      },
+      {
+        "char": "🤝",
+        "label": "xi and kim strengthen ties",
+        "url": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss",
+        "title": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
+        "summary": "Xi has wrapped up a two-day visit to Pyongyang, his first official trip to North Korea since 2019."
+      },
+      {
+        "char": "😨",
+        "label": "immigrant backlash in south africa",
+        "url": "https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa",
+        "title": "‘Extreme fear’ among immigrants as backlash sweeps South Africa",
+        "summary": "African migrants say legal status offers little protection as rallies against illegal immigration gain momentum African migrants in South Africa say they are living in fear after a series of marches calling for illegal immigrants to leav..."
+      },
+      {
+        "char": "🕊️",
+        "label": "ukraine drone crisis",
+        "url": "https://www.nytimes.com/2026/06/09/world/europe/russia-ukraine-drones-nato-lithuania-romania.html",
+        "title": "Ukraine’s Neighbors Seek Shelter as More and More Drones Fly Overhead",
+        "summary": "Drones launched by both Russia and Ukraine are veering off course, menacing countries that are not at war."
+      },
+      {
+        "char": "🗳️",
+        "label": "peru's election runoff",
+        "url": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
+        "title": "Peru’s discontented voters face straight left-right choice in election runoff",
+        "summary": "Keiko Fujimori, the daughter of 1990s leader Alberto, is vying with a congressman to become country’s ninth president in a decade Peruvians go to the polls on Sunday in an election runoff that pits a perennial rightwing candidate, Keiko..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
