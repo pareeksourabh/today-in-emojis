@@ -1,41 +1,41 @@
 {
   "date": "2026-06-10",
-  "timestamp": "2026-06-10T02:36:58Z",
+  "timestamp": "2026-06-10T00:00:00Z",
   "emojis": [
     {
+      "char": "🛩️",
+      "label": "drones stray into neighboring countries",
+      "url": "https://www.nytimes.com/2026/06/09/world/europe/russia-ukraine-drones-nato-lithuania-romania.html",
+      "title": "Drones Stray Into Neighboring Countries as Russia and Ukraine Battle",
+      "summary": "Drones launched by both Russia and Ukraine are veering off course, menacing countries that are not at war and driving their citizens to seek shelter."
+    },
+    {
       "char": "✈️",
-      "label": "pilot charged for flying illegally",
-      "url": "https://www.theguardian.com/world/2026/jun/09/air-canada-former-pilot-charged-license",
-      "title": "Former Air Canada pilot charged after allegedly flying without proper license for 16 years",
-      "summary": "Geoffrey Wall is alleged to have flown over 900 flights domestically and internationally between 2009 and 2025 A former Air Canada pilot has been charged after flying for years without a proper license, Canadian police have said. Geoffre..."
+      "label": "us pilots killed in plane crash",
+      "url": "https://www.theguardian.com/us-news/2026/jun/08/us-pilots-killed-plane-crash-dominican-republic",
+      "title": "Two US pilots killed after plane bound to pick up former MLB star crashes",
+      "summary": "Plane on way to pick up Yadier Molina and his family crashed in Dominican Republic, killing pilot and co-pilot A pilot and co-pilot from the United States have died in a fiery plane crash as they attempted an emergency landing in the Dom..."
     },
     {
-      "char": "🗳️",
-      "label": "peru election left-right choice",
-      "url": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
-      "title": "Peru’s discontented voters face straight left-right choice in election runoff",
-      "summary": "Keiko Fujimori, the daughter of 1990s leader Alberto, is vying with a congressman to become country’s ninth president in a decade Peruvians go to the polls on Sunday in an election runoff that pits a perennial rightwing candidate, Keiko..."
-    },
-    {
-      "char": "🌍",
-      "label": "florida earthquake off cuba",
-      "url": "https://www.theguardian.com/us-news/2026/jun/09/florida-earthquake-cuba-coast-mexico",
-      "title": "Florida shaken by 6.1-magnitude earthquake off coast of Cuba",
-      "summary": "Earthquake was region’s strongest tremor in nearly 150 years and was also felt in parts of Mexico including Cancún An earthquake on Monday off the coast of Cuba , which was that region’s strongest tremor in nearly 150 years, could be fel..."
-    },
-    {
-      "char": "🎙️",
-      "label": "podcast on world cup cartels",
-      "url": "https://www.theguardian.com/news/audio/2026/jun/09/the-criminal-cartels-cashing-in-on-the-world-cup-podcast",
-      "title": "The criminal cartels cashing in on the World Cup – podcast",
-      "summary": "Football fans are celebrating the tournament coming to Guadalajara. But with a brutal crime syndicate holding sway there, what are the risks for fans – and the government? Excitement is mounting in Mexico as the World Cup opens in Mexico..."
-    },
-    {
-      "char": "⚖️",
-      "label": "immigrant backlash in south africa",
+      "char": "😟",
+      "label": "fear among immigrants in south africa",
       "url": "https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa",
       "title": "‘Extreme fear’ among immigrants as backlash sweeps South Africa",
       "summary": "African migrants say legal status offers little protection as rallies against illegal immigration gain momentum African migrants in South Africa say they are living in fear after a series of marches calling for illegal immigrants to leav..."
+    },
+    {
+      "char": "🌍",
+      "label": "earthquake in the philippines",
+      "url": "https://www.nytimes.com/2026/06/09/world/asia/philippines-earthquake-trapped.html",
+      "title": "Many Feared Trapped Under Earthquake Rubble in Philippines",
+      "summary": "Families hope to recover their loved ones after the most powerful earthquake in 50 years to hit the Philippines."
+    },
+    {
+      "char": "⚽",
+      "label": "world cup efforts to woo trump",
+      "url": "https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html",
+      "title": "Infantino’s Yearslong Effort to Woo Trump for the World Cup",
+      "summary": "Gianni Infantino, the FIFA president, has unabashedly courted the president’s favor. Soccer officials privately ask, who really benefits?"
     }
   ],
   "source": "ai-openai",
