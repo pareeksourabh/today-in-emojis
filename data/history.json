@@ -47343,5 +47343,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-10",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "us pilots killed in plane crash",
+        "url": "https://www.theguardian.com/us-news/2026/jun/08/us-pilots-killed-plane-crash-dominican-republic",
+        "title": "Two US pilots killed after plane bound to pick up former MLB star crashes",
+        "summary": "Plane on way to pick up Yadier Molina and his family crashed in Dominican Republic, killing pilot and co-pilot A pilot and co-pilot from the United States have died in a fiery plane crash as they attempted an emergency landing in the Dom..."
+      },
+      {
+        "char": "💣",
+        "label": "germany drops warplane plan",
+        "url": "https://www.nytimes.com/2026/06/09/world/europe/europe-fighter-fcas-germany-france.html",
+        "title": "Germany Drops Plan to Build Warplane With Allies, Hindering Push to Rearm",
+        "summary": "Berlin pulled out of the Future Combat Air System, a project with Spain and France that had been seen as central to European efforts to face down Russia and reduce reliance on the United States."
+      },
+      {
+        "char": "🔪",
+        "label": "violence grips belfast after attack",
+        "url": "https://www.nytimes.com/2026/06/10/world/europe/belfast-attack-riots-northern-ireland.html",
+        "title": "Night of Violence Grips Belfast After Stabbing Attack",
+        "summary": "Cars and a bus were set on fire and families were driven from their homes as the stabbing attack caused tensions to spill onto the streets."
+      },
+      {
+        "char": "🤝",
+        "label": "bandits abduct villagers in nigeria",
+        "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
+        "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
+        "summary": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negot..."
+      },
+      {
+        "char": "🌍",
+        "label": "florida shaken by earthquake",
+        "url": "https://www.theguardian.com/us-news/2026/jun/09/florida-earthquake-cuba-coast-mexico",
+        "title": "Florida shaken by 6.1-magnitude earthquake off coast of Cuba",
+        "summary": "Earthquake was region’s strongest tremor in nearly 150 years and was also felt in parts of Mexico including Cancún An earthquake on Monday off the coast of Cuba , which was that region’s strongest tremor in nearly 150 years, could be fel..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
