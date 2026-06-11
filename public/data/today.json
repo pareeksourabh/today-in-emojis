@@ -1,41 +1,41 @@
 {
   "date": "2026-06-11",
-  "timestamp": "2026-06-11T12:12:03Z",
+  "timestamp": "2026-06-11T00:00:00Z",
   "emojis": [
     {
-      "char": "🎤",
-      "label": "olivia rodrigo's wedding song",
-      "url": "https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss",
-      "title": "Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song",
-      "summary": "The pop star discusses the difficulty of writing happy songs, and her Glastonbury anxiety attack."
-    },
-    {
       "char": "⚔️",
-      "label": "us-iran strikes escalate",
+      "label": "us-iran strikes escalate tensions",
       "url": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel",
       "title": "Iran War Live Updates: U.S.-Iran Strikes Risk Dangerous New Phase",
       "summary": "The exchanges of fire this week have raised fears of a return to all-out war. The U.S. military struck another tanker it said was carrying Iranian oil and three Indians were reported killed in an earlier American attack at sea."
     },
     {
-      "char": "🇻🇪",
-      "label": "maduro's erasure in venezuela",
-      "url": "https://www.theguardian.com/world/2026/jun/10/maduro-venezuela-erased",
-      "title": "The vanishing of Nicolás Maduro: how the former dictator is being erased from Venezuela",
-      "summary": "Billboards are being painted over and former allies seem eager to forget the man they once glorified For years, his bewhiskered face stared down from propaganda billboards glorifying the supposedly revolutionary rule of a dictator who st..."
+      "char": "🛑",
+      "label": "cuba warned against weapons acquisition",
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/hegseth-warns-cuba-weapons-guantanamo-bay",
+      "title": "Hegseth warns Cuba against acquiring weapons in visit to Guantánamo Bay",
+      "summary": "US defense secretary continues ramp-up of pressure against country including sanctions and devastating oil blockade Pete Hegseth has warned Cuba against acquiring weapons that could threaten the United States, during a visit to the US mi..."
+    },
+    {
+      "char": "🏀",
+      "label": "knicks make historic nba comeback",
+      "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&at_campaign=rss",
+      "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
+      "summary": "Wednesday's result means the team are now just one win away from a famous Finals win."
+    },
+    {
+      "char": "🚨",
+      "label": "toronto police officer shot in attack",
+      "url": "https://www.theguardian.com/world/2026/jun/11/toronto-police-shot-us-consulate-attack",
+      "title": "Toronto police officer shot while investigating US consulate attack",
+      "summary": "Suspect, 19, still at large after officer dies in hospital having been shot while searching an apartment A Toronto police officer has been shot dead as police raided an apartment allegedly linked to the March attack on the US consulate,..."
     },
     {
       "char": "🌍",
-      "label": "ukraine war surpasses ww1",
-      "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
-      "title": "The War in Ukraine Has Now Gone On Longer Than World War I",
-      "summary": "Parallels between the two wars abound, from the grinding nature of the fighting to the way new technologies reshaped warfare."
-    },
-    {
-      "char": "⚽",
-      "label": "cuba's world cup hopes",
-      "url": "https://www.theguardian.com/world/2026/jun/11/cuba-world-cup-respite-us-intervention",
-      "title": "Cuba hopes for World Cup respite from US sabre-rattling – but prepares for the worst",
-      "summary": "With some matches being held in nearby Miami, a Cuban response to US military action could mar the tournament As Cuba crumbles under a nearly five-month-long US oil blockade, many on the island hope that the World Cup might save the isla..."
+      "label": "pope highlights migrant journeys",
+      "url": "https://www.bbc.com/news/articles/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss",
+      "title": "Pope Leo visits Canary Islands to highlight perilous journeys of migrants",
+      "summary": "During his trip, the Pope will appeal for a humane approach and respectful welcome for migrants seeking a better life."
     }
   ],
   "source": "ai-openai",
