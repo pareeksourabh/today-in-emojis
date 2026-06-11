@@ -47563,5 +47563,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-11",
+    "emojis": [
+      {
+        "char": "🎤",
+        "label": "olivia rodrigo's wedding song",
+        "url": "https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss",
+        "title": "Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song",
+        "summary": "The pop star discusses the difficulty of writing happy songs, and her Glastonbury anxiety attack."
+      },
+      {
+        "char": "⚔️",
+        "label": "us-iran strikes escalate",
+        "url": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel",
+        "title": "Iran War Live Updates: U.S.-Iran Strikes Risk Dangerous New Phase",
+        "summary": "The exchanges of fire this week have raised fears of a return to all-out war. The U.S. military struck another tanker it said was carrying Iranian oil and three Indians were reported killed in an earlier American attack at sea."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "maduro's erasure in venezuela",
+        "url": "https://www.theguardian.com/world/2026/jun/10/maduro-venezuela-erased",
+        "title": "The vanishing of Nicolás Maduro: how the former dictator is being erased from Venezuela",
+        "summary": "Billboards are being painted over and former allies seem eager to forget the man they once glorified For years, his bewhiskered face stared down from propaganda billboards glorifying the supposedly revolutionary rule of a dictator who st..."
+      },
+      {
+        "char": "🌍",
+        "label": "ukraine war surpasses ww1",
+        "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
+        "title": "The War in Ukraine Has Now Gone On Longer Than World War I",
+        "summary": "Parallels between the two wars abound, from the grinding nature of the fighting to the way new technologies reshaped warfare."
+      },
+      {
+        "char": "⚽",
+        "label": "cuba's world cup hopes",
+        "url": "https://www.theguardian.com/world/2026/jun/11/cuba-world-cup-respite-us-intervention",
+        "title": "Cuba hopes for World Cup respite from US sabre-rattling – but prepares for the worst",
+        "summary": "With some matches being held in nearby Miami, a Cuban response to US military action could mar the tournament As Cuba crumbles under a nearly five-month-long US oil blockade, many on the island hope that the World Cup might save the isla..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
