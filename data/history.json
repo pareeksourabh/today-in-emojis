@@ -47651,5 +47651,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-11",
+    "emojis": [
+      {
+        "char": "💥",
+        "label": "us and iran exchange strikes",
+        "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+        "title": "US and Iran exchange strikes across Middle East for second day in a row",
+        "summary": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city overnight."
+      },
+      {
+        "char": "🌍",
+        "label": "ukraine war longer than ww1",
+        "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
+        "title": "The War in Ukraine Has Now Gone On Longer Than World War I",
+        "summary": "Parallels between the two wars abound, from the grinding nature of the fighting to the way new technologies reshaped warfare."
+      },
+      {
+        "char": "⚽",
+        "label": "world cup tensions in north america",
+        "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-fractured-north-america.html",
+        "title": "This Is Mexico and Canada’s World Cup, Too. Don’t Expect Unity.",
+        "summary": "Mexico and Canada have faced significant recent tension in their relations with the United States. But in their historic World Cup bid, the three countries promoted teamwork."
+      },
+      {
+        "char": "🕊️",
+        "label": "pope highlights migrant journeys",
+        "url": "https://www.bbc.com/news/articles/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss",
+        "title": "Pope Leo visits Canary Islands to highlight perilous journeys of migrants",
+        "summary": "The Pope is appealing for a humane approach and respectful welcome for migrants seeking a better life."
+      },
+      {
+        "char": "📉",
+        "label": "refugee numbers drop amid turmoil",
+        "url": "https://www.nytimes.com/2026/06/11/world/europe/un-refugees-displaced-war-drop.html",
+        "title": "Refugees’ Numbers Drop, but Many Return to Turmoil at Home, U.N. Says",
+        "summary": "There were nearly 118 million forcibly displaced people in 2025, slightly fewer than in the previous year, the United Nations refugee agency said."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
