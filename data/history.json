@@ -47871,5 +47871,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-12",
+    "emojis": [
+      {
+        "char": "🎨",
+        "label": "king pays tribute to david hockney",
+        "url": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
+        "title": "King leads tributes to 'giant of the art world' David Hockney",
+        "summary": "The artist, who has died at the age of 88, \"was one of life's true originals\", King Charles says."
+      },
+      {
+        "char": "👑",
+        "label": "thai princess dies after coma",
+        "url": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
+        "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
+        "summary": "Princess Bajrakitiyabha, the king's eldest daughter, collapsed in December 2022 while exercising her dogs."
+      },
+      {
+        "char": "🤝",
+        "label": "bandits abduct villagers in nigeria",
+        "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
+        "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
+        "summary": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negot..."
+      },
+      {
+        "char": "🇮🇱",
+        "label": "israel builds army base in jenin",
+        "url": "https://www.nytimes.com/2026/06/12/world/middleeast/israel-base-jenin-oslo.html",
+        "title": "Israel Builds Army Base in Jenin, Flouting 1990s Pact With Palestinians",
+        "summary": "Critics say the move would help the Israeli military protect increased settlement activity near Palestinian population centers in the West Bank."
+      },
+      {
+        "char": "⚽",
+        "label": "cuba hopes for world cup respite",
+        "url": "https://www.theguardian.com/world/2026/jun/11/cuba-world-cup-respite-us-intervention",
+        "title": "Cuba hopes for World Cup respite from US sabre-rattling – but prepares for the worst",
+        "summary": "With some matches being held in nearby Miami, a Cuban response to US military action could mar the tournament As Cuba crumbles under a nearly five-month-long US oil blockade, many on the island hope that the World Cup might save the isla..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
