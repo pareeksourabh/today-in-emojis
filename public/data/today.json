@@ -1,41 +1,41 @@
 {
   "date": "2026-06-12",
-  "timestamp": "2026-06-12T00:00:00Z",
+  "timestamp": "2026-06-12T15:25:18Z",
   "emojis": [
     {
-      "char": "⚔️",
-      "label": "iran conflict leaves world in limbo",
+      "char": "🛩️",
+      "label": "drones over north korea plot",
+      "url": "https://www.nytimes.com/2026/06/11/world/asia/north-korea-drones-martial-law.html",
+      "title": "Drones Flown Over North Korea Were Part of Martial Law Plot by Former South Korean President",
+      "summary": "A court ruled that Yoon Suk Yeol, the impeached former president, had sought to stir up instability to justify his bid for authoritarian rule in 2024."
+    },
+    {
+      "char": "📚",
+      "label": "paris trial on rare-book thefts",
+      "url": "https://www.nytimes.com/2026/06/12/world/europe/russian-book-theft-trial-paris.html",
+      "title": "‘Operation Pushkin’: Paris Trial Puts Spotlight on Rare-Book Heists",
+      "summary": "One by one, valuable works by Russian masters like Pushkin and Gogol were disappearing from libraries across Europe. Now six defendants are being prosecuted."
+    },
+    {
+      "char": "✈️",
+      "label": "us cuts fighter jets to nato",
+      "url": "https://www.nytimes.com/2026/06/12/world/europe/us-nato-cuts-drawdown-jets.html",
+      "title": "U.S. Plan Is Said to Pull a Third of Fighter Jets It Provides NATO for Europe",
+      "summary": "The plan, outlined by officials and in a written document, provides rare clarity about the extent to which the Trump administration intends to reduce its commitment to NATO."
+    },
+    {
+      "char": "🔫",
+      "label": "toronto police officer shot",
+      "url": "https://www.theguardian.com/world/2026/jun/11/toronto-police-shot-us-consulate-attack",
+      "title": "Toronto police officer shot while investigating US consulate attack",
+      "summary": "Suspect, 19, still at large after officer dies in hospital having been shot while searching an apartment A Toronto police officer has been shot dead as police raided an apartment allegedly linked to the March attack on the US consulate,..."
+    },
+    {
+      "char": "⚖️",
+      "label": "iran war peace deal limbo",
       "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
-      "title": "Neither Peace Nor War: Iran Conflict Leaves World in Dangerous Limbo",
+      "title": "A Dangerous Limbo Leaves Iran, and the World, Between Peace and War",
       "summary": "Since announcing a nominal cease-fire two months ago, Iran, Israel and the U.S. have remained locked in low-intensity violence that has become a new normal."
-    },
-    {
-      "char": "💔",
-      "label": "deadly drone strike in sudan",
-      "url": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
-      "title": "Deadly Sudan drone strike targets funeral procession",
-      "summary": "Rights groups accuse the RSF paramilitary group of killing civilians in el-Obeid, a city on the civil war's front line."
-    },
-    {
-      "char": "🏛️",
-      "label": "uk defense secretary resigns",
-      "url": "https://www.nytimes.com/2026/06/11/world/europe/uk-defense-secretary-resigns-healey-starmer.html",
-      "title": "U.K. Defense Secretary Resigns, in a Blow to Starmer",
-      "summary": "John Healey unexpectedly announced that he was stepping down, saying Prime Minister Keir Starmer was failing to invest enough money in the British military."
-    },
-    {
-      "char": "🌍",
-      "label": "weather risks at world cup",
-      "url": "https://www.theguardian.com/environment/2026/jun/12/weather-tracker-heat-humidity-thunderstorms-risk-world-cup",
-      "title": "Weather tracker: heat, humidity and thunderstorms a danger at World Cup",
-      "summary": "With matches in 16 cities across the US, Mexico and Canada, players and fans face an array of weather-related challenges With the 2026 World Cup now under way, all 48 teams face a common opposition: summer weather across North America. M..."
-    },
-    {
-      "char": "🚨",
-      "label": "man shot during protest in kenya",
-      "url": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
-      "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
-      "summary": "Police dispersed demonstrators in Nanyuki, 120 miles from Nairobi, amid rising anger at US plans Kenyan police have shot dead a man during a protest against a proposed Ebola quarantine facility for US citizens. Patrick Wahome, who has or..."
     }
   ],
   "source": "ai-openai",

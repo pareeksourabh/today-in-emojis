@@ -47827,5 +47827,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-12",
+    "emojis": [
+      {
+        "char": "🛩️",
+        "label": "drones over north korea plot",
+        "url": "https://www.nytimes.com/2026/06/11/world/asia/north-korea-drones-martial-law.html",
+        "title": "Drones Flown Over North Korea Were Part of Martial Law Plot by Former South Korean President",
+        "summary": "A court ruled that Yoon Suk Yeol, the impeached former president, had sought to stir up instability to justify his bid for authoritarian rule in 2024."
+      },
+      {
+        "char": "📚",
+        "label": "paris trial on rare-book thefts",
+        "url": "https://www.nytimes.com/2026/06/12/world/europe/russian-book-theft-trial-paris.html",
+        "title": "‘Operation Pushkin’: Paris Trial Puts Spotlight on Rare-Book Heists",
+        "summary": "One by one, valuable works by Russian masters like Pushkin and Gogol were disappearing from libraries across Europe. Now six defendants are being prosecuted."
+      },
+      {
+        "char": "✈️",
+        "label": "us cuts fighter jets to nato",
+        "url": "https://www.nytimes.com/2026/06/12/world/europe/us-nato-cuts-drawdown-jets.html",
+        "title": "U.S. Plan Is Said to Pull a Third of Fighter Jets It Provides NATO for Europe",
+        "summary": "The plan, outlined by officials and in a written document, provides rare clarity about the extent to which the Trump administration intends to reduce its commitment to NATO."
+      },
+      {
+        "char": "🔫",
+        "label": "toronto police officer shot",
+        "url": "https://www.theguardian.com/world/2026/jun/11/toronto-police-shot-us-consulate-attack",
+        "title": "Toronto police officer shot while investigating US consulate attack",
+        "summary": "Suspect, 19, still at large after officer dies in hospital having been shot while searching an apartment A Toronto police officer has been shot dead as police raided an apartment allegedly linked to the March attack on the US consulate,..."
+      },
+      {
+        "char": "⚖️",
+        "label": "iran war peace deal limbo",
+        "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
+        "title": "A Dangerous Limbo Leaves Iran, and the World, Between Peace and War",
+        "summary": "Since announcing a nominal cease-fire two months ago, Iran, Israel and the U.S. have remained locked in low-intensity violence that has become a new normal."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
