@@ -47739,5 +47739,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-12",
+    "emojis": [
+      {
+        "char": "😢",
+        "label": "mother sues OpenAI over daughter's death",
+        "url": "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit",
+        "title": "Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself",
+        "summary": "Suit filed in US alleges chatbot told Alice Carrier, 24, ‘maybe this is just the end’ as she struggled with suicidal thoughts A Canadian mother sued OpenAI and its CEO, Sam Altman, in US court on Thursday, alleging that ChatGPT encourage..."
+      },
+      {
+        "char": "✈️",
+        "label": "US cuts NATO fighter jet support",
+        "url": "https://www.nytimes.com/2026/06/12/world/europe/us-nato-cuts-drawdown-jets.html",
+        "title": "U.S. Plan Is Said to Pull a Third of Fighter Jets It Provides NATO for Europe",
+        "summary": "The plan, outlined by officials and in a written document, provides rare clarity about the extent to which the Trump administration intends to reduce its commitment to NATO."
+      },
+      {
+        "char": "👑",
+        "label": "Thai princess dies after coma",
+        "url": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
+        "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
+        "summary": "Princess Bajrakitiyabha, the king's eldest daughter, collapsed in December 2022 while exercising her dogs."
+      },
+      {
+        "char": "⚔️",
+        "label": "Ukraine war surpasses WWI duration",
+        "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
+        "title": "The War in Ukraine Has Now Gone On Longer Than World War I",
+        "summary": "Parallels between the two wars abound, from the grinding nature of the fighting to the way new technologies reshaped warfare."
+      },
+      {
+        "char": "🚨",
+        "label": "Cuba warned against weapons acquisition",
+        "url": "https://www.theguardian.com/us-news/2026/jun/10/hegseth-warns-cuba-weapons-guantanamo-bay",
+        "title": "Hegseth warns Cuba against acquiring weapons in visit to Guantánamo Bay",
+        "summary": "US defense secretary continues ramp-up of pressure against country including sanctions and devastating oil blockade Pete Hegseth has warned Cuba against acquiring weapons that could threaten the United States, during a visit to the US mi..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
