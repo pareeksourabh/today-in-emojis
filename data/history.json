@@ -47783,5 +47783,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-12",
+    "emojis": [
+      {
+        "char": "🔫",
+        "label": "man shot during protest in kenya",
+        "url": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
+        "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
+        "summary": "Police dispersed demonstrators in Nanyuki, 120 miles from Nairobi, amid rising anger at US plans Kenyan police have shot dead a man during a protest against a proposed Ebola quarantine facility for US citizens. Patrick Wahome, who has or..."
+      },
+      {
+        "char": "🎟️",
+        "label": "world cup ticket prices too high",
+        "url": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
+        "title": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
+        "summary": "The opening game in Mexico City took place amid weeks of protests from groups including teachers’ unions complaining about pay and pensions."
+      },
+      {
+        "char": "👶",
+        "label": "brazilian woman posed as child",
+        "url": "https://www.theguardian.com/world/2026/jun/11/brazilian-woman-posing-as-child-fraud-scheme",
+        "title": "Brazilian woman, 38, accused of years of ‘elaborate fraud’ by posing as a child",
+        "summary": "Amanda Maria Souza de Oliveira faces fraud charges after allegedly persuading family to take her into their home A 38-year-old woman has been arrested in Brazil accused of pretending to be a 12-year-old girl to deceive a couple who took..."
+      },
+      {
+        "char": "⚔️",
+        "label": "iran conflict leaves world in limbo",
+        "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
+        "title": "Neither Peace Nor War: Iran Conflict Leaves World in Dangerous Limbo",
+        "summary": "Since announcing a nominal cease-fire two months ago, Iran, Israel and the U.S. have remained locked in low-intensity violence that has become a new normal."
+      },
+      {
+        "char": "📚",
+        "label": "paris trial on rare-book thefts",
+        "url": "https://www.nytimes.com/2026/06/12/world/europe/russian-book-theft-trial-paris.html",
+        "title": "‘Operation Pushkin’: Paris Trial Puts Spotlight on Rare-Book Heists",
+        "summary": "One by one, valuable works by Russian masters like Pushkin and Gogol were disappearing from libraries across Europe. Now six defendants are being prosecuted."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
