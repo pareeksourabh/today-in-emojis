@@ -1,41 +1,41 @@
 {
   "date": "2026-06-12",
-  "timestamp": "2026-06-12T02:43:16Z",
+  "timestamp": "2026-06-12T00:00:00Z",
   "emojis": [
     {
+      "char": "🌍",
+      "label": "nigeria peace talks abduction",
+      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
+      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
+      "summary": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negot..."
+    },
+    {
+      "char": "🇮🇱",
+      "label": "netanyahu aide charged with leak",
+      "url": "https://www.nytimes.com/2026/06/11/world/middleeast/netanyahu-aide-charged-document-leak.html",
+      "title": "Netanyahu Aide Charged With Endangering Israeli Security Over Document Leak",
+      "summary": "Jonatan Urich, a media adviser to the Israeli prime minister, was accused of passing classified intelligence about negotiations with Hamas to a German newspaper."
+    },
+    {
       "char": "💔",
+      "label": "mother sues over daughter's death",
+      "url": "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit",
+      "title": "Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself",
+      "summary": "Suit filed in US alleges chatbot told Alice Carrier, 24, ‘maybe this is just the end’ as she struggled with suicidal thoughts A Canadian mother sued OpenAI and its CEO, Sam Altman, in US court on Thursday, alleging that ChatGPT encourage..."
+    },
+    {
+      "char": "⚡",
+      "label": "us blocks fuel deal with cuba",
+      "url": "https://www.nytimes.com/2026/06/11/world/americas/us-cuba-trump-energy-fuel.html",
+      "title": "U.S. Blocks Deal by Florida-based Vanguard Energy to Supply Fuel to Cuba",
+      "summary": "The deal to ship 250,000 barrels of fuel to Cuba could have eased an energy crisis. But the Trump administration says Vanguard Energy lacks the authorization to proceed."
+    },
+    {
+      "char": "🕊️",
       "label": "afghan civilians killed in airstrikes",
       "url": "https://www.nytimes.com/2026/06/11/world/asia/afghanistan-pakistan-airstrikes-civilians.html",
       "title": "13 Afghan Civilians Killed in Airstrikes on Pakistan Border, U.N. Says",
       "summary": "Pakistan said its airstrikes targeted militant camps. The United Nations confirmed reports by the Taliban government that mostly women and children were killed."
-    },
-    {
-      "char": "⚽",
-      "label": "cuba hopes for world cup respite",
-      "url": "https://www.theguardian.com/world/2026/jun/11/cuba-world-cup-respite-us-intervention",
-      "title": "Cuba hopes for World Cup respite from US sabre-rattling – but prepares for the worst",
-      "summary": "With some matches being held in nearby Miami, a Cuban response to US military action could mar the tournament As Cuba crumbles under a nearly five-month-long US oil blockade, many on the island hope that the World Cup might save the isla..."
-    },
-    {
-      "char": "🏗️",
-      "label": "israel set to expand west bank settlements",
-      "url": "https://www.nytimes.com/2026/06/11/world/middleeast/israel-west-bank-settlements.html",
-      "title": "Israel Set to Rapidly Expand West Bank Settlement",
-      "summary": "In a major push, the government is rushing to place temporary housing at about 60 empty sites in the Israeli-occupied West Bank before national elections this fall."
-    },
-    {
-      "char": "🔫",
-      "label": "toronto police officer shot investigating",
-      "url": "https://www.nytimes.com/2026/06/11/world/canada/toronto-police-officer-shooting-us.html",
-      "title": "Toronto Police Officer Fatally Shot While Investigating U.S. Consulate Shooting",
-      "summary": "The officer was shot on Thursday while investigating the firing of a gun outside the U.S. consulate in March, the authorities said."
-    },
-    {
-      "char": "👧",
-      "label": "brazilian woman accused of child fraud",
-      "url": "https://www.theguardian.com/world/2026/jun/11/brazilian-woman-posing-as-child-fraud-scheme",
-      "title": "Brazilian woman, 38, accused of years of ‘elaborate fraud’ by posing as a child",
-      "summary": "Amanda Maria Souza de Oliveira faces fraud charges after allegedly persuading family to take her into their home A 38-year-old woman has been arrested in Brazil accused of pretending to be a 12-year-old girl to deceive a couple who took..."
     }
   ],
   "source": "ai-openai",
