@@ -47695,5 +47695,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-12",
+    "emojis": [
+      {
+        "char": "💔",
+        "label": "afghan civilians killed in airstrikes",
+        "url": "https://www.nytimes.com/2026/06/11/world/asia/afghanistan-pakistan-airstrikes-civilians.html",
+        "title": "13 Afghan Civilians Killed in Airstrikes on Pakistan Border, U.N. Says",
+        "summary": "Pakistan said its airstrikes targeted militant camps. The United Nations confirmed reports by the Taliban government that mostly women and children were killed."
+      },
+      {
+        "char": "⚽",
+        "label": "cuba hopes for world cup respite",
+        "url": "https://www.theguardian.com/world/2026/jun/11/cuba-world-cup-respite-us-intervention",
+        "title": "Cuba hopes for World Cup respite from US sabre-rattling – but prepares for the worst",
+        "summary": "With some matches being held in nearby Miami, a Cuban response to US military action could mar the tournament As Cuba crumbles under a nearly five-month-long US oil blockade, many on the island hope that the World Cup might save the isla..."
+      },
+      {
+        "char": "🏗️",
+        "label": "israel set to expand west bank settlements",
+        "url": "https://www.nytimes.com/2026/06/11/world/middleeast/israel-west-bank-settlements.html",
+        "title": "Israel Set to Rapidly Expand West Bank Settlement",
+        "summary": "In a major push, the government is rushing to place temporary housing at about 60 empty sites in the Israeli-occupied West Bank before national elections this fall."
+      },
+      {
+        "char": "🔫",
+        "label": "toronto police officer shot investigating",
+        "url": "https://www.nytimes.com/2026/06/11/world/canada/toronto-police-officer-shooting-us.html",
+        "title": "Toronto Police Officer Fatally Shot While Investigating U.S. Consulate Shooting",
+        "summary": "The officer was shot on Thursday while investigating the firing of a gun outside the U.S. consulate in March, the authorities said."
+      },
+      {
+        "char": "👧",
+        "label": "brazilian woman accused of child fraud",
+        "url": "https://www.theguardian.com/world/2026/jun/11/brazilian-woman-posing-as-child-fraud-scheme",
+        "title": "Brazilian woman, 38, accused of years of ‘elaborate fraud’ by posing as a child",
+        "summary": "Amanda Maria Souza de Oliveira faces fraud charges after allegedly persuading family to take her into their home A 38-year-old woman has been arrested in Brazil accused of pretending to be a 12-year-old girl to deceive a couple who took..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
