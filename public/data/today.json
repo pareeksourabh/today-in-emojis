@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news items reflect significant distressing events, including violence, abductions, and humanitarian issues, contributing to an overall feeling of fear and concern.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "Today's news is filled with tragic stories, including civilian casualties in airstrikes and a mother suing over her daughter's suicide, reflecting a day overshadowed by sorrow and loss.",
     "palette": [
       "😢",
       "😡",
