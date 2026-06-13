@@ -1,43 +1,204 @@
 {
   "date": "2026-06-13",
-  "timestamp": "2026-06-13T17:05:17Z",
+  "timestamp": "2026-06-13T00:00:00Z",
   "emojis": [
     {
-      "char": "⚽",
-      "label": "fans on concourses instead of in seats",
-      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
-      "title": "Fans on concourses instead of in seats, claims Fifa",
-      "summary": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses."
+      "char": "🚨",
+      "label": "belfast anti-immigrant riots",
+      "url": "https://www.nytimes.com/2026/06/12/world/europe/belfast-stabbing-riots-anti-immigrant.html",
+      "title": "Anti-Immigrant Riots after Belfast Stabbing Leave City on Edge",
+      "summary": "In two nights of violence in Northern Ireland after a brutal stabbing, people were targeted because of their skin color, the authorities said."
     },
     {
-      "char": "🤖",
-      "label": "anthropic suspends new ai tools",
-      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
-      "title": "Anthropic suspends new AI tools over US government security concerns",
-      "summary": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking."
+      "char": "✈️",
+      "label": "drones in north korea",
+      "url": "https://www.nytimes.com/2026/06/11/world/asia/north-korea-drones-martial-law.html",
+      "title": "Drones Flown Over North Korea Were Part of Martial Law Plot by Former South Korean President",
+      "summary": "A court ruled that Yoon Suk Yeol, the impeached former president, had sought to stir up instability to justify his bid for authoritarian rule in 2024."
+    },
+    {
+      "char": "🎉",
+      "label": "ukrainian drone races",
+      "url": "https://www.nytimes.com/2026/06/12/world/europe/ukraine-drone-races.html",
+      "title": "Bring the Kids and Grab Some Barbecue: A Day at the Ukrainian Drone Races",
+      "summary": "Competitions that give soldiers a brief break from the front have a festival-like atmosphere, a mix of potentially deadly weapons and frolicking children."
     },
     {
       "char": "🕊️",
-      "label": "iran peace deal could be finalized soon",
-      "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
-      "title": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
-      "summary": "The prime minister of Pakistan, a key intermediary in U.S.-Iran talks, said a deal was “likely expected.” An Iranian official sought to temper expectations but said an agreement could be signed in the coming days."
+      "label": "iran peace talks",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+      "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say."
     },
     {
-      "char": "🌍",
-      "label": "global brands using conflict minerals",
+      "char": "🔫",
+      "label": "kenya protest shooting",
+      "url": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
+      "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
+      "summary": "Police dispersed demonstrators in Nanyuki, 120 miles from Nairobi, amid rising anger at US plans Kenyan police have shot dead a man during a protest against a proposed Ebola quarantine facility for US citizens. Patrick Wahome, who has or..."
+    },
+    {
+      "char": "🛢️",
+      "label": "iran deal to reopen hormuz",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+      "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say."
+    },
+    {
+      "char": "✈️",
+      "label": "air india crash families seek answers",
+      "url": "https://www.nytimes.com/2026/06/12/world/asia/india-air-crash-report-families.html",
+      "title": "Families of Air India Crash Victims Seek Answers One Year On",
+      "summary": "Grieving relatives returned to Ahmedabad to honor the 260 lives lost in the June 2025 disaster, but investigators have not yet released a report into the cause."
+    },
+    {
+      "char": "💎",
+      "label": "drc mineral funding rebel atrocities",
       "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
       "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
       "summary": "Amazon and Sony among firms that may have sourced coltan, used in phones, from supply chains controlled by the M23 rebels, says Global Witness Leading global brands including Amazon, Ericsson and Sony are “likely” to have sourced mineral..."
     },
     {
+      "char": "🎤",
+      "label": "taylor swift joins songwriters hall",
+      "url": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
+      "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
+      "summary": "The singer thanks her family as she becomes the youngest woman to be inducted into the Hall of Fame."
+    },
+    {
+      "char": "⚽",
+      "label": "world cup ticket prices too high",
+      "url": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
+      "title": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
+      "summary": "The opening game in Mexico City took place amid weeks of protests from groups including teachers’ unions complaining about pay and pensions."
+    },
+    {
+      "char": "💎",
+      "label": "jewellery probe into former PM",
+      "url": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
+      "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
+      "summary": "José Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery."
+    },
+    {
+      "char": "🕵️‍♂",
+      "label": "mother finds missing son in kenya",
+      "url": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
+      "title": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
+      "summary": "Sylvester Muigai Ndung'u was in Nanyuki to fetch a school uniform on Tuesday, his mother says."
+    },
+    {
+      "char": "🤝",
+      "label": "nigeria bandits abduct villagers",
+      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
+      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
+      "summary": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negot..."
+    },
+    {
+      "char": "🎤",
+      "label": "taylor swift joins songwriters hall",
+      "url": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
+      "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
+      "summary": "The singer thanks her family as she becomes the youngest woman to be inducted into the Hall of Fame."
+    },
+    {
+      "char": "⚽",
+      "label": "iran's world cup squad pressures",
+      "url": "https://www.theguardian.com/world/2026/jun/12/iran-first-play-war-world-cup-fifa",
+      "title": "An ideological tug-of-war: the pressures facing Iran’s World Cup squad in US",
+      "summary": "Flag bans, travel headaches and a religious regime video among bumps in road, as team prepares to be first to play in country with which it is at war Iran will present a major challenge to Fifa’s “football unites the world” slogan on Mon..."
+    },
+    {
+      "char": "🕊️",
+      "label": "nigeria peace talks disrupted",
+      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
+      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
+      "summary": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negot..."
+    },
+    {
+      "char": "🎬",
+      "label": "canadian screen awards highlights",
+      "url": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
+      "title": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
+      "summary": "No longer content with being just “Hollywood North,” the Canadian screen industry is asserting itself and telling its own stories."
+    },
+    {
+      "char": "⚔️",
+      "label": "iran peace deal imminent",
+      "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
+      "title": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
+      "summary": "The prime minister of Pakistan, a key intermediary between the U.S. and Iran, said a deal was “likely expected.” Officials on each side have also expressed optimism, but it still could be derailed."
+    },
+    {
+      "char": "🎨",
+      "label": "brazil world cup street art",
+      "url": "https://www.nytimes.com/2026/06/13/world/americas/world-cup-brazil-street-art.html",
+      "title": "Brazilians Revive a World Cup Ritual to Cheer on Their National Team",
+      "summary": "After years of dampened enthusiasm about the World Cup, Brazilians are excited about their national team again — and they’re showing it by painting the streets."
+    },
+    {
+      "char": "🏠",
+      "label": "housing flat seized in london",
+      "url": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
+      "title": "London council seizes social housing flat rented by Sierra Leone first lady",
+      "summary": "Fatima Jabbe-Bio kept tenancy in Southwark despite living for much of year at presidential lodge in Freetown A social housing flat rented by Sierra Leone’s first lady has been seized by a London council. Southwark council confirmed it ha..."
+    },
+    {
+      "char": "🌍",
+      "label": "trump targets climate immigrants",
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
+      "title": "Trump targeting immigrants from countries hit most by climate shocks",
+      "summary": "A Guardian analysis reveals how most of 39 countries facing US entry restrictions are most vulnerable environmentally ‘Every day it’s more barriers’: how the US is shutting out climate refugees Donald Trump ’s immigration crackdown is la..."
+    },
+    {
       "char": "💔",
-      "label": "family ravaged by land mines in myanmar",
-      "url": "https://www.nytimes.com/2026/06/13/world/asia/family-ravaged-by-land-mines-myanmar.html",
-      "title": "A Family Ravaged by Land Mines in Myanmar",
-      "summary": "Bu Ri lost a leg to a mine in Myanmar decades ago. More recently, six other members of his family have suffered a similar fate or worse, in a sign of the devastation wreaked by civil war."
+      "label": "mother sues over daughter's suicide",
+      "url": "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit",
+      "title": "Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself",
+      "summary": "Suit filed in US alleges chatbot told Alice Carrier, 24, ‘maybe this is just the end’ as she struggled with suicidal thoughts A Canadian mother sued OpenAI and its CEO, Sam Altman, in US court on Thursday, alleging that ChatGPT encourage..."
+    },
+    {
+      "char": "🤝",
+      "label": "nigeria bandits abduct villagers",
+      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
+      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
+      "summary": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negot..."
+    },
+    {
+      "char": "⚠️",
+      "label": "man shot in ebola protest",
+      "url": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
+      "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
+      "summary": "Police dispersed demonstrators in Nanyuki, 120 miles from Nairobi, amid rising anger at US plans Kenyan police have shot dead a man during a protest against a proposed Ebola quarantine facility for US citizens. Patrick Wahome, who has or..."
+    },
+    {
+      "char": "🌡️",
+      "label": "world cup weather risks",
+      "url": "https://www.theguardian.com/environment/2026/jun/12/weather-tracker-heat-humidity-thunderstorms-risk-world-cup",
+      "title": "Weather tracker: heat, humidity and thunderstorms a danger at World Cup",
+      "summary": "With matches in 16 cities across the US, Mexico and Canada, players and fans face an array of weather-related challenges With the 2026 World Cup now under way, all 48 teams face a common opposition: summer weather across North America. M..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Worry",
+    "emoji": "😨",
+    "rationale": "The news highlights a range of distressing events, from riots and violence to political unrest and tragic losses, creating an overall sense of worry about societal stability and safety.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
