@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Worry",
-    "emoji": "😨",
-    "rationale": "The news highlights a range of distressing events, from riots and violence to political unrest and tragic losses, creating an overall sense of worry about societal stability and safety.",
+    "emotion_label": "Sadness",
+    "emoji": "😢",
+    "rationale": "Today's news is filled with violence, loss, and tragedy, including anti-immigrant riots, shootings during protests, and the ongoing struggles of families affected by past disasters. These stories evoke a deep sense of sadness and concern.",
     "palette": [
       "😢",
       "😡",
