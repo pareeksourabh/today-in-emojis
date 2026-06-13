@@ -47915,5 +47915,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-13",
+    "emojis": [
+      {
+        "char": "⚽",
+        "label": "iran's world cup squad pressures",
+        "url": "https://www.theguardian.com/world/2026/jun/12/iran-first-play-war-world-cup-fifa",
+        "title": "An ideological tug-of-war: the pressures facing Iran’s World Cup squad in US",
+        "summary": "Flag bans, travel headaches and a religious regime video among bumps in road, as team prepares to be first to play in country with which it is at war Iran will present a major challenge to Fifa’s “football unites the world” slogan on Mon..."
+      },
+      {
+        "char": "🏗️",
+        "label": "palestinian anger at demolitions",
+        "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
+        "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
+        "summary": "Palestinian homes are being pulled down in occupied East Jerusalem to make way for a park."
+      },
+      {
+        "char": "🎤",
+        "label": "taylor swift joins hall of fame",
+        "url": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
+        "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
+        "summary": "The singer thanks her family as she becomes the youngest woman to be inducted into the Hall of Fame."
+      },
+      {
+        "char": "✈️",
+        "label": "drones in north korea martial law",
+        "url": "https://www.nytimes.com/2026/06/11/world/asia/north-korea-drones-martial-law.html",
+        "title": "Drones Flown Over North Korea Were Part of Martial Law Plot by Former South Korean President",
+        "summary": "A court ruled that Yoon Suk Yeol, the impeached former president, had sought to stir up instability to justify his bid for authoritarian rule in 2024."
+      },
+      {
+        "char": "🚁",
+        "label": "ukrainian drone races event",
+        "url": "https://www.nytimes.com/2026/06/12/world/europe/ukraine-drone-races.html",
+        "title": "Bring the Kids and Grab Some Barbecue: A Day at the Ukrainian Drone Races",
+        "summary": "Competitions that give soldiers a brief break from the front have a festival-like atmosphere, a mix of potentially deadly weapons and frolicking children."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
