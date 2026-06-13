@@ -1,41 +1,41 @@
 {
   "date": "2026-06-13",
-  "timestamp": "2026-06-13T00:00:00Z",
+  "timestamp": "2026-06-13T17:05:17Z",
   "emojis": [
     {
+      "char": "⚽",
+      "label": "fans on concourses instead of in seats",
+      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
+      "title": "Fans on concourses instead of in seats, claims Fifa",
+      "summary": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses."
+    },
+    {
+      "char": "🤖",
+      "label": "anthropic suspends new ai tools",
+      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+      "title": "Anthropic suspends new AI tools over US government security concerns",
+      "summary": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking."
+    },
+    {
+      "char": "🕊️",
+      "label": "iran peace deal could be finalized soon",
+      "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
+      "title": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
+      "summary": "The prime minister of Pakistan, a key intermediary in U.S.-Iran talks, said a deal was “likely expected.” An Iranian official sought to temper expectations but said an agreement could be signed in the coming days."
+    },
+    {
       "char": "🌍",
-      "label": "trump targets climate immigrants",
-      "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
-      "title": "Trump targeting immigrants from countries hit most by climate shocks",
-      "summary": "A Guardian analysis reveals how most of 39 countries facing US entry restrictions are most vulnerable environmentally ‘Every day it’s more barriers’: how the US is shutting out climate refugees Donald Trump ’s immigration crackdown is la..."
+      "label": "global brands using conflict minerals",
+      "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
+      "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
+      "summary": "Amazon and Sony among firms that may have sourced coltan, used in phones, from supply chains controlled by the M23 rebels, says Global Witness Leading global brands including Amazon, Ericsson and Sony are “likely” to have sourced mineral..."
     },
     {
       "char": "💔",
-      "label": "mother sues over daughter's suicide",
-      "url": "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit",
-      "title": "Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself",
-      "summary": "Suit filed in US alleges chatbot told Alice Carrier, 24, ‘maybe this is just the end’ as she struggled with suicidal thoughts A Canadian mother sued OpenAI and its CEO, Sam Altman, in US court on Thursday, alleging that ChatGPT encourage..."
-    },
-    {
-      "char": "🤝",
-      "label": "nigeria bandits abduct villagers",
-      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
-      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
-      "summary": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negot..."
-    },
-    {
-      "char": "⚠️",
-      "label": "man shot in ebola protest",
-      "url": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
-      "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
-      "summary": "Police dispersed demonstrators in Nanyuki, 120 miles from Nairobi, amid rising anger at US plans Kenyan police have shot dead a man during a protest against a proposed Ebola quarantine facility for US citizens. Patrick Wahome, who has or..."
-    },
-    {
-      "char": "🌡️",
-      "label": "world cup weather risks",
-      "url": "https://www.theguardian.com/environment/2026/jun/12/weather-tracker-heat-humidity-thunderstorms-risk-world-cup",
-      "title": "Weather tracker: heat, humidity and thunderstorms a danger at World Cup",
-      "summary": "With matches in 16 cities across the US, Mexico and Canada, players and fans face an array of weather-related challenges With the 2026 World Cup now under way, all 48 teams face a common opposition: summer weather across North America. M..."
+      "label": "family ravaged by land mines in myanmar",
+      "url": "https://www.nytimes.com/2026/06/13/world/asia/family-ravaged-by-land-mines-myanmar.html",
+      "title": "A Family Ravaged by Land Mines in Myanmar",
+      "summary": "Bu Ri lost a leg to a mine in Myanmar decades ago. More recently, six other members of his family have suffered a similar fate or worse, in a sign of the devastation wreaked by civil war."
     }
   ],
   "source": "ai-openai",

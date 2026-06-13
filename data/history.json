@@ -48091,5 +48091,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-13",
+    "emojis": [
+      {
+        "char": "⚽",
+        "label": "fans on concourses instead of in seats",
+        "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
+        "title": "Fans on concourses instead of in seats, claims Fifa",
+        "summary": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses."
+      },
+      {
+        "char": "🤖",
+        "label": "anthropic suspends new ai tools",
+        "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+        "title": "Anthropic suspends new AI tools over US government security concerns",
+        "summary": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking."
+      },
+      {
+        "char": "🕊️",
+        "label": "iran peace deal could be finalized soon",
+        "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
+        "title": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
+        "summary": "The prime minister of Pakistan, a key intermediary in U.S.-Iran talks, said a deal was “likely expected.” An Iranian official sought to temper expectations but said an agreement could be signed in the coming days."
+      },
+      {
+        "char": "🌍",
+        "label": "global brands using conflict minerals",
+        "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
+        "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
+        "summary": "Amazon and Sony among firms that may have sourced coltan, used in phones, from supply chains controlled by the M23 rebels, says Global Witness Leading global brands including Amazon, Ericsson and Sony are “likely” to have sourced mineral..."
+      },
+      {
+        "char": "💔",
+        "label": "family ravaged by land mines in myanmar",
+        "url": "https://www.nytimes.com/2026/06/13/world/asia/family-ravaged-by-land-mines-myanmar.html",
+        "title": "A Family Ravaged by Land Mines in Myanmar",
+        "summary": "Bu Ri lost a leg to a mine in Myanmar decades ago. More recently, six other members of his family have suffered a similar fate or worse, in a sign of the devastation wreaked by civil war."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
