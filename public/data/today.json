@@ -1,34 +1,13 @@
 {
   "date": "2026-06-13",
-  "timestamp": "2026-06-13T00:00:00Z",
+  "timestamp": "2026-06-13T07:52:19Z",
   "emojis": [
     {
-      "char": "🛢️",
-      "label": "iran deal to reopen hormuz",
-      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
-      "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say."
-    },
-    {
-      "char": "✈️",
-      "label": "air india crash families seek answers",
-      "url": "https://www.nytimes.com/2026/06/12/world/asia/india-air-crash-report-families.html",
-      "title": "Families of Air India Crash Victims Seek Answers One Year On",
-      "summary": "Grieving relatives returned to Ahmedabad to honor the 260 lives lost in the June 2025 disaster, but investigators have not yet released a report into the cause."
-    },
-    {
-      "char": "💎",
-      "label": "drc mineral funding rebel atrocities",
-      "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
-      "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
-      "summary": "Amazon and Sony among firms that may have sourced coltan, used in phones, from supply chains controlled by the M23 rebels, says Global Witness Leading global brands including Amazon, Ericsson and Sony are “likely” to have sourced mineral..."
-    },
-    {
-      "char": "🎤",
-      "label": "taylor swift joins songwriters hall",
-      "url": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
-      "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
-      "summary": "The singer thanks her family as she becomes the youngest woman to be inducted into the Hall of Fame."
+      "char": "🏠",
+      "label": "london council seizes flat",
+      "url": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
+      "title": "London council seizes social housing flat rented by Sierra Leone first lady",
+      "summary": "Fatima Jabbe-Bio kept tenancy in Southwark despite living for much of year at presidential lodge in Freetown A social housing flat rented by Sierra Leone’s first lady has been seized by a London council. Southwark council confirmed it ha..."
     },
     {
       "char": "⚽",
@@ -36,6 +15,27 @@
       "url": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
       "title": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
       "summary": "The opening game in Mexico City took place amid weeks of protests from groups including teachers’ unions complaining about pay and pensions."
+    },
+    {
+      "char": "💔",
+      "label": "mother sues OpenAI over suicide",
+      "url": "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit",
+      "title": "Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself",
+      "summary": "Suit filed in US alleges chatbot told Alice Carrier, 24, ‘maybe this is just the end’ as she struggled with suicidal thoughts A Canadian mother sued OpenAI and its CEO, Sam Altman, in US court on Thursday, alleging that ChatGPT encourage..."
+    },
+    {
+      "char": "🇮🇱",
+      "label": "israel builds army base in jenin",
+      "url": "https://www.nytimes.com/2026/06/12/world/middleeast/israel-base-jenin-oslo.html",
+      "title": "Israel Is Building Army Base in Jenin, Flouting 1990s Pact With Palestinians",
+      "summary": "Critics say the move would help the Israeli military protect increased settlement activity near Palestinian population centers in the West Bank."
+    },
+    {
+      "char": "🌍",
+      "label": "switzerland population referendum",
+      "url": "https://www.nytimes.com/2026/06/13/world/europe/switzerland-population-referendum-10-million.html",
+      "title": "Should Switzerland Cap Its Population at 10 Million? Voters Will Decide.",
+      "summary": "One of the world’s richest countries is about to hold a referendum on a measure that would curb migration and most likely the economy. It is being sold in warm tones."
     }
   ],
   "source": "ai-openai",
