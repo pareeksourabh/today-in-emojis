@@ -1,7 +1,28 @@
 {
   "date": "2026-06-14",
-  "timestamp": "2026-06-14T17:04:57Z",
+  "timestamp": "2026-06-14T00:00:00Z",
   "emojis": [
+    {
+      "char": "🇺🇸",
+      "label": "trump us-iran deal uncertainty",
+      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "summary": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\"."
+    },
+    {
+      "char": "🤖",
+      "label": "anthropic suspends ai tools",
+      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+      "title": "Anthropic suspends new AI tools over US government security concerns",
+      "summary": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking."
+    },
+    {
+      "char": "💔",
+      "label": "family ravaged by land mines",
+      "url": "https://www.nytimes.com/2026/06/13/world/asia/family-ravaged-by-land-mines-myanmar.html",
+      "title": "A Family Ravaged by Land Mines in Myanmar",
+      "summary": "Bu Ri lost a leg to a mine in Myanmar decades ago. More recently, six other members of his family have suffered a similar fate or worse, in a sign of the devastation wreaked by civil war."
+    },
     {
       "char": "🏠",
       "label": "london council seizes flat",
@@ -10,34 +31,174 @@
       "summary": "Fatima Jabbe-Bio kept tenancy in Southwark despite living for much of year at presidential lodge in Freetown A social housing flat rented by Sierra Leone’s first lady has been seized by a London council. Southwark council confirmed it ha..."
     },
     {
-      "char": "🛡️",
-      "label": "ukraine's missile defense struggles",
-      "url": "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html",
-      "title": "Russia Is Rich in Ballistic Missiles. Ukraine Is Short of Ways to Stop Them.",
-      "summary": "Ukraine is running out of American-made Patriot air-defense interceptors, and is pleading for more."
+      "char": "🌍",
+      "label": "switzerland population cap vote",
+      "url": "https://www.nytimes.com/2026/06/13/world/europe/switzerland-population-referendum-10-million.html",
+      "title": "Should Switzerland Cap Its Population at 10 Million? Voters Will Decide.",
+      "summary": "One of the world’s richest countries is about to hold a referendum on a measure that would curb migration and most likely the economy. It is being sold in warm tones."
+    },
+    {
+      "char": "🦈",
+      "label": "shark attack in sydney beach",
+      "url": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
+      "title": "Woman seriously injured in shark attack at Sydney beach",
+      "summary": "The woman, 35, was pulled from the water by members of the public and then airlifted to hospital, police say."
+    },
+    {
+      "char": "🇻🇪",
+      "label": "trump on venezuelan gang leader",
+      "url": "https://www.theguardian.com/us-news/2026/jun/12/trump-venezuela-tren-de-aragua-leader-killed",
+      "title": "Trump says leader of Venezuelan Tren de Aragua gang killed in US strike",
+      "summary": "President says Hector Rusthenford Guerrero Flores killed in ‘swift and lethal’ military strike with help from Venezuela The US military has killed a leader in the Venezuelan street gang Tren de Aragua, Hector Rusthenford Guerrero Flores,..."
+    },
+    {
+      "char": "📽️",
+      "label": "canadian screen awards highlights",
+      "url": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
+      "title": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
+      "summary": "No longer content with being just “Hollywood North,” the Canadian screen industry is asserting itself and telling its own stories."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola outbreak information",
+      "url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
+      "title": "What to Know About the Ebola Outbreak",
+      "summary": "Aid agencies are racing to help health workers in the Democratic Republic of Congo. The virus is known to have killed at least 140 people, but the true toll may be far higher."
+    },
+    {
+      "char": "🔍",
+      "label": "investigation into coltan use",
+      "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
+      "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
+      "summary": "Amazon and Sony among firms that may have sourced coltan, used in phones, from supply chains controlled by the M23 rebels, says Global Witness Leading global brands including Amazon, Ericsson and Sony are “likely” to have sourced mineral..."
     },
     {
       "char": "🌍",
-      "label": "trump targets climate migrants",
+      "label": "trump targets climate immigrants",
       "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
       "title": "Trump targeting immigrants from countries hit most by climate shocks",
       "summary": "A Guardian analysis reveals how most of 39 countries facing US entry restrictions are most vulnerable environmentally ‘Every day it’s more barriers’: how the US is shutting out climate refugees Donald Trump ’s immigration crackdown is la..."
     },
     {
-      "char": "🇨🇭",
-      "label": "switzerland rejects population cap",
-      "url": "https://www.nytimes.com/2026/06/14/world/europe/switzerland-population-cap-referendum.html",
-      "title": "Switzerland Rejects Measure to Cap Its Population at 10 Million",
-      "summary": "The referendum was about limiting migration after the number of residents rose by more than a quarter since 2000, but it was framed around affordability and sustainability."
+      "char": "🔫",
+      "label": "man shot in ebola protest",
+      "url": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
+      "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
+      "summary": "Police dispersed demonstrators in Nanyuki, 120 miles from Nairobi, amid rising anger at US plans Kenyan police have shot dead a man during a protest against a proposed Ebola quarantine facility for US citizens. Patrick Wahome, who has or..."
+    },
+    {
+      "char": "🤖",
+      "label": "russian families use ai for loved ones",
+      "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+      "summary": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief."
+    },
+    {
+      "char": "🚨",
+      "label": "canada police investigate death",
+      "url": "https://www.theguardian.com/world/2026/jun/12/canada-police-investigate-toronto-police-death-global-terror-attacks",
+      "title": "Canada police investigate whether Toronto police death linked to global terror attacks",
+      "summary": "Constable Marc Pinizzotto, 43, was killed while executing search warrants related to a shooting at US consulate Authorities in Canada are investigating whether the killing of a Toronto police officer while he was executing search warrant..."
+    },
+    {
+      "char": "⚔️",
+      "label": "germany and japan rearm",
+      "url": "https://www.nytimes.com/2026/06/14/world/europe/germany-japan-rearmament-military.html",
+      "title": "Germany and Japan Are Rearming Again, 80 Years After World War II",
+      "summary": "After becoming allies to disastrous effect in the 1940s, Berlin and Tokyo are finding new reasons to team up — including rebuilding their militaries."
     },
     {
       "char": "⚽",
-      "label": "fifa pays somali referee",
-      "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
-      "title": "Fifa to pay Somali referee Artan full World Cup fee",
-      "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full."
+      "label": "iran's world cup squad pressures",
+      "url": "https://www.theguardian.com/world/2026/jun/12/iran-first-play-war-world-cup-fifa",
+      "title": "An ideological tug-of-war: the pressures facing Iran’s World Cup squad in US",
+      "summary": "Flag bans, travel headaches and a religious regime video among bumps in road, as team prepares to be first to play in country with which it is at war Iran will present a major challenge to Fifa’s “football unites the world” slogan on Mon..."
+    },
+    {
+      "char": "👑",
+      "label": "japan's royal family adoption issue",
+      "url": "https://www.nytimes.com/2026/06/14/world/asia/japan-royal-family-adoption-male.html",
+      "title": "Japan Is Running Out of Royals. Are More Men the Answer?",
+      "summary": "Japan’s legislature is drafting a plan to allow the imperial family to adopt distant male relatives. But some in Japan would prefer a female emperor."
+    },
+    {
+      "char": "🤝",
+      "label": "nigeria bandits abduct villagers",
+      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
+      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
+      "summary": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negot..."
+    },
+    {
+      "char": "🎬",
+      "label": "canadian screen awards highlights",
+      "url": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
+      "title": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
+      "summary": "No longer content with being just “Hollywood North,” the Canadian screen industry is asserting itself and telling its own stories."
+    },
+    {
+      "char": "⚔️",
+      "label": "germany and japan rearmament",
+      "url": "https://www.nytimes.com/2026/06/14/world/europe/germany-japan-rearmament-military.html",
+      "title": "Germany and Japan Are Rearming Again, 80 Years After World War II",
+      "summary": "After becoming allies to disastrous effect in the 1940s, Berlin and Tokyo are finding new reasons to team up — including rebuilding their militaries."
+    },
+    {
+      "char": "🏖️",
+      "label": "jamaican beach access fight",
+      "url": "https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-court-fight-privatisation-coast",
+      "title": "Jamaican beach access campaigners go to court to fight privatisation of coast",
+      "summary": "Activists are challenging colonial-era law and demanding ‘free, legal, unfettered, forever rights’ to use beaches Jamaica’s beach access crisis: ‘We shouldn’t be forced to fight for what is already ours’ Campaigners in Jamaica are headin..."
+    },
+    {
+      "char": "⚖️",
+      "label": "justice for murdered daughter",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/14/mother-hopes-to-get-justice-for-murdered-daughter-in-retrial-in-dominican-republic",
+      "title": "Mother hopes to get justice for murdered daughter in retrial in Dominican Republic",
+      "summary": "Shirley Firth is hoping those responsible for Lindsay de Feliz’s death in 2019 will finally be convicted A Cambridgeshire mother in her 90s is hoping to finally see justice for her murdered daughter when a retrial into her death is due t..."
+    },
+    {
+      "char": "🌍",
+      "label": "g7 summit chaos",
+      "url": "https://www.nytimes.com/2026/06/14/world/europe/g7-summit-evian-trump.html",
+      "title": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
+      "summary": "Group of 7 meetings once embodied the effort to sustain the global diplomatic order. This year’s gathering, starting on Monday, symbolizes its fragmentation."
+    },
+    {
+      "char": "🚨",
+      "label": "canada police investigate death",
+      "url": "https://www.theguardian.com/world/2026/jun/12/canada-police-investigate-toronto-police-death-global-terror-attacks",
+      "title": "Canada police investigate whether Toronto police death linked to global terror attacks",
+      "summary": "Constable Marc Pinizzotto, 43, was killed while executing search warrants related to a shooting at US consulate Authorities in Canada are investigating whether the killing of a Toronto police officer while he was executing search warrant..."
+    },
+    {
+      "char": "⚔️",
+      "label": "ukraine missile defense issues",
+      "url": "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html",
+      "title": "Russia Is Rich in Ballistic Missiles. Ukraine Is Short of Ways to Stop Them.",
+      "summary": "Ukraine is running out of American-made Patriot air-defense interceptors, and is pleading for more."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "The day's news highlights significant global concerns, including military actions, humanitarian crises, and social justice issues, evoking a sense of anxiety and urgency.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
