@@ -48223,5 +48223,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-14",
+    "emojis": [
+      {
+        "char": "🏛️",
+        "label": "trump removed from kennedy center",
+        "url": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump's name removed from Kennedy Center after court order",
+        "summary": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday."
+      },
+      {
+        "char": "🌍",
+        "label": "g7 summit chaos and division",
+        "url": "https://www.nytimes.com/2026/06/14/world/europe/g7-summit-evian-trump.html",
+        "title": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
+        "summary": "Group of 7 meetings once embodied the effort to sustain the global diplomatic order. This year’s gathering, starting on Monday, symbolizes its fragmentation."
+      },
+      {
+        "char": "💣",
+        "label": "ukraine struggles against missiles",
+        "url": "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html",
+        "title": "Russia Is Rich in Ballistic Missiles. Ukraine Is Short of Ways to Stop Them.",
+        "summary": "Ukraine is running out of American-made Patriot air-defense interceptors, and is pleading for more."
+      },
+      {
+        "char": "🔍",
+        "label": "drc mineral funding rebel atrocities",
+        "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
+        "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
+        "summary": "Amazon and Sony among firms that may have sourced coltan, used in phones, from supply chains controlled by the M23 rebels, says Global Witness Leading global brands including Amazon, Ericsson and Sony are “likely” to have sourced mineral..."
+      },
+      {
+        "char": "⚽",
+        "label": "smallest country reaches world cup",
+        "url": "https://www.nytimes.com/2026/06/14/world/americas/world-cup-curacao-netherlands-soccer.html",
+        "title": "Meet the Smallest Country Ever to Reach the World Cup",
+        "summary": "Competing for the first time, Curaçao is brimming with joy. Most of the Caribbean nation’s team was born and raised in the Netherlands, but residents say the players represent them."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
