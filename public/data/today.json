@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The day's news highlights significant global concerns, including military actions, humanitarian crises, and social justice issues, evoking a sense of anxiety and urgency.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "Today’s news is filled with stories of loss, conflict, and societal struggles, highlighting the pain and trauma experienced by individuals and communities worldwide.",
     "palette": [
       "😢",
       "😡",
