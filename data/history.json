@@ -48267,5 +48267,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-14",
+    "emojis": [
+      {
+        "char": "🇮🇷",
+        "label": "us faces a more resilient iran",
+        "url": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html",
+        "title": "With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure",
+        "summary": "Iran’s new, more militaristic leaders have already survived the worst that America and Israel can deliver, and seem readier to take risks."
+      },
+      {
+        "char": "🌍",
+        "label": "g7 summit faces chaos and division",
+        "url": "https://www.nytimes.com/2026/06/14/world/europe/g7-summit-evian-trump.html",
+        "title": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
+        "summary": "Group of 7 meetings once embodied the effort to sustain the global diplomatic order. This year’s gathering, starting on Monday, symbolizes its fragmentation."
+      },
+      {
+        "char": "🏖️",
+        "label": "jamaica's beach access crisis",
+        "url": "https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-crisis-plantation-tourism",
+        "title": "Jamaica’s beach access crisis: ‘We shouldn’t be forced to fight for what is already ours’",
+        "summary": "Activists argue business model is ‘plantation tourism’ designed to benefit elite and disadvantage most Jamaicans Campaigners go to court to fight privatisation of Jamaican coast Devon Taylor remembers when the Mammee Bay shoreline in St..."
+      },
+      {
+        "char": "⚽",
+        "label": "fifa pays somali referee for world cup",
+        "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
+        "title": "Fifa to pay Somali referee Artan full World Cup fee",
+        "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full."
+      },
+      {
+        "char": "🔫",
+        "label": "man shot during protest in kenya",
+        "url": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
+        "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
+        "summary": "Police dispersed demonstrators in Nanyuki, 120 miles from Nairobi, amid rising anger at US plans Kenyan police have shot dead a man during a protest against a proposed Ebola quarantine facility for US citizens. Patrick Wahome, who has or..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
