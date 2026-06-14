@@ -48135,5 +48135,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-14",
+    "emojis": [
+      {
+        "char": "🇨🇭",
+        "label": "switzerland population vote",
+        "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+        "title": "Switzerland to vote on plan to cap population at 10 million",
+        "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\", but opponents say it is a recipe for chaos."
+      },
+      {
+        "char": "💥",
+        "label": "trump venezuela gang leader killed",
+        "url": "https://www.theguardian.com/us-news/2026/jun/12/trump-venezuela-tren-de-aragua-leader-killed",
+        "title": "Trump says leader of Venezuelan Tren de Aragua gang killed in US strike",
+        "summary": "President says Hector Rusthenford Guerrero Flores killed in ‘swift and lethal’ military strike with help from Venezuela The US military has killed a leader in the Venezuelan street gang Tren de Aragua, Hector Rusthenford Guerrero Flores,..."
+      },
+      {
+        "char": "⚔️",
+        "label": "iran war updates",
+        "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
+        "title": "Iran War Live Updates: Trump Says Peace Deal Will Be Signed Sunday, but Iran Disputes Timeline",
+        "summary": "An Iranian foreign ministry official sought to temper expectations, saying there were no plans for a Sunday signing and an agreement could be inked in the coming days."
+      },
+      {
+        "char": "🎨",
+        "label": "brazil world cup street art",
+        "url": "https://www.nytimes.com/2026/06/13/world/americas/world-cup-brazil-street-art.html",
+        "title": "Brazilians Revive a World Cup Ritual to Cheer on Their National Team",
+        "summary": "After years of dampened enthusiasm about the World Cup, Brazilians are excited about their national team again — and they’re showing it by painting the streets."
+      },
+      {
+        "char": "🌍",
+        "label": "family affected by land mines",
+        "url": "https://www.nytimes.com/2026/06/13/world/asia/family-ravaged-by-land-mines-myanmar.html",
+        "title": "A Family Ravaged by Land Mines in Myanmar",
+        "summary": "Bu Ri lost a leg to a mine in Myanmar decades ago. More recently, six other members of his family have suffered a similar fate or worse, in a sign of the devastation wreaked by civil war."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
