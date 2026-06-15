@@ -48355,5 +48355,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-15",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "trump targets climate migrants",
+        "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
+        "title": "Trump targeting immigrants from countries hit most by climate shocks",
+        "summary": "A Guardian analysis reveals how most of 39 countries facing US entry restrictions are most vulnerable environmentally ‘Every day it’s more barriers’: how the US is shutting out climate refugees Donald Trump ’s immigration crackdown is la..."
+      },
+      {
+        "char": "🛢️",
+        "label": "oil prices drop after us-iran deal",
+        "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+        "title": "Oil prices slide after Pakistan announces deal between US and Iran",
+        "summary": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said."
+      },
+      {
+        "char": "👑",
+        "label": "japan's royal family faces crisis",
+        "url": "https://www.nytimes.com/2026/06/14/world/asia/japan-royal-family-adoption-male.html",
+        "title": "Japan Is Running Out of Royals. Are More Men the Answer?",
+        "summary": "Japan’s legislature is drafting a plan to allow the imperial family to adopt distant male relatives. But some in Japan would prefer a female emperor."
+      },
+      {
+        "char": "🏠",
+        "label": "london council seizes flat from first lady",
+        "url": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
+        "title": "London council seizes social housing flat rented by Sierra Leone first lady",
+        "summary": "Fatima Jabbe-Bio kept tenancy in Southwark despite living for much of year at presidential lodge in Freetown A social housing flat rented by Sierra Leone’s first lady has been seized by a London council. Southwark council confirmed it ha..."
+      },
+      {
+        "char": "🎶",
+        "label": "musician killed in helicopter crash",
+        "url": "https://www.theguardian.com/world/2026/jun/14/musician-oliver-tree-32-killed-in-helicopter-crash-in-brazil",
+        "title": "US musician Oliver Tree, 32, killed in helicopter crash in Brazil",
+        "summary": "Alternative singer and internet personality among six who died when two helicopters collided over Rio de Janeiro The American musician Oliver Tree has died in a helicopter crash in Brazil at the age of 32, according to reports. Two helic..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
