@@ -48399,5 +48399,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-15",
+    "emojis": [
+      {
+        "char": "📚",
+        "label": "global attacks on education rise",
+        "url": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
+        "title": "Attacks on education, pupils and staff around the world up by 40%, says study",
+        "summary": "Cases reported in 83 countries, with at least 10,600 students and staff killed, injured, abducted or arrested, GCPEA says Attacks on education globally have surged by 40% with more than 8,556 recorded incidents and 10,600 students and st..."
+      },
+      {
+        "char": "🕊️",
+        "label": "us-iran war framework updates",
+        "url": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
+        "title": "Iran War Live Updates: U.S.-Iran Framework Brings Relief, but Challenges Loom",
+        "summary": "The United States and Iran reached a preliminary deal that was expected to open the Strait of Hormuz. But it defers the toughest issues to further talks."
+      },
+      {
+        "char": "🚨",
+        "label": "protest against ebola facility in kenya",
+        "url": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
+        "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
+        "summary": "Police dispersed demonstrators in Nanyuki, 120 miles from Nairobi, amid rising anger at US plans Kenyan police have shot dead a man during a protest against a proposed Ebola quarantine facility for US citizens. Patrick Wahome, who has or..."
+      },
+      {
+        "char": "💊",
+        "label": "inside colombia's drug war",
+        "url": "https://www.nytimes.com/2026/06/15/world/americas/colombia-drug-war-violence-petro.html",
+        "title": "Inside Colombia’s Never-Ending Drug War",
+        "summary": "Ten years after a landmark peace deal, armed groups are wreaking deadly violence, blending jungle combat with new drone warfare."
+      },
+      {
+        "char": "⚖️",
+        "label": "quebec's assisted dying leadership",
+        "url": "https://www.nytimes.com/2026/06/15/world/canada/quebec-medically-assisted-dying-catholic.html",
+        "title": "How Quebec Left the Church and Became the World Leader in Assisted Dying",
+        "summary": "A society once strongly Roman Catholic has rejected the church’s prohibition on euthanasia, with many instead viewing control over one’s death as an individual right."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
