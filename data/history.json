@@ -48751,5 +48751,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-16",
+    "emojis": [
+      {
+        "char": "⚽",
+        "label": "iran at world cup amid protests",
+        "url": "https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html",
+        "title": "Why Team Iran Is in a Tough Spot at the World Cup",
+        "summary": "At its first game in Los Angeles, the men’s national team drew spectators who weren’t coming for the soccer, but rather to protest the regime in Tehran."
+      },
+      {
+        "char": "🐱",
+        "label": "cats rescued from theft in vietnam",
+        "url": "https://www.bbc.com/news/articles/c20yzm58vk3o?at_medium=RSS&at_campaign=rss",
+        "title": "Hundreds of cats stolen for food in Vietnam rescued by police, welfare group says",
+        "summary": "Police have arrested nine people and rescued more than 400 cats destined for slaughter, with more than 40 reunited with their owners."
+      },
+      {
+        "char": "⚓",
+        "label": "naval mines threaten gulf shipping",
+        "url": "https://www.nytimes.com/2026/06/16/world/middleeast/strait-hormuz-mines-clearing.html",
+        "title": "Naval Mines Could Still Stymie Gulf Shipping After War",
+        "summary": "The U.S. Navy will be deploying a new generation of drone-based countermeasures to search the sea floor and surface for any mines Iran laid."
+      },
+      {
+        "char": "🏠",
+        "label": "london council seizes flat from first lady",
+        "url": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
+        "title": "London council seizes social housing flat rented by Sierra Leone first lady",
+        "summary": "Fatima Jabbe-Bio kept tenancy in Southwark despite living for much of year at presidential lodge in Freetown A social housing flat rented by Sierra Leone’s first lady has been seized by a London council. Southwark council confirmed it ha..."
+      },
+      {
+        "char": "⚡",
+        "label": "venezuela signs power grid deal with us",
+        "url": "https://www.bbc.com/news/articles/c0jyzpv52yyo?at_medium=RSS&at_campaign=rss",
+        "title": "Venezuela signs deal with US energy giant to rebuild power grid",
+        "summary": "The deal with General Electric is the latest sign of co-operation between US firms and Venezuela's interim government."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
