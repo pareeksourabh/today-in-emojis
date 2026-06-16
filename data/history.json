@@ -48575,5 +48575,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-16",
+    "emojis": [
+      {
+        "char": "🆘",
+        "label": "msf staff abuse scandal in sudan",
+        "url": "https://www.bbc.com/news/articles/c74ykjl8mx3o?at_medium=RSS&at_campaign=rss",
+        "title": "MSF staff abused Sudanese refugees in sex-for-food scandal",
+        "summary": "Some victims said they chose not to speak out because they feared staff would cut off access to aid."
+      },
+      {
+        "char": "🌋",
+        "label": "spider-man of yemen dies in volcano",
+        "url": "https://www.bbc.com/news/articles/c39yvz9w8k3o?at_medium=RSS&at_campaign=rss",
+        "title": "'Spider-Man of Yemen' dies falling into volcanic crater",
+        "summary": "Al-Qaqa Ibn Antar had been attempting to climb its walls without safety equipment when he fell in, local authorities say."
+      },
+      {
+        "char": "🤝",
+        "label": "trump's iran war deal details coming soon",
+        "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+        "summary": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement."
+      },
+      {
+        "char": "🔍",
+        "label": "global brands linked to drc rebel minerals",
+        "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
+        "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
+        "summary": "Amazon and Sony among firms that may have sourced coltan, used in phones, from supply chains controlled by the M23 rebels, says Global Witness Leading global brands including Amazon, Ericsson and Sony are “likely” to have sourced mineral..."
+      },
+      {
+        "char": "⚖️",
+        "label": "uk court rules on pro-palestinian ban",
+        "url": "https://www.nytimes.com/2026/06/15/world/europe/uk-palestine-action-ban-appeal.html",
+        "title": "U.K. Ban on Pro-Palestinian Protest Group Is Lawful, Court of Appeal Rules",
+        "summary": "The decision overturned a lower-court ruling that had found that banning Palestine Action as a terrorist group had breached free speech rights."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
