@@ -1,204 +1,43 @@
 {
-  "date": "2026-06-15",
-  "timestamp": "2026-06-15T00:00:00Z",
+  "date": "2026-06-16",
+  "timestamp": "2026-06-16T00:00:00Z",
   "emojis": [
     {
-      "char": "🪖",
-      "label": "ukraine missile defense issues",
-      "url": "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html",
-      "title": "Russia Is Rich in Ballistic Missiles. Ukraine Is Short of Ways to Stop Them.",
-      "summary": "Ukraine is running out of American-made Patriot air-defense interceptors, and is pleading for more."
+      "char": "🕊️",
+      "label": "quebec's assisted dying leadership",
+      "url": "https://www.nytimes.com/2026/06/15/world/canada/quebec-medically-assisted-dying-catholic.html",
+      "title": "How Quebec Left the Church and Became the World Leader in Assisted Dying",
+      "summary": "A society once strongly Roman Catholic has rejected the church’s prohibition on euthanasia, with many instead viewing control over one’s death as an individual right."
     },
     {
-      "char": "✌️",
-      "label": "us iran cease-fire agreement",
-      "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
-      "title": "Iran War Live Updates: U.S. and Iran Reach Cease-Fire Agreement",
-      "summary": "The deal was expected to halt fighting for 60 days, open the Strait of Hormuz and lift the U.S. naval blockade on Iranian ports. But it would leave the thorniest nuclear issues for another day."
-    },
-    {
-      "char": "🏖️",
-      "label": "jamaican beach access court fight",
-      "url": "https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-court-fight-privatisation-coast",
-      "title": "Jamaican beach access campaigners go to court to fight privatisation of coast",
-      "summary": "Activists are challenging colonial-era law and demanding ‘free, legal, unfettered, forever rights’ to use beaches Jamaica’s beach access crisis: ‘We shouldn’t be forced to fight for what is already ours’ Campaigners in Jamaica are headin..."
-    },
-    {
-      "char": "⚖️",
-      "label": "justice for murdered daughter",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/14/mother-hopes-to-get-justice-for-murdered-daughter-in-retrial-in-dominican-republic",
-      "title": "Mother hopes to get justice for murdered daughter in retrial in Dominican Republic",
-      "summary": "Shirley Firth is hoping those responsible for Lindsay de Feliz’s death in 2019 will finally be convicted A Cambridgeshire mother in her 90s is hoping to finally see justice for her murdered daughter when a retrial into her death is due t..."
-    },
-    {
-      "char": "🤝",
-      "label": "nigeria peace talks abduction",
-      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
-      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
-      "summary": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negot..."
-    },
-    {
-      "char": "👑",
-      "label": "japan's royal family dilemma",
-      "url": "https://www.nytimes.com/2026/06/14/world/asia/japan-royal-family-adoption-male.html",
-      "title": "Japan Is Running Out of Royals. Are More Men the Answer?",
-      "summary": "Japan’s legislature is drafting a plan to allow the imperial family to adopt distant male relatives. But some in Japan would prefer a female emperor."
-    },
-    {
-      "char": "🏖️",
-      "label": "jamaica beach access fight",
-      "url": "https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-court-fight-privatisation-coast",
-      "title": "Jamaican beach access campaigners go to court to fight privatisation of coast",
-      "summary": "Activists are challenging colonial-era law and demanding ‘free, legal, unfettered, forever rights’ to use beaches Jamaica’s beach access crisis: ‘We shouldn’t be forced to fight for what is already ours’ Campaigners in Jamaica are headin..."
-    },
-    {
-      "char": "⚽",
-      "label": "fifa pays somali referee",
-      "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
-      "title": "Fifa to pay Somali referee Artan full World Cup fee",
-      "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full."
-    },
-    {
-      "char": "💣",
-      "label": "ukraine's missile defense issues",
-      "url": "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html",
-      "title": "Russia Is Rich in Ballistic Missiles. Ukraine Is Short of Ways to Stop Them.",
-      "summary": "Ukraine is running out of American-made Patriot air-defense interceptors, and is pleading for more."
-    },
-    {
-      "char": "🇻🇪",
-      "label": "trump on venezuela gang leader",
-      "url": "https://www.theguardian.com/us-news/2026/jun/12/trump-venezuela-tren-de-aragua-leader-killed",
-      "title": "Trump says leader of Venezuelan Tren de Aragua gang killed in US strike",
-      "summary": "President says Hector Rusthenford Guerrero Flores killed in ‘swift and lethal’ military strike with help from Venezuela The US military has killed a leader in the Venezuelan street gang Tren de Aragua, Hector Rusthenford Guerrero Flores,..."
-    },
-    {
-      "char": "🌍",
-      "label": "trump targets climate migrants",
-      "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
-      "title": "Trump targeting immigrants from countries hit most by climate shocks",
-      "summary": "A Guardian analysis reveals how most of 39 countries facing US entry restrictions are most vulnerable environmentally ‘Every day it’s more barriers’: how the US is shutting out climate refugees Donald Trump ’s immigration crackdown is la..."
-    },
-    {
-      "char": "⚔️",
-      "label": "major powers misread conflicts",
-      "url": "https://www.nytimes.com/2026/06/14/world/europe/us-iran-russia-ukraine.html",
-      "title": "Deadlocked Wars: How Major Powers Misread the Regions They Attacked",
-      "summary": "Russia and the United States projected their own centralized views onto Ukraine and Iran, analysts said. As a result, the smaller countries trapped larger ones in a costly confrontation."
-    },
-    {
-      "char": "👩‍⚖️",
-      "label": "justice for murdered daughter",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/14/mother-hopes-to-get-justice-for-murdered-daughter-in-retrial-in-dominican-republic",
-      "title": "Mother hopes to get justice for murdered daughter in retrial in Dominican Republic",
-      "summary": "Shirley Firth is hoping those responsible for Lindsay de Feliz’s death in 2019 will finally be convicted A Cambridgeshire mother in her 90s is hoping to finally see justice for her murdered daughter when a retrial into her death is due t..."
-    },
-    {
-      "char": "🔥",
-      "label": "cathedral ablaze in kyiv",
-      "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-      "title": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
-      "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people and wounded three others."
-    },
-    {
-      "char": "🏖️",
-      "label": "jamaica beach access crisis",
-      "url": "https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-crisis-plantation-tourism",
-      "title": "Jamaica’s beach access crisis: ‘We shouldn’t be forced to fight for what is already ours’",
-      "summary": "Activists argue business model is ‘plantation tourism’ designed to benefit elite and disadvantage most Jamaicans Campaigners go to court to fight privatisation of Jamaican coast Devon Taylor remembers when the Mammee Bay shoreline in St..."
-    },
-    {
-      "char": "🎶",
-      "label": "musician oliver tree dies in crash",
-      "url": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss",
-      "title": "US musician Oliver Tree dies in helicopter collision in Brazil",
-      "summary": "The singer-songwriter is among six people presumed dead in air crash over Rio de Janeiro on Sunday."
-    },
-    {
-      "char": "🌍",
-      "label": "colombia's ongoing drug war",
-      "url": "https://www.nytimes.com/2026/06/15/world/americas/colombia-drug-war-violence-petro.html",
-      "title": "Inside Colombia’s Never-Ending Drug War",
-      "summary": "Ten years after a landmark peace deal, armed groups are wreaking deadly violence, blending jungle combat with new drone warfare."
-    },
-    {
-      "char": "⚖️",
-      "label": "norway crown princess's son convicted",
-      "url": "https://www.nytimes.com/2026/06/15/world/europe/marius-borg-hoiby-verdict-norway.html",
-      "title": "Son of Norway’s Crown Princess Is Convicted of Rape",
-      "summary": "Marius Borg Hoiby was sentenced to four years in prison. He stood trial as his mother came under pressure over her ties to Jeffrey Epstein."
-    },
-    {
-      "char": "🏖️",
-      "label": "jamaican beach access court fight",
-      "url": "https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-court-fight-privatisation-coast",
-      "title": "Jamaican beach access campaigners go to court to fight privatisation of coast",
-      "summary": "Activists are challenging colonial-era law and demanding ‘free, legal, unfettered, forever rights’ to use beaches Jamaica’s beach access crisis: ‘We shouldn’t be forced to fight for what is already ours’ Campaigners in Jamaica are headin..."
-    },
-    {
-      "char": "📉",
-      "label": "switzerland rejects population cap",
-      "url": "https://www.nytimes.com/2026/06/14/world/europe/switzerland-population-cap-referendum.html",
-      "title": "Switzerland Rejects Measure to Cap Its Population at 10 Million",
-      "summary": "The referendum was about limiting migration after the number of residents rose by more than a quarter since 2000, but it was framed around affordability and sustainability."
+      "char": "🎹",
+      "label": "jazz pianist abdullah ibrahim dies",
+      "url": "https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies",
+      "title": "South African jazz pianist Abdullah Ibrahim dies aged 91",
+      "summary": "The accomplished musician, who recorded over 70 albums in his career, died peacefully in Germany after a short illness The South African jazz composer and pianist Abdullah Ibrahim has died at the age of 91. His family announced his death..."
     },
     {
       "char": "🕊️",
-      "label": "argentinian activist dies",
-      "url": "https://www.theguardian.com/world/2026/jun/15/argentine-activist-taty-almeida-dies-disappeared",
-      "title": "Argentinian activist who spent 50 years looking for disappeared son dies",
-      "summary": "Outpouring of public grief for Lidia ‘Taty’ Almeida, leader of group of mothers that has marched every week since 1977 The human rights activist Lidia “Taty” Almeida – who spent more than half a century searching for her son after he was..."
+      "label": "iran war deal updates",
+      "url": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
+      "title": "Iran War Live Updates: U.S. and Iran Sign Preliminary Deal, but Its Terms Remain Secret",
+      "summary": "President Trump and Iran’s lead negotiator have signed an agreement that was expected to open the Strait of Hormuz. But the specific terms of the deal have not been released, and Israel’s leader appears not to be fully on board."
     },
     {
-      "char": "🇺🇦",
-      "label": "ukraine advances eu membership",
-      "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-eu-membership.html",
-      "title": "With Its Biggest E.U. Opponent Gone, Ukraine Is Advancing in Its Bid to Join",
-      "summary": "Even though negotiations will begin for Ukraine to join the bloc, the path ahead is a long one."
+      "char": "🌍",
+      "label": "coltan funding rebel atrocities",
+      "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
+      "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
+      "summary": "Amazon and Sony among firms that may have sourced coltan, used in phones, from supply chains controlled by the M23 rebels, says Global Witness Leading global brands including Amazon, Ericsson and Sony are “likely” to have sourced mineral..."
     },
     {
-      "char": "🏖️",
-      "label": "jamaican beach access fight",
-      "url": "https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-court-fight-privatisation-coast",
-      "title": "Jamaican beach access campaigners go to court to fight privatisation of coast",
-      "summary": "Activists are challenging colonial-era law and demanding ‘free, legal, unfettered, forever rights’ to use beaches Jamaica’s beach access crisis: ‘We shouldn’t be forced to fight for what is already ours’ Campaigners in Jamaica are headin..."
-    },
-    {
-      "char": "🎶",
-      "label": "musician killed in crash",
-      "url": "https://www.theguardian.com/world/2026/jun/14/musician-oliver-tree-32-killed-in-helicopter-crash-in-brazil",
-      "title": "US musician Oliver Tree, 32, killed in helicopter crash in Brazil",
-      "summary": "Alternative singer and internet personality among six who died when two helicopters collided over Rio de Janeiro The American musician Oliver Tree has died in a helicopter crash in Brazil at the age of 32, according to reports. Two helic..."
-    },
-    {
-      "char": "💔",
-      "label": "colombia drug war violence",
-      "url": "https://www.nytimes.com/2026/06/15/world/americas/colombia-drug-war-violence-petro.html",
-      "title": "Inside Colombia’s Never-Ending Drug War",
-      "summary": "Ten years after a landmark peace deal, armed groups are wreaking deadly violence, blending jungle combat with new drone warfare."
+      "char": "📱",
+      "label": "uk social media ban for kids",
+      "url": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
+      "title": "UK Announces Social Media Ban for Children Under 16",
+      "summary": "Prime Minister Keir Starmer said his government planned to bar children under 16 from social media, following similar efforts in Australia and elsewhere."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Sorrow",
-    "emoji": "😢",
-    "rationale": "Today's news reflects a somber reality, with multiple reports of violence, loss, and struggles for justice, highlighting a world in distress and mourning.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
