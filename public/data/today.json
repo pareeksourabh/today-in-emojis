@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "sadness",
+    "emotion_label": "Sadness",
     "emoji": "😢",
-    "rationale": "The day's news highlights significant losses in the arts and activism, along with troubling reports of violence and social issues, creating an overall somber atmosphere.",
+    "rationale": "The day is marked by significant loss, with the deaths of notable figures such as jazz pianist Abdullah Ibrahim and human rights activist Lidia Almeida, alongside an alarming rise in violence against schools and students globally.",
     "palette": [
       "😢",
       "😡",
