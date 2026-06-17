@@ -48927,5 +48927,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-17",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "trump meets european leaders",
+        "url": "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html",
+        "title": "After a Bitter Split, European Leaders Play Nice With Trump",
+        "summary": "A peace framework with Iran, and hope for cooperation with Ukraine, softened the tone on Tuesday at a Group of 7 gathering in France."
+      },
+      {
+        "char": "⚓",
+        "label": "naval mines threaten gulf shipping",
+        "url": "https://www.nytimes.com/2026/06/16/world/middleeast/strait-hormuz-mines-clearing.html",
+        "title": "Naval Mines Could Still Stymie Gulf Shipping After War",
+        "summary": "The U.S. Navy will be deploying a new generation of drone-based countermeasures to search the sea floor and surface for any mines Iran laid."
+      },
+      {
+        "char": "🇧🇭",
+        "label": "bahrain citizenship revocations",
+        "url": "https://www.nytimes.com/2026/06/17/world/middleeast/bahrain-iran-citizenship-expulsions.html",
+        "title": "Bahrain Revoked Their Citizenship, and Then Tried to Expel Them to Iran",
+        "summary": "Amid the war with Iran, Bahrain has stripped 69 people of their citizenship, including children, accusing them of disloyalty and rendering them stateless."
+      },
+      {
+        "char": "👶",
+        "label": "boy injured in us airstrike",
+        "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
+        "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
+        "summary": "Abdiqadir Salah was pierced by shrapnel in a bombing that killed 12 in Somalia. But as the US denies civilians were hurt they face no hope of compensation Read more: Killed walking home from school: why did Somali children become targets..."
+      },
+      {
+        "char": "🎹",
+        "label": "jazz pianist abdullah ibrahim dies",
+        "url": "https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies",
+        "title": "South African jazz pianist Abdullah Ibrahim dies aged 91",
+        "summary": "The accomplished musician, who recorded over 70 albums in his career, died peacefully in Germany after a short illness The South African jazz composer and pianist Abdullah Ibrahim has died at the age of 91. His family announced his death..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
