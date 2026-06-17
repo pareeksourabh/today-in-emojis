@@ -48971,5 +48971,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-17",
+    "emojis": [
+      {
+        "char": "🏛️",
+        "label": "attack planned on white house event",
+        "url": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
+        "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
+        "summary": "In newly unsealed court filings, the government says the group allegedly expressed grievances about corruption, the Epstein files, and data centres."
+      },
+      {
+        "char": "✈️",
+        "label": "bystanders rescue passengers from crash",
+        "url": "https://www.bbc.com/news/articles/cd7wv4144yvo?at_medium=RSS&at_campaign=rss",
+        "title": "Bystanders smash windows of private jet to rescue passengers after crash",
+        "summary": "One of the six people on board died in the crash, a local official said. The five survivors were taken to hospital and are in a stable condition."
+      },
+      {
+        "char": "📺",
+        "label": "israel tv stars turn on trump",
+        "url": "https://www.nytimes.com/2026/06/17/world/middleeast/israel-channel-14-trump-criticism.html",
+        "title": "Stars of Israel’s TV Channel for Bibi Fans Turn on Trump",
+        "summary": "Leading figures from Channel 14, a right-wing broadcaster that supports Prime Minister Benjamin Netanyahu, are openly attacking the U.S. president over his Iran deal."
+      },
+      {
+        "char": "🔫",
+        "label": "toronto police link shootings to network",
+        "url": "https://www.theguardian.com/world/2026/jun/16/toronto-police-shootings-gun-for-hire-network",
+        "title": "Toronto police link dozens of shootings to ‘multilayered’ gun-for-hire network",
+        "summary": "Young adults and teens are being recruited through apps like Telegram and paid to carry out attacks, officials say Police investigators in Toronto have said that dozens of shootings – including one at the US consulate in March – are link..."
+      },
+      {
+        "char": "🌍",
+        "label": "ghana advances reparatory justice",
+        "url": "https://www.theguardian.com/news/2026/jun/17/ghana-to-advance-reparatory-justice-at-first-major-gathering-since-landmark-un-resolution",
+        "title": "Ghana to advance reparatory justice at first major gathering since landmark UN resolution",
+        "summary": "Heads of state and participants from more than 80 countries at three-day event in Accra to pursue actionable commitments to reconciliation and restitution Ghana is hosting a conference to advance the continent’s push for reparatory justi..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

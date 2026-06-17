@@ -1,41 +1,41 @@
 {
   "date": "2026-06-17",
-  "timestamp": "2026-06-17T00:00:00Z",
+  "timestamp": "2026-06-17T18:06:57Z",
   "emojis": [
     {
-      "char": "🇮🇱",
-      "label": "israel tv channel turns on trump",
+      "char": "🏛️",
+      "label": "attack planned on white house event",
+      "url": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
+      "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
+      "summary": "In newly unsealed court filings, the government says the group allegedly expressed grievances about corruption, the Epstein files, and data centres."
+    },
+    {
+      "char": "✈️",
+      "label": "bystanders rescue passengers from crash",
+      "url": "https://www.bbc.com/news/articles/cd7wv4144yvo?at_medium=RSS&at_campaign=rss",
+      "title": "Bystanders smash windows of private jet to rescue passengers after crash",
+      "summary": "One of the six people on board died in the crash, a local official said. The five survivors were taken to hospital and are in a stable condition."
+    },
+    {
+      "char": "📺",
+      "label": "israel tv stars turn on trump",
       "url": "https://www.nytimes.com/2026/06/17/world/middleeast/israel-channel-14-trump-criticism.html",
       "title": "Stars of Israel’s TV Channel for Bibi Fans Turn on Trump",
       "summary": "Leading figures from Channel 14, a right-wing broadcaster that supports Prime Minister Benjamin Netanyahu, are openly attacking the U.S. president over his Iran deal."
     },
     {
-      "char": "🇬🇭",
+      "char": "🔫",
+      "label": "toronto police link shootings to network",
+      "url": "https://www.theguardian.com/world/2026/jun/16/toronto-police-shootings-gun-for-hire-network",
+      "title": "Toronto police link dozens of shootings to ‘multilayered’ gun-for-hire network",
+      "summary": "Young adults and teens are being recruited through apps like Telegram and paid to carry out attacks, officials say Police investigators in Toronto have said that dozens of shootings – including one at the US consulate in March – are link..."
+    },
+    {
+      "char": "🌍",
       "label": "ghana advances reparatory justice",
       "url": "https://www.theguardian.com/news/2026/jun/17/ghana-to-advance-reparatory-justice-at-first-major-gathering-since-landmark-un-resolution",
       "title": "Ghana to advance reparatory justice at first major gathering since landmark UN resolution",
       "summary": "Heads of state and participants from more than 80 countries at three-day event in Accra to pursue actionable commitments to reconciliation and restitution Ghana is hosting a conference to advance the continent’s push for reparatory justi..."
-    },
-    {
-      "char": "🦠",
-      "label": "search for ebola patient in dr congo",
-      "url": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
-      "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
-      "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear."
-    },
-    {
-      "char": "🇦🇷",
-      "label": "argentinian activist dies after 50 years",
-      "url": "https://www.theguardian.com/world/2026/jun/15/argentine-activist-taty-almeida-dies-disappeared",
-      "title": "Argentinian activist who spent 50 years looking for disappeared son dies",
-      "summary": "Outpouring of public grief for Lidia ‘Taty’ Almeida, leader of group of mothers that has marched every week since 1977 The human rights activist Lidia “Taty” Almeida – who spent more than half a century searching for her son after he was..."
-    },
-    {
-      "char": "🇧🇷",
-      "label": "brazil woman dies from rope jump accident",
-      "url": "https://www.theguardian.com/world/2026/jun/15/brazil-rope-jump-bridge-woman-dies",
-      "title": "Woman, 21, dies after being thrown from Brazil rope jump bridge without harness",
-      "summary": "Instructors hurled Maria Eduarda Rodrigues de Freitas into 40-metre abyss without attaching safety equipment A 21-year-old woman who died when two rope-jumping instructors threw her from a bridge without first harnessing her to security..."
     }
   ],
   "source": "ai-openai",
