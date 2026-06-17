@@ -48795,5 +48795,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-17",
+    "emojis": [
+      {
+        "char": "🎨",
+        "label": "artist and putin critic shot dead",
+        "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
+        "title": "Russian artist and Putin critic shot dead in Poland",
+        "summary": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin."
+      },
+      {
+        "char": "🌍",
+        "label": "global brands funding rebel atrocities",
+        "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
+        "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
+        "summary": "Amazon and Sony among firms that may have sourced coltan, used in phones, from supply chains controlled by the M23 rebels, says Global Witness Leading global brands including Amazon, Ericsson and Sony are “likely” to have sourced mineral..."
+      },
+      {
+        "char": "🏠",
+        "label": "australia's substations turned into homes",
+        "url": "https://www.nytimes.com/2026/06/16/world/australia/electricity-substations-housing.html",
+        "title": "Australia’s Former Electricity Substations Are Being Turned Into Homes",
+        "summary": "In a country where the housing market is squeezed, decommissioned electrical substations are in demand as refurbished residences."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak could become worst on record",
+        "url": "https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html",
+        "title": "Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns",
+        "summary": "Health workers have warned that the outbreak, already one of the worst in decades, could take as long as a year to contain if infection rates do not flatten."
+      },
+      {
+        "char": "⚖️",
+        "label": "canada eliminates human rights watchdog",
+        "url": "https://www.theguardian.com/world/2026/jun/15/canada-eliminates-human-rights-watchdog-companies-abroad",
+        "title": "Canada eliminates human rights watchdog that oversees companies operating abroad",
+        "summary": "Mark Carney says Canadian Ombudsperson for Responsible Enterprise office hasn’t been ‘effective’ since its 2019 setup Canada is eliminating a watchdog that investigates alleged human rights violations committed by Canadian companies oper..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
