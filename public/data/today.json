@@ -1,41 +1,41 @@
 {
   "date": "2026-06-18",
-  "timestamp": "2026-06-18T02:45:30Z",
+  "timestamp": "2026-06-18T00:00:00Z",
   "emojis": [
     {
-      "char": "🇺🇸",
-      "label": "trump defends iran deal",
+      "char": "🌄",
+      "label": "how ecuador’s andes created a language",
+      "url": "https://www.nytimes.com/2026/06/17/world/americas/ecuador-kichwa-language-andes.html",
+      "title": "How Ecuador’s Andes Created a Language of Its Own",
+      "summary": "In Ecuador’s highlands, a seamless mix of Kichwa and Spanish creates a language that bends grammar, adds melody and goes unnoticed by many who speak it every day."
+    },
+    {
+      "char": "🌿",
+      "label": "cannabis commercialisation drives usage",
+      "url": "https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study",
+      "title": "Cannabis commercialisation not decriminalisation drives up usage, study finds",
+      "summary": "Review reveals rise in users and rates of psychosis in countries where cannabis is sold commercially Decriminalising the possession of cannabis or strictly regulating access to the drug do not appear to drive up usage, but when the drug..."
+    },
+    {
+      "char": "🇮🇷",
+      "label": "trump defends iran deal obsession",
       "url": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-peace-deal-obama.html",
       "title": "Trump Angrily Defends Iran Deal and Reveals, Again, His Obsession With Obama",
       "summary": "President Trump denied that the United States would be part of a $300 billion rebuilding fund for Iran and argued that his agreement was better than the one Barack Obama struck in 2015."
     },
     {
-      "char": "🔬",
-      "label": "finland lifts nuclear ban",
-      "url": "https://www.nytimes.com/2026/06/17/world/europe/finland-nuclear-devices.html",
-      "title": "Finland Lifts a Nuclear Weapons Ban, Eyeing an Uncertain World",
-      "summary": "The Nordic country, which shares an 830-mile border with Russia, said the move would strengthen the NATO alliance, which it joined three years ago."
+      "char": "⚽",
+      "label": "protesters rally against world cup sponsor",
+      "url": "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game",
+      "title": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
+      "summary": "Focus on business dealings with mining company Guadalajara rally to highlight fate of ‘disappeared’ Hyundai will be targeted by protesters at a rally before the Group A game between Mexico and South Korea in Guadalajara on Thursday, due..."
     },
     {
-      "char": "👦",
-      "label": "boy injured in us airstrike",
-      "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
-      "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
-      "summary": "Abdiqadir Salah was pierced by shrapnel in a bombing that killed 12 in Somalia. But as the US denies civilians were hurt they face no hope of compensation Read more: Killed walking home from school: why did Somali children become targets..."
-    },
-    {
-      "char": "🎷",
-      "label": "jazz pianist dies at 91",
-      "url": "https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies",
-      "title": "South African jazz pianist Abdullah Ibrahim dies aged 91",
-      "summary": "The accomplished musician, who recorded over 70 albums in his career, died peacefully in Germany after a short illness The South African jazz composer and pianist Abdullah Ibrahim has died at the age of 91. His family announced his death..."
-    },
-    {
-      "char": "⚖️",
-      "label": "ghana advances reparatory justice",
-      "url": "https://www.theguardian.com/news/2026/jun/17/ghana-to-advance-reparatory-justice-at-first-major-gathering-since-landmark-un-resolution",
-      "title": "Ghana to advance reparatory justice at first major gathering since landmark UN resolution",
-      "summary": "Heads of state and participants from more than 80 countries at three-day event in Accra to pursue actionable commitments to reconciliation and restitution Ghana is hosting a conference to advance the continent’s push for reparatory justi..."
+      "char": "🦠",
+      "label": "ebola toll on bunia’s workers",
+      "url": "https://www.theguardian.com/world/2026/jun/17/lives-lost-ebola-bunia-workers-drc",
+      "title": "Lives and incomes lost as Ebola takes toll on Bunia’s public-facing workers",
+      "summary": "A headteacher, a motorcycle taxi driver and a travel agent are among those who are counting the human and economic cost of the virus Justin Keno watches more than 400 pupils stream through the Nelson Mandela school’s gate each morning, a..."
     }
   ],
   "source": "ai-openai",
