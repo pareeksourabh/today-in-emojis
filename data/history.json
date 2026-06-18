@@ -49191,5 +49191,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-18",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "norwegian hitman trial verdict",
+        "url": "https://www.bbc.com/news/articles/cz6v1qw7d0no?at_medium=RSS&at_campaign=rss",
+        "title": "Jury fails to reach verdict in Norwegian 'hitman' trial",
+        "summary": "Johannes Natland, 19, was remanded in custody and will now face a retrial."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "bolsonaro's son sentenced",
+        "url": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
+        "title": "Jair Bolsonaro’s son sentenced to four years in jail for seeking US interference in father’s Brazil coup trial",
+        "summary": "Brazil supreme court finds that Eduardo Bolsonaro – who resides in the US - tried to get sanctions put on judges trying ex-president over coup plot Brazil’s supreme court has sentenced Eduardo Bolsonaro to four years and two months in pr..."
+      },
+      {
+        "char": "🚢",
+        "label": "titan sub design flaws report",
+        "url": "https://www.theguardian.com/world/2026/jun/17/titan-sub-design-flaws-company-groupthink-report",
+        "title": "Titan sub: design flaws and company groupthink central to catastrophe, report finds",
+        "summary": "Canadian officials find structural defects in material used for hull and say firm failed to fully test ‘novel’ design Canadian safety officials have issued a damning report on the catastrophic final voyage of the Titan submersible, findi..."
+      },
+      {
+        "char": "💔",
+        "label": "gunmen attack niger airport",
+        "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+        "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
+        "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport."
+      },
+      {
+        "char": "🌍",
+        "label": "iran and us deal understanding",
+        "url": "https://www.nytimes.com/2026/06/18/world/europe/iran-united-states-deal-israel.html",
+        "title": "Iran and the U.S. Have an Understanding. Will It Lead to a Deal?",
+        "summary": "Europe and the larger world will be watching carefully to see if talks produce a lasting agreement on Iran’s nuclear program and the Strait of Hormuz."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
