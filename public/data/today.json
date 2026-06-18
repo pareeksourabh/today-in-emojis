@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Sadness",
-    "emoji": "😢",
-    "rationale": "The news highlights significant human suffering, from stateless individuals in Bahrain to the tragic loss of life in airstrikes and the deaths of prominent cultural figures, encapsulating a day marked by sadness and loss.",
+    "emotion_label": "😔",
+    "emoji": "😔",
+    "rationale": "Today's news reflects a mix of sorrow and concern, with stories of human suffering, geopolitical tensions, and loss, particularly in the face of crises like Ebola and the tragic death of Abdullah Ibrahim.",
     "palette": [
       "😢",
       "😡",
