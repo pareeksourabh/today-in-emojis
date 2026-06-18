@@ -49147,5 +49147,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-18",
+    "emojis": [
+      {
+        "char": "📱",
+        "label": "afghanistan bans smartphones for military",
+        "url": "https://www.nytimes.com/2026/06/18/world/asia/afghanistan-taliban-smartphone-ban.html",
+        "title": "Afghanistan Issues Ban on Smartphones for Civil Servants and Military",
+        "summary": "Those using their phones at work will see them smashed and face punishment, according to a written order from the Taliban government’s highest court."
+      },
+      {
+        "char": "🔫",
+        "label": "toronto police link shootings to network",
+        "url": "https://www.theguardian.com/world/2026/jun/16/toronto-police-shootings-gun-for-hire-network",
+        "title": "Toronto police link dozens of shootings to ‘multilayered’ gun-for-hire network",
+        "summary": "Young adults and teens are being recruited through apps like Telegram and paid to carry out attacks, officials say Police investigators in Toronto have said that dozens of shootings – including one at the US consulate in March – are link..."
+      },
+      {
+        "char": "⚖️",
+        "label": "jury fails to reach verdict in hitman trial",
+        "url": "https://www.bbc.com/news/articles/cz6v1qw7d0no?at_medium=RSS&at_campaign=rss",
+        "title": "Jury fails to reach verdict in Norwegian 'hitman' trial",
+        "summary": "Johannes Natland, 19, was remanded in custody and will now face a retrial."
+      },
+      {
+        "char": "🌍",
+        "label": "ghana advances reparatory justice",
+        "url": "https://www.theguardian.com/news/2026/jun/17/ghana-to-advance-reparatory-justice-at-first-major-gathering-since-landmark-un-resolution",
+        "title": "Ghana to advance reparatory justice at first major gathering since landmark UN resolution",
+        "summary": "Heads of state and participants from more than 80 countries at three-day event in Accra to pursue actionable commitments to reconciliation and restitution Ghana is hosting a conference to advance the continent’s push for reparatory justi..."
+      },
+      {
+        "char": "💰",
+        "label": "iran gets economic lifeline in deal",
+        "url": "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html",
+        "title": "Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal",
+        "summary": "The agreement delays the most difficult steps for Iran for later talks, while granting it crucial benefits."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
