@@ -49059,5 +49059,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-18",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "trump defends iran deal",
+        "url": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-peace-deal-obama.html",
+        "title": "Trump Angrily Defends Iran Deal and Reveals, Again, His Obsession With Obama",
+        "summary": "President Trump denied that the United States would be part of a $300 billion rebuilding fund for Iran and argued that his agreement was better than the one Barack Obama struck in 2015."
+      },
+      {
+        "char": "🔫",
+        "label": "toronto police shootings network",
+        "url": "https://www.theguardian.com/world/2026/jun/16/toronto-police-shootings-gun-for-hire-network",
+        "title": "Toronto police link dozens of shootings to ‘multilayered’ gun-for-hire network",
+        "summary": "Young adults and teens are being recruited through apps like Telegram and paid to carry out attacks, officials say Police investigators in Toronto have said that dozens of shootings – including one at the US consulate in March – are link..."
+      },
+      {
+        "char": "👦",
+        "label": "boy injured in us airstrike",
+        "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
+        "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
+        "summary": "Abdiqadir Salah was pierced by shrapnel in a bombing that killed 12 in Somalia. But as the US denies civilians were hurt they face no hope of compensation Read more: Killed walking home from school: why did Somali children become targets..."
+      },
+      {
+        "char": "🦠",
+        "label": "search for ebola patient",
+        "url": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
+        "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
+        "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear."
+      },
+      {
+        "char": "🌍",
+        "label": "ghana reparatory justice gathering",
+        "url": "https://www.theguardian.com/news/2026/jun/17/ghana-to-advance-reparatory-justice-at-first-major-gathering-since-landmark-un-resolution",
+        "title": "Ghana to advance reparatory justice at first major gathering since landmark UN resolution",
+        "summary": "Heads of state and participants from more than 80 countries at three-day event in Accra to pursue actionable commitments to reconciliation and restitution Ghana is hosting a conference to advance the continent’s push for reparatory justi..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
