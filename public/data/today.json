@@ -1,13 +1,34 @@
 {
   "date": "2026-06-19",
-  "timestamp": "2026-06-19T00:00:00Z",
+  "timestamp": "2026-06-19T09:08:07Z",
   "emojis": [
     {
-      "char": "🏟️",
-      "label": "japan fans clean world cup stadium",
-      "url": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
-      "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
-      "summary": "Some see a double standard: Japanese men who clean in public while their wives do all the housework."
+      "char": "🇮🇷",
+      "label": "iran and us understanding on deal",
+      "url": "https://www.nytimes.com/2026/06/18/world/europe/iran-united-states-deal-israel.html",
+      "title": "Iran and the U.S. Have an Understanding. Will It Lead to a Deal?",
+      "summary": "Europe and the larger world will be watching carefully to see if talks produce a lasting agreement on Iran’s nuclear program and the Strait of Hormuz."
+    },
+    {
+      "char": "⚽",
+      "label": "protest against world cup sponsor",
+      "url": "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game",
+      "title": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
+      "summary": "Focus on business dealings with mining company Guadalajara rally to highlight fate of ‘disappeared’ Hyundai will be targeted by protesters at a rally before the Group A game between Mexico and South Korea in Guadalajara on Thursday, due..."
+    },
+    {
+      "char": "💔",
+      "label": "boy injured in us airstrike needs help",
+      "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
+      "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
+      "summary": "Abdiqadir Salah was pierced by shrapnel in a bombing that killed 12 in Somalia. But as the US denies civilians were hurt they face no hope of compensation Read more: Killed walking home from school: why did Somali children become targets..."
+    },
+    {
+      "char": "🛩️",
+      "label": "gunmen attack major airport in niger",
+      "url": "https://www.nytimes.com/2026/06/18/world/africa/niger-armed-attack-airport.html",
+      "title": "Gunmen Attack a Major Airport in Niger",
+      "summary": "A militant group claimed responsibility for the early-morning assault on Niamey airport, the second such attack in the West African country this year."
     },
     {
       "char": "📚",
@@ -15,27 +36,6 @@
       "url": "https://www.nytimes.com/2026/06/19/world/europe/france-education-high-school-philosophy.html",
       "title": "What Does It All Mean? Once a Year, French Students Try to Explain.",
       "summary": "The high school philosophy exam is a rite of passage for French students. This year included questions about Friedrich Nietzsche’s 1878 book, “Human, All Too Human.”"
-    },
-    {
-      "char": "🔫",
-      "label": "toronto shooting suspect arrested",
-      "url": "https://www.nytimes.com/2026/06/18/world/canada/toronto-police-shooting-suspect-arrest.html",
-      "title": "19-Year-Old Suspect in Consulate Shooting Arrested at Toronto Airport",
-      "summary": "The teen had fled from the police during a raid at an apartment building that set off a shootout, which left an officer dead and another suspect injured."
-    },
-    {
-      "char": "🌳",
-      "label": "major oak tree of robin hood dies",
-      "url": "https://www.nytimes.com/2026/06/18/world/europe/major-oak-tree-dies.html",
-      "title": "The Major Oak, Ancient Tree of Robin Hood Legend, Has Died",
-      "summary": "The Major Oak in the Sherwood Forest was between 800 and 1,200 years old. It succumbed to a combination of over-tourism, climate change and misguided efforts to save it."
-    },
-    {
-      "char": "🤝",
-      "label": "barbados reparations manifesto",
-      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
-      "title": "Barbados prime minister announces manifesto for slavery reparations",
-      "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical an..."
     }
   ],
   "source": "ai-openai",

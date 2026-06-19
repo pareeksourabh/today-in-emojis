@@ -49279,5 +49279,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-19",
+    "emojis": [
+      {
+        "char": "🇮🇷",
+        "label": "iran and us understanding on deal",
+        "url": "https://www.nytimes.com/2026/06/18/world/europe/iran-united-states-deal-israel.html",
+        "title": "Iran and the U.S. Have an Understanding. Will It Lead to a Deal?",
+        "summary": "Europe and the larger world will be watching carefully to see if talks produce a lasting agreement on Iran’s nuclear program and the Strait of Hormuz."
+      },
+      {
+        "char": "⚽",
+        "label": "protest against world cup sponsor",
+        "url": "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game",
+        "title": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
+        "summary": "Focus on business dealings with mining company Guadalajara rally to highlight fate of ‘disappeared’ Hyundai will be targeted by protesters at a rally before the Group A game between Mexico and South Korea in Guadalajara on Thursday, due..."
+      },
+      {
+        "char": "💔",
+        "label": "boy injured in us airstrike needs help",
+        "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
+        "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
+        "summary": "Abdiqadir Salah was pierced by shrapnel in a bombing that killed 12 in Somalia. But as the US denies civilians were hurt they face no hope of compensation Read more: Killed walking home from school: why did Somali children become targets..."
+      },
+      {
+        "char": "🛩️",
+        "label": "gunmen attack major airport in niger",
+        "url": "https://www.nytimes.com/2026/06/18/world/africa/niger-armed-attack-airport.html",
+        "title": "Gunmen Attack a Major Airport in Niger",
+        "summary": "A militant group claimed responsibility for the early-morning assault on Niamey airport, the second such attack in the West African country this year."
+      },
+      {
+        "char": "📚",
+        "label": "french students explain philosophy",
+        "url": "https://www.nytimes.com/2026/06/19/world/europe/france-education-high-school-philosophy.html",
+        "title": "What Does It All Mean? Once a Year, French Students Try to Explain.",
+        "summary": "The high school philosophy exam is a rite of passage for French students. This year included questions about Friedrich Nietzsche’s 1878 book, “Human, All Too Human.”"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
