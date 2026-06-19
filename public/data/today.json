@@ -1,41 +1,41 @@
 {
   "date": "2026-06-19",
-  "timestamp": "2026-06-19T00:00:00Z",
+  "timestamp": "2026-06-19T12:09:18Z",
   "emojis": [
     {
-      "char": "✈️",
-      "label": "gunmen attack airport in niger",
+      "char": "🇮🇷",
+      "label": "iran and us deal analysis",
+      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "title": "What Iran and US get from deal and why both could struggle to keep it",
+      "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war."
+    },
+    {
+      "char": "🇫🇷",
+      "label": "french students explain philosophy",
+      "url": "https://www.nytimes.com/2026/06/19/world/europe/france-education-high-school-philosophy.html",
+      "title": "What Does It All Mean? Once a Year, French Students Try to Explain.",
+      "summary": "The high school philosophy exam is a rite of passage for French students. This year included questions about Friedrich Nietzsche’s 1878 book, “Human, All Too Human.”"
+    },
+    {
+      "char": "🛩️",
+      "label": "niger airport attack",
       "url": "https://www.nytimes.com/2026/06/18/world/africa/niger-armed-attack-airport.html",
       "title": "Gunmen Attack a Major Airport in Niger",
       "summary": "A militant group claimed responsibility for the early-morning assault on Niamey airport, the second such attack in the West African country this year."
     },
     {
-      "char": "📰",
-      "label": "mexico targets journalists",
-      "url": "https://www.nytimes.com/2026/06/19/world/americas/mexico-politicians-silence-journalists.html",
-      "title": "Mexico’s Laws Have a New Target: Journalists",
-      "summary": "Politicians and officials in Mexico are using the country’s laws to intimidate critics and the media, forcing them into censorship and blunting scrutiny."
+      "char": "🌿",
+      "label": "cannabis commercialization study",
+      "url": "https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study",
+      "title": "Cannabis commercialisation not decriminalisation drives up usage, study finds",
+      "summary": "Review reveals rise in users and rates of psychosis in countries where cannabis is sold commercially Decriminalising the possession of cannabis or strictly regulating access to the drug do not appear to drive up usage, but when the drug..."
     },
     {
-      "char": "💥",
-      "label": "ukraine strikes moscow",
-      "url": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
-      "title": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
-      "summary": "The drone attack that sent plumes of smoke rising over Moscow intensified Ukrainian hopes of bringing the war to Russia."
-    },
-    {
-      "char": "🦏",
-      "label": "south africa rhino horn case",
-      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
-      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
-      "summary": "‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrest Two traffickers of rhino horns have been sentenced by a South African court in what police said was the world’s largest such case, pa..."
-    },
-    {
-      "char": "💰",
-      "label": "barbados slavery reparations",
-      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
-      "title": "Barbados prime minister announces manifesto for slavery reparations",
-      "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical an..."
+      "char": "⚖️",
+      "label": "brazilian court conviction",
+      "url": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
+      "title": "Jair Bolsonaro’s son sentenced to four years in jail for seeking US interference in father’s Brazil coup trial",
+      "summary": "Brazil supreme court finds that Eduardo Bolsonaro – who resides in the US - tried to get sanctions put on judges trying ex-president over coup plot Brazil’s supreme court has sentenced Eduardo Bolsonaro to four years and two months in pr..."
     }
   ],
   "source": "ai-openai",
