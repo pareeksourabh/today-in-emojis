@@ -1,43 +1,204 @@
 {
   "date": "2026-06-19",
-  "timestamp": "2026-06-19T17:45:14Z",
+  "timestamp": "2026-06-19T00:00:00Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "bolsonaro sentenced for coup trial",
-      "url": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
-      "title": "Jair Bolsonaro’s son sentenced to four years in jail for seeking US interference in father’s Brazil coup trial",
-      "summary": "Brazil supreme court finds that Eduardo Bolsonaro – who resides in the US - tried to get sanctions put on judges trying ex-president over coup plot Brazil’s supreme court has sentenced Eduardo Bolsonaro to four years and two months in pr..."
+      "char": "🩺",
+      "label": "boy injured in us airstrike needs surgery",
+      "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
+      "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
+      "summary": "Abdiqadir Salah was pierced by shrapnel in a bombing that killed 12 in Somalia. But as the US denies civilians were hurt they face no hope of compensation Read more: Killed walking home from school: why did Somali children become targets..."
+    },
+    {
+      "char": "🇮🇱",
+      "label": "trump's deal faces scrutiny from israel",
+      "url": "https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal",
+      "title": "Vance Issues Blunt Warning to Israel as He Defends Trump’s Deal",
+      "summary": "The vice president delivered a rebuke to Israeli critics of the agreement, warning them not to alienate their most important ally, as the administration sought to rebut mounting criticism of the deal."
+    },
+    {
+      "char": "🏺",
+      "label": "ancient pits near stonehenge reveal rituals",
+      "url": "https://www.nytimes.com/2026/06/18/world/europe/uk-pits-stonehenge-britain-discovery.html",
+      "title": "In Ancient Pits Near Stonehenge, Scientists See Hints of Solstice Ritual",
+      "summary": "British archaeologists may have found the remains of a site where people celebrated the solstice thousands of years ago, a few miles from the famed stone circle."
+    },
+    {
+      "char": "🔫",
+      "label": "toronto police link shootings to gun network",
+      "url": "https://www.theguardian.com/world/2026/jun/16/toronto-police-shootings-gun-for-hire-network",
+      "title": "Toronto police link dozens of shootings to ‘multilayered’ gun-for-hire network",
+      "summary": "Young adults and teens are being recruited through apps like Telegram and paid to carry out attacks, officials say Police investigators in Toronto have said that dozens of shootings – including one at the US consulate in March – are link..."
     },
     {
       "char": "🌍",
-      "label": "global reparations framework adopted",
-      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
-      "title": "Global framework for reparatory justice adopted at landmark conference in Ghana",
-      "summary": "Ensuring fair compensation for those affected by legacies of enslavement and measures to address debt burdens, part of 18-point strategic roadmap More than money: the logic of slavery reparations A global framework for reparatory justice..."
+      "label": "barbados prime minister on slavery reparations",
+      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
+      "title": "Barbados prime minister announces manifesto for slavery reparations",
+      "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical an..."
     },
     {
-      "char": "🦠",
-      "label": "ebola patient found safe",
-      "url": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
-      "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
-      "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear."
+      "char": "🇮🇷",
+      "label": "iran and us deal discussions",
+      "url": "https://www.nytimes.com/2026/06/18/world/europe/iran-united-states-deal-israel.html",
+      "title": "Iran and the U.S. Have an Understanding. Will It Lead to a Deal?",
+      "summary": "Europe and the larger world will be watching carefully to see if talks produce a lasting agreement on Iran’s nuclear program and the Strait of Hormuz."
     },
     {
-      "char": "🚀",
-      "label": "ukraine's missile strategy revealed",
+      "char": "📱",
+      "label": "afghanistan smartphone ban",
+      "url": "https://www.nytimes.com/2026/06/18/world/asia/afghanistan-taliban-smartphone-ban.html",
+      "title": "Afghanistan Issues Ban on Smartphones for Civil Servants and Military",
+      "summary": "Those using their phones at work will see them smashed and face punishment, according to a written order from the Taliban government’s highest court."
+    },
+    {
+      "char": "🦏",
+      "label": "south africa rhino horn case",
+      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
+      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
+      "summary": "‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrest Two traffickers of rhino horns have been sentenced by a South African court in what police said was the world’s largest such case, pa..."
+    },
+    {
+      "char": "🌄",
+      "label": "stonehenge solstice rituals",
+      "url": "https://www.nytimes.com/2026/06/18/world/europe/uk-pits-stonehenge-britain-discovery.html",
+      "title": "In Ancient Pits Near Stonehenge, Scientists See Hints of Solstice Ritual",
+      "summary": "British archaeologists may have found the remains of a site where people celebrated the solstice thousands of years ago, a few miles from the famed stone circle."
+    },
+    {
+      "char": "💰",
+      "label": "barbados slavery reparations",
+      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
+      "title": "Barbados prime minister announces manifesto for slavery reparations",
+      "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical an..."
+    },
+    {
+      "char": "🏟️",
+      "label": "japan fans clean world cup stadium",
+      "url": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
+      "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
+      "summary": "Some see a double standard: Japanese men who clean in public while their wives do all the housework."
+    },
+    {
+      "char": "📚",
+      "label": "french students explain philosophy",
+      "url": "https://www.nytimes.com/2026/06/19/world/europe/france-education-high-school-philosophy.html",
+      "title": "What Does It All Mean? Once a Year, French Students Try to Explain.",
+      "summary": "The high school philosophy exam is a rite of passage for French students. This year included questions about Friedrich Nietzsche’s 1878 book, “Human, All Too Human.”"
+    },
+    {
+      "char": "🔫",
+      "label": "toronto shooting suspect arrested",
+      "url": "https://www.nytimes.com/2026/06/18/world/canada/toronto-police-shooting-suspect-arrest.html",
+      "title": "19-Year-Old Suspect in Consulate Shooting Arrested at Toronto Airport",
+      "summary": "The teen had fled from the police during a raid at an apartment building that set off a shootout, which left an officer dead and another suspect injured."
+    },
+    {
+      "char": "🌳",
+      "label": "major oak tree of robin hood dies",
+      "url": "https://www.nytimes.com/2026/06/18/world/europe/major-oak-tree-dies.html",
+      "title": "The Major Oak, Ancient Tree of Robin Hood Legend, Has Died",
+      "summary": "The Major Oak in the Sherwood Forest was between 800 and 1,200 years old. It succumbed to a combination of over-tourism, climate change and misguided efforts to save it."
+    },
+    {
+      "char": "🤝",
+      "label": "barbados reparations manifesto",
+      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
+      "title": "Barbados prime minister announces manifesto for slavery reparations",
+      "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical an..."
+    },
+    {
+      "char": "✈️",
+      "label": "gunmen attack airport in niger",
+      "url": "https://www.nytimes.com/2026/06/18/world/africa/niger-armed-attack-airport.html",
+      "title": "Gunmen Attack a Major Airport in Niger",
+      "summary": "A militant group claimed responsibility for the early-morning assault on Niamey airport, the second such attack in the West African country this year."
+    },
+    {
+      "char": "📰",
+      "label": "mexico targets journalists",
+      "url": "https://www.nytimes.com/2026/06/19/world/americas/mexico-politicians-silence-journalists.html",
+      "title": "Mexico’s Laws Have a New Target: Journalists",
+      "summary": "Politicians and officials in Mexico are using the country’s laws to intimidate critics and the media, forcing them into censorship and blunting scrutiny."
+    },
+    {
+      "char": "💥",
+      "label": "ukraine strikes moscow",
       "url": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
       "title": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
       "summary": "The drone attack that sent plumes of smoke rising over Moscow intensified Ukrainian hopes of bringing the war to Russia."
     },
     {
+      "char": "🦏",
+      "label": "south africa rhino horn case",
+      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
+      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
+      "summary": "‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrest Two traffickers of rhino horns have been sentenced by a South African court in what police said was the world’s largest such case, pa..."
+    },
+    {
+      "char": "💰",
+      "label": "barbados slavery reparations",
+      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
+      "title": "Barbados prime minister announces manifesto for slavery reparations",
+      "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical an..."
+    },
+    {
+      "char": "🌿",
+      "label": "cannabis usage study findings",
+      "url": "https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study",
+      "title": "Cannabis commercialisation not decriminalisation drives up usage, study finds",
+      "summary": "Review reveals rise in users and rates of psychosis in countries where cannabis is sold commercially Decriminalising the possession of cannabis or strictly regulating access to the drug do not appear to drive up usage, but when the drug..."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola patient recovery news",
+      "url": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
+      "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
+      "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear."
+    },
+    {
+      "char": "🦏",
+      "label": "rhino horn trafficking sentencing",
+      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
+      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
+      "summary": "‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrest Two traffickers of rhino horns have been sentenced by a South African court in what police said was the world’s largest such case, pa..."
+    },
+    {
+      "char": "🇬🇧",
+      "label": "burnham's pm potential",
+      "url": "https://www.nytimes.com/2026/06/19/world/europe/burnham-prime-minister-starmer-uk.html",
+      "title": "How Quickly Could Andy Burnham Become U.K. Prime Minister?",
+      "summary": "While Mr. Burnham’s leadership ambitions are clear, Prime Minister Keir Starmer has stated that he would fight any challenge."
+    },
+    {
       "char": "⚽",
-      "label": "protests against world cup sponsor",
+      "label": "world cup sponsor protests",
       "url": "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game",
       "title": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
       "summary": "Focus on business dealings with mining company Guadalajara rally to highlight fate of ‘disappeared’ Hyundai will be targeted by protesters at a rally before the Group A game between Mexico and South Korea in Guadalajara on Thursday, due..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Sorrow",
+    "emoji": "😢",
+    "rationale": "The news items reflect a significant amount of distressing events, including violence against civilians, environmental loss, and systemic injustices, leading to an overall feeling of sorrow.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
