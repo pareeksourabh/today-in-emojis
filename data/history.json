@@ -49587,5 +49587,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-20",
+    "emojis": [
+      {
+        "char": "⚔️",
+        "label": "israel and hezbollah strikes continue",
+        "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+        "summary": "Deaths are reported in southern Lebanon, with the IDF saying it hit Hezbollah targets after the group fired over 50 projectiles at Israeli forces."
+      },
+      {
+        "char": "🇮🇹",
+        "label": "meloni denies trump's claims",
+        "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+        "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+        "summary": "The highly public exchange is an indication that their earlier close ties have frayed since Trump's decision to go to war with Iran."
+      },
+      {
+        "char": "🇨🇴",
+        "label": "ivan cepeda's presidential bid",
+        "url": "https://www.nytimes.com/2026/06/20/world/americas/ivan-cepeda-colombia-president-election.html",
+        "title": "Trump Called Iván Cepeda a ‘Radical Left Marxist.’ Can He Be Colombia’s President?",
+        "summary": "Iván Cepeda was caught off guard by a right-wing outsider and anti-leftist anger. He tells The Times he is not giving up."
+      },
+      {
+        "char": "🚢",
+        "label": "titan sub design flaws report",
+        "url": "https://www.theguardian.com/world/2026/jun/17/titan-sub-design-flaws-company-groupthink-report",
+        "title": "Titan sub: design flaws and company groupthink central to catastrophe, report finds",
+        "summary": "Canadian officials find structural defects in material used for hull and say firm failed to fully test ‘novel’ design Canadian safety officials have issued a damning report on the catastrophic final voyage of the Titan submersible, findi..."
+      },
+      {
+        "char": "🌍",
+        "label": "global reparations framework adopted",
+        "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
+        "title": "Global framework for reparatory justice adopted at landmark conference in Ghana",
+        "summary": "Ensuring fair compensation for those affected by legacies of enslavement and measures to address debt burdens, part of 18-point strategic roadmap More than money: the logic of slavery reparations A global framework for reparatory justice..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
