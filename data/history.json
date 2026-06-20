@@ -49631,5 +49631,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-20",
+    "emojis": [
+      {
+        "char": "🇿🇦",
+        "label": "us halts funding for hiv in south africa",
+        "url": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+        "title": "US to stop funding HIV programmes in South Africa",
+        "summary": "More than eight million South Africans are living with HIV – the highest number of any country in the world."
+      },
+      {
+        "char": "💰",
+        "label": "cdc allocates funds for ebola response",
+        "url": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
+        "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
+        "summary": "Number of people infected now tops 1,000 though health officials say the global risk remains low Sign up for the Breaking News US newsletter email The Centers for Disease Control and Prevention (CDC) will tap $107m in emergency funding f..."
+      },
+      {
+        "char": "🇨🇴",
+        "label": "colombia's presidential election heats up",
+        "url": "https://www.nytimes.com/2026/06/20/world/americas/colombia-election-abelardo-de-la-espriella.html",
+        "title": "Abelardo De La Espriella, Right-Wing Outsider, Could Be Colombia’s Next President",
+        "summary": "President Trump endorsed Abelardo De La Espriella, the conservative presidential candidate in Sunday’s election who has strong U.S. ties."
+      },
+      {
+        "char": "🚢",
+        "label": "titan sub report reveals design flaws",
+        "url": "https://www.theguardian.com/world/2026/jun/17/titan-sub-design-flaws-company-groupthink-report",
+        "title": "Titan sub: design flaws and company groupthink central to catastrophe, report finds",
+        "summary": "Canadian officials find structural defects in material used for hull and say firm failed to fully test ‘novel’ design Canadian safety officials have issued a damning report on the catastrophic final voyage of the Titan submersible, findi..."
+      },
+      {
+        "char": "🌍",
+        "label": "global reparations framework adopted in ghana",
+        "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
+        "title": "Global framework for reparatory justice adopted at landmark Ghana conference",
+        "summary": "Call for formal apologies from countries that benefited from transatlantic trade slave included in 19-point roadmap More than money: the logic of slavery reparations A global framework for reparatory justice has been adopted at a confere..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
