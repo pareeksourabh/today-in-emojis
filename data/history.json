@@ -49719,5 +49719,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-21",
+    "emojis": [
+      {
+        "char": "🇿🇦",
+        "label": "us stops funding hiv in south africa",
+        "url": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+        "title": "US to stop funding HIV programmes in South Africa",
+        "summary": "More than eight million South Africans are living with HIV – the highest number of any country in the world."
+      },
+      {
+        "char": "🇨🇴",
+        "label": "ivan cepeda's presidential bid in colombia",
+        "url": "https://www.nytimes.com/2026/06/20/world/americas/ivan-cepeda-colombia-president-election.html",
+        "title": "Trump Called Iván Cepeda a ‘Radical Left Marxist.’ Can He Be Colombia’s President?",
+        "summary": "Iván Cepeda was caught off guard by a right-wing outsider and anti-leftist anger. He tells The Times he is not giving up."
+      },
+      {
+        "char": "🦠",
+        "label": "cdc emergency funding for ebola response",
+        "url": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
+        "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
+        "summary": "Number of people infected now tops 1,000 though health officials say the global risk remains low Sign up for the Breaking News US newsletter email The Centers for Disease Control and Prevention (CDC) will tap $107m in emergency funding f..."
+      },
+      {
+        "char": "🌍",
+        "label": "global reparatory justice framework adopted",
+        "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
+        "title": "Global framework for reparatory justice adopted at landmark Ghana conference",
+        "summary": "Call for formal apologies from countries that benefited from transatlantic trade slave included in 19-point roadmap More than money: the logic of slavery reparations A global framework for reparatory justice has been adopted at a confere..."
+      },
+      {
+        "char": "🔥",
+        "label": "huge blaze in dominican republic resort",
+        "url": "https://www.nytimes.com/2026/06/20/world/americas/dominican-republic-fire.html",
+        "title": "Huge Blaze Ravages Dominican Republic Beach Resort",
+        "summary": "The fire on Friday forced the emergency evacuation of nearly 1,700 guests. Authorities said at least one person, an Italian tourist, was killed."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
