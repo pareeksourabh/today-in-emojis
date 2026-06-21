@@ -1,204 +1,43 @@
 {
-  "date": "2026-06-20",
-  "timestamp": "2026-06-20T00:00:00Z",
+  "date": "2026-06-21",
+  "timestamp": "2026-06-21T00:00:00Z",
   "emojis": [
     {
-      "char": "🇧🇧",
-      "label": "barbados reparations manifesto",
-      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
-      "title": "Barbados prime minister announces manifesto for slavery reparations",
-      "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical an..."
+      "char": "🚨",
+      "label": "bolivian president declares emergency",
+      "url": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
+      "title": "Bolivian president declares state of emergency",
+      "summary": "The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia."
     },
     {
-      "char": "📰",
-      "label": "burnham's election victory",
-      "url": "https://www.nytimes.com/2026/06/19/world/europe/andy-burnham-election-uk-starmer-makerfield.html",
-      "title": "Burnham’s Stunning Victory in Makerfield Election May Trigger Starmer’s Last Stand",
-      "summary": "Andy Burnham, a Labour mayor, won a resounding majority in a special election on Thursday, making him eligible to challenge Prime Minister Keir Starmer for the country’s leadership."
-    },
-    {
-      "char": "🌍",
-      "label": "global reparatory justice framework",
-      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
-      "title": "Global framework for reparatory justice adopted at landmark conference in Ghana",
-      "summary": "Ensuring fair compensation for those affected by legacies of enslavement and measures to address debt burdens, part of 18-point strategic roadmap More than money: the logic of slavery reparations A global framework for reparatory justice..."
-    },
-    {
-      "char": "💉",
-      "label": "us ends aids funding in south africa",
-      "url": "https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html",
-      "title": "U.S. to End AIDS Funding for South Africa",
-      "summary": "According to an unsigned statement from the State Department, the U.S. will phase out support for H.I.V. prevention and treatment in South Africa."
-    },
-    {
-      "char": "🐾",
-      "label": "boy's heartwarming chicken rescue",
-      "url": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
-      "title": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
-      "summary": "Markos's beloved hen was not responding to any treatments - so he did the only thing he could think of."
-    },
-    {
-      "char": "⚽",
-      "label": "world cup cleaning initiative",
-      "url": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
-      "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
-      "summary": "Some see a double standard: Japanese men who clean in public while their wives do all the housework."
-    },
-    {
-      "char": "🇮🇹",
-      "label": "meloni denies trump's claims",
-      "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
-      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-      "summary": "The highly public exchange is an indication that their earlier close ties have frayed since Trump's decision to go to war with Iran."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola patient found safe",
-      "url": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
-      "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
-      "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear."
-    },
-    {
-      "char": "🌍",
-      "label": "slavery reparations manifesto",
-      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
-      "title": "Barbados prime minister announces manifesto for slavery reparations",
-      "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical an..."
-    },
-    {
-      "char": "💔",
-      "label": "rhino horn trafficking case",
-      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
-      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
-      "summary": "‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrest Two traffickers of rhino horns have been sentenced by a South African court in what police said was the world’s largest such case, pa..."
-    },
-    {
-      "char": "🌍",
-      "label": "apology for transatlantic slavery",
-      "url": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
-      "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
-      "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation."
-    },
-    {
-      "char": "🎬",
-      "label": "legendary director james burrows dies",
-      "url": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss",
-      "title": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
-      "summary": "Best-known as co-creator of sitcom Cheers, Burrows directed more than 1,000 episodes of other classics including the Big Bang Theory and Will and Grace."
-    },
-    {
-      "char": "🔫",
-      "label": "toronto police shootings linked to network",
-      "url": "https://www.theguardian.com/world/2026/jun/16/toronto-police-shootings-gun-for-hire-network",
-      "title": "Toronto police link dozens of shootings to ‘multilayered’ gun-for-hire network",
-      "summary": "Young adults and teens are being recruited through apps like Telegram and paid to carry out attacks, officials say Police investigators in Toronto have said that dozens of shootings – including one at the US consulate in March – are link..."
-    },
-    {
-      "char": "⚖️",
-      "label": "frank stronach convicted of assault",
-      "url": "https://www.nytimes.com/2026/06/19/world/canada/frank-stronach-trial-guilty-sex-charges.html",
-      "title": "Canadian Billionaire Frank Stronach Is Convicted of Sexual and Indecent Assault",
-      "summary": "Mr. Stronach, 93, was found guilty of sexual assault and indecent assault in two cases and acquitted on three other charges."
-    },
-    {
-      "char": "⚽",
-      "label": "protesters rally against world cup sponsor",
-      "url": "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game",
-      "title": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
-      "summary": "Focus on business dealings with mining company Guadalajara rally to highlight fate of ‘disappeared’ Hyundai will be targeted by protesters at a rally before the Group A game between Mexico and South Korea in Guadalajara on Thursday, due..."
-    },
-    {
-      "char": "🇺🇸",
-      "label": "us ambassador riles paris",
-      "url": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
-      "title": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
-      "summary": "The U.S. envoy to Paris has emerged as the embodiment of combative diplomacy in the age of President Trump, riling the French establishment notably with his accusations of antisemitism."
-    },
-    {
-      "char": "⚽",
-      "label": "cape verde vs uruguay",
-      "url": "https://www.nytimes.com/2026/06/20/world/africa/cape-verde-world-cup-uruguay.html",
-      "title": "Cape Verde Will Count on Vozinha Against Uruguay at the World Cup",
-      "summary": "Cape Verde’s veteran goalkeeper, Vozinha, is keeping the archipelago nation’s hopes outsized after his performance against soccer giant Spain."
-    },
-    {
-      "char": "📜",
-      "label": "barbados reparations manifesto",
-      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
-      "title": "Barbados prime minister announces manifesto for slavery reparations",
-      "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical an..."
-    },
-    {
-      "char": "🌍",
-      "label": "global reparatory justice framework",
-      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
-      "title": "Global framework for reparatory justice adopted at landmark conference in Ghana",
-      "summary": "Ensuring fair compensation for those affected by legacies of enslavement and measures to address debt burdens, part of 18-point strategic roadmap More than money: the logic of slavery reparations A global framework for reparatory justice..."
-    },
-    {
-      "char": "🦏",
-      "label": "rhino horn trafficking case",
-      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
-      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
-      "summary": "‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrest Two traffickers of rhino horns have been sentenced by a South African court in what police said was the world’s largest such case, pa..."
-    },
-    {
-      "char": "🚑",
-      "label": "boy injured in us airstrike",
+      "char": "🩺",
+      "label": "boy injured in us airstrike needs surgery",
       "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
       "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
       "summary": "Abdiqadir Salah was pierced by shrapnel in a bombing that killed 12 in Somalia. But as the US denies civilians were hurt they face no hope of compensation Read more: Killed walking home from school: why did Somali children become targets..."
     },
     {
-      "char": "🍾",
-      "label": "korean island's quest for survival",
-      "url": "https://www.nytimes.com/2026/06/20/world/asia/korea-bigeum-champagne-festival.html",
-      "title": "A 175-Year-Old Shipwreck, Lots of Booze and a Korean Island’s Quest to Survive",
-      "summary": "A South Korean island is reviving a long‑forgotten episode involving a French whaler as a wine festival, in an effort to stay relevant."
+      "char": "✊",
+      "label": "barbados prime minister on reparations",
+      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
+      "title": "Barbados prime minister announces manifesto for slavery reparations",
+      "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical an..."
     },
     {
-      "char": "🗳️",
-      "label": "uk electoral dynamics shift",
-      "url": "https://www.nytimes.com/2026/06/20/world/europe/burnham-starmer-labour-uk-reform.html",
-      "title": "After Andy Burnham’s Win, the UK Is Set to Test How Far Charisma Can Shift Electoral Dynamics",
-      "summary": "The governing Labour Party may oust Prime Minister Keir Starmer in favor of the more popular Andy Burnham — who will still face all the same challenges."
+      "char": "🐾",
+      "label": "south african men sentenced for rhino horn",
+      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
+      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
+      "summary": "‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrest Two traffickers of rhino horns have been sentenced by a South African court in what police said was the world’s largest such case, pa..."
     },
     {
       "char": "🌍",
-      "label": "global reparatory justice framework",
+      "label": "global framework for reparatory justice",
       "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
       "title": "Global framework for reparatory justice adopted at landmark Ghana conference",
       "summary": "Call for formal apologies from countries that benefited from transatlantic trade slave included in 19-point roadmap More than money: the logic of slavery reparations A global framework for reparatory justice has been adopted at a confere..."
-    },
-    {
-      "char": "🚆",
-      "label": "trains collide in uk",
-      "url": "https://www.nytimes.com/2026/06/19/world/europe/uk-trains-collide-bedford-england.html",
-      "title": "Trains Collide in UK, Killing at Least One and Injuring Dozens of Others",
-      "summary": "At least one person was killed and dozens of others were injured in the crash near Bedford, England, the authorities said."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Concern",
-    "emoji": "⚖️",
-    "rationale": "The day highlights significant discussions around justice, reparations for slavery, and serious social issues, reflecting a collective concern for historical and current injustices.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
