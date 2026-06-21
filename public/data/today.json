@@ -3,39 +3,39 @@
   "timestamp": "2026-06-21T00:00:00Z",
   "emojis": [
     {
-      "char": "🚆",
-      "label": "trains collide in the uk",
-      "url": "https://www.nytimes.com/2026/06/19/world/europe/uk-trains-collide-bedford-england.html",
-      "title": "Trains Collide in UK, Killing at Least One and Injuring Dozens of Others",
-      "summary": "At least one person was killed and dozens of others were injured in the crash near Bedford, England, the authorities said."
+      "char": "📰",
+      "label": "israeli strikes in gaza",
+      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+      "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence."
     },
     {
-      "char": "🇫🇷",
-      "label": "kushner riles paris with trump",
-      "url": "https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html",
-      "title": "Charles Kushner, U.S. Ambassador to France, Riles Paris With Trump Diplomacy",
-      "summary": "The U.S. envoy to Paris has emerged as the embodiment of combative diplomacy in the age of President Trump, riling the French establishment notably with his accusations of antisemitism."
+      "char": "🐢",
+      "label": "turtle conservationist killed",
+      "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+      "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+      "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died after several days in hospital, an environmental group said."
     },
     {
-      "char": "🩺",
-      "label": "boy injured in us airstrike",
-      "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
-      "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
-      "summary": "Abdiqadir Salah was pierced by shrapnel in a bombing that killed 12 in Somalia. But as the US denies civilians were hurt they face no hope of compensation Read more: Killed walking home from school: why did Somali children become targets..."
-    },
-    {
-      "char": "⚽",
-      "label": "protesters rally against hyundai",
-      "url": "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game",
-      "title": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
-      "summary": "Focus on business dealings with mining company Guadalajara rally to highlight fate of ‘disappeared’ Hyundai will be targeted by protesters at a rally before the Group A game between Mexico and South Korea in Guadalajara on Thursday, due..."
-    },
-    {
-      "char": "🕊️",
-      "label": "global reparations framework adopted",
+      "char": "⚖️",
+      "label": "reparatory justice framework adopted",
       "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
       "title": "Global framework for reparatory justice adopted at landmark Ghana conference",
       "summary": "Call for formal apologies from countries that benefited from transatlantic trade slave included in 19-point roadmap More than money: the logic of slavery reparations A global framework for reparatory justice has been adopted at a confere..."
+    },
+    {
+      "char": "🇨🇴",
+      "label": "colombia's brutal election conflict",
+      "url": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
+      "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
+      "summary": "A left-wing senator who backs talks with armed gangs faces an outsider endorsed by Trump."
+    },
+    {
+      "char": "🚨",
+      "label": "bolivia state of emergency declared",
+      "url": "https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests",
+      "title": "Bolivian president declares state of emergency and deploys military to quell anti-government protests",
+      "summary": "Bulldozers sent in to clear roadblocks that have stifled the country as farmers and Indigenous groups protest against conservative president Bolivia’s president declared a state of emergency on Saturday and deployed soldiers and bulldoze..."
     }
   ],
   "source": "ai-openai",
