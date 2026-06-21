@@ -49807,5 +49807,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-21",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "formal apology for slavery",
+        "url": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+        "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
+        "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation."
+      },
+      {
+        "char": "🏗️",
+        "label": "kushner project protests",
+        "url": "https://www.nytimes.com/2026/06/21/world/europe/albania-kushner-project-protests.html",
+        "title": "Luxury Kushner Project Collides With Albanian Discontent",
+        "summary": "Protests in Albania against plans for a luxury tourist site have become a cause célèbre for opponents of President Trump and his family. But the politics are local."
+      },
+      {
+        "char": "⚔️",
+        "label": "ukraine-poland alliance feud",
+        "url": "https://www.nytimes.com/2026/06/21/world/europe/ukraine-poland-alliance-russia.html",
+        "title": "Bitter Historical Feud Threatens Ukraine-Poland Alliance",
+        "summary": "President Volodymyr Zelensky of Ukraine signed a decree honoring World War II partisan fighters that has inflamed tensions with Warsaw."
+      },
+      {
+        "char": "🌿",
+        "label": "cannabis usage study",
+        "url": "https://www.theguardian.com/society/2026/jun/17/cannabis-commercialisation-not-decriminalisation-drives-up-usage-study",
+        "title": "Cannabis commercialisation not decriminalisation drives up usage, study finds",
+        "summary": "Review reveals rise in users and rates of psychosis in countries where cannabis is sold commercially Decriminalising the possession of cannabis or strictly regulating access to the drug do not appear to drive up usage, but when the drug..."
+      },
+      {
+        "char": "🗳️",
+        "label": "colombia runoff election",
+        "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
+        "title": "Colombia’s runoff election expected to trigger shift in decades-long armed conflict",
+        "summary": "Frontrunner Abelardo de la Espriella has vowed to return to full-scale military confrontation with armed groups Ghost of far-right paramilitaries hovers over Colombia’s presidential runoff vote Colombians go to the polls on Sunday in a p..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
