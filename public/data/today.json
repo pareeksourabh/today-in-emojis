@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Mixed Emotions",
-    "emoji": "😢",
-    "rationale": "The day's events reflect a blend of hope and despair, with inspiring stories of unity in the face of adversity alongside sobering news of conflict and social issues. The sad emoji captures the underlying emotional complexity of today's news",
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "Today’s news reflects a mix of emotional highs and lows, from inspiring acts of solidarity at the Comrades race to serious concerns over violence in the Philippines and escalating tensions in Ukraine and Bolivia.",
     "palette": [
       "😢",
       "😡",
