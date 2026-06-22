@@ -49939,5 +49939,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-22",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "spain pm's wife trial for corruption",
+        "url": "https://www.nytimes.com/2026/06/20/world/europe/gomez-spain-trial-corruption.html",
+        "title": "Wife of Spanish Prime Minister to Stand Trial for Corruption",
+        "summary": "Begoña Gómez faces charges of embezzlement, corruption, misappropriation of funds and influence peddling for helping favored companies win public contracts."
+      },
+      {
+        "char": "🇨🇴",
+        "label": "trump-backed outsider wins colombia election",
+        "url": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump-backed political outsider wins Colombia election, initial count shows",
+        "summary": "Abelardo de la Espriella appears to have narrowly defeated his rival Iván Cepeda, who says the preliminary count is \"not yet official or binding\"."
+      },
+      {
+        "char": "🎙️",
+        "label": "radio host knows everyone in wales?",
+        "url": "https://www.nytimes.com/2026/06/22/world/europe/elis-james-wales-radio.html",
+        "title": "Does This Radio Host Really Know Everyone in Wales?",
+        "summary": "Elis James thinks he has a friend in common with just about everyone else in Wales. Don’t believe him? Give him 60 seconds to prove it."
+      },
+      {
+        "char": "💉",
+        "label": "cdc taps emergency funding for ebola",
+        "url": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
+        "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
+        "summary": "Number of people infected now tops 1,000 though health officials say the global risk remains low Sign up for the Breaking News US newsletter email The Centers for Disease Control and Prevention (CDC) will tap $107m in emergency funding f..."
+      },
+      {
+        "char": "📚",
+        "label": "women running businesses under taliban rules",
+        "url": "https://www.nytimes.com/2026/06/21/world/asia/women-taliban-restrictions-jobs-education.html",
+        "title": "The Women Running Businesses Under Taliban Rules",
+        "summary": "With secondary education and most jobs out of reach, thousands of Afghan women have turned to entrepreneurship as the only path to make money and maintain a social life."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
