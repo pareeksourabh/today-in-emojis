@@ -49983,5 +49983,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-22",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "us-iran talks show promise",
+        "url": "https://www.nytimes.com/2026/06/22/world/europe/iran-us-peace-talks.html",
+        "title": "First Round of U.S.-Iran Talks Ends With High Hopes and Big Challenges",
+        "summary": "Mediators reported progress toward reaching a final deal within 60 days. They also said that negotiators had dwelled on issues that were supposed to be settled."
+      },
+      {
+        "char": "💥",
+        "label": "qatar gas plant explosion injures 54",
+        "url": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html",
+        "title": "Explosion at Qatar Gas Plant Leaves at Least 54 Injured",
+        "summary": "The blast happened at a key site for natural gas production. The authorities blamed a technical malfunction while operations were being restarted after the U.S.-Israeli war against Iran."
+      },
+      {
+        "char": "🏃‍♂️",
+        "label": "20,000 runners in ultramarathon",
+        "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
+        "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
+        "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the ha..."
+      },
+      {
+        "char": "🇨🇴",
+        "label": "far-right wins colombia election",
+        "url": "https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff",
+        "title": "Far-right millionaire wins Colombia’s razor-tight presidential election",
+        "summary": "Leftwing opponent alleges vote count irregularities after Trump-endorsed lawyer Abelardo de la Espriella secures narrow majority The Trump-admiring far-right millionaire lawyer and self-styled “outsider” Abelardo de la Espriella has won..."
+      },
+      {
+        "char": "🏫",
+        "label": "deadly school shooting in philippines",
+        "url": "https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html",
+        "title": "Two Boys Arrested After Deadly School Shooting in the Philippines",
+        "summary": "Three people were killed and seven wounded after two ninth graders opened fire on Monday morning in Tacloban City, the police said."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
