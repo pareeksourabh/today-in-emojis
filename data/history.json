@@ -49895,5 +49895,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-22",
+    "emojis": [
+      {
+        "char": "🦏",
+        "label": "south africa rhino horn case",
+        "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
+        "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
+        "summary": "‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrest Two traffickers of rhino horns have been sentenced by a South African court in what police said was the world’s largest such case, pa..."
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukraine-poland alliance tensions",
+        "url": "https://www.nytimes.com/2026/06/21/world/europe/ukraine-poland-alliance-russia.html",
+        "title": "Bitter Historical Feud Threatens Ukraine-Poland Alliance",
+        "summary": "President Volodymyr Zelensky of Ukraine signed a decree honoring World War II partisan fighters that has inflamed tensions with Warsaw."
+      },
+      {
+        "char": "🔥",
+        "label": "france heat alert and festival ban",
+        "url": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+        "title": "Half of France under red heat alert as alcohol banned at street music festival",
+        "summary": "Temperatures are forecast to peak on Monday, and authorities warn they could match historic highs."
+      },
+      {
+        "char": "🎨",
+        "label": "david hockney funeral held",
+        "url": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&at_campaign=rss",
+        "title": "Low-key funeral held for giant of the art world David Hockney",
+        "summary": "The artist, who passed away at his home in London earlier this month, requested just his partner and great-nephew attend."
+      },
+      {
+        "char": "👩‍💼",
+        "label": "women under taliban rules",
+        "url": "https://www.nytimes.com/2026/06/21/world/asia/women-taliban-restrictions-jobs-education.html",
+        "title": "The Women Running Businesses Under Taliban Rules",
+        "summary": "With secondary education and most jobs out of reach, thousands of Afghan women have turned to entrepreneurship as the only path to make money and maintain a social life."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
