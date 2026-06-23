@@ -50159,5 +50159,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-23",
+    "emojis": [
+      {
+        "char": "🏃‍♂️",
+        "label": "world's largest ultramarathon",
+        "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
+        "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
+        "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the ha..."
+      },
+      {
+        "char": "📰",
+        "label": "whatsapp new leadership",
+        "url": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
+        "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
+        "summary": "WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India."
+      },
+      {
+        "char": "⚔️",
+        "label": "ukraine troop build-up",
+        "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+        "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+        "summary": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east."
+      },
+      {
+        "char": "💔",
+        "label": "murder of whistleblower in ecuador",
+        "url": "https://www.theguardian.com/world/2026/jun/23/monika-silva-koniuszek-ecuador-president-family-business",
+        "title": "Whistleblower investigating Ecuadorian president’s family business was murdered, activists say",
+        "summary": "Monika Silva Koniuszek died from a blow to the head and strangulation, a postmortem found, despite government claim of suicide Campaigners in Ecuador say a Polish anti-corruption activist who investigated allegations against the family b..."
+      },
+      {
+        "char": "🌍",
+        "label": "ghana calls for slave trade apology",
+        "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
+        "title": "Ghana conference calls for formal apology for transatlantic slave trade",
+        "summary": "Global framework for reparatory justice adopted at event includes demand for compensation and debt relief More than money: the logic of slavery reparations A global framework for reparatory justice has been adopted at a conference in Gha..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
