@@ -1,204 +1,43 @@
 {
-  "date": "2026-06-22",
-  "timestamp": "2026-06-22T00:00:00Z",
+  "date": "2026-06-23",
+  "timestamp": "2026-06-23T00:00:00Z",
   "emojis": [
     {
-      "char": "🏃‍♂️",
-      "label": "world's largest ultramarathon",
-      "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
-      "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
-      "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the ha..."
+      "char": "🏥",
+      "label": "canadian healthcare scam email",
+      "url": "https://www.theguardian.com/world/2026/jun/22/canadian-healthcare-staff-scam-email-paid-day-off",
+      "title": "Canadian healthcare staff decry ‘cruel hoax’ after scam email promises paid day off",
+      "summary": "Unions condemn ‘insensitive’ internal cybersecurity test sent to healthcare workers in Newfoundland and Labrador For years, healthcare staff in the Canadian province of Newfoundland and Labrador have felt overworked and underappreciated...."
     },
     {
-      "char": "🇺🇦",
-      "label": "ukraine-poland alliance tensions",
-      "url": "https://www.nytimes.com/2026/06/21/world/europe/ukraine-poland-alliance-russia.html",
-      "title": "Bitter Historical Feud Threatens Ukraine-Poland Alliance",
-      "summary": "President Volodymyr Zelensky of Ukraine signed a decree honoring World War II partisan fighters that has inflamed tensions with Warsaw."
+      "char": "⚔️",
+      "label": "myanmar army kills civilians",
+      "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
+      "title": "Myanmar army killed over 700 civilians in six months, UN says",
+      "summary": "The new UN report says the 702 civilian deaths over six months last year included 153 children."
     },
     {
-      "char": "💰",
-      "label": "slavery reparations manifesto",
-      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
-      "title": "Barbados prime minister announces manifesto for slavery reparations",
-      "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical an..."
+      "char": "🌡️",
+      "label": "red heat alerts in europe",
+      "url": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
+      "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
+      "summary": "The heatwave conditions are forecast to intensify in the coming days across central and western Europe."
     },
     {
-      "char": "🦏",
-      "label": "rhino horn trafficking case",
-      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
-      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
-      "summary": "‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrest Two traffickers of rhino horns have been sentenced by a South African court in what police said was the world’s largest such case, pa..."
+      "char": "🇨🇴",
+      "label": "far-right wins colombia election",
+      "url": "https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff",
+      "title": "Far-right millionaire wins Colombia’s razor-tight presidential election",
+      "summary": "Leftwing opponent alleges vote count irregularities after Trump-endorsed lawyer Abelardo de la Espriella secures narrow majority A Trump-admiring far-right millionaire lawyer and self-styled “outsider” has defeated a leftwing senator by..."
     },
     {
-      "char": "🗣️",
-      "label": "women under taliban rules",
-      "url": "https://www.nytimes.com/2026/06/21/world/asia/women-taliban-restrictions-jobs-education.html",
-      "title": "The Women Running Businesses Under Taliban Rules",
-      "summary": "With secondary education and most jobs out of reach, thousands of Afghan women have turned to entrepreneurship as the only path to make money and maintain a social life."
-    },
-    {
-      "char": "🚨",
-      "label": "bolivia declares state of emergency",
-      "url": "https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests",
-      "title": "Bolivian president declares state of emergency and deploys military to quell anti-government protests",
-      "summary": "Bulldozers sent in to clear roadblocks that have stifled the country as farmers and Indigenous groups protest against conservative president Bolivia’s president declared a state of emergency on Saturday and deployed soldiers and bulldoze..."
-    },
-    {
-      "char": "🗳️",
-      "label": "colombia presidential runoff election",
-      "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
-      "title": "Colombians vote in runoff election expected to trigger shift in decades-long armed conflict",
-      "summary": "Frontrunner Abelardo de la Espriella has vowed to return to full-scale military confrontation with armed groups Ghost of far-right paramilitaries hovers over Colombia’s presidential runoff vote Colombians are going to the polls in a pres..."
-    },
-    {
-      "char": "🏗️",
-      "label": "kushner project faces protests in albania",
-      "url": "https://www.nytimes.com/2026/06/21/world/europe/albania-kushner-project-protests.html",
-      "title": "Luxury Kushner Project Collides With Albanian Discontent",
-      "summary": "Protests in Albania against plans for a luxury tourist site have become a cause célèbre for opponents of President Trump and his family. But the politics are local."
-    },
-    {
-      "char": "💼",
-      "label": "women entrepreneurs under taliban rules",
-      "url": "https://www.nytimes.com/2026/06/21/world/asia/women-taliban-restrictions-jobs-education.html",
-      "title": "The Women Running Businesses Under Taliban Rules",
-      "summary": "With secondary education and most jobs out of reach, thousands of Afghan women have turned to entrepreneurship as the only path to make money and maintain a social life."
-    },
-    {
-      "char": "💰",
-      "label": "barbados manifesto for slavery reparations",
-      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
-      "title": "Barbados prime minister announces manifesto for slavery reparations",
-      "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical an..."
-    },
-    {
-      "char": "🗳️",
-      "label": "colombia runoff election results",
-      "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
-      "title": "Colombians vote in runoff election expected to trigger shift in decades-long armed conflict",
-      "summary": "Frontrunner Abelardo de la Espriella has vowed to return to full-scale military confrontation with armed groups Ghost of far-right paramilitaries hovers over Colombia’s presidential runoff vote Colombians are going to the polls in a pres..."
-    },
-    {
-      "char": "🔫",
-      "label": "school shooting in the philippines",
-      "url": "https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html",
-      "title": "Two Boys Arrested After Deadly School Shooting in the Philippines",
-      "summary": "Three people were killed and seven wounded after two ninth graders opened fire on Monday morning in Tacloban City, the police said."
-    },
-    {
-      "char": "🌍",
-      "label": "global reparations framework adopted",
-      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
-      "title": "Global framework for reparatory justice adopted at landmark Ghana conference",
-      "summary": "Call for formal apologies from countries that benefited from transatlantic trade slave included in 19-point roadmap More than money: the logic of slavery reparations A global framework for reparatory justice has been adopted at a confere..."
-    },
-    {
-      "char": "🚨",
-      "label": "bolivia state of emergency declared",
-      "url": "https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests",
-      "title": "Bolivian president declares state of emergency and deploys military to quell anti-government protests",
-      "summary": "Bulldozers sent in to clear roadblocks that have stifled the country as farmers and Indigenous groups protest against conservative president Bolivia’s president declared a state of emergency on Saturday and deployed soldiers and bulldoze..."
-    },
-    {
-      "char": "💼",
-      "label": "women under taliban restrictions",
-      "url": "https://www.nytimes.com/2026/06/21/world/asia/women-taliban-restrictions-jobs-education.html",
-      "title": "The Women Running Businesses Under Taliban Rules",
-      "summary": "With secondary education and most jobs out of reach, thousands of Afghan women have turned to entrepreneurship as the only path to make money and maintain a social life."
-    },
-    {
-      "char": "🏃‍♂️",
-      "label": "world’s largest ultramarathon",
-      "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
-      "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
-      "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the ha..."
-    },
-    {
-      "char": "⚖️",
-      "label": "kenyan justice minister blocked",
-      "url": "https://www.bbc.com/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
-      "title": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
-      "summary": "Martha Karua is a lawyer representing detained Ugandan opposition leader Kizza Besigye who is on trial for treason."
-    },
-    {
-      "char": "🔫",
-      "label": "three dead in school shooting",
-      "url": "https://www.bbc.com/news/articles/cjegy777xw5o?at_medium=RSS&at_campaign=rss",
-      "title": "Three dead in Philippines high school shooting over bullying 'grudge'",
-      "summary": "Police say they believe the attack was motivated by a \"grudge\" over bullying."
-    },
-    {
-      "char": "🤝",
-      "label": "us-iran talks show progress",
-      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-      "title": "First round of US-Iran talks ends with encouraging progress, mediators say",
-      "summary": "The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days."
-    },
-    {
-      "char": "🌍",
-      "label": "barbados reparations manifesto",
-      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
-      "title": "Barbados prime minister announces manifesto for slavery reparations",
-      "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical an..."
-    },
-    {
-      "char": "🇮🇷",
-      "label": "us eases sanctions on iran",
-      "url": "https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon",
-      "title": "Mideast Live Updates: U.S. Eases Sanctions as Vance Says Iran Agrees to Resume Nuclear Inspections",
-      "summary": "If confirmed, the provisions would be in line with an Obama-era deal President Trump tore up in 2018. Vice President JD Vance hailed the latest round of talks as a “foundation” for lasting peace."
-    },
-    {
-      "char": "🗳️",
-      "label": "colombia runoff election results",
-      "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
-      "title": "Colombians vote in runoff election expected to trigger shift in decades-long armed conflict",
-      "summary": "Frontrunner Abelardo de la Espriella has vowed to return to full-scale military confrontation with armed groups Ghost of far-right paramilitaries hovers over Colombia’s presidential runoff vote Colombians are going to the polls in a pres..."
-    },
-    {
-      "char": "🤝",
-      "label": "barbados reparations manifesto",
-      "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
-      "title": "Barbados prime minister announces manifesto for slavery reparations",
-      "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical an..."
-    },
-    {
-      "char": "💰",
-      "label": "cdc funding for ebola response",
-      "url": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
-      "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
-      "summary": "Number of people infected now tops 1,000 though health officials say the global risk remains low Sign up for the Breaking News US newsletter email The Centers for Disease Control and Prevention (CDC) will tap $107m in emergency funding f..."
-    },
-    {
-      "char": "📚",
-      "label": "cuba's fuel crisis affects schools",
-      "url": "https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html",
-      "title": "Cuba’s Fuel Crisis Brings Schools to a Standstill",
-      "summary": "The country’s already-struggling schools are ending the academic year early because of a crippling fuel shortage caused by the U.S. oil blockade."
+      "char": "💥",
+      "label": "qatar gas explosion kills 13",
+      "url": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html",
+      "title": "Explosion at Qatar Gas Plant Kills at Least 13 and Injures 66",
+      "summary": "The blast happened at a key site for natural gas production. The authorities blamed a technical malfunction while operations were being restarted after the U.S.-Israeli war against Iran."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "Today’s news reflects a mix of emotional highs and lows, from inspiring acts of solidarity at the Comrades race to serious concerns over violence in the Philippines and escalating tensions in Ukraine and Bolivia.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
