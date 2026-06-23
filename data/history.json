@@ -50203,5 +50203,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-23",
+    "emojis": [
+      {
+        "char": "🍓",
+        "label": "british strawberries picked by workers",
+        "url": "https://www.nytimes.com/2026/06/23/world/europe/uk-brexit-seasonal-farm-workers-central-asia.html",
+        "title": "Those British Strawberries Are Being Picked by Central Asian Workers",
+        "summary": "Ten years after Brexit, most seasonal workers in Britain are from countries such as Kyrgyzstan and Tajikistan. Without them, agricultural chiefs say, many farms would fail."
+      },
+      {
+        "char": "🏃‍♂️",
+        "label": "world's largest ultramarathon",
+        "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
+        "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
+        "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the ha..."
+      },
+      {
+        "char": "🇮🇱",
+        "label": "iran asserts control over strait of hormuz",
+        "url": "https://www.nytimes.com/2026/06/23/world/middleeast/iran-control-strait-of-hormuz.html",
+        "title": "Iran Makes Moves to Assert Control Over the Strait of Hormuz",
+        "summary": "After Iran weaponized the waterway by making it too dangerous for businesses, experts say, the country is now looking to charge fees to vessels seeking to transit the vital water."
+      },
+      {
+        "char": "🎤",
+        "label": "iranian singer sentenced for hijab violation",
+        "url": "https://www.nytimes.com/2026/06/23/world/middleeast/iranian-singer-lashing-sentence.html",
+        "title": "Iranian Singer Sentenced to 74 Lashes for Performing Without Hijab",
+        "summary": "Parastoo Ahmadi and her band will also be barred from leaving the country or performing for two years, dampening hopes for a more moderate postwar regime in Iran."
+      },
+      {
+        "char": "📜",
+        "label": "barbados prime minister's reparations manifesto",
+        "url": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
+        "title": "Barbados prime minister announces manifesto for slavery reparations",
+        "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical an..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
