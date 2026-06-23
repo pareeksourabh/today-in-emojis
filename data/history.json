@@ -50247,5 +50247,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-23",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "zambia ex-president's family legal battle",
+        "url": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
+        "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
+        "summary": "Edgar Lungu's family and the Zambian government remain in dispute 12 months after he died."
+      },
+      {
+        "char": "🦠",
+        "label": "kenya halts us ebola facility construction",
+        "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
+        "title": "Kenyan minister orders halt to construction of US Ebola facility",
+        "summary": "Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya’s health minister told a court he had ordered preparations for a US-run Ebola quarantine facility to stop, after being held i..."
+      },
+      {
+        "char": "🌍",
+        "label": "uk ties with uae over sudan atrocities",
+        "url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
+        "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
+        "summary": "Foreign Office failed to act on warnings of genocide due to ‘pressure’ from emirates, Yale human rights investigator will tell a parliamentary select committee The British government had received intelligence that Ethiopia appeared to be..."
+      },
+      {
+        "char": "🎤",
+        "label": "iranian singer lashes for hijab violation",
+        "url": "https://www.nytimes.com/2026/06/23/world/middleeast/iranian-singer-lashing-sentence.html",
+        "title": "Iranian Singer Sentenced to 74 Lashes for Performing Without Hijab",
+        "summary": "Parastoo Ahmadi and her band will also be barred from leaving the country or performing for two years, dampening hopes for a more moderate postwar regime in Iran."
+      },
+      {
+        "char": "🏃‍♂️",
+        "label": "20,000 runners in ultramarathon",
+        "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
+        "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
+        "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the ha..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
