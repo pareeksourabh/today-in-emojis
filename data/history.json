@@ -50291,5 +50291,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-23",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israeli troops kill two in lebanon",
+        "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+        "summary": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation."
+      },
+      {
+        "char": "🔫",
+        "label": "montreal shooting leaves three dead",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz3lv015qo?at_medium=RSS&at_campaign=rss",
+        "title": "Montreal shooting leaves officer, civilian and suspect dead",
+        "summary": "It was the first time in 24 years that a Montreal police officer was killed in the line of duty, the city's police chief said."
+      },
+      {
+        "char": "🕊️",
+        "label": "un says israel committing genocide in gaza",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
+        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+        "summary": "Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\"."
+      },
+      {
+        "char": "🚆",
+        "label": "irish government funds cross-border rail",
+        "url": "https://www.bbc.co.uk/news/articles/cd95yd1y050o?at_medium=RSS&at_campaign=rss",
+        "title": "Irish government to contribute £197m to cross-border rail services",
+        "summary": "The money will come from the last allocation from the Irish government's Shared Island Fund."
+      },
+      {
+        "char": "⚠️",
+        "label": "us warns of imminent atrocities in sudan",
+        "url": "https://www.nytimes.com/2026/06/23/world/africa/sudan-war-rsf-atrocities.html",
+        "title": "U.S. Warns of ‘Imminent’ Atrocities in El Obeid, Sudan",
+        "summary": "A highway running through El Obeid links Darfur in west Sudan to the east, making it a strategically significant battleground."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
