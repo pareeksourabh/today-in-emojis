@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concern",
-    "emoji": "😨",
-    "rationale": "The news reflects significant distressing events, including healthcare issues, political instability, and humanitarian crises, which collectively evoke a sense of concern and anxiety.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "Today's news is filled with distressing stories of violence, inequality, and human suffering, particularly highlighting tragedies in Myanmar and Colombia, alongside the struggles faced by healthcare workers and vulnerable populations.",
     "palette": [
       "😢",
       "😡",
