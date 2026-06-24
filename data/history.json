@@ -50379,5 +50379,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-24",
+    "emojis": [
+      {
+        "char": "🤝",
+        "label": "optimism for us-iran talks",
+        "url": "https://www.nytimes.com/2026/06/23/world/middleeast/united-states-iran-talks-optimism.html",
+        "title": "After Wars and False Starts, Cautious Optimism for U.S.-Iran Talks",
+        "summary": "Tehran and Washington face myriad negotiating pitfalls. But both sides are exhausted and running out of options. They may finally need a deal."
+      },
+      {
+        "char": "⚔️",
+        "label": "israeli troops kill in lebanon",
+        "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
+        "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+        "summary": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation."
+      },
+      {
+        "char": "🌍",
+        "label": "marc bloch elevated in france",
+        "url": "https://www.nytimes.com/2026/06/23/world/europe/marc-bloch-pantheon-france.html",
+        "title": "Soldier, Scholar and Symbol: Marc Bloch Is Elevated to France’s Panthéon",
+        "summary": "French politicians, including those on the far right, are embracing a Jewish Resistance fighter murdered by the Gestapo in 1944."
+      },
+      {
+        "char": "🚨",
+        "label": "copycat attacks warning in montreal",
+        "url": "https://www.theguardian.com/world/2026/jun/23/canada-police-warn-copycat-attack-montreal-shooting",
+        "title": "Canadian police warn of possible copycat attacks after deadly shootout in Montreal",
+        "summary": "Assailant behind shooting that left three people dead wrote ‘incel’-like manifesto that was posted by a far-right outlet Police in Canada are warning of possible copycat attacks after three people died in a shootout in Montreal and the a..."
+      },
+      {
+        "char": "🌊",
+        "label": "drowning deaths soar in france",
+        "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+        "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+        "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
