@@ -50467,5 +50467,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-24",
+    "emojis": [
+      {
+        "char": "⚡",
+        "label": "crimea without power after strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+        "title": "Biggest city in Crimea without power after Ukraine strikes",
+        "summary": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening."
+      },
+      {
+        "char": "🗳️",
+        "label": "clean sweep in nyc democratic primary",
+        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+        "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war."
+      },
+      {
+        "char": "🏃‍♂️",
+        "label": "20,000 runners in ultramarathon",
+        "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
+        "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
+        "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the ha..."
+      },
+      {
+        "char": "🚓",
+        "label": "off-duty cops in argentina issues",
+        "url": "https://www.theguardian.com/world/2026/jun/24/off-duty-cops-second-jobs-kill-and-die-recession-hit-argentina-rideshare",
+        "title": "Why off-duty cops in second jobs ‘kill and die more’ in recession-hit Argentina",
+        "summary": "Growing number of cases involve police working as rideshare drivers while carrying government-issued guns When the gap between his salary and his family’s basic expenses began widening dramatically, Diego – like many other Argentinians –..."
+      },
+      {
+        "char": "🦠",
+        "label": "france confirms first ebola case",
+        "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
+        "title": "France confirms first Ebola case in doctor who had worked in DRC",
+        "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
