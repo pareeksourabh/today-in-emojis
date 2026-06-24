@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concern",
-    "emoji": "😨",
-    "rationale": "The news items reflect a significant amount of distressing events, including violence, political instability, and health crises, leading to an overall feeling of concern and anxiety.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day's news is filled with distressing events such as rising violence, political turmoil, and humanitarian crises, evoking a profound sense of sadness and concern for those affected.",
     "palette": [
       "😢",
       "😡",
