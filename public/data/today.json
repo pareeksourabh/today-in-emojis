@@ -1,204 +1,43 @@
 {
-  "date": "2026-06-23",
-  "timestamp": "2026-06-23T00:00:00Z",
+  "date": "2026-06-24",
+  "timestamp": "2026-06-24T00:00:00Z",
   "emojis": [
     {
-      "char": "🏥",
-      "label": "canadian healthcare scam email",
-      "url": "https://www.theguardian.com/world/2026/jun/22/canadian-healthcare-staff-scam-email-paid-day-off",
-      "title": "Canadian healthcare staff decry ‘cruel hoax’ after scam email promises paid day off",
-      "summary": "Unions condemn ‘insensitive’ internal cybersecurity test sent to healthcare workers in Newfoundland and Labrador For years, healthcare staff in the Canadian province of Newfoundland and Labrador have felt overworked and underappreciated...."
-    },
-    {
-      "char": "⚔️",
-      "label": "myanmar army kills civilians",
-      "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
-      "title": "Myanmar army killed over 700 civilians in six months, UN says",
-      "summary": "The new UN report says the 702 civilian deaths over six months last year included 153 children."
-    },
-    {
-      "char": "🌡️",
-      "label": "red heat alerts in europe",
-      "url": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
-      "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
-      "summary": "The heatwave conditions are forecast to intensify in the coming days across central and western Europe."
-    },
-    {
-      "char": "🇨🇴",
-      "label": "far-right wins colombia election",
-      "url": "https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff",
-      "title": "Far-right millionaire wins Colombia’s razor-tight presidential election",
-      "summary": "Leftwing opponent alleges vote count irregularities after Trump-endorsed lawyer Abelardo de la Espriella secures narrow majority A Trump-admiring far-right millionaire lawyer and self-styled “outsider” has defeated a leftwing senator by..."
-    },
-    {
-      "char": "💥",
-      "label": "qatar gas explosion kills 13",
-      "url": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html",
-      "title": "Explosion at Qatar Gas Plant Kills at Least 13 and Injures 66",
-      "summary": "The blast happened at a key site for natural gas production. The authorities blamed a technical malfunction while operations were being restarted after the U.S.-Israeli war against Iran."
-    },
-    {
-      "char": "🦠",
-      "label": "cdc emergency funding for ebola",
-      "url": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
-      "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
-      "summary": "Number of people infected now tops 1,000 though health officials say the global risk remains low Sign up for the Breaking News US newsletter email The Centers for Disease Control and Prevention (CDC) will tap $107m in emergency funding f..."
-    },
-    {
-      "char": "🇬🇧",
-      "label": "keir starmer resigns as pm",
-      "url": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html",
-      "title": "Keir Starmer Resigns as UK Prime Minister",
-      "summary": "His departure in the coming weeks clears a path for Andy Burnham, a popular Labour Party mayor, to become the country’s seventh prime minister in a decade."
-    },
-    {
-      "char": "🏫",
-      "label": "cuba’s fuel crisis halts schools",
-      "url": "https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html",
-      "title": "Cuba’s Fuel Crisis Brings Schools to a Standstill",
-      "summary": "The country’s already-struggling schools are ending the academic year early because of a crippling fuel shortage caused by the U.S. oil blockade."
-    },
-    {
-      "char": "🚔",
-      "label": "montreal mayor calls for police check end",
-      "url": "https://www.theguardian.com/world/2026/jun/22/montreal-mayor-random-police-checks-racism-investigation",
-      "title": "Montreal mayor calls for end to random police checks amid racial profiling investigation",
-      "summary": "City’s police force faces investigation of 16 officers accused of disproportionately targeting Black and Arab residents Montreal’s mayor has called for a halt to random police checks as the city’s police force grapples with an internal i..."
-    },
-    {
-      "char": "⚖️",
-      "label": "ghana calls for slave trade apology",
-      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
-      "title": "Ghana conference calls for formal apology for transatlantic slave trade",
-      "summary": "Global framework for reparatory justice adopted at event includes demand for compensation and debt relief More than money: the logic of slavery reparations A global framework for reparatory justice has been adopted at a conference in Gha..."
-    },
-    {
-      "char": "🏃‍♂️",
-      "label": "world's largest ultramarathon",
-      "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
-      "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
-      "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the ha..."
-    },
-    {
-      "char": "💻",
-      "label": "healthcare scam email hoax",
-      "url": "https://www.theguardian.com/world/2026/jun/22/canadian-healthcare-staff-scam-email-paid-day-off",
-      "title": "Canadian healthcare staff decry ‘cruel hoax’ after scam email promises paid day off",
-      "summary": "Unions condemn ‘insensitive’ internal cybersecurity test sent to healthcare workers in Newfoundland and Labrador For years, healthcare staff in the Canadian province of Newfoundland and Labrador have felt overworked and underappreciated...."
-    },
-    {
-      "char": "🦏",
-      "label": "rhino horn trafficking case",
-      "url": "https://www.theguardian.com/world/2026/jun/18/south-africa-men-sentenced-rhino-horn-trafficking-case",
-      "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
-      "summary": "‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrest Two traffickers of rhino horns have been sentenced by a South African court in what police said was the world’s largest such case, pa..."
-    },
-    {
-      "char": "🔥",
-      "label": "explosion at Qatar gas plant",
-      "url": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html",
-      "title": "Explosion at Qatar Gas Plant Kills at Least 13 and Injures 66",
-      "summary": "The blast happened at a key site for natural gas production. The authorities blamed a technical malfunction while operations were being restarted after the U.S.-Israeli war against Iran."
-    },
-    {
-      "char": "📚",
-      "label": "Cuba's fuel crisis affects schools",
-      "url": "https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html",
-      "title": "Cuba’s Fuel Crisis Brings Schools to a Standstill",
-      "summary": "The country’s already-struggling schools are ending the academic year early because of a crippling fuel shortage caused by the U.S. oil blockade."
+      "char": "🗳️",
+      "label": "uk politics and leadership",
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/uk-burnham-starmer-politics.html",
+      "title": "‘A Terrible Inheritance’: Could Andy Burnham Succeed Where Starmer Failed?",
+      "summary": "The likely successor to Prime Minister Keir Starmer will inherit the same challenges of economic stagnation and ascendant populism. Will a divided nation be prepared to give him time?"
     },
     {
       "char": "🇻🇪",
-      "label": "venezuela's oil struggles",
+      "label": "venezuela's political struggles",
       "url": "https://www.nytimes.com/2026/06/23/world/americas/venezuela-oil-delcy-rodriguez-trump.html",
       "title": "Delcy Rodríguez, Venezuela’s President, Struggles to Uphold Trump’s Narrative of Success",
       "summary": "President Trump says Venezuela, under U.S. oversight, has “never made the money” it is making now. But new oil revenue isn’t helping ordinary Venezuelans, and anger seems to be mounting."
     },
     {
-      "char": "🌍",
-      "label": "ghana's reparations conference",
-      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
-      "title": "Ghana conference calls for formal apology for transatlantic slave trade",
-      "summary": "Global framework for reparatory justice adopted at event includes demand for compensation and debt relief More than money: the logic of slavery reparations A global framework for reparatory justice has been adopted at a conference in Gha..."
-    },
-    {
-      "char": "🔥",
-      "label": "building fire kills 15 in india",
-      "url": "https://www.bbc.co.uk/news/articles/cwyde73w680o?at_medium=RSS&at_campaign=rss",
-      "title": "Inquiry ordered after building fire kills 15 in north India city",
-      "summary": "Witnesses described people jumping from windows to escape, while rescue teams broke through a wall to save lives."
-    },
-    {
-      "char": "🗳️",
-      "label": "far-right leader elected in colombia",
-      "url": "https://www.theguardian.com/world/2026/jun/22/election-far-right-leader-fears-democracy-colombia-espriella-trump",
-      "title": "‘Institutional threat’: election of far-right leader raises fears for democracy in Colombia",
-      "summary": "Trump-admiring Abelardo de la Espriella has vowed to ‘disembowel’ the left and kill criminals like ‘rats and cockroaches’ When more than 20 women accused a Colombian evangelical pastor in 2012 of sexually abusing them, the defendant’s la..."
-    },
-    {
-      "char": "🎤",
-      "label": "iranian singer lashes sentence",
-      "url": "https://www.nytimes.com/2026/06/23/world/middleeast/iranian-singer-lashing-sentence.html",
-      "title": "Iranian Singer Sentenced to 74 Lashes for Performing Without Hijab",
-      "summary": "Parastoo Ahmadi and her band will also be barred from leaving the country or performing for two years, dampening hopes for a more moderate postwar regime in Iran."
-    },
-    {
-      "char": "⚓",
-      "label": "us-iran deal on strait of hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
-      "summary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone."
-    },
-    {
       "char": "🚨",
-      "label": "montreal mayor ends police checks",
-      "url": "https://www.theguardian.com/world/2026/jun/22/montreal-mayor-random-police-checks-racism-investigation",
-      "title": "Montreal mayor calls for end to random police checks amid racial profiling investigation",
-      "summary": "City’s police force faces investigation of 16 officers accused of disproportionately targeting Black and Arab residents Montreal’s mayor has called for a halt to random police checks as the city’s police force grapples with an internal i..."
+      "label": "montreal shooting warnings",
+      "url": "https://www.theguardian.com/world/2026/jun/23/canada-police-warn-copycat-attack-montreal-shooting",
+      "title": "Canadian police warn of possible copycat attacks after deadly shootout in Montreal",
+      "summary": "Assailant behind shooting that left three people dead wrote ‘incel’-like manifesto that was posted by a far-right outlet Police in Canada are warning of possible copycat attacks after three people died in a shootout in Montreal and the a..."
     },
     {
-      "char": "🦠",
-      "label": "kenya halts us ebola facility",
-      "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
-      "title": "Kenyan minister orders halt to construction of US Ebola facility",
-      "summary": "Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya’s health minister told a court he had ordered preparations for a US-run Ebola quarantine facility to stop, after being held i..."
+      "char": "⚛️",
+      "label": "us-iran nuclear talks",
+      "url": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
+      "title": "U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions",
+      "summary": "President Trump said Iran had agreed to the “highest level” inspections, hours after an Iranian official said there were “no detailed discussions on the nuclear issue,” as the two sides continued to present different narratives of their..."
     },
     {
-      "char": "🎤",
-      "label": "iranian singer lashes sentence",
-      "url": "https://www.nytimes.com/2026/06/23/world/middleeast/iranian-singer-lashing-sentence.html",
-      "title": "Iranian Singer Sentenced to 74 Lashes for Performing Without Hijab",
-      "summary": "Parastoo Ahmadi and her band will also be barred from leaving the country or performing for two years, dampening hopes for a more moderate postwar regime in Iran."
-    },
-    {
-      "char": "🏃‍♂️",
-      "label": "20,000 runners ultramarathon",
-      "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
-      "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
-      "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the ha..."
+      "char": "🕷️",
+      "label": "new spider species discovered",
+      "url": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
+      "title": "Spider which uses spring trap to capture prey discovered in Australia",
+      "summary": "Researchers say their hunting method - which allows them to prey on dangerous ants - is unprecedented."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "Today's news is filled with distressing stories of violence, inequality, and human suffering, particularly highlighting tragedies in Myanmar and Colombia, alongside the struggles faced by healthcare workers and vulnerable populations.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
