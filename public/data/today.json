@@ -1,13 +1,34 @@
 {
   "date": "2026-06-24",
-  "timestamp": "2026-06-24T00:00:00Z",
+  "timestamp": "2026-06-24T17:45:24Z",
   "emojis": [
     {
+      "char": "⚽",
+      "label": "brazil’s next big soccer star",
+      "url": "https://www.nytimes.com/2026/06/24/world/americas/brazil-soccer-ai-scout-fc-santos.html",
+      "title": "Could Brazil’s Next Big Soccer Star Be Scouted By AI?",
+      "summary": "Recruitment apps powered by artificial intelligence are gaining ground in Brazil, promising to even the playing field and find more soccer talent."
+    },
+    {
+      "char": "🚓",
+      "label": "off-duty cops in argentina",
+      "url": "https://www.theguardian.com/world/2026/jun/24/off-duty-cops-second-jobs-kill-and-die-recession-hit-argentina-rideshare",
+      "title": "Why off-duty cops in second jobs ‘kill and die more’ in recession-hit Argentina",
+      "summary": "Growing number of cases involve police working as rideshare drivers while carrying government-issued guns When the gap between his salary and his family’s basic expenses began widening dramatically, Diego – like many other Argentinians –..."
+    },
+    {
       "char": "🦠",
-      "label": "france confirms first ebola case",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
-      "title": "France confirms first Ebola case",
-      "summary": "The French doctor had been working in DR Congo, where more than 260 people are known to have died."
+      "label": "france identifies first ebola case",
+      "url": "https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html",
+      "title": "France Identifies Its First Case of Ebola",
+      "summary": "A doctor who had traveled to the Democratic Republic of Congo was infected, the French health ministry said. The authorities said the risk to the wider population was low."
+    },
+    {
+      "char": "🏃‍♂️",
+      "label": "world’s largest ultramarathon",
+      "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
+      "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
+      "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the ha..."
     },
     {
       "char": "🇨🇴",
@@ -15,27 +36,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
       "title": "Colombia's left-wing presidential candidate concedes defeat",
       "summary": "Senator Iván Cepeda was beaten by right-wing businessman Abelardo de la Espriella by less than a percentage point."
-    },
-    {
-      "char": "⚽",
-      "label": "brazil’s next big soccer star scouted by ai",
-      "url": "https://www.nytimes.com/2026/06/24/world/americas/brazil-soccer-ai-scout-fc-santos.html",
-      "title": "Could Brazil’s Next Big Soccer Star Be Scouted By AI?",
-      "summary": "Recruitment apps powered by artificial intelligence are gaining ground in Brazil, promising to even the playing field and find more soccer talent."
-    },
-    {
-      "char": "🎭",
-      "label": "kenya’s crisis of gender-based violence",
-      "url": "https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence",
-      "title": "Play puts spotlight on Kenya’s crisis of gender-based violence",
-      "summary": "Autobiographical work Free Me aims to encourage victims to speak out in country where violence against women is rising There are audible gasps in the auditorium in Nairobi as a husband launches a volley of blows and slaps on his wife and..."
-    },
-    {
-      "char": "💥",
-      "label": "israel traps hezbollah fighters underground",
-      "url": "https://www.nytimes.com/2026/06/24/world/middleeast/israel-lebanon-hezbollah-fighters-tunnels.html",
-      "title": "Israel Says It Has Trapped Hezbollah Fighters Underground in Southern Lebanon",
-      "summary": "The Israeli military says thousands of troops have surrounded a large tunnel network in southern Lebanon. The standoff is at the center of intense clashes in the area recently."
     }
   ],
   "source": "ai-openai",
