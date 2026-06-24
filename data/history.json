@@ -50423,5 +50423,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-24",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "us-iran nuclear discussions",
+        "url": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
+        "title": "U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions",
+        "summary": "President Trump said Iran had agreed to the “highest level” inspections, hours after an Iranian official said there were “no detailed discussions on the nuclear issue,” as the two sides continued to present different narratives of their..."
+      },
+      {
+        "char": "🦈",
+        "label": "shark attack survivor wakes up",
+        "url": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
+        "title": "Sydney woman wakes from induced coma more than a week after shark attack",
+        "summary": "Leah Stewart, 34, had one of her arms amputated after she was bitten while swimming at Coogee Beach."
+      },
+      {
+        "char": "🏃‍♂️",
+        "label": "world's largest ultramarathon",
+        "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
+        "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
+        "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the ha..."
+      },
+      {
+        "char": "🍓",
+        "label": "british strawberries picked by workers",
+        "url": "https://www.nytimes.com/2026/06/23/world/europe/uk-brexit-seasonal-farm-workers-central-asia.html",
+        "title": "Those British Strawberries Are Being Picked by Central Asian Workers",
+        "summary": "Ten years after Brexit, most seasonal workers in Britain are from countries such as Kyrgyzstan and Tajikistan. Without them, agricultural chiefs say, many farms would fail."
+      },
+      {
+        "char": "⚖️",
+        "label": "canadian healthcare staff hoax",
+        "url": "https://www.theguardian.com/world/2026/jun/22/canadian-healthcare-staff-scam-email-paid-day-off",
+        "title": "‘Cruel hoax’: Canadian healthcare staff decry employer’s email promising fake day off",
+        "summary": "Unions condemn ‘insensitive’ internal cybersecurity test sent to healthcare workers in Newfoundland and Labrador For years, healthcare staff in the Canadian province of Newfoundland and Labrador have felt overworked and underappreciated...."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
