@@ -50335,5 +50335,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-24",
+    "emojis": [
+      {
+        "char": "🚨",
+        "label": "canadian police warn of attacks",
+        "url": "https://www.theguardian.com/world/2026/jun/23/canada-police-warn-copycat-attack-montreal-shooting",
+        "title": "Canadian police warn of possible copycat attacks after deadly shootout in Montreal",
+        "summary": "Assailant behind shooting that left three people dead wrote ‘incel’-like manifesto that was posted by a far-right outlet Police in Canada are warning of possible copycat attacks after three people died in a shootout in Montreal and the a..."
+      },
+      {
+        "char": "💣",
+        "label": "conviction over 1976 car bomb",
+        "url": "https://www.theguardian.com/world/2026/jun/23/conviction-chile-washington-dc-car-bomb-attack-1976",
+        "title": "Former Pinochet agents convicted over 1976 Washington DC carbomb murder",
+        "summary": "Attack targeted former Chile ambassador Orlando Letelier and his US colleague Ronni Karpen Moffitt Fifty years after Gen Augusto Pinochet ’s secret police detonated a car bomb in the heart of Washington DC , killing Orlando Letelier, a f..."
+      },
+      {
+        "char": "⚓",
+        "label": "ships through strait of hormuz",
+        "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+        "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+        "summary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone."
+      },
+      {
+        "char": "🏃‍♂️",
+        "label": "world's largest ultramarathon",
+        "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
+        "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
+        "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the ha..."
+      },
+      {
+        "char": "🩺",
+        "label": "healthcare staff scam email",
+        "url": "https://www.theguardian.com/world/2026/jun/22/canadian-healthcare-staff-scam-email-paid-day-off",
+        "title": "‘Cruel hoax’: Canadian healthcare staff decry employer’s email promising fake day off",
+        "summary": "Unions condemn ‘insensitive’ internal cybersecurity test sent to healthcare workers in Newfoundland and Labrador For years, healthcare staff in the Canadian province of Newfoundland and Labrador have felt overworked and underappreciated...."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
