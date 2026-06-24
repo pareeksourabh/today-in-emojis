@@ -1,34 +1,153 @@
 {
   "date": "2026-06-24",
-  "timestamp": "2026-06-24T17:45:24Z",
+  "timestamp": "2026-06-24T00:00:00Z",
   "emojis": [
     {
-      "char": "⚽",
-      "label": "brazil’s next big soccer star",
-      "url": "https://www.nytimes.com/2026/06/24/world/americas/brazil-soccer-ai-scout-fc-santos.html",
-      "title": "Could Brazil’s Next Big Soccer Star Be Scouted By AI?",
-      "summary": "Recruitment apps powered by artificial intelligence are gaining ground in Brazil, promising to even the playing field and find more soccer talent."
+      "char": "🗳️",
+      "label": "uk politics and leadership",
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/uk-burnham-starmer-politics.html",
+      "title": "‘A Terrible Inheritance’: Could Andy Burnham Succeed Where Starmer Failed?",
+      "summary": "The likely successor to Prime Minister Keir Starmer will inherit the same challenges of economic stagnation and ascendant populism. Will a divided nation be prepared to give him time?"
     },
     {
-      "char": "🚓",
-      "label": "off-duty cops in argentina",
-      "url": "https://www.theguardian.com/world/2026/jun/24/off-duty-cops-second-jobs-kill-and-die-recession-hit-argentina-rideshare",
-      "title": "Why off-duty cops in second jobs ‘kill and die more’ in recession-hit Argentina",
-      "summary": "Growing number of cases involve police working as rideshare drivers while carrying government-issued guns When the gap between his salary and his family’s basic expenses began widening dramatically, Diego – like many other Argentinians –..."
+      "char": "🇻🇪",
+      "label": "venezuela's political struggles",
+      "url": "https://www.nytimes.com/2026/06/23/world/americas/venezuela-oil-delcy-rodriguez-trump.html",
+      "title": "Delcy Rodríguez, Venezuela’s President, Struggles to Uphold Trump’s Narrative of Success",
+      "summary": "President Trump says Venezuela, under U.S. oversight, has “never made the money” it is making now. But new oil revenue isn’t helping ordinary Venezuelans, and anger seems to be mounting."
     },
     {
-      "char": "🦠",
-      "label": "france identifies first ebola case",
-      "url": "https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html",
-      "title": "France Identifies Its First Case of Ebola",
-      "summary": "A doctor who had traveled to the Democratic Republic of Congo was infected, the French health ministry said. The authorities said the risk to the wider population was low."
+      "char": "🚨",
+      "label": "montreal shooting warnings",
+      "url": "https://www.theguardian.com/world/2026/jun/23/canada-police-warn-copycat-attack-montreal-shooting",
+      "title": "Canadian police warn of possible copycat attacks after deadly shootout in Montreal",
+      "summary": "Assailant behind shooting that left three people dead wrote ‘incel’-like manifesto that was posted by a far-right outlet Police in Canada are warning of possible copycat attacks after three people died in a shootout in Montreal and the a..."
+    },
+    {
+      "char": "⚛️",
+      "label": "us-iran nuclear talks",
+      "url": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
+      "title": "U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions",
+      "summary": "President Trump said Iran had agreed to the “highest level” inspections, hours after an Iranian official said there were “no detailed discussions on the nuclear issue,” as the two sides continued to present different narratives of their..."
+    },
+    {
+      "char": "🕷️",
+      "label": "new spider species discovered",
+      "url": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
+      "title": "Spider which uses spring trap to capture prey discovered in Australia",
+      "summary": "Researchers say their hunting method - which allows them to prey on dangerous ants - is unprecedented."
+    },
+    {
+      "char": "🌡️",
+      "label": "drowning deaths soar in france",
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+      "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says."
+    },
+    {
+      "char": "🤝",
+      "label": "mark rutte manages trump",
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/mark-rutte-nato-trump.html",
+      "title": "How Mark Rutte of NATO Manages an Unpredictable Trump",
+      "summary": "Secretary General Mark Rutte is headed to Washington. His style has at times frustrated the very European leaders who need him to hold the alliance together."
+    },
+    {
+      "char": "🍓",
+      "label": "british strawberries picked by workers",
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/uk-brexit-seasonal-farm-workers-central-asia.html",
+      "title": "Those British Strawberries Are Being Picked by Central Asian Workers",
+      "summary": "Ten years after Brexit, most seasonal workers in Britain are from countries such as Kyrgyzstan and Tajikistan. Without them, agricultural chiefs say, many farms would fail."
+    },
+    {
+      "char": "💉",
+      "label": "cdc taps funding for ebola response",
+      "url": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
+      "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
+      "summary": "Number of people infected now tops 1,000 though health officials say the global risk remains low Sign up for the Breaking News US newsletter email The Centers for Disease Control and Prevention (CDC) will tap $107m in emergency funding f..."
+    },
+    {
+      "char": "⚔️",
+      "label": "us warns of atrocities in sudan",
+      "url": "https://www.nytimes.com/2026/06/23/world/africa/sudan-war-rsf-atrocities.html",
+      "title": "U.S. Warns of ‘Imminent’ Atrocities in El Obeid, Sudan",
+      "summary": "A highway running through El Obeid links Darfur in west Sudan to the east, making it a strategically significant battleground."
+    },
+    {
+      "char": "🇳🇱",
+      "label": "mark rutte manages trump at nato",
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/mark-rutte-nato-trump.html",
+      "title": "How Mark Rutte of NATO Manages an Unpredictable Trump",
+      "summary": "Secretary General Mark Rutte is headed to Washington. His style has at times frustrated the very European leaders who need him to hold the alliance together."
+    },
+    {
+      "char": "🎭",
+      "label": "kenya's crisis of gender-based violence",
+      "url": "https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence",
+      "title": "Play puts spotlight on Kenya’s crisis of gender-based violence",
+      "summary": "Autobiographical work Free Me aims to encourage victims to speak out in country where violence against women is rising There are audible gasps in the auditorium in Nairobi as a husband launches a volley of blows and slaps on his wife and..."
+    },
+    {
+      "char": "⚓",
+      "label": "ships through strait of hormuz after deal",
+      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+      "summary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone."
+    },
+    {
+      "char": "💼",
+      "label": "whistleblower murdered in ecuador case",
+      "url": "https://www.theguardian.com/world/2026/jun/23/monika-silva-koniuszek-ecuador-president-family-business",
+      "title": "Whistleblower investigating Ecuadorian president’s family business was murdered, activists say",
+      "summary": "Monika Silva Koniuszek died from a blow to the head and strangulation, a postmortem found, despite government claim of suicide Campaigners in Ecuador say a Polish anti-corruption activist who investigated allegations against the family b..."
+    },
+    {
+      "char": "🌍",
+      "label": "optimism for us-iran talks after wars",
+      "url": "https://www.nytimes.com/2026/06/23/world/middleeast/united-states-iran-talks-optimism.html",
+      "title": "After Wars and False Starts, Cautious Optimism for U.S.-Iran Talks",
+      "summary": "Tehran and Washington face myriad negotiating pitfalls. But both sides are exhausted and running out of options. They may finally need a deal."
+    },
+    {
+      "char": "🇺🇸",
+      "label": "us-iran nuclear discussions",
+      "url": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
+      "title": "U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions",
+      "summary": "President Trump said Iran had agreed to the “highest level” inspections, hours after an Iranian official said there were “no detailed discussions on the nuclear issue,” as the two sides continued to present different narratives of their..."
+    },
+    {
+      "char": "🇳🇱",
+      "label": "mark rutte and trump",
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/mark-rutte-nato-trump.html",
+      "title": "How Mark Rutte of NATO Manages an Unpredictable Trump",
+      "summary": "Secretary General Mark Rutte is headed to Washington. His style has at times frustrated the very European leaders who need him to hold the alliance together."
     },
     {
       "char": "🏃‍♂️",
-      "label": "world’s largest ultramarathon",
+      "label": "world's largest ultramarathon",
       "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
       "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
       "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the ha..."
+    },
+    {
+      "char": "⚖️",
+      "label": "evacuating sailors in strait",
+      "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
+      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+      "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait."
+    },
+    {
+      "char": "🌍",
+      "label": "ghana calls for slave trade apology",
+      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
+      "title": "Ghana conference calls for formal apology for transatlantic slave trade",
+      "summary": "Global framework for reparatory justice adopted at event includes demand for compensation and debt relief More than money: the logic of slavery reparations A global framework for reparatory justice has been adopted at a conference in Gha..."
+    },
+    {
+      "char": "🦠",
+      "label": "france confirms first ebola case",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
+      "title": "France confirms first Ebola case",
+      "summary": "The French doctor had been working in DR Congo, where more than 260 people are known to have died."
     },
     {
       "char": "🇨🇴",
@@ -36,8 +155,50 @@
       "url": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
       "title": "Colombia's left-wing presidential candidate concedes defeat",
       "summary": "Senator Iván Cepeda was beaten by right-wing businessman Abelardo de la Espriella by less than a percentage point."
+    },
+    {
+      "char": "⚽",
+      "label": "brazil’s next big soccer star scouted by ai",
+      "url": "https://www.nytimes.com/2026/06/24/world/americas/brazil-soccer-ai-scout-fc-santos.html",
+      "title": "Could Brazil’s Next Big Soccer Star Be Scouted By AI?",
+      "summary": "Recruitment apps powered by artificial intelligence are gaining ground in Brazil, promising to even the playing field and find more soccer talent."
+    },
+    {
+      "char": "🎭",
+      "label": "kenya’s crisis of gender-based violence",
+      "url": "https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence",
+      "title": "Play puts spotlight on Kenya’s crisis of gender-based violence",
+      "summary": "Autobiographical work Free Me aims to encourage victims to speak out in country where violence against women is rising There are audible gasps in the auditorium in Nairobi as a husband launches a volley of blows and slaps on his wife and..."
+    },
+    {
+      "char": "💥",
+      "label": "israel traps hezbollah fighters underground",
+      "url": "https://www.nytimes.com/2026/06/24/world/middleeast/israel-lebanon-hezbollah-fighters-tunnels.html",
+      "title": "Israel Says It Has Trapped Hezbollah Fighters Underground in Southern Lebanon",
+      "summary": "The Israeli military says thousands of troops have surrounded a large tunnel network in southern Lebanon. The standoff is at the center of intense clashes in the area recently."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concern",
+    "emoji": "😨",
+    "rationale": "The news items reflect a significant amount of distressing events, including violence, political instability, and health crises, leading to an overall feeling of concern and anxiety.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
