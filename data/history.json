@@ -50643,5 +50643,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-25",
+    "emojis": [
+      {
+        "char": "🛢️",
+        "label": "oil price drops to pre-war levels",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+        "title": "Oil price falls back to pre-Iran war levels",
+        "summary": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down."
+      },
+      {
+        "char": "🦠",
+        "label": "france's first ebola case confirmed",
+        "url": "https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html",
+        "title": "France Identifies Its First Case of Ebola",
+        "summary": "A doctor who had traveled to the Democratic Republic of Congo was infected, the French health ministry said. The authorities said the risk to the wider population was low."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela earthquake updates",
+        "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
+        "title": "Venezuela Live Updates: Death Toll Rises as Rescuers Mount Frantic Search for Survivors of Twin Earthquakes",
+        "summary": "The 7.2- and 7.5-magnitude earthquakes left at least 164 dead and hundreds missing, the authorities said, but the full scale of the damage was not immediately clear."
+      },
+      {
+        "char": "🐶",
+        "label": "public protest over puppy abuse in china",
+        "url": "https://www.nytimes.com/2026/06/25/world/asia/dog-animal-abuse-china-protest.html",
+        "title": "A Puppy-Abuse Case in China, Caught on Video, Prompts Rare Public Protest",
+        "summary": "After a man was filmed torturing dogs, hundreds gathered in a rare demonstration that the police tried to break up. For many, the sit-in was their first civic action."
+      },
+      {
+        "char": "🔥",
+        "label": "spain warns of high heat wave death toll",
+        "url": "https://www.nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france",
+        "title": "Live Updates: Spain Warns of High Death Toll in Heat Wave",
+        "summary": "The health ministry said about 200 people may have died since Sunday. The forecast across Europe was set to remain sharply above normal on Thursday."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
