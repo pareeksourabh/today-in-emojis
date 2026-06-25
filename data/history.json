@@ -50555,5 +50555,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-25",
+    "emojis": [
+      {
+        "char": "🇨🇺",
+        "label": "cuba's economy overhaul",
+        "url": "https://www.nytimes.com/2026/06/24/world/americas/cuba-economy-overhaul-communism-trump.html",
+        "title": "Cuba Announces Sweeping Overhaul of Struggling Communist Economy, But Obstacles Remain",
+        "summary": "The Cuban government announced a major economic restructuring, but experts say most changes would depend on buy-in from the Trump administration."
+      },
+      {
+        "char": "🇰🇪",
+        "label": "kenya halts us ebola facility",
+        "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
+        "title": "Kenyan minister orders halt to construction of US Ebola facility",
+        "summary": "Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya’s health minister told a court he had ordered preparations for a US-run Ebola quarantine facility to stop, after being held i..."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela earthquake updates",
+        "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
+        "title": "Venezuela earthquakes live: state of emergency declared after officials warn of widespread damage and high casualties",
+        "summary": "Two powerful earthquakes – with magnitudes of 7.2 and 7.5 – sent residents running into the streets as buildings shook and collapsed Venezuela earthquake: powerful back-to-back quakes collapse buildings in capital Caracas Volunteers, med..."
+      },
+      {
+        "char": "☀️",
+        "label": "extreme heat wave in europe",
+        "url": "https://www.nytimes.com/2026/06/24/world/europe/europe-heat-wave-photos.html",
+        "title": "See Record-Breaking Extreme Heat Wave Across Europe in Photos",
+        "summary": "Temperature records were broken in several European countries on Wednesday."
+      },
+      {
+        "char": "🇨🇴",
+        "label": "colombia election concession",
+        "url": "https://www.theguardian.com/world/2026/jun/24/colombia-presidential-election-abelardo-de-la-espriella",
+        "title": "Colombia’s leftwing candidate concedes election to Trump-endorsed millionaire",
+        "summary": "Leftist Iván Cepeda conceded to far-right lawyer Abelardo de la Espriella who won by razor-thin margin The defeated leftwing candidate in Colombia’s presidential runoff has conceded to the far-right, Trump-admiring millionaire lawyer Abe..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
