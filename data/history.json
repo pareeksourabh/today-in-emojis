@@ -50731,5 +50731,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-25",
+    "emojis": [
+      {
+        "char": "💻",
+        "label": "ibm's tiny chip breakthrough",
+        "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+        "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+        "summary": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production."
+      },
+      {
+        "char": "🚢",
+        "label": "iran threatens ships in strait",
+        "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
+        "title": "Iran Threatens Ships in Strait of Hormuz as Marco Rubio Meets Gulf Leaders",
+        "summary": "The new warning complicated efforts to revive use of the critical waterway as Washington sought regional support for its framework peace agreement with Iran."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela earthquake devastation",
+        "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+        "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+        "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces."
+      },
+      {
+        "char": "🔥",
+        "label": "france's heatwave health alert",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+        "title": "Europe's heatwave shifts east as France raises health alert to highest level",
+        "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people."
+      },
+      {
+        "char": "👮‍♂️",
+        "label": "south africa police corruption case",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
+        "title": "Key figure in South Africa police corruption scandal pleads guilty",
+        "summary": "Prosecutors say Vusimusi \"Cat\" Matlala could provide evidence against \"high-ranking officials\"."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

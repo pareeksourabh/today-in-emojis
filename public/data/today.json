@@ -1,41 +1,41 @@
 {
   "date": "2026-06-25",
-  "timestamp": "2026-06-25T00:00:00Z",
+  "timestamp": "2026-06-25T17:59:20Z",
   "emojis": [
     {
+      "char": "💻",
+      "label": "ibm's tiny chip breakthrough",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+      "summary": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production."
+    },
+    {
       "char": "🚢",
-      "label": "iran threatens ships in strait of hormuz",
+      "label": "iran threatens ships in strait",
       "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
       "title": "Iran Threatens Ships in Strait of Hormuz as Marco Rubio Meets Gulf Leaders",
       "summary": "The new warning complicated efforts to revive use of the critical waterway as Washington sought regional support for its framework peace agreement with Iran."
     },
     {
       "char": "🌍",
-      "label": "venezuela earthquakes death toll rises",
-      "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
-      "title": "Venezuela earthquakes: ‘intensive’ search for survivors as death toll rises to 164 – latest updates",
-      "summary": "Delcy Rodríguez said authorities were shifting rescue teams from other parts of the country to the hardest-hit La Guaira area Venezuela declares state of emergency after deadly twin earthquakes Have you been affected by the earthquakes i..."
+      "label": "venezuela earthquake devastation",
+      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+      "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces."
     },
     {
-      "char": "🦠",
-      "label": "france confirms first ebola case",
-      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
-      "title": "France confirms first Ebola case in doctor who had worked in DRC",
-      "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
+      "char": "🔥",
+      "label": "france's heatwave health alert",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+      "title": "Europe's heatwave shifts east as France raises health alert to highest level",
+      "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people."
     },
     {
-      "char": "🏗️",
-      "label": "kenya halts us ebola facility construction",
-      "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
-      "title": "Kenyan minister orders halt to construction of US Ebola facility",
-      "summary": "Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya’s health minister told a court he had ordered preparations for a US-run Ebola quarantine facility to stop, after being held i..."
-    },
-    {
-      "char": "🌊",
-      "label": "parisians escape heat in old canal",
-      "url": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
-      "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
-      "summary": "Crowds are filling the Canal Saint-Martin in Paris, as temperatures soar above 100 degrees Fahrenheit. Forty people drowned while swimming in other waterways."
+      "char": "👮‍♂️",
+      "label": "south africa police corruption case",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
+      "title": "Key figure in South Africa police corruption scandal pleads guilty",
+      "summary": "Prosecutors say Vusimusi \"Cat\" Matlala could provide evidence against \"high-ranking officials\"."
     }
   ],
   "source": "ai-openai",
