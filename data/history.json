@@ -50687,5 +50687,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-25",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "kenya halts us ebola facility",
+        "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
+        "title": "Kenyan minister orders halt to construction of US Ebola facility",
+        "summary": "Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya’s health minister told a court he had ordered preparations for a US-run Ebola quarantine facility to stop, after being held i..."
+      },
+      {
+        "char": "🇮🇶",
+        "label": "iraq leader faces militia resistance",
+        "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iraq-militias-state-control.html",
+        "title": "Iraq’s New Leader Faces Resistance Trying to Bring Militias Under State Control",
+        "summary": "The Trump administration has demanded that Iraqi leaders distance themselves from Iran and rein in Iran-linked militias that are outside of government control."
+      },
+      {
+        "char": "🚗",
+        "label": "vehicle hits crowd after mexico win",
+        "url": "https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia",
+        "title": "Vehicle hits crowd in Cabo San Lucas after Mexico’s World Cup win over Czechia",
+        "summary": "Seventeen people hurt after car drives through crowd Driver arrested following incident at tourist resort More than a dozen people were injured on Wednesday night ⁠when a vehicle ⁠drove through ​a crowd in the popular tourist resort of C..."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela declares emergency after quakes",
+        "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
+        "title": "Venezuela declares state of emergency after deadly twin earthquakes",
+        "summary": "Second quake, at magnitude 7.5, was most powerful to strike the country since 1900, collapsing buildings in capital Venezuela earthquake – latest updates Venezuela’s interim leader, Delcy Rodríguez, has declared a state of emergency afte..."
+      },
+      {
+        "char": "🌡️",
+        "label": "parisians swim to escape heatwave",
+        "url": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
+        "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
+        "summary": "Crowds are filling the Canal Saint-Martin in Paris, as temperatures soar above 100 degrees Fahrenheit. Forty people drowned while swimming in other waterways."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
