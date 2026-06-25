@@ -1,14 +1,7 @@
 {
   "date": "2026-06-25",
-  "timestamp": "2026-06-25T07:50:28Z",
+  "timestamp": "2026-06-25T00:00:00Z",
   "emojis": [
-    {
-      "char": "🌍",
-      "label": "venezuela earthquake panic",
-      "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
-      "title": "'I thought building would fall on top of me' - Venezuelans describe earthquake panic",
-      "summary": "Two quakes hit the capital seconds apart, the first at a magnitude of 7.2 and the second at 7.5."
-    },
     {
       "char": "🏃‍♂️",
       "label": "world's largest ultramarathon",
@@ -17,25 +10,32 @@
       "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the ha..."
     },
     {
-      "char": "🦠",
-      "label": "kenya halts us ebola facility",
-      "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
-      "title": "Kenyan minister orders halt to construction of US Ebola facility",
-      "summary": "Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya’s health minister told a court he had ordered preparations for a US-run Ebola quarantine facility to stop, after being held i..."
+      "char": "🌍",
+      "label": "nuclear inspectors to visit iran",
+      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US."
     },
     {
-      "char": "🔥",
-      "label": "france records extreme heat",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-      "title": "Air conditioning creates political divide after France records hottest day",
-      "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar."
+      "char": "🗳️",
+      "label": "colombia election results",
+      "url": "https://www.theguardian.com/world/2026/jun/24/colombia-presidential-election-abelardo-de-la-espriella",
+      "title": "Colombia’s leftwing candidate concedes election to Trump-endorsed millionaire",
+      "summary": "Leftist Iván Cepeda conceded to far-right lawyer Abelardo de la Espriella who won by razor-thin margin The defeated leftwing candidate in Colombia’s presidential runoff has conceded to the far-right, Trump-admiring millionaire lawyer Abe..."
     },
     {
-      "char": "⚽",
-      "label": "merlin duck barred from world cup",
-      "url": "https://www.theguardian.com/football/2026/jun/24/merlin-duck-mexico-world-cup",
-      "title": "Duck off: World Cup hero Merlín barred from Mexico game due to Fifa’s animal ban",
-      "summary": "World’s sixth-most famous duck falls short of dream Two-year-old must watch Czechia game from distance Merlín the duck ’s bid to see his beloved Mexico live has hit a snag after he was barred from El Tri’s match with Czechia on Wednesday..."
+      "char": "⚖️",
+      "label": "icc judges sue trump",
+      "url": "https://www.nytimes.com/2026/06/24/world/europe/trump-sanctions-judges-lawsuit.html",
+      "title": "ICC Judges Sue Trump Administration Over Sanctions",
+      "summary": "Kimberly Prost, a Canadian judge at the International Criminal Court, and two colleagues are suing the administration, saying the sanctions were a form of retaliation."
+    },
+    {
+      "char": "🌪️",
+      "label": "venezuela earthquake updates",
+      "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
+      "title": "Venezuela earthquake: fatal back-to-back earthquakes in Caracas as experts warn of heavy death toll",
+      "summary": "Homes and buildings collapse after double quake, with tremors felt in neighbouring Colombia Venezuela earthquakes: follow live updates Venezuela’s interim leader, Delcy Rodríguez, has declared a state of emergency after the country was s..."
     }
   ],
   "source": "ai-openai",
