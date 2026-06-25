@@ -50599,5 +50599,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-25",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "venezuela earthquake panic",
+        "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+        "title": "'I thought building would fall on top of me' - Venezuelans describe earthquake panic",
+        "summary": "Two quakes hit the capital seconds apart, the first at a magnitude of 7.2 and the second at 7.5."
+      },
+      {
+        "char": "🏃‍♂️",
+        "label": "world's largest ultramarathon",
+        "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
+        "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
+        "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the ha..."
+      },
+      {
+        "char": "🦠",
+        "label": "kenya halts us ebola facility",
+        "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
+        "title": "Kenyan minister orders halt to construction of US Ebola facility",
+        "summary": "Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya’s health minister told a court he had ordered preparations for a US-run Ebola quarantine facility to stop, after being held i..."
+      },
+      {
+        "char": "🔥",
+        "label": "france records extreme heat",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+        "title": "Air conditioning creates political divide after France records hottest day",
+        "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar."
+      },
+      {
+        "char": "⚽",
+        "label": "merlin duck barred from world cup",
+        "url": "https://www.theguardian.com/football/2026/jun/24/merlin-duck-mexico-world-cup",
+        "title": "Duck off: World Cup hero Merlín barred from Mexico game due to Fifa’s animal ban",
+        "summary": "World’s sixth-most famous duck falls short of dream Two-year-old must watch Czechia game from distance Merlín the duck ’s bid to see his beloved Mexico live has hit a snag after he was barred from El Tri’s match with Czechia on Wednesday..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
