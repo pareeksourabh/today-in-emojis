@@ -50907,5 +50907,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-26",
+    "emojis": [
+      {
+        "char": "🌊",
+        "label": "destruction in coastal venezuela",
+        "url": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
+        "title": "Aerial footage reveals destruction in coastal Venezuela",
+        "summary": "Multi-storey buildings have collapsed in La Guaira following two major earthquakes on Wednesday."
+      },
+      {
+        "char": "☀️",
+        "label": "heat wave in paris suspends events",
+        "url": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
+        "title": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
+        "summary": "The Paris police chief, Patrice Faure, said that alcohol restrictions were intended to ease pressure on health services."
+      },
+      {
+        "char": "⚽",
+        "label": "myanmar fans boycott junta broadcasts",
+        "url": "https://www.nytimes.com/2026/06/26/world/asia/world-cup-myanmar-junta.html",
+        "title": "World Cups Fans in Myanmar Boycott Junta-Linked Broadcasts",
+        "summary": "In Myanmar, games are being broadcast by a company that is co-owned by the military, which usurped power five years ago. Some fans are trying other ways to watch."
+      },
+      {
+        "char": "🌍",
+        "label": "marine expedition uncovers new species",
+        "url": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
+        "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
+        "summary": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge tech A marine biology expedition in international waters off the coast of Brazil has discovered 31 new species in just two weeks. The researchers be..."
+      },
+      {
+        "char": "🏛️",
+        "label": "zimbabwe senate extends presidential term",
+        "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+        "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+        "summary": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on power Zimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government s..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
