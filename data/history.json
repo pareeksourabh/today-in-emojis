@@ -50863,5 +50863,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-26",
+    "emojis": [
+      {
+        "char": "⚽",
+        "label": "iran's world cup journey amid war",
+        "url": "https://www.nytimes.com/2026/06/26/world/middleeast/world-cup-iran-mexico.html",
+        "title": "Iran’s Long World Cup Journey Defined by War and Political Tension",
+        "summary": "A win or draw against Egypt on Friday, and the team’s unusual journey will continue."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela earthquakes rescue efforts",
+        "url": "https://www.theguardian.com/world/2026/jun/25/rescue-teams-race-to-venezuela-amid-fears-thousands-killed-in-earthquakes",
+        "title": "Rescue teams race to Venezuela amid fears thousands killed in earthquakes",
+        "summary": "US among countries sending help to search for survivors on north coast, where dozens of buildings flattened, as official death toll reaches 235 Rescue teams are racing to Venezuela’s shattered northern coast after almost simultaneous ear..."
+      },
+      {
+        "char": "🕵️‍♂",
+        "label": "ukrainian official jailed for spying",
+        "url": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
+        "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
+        "summary": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say."
+      },
+      {
+        "char": "🔥",
+        "label": "europe's deadly heat wave continues",
+        "url": "https://www.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html",
+        "title": "Europe’s Deadly Heat Wave: A Jolt for Climate Action, or Just for A.C.?",
+        "summary": "Heat-related deaths and disruptions to daily life are forcing politicians to reckon, in different ways, with a rapidly warming planet."
+      },
+      {
+        "char": "🎭",
+        "label": "kenya's gender-based violence spotlight",
+        "url": "https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence",
+        "title": "Play puts spotlight on Kenya’s crisis of gender-based violence",
+        "summary": "Autobiographical work Free Me aims to encourage victims to speak out in country where violence against women is rising There are audible gasps in the auditorium in Nairobi as a husband launches a volley of blows and slaps on his wife and..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
