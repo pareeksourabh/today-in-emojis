@@ -1,204 +1,43 @@
 {
-  "date": "2026-06-25",
-  "timestamp": "2026-06-25T00:00:00Z",
+  "date": "2026-06-26",
+  "timestamp": "2026-06-26T00:00:00Z",
   "emojis": [
     {
-      "char": "🗳️",
-      "label": "new york democratic primary results",
-      "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-      "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war."
-    },
-    {
-      "char": "🦠",
-      "label": "france's first ebola case",
-      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
-      "title": "France confirms first Ebola case in doctor who had worked in DRC",
-      "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
-    },
-    {
-      "char": "🚓",
-      "label": "off-duty cops in argentina",
-      "url": "https://www.theguardian.com/world/2026/jun/24/off-duty-cops-second-jobs-kill-and-die-recession-hit-argentina-rideshare",
-      "title": "Why off-duty cops in second jobs ‘kill and die more’ in recession-hit Argentina",
-      "summary": "Growing number of cases involve police working as rideshare drivers while carrying government-issued guns When the gap between his salary and his family’s basic expenses began widening dramatically, Diego – like many other Argentinians –..."
-    },
-    {
       "char": "🌍",
-      "label": "israel traps hezbollah fighters",
-      "url": "https://www.nytimes.com/2026/06/24/world/middleeast/israel-lebanon-hezbollah-fighters-tunnels.html",
-      "title": "Israel Says It Has Trapped Hezbollah Fighters Underground in Southern Lebanon",
-      "summary": "The Israeli military says thousands of troops have surrounded a large tunnel network in southern Lebanon. The standoff is at the center of intense clashes in the area recently."
+      "label": "earthquake devastates venezuela",
+      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+      "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces."
     },
     {
-      "char": "🔥",
-      "label": "extreme heat wave in europe",
-      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
-      "summary": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent."
-    },
-    {
-      "char": "🇨🇴",
-      "label": "colombia's candidate concedes defeat",
-      "url": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
-      "title": "Colombia's left-wing presidential candidate concedes defeat",
-      "summary": "Senator Iván Cepeda was beaten by right-wing businessman Abelardo de la Espriella by less than a percentage point."
-    },
-    {
-      "char": "🇬🇧",
-      "label": "uk ties with uae over sudan atrocities",
-      "url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
-      "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
-      "summary": "Foreign Office failed to act on warnings of genocide due to ‘pressure’ from emirates, Yale human rights investigator will tell a parliamentary select committee The British government had received intelligence that Ethiopia appeared to be..."
-    },
-    {
-      "char": "🎭",
-      "label": "kenya's gender-based violence play",
-      "url": "https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence",
-      "title": "Play puts spotlight on Kenya’s crisis of gender-based violence",
-      "summary": "Autobiographical work Free Me aims to encourage victims to speak out in country where violence against women is rising There are audible gasps in the auditorium in Nairobi as a husband launches a volley of blows and slaps on his wife and..."
-    },
-    {
-      "char": "🌍",
-      "label": "record-breaking heat wave in europe",
-      "url": "https://www.nytimes.com/2026/06/24/world/europe/europe-heat-wave-photos.html",
-      "title": "See Record-Breaking Extreme Heat Wave Across Europe in Photos",
-      "summary": "Temperature records were broken in several European countries on Wednesday."
-    },
-    {
-      "char": "🌪️",
-      "label": "venezuela earthquake causes destruction",
-      "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
-      "title": "Venezuela earthquake: powerful back-to-back quakes collapse buildings in capital Caracas",
-      "summary": "Homes and buildings collapse after double quake, with tremors felt in neighbouring Colombia Venezuela earthquakes: follow live updates Venezuela’s interim leader, Delcy Rodríguez, has declared a state of emergency after the country was s..."
-    },
-    {
-      "char": "🏃‍♂️",
-      "label": "world's largest ultramarathon",
-      "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
-      "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
-      "summary": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the ha..."
-    },
-    {
-      "char": "🌍",
-      "label": "nuclear inspectors to visit iran",
-      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US."
-    },
-    {
-      "char": "🗳️",
-      "label": "colombia election results",
-      "url": "https://www.theguardian.com/world/2026/jun/24/colombia-presidential-election-abelardo-de-la-espriella",
-      "title": "Colombia’s leftwing candidate concedes election to Trump-endorsed millionaire",
-      "summary": "Leftist Iván Cepeda conceded to far-right lawyer Abelardo de la Espriella who won by razor-thin margin The defeated leftwing candidate in Colombia’s presidential runoff has conceded to the far-right, Trump-admiring millionaire lawyer Abe..."
-    },
-    {
-      "char": "⚖️",
-      "label": "icc judges sue trump",
-      "url": "https://www.nytimes.com/2026/06/24/world/europe/trump-sanctions-judges-lawsuit.html",
-      "title": "ICC Judges Sue Trump Administration Over Sanctions",
-      "summary": "Kimberly Prost, a Canadian judge at the International Criminal Court, and two colleagues are suing the administration, saying the sanctions were a form of retaliation."
-    },
-    {
-      "char": "🌪️",
-      "label": "venezuela earthquake updates",
-      "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
-      "title": "Venezuela earthquake: fatal back-to-back earthquakes in Caracas as experts warn of heavy death toll",
-      "summary": "Homes and buildings collapse after double quake, with tremors felt in neighbouring Colombia Venezuela earthquakes: follow live updates Venezuela’s interim leader, Delcy Rodríguez, has declared a state of emergency after the country was s..."
-    },
-    {
-      "char": "🕊️",
-      "label": "kenyans march for protest victims",
-      "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
-      "title": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
-      "summary": "Protesters demand justice for more than 80 people killed during the 2024 demonstrations and last year's anniversary protests."
-    },
-    {
-      "char": "🎭",
-      "label": "play highlights gender violence in kenya",
-      "url": "https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence",
-      "title": "Play puts spotlight on Kenya’s crisis of gender-based violence",
-      "summary": "Autobiographical work Free Me aims to encourage victims to speak out in country where violence against women is rising There are audible gasps in the auditorium in Nairobi as a husband launches a volley of blows and slaps on his wife and..."
-    },
-    {
-      "char": "🐶",
-      "label": "public protest against dog abuse in china",
-      "url": "https://www.nytimes.com/2026/06/25/world/asia/dog-animal-abuse-china-protest.html",
-      "title": "A Puppy-Abuse Case in China, Caught on Video, Prompts Rare Public Protest",
-      "summary": "After a man was filmed torturing dogs, hundreds gathered in a rare demonstration that the police tried to break up. For many, the sit-in was their first civic action."
-    },
-    {
-      "char": "🌍",
-      "label": "france reports first ebola case",
-      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
-      "title": "France confirms first Ebola case in doctor who had worked in DRC",
-      "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
-    },
-    {
-      "char": "🌪️",
-      "label": "venezuela earthquake causes panic",
-      "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
-      "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
-      "summary": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble."
-    },
-    {
-      "char": "🚢",
-      "label": "iran threatens ships in strait of hormuz",
-      "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
-      "title": "Iran Threatens Ships in Strait of Hormuz as Marco Rubio Meets Gulf Leaders",
-      "summary": "The new warning complicated efforts to revive use of the critical waterway as Washington sought regional support for its framework peace agreement with Iran."
-    },
-    {
-      "char": "🌍",
-      "label": "venezuela earthquakes death toll rises",
-      "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
-      "title": "Venezuela earthquakes: ‘intensive’ search for survivors as death toll rises to 164 – latest updates",
-      "summary": "Delcy Rodríguez said authorities were shifting rescue teams from other parts of the country to the hardest-hit La Guaira area Venezuela declares state of emergency after deadly twin earthquakes Have you been affected by the earthquakes i..."
-    },
-    {
-      "char": "🦠",
-      "label": "france confirms first ebola case",
-      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
-      "title": "France confirms first Ebola case in doctor who had worked in DRC",
-      "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
-    },
-    {
-      "char": "🏗️",
-      "label": "kenya halts us ebola facility construction",
+      "char": "🚧",
+      "label": "kenya halts us ebola facility",
       "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
       "title": "Kenyan minister orders halt to construction of US Ebola facility",
       "summary": "Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya’s health minister told a court he had ordered preparations for a US-run Ebola quarantine facility to stop, after being held i..."
     },
     {
+      "char": "✈️",
+      "label": "ryanair won't charge parents",
+      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
+      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
+      "summary": "The airline had typically charged adults a fee of £8 each way to sit with their young children."
+    },
+    {
       "char": "🌊",
-      "label": "parisians escape heat in old canal",
+      "label": "parisians swim in canal heatwave",
       "url": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
       "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
       "summary": "Crowds are filling the Canal Saint-Martin in Paris, as temperatures soar above 100 degrees Fahrenheit. Forty people drowned while swimming in other waterways."
+    },
+    {
+      "char": "⚖️",
+      "label": "zimbabwe extends presidential term",
+      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+      "summary": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on power Zimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government s..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😨",
-    "emoji": "😨",
-    "rationale": "Today's news reflects a sense of anxiety and fear, particularly with the earthquakes in Venezuela and the first Ebola case in France, highlighting global health concerns and natural disasters.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
