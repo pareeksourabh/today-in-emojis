@@ -1,28 +1,7 @@
 {
   "date": "2026-06-26",
-  "timestamp": "2026-06-26T07:57:38Z",
+  "timestamp": "2026-06-26T00:00:00Z",
   "emojis": [
-    {
-      "char": "🇻🇪",
-      "label": "venezuela earthquakes update",
-      "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
-      "title": "Venezuela earthquakes: ‘intensive’ search for survivors as death toll rises to 188 – as it happened",
-      "summary": "Delcy Rodríguez said authorities were shifting rescue teams from other parts of the country to the hardest-hit La Guaira area Venezuela declares state of emergency after deadly twin earthquakes Have you been affected by the earthquakes i..."
-    },
-    {
-      "char": "🔥",
-      "label": "deadly heat wave in europe",
-      "url": "https://www.nytimes.com/2026/06/25/world/europe/heat-wave.html",
-      "title": "Deadly Heat Wave in Europe Continues to Smash Temperature Records",
-      "summary": "The continent’s second heat wave since May continued to disrupt daily life for millions. Officials in Spain said it might have contributed to a spike in deaths."
-    },
-    {
-      "char": "⚖️",
-      "label": "french women call to abolish limits",
-      "url": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
-      "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
-      "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice."
-    },
     {
       "char": "🚢",
       "label": "iran strikes ship in strait of hormuz",
@@ -31,11 +10,32 @@
       "summary": "The attack, confirmed by U.S. and Iranian officials, came after Tehran threatened to disrupt shipping in the waterway and as Washington sought regional support for its peace agreement."
     },
     {
-      "char": "🗳️",
-      "label": "right-wing victory in colombia",
-      "url": "https://www.nytimes.com/2026/06/25/world/americas/colombia-election-de-la-espriella-trump.html",
-      "title": "A Right-Wing Election Victory in Colombia, With a Little Help from Trump",
-      "summary": "The U.S. president endorsed the right-wing winner. But his influence went further."
+      "char": "🇬🇧",
+      "label": "uk ties with uae over sudan atrocities",
+      "url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
+      "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
+      "summary": "Foreign Office failed to act on warnings of genocide due to ‘pressure’ from emirates, Yale human rights investigator will tell a parliamentary select committee The British government had received intelligence that Ethiopia appeared to be..."
+    },
+    {
+      "char": "👑",
+      "label": "king charles pays $39.6 million in taxes",
+      "url": "https://www.nytimes.com/2026/06/25/world/europe/king-charles-taxes-uk.html",
+      "title": "King Charles III Has Paid More Than $39.6 Million in Taxes, Palace Discloses in a U.K. First",
+      "summary": "Charles released his tax information for the period he has been king of Britain as part of a push for greater transparency after the scandal involving the former Prince Andrew."
+    },
+    {
+      "char": "🌍",
+      "label": "experts say earthquakes are not related",
+      "url": "https://www.theguardian.com/world/2026/jun/25/three-recent-powerful-earthquakes-not-related",
+      "title": "Experts say three recent powerful earthquakes are not related",
+      "summary": "5.6-magnitude California tremor, 7.2-magnitude temblor in Japan and two quakes in Venezuela all struck within hours A 5.6-magnitude earthquake struck a rural part of northern California on Wednesday. Hours later, a 7.2-magnitude earthqua..."
+    },
+    {
+      "char": "🇻🇪",
+      "label": "venezuelans escape after huge earthquakes",
+      "url": "https://www.theguardian.com/world/2026/jun/25/paralysed-by-fear-venezuelans-tell-of-escape-and-loss-after-huge-earthquakes",
+      "title": "‘Paralysed by fear’: Venezuelans tell of escape and loss after huge earthquakes",
+      "summary": "People in Caracas and coastal towns describe powerful quakes that collapsed buildings and killed at least 164 As a double whammy of powerful earthquakes rattled Venezuela’s northern coast on Wednesday, residents of the capital, Caracas,..."
     }
   ],
   "source": "ai-openai",
