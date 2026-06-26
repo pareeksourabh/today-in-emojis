@@ -1,43 +1,204 @@
 {
   "date": "2026-06-26",
-  "timestamp": "2026-06-26T17:27:03Z",
+  "timestamp": "2026-06-26T00:00:00Z",
   "emojis": [
     {
       "char": "🌍",
-      "label": "venezuela earthquake death toll rises",
-      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
-      "title": "Venezuela death toll doubles as interim president vows to save ‘as many people as possible’",
-      "summary": "Delcy Rodríguez says foreign rescue teams are arriving but people are angry at official response and limited resources Venezuela’s interim president, Delcy Rodríguez, has vowed to fight to save “as many people as possible” as the officia..."
+      "label": "earthquake devastates venezuela",
+      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+      "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces."
     },
     {
-      "char": "🏆",
-      "label": "cape verde shines in world cup",
-      "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
-      "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
-      "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and Uruguay World Cup live – latest updates For as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape V..."
-    },
-    {
-      "char": "⚔️",
-      "label": "iran asserts control over strait of hormuz",
-      "url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
-      "title": "Iran Asserts Authority Over Strait of Hormuz After Attacking Cargo Ship",
-      "summary": "The president did not say how or whether he would respond, a day after Iran fired on a container ship that was transiting the Strait of Hormuz, an act Mr. Trump called “foolish.”"
-    },
-    {
-      "char": "🦠",
-      "label": "ebola case confirmed in france",
-      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
-      "title": "France confirms first Ebola case in doctor who had worked in DRC",
-      "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
+      "char": "🚧",
+      "label": "kenya halts us ebola facility",
+      "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
+      "title": "Kenyan minister orders halt to construction of US Ebola facility",
+      "summary": "Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya’s health minister told a court he had ordered preparations for a US-run Ebola quarantine facility to stop, after being held i..."
     },
     {
       "char": "✈️",
-      "label": "plane crashes into tallest building in beijing",
-      "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-      "title": "Small Plane Crashes Into Tallest Building in Beijing",
-      "summary": "Crowds in the capital’s central business district fled as the crash sent debris falling into the streets below."
+      "label": "ryanair won't charge parents",
+      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
+      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
+      "summary": "The airline had typically charged adults a fee of £8 each way to sit with their young children."
+    },
+    {
+      "char": "🌊",
+      "label": "parisians swim in canal heatwave",
+      "url": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
+      "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
+      "summary": "Crowds are filling the Canal Saint-Martin in Paris, as temperatures soar above 100 degrees Fahrenheit. Forty people drowned while swimming in other waterways."
+    },
+    {
+      "char": "⚖️",
+      "label": "zimbabwe extends presidential term",
+      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+      "summary": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on power Zimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government s..."
+    },
+    {
+      "char": "🇮🇷",
+      "label": "trump seeks funding for iran war",
+      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+      "summary": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue."
+    },
+    {
+      "char": "🐶",
+      "label": "puppy abuse sparks protest in china",
+      "url": "https://www.nytimes.com/2026/06/25/world/asia/dog-animal-abuse-china-protest.html",
+      "title": "A Puppy-Abuse Case in China, Caught on Video, Prompts Rare Public Protest",
+      "summary": "After a man was filmed torturing dogs, hundreds gathered in a rare demonstration that the police tried to break up. For many, the sit-in was their first civic action."
+    },
+    {
+      "char": "🌊",
+      "label": "parisians swim in canal to escape heat",
+      "url": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
+      "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
+      "summary": "Crowds are filling the Canal Saint-Martin in Paris, as temperatures soar above 100 degrees Fahrenheit. Forty people drowned while swimming in other waterways."
+    },
+    {
+      "char": "🌍",
+      "label": "uk prioritizes ties with uae over sudan",
+      "url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
+      "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
+      "summary": "Foreign Office failed to act on warnings of genocide due to ‘pressure’ from emirates, Yale human rights investigator will tell a parliamentary select committee The British government had received intelligence that Ethiopia appeared to be..."
+    },
+    {
+      "char": "🌪️",
+      "label": "venezuela earthquakes death toll rises",
+      "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
+      "title": "Venezuela earthquakes: ‘intensive’ search for survivors as death toll rises to 188 – as it happened",
+      "summary": "Delcy Rodríguez said authorities were shifting rescue teams from other parts of the country to the hardest-hit La Guaira area Venezuela declares state of emergency after deadly twin earthquakes Have you been affected by the earthquakes i..."
+    },
+    {
+      "char": "🚢",
+      "label": "iran strikes ship in strait of hormuz",
+      "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
+      "title": "Iran Strikes Ship in Strait of Hormuz, Undermining Efforts to Restore Traffic",
+      "summary": "The attack, confirmed by U.S. and Iranian officials, came after Tehran threatened to disrupt shipping in the waterway and as Washington sought regional support for its peace agreement."
+    },
+    {
+      "char": "🇬🇧",
+      "label": "uk ties with uae over sudan atrocities",
+      "url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
+      "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
+      "summary": "Foreign Office failed to act on warnings of genocide due to ‘pressure’ from emirates, Yale human rights investigator will tell a parliamentary select committee The British government had received intelligence that Ethiopia appeared to be..."
+    },
+    {
+      "char": "👑",
+      "label": "king charles pays $39.6 million in taxes",
+      "url": "https://www.nytimes.com/2026/06/25/world/europe/king-charles-taxes-uk.html",
+      "title": "King Charles III Has Paid More Than $39.6 Million in Taxes, Palace Discloses in a U.K. First",
+      "summary": "Charles released his tax information for the period he has been king of Britain as part of a push for greater transparency after the scandal involving the former Prince Andrew."
+    },
+    {
+      "char": "🌍",
+      "label": "experts say earthquakes are not related",
+      "url": "https://www.theguardian.com/world/2026/jun/25/three-recent-powerful-earthquakes-not-related",
+      "title": "Experts say three recent powerful earthquakes are not related",
+      "summary": "5.6-magnitude California tremor, 7.2-magnitude temblor in Japan and two quakes in Venezuela all struck within hours A 5.6-magnitude earthquake struck a rural part of northern California on Wednesday. Hours later, a 7.2-magnitude earthqua..."
+    },
+    {
+      "char": "🇻🇪",
+      "label": "venezuelans escape after huge earthquakes",
+      "url": "https://www.theguardian.com/world/2026/jun/25/paralysed-by-fear-venezuelans-tell-of-escape-and-loss-after-huge-earthquakes",
+      "title": "‘Paralysed by fear’: Venezuelans tell of escape and loss after huge earthquakes",
+      "summary": "People in Caracas and coastal towns describe powerful quakes that collapsed buildings and killed at least 164 As a double whammy of powerful earthquakes rattled Venezuela’s northern coast on Wednesday, residents of the capital, Caracas,..."
+    },
+    {
+      "char": "🛠️",
+      "label": "reflecting pool vandalism",
+      "url": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
+      "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+      "summary": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water."
+    },
+    {
+      "char": "💻",
+      "label": "uk economy hack investigation",
+      "url": "https://www.nytimes.com/2026/06/26/world/europe/jaguar-russia-hack.html",
+      "title": "A $2.5 Billion Whodunit: The Hack That Dented the U.K. Economy",
+      "summary": "A loose collective of cybercriminals initially took credit for crippling Jaguar Land Rover last year. Investigators now see Russian hands behind the ransomware attack."
+    },
+    {
+      "char": "🌍",
+      "label": "venezuela earthquake updates",
+      "url": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
+      "title": "Venezuela Live Updates: More Rescuers Join Urgent Search for Quake Survivors",
+      "summary": "The United States and Mexico were among the latest to send support as the death toll from two powerful earthquakes climbed to 235. Thousands were injured, and hundreds remained missing or trapped under rubble."
+    },
+    {
+      "char": "🇲🇽",
+      "label": "luxury assets of new ambassador",
+      "url": "https://www.theguardian.com/world/2026/jun/26/luxury-assets-mexico-new-ambassador-uk-alejandro-gertz-manero",
+      "title": "Mexico’s new UK ambassador from ‘party of poor’ has 10 houses and £1m of jewellery",
+      "summary": "Alejandro Gertz Manero’s cars and properties contrast starkly with Morena party’s long association with austerity With his million-dollar jewellery collection and his two Rolls-Royces, Mexico’s new ambassador to the UK will fit right in..."
+    },
+    {
+      "char": "🐠",
+      "label": "new marine species discovered",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
+      "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
+      "summary": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge tech A marine biology expedition in international waters off the coast of Brazil has discovered 31 new species in just two weeks. The researchers be..."
+    },
+    {
+      "char": "🌍",
+      "label": "venezuela earthquake aftermath",
+      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+      "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces."
+    },
+    {
+      "char": "📹",
+      "label": "aerial footage of destruction",
+      "url": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
+      "title": "Aerial footage reveals destruction in coastal Venezuela",
+      "summary": "Multi-storey buildings have collapsed in La Guaira following two major earthquakes on Wednesday."
+    },
+    {
+      "char": "⚖️",
+      "label": "trump's immigration court battle",
+      "url": "https://www.theguardian.com/us-news/2026/jun/26/trump-supreme-court-immigration",
+      "title": "Trump finds partner in supreme court in his war against immigration",
+      "summary": "Recent rulings have bolstered president’s pitiless campaign against people of colour fleeing violence and disaster In the US supreme court, it seems Donald Trump has found loyalists in his crusade against immigration and immigrants. In a..."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "canada joins eurovision",
+      "url": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
+      "title": "Canada eligible to join Eurovision competition",
+      "summary": "Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget."
+    },
+    {
+      "char": "🐾",
+      "label": "new species discovered in brazil",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
+      "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
+      "summary": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge tech A marine biology expedition in international waters off the coast of Brazil has discovered 31 new species in just two weeks. The researchers be..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Devastation",
+    "emoji": "😢",
+    "rationale": "The news highlights a series of devastating events, particularly the earthquakes in Venezuela leading to significant loss of life and destruction, which evokes a deep sense of sorrow and concern.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
