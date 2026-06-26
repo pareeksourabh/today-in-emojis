@@ -50951,5 +50951,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-26",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "venezuela earthquake death toll rises",
+        "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
+        "title": "Venezuela death toll doubles as interim president vows to save ‘as many people as possible’",
+        "summary": "Delcy Rodríguez says foreign rescue teams are arriving but people are angry at official response and limited resources Venezuela’s interim president, Delcy Rodríguez, has vowed to fight to save “as many people as possible” as the officia..."
+      },
+      {
+        "char": "🏆",
+        "label": "cape verde shines in world cup",
+        "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
+        "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
+        "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and Uruguay World Cup live – latest updates For as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape V..."
+      },
+      {
+        "char": "⚔️",
+        "label": "iran asserts control over strait of hormuz",
+        "url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
+        "title": "Iran Asserts Authority Over Strait of Hormuz After Attacking Cargo Ship",
+        "summary": "The president did not say how or whether he would respond, a day after Iran fired on a container ship that was transiting the Strait of Hormuz, an act Mr. Trump called “foolish.”"
+      },
+      {
+        "char": "🦠",
+        "label": "ebola case confirmed in france",
+        "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
+        "title": "France confirms first Ebola case in doctor who had worked in DRC",
+        "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
+      },
+      {
+        "char": "✈️",
+        "label": "plane crashes into tallest building in beijing",
+        "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
+        "title": "Small Plane Crashes Into Tallest Building in Beijing",
+        "summary": "Crowds in the capital’s central business district fled as the crash sent debris falling into the streets below."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
