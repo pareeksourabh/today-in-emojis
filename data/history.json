@@ -50819,5 +50819,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-26",
+    "emojis": [
+      {
+        "char": "🇻🇪",
+        "label": "venezuela earthquakes update",
+        "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
+        "title": "Venezuela earthquakes: ‘intensive’ search for survivors as death toll rises to 188 – as it happened",
+        "summary": "Delcy Rodríguez said authorities were shifting rescue teams from other parts of the country to the hardest-hit La Guaira area Venezuela declares state of emergency after deadly twin earthquakes Have you been affected by the earthquakes i..."
+      },
+      {
+        "char": "🔥",
+        "label": "deadly heat wave in europe",
+        "url": "https://www.nytimes.com/2026/06/25/world/europe/heat-wave.html",
+        "title": "Deadly Heat Wave in Europe Continues to Smash Temperature Records",
+        "summary": "The continent’s second heat wave since May continued to disrupt daily life for millions. Officials in Spain said it might have contributed to a spike in deaths."
+      },
+      {
+        "char": "⚖️",
+        "label": "french women call to abolish limits",
+        "url": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
+        "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
+        "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice."
+      },
+      {
+        "char": "🚢",
+        "label": "iran strikes ship in strait of hormuz",
+        "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
+        "title": "Iran Strikes Ship in Strait of Hormuz, Undermining Efforts to Restore Traffic",
+        "summary": "The attack, confirmed by U.S. and Iranian officials, came after Tehran threatened to disrupt shipping in the waterway and as Washington sought regional support for its peace agreement."
+      },
+      {
+        "char": "🗳️",
+        "label": "right-wing victory in colombia",
+        "url": "https://www.nytimes.com/2026/06/25/world/americas/colombia-election-de-la-espriella-trump.html",
+        "title": "A Right-Wing Election Victory in Colombia, With a Little Help from Trump",
+        "summary": "The U.S. president endorsed the right-wing winner. But his influence went further."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
