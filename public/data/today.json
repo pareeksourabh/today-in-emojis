@@ -1,41 +1,41 @@
 {
   "date": "2026-06-27",
-  "timestamp": "2026-06-27T00:00:00Z",
+  "timestamp": "2026-06-27T10:11:51Z",
   "emojis": [
     {
+      "char": "🇺🇸",
+      "label": "us strikes iran after cargo ship attack",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "title": "US strikes Iran after attack on cargo ship",
+      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response."
+    },
+    {
+      "char": "🦠",
+      "label": "volunteers risk lives to stop ebola",
+      "url": "https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html",
+      "title": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.",
+      "summary": "Frontline Congolese workers who conduct safe burials are key to containing what experts fear could become the worst ever Ebola outbreak. They risk not just infection, but the anger of terrified communities."
+    },
+    {
+      "char": "💔",
+      "label": "mother dies saving daughter in quake",
+      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people."
+    },
+    {
+      "char": "📚",
+      "label": "texas makes bible stories required reading",
+      "url": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+      "title": "Religion row as Texas makes Bible stories required reading in schools",
+      "summary": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state."
+    },
+    {
       "char": "🌍",
-      "label": "venezuela earthquake survivors",
-      "url": "https://www.theguardian.com/world/2026/jun/26/hunt-survivors-brutal-venezuela-earthquake",
-      "title": "Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on",
-      "summary": "Worst incident of its kind in country for more than 125 years leaves many searching for family members – and pleading for international help Venezuela death toll doubles as interim president vows to save ‘as many people as possible’ Near..."
-    },
-    {
-      "char": "⚽",
-      "label": "cape verde world cup joy",
-      "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
-      "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
-      "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and Uruguay World Cup live – latest updates For as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape V..."
-    },
-    {
-      "char": "🐠",
-      "label": "new marine species discovered",
+      "label": "marine expedition uncovers new species",
       "url": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
       "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
       "summary": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge tech A marine biology expedition in international waters off the coast of Brazil has discovered 31 new species in just two weeks. The researchers be..."
-    },
-    {
-      "char": "⚖️",
-      "label": "dr congo vs rwanda court case",
-      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-      "title": "DR Congo takes Rwanda to international court over decades of conflict",
-      "summary": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide."
-    },
-    {
-      "char": "📰",
-      "label": "carney's pm residence contest",
-      "url": "https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence",
-      "title": "Carney announces contest to revamp uninhabitable Canadian PM residence",
-      "summary": "Various issues – including a rodent infestation and mould – have left the historic, sprawling Ottawa estate empty 10 Downing Street has two things: mice and a chief mouser . For more than a decade, an officially recognized feline has kep..."
     }
   ],
   "source": "ai-openai",
