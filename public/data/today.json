@@ -1,41 +1,41 @@
 {
   "date": "2026-06-27",
-  "timestamp": "2026-06-27T02:27:13Z",
+  "timestamp": "2026-06-27T00:00:00Z",
   "emojis": [
     {
+      "char": "🗞️",
+      "label": "bolton pleads guilty to mishandling docs",
+      "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say."
+    },
+    {
+      "char": "🏠",
+      "label": "carney to revamp canadian pm residence",
+      "url": "https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence",
+      "title": "Carney announces contest to revamp uninhabitable Canadian PM residence",
+      "summary": "Various issues – including a rodent infestation and mould – have left the historic, sprawling Ottawa estate empty 10 Downing Street has two things: mice and a chief mouser . For more than a decade, an officially recognized feline has kep..."
+    },
+    {
+      "char": "✈️",
+      "label": "plane crashes into tallest building in beijing",
+      "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
+      "title": "Small Plane Crashes Into Tallest Building in Beijing",
+      "summary": "Crowds in the capital’s central business district fled as the crash sent debris falling into the streets below."
+    },
+    {
       "char": "🌍",
-      "label": "venezuela earthquakes kill 920 people",
-      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
-      "summary": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive."
+      "label": "france confirms first ebola case in doctor",
+      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
+      "title": "France confirms first Ebola case in doctor who had worked in DRC",
+      "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
     },
     {
-      "char": "⚔️",
-      "label": "u.s. strikes iran after vessel attack",
-      "url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
-      "title": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
-      "summary": "President Trump on Friday called Iran’s attack on a container ship transiting the Strait of Hormuz a day earlier a “foolish” act."
-    },
-    {
-      "char": "📜",
-      "label": "zimbabwe senate extends presidential term",
-      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
-      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
-      "summary": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on power Zimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government s..."
-    },
-    {
-      "char": "☀️",
-      "label": "europe’s scorching heat moves east",
-      "url": "https://www.nytimes.com/2026/06/26/weather/europe-heat-wave-temperatures.html",
-      "title": "Europe’s Scorching Heat Is Gradually Moving East",
-      "summary": "Parts of Spain, France and other countries are seeing slight relief, but the record-breaking heat wave is far from over."
-    },
-    {
-      "char": "🐠",
-      "label": "marine expedition uncovers new species",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
-      "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
-      "summary": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge tech A marine biology expedition in international waters off the coast of Brazil has discovered 31 new species in just two weeks. The researchers be..."
+      "char": "💔",
+      "label": "mother dies saving daughter in earthquakes",
+      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people."
     }
   ],
   "source": "ai-openai",
