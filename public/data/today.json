@@ -1,41 +1,41 @@
 {
   "date": "2026-06-27",
-  "timestamp": "2026-06-27T06:57:13Z",
+  "timestamp": "2026-06-27T00:00:00Z",
   "emojis": [
     {
+      "char": "🌍",
+      "label": "venezuela earthquake survivors",
+      "url": "https://www.theguardian.com/world/2026/jun/26/hunt-survivors-brutal-venezuela-earthquake",
+      "title": "Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on",
+      "summary": "Worst incident of its kind in country for more than 125 years leaves many searching for family members – and pleading for international help Venezuela death toll doubles as interim president vows to save ‘as many people as possible’ Near..."
+    },
+    {
+      "char": "⚽",
+      "label": "cape verde world cup joy",
+      "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
+      "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
+      "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and Uruguay World Cup live – latest updates For as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape V..."
+    },
+    {
+      "char": "🐠",
+      "label": "new marine species discovered",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
+      "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
+      "summary": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge tech A marine biology expedition in international waters off the coast of Brazil has discovered 31 new species in just two weeks. The researchers be..."
+    },
+    {
+      "char": "⚖️",
+      "label": "dr congo vs rwanda court case",
+      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+      "title": "DR Congo takes Rwanda to international court over decades of conflict",
+      "summary": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide."
+    },
+    {
       "char": "📰",
-      "label": "bolton pleads guilty to mishandling docs",
-      "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say."
-    },
-    {
-      "char": "🇿🇼",
-      "label": "zimbabwe senate extends presidential term",
-      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
-      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
-      "summary": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on power Zimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government s..."
-    },
-    {
-      "char": "🏠",
-      "label": "carney to revamp canadian pm residence",
+      "label": "carney's pm residence contest",
       "url": "https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence",
       "title": "Carney announces contest to revamp uninhabitable Canadian PM residence",
       "summary": "Various issues – including a rodent infestation and mould – have left the historic, sprawling Ottawa estate empty 10 Downing Street has two things: mice and a chief mouser . For more than a decade, an officially recognized feline has kep..."
-    },
-    {
-      "char": "🦠",
-      "label": "france confirms first ebola case",
-      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
-      "title": "France confirms first Ebola case in doctor who had worked in DRC",
-      "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
-    },
-    {
-      "char": "🌍",
-      "label": "venezuela quake death toll rises to 920",
-      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
-      "title": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
-      "summary": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resources Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on Venezuela’s interim president, Delcy Rodrí..."
     }
   ],
   "source": "ai-openai",
