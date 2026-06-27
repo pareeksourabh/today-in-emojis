@@ -51127,5 +51127,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-27",
+    "emojis": [
+      {
+        "char": "🇦🇺",
+        "label": "australia toughens social media ban",
+        "url": "https://www.nytimes.com/2026/06/27/world/australia/social-media-ban-children.html",
+        "title": "Australia Says It Will Toughen Its Social Media Ban for Children",
+        "summary": "Saying tech companies were “not doing enough” to keep youths under 16 off their platforms, the government announced tougher fines and new powers for a regulator."
+      },
+      {
+        "char": "🤝",
+        "label": "israel lebanon sign agreement",
+        "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+        "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+        "summary": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes."
+      },
+      {
+        "char": "💥",
+        "label": "us strikes iran after cargo attack",
+        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "title": "US strikes Iran after attack on cargo ship",
+        "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response."
+      },
+      {
+        "char": "🐠",
+        "label": "marine expedition uncovers new species",
+        "url": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
+        "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
+        "summary": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge tech A marine biology expedition in international waters off the coast of Brazil has discovered 31 new species in just two weeks. The researchers be..."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela's economy hit by earthquakes",
+        "url": "https://www.nytimes.com/2026/06/27/world/americas/venezuelas-economy-earthquake.html",
+        "title": "Venezuela’s Economy Was On the Rise. Then the Earthquakes Struck.",
+        "summary": "Expectations are now rising over the role the United States will play in helping Venezuela, which had already been laid low by decades of misrule."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
