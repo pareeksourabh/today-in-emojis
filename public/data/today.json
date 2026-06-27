@@ -1,13 +1,20 @@
 {
   "date": "2026-06-27",
-  "timestamp": "2026-06-27T00:00:00Z",
+  "timestamp": "2026-06-27T06:57:13Z",
   "emojis": [
     {
-      "char": "🗞️",
+      "char": "📰",
       "label": "bolton pleads guilty to mishandling docs",
       "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
       "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
       "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say."
+    },
+    {
+      "char": "🇿🇼",
+      "label": "zimbabwe senate extends presidential term",
+      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+      "summary": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on power Zimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government s..."
     },
     {
       "char": "🏠",
@@ -17,25 +24,18 @@
       "summary": "Various issues – including a rodent infestation and mould – have left the historic, sprawling Ottawa estate empty 10 Downing Street has two things: mice and a chief mouser . For more than a decade, an officially recognized feline has kep..."
     },
     {
-      "char": "✈️",
-      "label": "plane crashes into tallest building in beijing",
-      "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-      "title": "Small Plane Crashes Into Tallest Building in Beijing",
-      "summary": "Crowds in the capital’s central business district fled as the crash sent debris falling into the streets below."
-    },
-    {
-      "char": "🌍",
-      "label": "france confirms first ebola case in doctor",
+      "char": "🦠",
+      "label": "france confirms first ebola case",
       "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
       "title": "France confirms first Ebola case in doctor who had worked in DRC",
       "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
     },
     {
-      "char": "💔",
-      "label": "mother dies saving daughter in earthquakes",
-      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "title": "Mother dies saving daughter in Venezuela earthquakes",
-      "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people."
+      "char": "🌍",
+      "label": "venezuela quake death toll rises to 920",
+      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
+      "title": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
+      "summary": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resources Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on Venezuela’s interim president, Delcy Rodrí..."
     }
   ],
   "source": "ai-openai",
