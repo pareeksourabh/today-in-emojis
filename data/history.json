@@ -51215,5 +51215,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-28",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "us-israel relationship concerns",
+        "url": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
+        "title": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
+        "summary": "Criticism of Israel’s war in Gaza, anger over the Iran war and election results in New York all suggest Israel’s solid support from Washington may be on borrowed time."
+      },
+      {
+        "char": "☀️",
+        "label": "record heatwave in europe",
+        "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+        "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+        "summary": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe."
+      },
+      {
+        "char": "⚖️",
+        "label": "woman jailed for online criticism",
+        "url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
+        "title": "Outrage as woman jailed for three years after criticising Somali government online",
+        "summary": "Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groups A rickshaw driver in Somalia has been sentenced to three years in prison for comments she made on social media, in a ca..."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela earthquake death toll rises",
+        "url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
+        "title": "Venezuela earthquakes: death toll rises again to more than 1,400",
+        "summary": "Search for survivors continues with nearly 70,000 people reported unaccounted for by their family members The ⁠death toll ⁠in ⁠the twin ​earthquakes that struck ⁠ Venezuela earlier ⁠this ​week ‌has ‌risen to ‌1,430, according to one of t..."
+      },
+      {
+        "char": "💻",
+        "label": "australia's social media ban for kids",
+        "url": "https://www.nytimes.com/2026/06/27/world/australia/social-media-ban-children.html",
+        "title": "Australia Says It Will Toughen Its Social Media Ban for Children",
+        "summary": "Saying tech companies were “not doing enough” to keep youths under 16 off their platforms, the government announced tougher fines and new powers for a regulator."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
