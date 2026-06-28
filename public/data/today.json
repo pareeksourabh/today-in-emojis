@@ -1,7 +1,168 @@
 {
   "date": "2026-06-28",
-  "timestamp": "2026-06-28T16:53:53Z",
+  "timestamp": "2026-06-28T00:00:00Z",
   "emojis": [
+    {
+      "char": "🇦🇺",
+      "label": "australia toughens social media ban",
+      "url": "https://www.nytimes.com/2026/06/27/world/australia/social-media-ban-children.html",
+      "title": "Australia Says It Will Toughen Its Social Media Ban for Children",
+      "summary": "Saying tech companies were “not doing enough” to keep youths under 16 off their platforms, the government announced tougher fines and new powers for a regulator."
+    },
+    {
+      "char": "🍜",
+      "label": "burmese food shines internationally",
+      "url": "https://www.nytimes.com/2026/06/27/world/asia/burmese-food-myanmar.html",
+      "title": "Exiled Chefs From Myanmar Give Burmese Food Chance to Shine on International Stage",
+      "summary": "Much of the world is unfamiliar with the cuisine, but an exodus from Myanmar after a coup has made it more visible on the international stage."
+    },
+    {
+      "char": "🌍",
+      "label": "venezuela earthquake death toll rises",
+      "url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
+      "title": "Venezuela earthquakes: death toll rises again to more than 1,400",
+      "summary": "Search for survivors continues with nearly 70,000 people reported unaccounted for by their family members The ⁠death toll ⁠in ⁠the twin ​earthquakes that struck ⁠ Venezuela earlier ⁠this ​week ‌has ‌risen to ‌1,430, according to one of t..."
+    },
+    {
+      "char": "🏛️",
+      "label": "canadian pm residence revamp contest",
+      "url": "https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence",
+      "title": "Carney announces contest to revamp uninhabitable Canadian PM residence",
+      "summary": "Various issues – including a rodent infestation and mould – have left the historic, sprawling Ottawa estate empty 10 Downing Street has two things: mice and a chief mouser . For more than a decade, an officially recognized feline has kep..."
+    },
+    {
+      "char": "🦠",
+      "label": "volunteers risk lives to stop ebola",
+      "url": "https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html",
+      "title": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.",
+      "summary": "Frontline Congolese workers who conduct safe burials are key to containing what experts fear could become the worst ever Ebola outbreak. They risk not just infection, but the anger of terrified communities."
+    },
+    {
+      "char": "🌍",
+      "label": "families call for trapped loved ones",
+      "url": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
+      "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+      "summary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris."
+    },
+    {
+      "char": "🇲🇽",
+      "label": "mexican officials as informants",
+      "url": "https://www.nytimes.com/2026/06/27/world/americas/mexican-officials-us-informants.html",
+      "title": "Mexican Officials Have Become Informants for the Trump Administration",
+      "summary": "President Claudia Sheinbaum of Mexico has pushed back against U.S. investigations into Mexican politicians. Now some politicians want to cooperate."
+    },
+    {
+      "char": "⚠️",
+      "label": "volunteers risk lives to stop ebola",
+      "url": "https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html",
+      "title": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.",
+      "summary": "Frontline Congolese workers who conduct safe burials are key to containing what experts fear could become the worst ever Ebola outbreak. They risk not just infection, but the anger of terrified communities."
+    },
+    {
+      "char": "🏆",
+      "label": "cape verde's world cup delight",
+      "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
+      "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
+      "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and Uruguay World Cup live – latest updates For as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape V..."
+    },
+    {
+      "char": "🔥",
+      "label": "heatwave breaks records in europe",
+      "url": "https://www.nytimes.com/2026/06/27/world/europe/heat-wave-central-eastern-europe.html",
+      "title": "Central and Eastern Europe Are Feeling the Heat Now",
+      "summary": "Much of Germany and Poland were under extreme heat warnings on Saturday as the weather phenomenon driving this week’s record-breaking temperatures moved east."
+    },
+    {
+      "char": "🇲🇽",
+      "label": "mexican officials informants",
+      "url": "https://www.nytimes.com/2026/06/27/world/americas/mexican-officials-us-informants.html",
+      "title": "Mexican Officials Have Become Informants for the Trump Administration",
+      "summary": "President Claudia Sheinbaum of Mexico has pushed back against U.S. investigations into Mexican politicians. Now some politicians want to cooperate."
+    },
+    {
+      "char": "🏠",
+      "label": "revamping canadian pm residence",
+      "url": "https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence",
+      "title": "Carney announces contest to revamp uninhabitable Canadian PM residence",
+      "summary": "Various issues – including a rodent infestation and mould – have left the historic, sprawling Ottawa estate empty 10 Downing Street has two things: mice and a chief mouser . For more than a decade, an officially recognized feline has kep..."
+    },
+    {
+      "char": "🌍",
+      "label": "venezuela earthquake rescue efforts",
+      "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
+      "title": "Chaotic Rush to Help Venezuela Earthquake Victims Delays Some Rescues",
+      "summary": "A surge of people rushed into the devastated earthquake zone to offer help in northern Venezuela, slowing the advance of emergency responders. The death toll linked to twin quakes earlier in the week surpassed 1,400."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola volunteers face backlash",
+      "url": "https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html",
+      "title": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.",
+      "summary": "Frontline Congolese workers who conduct safe burials are key to containing what experts fear could become the worst ever Ebola outbreak. They risk not just infection, but the anger of terrified communities."
+    },
+    {
+      "char": "✈️",
+      "label": "pilot dies in beijing crash",
+      "url": "https://www.nytimes.com/2026/06/28/world/asia/china-pilot-died-plane-crash-beijing.html",
+      "title": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower",
+      "summary": "The statement came a day after online images showed falling debris and plane parts. Another 13 were injured in the incident five miles from Communist Party headquarters."
+    },
+    {
+      "char": "🌍",
+      "label": "venezuela earthquake death toll rises",
+      "url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
+      "title": "Venezuela earthquakes: death toll rises again to more than 1,400",
+      "summary": "Search for survivors continues with nearly 70,000 people reported unaccounted for by their family members The ⁠death toll ⁠in ⁠the twin ​earthquakes that struck ⁠ Venezuela earlier ⁠this ​week ‌has ‌risen to ‌1,430, according to one of t..."
+    },
+    {
+      "char": "📜",
+      "label": "zimbabwe extends presidential term",
+      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+      "summary": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on power Zimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government s..."
+    },
+    {
+      "char": "💻",
+      "label": "woman jailed for online comments in somalia",
+      "url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
+      "title": "Outrage as woman jailed for three years after criticising Somali government online",
+      "summary": "Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groups A rickshaw driver in Somalia has been sentenced to three years in prison for comments she made on social media, in a ca..."
+    },
+    {
+      "char": "🐶",
+      "label": "117 dead dogs found in california rescue",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
+      "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+      "summary": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds."
+    },
+    {
+      "char": "🦠",
+      "label": "france confirms first ebola case",
+      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
+      "title": "France confirms first Ebola case in doctor who had worked in DRC",
+      "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
+    },
+    {
+      "char": "🚁",
+      "label": "saudi arabia helicopter crash",
+      "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+      "title": "Fourteen killed in Saudi Arabia helicopter crash",
+      "summary": "The aircraft belonged to state oil giant Aramco and the cause of the crash is being investigated."
+    },
+    {
+      "char": "🇻🇪",
+      "label": "venezuela earthquake relief issues",
+      "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html",
+      "title": "Delcy Rodriguez, Venezuela’s President, Is Accused of Politicizing Earthquake Relief",
+      "summary": "Critics say the country’s interim president, Delcy Rodríguez, is trying to exploit the tragedy for her political benefit. Her supporters accuse the opposition of doing the same."
+    },
+    {
+      "char": "⚔️",
+      "label": "us iran trade attacks",
+      "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+      "title": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
+      "summary": "President Trump and Iran’s Revolutionary Guards exchanged threats and U.S. allies in the Gulf said they had intercepted Iranian drones, as hostilities entered a fourth day."
+    },
     {
       "char": "✈️",
       "label": "skydiving plane crash in france",
@@ -10,34 +171,34 @@
       "summary": "Five instructors, five students and a pilot died when the plane crashed on Sunday morning in a field near the northeastern city of Nancy."
     },
     {
-      "char": "🐶",
-      "label": "117 dead dogs found in california",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
-      "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
-      "summary": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds."
-    },
-    {
-      "char": "🏚️",
-      "label": "boys rescued from venezuela rubble",
-      "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-      "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive."
-    },
-    {
-      "char": "🔥",
-      "label": "three firefighters die in wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
-      "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
-      "summary": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency."
-    },
-    {
-      "char": "🌍",
-      "label": "france confirms first ebola case",
+      "char": "🦠",
+      "label": "ebola case confirmed in france",
       "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
       "title": "France confirms first Ebola case in doctor who had worked in DRC",
       "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Sadness",
+    "emoji": "😢",
+    "rationale": "The day's news highlights multiple tragedies, including a rising death toll from earthquakes in Venezuela, a plane crash in France, and alarming health crises such as Ebola. This overwhelming sadness is captured by the chosen emoji.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
