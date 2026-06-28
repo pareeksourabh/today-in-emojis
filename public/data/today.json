@@ -1,204 +1,43 @@
 {
-  "date": "2026-06-27",
-  "timestamp": "2026-06-27T00:00:00Z",
+  "date": "2026-06-28",
+  "timestamp": "2026-06-28T00:00:00Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "dr congo vs rwanda in court",
-      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-      "title": "DR Congo takes Rwanda to international court over decades of conflict",
-      "summary": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide."
+      "char": "🇦🇺",
+      "label": "australia toughens social media ban",
+      "url": "https://www.nytimes.com/2026/06/27/world/australia/social-media-ban-children.html",
+      "title": "Australia Says It Will Toughen Its Social Media Ban for Children",
+      "summary": "Saying tech companies were “not doing enough” to keep youths under 16 off their platforms, the government announced tougher fines and new powers for a regulator."
     },
     {
-      "char": "💥",
-      "label": "us strikes iran after cargo attack",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "title": "US conducts strikes on Iran after attack on cargo ship",
-      "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions."
-    },
-    {
-      "char": "🛩️",
-      "label": "plane crashes into beijing building",
-      "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-      "title": "Small Plane Crashes Into Tallest Building in Beijing",
-      "summary": "Crowds in the capital’s central business district fled as the crash sent debris falling into the streets below."
-    },
-    {
-      "char": "🌊",
-      "label": "marine expedition finds new species",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
-      "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
-      "summary": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge tech A marine biology expedition in international waters off the coast of Brazil has discovered 31 new species in just two weeks. The researchers be..."
+      "char": "🍜",
+      "label": "burmese food shines internationally",
+      "url": "https://www.nytimes.com/2026/06/27/world/asia/burmese-food-myanmar.html",
+      "title": "Exiled Chefs From Myanmar Give Burmese Food Chance to Shine on International Stage",
+      "summary": "Much of the world is unfamiliar with the cuisine, but an exodus from Myanmar after a coup has made it more visible on the international stage."
     },
     {
       "char": "🌍",
-      "label": "ebola cases in dr congo unknown",
-      "url": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
-      "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
-      "summary": "Fears over ‘huge community transmission’ as modelling predicts thousands of deaths in DRC by September The whereabouts of almost 300 people who have tested positive for Ebola in the Democratic Republic of the Congo is unknown, according..."
+      "label": "venezuela earthquake death toll rises",
+      "url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
+      "title": "Venezuela earthquakes: death toll rises again to more than 1,400",
+      "summary": "Search for survivors continues with nearly 70,000 people reported unaccounted for by their family members The ⁠death toll ⁠in ⁠the twin ​earthquakes that struck ⁠ Venezuela earlier ⁠this ​week ‌has ‌risen to ‌1,430, according to one of t..."
     },
     {
-      "char": "🗞️",
-      "label": "bolton pleads guilty to mishandling docs",
-      "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say."
-    },
-    {
-      "char": "🏠",
-      "label": "carney to revamp canadian pm residence",
-      "url": "https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence",
-      "title": "Carney announces contest to revamp uninhabitable Canadian PM residence",
-      "summary": "Various issues – including a rodent infestation and mould – have left the historic, sprawling Ottawa estate empty 10 Downing Street has two things: mice and a chief mouser . For more than a decade, an officially recognized feline has kep..."
-    },
-    {
-      "char": "✈️",
-      "label": "plane crashes into tallest building in beijing",
-      "url": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-      "title": "Small Plane Crashes Into Tallest Building in Beijing",
-      "summary": "Crowds in the capital’s central business district fled as the crash sent debris falling into the streets below."
-    },
-    {
-      "char": "🌍",
-      "label": "france confirms first ebola case in doctor",
-      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
-      "title": "France confirms first Ebola case in doctor who had worked in DRC",
-      "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
-    },
-    {
-      "char": "💔",
-      "label": "mother dies saving daughter in earthquakes",
-      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "title": "Mother dies saving daughter in Venezuela earthquakes",
-      "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people."
-    },
-    {
-      "char": "🌍",
-      "label": "venezuela earthquake survivors",
-      "url": "https://www.theguardian.com/world/2026/jun/26/hunt-survivors-brutal-venezuela-earthquake",
-      "title": "Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on",
-      "summary": "Worst incident of its kind in country for more than 125 years leaves many searching for family members – and pleading for international help Venezuela death toll doubles as interim president vows to save ‘as many people as possible’ Near..."
-    },
-    {
-      "char": "⚽",
-      "label": "cape verde world cup joy",
-      "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
-      "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
-      "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and Uruguay World Cup live – latest updates For as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape V..."
-    },
-    {
-      "char": "🐠",
-      "label": "new marine species discovered",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
-      "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
-      "summary": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge tech A marine biology expedition in international waters off the coast of Brazil has discovered 31 new species in just two weeks. The researchers be..."
-    },
-    {
-      "char": "⚖️",
-      "label": "dr congo vs rwanda court case",
-      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-      "title": "DR Congo takes Rwanda to international court over decades of conflict",
-      "summary": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide."
-    },
-    {
-      "char": "📰",
-      "label": "carney's pm residence contest",
+      "char": "🏛️",
+      "label": "canadian pm residence revamp contest",
       "url": "https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence",
       "title": "Carney announces contest to revamp uninhabitable Canadian PM residence",
       "summary": "Various issues – including a rodent infestation and mould – have left the historic, sprawling Ottawa estate empty 10 Downing Street has two things: mice and a chief mouser . For more than a decade, an officially recognized feline has kep..."
     },
     {
       "char": "🦠",
-      "label": "ebola situation in dr congo",
-      "url": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
-      "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
-      "summary": "Fears over ‘huge community transmission’ as modelling predicts thousands of deaths in DRC by September The whereabouts of almost 300 people who have tested positive for Ebola in the Democratic Republic of the Congo is unknown, according..."
-    },
-    {
-      "char": "🌍",
-      "label": "venezuela earthquake updates",
-      "url": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
-      "title": "Trump’s Vow to ‘Run’ Venezuela Is Tested After Quakes",
-      "summary": "The U.S. dispatched hundreds of rescue workers to help the Venezuelan government, as the injured overwhelmed hospitals and the death toll rose to 920. The Pentagon sent two ships, transport planes and helicopters."
-    },
-    {
-      "char": "💰",
-      "label": "venezuela's economy struggles",
-      "url": "https://www.nytimes.com/2026/06/27/world/americas/venezuelas-economy-earthquake.html",
-      "title": "Venezuela’s Economy Was On the Rise. Then the Earthquakes Struck.",
-      "summary": "Expectations are now rising over the role the United States will play in helping Venezuela, which had already been laid low by decades of misrule."
-    },
-    {
-      "char": "⚖️",
-      "label": "zimbabwe presidential term extension",
-      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
-      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
-      "summary": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on power Zimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government s..."
-    },
-    {
-      "char": "🐠",
-      "label": "new marine species discovered",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
-      "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
-      "summary": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge tech A marine biology expedition in international waters off the coast of Brazil has discovered 31 new species in just two weeks. The researchers be..."
-    },
-    {
-      "char": "🌍",
-      "label": "venezuela earthquakes update",
-      "url": "https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates",
-      "title": "Venezuela earthquakes: 589 confirmed dead so far as international rescue teams arrive – as it happened",
-      "summary": "This blog is now closed, you can read more on this story here China’s president Xi Jinping said Beijing was ready to provide Venezuela with “disaster relief and reconstruction” assistance. Xi sent a message of condolence to Venezuela’s i..."
-    },
-    {
-      "char": "⚽",
-      "label": "cape verde world cup joy",
-      "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
-      "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
-      "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and Uruguay World Cup live – latest updates For as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape V..."
-    },
-    {
-      "char": "📰",
-      "label": "outrage over jailed woman in somalia",
-      "url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
-      "title": "Outrage as woman jailed for three years after criticising Somali government online",
-      "summary": "Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groups A rickshaw driver in Somalia has been sentenced to three years in prison for comments she made on social media, in a ca..."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola cases in dr congo",
-      "url": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
-      "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
-      "summary": "Fears over ‘huge community transmission’ as modelling predicts thousands of deaths in DRC by September The whereabouts of almost 300 people who have tested positive for Ebola in the Democratic Republic of the Congo is unknown, according..."
-    },
-    {
-      "char": "🌡️",
-      "label": "europe heatwave impacts",
-      "url": "https://www.nytimes.com/2026/06/27/world/europe/heat-wave-central-eastern-europe.html",
-      "title": "Central and Eastern Europe Are Feeling the Heat Now",
-      "summary": "Much of Germany and Poland were under extreme heat warnings on Saturday as the weather phenomenon driving this week’s record-breaking temperatures moved east."
+      "label": "volunteers risk lives to stop ebola",
+      "url": "https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html",
+      "title": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.",
+      "summary": "Frontline Congolese workers who conduct safe burials are key to containing what experts fear could become the worst ever Ebola outbreak. They risk not just infection, but the anger of terrified communities."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😨",
-    "emoji": "😨",
-    "rationale": "Today’s news paints a grim picture with significant events like the deadly earthquakes in Venezuela, the ongoing Ebola crisis in DR Congo, and international tensions involving the US and Iran. The emotional weight of these crises evokes a w",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
