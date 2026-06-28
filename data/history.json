@@ -51259,5 +51259,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-28",
+    "emojis": [
+      {
+        "char": "⚽",
+        "label": "cape verde's world cup joy",
+        "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
+        "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
+        "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and Uruguay World Cup live – latest updates For as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape V..."
+      },
+      {
+        "char": "✈️",
+        "label": "pilot dies in beijing crash",
+        "url": "https://www.nytimes.com/2026/06/28/world/asia/china-pilot-died-plane-crash-beijing.html",
+        "title": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower",
+        "summary": "The statement came a day after online images showed falling debris and plane parts. Another 13 were injured in the incident five miles from Communist Party headquarters."
+      },
+      {
+        "char": "📚",
+        "label": "texas mandates bible in schools",
+        "url": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+        "title": "Religion row as Texas makes Bible stories required reading in schools",
+        "summary": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela's earthquake crisis",
+        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+        "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing."
+      },
+      {
+        "char": "⚖️",
+        "label": "zimbabwe's presidential term extension",
+        "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+        "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+        "summary": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on power Zimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government s..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
