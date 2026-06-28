@@ -51303,5 +51303,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-28",
+    "emojis": [
+      {
+        "char": "⚔️",
+        "label": "us and iran trade attacks",
+        "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+        "title": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
+        "summary": "President Trump and Iran’s Revolutionary Guards exchanged threats and U.S. allies in the Gulf said they had intercepted Iranian drones, as hostilities entered a fourth day."
+      },
+      {
+        "char": "🇰🇿",
+        "label": "kazakhstan deepens us ties",
+        "url": "https://www.nytimes.com/2026/06/28/world/asia/kazakhstan-trump.html",
+        "title": "Kazakhstan’s Leader Deepens U.S. Ties, Saying Trump Was ‘Sent by Heaven’",
+        "summary": "The Central Asian nation is aggressively courting President Trump’s Washington to counterbalance its powerful neighbors, Russia and China."
+      },
+      {
+        "char": "🐶",
+        "label": "117 dead dogs found in rescue",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
+        "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+        "summary": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds."
+      },
+      {
+        "char": "🌡️",
+        "label": "record heatwave in europe",
+        "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+        "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+        "summary": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe."
+      },
+      {
+        "char": "🌍",
+        "label": "earthquake relief in venezuela",
+        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html",
+        "title": "Venezuela Government Accused of Politicizing Quake Relief",
+        "summary": "Critics say the country’s interim president, Delcy Rodríguez, is trying to exploit the tragedy for her political benefit. Her supporters accuse the opposition of doing the same."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
