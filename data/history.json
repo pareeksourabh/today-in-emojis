@@ -51479,5 +51479,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-29",
+    "emojis": [
+      {
+        "char": "🚁",
+        "label": "helicopter crash in saudi arabia",
+        "url": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html",
+        "title": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
+        "summary": "The incident occurred near the Ras Tanura facility in the east of the country, a key export hub for oil transported through the Strait of Hormuz."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela earthquake relief efforts",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/venezuelan-earthquakes-test-trumps-new-western-hemisphere-policy-after-gutting-of-usaid",
+        "title": "Venezuelan earthquakes test Trump’s new western hemisphere policy after gutting of USAID",
+        "summary": "Marco Rubio is scrambling to provide effective disaster response to country whose president US deposed in January This week’s dual earthquakes in Venezuela are a test for the new era of American power in the western hemisphere, as the Tr..."
+      },
+      {
+        "char": "🇦🇺",
+        "label": "murder charge in thailand suitcase case",
+        "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+        "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+        "summary": "The body of Tunchanok Donhomla, 17, was found discarded near a railway track on Saturday, police say."
+      },
+      {
+        "char": "⚽",
+        "label": "cape verde's world cup delight",
+        "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
+        "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
+        "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and Uruguay World Cup live – latest updates For as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape V..."
+      },
+      {
+        "char": "✈️",
+        "label": "skydiving plane crash in france",
+        "url": "https://www.nytimes.com/2026/06/28/world/europe/france-skydiving-plane-crash-nancy.html",
+        "title": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
+        "summary": "Five instructors, five students and a pilot died when the plane crashed on Sunday morning in a field near the northeastern city of Nancy."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
