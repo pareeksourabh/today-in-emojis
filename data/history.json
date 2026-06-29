@@ -51523,5 +51523,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-29",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "venezuela earthquake relief politicized",
+        "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html",
+        "title": "Delcy Rodriguez, Venezuela’s President, Is Accused of Politicizing Earthquake Relief",
+        "summary": "Critics say the country’s interim president, Delcy Rodríguez, is trying to exploit the tragedy for her political benefit. Her supporters accuse the opposition of doing the same."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola cases in dr congo remain unknown",
+        "url": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
+        "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
+        "summary": "Fears over ‘huge community transmission’ as modelling predicts thousands of deaths in DRC by September The whereabouts of almost 300 people who have tested positive for Ebola in the Democratic Republic of the Congo is unknown, according..."
+      },
+      {
+        "char": "⚔️",
+        "label": "us and iran agree to stand down",
+        "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
+        "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+        "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement."
+      },
+      {
+        "char": "🏆",
+        "label": "cape verde's world cup joy",
+        "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
+        "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
+        "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and Uruguay World Cup live – latest updates For as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape V..."
+      },
+      {
+        "char": "🌡️",
+        "label": "france's heat wave excess deaths",
+        "url": "https://www.nytimes.com/2026/06/29/world/europe/france-heat-wave-excess-deaths.html",
+        "title": "France Recorded 1,000 Excess Deaths During Heat Wave, Officials Say",
+        "summary": "First estimates published by the national health agency listed hundreds more deaths per day compared with the daily death rate in previous months."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
