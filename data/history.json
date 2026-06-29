@@ -51435,5 +51435,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-29",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "us-iran deal in strait",
+        "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+        "title": "Mideast Live Updates: U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn’t Confirmed",
+        "summary": "A U.S. official said the U.S. and Iran agreed to halt attacks in the Strait of Hormuz and allow vessels to move freely. Hostilities in recent days have threatened a two-week-old cease-fire."
+      },
+      {
+        "char": "✈️",
+        "label": "skydiving plane crash in france",
+        "url": "https://www.nytimes.com/2026/06/28/world/europe/france-skydiving-plane-crash-nancy.html",
+        "title": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
+        "summary": "Five instructors, five students and a pilot died when the plane crashed on Sunday morning in a field near the northeastern city of Nancy."
+      },
+      {
+        "char": "🇰🇿",
+        "label": "kazakhstan deepens us ties",
+        "url": "https://www.nytimes.com/2026/06/28/world/asia/kazakhstan-trump.html",
+        "title": "Kazakhstan’s Leader Deepens U.S. Ties, Saying Trump Was ‘Sent by Heaven’",
+        "summary": "The Central Asian nation is aggressively courting President Trump’s Washington to counterbalance its powerful neighbors, Russia and China."
+      },
+      {
+        "char": "🌪️",
+        "label": "venezuela earthquake rescue efforts",
+        "url": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
+        "title": "Rescuers in ‘Critical Hours’ as Window to Find Survivors Closes",
+        "summary": "More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding survivors diminished."
+      },
+      {
+        "char": "🔥",
+        "label": "heatwave causes deaths in europe",
+        "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+        "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+        "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
