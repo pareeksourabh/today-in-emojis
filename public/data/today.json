@@ -1,41 +1,41 @@
 {
   "date": "2026-06-29",
-  "timestamp": "2026-06-29T15:54:15Z",
+  "timestamp": "2026-06-29T00:00:00Z",
   "emojis": [
     {
+      "char": "❄️",
+      "label": "snow in the north-west us",
+      "url": "https://www.theguardian.com/environment/2026/jun/29/weather-tracker-north-west-us-hit-by-snow-ahead-of-eastern-heatwave",
+      "title": "Weather tracker: North-west US hit by snow ahead of eastern heatwave",
+      "summary": "Western states experience unseasonally low temperatures but New York and Washington DC could reach 40C by end of week Unseasonal snow has fallen in some parts of the US, while other parts of the country brace for a heatwave this week. A..."
+    },
+    {
       "char": "🦠",
-      "label": "dr congo bans gatherings for ebola",
-      "url": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
-      "title": "DR Congo bans mass gatherings in the  capital to prevent spread of Ebola",
-      "summary": "Opposition politicians accuse the government of using the outbreak to halt a planned protest."
+      "label": "first ebola case in france",
+      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
+      "title": "France confirms first Ebola case in doctor who had worked in DRC",
+      "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
     },
     {
-      "char": "💥",
-      "label": "us agrees to stand down after strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement."
+      "char": "⚽",
+      "label": "football stars killed in earthquakes",
+      "url": "https://www.theguardian.com/world/2026/jun/29/families-of-football-stars-hector-bello-lucas-trejo-killed-venezuela-earthquakes",
+      "title": "Families of two football players killed and injured in Venezuela earthquakes",
+      "summary": "Lucas Trejo of Argentina loses wife and two children while Héctor Bello’s partner dies saving their daughter ‘Critical hours’ in Venezuela earthquake rescue operation – latest updates Family members of two professional footballers are am..."
     },
     {
-      "char": "🌍",
-      "label": "pakistan attacks afghanistan, many killed",
-      "url": "https://www.nytimes.com/2026/06/29/world/asia/pakistan-afghanistan-strikes.html",
-      "title": "Pakistan Attacks Afghanistan, Killing More Than 30",
-      "summary": "The Taliban said that airstrikes left 36 civilians dead, while Pakistan claimed that its assault killed 32 militants, the latest in a monthslong conflict."
-    },
-    {
-      "char": "🇿🇼",
-      "label": "zimbabwe senate extends presidential term",
-      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
-      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
-      "summary": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on power Zimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government s..."
-    },
-    {
-      "char": "🌪️",
-      "label": "venezuela earthquake death toll rises",
+      "char": "💔",
+      "label": "father and son found alive in rubble",
       "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-earthquake-death-toll-father-son-alive",
       "title": "Venezuela earthquake: father and son found alive in rubble after four days as death toll nears 1,500",
       "summary": "President says ‘we always hold onto hope’ as discovery of earthquake survivors spurs fresh search efforts despite dwindling chances of survival Mortuary in Caracas ‘overwhelmed’ as Venezuela struggles to respond after earthquakes A man a..."
+    },
+    {
+      "char": "💥",
+      "label": "pakistan attacks afghanistan",
+      "url": "https://www.nytimes.com/2026/06/29/world/asia/pakistan-afghanistan-strikes.html",
+      "title": "Pakistan Attacks Afghanistan, Killing More Than 30",
+      "summary": "The Taliban said that airstrikes left 36 civilians dead, while Pakistan claimed that its assault killed 32 militants, the latest in a monthslong conflict."
     }
   ],
   "source": "ai-openai",
