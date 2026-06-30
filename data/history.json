@@ -51655,5 +51655,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-30",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "venezuela quake rescue efforts",
+        "url": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-victims-rescue-deaths.html",
+        "title": "Efforts to Rescue Venezuela Quake Victims Grow More Desperate",
+        "summary": "The death toll has risen to over 1,700, which is likely an undercount."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola cases in dr congo",
+        "url": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
+        "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
+        "summary": "Fears over ‘huge community transmission’ as modelling predicts thousands of deaths in DRC by September The whereabouts of almost 300 people who have tested positive for Ebola in the Democratic Republic of the Congo is unknown, according..."
+      },
+      {
+        "char": "⚔️",
+        "label": "us-iran strikes agreement",
+        "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
+        "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+        "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement."
+      },
+      {
+        "char": "🏛️",
+        "label": "trump mining deal profits",
+        "url": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html",
+        "title": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
+        "summary": "An agreement between the U.S. and Kazakhstan has given a group of American investors with ties to the president and the commerce secretary access to one of the world’s largest untapped reserves of tungsten."
+      },
+      {
+        "char": "⚡",
+        "label": "aftershock terrifies venezuelans",
+        "url": "https://www.theguardian.com/world/2026/jun/29/strong-aftershock-terrifies-venezuelans-days-after-devastating-twin-quakes",
+        "title": "Strong aftershock terrifies Venezuelans days after devastating twin quakes",
+        "summary": "Caracas and La Guaira affected by 4.6-magnitude tremor as death toll passes 1,700 and humanitarian crisis grows A strong aftershock has rattled northern Venezuela, sending terrified residents racing on to the streets five days after the..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
