@@ -1,204 +1,43 @@
 {
-  "date": "2026-06-29",
-  "timestamp": "2026-06-29T00:00:00Z",
+  "date": "2026-06-30",
+  "timestamp": "2026-06-30T00:00:00Z",
   "emojis": [
     {
-      "char": "🚁",
-      "label": "saudi arabia helicopter crash",
-      "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
-      "title": "Fourteen killed in Saudi Arabia helicopter crash",
-      "summary": "The aircraft belonged to state oil giant Aramco and the cause of the crash is being investigated."
-    },
-    {
-      "char": "🇰🇿",
-      "label": "kazakhstan deepens us ties",
-      "url": "https://www.nytimes.com/2026/06/28/world/asia/kazakhstan-trump.html",
-      "title": "Kazakhstan’s Leader Deepens U.S. Ties, Saying Trump Was ‘Sent by Heaven’",
-      "summary": "The Central Asian nation is aggressively courting President Trump’s Washington to counterbalance its powerful neighbors, Russia and China."
-    },
-    {
       "char": "🦠",
-      "label": "france confirms first ebola case",
-      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
-      "title": "France confirms first Ebola case in doctor who had worked in DRC",
-      "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
+      "label": "ebola cases in dr congo",
+      "url": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
+      "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
+      "summary": "Fears over ‘huge community transmission’ as modelling predicts thousands of deaths in DRC by September The whereabouts of almost 300 people who have tested positive for Ebola in the Democratic Republic of the Congo is unknown, according..."
     },
     {
       "char": "🌍",
-      "label": "venezuela earthquake rescue efforts",
-      "url": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
-      "title": "Venezuela Live Updates: Rescuers in ‘Critical Hours’ as Window to Find Survivors Closes",
-      "summary": "More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding survivors diminished."
+      "label": "venezuela earthquake aftershock",
+      "url": "https://www.theguardian.com/world/2026/jun/29/strong-aftershock-terrifies-venezuelans-days-after-devastating-twin-quakes",
+      "title": "Strong aftershock terrifies Venezuelans days after devastating twin quakes",
+      "summary": "Caracas and La Guaira affected by 4.6-magnitude tremor as death toll passes 1,700 and humanitarian crisis grows A strong aftershock has rattled northern Venezuela, sending terrified residents racing on to the streets five days after the..."
     },
     {
-      "char": "✈️",
-      "label": "skydiving plane crash in france",
-      "url": "https://www.nytimes.com/2026/06/28/world/europe/france-skydiving-plane-crash-nancy.html",
-      "title": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
-      "summary": "Five instructors, five students and a pilot died when the plane crashed on Sunday morning in a field near the northeastern city of Nancy."
+      "char": "⚰️",
+      "label": "funerals in venezuela",
+      "url": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-funerals-earthquake.html",
+      "title": "At Funerals, Venezuela’s Wounded Families and Friends Unite in Grief",
+      "summary": "Venezuelans began to bury some of the more than 1,700 victims of last week’s earthquakes, sharing tales of unimaginable loss."
     },
     {
-      "char": "🌍",
-      "label": "venezuela earthquakes death toll rises",
-      "url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
-      "title": "Venezuela earthquakes: death toll rises again to more than 1,400",
-      "summary": "Search for survivors continues with nearly 70,000 people reported unaccounted for by their family members The ⁠death toll ⁠in ⁠the twin ​earthquakes that struck ⁠ Venezuela earlier ⁠this ​week ‌has ‌risen to ‌1,430, according to one of t..."
-    },
-    {
-      "char": "🦠",
-      "label": "france confirms first ebola case",
-      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
-      "title": "France confirms first Ebola case in doctor who had worked in DRC",
-      "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
-    },
-    {
-      "char": "✈️",
-      "label": "plane crash kills eleven in france",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-      "summary": "The pilot and 10 passengers - including five first-time parachutists - died in the incident, local officials said."
-    },
-    {
-      "char": "⚖️",
-      "label": "woman jailed for criticizing somali government",
-      "url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
-      "title": "Outrage as woman jailed for three years after criticising Somali government online",
-      "summary": "Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groups A rickshaw driver in Somalia has been sentenced to three years in prison for comments she made on social media, in a ca..."
-    },
-    {
-      "char": "🚁",
-      "label": "helicopter crash in saudi arabia kills 14",
-      "url": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html",
-      "title": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
-      "summary": "The incident occurred near the Ras Tanura facility in the east of the country, a key export hub for oil transported through the Strait of Hormuz."
-    },
-    {
-      "char": "😡",
-      "label": "woman jailed for criticizing gov",
-      "url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
-      "title": "Outrage as woman jailed for three years after criticising Somali government online",
-      "summary": "Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groups A rickshaw driver in Somalia has been sentenced to three years in prison for comments she made on social media, in a ca..."
-    },
-    {
-      "char": "🇰🇿",
-      "label": "kazakhstan deepens us ties",
-      "url": "https://www.nytimes.com/2026/06/28/world/asia/kazakhstan-trump.html",
-      "title": "Kazakhstan’s Leader Deepens U.S. Ties, Saying Trump Was ‘Sent by Heaven’",
-      "summary": "The Central Asian nation is aggressively courting President Trump’s Washington to counterbalance its powerful neighbors, Russia and China."
-    },
-    {
-      "char": "🚁",
-      "label": "helicopter crash in saudi arabia",
-      "url": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html",
-      "title": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
-      "summary": "The incident occurred near the Ras Tanura facility in the east of the country, a key export hub for oil transported through the Strait of Hormuz."
-    },
-    {
-      "char": "🌍",
-      "label": "venezuela quake relief politicized",
-      "url": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html",
-      "title": "Delcy Rodriguez, Venezuela’s President, Is Accused of Politicizing Earthquake Relief",
-      "summary": "Critics say the country’s interim president, Delcy Rodríguez, is trying to exploit the tragedy for her political benefit. Her supporters accuse the opposition of doing the same."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola case confirmed in france",
-      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
-      "title": "France confirms first Ebola case in doctor who had worked in DRC",
-      "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
-    },
-    {
-      "char": "🌍",
-      "label": "venezuela quake death toll rises",
-      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
-      "title": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
-      "summary": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resources Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on Venezuela’s interim president, Delcy Rodrí..."
-    },
-    {
-      "char": "🏋️‍♂",
-      "label": "les mills founder dies at 91",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzxpzy81vo?at_medium=RSS&at_campaign=rss",
-      "title": "Fitness brand founder and Olympian Les Mills dies aged 91",
-      "summary": "The Les Mills International brand is now known globally for choreographed workouts set to music, like Body Pump and Body Combat."
-    },
-    {
-      "char": "📜",
-      "label": "zimbabwe extends presidential term",
-      "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
-      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
-      "summary": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on power Zimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government s..."
-    },
-    {
-      "char": "🔥",
-      "label": "europe heatwave causes 1300 deaths",
-      "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
-      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-      "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures."
-    },
-    {
-      "char": "✈️",
-      "label": "skydiving plane crash in france",
-      "url": "https://www.nytimes.com/2026/06/28/world/europe/france-skydiving-plane-crash-nancy.html",
-      "title": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
-      "summary": "Five instructors, five students and a pilot died when the plane crashed on Sunday morning in a field near the northeastern city of Nancy."
-    },
-    {
-      "char": "❄️",
-      "label": "snow in the north-west us",
-      "url": "https://www.theguardian.com/environment/2026/jun/29/weather-tracker-north-west-us-hit-by-snow-ahead-of-eastern-heatwave",
-      "title": "Weather tracker: North-west US hit by snow ahead of eastern heatwave",
-      "summary": "Western states experience unseasonally low temperatures but New York and Washington DC could reach 40C by end of week Unseasonal snow has fallen in some parts of the US, while other parts of the country brace for a heatwave this week. A..."
-    },
-    {
-      "char": "🦠",
-      "label": "first ebola case in france",
-      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
-      "title": "France confirms first Ebola case in doctor who had worked in DRC",
-      "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
-    },
-    {
-      "char": "⚽",
-      "label": "football stars killed in earthquakes",
-      "url": "https://www.theguardian.com/world/2026/jun/29/families-of-football-stars-hector-bello-lucas-trejo-killed-venezuela-earthquakes",
-      "title": "Families of two football players killed and injured in Venezuela earthquakes",
-      "summary": "Lucas Trejo of Argentina loses wife and two children while Héctor Bello’s partner dies saving their daughter ‘Critical hours’ in Venezuela earthquake rescue operation – latest updates Family members of two professional footballers are am..."
+      "char": "🏨",
+      "label": "hotel collapse in venezuela",
+      "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake",
+      "title": "Venezuelans newly deported from US missing after hotel collapse",
+      "summary": "More than 100 people removed on ICE flight were being held in hotel in La Guaira when earthquakes struck More than 100 people just deported from the United States were being held in a hotel when earthquakes struck Venezuela, setting off..."
     },
     {
       "char": "💔",
-      "label": "father and son found alive in rubble",
-      "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-earthquake-death-toll-father-son-alive",
-      "title": "Venezuela earthquake: father and son found alive in rubble after four days as death toll nears 1,500",
-      "summary": "President says ‘we always hold onto hope’ as discovery of earthquake survivors spurs fresh search efforts despite dwindling chances of survival Mortuary in Caracas ‘overwhelmed’ as Venezuela struggles to respond after earthquakes A man a..."
-    },
-    {
-      "char": "💥",
-      "label": "pakistan attacks afghanistan",
-      "url": "https://www.nytimes.com/2026/06/29/world/asia/pakistan-afghanistan-strikes.html",
-      "title": "Pakistan Attacks Afghanistan, Killing More Than 30",
-      "summary": "The Taliban said that airstrikes left 36 civilians dead, while Pakistan claimed that its assault killed 32 militants, the latest in a monthslong conflict."
+      "label": "families of quake victims",
+      "url": "https://www.theguardian.com/world/2026/jun/29/families-of-football-stars-hector-bello-lucas-trejo-killed-venezuela-earthquakes",
+      "title": "Families of two football players killed and injured in Venezuela earthquakes",
+      "summary": "Lucas Trejo of Argentina loses wife and two children while Héctor Bello’s partner dies saving their daughter Family members of two professional footballers are among those killed by the twin earthquakes that struck Venezuela in a catastr..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sadness",
-    "emoji": "😢",
-    "rationale": "The day is marked by multiple tragic events including fatal helicopter crashes, rising death tolls from earthquakes, and the spread of Ebola, creating an overwhelming sense of sorrow.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
