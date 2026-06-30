@@ -51787,5 +51787,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-06-30",
+    "emojis": [
+      {
+        "char": "🌧️",
+        "label": "flooding in ghana kills 13",
+        "url": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
+        "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
+        "summary": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come."
+      },
+      {
+        "char": "🏨",
+        "label": "venezuela hotel collapse tragedy",
+        "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake",
+        "title": "Venezuelans newly deported from US missing after hotel collapse",
+        "summary": "More than 100 people removed on ICE flight were being held in hotel in La Guaira when earthquakes struck More than 100 people just deported from the United States were being held in a hotel when earthquakes struck Venezuela, setting off..."
+      },
+      {
+        "char": "📜",
+        "label": "zimbabwe extends presidential term",
+        "url": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+        "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+        "summary": "Opposition figures fear changes will further tighten 83-year-old president Emmerson Mnangagwa’s hold on power Zimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government s..."
+      },
+      {
+        "char": "🤝",
+        "label": "us and iran talks in qatar",
+        "url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
+        "title": "Mideast Live Updates: U.S. and Iran Gear Up for Meetings in Qatar",
+        "summary": "American and Iranian officials are in the Gulf state, a key mediator between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal."
+      },
+      {
+        "char": "🚨",
+        "label": "anti-migrant protests in south africa",
+        "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+        "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+        "summary": "Thousands of people have already left South Africa ahead of the deadline set by anti-migrant groups."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
