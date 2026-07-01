@@ -1,204 +1,43 @@
 {
-  "date": "2026-06-30",
-  "timestamp": "2026-06-30T00:00:00Z",
+  "date": "2026-07-01",
+  "timestamp": "2026-07-01T00:00:00Z",
   "emojis": [
     {
-      "char": "🦠",
-      "label": "ebola cases in dr congo",
-      "url": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
-      "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
-      "summary": "Fears over ‘huge community transmission’ as modelling predicts thousands of deaths in DRC by September The whereabouts of almost 300 people who have tested positive for Ebola in the Democratic Republic of the Congo is unknown, according..."
+      "char": "⚖️",
+      "label": "us supreme court's trump rulings",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+      "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+      "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories."
     },
     {
-      "char": "🌍",
-      "label": "venezuela earthquake aftershock",
-      "url": "https://www.theguardian.com/world/2026/jun/29/strong-aftershock-terrifies-venezuelans-days-after-devastating-twin-quakes",
-      "title": "Strong aftershock terrifies Venezuelans days after devastating twin quakes",
-      "summary": "Caracas and La Guaira affected by 4.6-magnitude tremor as death toll passes 1,700 and humanitarian crisis grows A strong aftershock has rattled northern Venezuela, sending terrified residents racing on to the streets five days after the..."
+      "char": "💣",
+      "label": "parcel bomb explodes in monaco",
+      "url": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
+      "title": "Parcel Bomb Explodes in Monaco, Injuring 3",
+      "summary": "The blast seriously injured three people, including a child, according to the authorities, who said the assailant was on the run."
     },
     {
-      "char": "⚰️",
-      "label": "funerals in venezuela",
-      "url": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-funerals-earthquake.html",
-      "title": "At Funerals, Venezuela’s Wounded Families and Friends Unite in Grief",
-      "summary": "Venezuelans began to bury some of the more than 1,700 victims of last week’s earthquakes, sharing tales of unimaginable loss."
-    },
-    {
-      "char": "🏨",
-      "label": "hotel collapse in venezuela",
-      "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake",
-      "title": "Venezuelans newly deported from US missing after hotel collapse",
-      "summary": "More than 100 people removed on ICE flight were being held in hotel in La Guaira when earthquakes struck More than 100 people just deported from the United States were being held in a hotel when earthquakes struck Venezuela, setting off..."
-    },
-    {
-      "char": "💔",
-      "label": "families of quake victims",
-      "url": "https://www.theguardian.com/world/2026/jun/29/families-of-football-stars-hector-bello-lucas-trejo-killed-venezuela-earthquakes",
-      "title": "Families of two football players killed and injured in Venezuela earthquakes",
-      "summary": "Lucas Trejo of Argentina loses wife and two children while Héctor Bello’s partner dies saving their daughter Family members of two professional footballers are among those killed by the twin earthquakes that struck Venezuela in a catastr..."
+      "char": "🤝",
+      "label": "us and iran meet in qatar",
+      "url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
+      "title": "U.S. and Iran to Meet with Mediators in Qatar",
+      "summary": "American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal."
     },
     {
       "char": "⚽",
-      "label": "football stars killed in quake",
-      "url": "https://www.theguardian.com/world/2026/jun/29/families-of-football-stars-hector-bello-lucas-trejo-killed-venezuela-earthquakes",
-      "title": "Families of two football players killed and injured in Venezuela earthquakes",
-      "summary": "Lucas Trejo of Argentina loses wife and two children while Héctor Bello’s partner dies saving their daughter Family members of two professional footballers are among those killed by the twin earthquakes that struck Venezuela in a catastr..."
+      "label": "norway's viking row at world cup",
+      "url": "https://www.nytimes.com/2026/06/30/world/europe/norway-fans-viking-row-cheer.html",
+      "title": "Norway’s ‘Viking Row’ Is a Fan Phenomenon at the World Cup",
+      "summary": "Seas of red-clad Norwegian supporters are rowing shoulder to shoulder at stadiums, schools, even a nursing home. Not everyone is thrilled."
     },
     {
-      "char": "💰",
-      "label": "trump's billion-dollar deal",
-      "url": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html",
-      "title": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
-      "summary": "An agreement between the U.S. and Kazakhstan has given a group of American investors with ties to the president and the commerce secretary access to one of the world’s largest untapped reserves of tungsten."
-    },
-    {
-      "char": "🎾",
-      "label": "osaka's wimbledon tribute",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cd0mymk9d70o?at_medium=RSS&at_campaign=rss",
-      "title": "Osaka pays 'love and respect to Japan' in Wimbledon kimono",
-      "summary": "Naomi Osaka has long been renowned for dazzling crowds with her on-court outfits - but making that compatible with Wimbledon's all-white dress code required special inspiration."
-    },
-    {
-      "char": "🏨",
-      "label": "hotel collapse in venezuela",
-      "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake",
-      "title": "Venezuelans newly deported from US missing after hotel collapse",
-      "summary": "More than 100 people removed on ICE flight were being held in hotel in La Guaira when earthquakes struck More than 100 people just deported from the United States were being held in a hotel when earthquakes struck Venezuela, setting off..."
-    },
-    {
-      "char": "🇵🇪",
-      "label": "fujimori wins peru election",
-      "url": "https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff",
-      "title": "Peru’s Keiko Fujimori wins presidential election, in latest victory for Latin American right",
-      "summary": "The 51-year-old daughter of late president Alberto Fujimori secured the top office after authorities spent weeks reviewing contested ballots Peru’s conservative president-elect Keiko Fujimori has vowed to restore “order and hope” after d..."
-    },
-    {
-      "char": "💣",
-      "label": "parcel bomb injures ukrainian oligarch",
-      "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
-      "title": "Parcel bomb injures Ukrainian oligarch and family in Monaco - reports",
-      "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said."
-    },
-    {
-      "char": "⚖️",
-      "label": "trump's big win and defeats at supreme court",
-      "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
-      "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-      "summary": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks."
-    },
-    {
-      "char": "🦠",
-      "label": "france confirms first ebola case",
-      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
-      "title": "France confirms first Ebola case in doctor who had worked in DRC",
-      "summary": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from..."
-    },
-    {
-      "char": "🌍",
-      "label": "families of football stars killed in quakes",
-      "url": "https://www.theguardian.com/world/2026/jun/29/families-of-football-stars-hector-bello-lucas-trejo-killed-venezuela-earthquakes",
-      "title": "Families of two football players killed and injured in Venezuela earthquakes",
-      "summary": "Lucas Trejo of Argentina loses wife and two children while Héctor Bello’s partner dies saving their daughter Family members of two professional footballers are among those killed by the twin earthquakes that struck Venezuela in a catastr..."
-    },
-    {
-      "char": "📉",
-      "label": "scale of venezuela earthquakes death toll",
-      "url": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-death-toll.html",
-      "title": "Scale of Venezuela Earthquakes Death Toll Could Take Weeks to Emerge",
-      "summary": "Experts pointed to several indications that the twin earthquakes were particularly lethal, including the number of people reported missing and the extent of building damage."
-    },
-    {
-      "char": "⚖️",
-      "label": "trump's supreme court day",
-      "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
-      "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-      "summary": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks."
-    },
-    {
-      "char": "🌍",
-      "label": "venezuela earthquake response",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
-      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
-      "summary": "People in areas devastated by twin earthquakes say they need more support from the government."
-    },
-    {
-      "char": "🏛️",
-      "label": "keiko fujimori wins peru election",
-      "url": "https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff",
-      "title": "Peru’s Keiko Fujimori wins presidential election, in latest victory for Latin American right",
-      "summary": "The 51-year-old daughter of late president Alberto Fujimori secured the top office after authorities spent weeks reviewing contested ballots Peru’s conservative president-elect Keiko Fujimori has vowed to restore “order and hope” after d..."
-    },
-    {
-      "char": "🌀",
-      "label": "flooding kills in ghana",
-      "url": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
-      "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
-      "summary": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come."
-    },
-    {
-      "char": "🔍",
-      "label": "manhunt after monaco bomb",
-      "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
-      "title": "Manhunt under way after bomb injures Ukrainian oligarch and others in Monaco",
-      "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said."
-    },
-    {
-      "char": "💣",
-      "label": "bomb injures oligarch in monaco",
-      "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
-      "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
-      "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said."
-    },
-    {
-      "char": "🧳",
-      "label": "australian man charged in suitcase murder",
-      "url": "https://www.nytimes.com/2026/06/30/world/asia/australian-thailand-teenager-murder-suitcase.html",
-      "title": "Australian Man Charged With Homicide After Thai Teen’s Body Found in Suitcase",
-      "summary": "The 17-year-old’s remains were found abandoned near railroad tracks in Pattaya. The suspect was arrested while trying to leave the country."
-    },
-    {
-      "char": "🇪🇸",
-      "label": "1 million migrants apply for legal status",
-      "url": "https://www.nytimes.com/2026/06/30/world/europe/spain-migrants-legal-status.html",
-      "title": "More Than 1 Million Migrants Apply for Legal Status in Spain",
-      "summary": "Since late April, the Spanish government has allowed undocumented migrants a path out of legal limbo, making Spain a beacon to the global left."
-    },
-    {
-      "char": "⚖️",
-      "label": "woman jailed for criticizing somali gov",
-      "url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
-      "title": "Outrage as woman jailed for three years after criticising Somali government online",
-      "summary": "Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groups A rickshaw driver in Somalia has been sentenced to three years in prison for comments she made on social media, in a ca..."
-    },
-    {
-      "char": "🌍",
-      "label": "strong aftershock terrifies venezuelans",
-      "url": "https://www.theguardian.com/world/2026/jun/29/strong-aftershock-terrifies-venezuelans-days-after-devastating-twin-quakes",
-      "title": "Strong aftershock terrifies Venezuelans days after devastating twin quakes",
-      "summary": "Caracas and La Guaira affected by 4.6-magnitude tremor as death toll passes 1,700 and humanitarian crisis grows A strong aftershock has rattled northern Venezuela, sending terrified residents racing on to the streets five days after the..."
+      "char": "🏚️",
+      "label": "venezuela earthquake destruction",
+      "url": "https://www.theguardian.com/world/2026/jun/30/tonnes-and-tonnes-of-rubble-more-than-58000-buildings-estimated-to-have-been-destroyed-in-venezuela-earthquakes",
+      "title": "‘Tonnes of rubble’: 58,000 buildings estimated destroyed in Venezuela earthquakes",
+      "summary": "Preliminary analysis of satellite data suggests magnitude of natural disaster could dwarf official estimates More than 58,000 buildings may have been damaged and destroyed by the twin earthquakes that hit Venezuela last week, according t..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Devastation",
-    "emoji": "😢",
-    "rationale": "Today's news highlights significant tragedies, particularly the aftermath of earthquakes in Venezuela and the Ebola outbreak, leaving communities in grief and fear.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
