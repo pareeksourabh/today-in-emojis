@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concern",
-    "emoji": "😨",
-    "rationale": "The news items reflect significant concerns, including violent incidents, natural disasters, and geopolitical tensions, leading to a general feeling of fear and unease.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "Today brings a mixture of serious tragedies, including violence and natural disasters that have caused significant suffering. The emotional weight of such events is profound, making sadness the most fitting expression.",
     "palette": [
       "😢",
       "😡",
