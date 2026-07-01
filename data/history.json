@@ -52007,5 +52007,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-01",
+    "emojis": [
+      {
+        "char": "💰",
+        "label": "trump's crypto earnings",
+        "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump made more than $1bn from crypto in first year back in office",
+        "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches."
+      },
+      {
+        "char": "⚖️",
+        "label": "crimes against humanity in sudan",
+        "url": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
+        "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
+        "summary": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide."
+      },
+      {
+        "char": "⚽",
+        "label": "deaths in mexico world cup celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+        "title": "Three die in Mexico City World Cup celebrations",
+        "summary": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador."
+      },
+      {
+        "char": "🌍",
+        "label": "earthquake impact on deportees in venezuela",
+        "url": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-deportees-us-deaths.html",
+        "title": "After Venezuela Earthquakes, Deportees from the U.S. Are Missing or Found Dead",
+        "summary": "Many of the 146 Venezuelans deported from the United States the day the earthquake struck are feared dead."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak burial risks",
+        "url": "https://www.nytimes.com/2026/07/01/world/africa/ebola-congo-burials.html",
+        "title": "A Risky Burial in the Heart of an Ebola Outbreak",
+        "summary": "Safe interment is critical to containing the deadly disease, but in recent days around one Congolese town, that was not always being done."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
