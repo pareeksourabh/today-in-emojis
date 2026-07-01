@@ -1,27 +1,34 @@
 {
   "date": "2026-07-01",
-  "timestamp": "2026-07-01T02:40:29Z",
+  "timestamp": "2026-07-01T00:00:00Z",
   "emojis": [
     {
-      "char": "📰",
-      "label": "woman jailed for criticizing government",
-      "url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
-      "title": "Outrage as woman jailed for three years after criticising Somali government online",
-      "summary": "Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groups A rickshaw driver in Somalia has been sentenced to three years in prison for comments she made on social media, in a ca..."
+      "char": "✈️",
+      "label": "plane crash in beijing",
+      "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
+      "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+      "summary": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident."
     },
     {
-      "char": "🏨",
-      "label": "hotel collapse in venezuela",
-      "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake",
-      "title": "Venezuelans newly deported from US missing after hotel collapse",
-      "summary": "More than 100 people removed on ICE flight were being held in hotel in La Guaira when earthquakes struck More than 100 people just deported from the United States were being held in a hotel when earthquakes struck Venezuela, setting off..."
+      "char": "🤝",
+      "label": "us and iran talks in qatar",
+      "url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
+      "title": "U.S. and Iran to Meet with Mediators in Qatar",
+      "summary": "American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal."
     },
     {
-      "char": "🌍",
-      "label": "58,000 buildings destroyed in quakes",
-      "url": "https://www.theguardian.com/world/2026/jun/30/tonnes-and-tonnes-of-rubble-more-than-58000-buildings-estimated-to-have-been-destroyed-in-venezuela-earthquakes",
-      "title": "‘Tonnes of rubble’: 58,000 buildings estimated destroyed in Venezuela earthquakes",
-      "summary": "Preliminary analysis of satellite data suggests magnitude of natural disaster could dwarf official estimates More than 58,000 buildings may have been damaged and destroyed by the twin earthquakes that hit Venezuela last week, according t..."
+      "char": "🏴‍☠️",
+      "label": "immigrants flee south africa violence",
+      "url": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
+      "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
+      "summary": "More than 2,000 anti-foreigner protesters march through Durban city centre as the arbitrary deadline passes for undocumented migrants to leave the country South Africa was holding its breath on Tuesday as mass anti-immigration protests w..."
+    },
+    {
+      "char": "🏥",
+      "label": "three-year-old rescued in venezuela",
+      "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+      "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state."
     },
     {
       "char": "💣",
@@ -29,13 +36,6 @@
       "url": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
       "title": "Parcel Bomb Explodes in Monaco, Injuring 3",
       "summary": "The blast seriously injured three people, including a child, according to the authorities, who said the assailant was on the run."
-    },
-    {
-      "char": "⚖️",
-      "label": "us and iran to meet in qatar",
-      "url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
-      "title": "U.S. and Iran to Meet with Mediators in Qatar",
-      "summary": "American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal."
     }
   ],
   "source": "ai-openai",
