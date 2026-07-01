@@ -3,39 +3,39 @@
   "timestamp": "2026-07-01T00:00:00Z",
   "emojis": [
     {
-      "char": "✈️",
-      "label": "plane crash in beijing",
-      "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
-      "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-      "summary": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident."
-    },
-    {
-      "char": "🤝",
-      "label": "us and iran talks in qatar",
-      "url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
-      "title": "U.S. and Iran to Meet with Mediators in Qatar",
-      "summary": "American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal."
-    },
-    {
       "char": "🏴‍☠️",
-      "label": "immigrants flee south africa violence",
+      "label": "immigrants flee south africa",
       "url": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
       "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
       "summary": "More than 2,000 anti-foreigner protesters march through Durban city centre as the arbitrary deadline passes for undocumented migrants to leave the country South Africa was holding its breath on Tuesday as mass anti-immigration protests w..."
     },
     {
-      "char": "🏥",
-      "label": "three-year-old rescued in venezuela",
-      "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
-      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
-      "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state."
+      "char": "⚽",
+      "label": "norway fans at world cup",
+      "url": "https://www.nytimes.com/2026/06/30/world/europe/norway-fans-viking-row-cheer.html",
+      "title": "Norway’s ‘Viking Row’ Is a Fan Phenomenon at the World Cup",
+      "summary": "Seas of red-clad Norwegian supporters are rowing shoulder to shoulder at stadiums, schools, even a nursing home. Not everyone is thrilled."
     },
     {
       "char": "💣",
-      "label": "parcel bomb explodes in monaco",
+      "label": "parcel bomb in monaco",
       "url": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
       "title": "Parcel Bomb Explodes in Monaco, Injuring 3",
       "summary": "The blast seriously injured three people, including a child, according to the authorities, who said the assailant was on the run."
+    },
+    {
+      "char": "🧳",
+      "label": "murder of thai teenager",
+      "url": "https://www.nytimes.com/2026/06/30/world/asia/australian-thailand-teenager-murder-suitcase.html",
+      "title": "Australian Man Charged With Homicide After Thai Teen’s Body Found in Suitcase",
+      "summary": "The 17-year-old’s remains were found abandoned near railroad tracks in Pattaya. The suspect was arrested while trying to leave the country."
+    },
+    {
+      "char": "🌍",
+      "label": "keiko fujimori wins peru",
+      "url": "https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff",
+      "title": "Peru’s Keiko Fujimori wins presidential election, in latest victory for Latin American right",
+      "summary": "The 51-year-old daughter of late president Alberto Fujimori secured the top office after authorities spent weeks reviewing contested ballots Peru’s conservative president-elect Keiko Fujimori has vowed to restore “order and hope” after d..."
     }
   ],
   "source": "ai-openai",
