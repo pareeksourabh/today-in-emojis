@@ -51875,5 +51875,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-01",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "woman jailed for criticizing government",
+        "url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
+        "title": "Outrage as woman jailed for three years after criticising Somali government online",
+        "summary": "Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groups A rickshaw driver in Somalia has been sentenced to three years in prison for comments she made on social media, in a ca..."
+      },
+      {
+        "char": "🏨",
+        "label": "hotel collapse in venezuela",
+        "url": "https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake",
+        "title": "Venezuelans newly deported from US missing after hotel collapse",
+        "summary": "More than 100 people removed on ICE flight were being held in hotel in La Guaira when earthquakes struck More than 100 people just deported from the United States were being held in a hotel when earthquakes struck Venezuela, setting off..."
+      },
+      {
+        "char": "🌍",
+        "label": "58,000 buildings destroyed in quakes",
+        "url": "https://www.theguardian.com/world/2026/jun/30/tonnes-and-tonnes-of-rubble-more-than-58000-buildings-estimated-to-have-been-destroyed-in-venezuela-earthquakes",
+        "title": "‘Tonnes of rubble’: 58,000 buildings estimated destroyed in Venezuela earthquakes",
+        "summary": "Preliminary analysis of satellite data suggests magnitude of natural disaster could dwarf official estimates More than 58,000 buildings may have been damaged and destroyed by the twin earthquakes that hit Venezuela last week, according t..."
+      },
+      {
+        "char": "💣",
+        "label": "parcel bomb explodes in monaco",
+        "url": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
+        "title": "Parcel Bomb Explodes in Monaco, Injuring 3",
+        "summary": "The blast seriously injured three people, including a child, according to the authorities, who said the assailant was on the run."
+      },
+      {
+        "char": "⚖️",
+        "label": "us and iran to meet in qatar",
+        "url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
+        "title": "U.S. and Iran to Meet with Mediators in Qatar",
+        "summary": "American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
