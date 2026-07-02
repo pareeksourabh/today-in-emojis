@@ -52227,5 +52227,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-02",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "venezuela quake survivor rescued",
+        "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+        "title": "Venezuela quake survivor pulled out alive after eight days",
+        "summary": "Hernán Gil was trapped under a collapsed multi-storey car park, and cheered rescuers on as they inched closer to him."
+      },
+      {
+        "char": "🙏",
+        "label": "9 monks killed in truck crash",
+        "url": "https://www.nytimes.com/2026/07/02/world/asia/thailand-buddhist-monks-truck-crash.html",
+        "title": "9 Buddhist Monks Killed After Boy Crashes Truck Into Procession",
+        "summary": "Another 11 were injured when the pickup truck hit the monks on a pilgrimage in northeast Thailand."
+      },
+      {
+        "char": "🏟️",
+        "label": "stadium's role in global economy",
+        "url": "https://www.nytimes.com/2026/07/02/world/asia/vietnam-stadium-corporate-inequality.html",
+        "title": "Can the World’s Largest Stadium Explain the Global Economy?",
+        "summary": "High growth rates and surging exports in Vietnam mask deep frustrations in one of Asia’s most ambitious countries."
+      },
+      {
+        "char": "💥",
+        "label": "russia attacks kyiv again",
+        "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
+        "title": "Live Updates: Russia Hammers Ukraine’s Capital in Deadly Attacks",
+        "summary": "At least 18 people were killed in Kyiv, the local authorities said. Ukraine’s president had warned that Moscow was preparing a “massive strike” as his country’s forces have hit deeper into Russian territory."
+      },
+      {
+        "char": "🐾",
+        "label": "boy dies from rabies after bat bite",
+        "url": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
+        "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
+        "summary": "Rabies infections are rare in Canada. There have been 28 human deaths due to rabies in the country since 1924."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
