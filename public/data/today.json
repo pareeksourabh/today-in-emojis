@@ -1,204 +1,43 @@
 {
-  "date": "2026-07-01",
-  "timestamp": "2026-07-01T00:00:00Z",
+  "date": "2026-07-02",
+  "timestamp": "2026-07-02T00:00:00Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "us supreme court's trump rulings",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
-      "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
-      "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories."
-    },
-    {
-      "char": "💣",
-      "label": "parcel bomb explodes in monaco",
-      "url": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
-      "title": "Parcel Bomb Explodes in Monaco, Injuring 3",
-      "summary": "The blast seriously injured three people, including a child, according to the authorities, who said the assailant was on the run."
-    },
-    {
-      "char": "🤝",
-      "label": "us and iran meet in qatar",
-      "url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
-      "title": "U.S. and Iran to Meet with Mediators in Qatar",
-      "summary": "American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal."
-    },
-    {
       "char": "⚽",
-      "label": "norway's viking row at world cup",
-      "url": "https://www.nytimes.com/2026/06/30/world/europe/norway-fans-viking-row-cheer.html",
-      "title": "Norway’s ‘Viking Row’ Is a Fan Phenomenon at the World Cup",
-      "summary": "Seas of red-clad Norwegian supporters are rowing shoulder to shoulder at stadiums, schools, even a nursing home. Not everyone is thrilled."
-    },
-    {
-      "char": "🏚️",
-      "label": "venezuela earthquake destruction",
-      "url": "https://www.theguardian.com/world/2026/jun/30/tonnes-and-tonnes-of-rubble-more-than-58000-buildings-estimated-to-have-been-destroyed-in-venezuela-earthquakes",
-      "title": "‘Tonnes of rubble’: 58,000 buildings estimated destroyed in Venezuela earthquakes",
-      "summary": "Preliminary analysis of satellite data suggests magnitude of natural disaster could dwarf official estimates More than 58,000 buildings may have been damaged and destroyed by the twin earthquakes that hit Venezuela last week, according t..."
-    },
-    {
-      "char": "✈️",
-      "label": "plane crash in beijing",
-      "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
-      "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-      "summary": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident."
-    },
-    {
-      "char": "🤝",
-      "label": "us and iran talks in qatar",
-      "url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
-      "title": "U.S. and Iran to Meet with Mediators in Qatar",
-      "summary": "American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal."
-    },
-    {
-      "char": "🏴‍☠️",
-      "label": "immigrants flee south africa violence",
-      "url": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
-      "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
-      "summary": "More than 2,000 anti-foreigner protesters march through Durban city centre as the arbitrary deadline passes for undocumented migrants to leave the country South Africa was holding its breath on Tuesday as mass anti-immigration protests w..."
-    },
-    {
-      "char": "🏥",
-      "label": "three-year-old rescued in venezuela",
-      "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
-      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
-      "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state."
-    },
-    {
-      "char": "💣",
-      "label": "parcel bomb explodes in monaco",
-      "url": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
-      "title": "Parcel Bomb Explodes in Monaco, Injuring 3",
-      "summary": "The blast seriously injured three people, including a child, according to the authorities, who said the assailant was on the run."
-    },
-    {
-      "char": "🏴‍☠️",
-      "label": "immigrants flee south africa",
-      "url": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
-      "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
-      "summary": "More than 2,000 anti-foreigner protesters march through Durban city centre as the arbitrary deadline passes for undocumented migrants to leave the country South Africa was holding its breath on Tuesday as mass anti-immigration protests w..."
-    },
-    {
-      "char": "⚽",
-      "label": "norway fans at world cup",
-      "url": "https://www.nytimes.com/2026/06/30/world/europe/norway-fans-viking-row-cheer.html",
-      "title": "Norway’s ‘Viking Row’ Is a Fan Phenomenon at the World Cup",
-      "summary": "Seas of red-clad Norwegian supporters are rowing shoulder to shoulder at stadiums, schools, even a nursing home. Not everyone is thrilled."
-    },
-    {
-      "char": "💣",
-      "label": "parcel bomb in monaco",
-      "url": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
-      "title": "Parcel Bomb Explodes in Monaco, Injuring 3",
-      "summary": "The blast seriously injured three people, including a child, according to the authorities, who said the assailant was on the run."
-    },
-    {
-      "char": "🧳",
-      "label": "murder of thai teenager",
-      "url": "https://www.nytimes.com/2026/06/30/world/asia/australian-thailand-teenager-murder-suitcase.html",
-      "title": "Australian Man Charged With Homicide After Thai Teen’s Body Found in Suitcase",
-      "summary": "The 17-year-old’s remains were found abandoned near railroad tracks in Pattaya. The suspect was arrested while trying to leave the country."
+      "label": "cape verde's world cup joy",
+      "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
+      "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
+      "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and Uruguay World Cup live – latest updates For as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape V..."
     },
     {
       "char": "🌍",
-      "label": "keiko fujimori wins peru",
-      "url": "https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff",
-      "title": "Peru’s Keiko Fujimori wins presidential election, in latest victory for Latin American right",
-      "summary": "The 51-year-old daughter of late president Alberto Fujimori secured the top office after authorities spent weeks reviewing contested ballots Peru’s conservative president-elect Keiko Fujimori has vowed to restore “order and hope” after d..."
+      "label": "venezuela earthquake aftermath",
+      "url": "https://www.theguardian.com/world/2026/jul/01/wednesday-briefing-after-two-powerful-earthquakes-what-is-the-reality-on-the-ground-in-venezuela",
+      "title": "Wednesday briefing: After two powerful earthquakes, what is the reality on the ground in Venezuela?",
+      "summary": "In today’s newsletter: A country already in crisis since the removal of its leader earlier this year by the US, now has to find a way to rebuild with little state presence in evidence The shaking seemed to come from nowhere. In a moment..."
     },
     {
-      "char": "🇦🇫",
-      "label": "taliban strikes on pakistan border",
-      "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
-      "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
-      "summary": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation."
-    },
-    {
-      "char": "⚖️",
-      "label": "sudan's rsf crimes against humanity",
-      "url": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
-      "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
-      "summary": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide."
-    },
-    {
-      "char": "🏚️",
-      "label": "roof collapse kills children in pakistan",
-      "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
-      "title": "Roof collapse kills 14 children at Pakistan tuition centre",
-      "summary": "Two people are taken into custody after the incident in the Kahna suburb of Lahore."
-    },
-    {
-      "char": "✈️",
-      "label": "plane crashes into tower in beijing",
-      "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
-      "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
-      "summary": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident."
-    },
-    {
-      "char": "🌍",
-      "label": "oman proposes strait of hormuz fee plan",
-      "url": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
-      "title": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
-      "summary": "Under the proposal, Iran and Oman would collect payment for ships passing through the Strait of Hormuz, according to officials and diplomats with knowledge of the matter."
-    },
-    {
-      "char": "🇻🇪",
-      "label": "venezuela earthquake response",
-      "url": "https://www.nytimes.com/2026/06/30/world/americas/trump-machado-venezuela-rift.html",
-      "title": "Trump Officials Sideline Machado, Venezuela’s Opposition Leader, Over Earthquake Response",
-      "summary": "U.S. officials called a bid by María Corina Machado, the Nobel Peace Prize winner, to return to earthquake-battered Venezuela a “political stunt” that has distracted from recovery efforts."
-    },
-    {
-      "char": "🏗️",
-      "label": "venezuela building destruction",
-      "url": "https://www.theguardian.com/world/2026/jun/30/tonnes-and-tonnes-of-rubble-more-than-58000-buildings-estimated-to-have-been-destroyed-in-venezuela-earthquakes",
-      "title": "‘Tonnes of rubble’: 58,000 buildings estimated destroyed in Venezuela earthquakes",
-      "summary": "Preliminary analysis of satellite data suggests magnitude of natural disaster could dwarf official estimates More than 58,000 buildings may have been damaged and destroyed by the twin earthquakes that hit Venezuela last week, according t..."
-    },
-    {
-      "char": "🎤",
+      "char": "🇨🇦",
       "label": "canada joins eurovision",
       "url": "https://www.theguardian.com/tv-and-radio/2026/jul/01/canada-joins-eurovision-song-contest",
       "title": "Canada to ​join Eurovision song contest from 2027",
       "summary": "Country is first to join since Australia in 2015 as event director says it ‘continues to welcome the world’ Canada will ​join the Eurovision song contest in 2027, becoming the first new ⁠participant since Australia in 2015, organisers ha..."
     },
     {
-      "char": "🚨",
-      "label": "immigrants flee south africa",
-      "url": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
-      "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
-      "summary": "More than 2,000 anti-foreigner protesters march through Durban city centre as the arbitrary deadline passes for undocumented migrants to leave the country South Africa was holding its breath on Tuesday as mass anti-immigration protests w..."
+      "char": "🌳",
+      "label": "quebec adopts tree rights",
+      "url": "https://www.nytimes.com/2026/07/01/world/canada/quebec-trees-rights-canada-terrasse-vaudreuil.html",
+      "title": "A Town in Quebec Is the First Governing Body to Adopt the Universal Declaration of the Rights of Trees",
+      "summary": "Terrasse-Vaudreuil has adopted a resolution to protect trees, which its mayor called “indispensable allies,” as living beings."
     },
     {
-      "char": "🤝",
-      "label": "us iran indirect talks",
-      "url": "https://www.nytimes.com/2026/07/01/world/middleeast/us-iran-diplomacy-qatar.html",
-      "title": "U.S. and Iran Set to Hold Indirect Talks After Trading Attacks: What to Know",
-      "summary": "Negotiators are in Qatar for indirect talks and ship traffic has risen in the Strait of Hormuz, even as Tehran and Washington remain far apart on key issues. Here’s what to know."
+      "char": "🏴‍☠️",
+      "label": "niger's lgbtq crackdown",
+      "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
+      "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
+      "summary": "Fears of resurgence of HIV/Aids amid loss of access to PrEP drugs as at least 40 people arrested in ‘toxic’ climate A “witch-hunt” is under way in Niger, where dozens of people have been arrested for homosexuality in the west African sta..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "Today brings a mixture of serious tragedies, including violence and natural disasters that have caused significant suffering. The emotional weight of such events is profound, making sadness the most fitting expression.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
