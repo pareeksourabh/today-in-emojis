@@ -1,20 +1,20 @@
 {
   "date": "2026-07-02",
-  "timestamp": "2026-07-02T00:00:00Z",
+  "timestamp": "2026-07-02T10:43:37Z",
   "emojis": [
     {
-      "char": "🇺🇸",
-      "label": "us blocks trade deal renewal",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
-      "title": "US blocks long-term renewal of North American trade deal",
-      "summary": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews"
-    },
-    {
       "char": "🌍",
-      "label": "earthquake aftermath in venezuela",
+      "label": "venezuela earthquake aftermath",
       "url": "https://www.theguardian.com/world/2026/jul/01/wednesday-briefing-after-two-powerful-earthquakes-what-is-the-reality-on-the-ground-in-venezuela",
       "title": "Wednesday briefing: After two powerful earthquakes, what is the reality on the ground in Venezuela?",
       "summary": "In today’s newsletter: A country already in crisis since the removal of its leader earlier this year by the US, now has to find a way to rebuild with little state presence in evidence The shaking seemed to come from nowhere. In a moment..."
+    },
+    {
+      "char": "🤖",
+      "label": "ai and job security",
+      "url": "https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html",
+      "title": "Can Companies Embrace A.I. Without Layoffs? This One Says It Is Trying to.",
+      "summary": "The German software giant SAP says it is betting that employees can reinvent jobs instead of eliminating them. Experts are divided on whether it will work."
     },
     {
       "char": "⚖️",
@@ -24,18 +24,18 @@
       "summary": "Report accuses paramilitary force of crimes including ethnic cleansing in systemic campaign against civilians The Sudanese paramilitary Rapid Support Forces committed crimes against humanity and ethnic cleansing during its campaign to ca..."
     },
     {
-      "char": "🚨",
-      "label": "police arrest in venezuela",
-      "url": "https://www.theguardian.com/world/2026/jul/01/venezuela-police-officers-arrested-alleged-looting-after-earthquakes",
-      "title": "Venezuelan police officers arrested over alleged looting after earthquakes",
-      "summary": "Anger at authorities and government grows as local people, volunteers and rescue teams continue search for survivors Four Venezuelan police officers have been arrested and are facing dismissal after being accused of looting cash from the..."
+      "char": "🇨🇦",
+      "label": "canada joins eurovision",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/01/canada-joins-eurovision-song-contest",
+      "title": "Canada to ​join Eurovision song contest from 2027",
+      "summary": "Country is first to join since Australia in 2015 as event director says it ‘continues to welcome the world’ Canada will ​join the Eurovision song contest in 2027, becoming the first new ⁠participant since Australia in 2015, organisers ha..."
     },
     {
-      "char": "🏳️‍🌈",
-      "label": "witch-hunt in niger",
-      "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
-      "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
-      "summary": "Fears of resurgence of HIV/Aids amid loss of access to PrEP drugs as at least 40 people arrested in ‘toxic’ climate A “witch-hunt” is under way in Niger, where dozens of people have been arrested for homosexuality in the west African sta..."
+      "char": "💵",
+      "label": "us resumes dollar transfers to iraq",
+      "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iraq-us-dollar-transfers-resumes.html",
+      "title": "U.S. Resumes Dollar Transfers to Iraq After Monthslong Suspension",
+      "summary": "The Trump administration had halted the shipments to Iraq as part of its efforts to pressure the Baghdad government to distance itself from Iran."
     }
   ],
   "source": "ai-openai",

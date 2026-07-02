@@ -52183,5 +52183,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-02",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "venezuela earthquake aftermath",
+        "url": "https://www.theguardian.com/world/2026/jul/01/wednesday-briefing-after-two-powerful-earthquakes-what-is-the-reality-on-the-ground-in-venezuela",
+        "title": "Wednesday briefing: After two powerful earthquakes, what is the reality on the ground in Venezuela?",
+        "summary": "In today’s newsletter: A country already in crisis since the removal of its leader earlier this year by the US, now has to find a way to rebuild with little state presence in evidence The shaking seemed to come from nowhere. In a moment..."
+      },
+      {
+        "char": "🤖",
+        "label": "ai and job security",
+        "url": "https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html",
+        "title": "Can Companies Embrace A.I. Without Layoffs? This One Says It Is Trying to.",
+        "summary": "The German software giant SAP says it is betting that employees can reinvent jobs instead of eliminating them. Experts are divided on whether it will work."
+      },
+      {
+        "char": "⚖️",
+        "label": "crimes against humanity in sudan",
+        "url": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
+        "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
+        "summary": "Report accuses paramilitary force of crimes including ethnic cleansing in systemic campaign against civilians The Sudanese paramilitary Rapid Support Forces committed crimes against humanity and ethnic cleansing during its campaign to ca..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada joins eurovision",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/01/canada-joins-eurovision-song-contest",
+        "title": "Canada to ​join Eurovision song contest from 2027",
+        "summary": "Country is first to join since Australia in 2015 as event director says it ‘continues to welcome the world’ Canada will ​join the Eurovision song contest in 2027, becoming the first new ⁠participant since Australia in 2015, organisers ha..."
+      },
+      {
+        "char": "💵",
+        "label": "us resumes dollar transfers to iraq",
+        "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iraq-us-dollar-transfers-resumes.html",
+        "title": "U.S. Resumes Dollar Transfers to Iraq After Monthslong Suspension",
+        "summary": "The Trump administration had halted the shipments to Iraq as part of its efforts to pressure the Baghdad government to distance itself from Iran."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
