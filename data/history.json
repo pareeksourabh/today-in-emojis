@@ -52139,5 +52139,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-02",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "trump's suggestion on hezbollah",
+        "url": "https://www.nytimes.com/2026/07/01/world/middleeast/syria-trump-hezbollah-lebanon.html",
+        "title": "Trump Suggestion of a Syrian Crackdown on Hezbollah Confounds Many in Mideast",
+        "summary": "During peace talks, President Trump repeatedly floated the idea that Syria could help subdue Hezbollah in Lebanon. The proposal revived bitter memories."
+      },
+      {
+        "char": "👶",
+        "label": "childbirth under bombardment in ukraine",
+        "url": "https://www.nytimes.com/2026/07/01/world/europe/ukraine-war-pregnant-women-hospitals.html",
+        "title": "Underground Births, Under Bombardment: Childbearing in Ukraine",
+        "summary": "Bombings, blackouts and displacement compound maternal anxiety. Still, many women persevere. “We must bring new life,” one said."
+      },
+      {
+        "char": "💣",
+        "label": "bombings target greek officials",
+        "url": "https://www.nytimes.com/2026/07/01/world/europe/greece-bombings-thessaloniki.html",
+        "title": "Bombings in Greece Target Governing Party Members, Officials Say",
+        "summary": "A candidate for Parliament for the New Democracy party was injured in one of the bombings in the city of Thessaloniki, as were her parents, the police said."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "witch-hunt against lgbtq in niger",
+        "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
+        "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
+        "summary": "Fears of resurgence of HIV/Aids amid loss of access to PrEP drugs as at least 40 people arrested in ‘toxic’ climate A “witch-hunt” is under way in Niger, where dozens of people have been arrested for homosexuality in the west African sta..."
+      },
+      {
+        "char": "🌍",
+        "label": "earthquake recovery in venezuela",
+        "url": "https://www.theguardian.com/world/2026/jul/01/wednesday-briefing-after-two-powerful-earthquakes-what-is-the-reality-on-the-ground-in-venezuela",
+        "title": "Wednesday briefing: After two powerful earthquakes, what is the reality on the ground in Venezuela?",
+        "summary": "In today’s newsletter: A country already in crisis since the removal of its leader earlier this year by the US, now has to find a way to rebuild with little state presence in evidence The shaking seemed to come from nowhere. In a moment..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
