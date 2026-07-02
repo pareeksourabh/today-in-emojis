@@ -1,41 +1,41 @@
 {
   "date": "2026-07-02",
-  "timestamp": "2026-07-02T00:00:00Z",
+  "timestamp": "2026-07-02T02:30:05Z",
   "emojis": [
     {
+      "char": "🕊️",
+      "label": "us-iran indirect talks",
+      "url": "https://www.nytimes.com/2026/07/01/world/middleeast/us-iran-diplomacy-qatar.html",
+      "title": "U.S. and Iran Set to Hold Indirect Talks After Trading Attacks: What to Know",
+      "summary": "Negotiators are in Qatar for indirect talks and ship traffic has risen in the Strait of Hormuz, even as Tehran and Washington remain far apart on key issues. Here’s what to know."
+    },
+    {
       "char": "⚽",
-      "label": "cape verde's world cup joy",
+      "label": "cape verde world cup joy",
       "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
       "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
       "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and Uruguay World Cup live – latest updates For as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape V..."
     },
     {
-      "char": "🌍",
-      "label": "venezuela earthquake aftermath",
-      "url": "https://www.theguardian.com/world/2026/jul/01/wednesday-briefing-after-two-powerful-earthquakes-what-is-the-reality-on-the-ground-in-venezuela",
-      "title": "Wednesday briefing: After two powerful earthquakes, what is the reality on the ground in Venezuela?",
-      "summary": "In today’s newsletter: A country already in crisis since the removal of its leader earlier this year by the US, now has to find a way to rebuild with little state presence in evidence The shaking seemed to come from nowhere. In a moment..."
+      "char": "💣",
+      "label": "greece bombings update",
+      "url": "https://www.nytimes.com/2026/07/01/world/europe/greece-bombings-thessaloniki.html",
+      "title": "Bombings in Greece Target Governing Party Members, Officials Say",
+      "summary": "A candidate for Parliament for the New Democracy party was injured in one of the bombings in the city of Thessaloniki, as were her parents, the police said."
     },
     {
-      "char": "🇨🇦",
+      "char": "🎤",
       "label": "canada joins eurovision",
       "url": "https://www.theguardian.com/tv-and-radio/2026/jul/01/canada-joins-eurovision-song-contest",
       "title": "Canada to ​join Eurovision song contest from 2027",
       "summary": "Country is first to join since Australia in 2015 as event director says it ‘continues to welcome the world’ Canada will ​join the Eurovision song contest in 2027, becoming the first new ⁠participant since Australia in 2015, organisers ha..."
     },
     {
-      "char": "🌳",
-      "label": "quebec adopts tree rights",
-      "url": "https://www.nytimes.com/2026/07/01/world/canada/quebec-trees-rights-canada-terrasse-vaudreuil.html",
-      "title": "A Town in Quebec Is the First Governing Body to Adopt the Universal Declaration of the Rights of Trees",
-      "summary": "Terrasse-Vaudreuil has adopted a resolution to protect trees, which its mayor called “indispensable allies,” as living beings."
-    },
-    {
-      "char": "🏴‍☠️",
-      "label": "niger's lgbtq crackdown",
-      "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
-      "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
-      "summary": "Fears of resurgence of HIV/Aids amid loss of access to PrEP drugs as at least 40 people arrested in ‘toxic’ climate A “witch-hunt” is under way in Niger, where dozens of people have been arrested for homosexuality in the west African sta..."
+      "char": "🌍",
+      "label": "ebola outbreak burials",
+      "url": "https://www.nytimes.com/2026/07/01/world/africa/ebola-congo-burials.html",
+      "title": "A Risky Burial in the Heart of an Ebola Outbreak",
+      "summary": "Safe interment is critical to containing the deadly disease, but in recent days around one Congolese town, that was not always being done."
     }
   ],
   "source": "ai-openai",
