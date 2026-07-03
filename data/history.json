@@ -52491,5 +52491,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-03",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "tibetan man dies after protest",
+        "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
+        "title": "Tibetan Man Dies After Self-Immolation Protest in New York",
+        "summary": "Lobga Rangzen, a 52-year-old resident of Queens, died after the self-immolation. He said Beijing’s policies were “destroying the Tibetan people.”"
+      },
+      {
+        "char": "🚀",
+        "label": "nasa launches mission for telescope",
+        "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+        "title": "Nasa launches mission to save falling space telescope",
+        "summary": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up."
+      },
+      {
+        "char": "⛽",
+        "label": "gas shortages in wartime russia",
+        "url": "https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html",
+        "title": "Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia",
+        "summary": "“Are we in the Soviet Union now?” asked one Russian, stunned and frustrated by the waits at the pumps."
+      },
+      {
+        "char": "🌧️",
+        "label": "floods kill in cote d'ivoire",
+        "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
+        "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
+        "summary": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and Nigeria Floods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan...."
+      },
+      {
+        "char": "🏗️",
+        "label": "venezuela earthquake rescue efforts",
+        "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
+        "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
+        "summary": "Thousands of volunteers are joined by overseas teams in the hope of finding more survivors in the rubble, reports Tom Phillips in Caraballeda When twin earthquakes tore through Venezuela’s northern coast last week, Israel Rivas was at ho..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
