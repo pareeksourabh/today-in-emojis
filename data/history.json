@@ -52403,5 +52403,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-03",
+    "emojis": [
+      {
+        "char": "🇮🇳",
+        "label": "india and japan expand ties",
+        "url": "https://www.nytimes.com/2026/07/02/world/asia/03int-india-japan-modi-takaichi-security.html",
+        "title": "India and Japan Expand Defense and Economic Ties",
+        "summary": "The prime minister met with his counterpart, Sanae Takaichi of Japan, and signed agreements covering artificial intelligence, energy and security."
+      },
+      {
+        "char": "☀️",
+        "label": "france heatwave deaths",
+        "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+        "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+        "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days."
+      },
+      {
+        "char": "⚰️",
+        "label": "iran prepares for khamenei's burial",
+        "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
+        "title": "Iran Prepares to Bury Supreme Leader, Ayatollah Ali Khamenei, Killed at Iran War’s Outset",
+        "summary": "Long-delayed funeral ceremonies for Ayatollah Ali Khamenei, killed during U.S.-Israeli strikes at the war’s outset, are set to begin Friday. For the regime, it is a critical moment to demonstrate that it has endured."
+      },
+      {
+        "char": "🏚️",
+        "label": "venezuela earthquake aftermath",
+        "url": "https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-oneimage.html",
+        "title": "An Aerial View of Disaster at a Venezuela Housing Project",
+        "summary": "What one aerial image of a collapsed building tells us about the aftermath of an earthquake in La Guaira, Venezuela."
+      },
+      {
+        "char": "🎤",
+        "label": "canada joins eurovision",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/01/canada-joins-eurovision-song-contest",
+        "title": "Canada to ​join Eurovision song contest from 2027",
+        "summary": "Country is first to join since Australia in 2015 as event director says it ‘continues to welcome the world’ Canada will ​join the Eurovision song contest in 2027, becoming the first new ⁠participant since Australia in 2015, organisers ha..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
