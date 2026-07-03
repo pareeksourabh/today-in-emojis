@@ -52447,5 +52447,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-03",
+    "emojis": [
+      {
+        "char": "🦇",
+        "label": "boy dies from rabies after bat encounter",
+        "url": "https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face",
+        "title": "Canadian boy dies of rabies after waking to find bat on his face",
+        "summary": "Eleven-year-old developed symptoms 19 days after encounter in Ontario in ‘exceedingly rare’ case Doctors in Canada say a child who awoke to find a bat resting on his nose and mouth while visiting an Ontario cottage later died of rabies,..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola origins crucial for prevention",
+        "url": "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak",
+        "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak",
+        "summary": "If we don’t know the source, not only do humans remain at risk but wildlife can suffer needlessly via retaliation While virologists and public health departments were palpitating over the news of an Andes virus infectious disease outbrea..."
+      },
+      {
+        "char": "⚽",
+        "label": "deaths in mexico world cup celebrations",
+        "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations",
+        "title": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
+        "summary": "Three of the victims died from suffocation More than a million people gathered in Mexico City Four people died, three ⁠from suffocation, as thousands of fans crowded Mexico City streets during World Cup celebrations, the capital’s health..."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "supreme leader's funeral in iran",
+        "url": "https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html",
+        "title": "It’s Day 1 of the Supreme Leader’s Funeral, and Allies Descend on Iran",
+        "summary": "Foreign dignitaries from China, Russia, Pakistan and elsewhere are set to pay respects to Ayatollah Ali Khamenei on Friday as days of ceremonies get underway."
+      },
+      {
+        "char": "🔥",
+        "label": "tibetan activist self-immolates in protest",
+        "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
+        "title": "Tibetan Activist Sets Self on Fire Outside U.N. in Protest Against China",
+        "summary": "Lobga Rangzen, a 52-year-old resident of Queens, died after the self-immolation. He said Beijing’s policies were “destroying the Tibetan people.”"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
