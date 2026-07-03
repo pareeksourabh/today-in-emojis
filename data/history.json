@@ -52315,5 +52315,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-03",
+    "emojis": [
+      {
+        "char": "🇮🇷",
+        "label": "us hopes for investment in iran",
+        "url": "https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html",
+        "title": "U.S. Hopes for Investment in Iran Would Break With Decades of History",
+        "summary": "Senior U.S. officials have said Iran would be richly rewarded for changing its stance on the United States. Iran’s leaders have rejected such a bargain in the past."
+      },
+      {
+        "char": "🦇",
+        "label": "canadian boy dies of rabies",
+        "url": "https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face",
+        "title": "Canadian boy dies of rabies after waking to find bat on his face",
+        "summary": "Eleven-year-old developed symptoms 19 days after encounter in Ontario in ‘exceedingly rare’ case Doctors in Canada say a child who awoke to find a bat resting on his nose and mouth while visiting an Ontario cottage later died of rabies,..."
+      },
+      {
+        "char": "💣",
+        "label": "bomb blast at damascus cafe",
+        "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+        "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+        "summary": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building."
+      },
+      {
+        "char": "🌧️",
+        "label": "cote d’ivoire floods kill 59",
+        "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
+        "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
+        "summary": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and Nigeria Floods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan...."
+      },
+      {
+        "char": "🎤",
+        "label": "canada joins eurovision song contest",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/01/canada-joins-eurovision-song-contest",
+        "title": "Canada to ​join Eurovision song contest from 2027",
+        "summary": "Country is first to join since Australia in 2015 as event director says it ‘continues to welcome the world’ Canada will ​join the Eurovision song contest in 2027, becoming the first new ⁠participant since Australia in 2015, organisers ha..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
