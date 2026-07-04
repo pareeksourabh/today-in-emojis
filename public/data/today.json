@@ -1,41 +1,41 @@
 {
   "date": "2026-07-04",
-  "timestamp": "2026-07-04T02:03:02Z",
+  "timestamp": "2026-07-04T00:00:00Z",
   "emojis": [
     {
-      "char": "🎤",
-      "label": "comic arrested for jokes in turkey",
-      "url": "https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss",
-      "title": "Stand-up comic held for jokes about Erdoğan and Islam in Turkey crackdown",
-      "summary": "Deniz Göktaş is regarded as one of Turkey's most popular comedians and is accused of \"inciting hatred and hostility\" on stage."
+      "char": "🏛️",
+      "label": "hitler bunker faces demolition",
+      "url": "https://www.nytimes.com/2026/07/03/world/europe/hitler-bunker-berlin-germany.html",
+      "title": "A Hitler Bunker Faces Demolition in Housing-Challenged Berlin",
+      "summary": "Preservation experts say the move to develop the site reflects a tension in Germany between the need to preserve historically significant monuments and the need to build and modernize."
+    },
+    {
+      "char": "🌡️",
+      "label": "france heatwave excess deaths",
+      "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+      "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days."
     },
     {
       "char": "🏟️",
-      "label": "largest stadium and global economy",
+      "label": "world's largest stadium economy",
       "url": "https://www.nytimes.com/2026/07/02/world/asia/vietnam-stadium-corporate-inequality.html",
       "title": "Can the World’s Largest Stadium Explain the Global Economy?",
       "summary": "High growth rates and surging exports in Vietnam mask deep frustrations in one of Asia’s most ambitious countries."
     },
     {
-      "char": "🌍",
-      "label": "ebola origins crucial for prevention",
-      "url": "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak",
-      "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak",
-      "summary": "If we don’t know the source, not only do humans remain at risk but wildlife can suffer needlessly via retaliation While virologists and public health departments were palpitating over the news of an Andes virus infectious disease outbrea..."
-    },
-    {
-      "char": "🌪️",
-      "label": "venezuela earthquake rescue efforts",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
-      "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
-      "summary": "Thousands of volunteers are joined by overseas teams in the hope of finding more survivors in the rubble, reports Tom Phillips in Caraballeda. Photography and video by Manu Quintero When twin earthquakes tore through Venezuela’s northern..."
-    },
-    {
       "char": "🌧️",
-      "label": "floods in cote d'ivoire",
+      "label": "côte d’ivoire floods kill 59",
       "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
       "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
       "summary": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and Nigeria Floods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan...."
+    },
+    {
+      "char": "💔",
+      "label": "anguished families in venezuela",
+      "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+      "summary": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification."
     }
   ],
   "source": "ai-openai",
