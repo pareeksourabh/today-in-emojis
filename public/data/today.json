@@ -1,41 +1,41 @@
 {
   "date": "2026-07-04",
-  "timestamp": "2026-07-04T06:51:23Z",
+  "timestamp": "2026-07-04T00:00:00Z",
   "emojis": [
     {
-      "char": "🌍",
-      "label": "venezuela quake victims identified",
-      "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
-      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
-      "summary": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification."
+      "char": "🇺🇸",
+      "label": "trump refuses trade pact renewal",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
+      "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+      "summary": "Trump and US officials opted to keep USMCA alive on short leash of annual reviews rather than longer term renewal Donald Trump has refused to renew the North American trade pact he once championed as his signature deal, opting instead to..."
     },
     {
-      "char": "🎉",
-      "label": "taylor swift marries travis kelce",
-      "url": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
-      "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-      "summary": "It was the bash of the century, with celebrities from singer Benson Boone and actor Hugh Grant to model Gigi Hadid and actor Ethan Hawke in attendence."
-    },
-    {
-      "char": "🔥",
-      "label": "france heatwave causes excess deaths",
-      "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
-      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-      "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days."
-    },
-    {
-      "char": "⚖️",
-      "label": "sudan's rsf crimes against humanity",
-      "url": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
-      "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
-      "summary": "Report accuses paramilitary force of crimes including ethnic cleansing in systemic campaign against civilians The Sudanese paramilitary Rapid Support Forces committed crimes against humanity and ethnic cleansing during its campaign to ca..."
+      "char": "⛽",
+      "label": "gas shortages in wartime russia",
+      "url": "https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html",
+      "title": "Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia",
+      "summary": "“Are we in the Soviet Union now?” asked one Russian, stunned and frustrated by the waits at the pumps."
     },
     {
       "char": "🌧️",
-      "label": "cote d'ivoire floods kill 59",
+      "label": "floods in côte d’ivoire",
       "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
       "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
       "summary": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and Nigeria Floods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan...."
+    },
+    {
+      "char": "🏛️",
+      "label": "funeral for iran's supreme leader",
+      "url": "https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html",
+      "title": "It’s Day 1 of the Supreme Leader’s Funeral, and Allies Gather in Iran",
+      "summary": "Foreign dignitaries paid their respects to Ayatollah Ali Khamenei on Friday as days of ceremonies got underway."
+    },
+    {
+      "char": "🌍",
+      "label": "rescuers in venezuela's quake aftermath",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
+      "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
+      "summary": "Thousands of volunteers are joined by overseas teams in the hope of finding more survivors in the rubble, reports Tom Phillips in Caraballeda. Photography and video by Manu Quintero When twin earthquakes tore through Venezuela’s northern..."
     }
   ],
   "source": "ai-openai",
