@@ -52623,5 +52623,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-04",
+    "emojis": [
+      {
+        "char": "🚀",
+        "label": "nasa saves space telescope",
+        "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+        "title": "Nasa launches mission to save falling space telescope",
+        "summary": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola wildlife origins study",
+        "url": "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak",
+        "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak",
+        "summary": "If we don’t know the source, not only do humans remain at risk but wildlife can suffer needlessly via retaliation While virologists and public health departments were palpitating over the news of an Andes virus infectious disease outbrea..."
+      },
+      {
+        "char": "🇨🇳",
+        "label": "china defends ethnic unity law",
+        "url": "https://www.nytimes.com/2026/07/03/world/asia/china-ethnic-unity-tibetan-uyghurs.html",
+        "title": "China Defends Widely Criticized ‘Ethnic Unity’ Law",
+        "summary": "Rights groups and Western officials have criticized the law as a threat to Tibetans, Uyghurs and other minorities. Beijing says the measure aims to protect them."
+      },
+      {
+        "char": "⛽",
+        "label": "gas shortages in wartime russia",
+        "url": "https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html",
+        "title": "Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia",
+        "summary": "“Are we in the Soviet Union now?” asked one Russian, stunned and frustrated by the waits at the pumps."
+      },
+      {
+        "char": "🇷🇼",
+        "label": "rwanda liberation day",
+        "url": "https://www.nytimes.com/2026/07/04/world/africa/rwanda-july-4-liberation-day.html",
+        "title": "In Rwanda, July 4 Is Liberation Day From Genocide",
+        "summary": "The Central African nation remembers the end of a murderous campaign against ethnic Tutsis that killed hundreds of thousands of people."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
