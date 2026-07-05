@@ -52755,5 +52755,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-05",
+    "emojis": [
+      {
+        "char": "⛽",
+        "label": "gas shortages in wartime russia",
+        "url": "https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html",
+        "title": "Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia",
+        "summary": "“Are we in the Soviet Union now?” asked one Russian, stunned and frustrated by the waits at the pumps."
+      },
+      {
+        "char": "🔥",
+        "label": "heat cancels july 4 events",
+        "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
+        "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+        "summary": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days."
+      },
+      {
+        "char": "🇷🇼",
+        "label": "rwanda's liberation day",
+        "url": "https://www.nytimes.com/2026/07/04/world/africa/rwanda-july-4-liberation-day.html",
+        "title": "In Rwanda, July 4 Is Liberation Day From Genocide",
+        "summary": "The Central African nation remembers the end of a murderous campaign against ethnic Tutsis that killed hundreds of thousands of people."
+      },
+      {
+        "char": "🦇",
+        "label": "boy dies from rabies after bat encounter",
+        "url": "https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face",
+        "title": "Canadian boy dies of rabies after waking to find bat on his face",
+        "summary": "Eleven-year-old developed symptoms 19 days after encounter in Ontario in ‘exceedingly rare’ case Doctors in Canada say a child who awoke to find a bat resting on his nose and mouth while visiting an Ontario cottage later died of rabies,..."
+      },
+      {
+        "char": "🏆",
+        "label": "cape verde's world cup journey",
+        "url": "https://www.nytimes.com/2026/07/04/world/africa/cape-verde-world-cup.html",
+        "title": "For Cape Verde, There’s Victory in Their World Cup Defeat",
+        "summary": "The tiny African nation was eliminated from the World Cup by one of soccer’s biggest powers, Argentina, but there was still plenty to celebrate."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
