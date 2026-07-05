@@ -52799,5 +52799,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-05",
+    "emojis": [
+      {
+        "char": "🇲🇽",
+        "label": "trump's travel crackdown boosts tourism",
+        "url": "https://www.nytimes.com/2026/07/04/world/americas/world-cup-mexico-tourism-trump.html",
+        "title": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
+        "summary": "While critics question just how much the World Cup will benefit tourism long term, Mexican officials believe it can help boost the country to fifth most visited in the world."
+      },
+      {
+        "char": "🚨",
+        "label": "aid workers face dire conditions in sudan",
+        "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+        "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
+        "summary": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSF Fatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past..."
+      },
+      {
+        "char": "⚔️",
+        "label": "putin vows to expand in ukraine",
+        "url": "https://www.nytimes.com/2026/07/03/world/europe/putin-ukraine-donbas-battlefield-visit.html",
+        "title": "Putin Visits Battlefield and Vows to Take More of Ukraine",
+        "summary": "The Russian leader denounced Ukraine’s “imaginary achievements” on the battlefield of late, calling its leaders “play actors.”"
+      },
+      {
+        "char": "🎆",
+        "label": "us celebrates 250th birthday with events",
+        "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+        "title": "US marks its 250th birthday with fireworks, flyovers and extreme weather",
+        "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history."
+      },
+      {
+        "char": "🌍",
+        "label": "archaeologists find ancient city in egypt",
+        "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+        "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+        "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
