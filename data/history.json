@@ -52843,5 +52843,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-05",
+    "emojis": [
+      {
+        "char": "🇫🇷",
+        "label": "le pen verdict in presidential race",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+        "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+        "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds."
+      },
+      {
+        "char": "⚽",
+        "label": "1986 mexico world cup earthquake",
+        "url": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986",
+        "title": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
+        "summary": "Guardian reports after the disaster told of 5,000 deaths, much of the capital being razed, and doubts about Mexico hosting the finals Mexico last hosted the World Cup in 1986 , but the competition was almost cancelled several months befo..."
+      },
+      {
+        "char": "🏅",
+        "label": "modi racks up overseas honours",
+        "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
+        "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
+        "summary": "Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipient As Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in the Indian Ocean swiftly bestowed one o..."
+      },
+      {
+        "char": "⛪",
+        "label": "catholics defy vatican calls",
+        "url": "https://www.nytimes.com/2026/07/05/world/europe/schism-catholic-pope-society-pius-excommunication.html",
+        "title": "Rebel Catholics Defy Vatican’s Calls to Return to Mainstream Church",
+        "summary": "The Vatican has excommunicated the priesthood of a rebel Catholic faction. Many of the priests’ followers have refused to renounce them."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela earthquake aftermath",
+        "url": "https://www.nytimes.com/2026/07/05/world/americas/venezuela-earthquake-la-guaira-building-collapse-government.html",
+        "title": "Years of Warnings About Public Housing Preceded Venezuela’s Earthquakes",
+        "summary": "Residents, construction experts and seismologists said for years that Venezuela’s public housing would be vulnerable in a natural disaster."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
