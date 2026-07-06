@@ -1,13 +1,34 @@
 {
   "date": "2026-07-06",
-  "timestamp": "2026-07-06T02:23:11Z",
+  "timestamp": "2026-07-06T00:00:00Z",
   "emojis": [
     {
-      "char": "🏆",
-      "label": "modi's overseas awards",
-      "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
-      "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
-      "summary": "Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipient As Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in the Indian Ocean swiftly bestowed one o..."
+      "char": "🕊️",
+      "label": "iran's supreme leader funeral",
+      "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html",
+      "title": "Mourners Chant ‘Revenge’ at Funeral Prayers for Iran’s Slain Supreme Leader",
+      "summary": "On the second day of public mourning for Ayatollah Ali Khamenei, who was killed in February, there was still no sign of his son and successor, Mojtaba Khamenei."
+    },
+    {
+      "char": "🏺",
+      "label": "ancient byzantine city found",
+      "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters..."
+    },
+    {
+      "char": "🌧️",
+      "label": "floods in côte d'ivoire",
+      "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
+      "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
+      "summary": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and Nigeria Floods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan...."
+    },
+    {
+      "char": "🌍",
+      "label": "venezuela earthquake response",
+      "url": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar",
+      "title": "Rodríguez defends Venezuela’s emergency earthquake response as number of bodies expected to soar",
+      "summary": "Interim president says unrest will not break out despite anger at official response to the 24 June disaster Venezuela’s interim president has defended her country’s emergency response to the twin earthquakes that have killed more than 3,..."
     },
     {
       "char": "⚖️",
@@ -15,27 +36,6 @@
       "url": "https://www.nytimes.com/2026/07/05/world/asia/impeachment-trial-philippines-sara-duterte.html",
       "title": "Impeachment Trial of Philippine Vice President Set to Begin",
       "summary": "Sara Duterte, who has said she would run for president, could be barred from politics over allegations of corruption and for making death threats against President Ferdinand Marcos Jr."
-    },
-    {
-      "char": "🕊️",
-      "label": "khamenei's funeral in tehran",
-      "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html",
-      "title": "Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral",
-      "summary": "Throughout the capital, the government is using Ayatollah Ali Khamenei’s funeral to project strength at a time of great uncertainty for Iran."
-    },
-    {
-      "char": "🌊",
-      "label": "fishermen vs chinese trawlers",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss",
-      "title": "The African fishermen who blame Chinese trawlers for their woes",
-      "summary": "Fishing crews in Sierra Leone say large Chinese ships are illegally hoovering up stocks."
-    },
-    {
-      "char": "🏛️",
-      "label": "byzantine city uncovered in egypt",
-      "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
-      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
-      "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters..."
     }
   ],
   "source": "ai-openai",
