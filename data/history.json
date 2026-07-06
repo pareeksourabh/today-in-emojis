@@ -53151,5 +53151,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-06",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "venezuela quake survivor's story",
+        "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
+        "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+        "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June."
+      },
+      {
+        "char": "🇭🇹",
+        "label": "florida republican on haitians' fate",
+        "url": "https://www.theguardian.com/us-news/2026/jul/05/haitians-tps-republican-carlos-gimenez",
+        "title": "Florida Republican says deporting Haitians with TPS would be ‘huge mistake’",
+        "summary": "‘Haiti is a failed state’, says Carlos Giménez, congressman and Miami Cuban exile, after controversial court ruling Carlos Giménez, a Republican congressman from Florida, broke with the Trump administration on Sunday, calling on the Whit..."
+      },
+      {
+        "char": "💰",
+        "label": "us quake aid from venezuelan oil",
+        "url": "https://www.nytimes.com/2026/07/06/world/americas/earthquake-venezuela-haiti-us-aid.html",
+        "title": "With $8 Billion in Venezuelan Oil Money, U.S. Gives $300 Million in Quake Aid",
+        "summary": "In 2010, there was a huge U.S. aid effort after a quake in Haiti. Today, U.S. officials say they oversee billions in Venezuelan oil revenue, but aid is less."
+      },
+      {
+        "char": "📚",
+        "label": "uk education project for women axed",
+        "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
+        "title": "Overseas education project for women and girls axed by UK after two years",
+        "summary": "The programme, aimed at keeping 1m girls in school across Africa, Asia and the Middle East, withdrawn after aid cuts A leading higher education programme, aimed at keeping 1 million girls in school across Africa, Asia and the Middle East..."
+      },
+      {
+        "char": "🏛️",
+        "label": "ancient city uncovered in egypt",
+        "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+        "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+        "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
