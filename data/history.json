@@ -53107,5 +53107,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-06",
+    "emojis": [
+      {
+        "char": "🏛️",
+        "label": "ancient byzantine city uncovered",
+        "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+        "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+        "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters..."
+      },
+      {
+        "char": "🌊",
+        "label": "côte d’ivoire floods kill 59",
+        "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
+        "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
+        "summary": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and Nigeria Floods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan...."
+      },
+      {
+        "char": "🚀",
+        "label": "australia finds mystery space balls",
+        "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
+        "title": "Australia space agency has found 'likely source' of mystery space balls",
+        "summary": "The agency says that they \"appear to be pressure vessels from a space launch vehicle\"."
+      },
+      {
+        "char": "💔",
+        "label": "sri lanka prison riot leaves 23 dead",
+        "url": "https://www.nytimes.com/2026/07/06/world/asia/sri-lanka-prison-riot-dead.html",
+        "title": "Riot in Sri Lanka’s Negombo prison leaves at least 23 dead",
+        "summary": "The country has faced criticism from human rights activists for the conditions in its prisons, including overcrowding and failing to protect inmates."
+      },
+      {
+        "char": "🌍",
+        "label": "turkey hosts nato summit amid crackdown",
+        "url": "https://www.nytimes.com/2026/07/06/world/middleeast/turkey-hosts-nato-summit-while-cracking-down-on-critics.html",
+        "title": "Turkey Hosts NATO Summit While Cracking Down on Critics",
+        "summary": "In the weeks leading up to the two-day event, the Turkish authorities blocked websites, jailed scores of people over allegations of terrorism and arrested a prominent comedian."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
