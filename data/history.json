@@ -53019,5 +53019,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-06",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "venezuela earthquake aftermath",
+        "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
+        "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
+        "summary": "Thousands of volunteers are joined by overseas teams in the hope of finding more survivors in the rubble, reports Tom Phillips in Caraballeda. Photography and video by Manu Quintero When twin earthquakes tore through Venezuela’s northern..."
+      },
+      {
+        "char": "🌀",
+        "label": "super typhoon bavi hits us",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+        "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+        "summary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota."
+      },
+      {
+        "char": "⚰️",
+        "label": "iran mourns khamenei",
+        "url": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-khamenei-tehran.html",
+        "title": "Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral",
+        "summary": "Throughout the capital, the government is using Ayatollah Ali Khamenei’s funeral to project strength at a time of great uncertainty for Iran."
+      },
+      {
+        "char": "🚀",
+        "label": "china tests ballistic missile",
+        "url": "https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html",
+        "title": "China Test Fires Long-Range Ballistic Missile in the Pacific",
+        "summary": "China’s firing of a submarine-launched missile came as Australia secured more defense deals with Pacific Island nations. Countries expressed concern about the test."
+      },
+      {
+        "char": "🌧️",
+        "label": "cote d'ivoire floods",
+        "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
+        "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
+        "summary": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and Nigeria Floods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan...."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
