@@ -53239,5 +53239,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-07",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "venezuelan girl trapped under rubble",
+        "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
+        "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+        "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June."
+      },
+      {
+        "char": "⚽",
+        "label": "trump asks fifa to review ban",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump confirms he asked Fifa to review Balogun ban",
+        "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup."
+      },
+      {
+        "char": "⚖️",
+        "label": "former syrian officials guilty of torture",
+        "url": "https://www.nytimes.com/2026/07/06/world/middleeast/syrian-torture-verdict-vienna.html",
+        "title": "Former Syrian Officials Found Guilty in Torture of Pro-Democracy Protesters",
+        "summary": "The case against the two men, who have been living in Austria since 2015, was one of the first that the country has brought under the principle of universal jurisdiction."
+      },
+      {
+        "char": "🚨",
+        "label": "wildfire in southern france evacuates 10k",
+        "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+        "title": "Wildfire in southern France forces evacuation of 10,000 people",
+        "summary": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region."
+      },
+      {
+        "char": "🏛️",
+        "label": "archaeologists uncover ancient city in egypt",
+        "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+        "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+        "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

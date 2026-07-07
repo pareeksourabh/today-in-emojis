@@ -1,41 +1,41 @@
 {
   "date": "2026-07-07",
-  "timestamp": "2026-07-07T00:00:00Z",
+  "timestamp": "2026-07-07T07:44:22Z",
   "emojis": [
     {
       "char": "🌍",
-      "label": "venezuela earthquake survivor story",
+      "label": "venezuelan girl trapped under rubble",
       "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
       "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
       "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June."
     },
     {
+      "char": "⚽",
+      "label": "trump asks fifa to review ban",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump confirms he asked Fifa to review Balogun ban",
+      "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup."
+    },
+    {
+      "char": "⚖️",
+      "label": "former syrian officials guilty of torture",
+      "url": "https://www.nytimes.com/2026/07/06/world/middleeast/syrian-torture-verdict-vienna.html",
+      "title": "Former Syrian Officials Found Guilty in Torture of Pro-Democracy Protesters",
+      "summary": "The case against the two men, who have been living in Austria since 2015, was one of the first that the country has brought under the principle of universal jurisdiction."
+    },
+    {
       "char": "🚨",
-      "label": "global human trafficking crackdown",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss",
-      "title": "More than 1,000 arrested as part of global human trafficking crackdown",
-      "summary": "Interpol says the vast majority of the 2,070 victims or potential victims identified were women being trafficked for sex."
+      "label": "wildfire in southern france evacuates 10k",
+      "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+      "title": "Wildfire in southern France forces evacuation of 10,000 people",
+      "summary": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region."
     },
     {
-      "char": "👑",
-      "label": "prince harry's royal visit",
-      "url": "https://www.nytimes.com/2026/07/06/world/europe/prince-harry-uk-meghan-king-charles.html",
-      "title": "Will Prince Harry’s Trip to Britain Repair or Deepen the Royal Rift?",
-      "summary": "Harry arrived in London Monday night for a visit that has already been overshadowed by drama and confusion over his plans."
-    },
-    {
-      "char": "🚀",
-      "label": "china missile test in pacific",
-      "url": "https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html",
-      "title": "China Test Fires Long-Range Ballistic Missile in the Pacific",
-      "summary": "China’s firing of a submarine-launched missile came as Australia secured more defense deals with Pacific Island nations. Countries expressed concern about the test."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "canada buys german submarines",
-      "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
-      "title": "Canada to buy 12 hi-tech German submarines after bidding war",
-      "summary": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato ties Canada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defence contracts tha..."
+      "char": "🏛️",
+      "label": "archaeologists uncover ancient city in egypt",
+      "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters..."
     }
   ],
   "source": "ai-openai",
