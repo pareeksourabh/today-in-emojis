@@ -53371,5 +53371,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-07",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "venezuela earthquake response",
+        "url": "https://www.nytimes.com/2026/07/07/world/americas/venezuela-earthquakes-delcy-rodriguez-trump.html",
+        "title": "Repression Turns to Rage After Quakes in Venezuela",
+        "summary": "Venezuelans are publicly expressing their anger over their government’s disaster response, despite the risk of imprisonment."
+      },
+      {
+        "char": "⚖️",
+        "label": "liberia drug bust",
+        "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
+        "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
+        "summary": "Shipment discovered at airport in Monrovia and valued at £14.2m had been falsely declared as seasoning cubes Authorities in Liberia have charged five suspects over one of the largest drug seizures in the country’s history, after police f..."
+      },
+      {
+        "char": "🐅",
+        "label": "cuban zoo tiger birth",
+        "url": "https://www.theguardian.com/world/2026/jul/06/cuban-zoo-celebrates-birth-of-bengal-tigers-amid-energy-crisis",
+        "title": "Cuban zoo celebrates birth of Bengal tigers amid energy crisis",
+        "summary": "Arrival of endangered cats, including rare white cub, revitalises team straining under fuel and medicine shortages For the Cuban zookeeper Ángel Cordero, the sight of four Bengal ⁠tiger cubs playing in a cage at the Cuban national zoo is..."
+      },
+      {
+        "char": "🚢",
+        "label": "canada buys submarines",
+        "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+        "title": "Canada to buy 12 hi-tech German submarines after bidding war",
+        "summary": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato ties Canada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defence contracts tha..."
+      },
+      {
+        "char": "🏺",
+        "label": "ancient city uncovered in egypt",
+        "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+        "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+        "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
