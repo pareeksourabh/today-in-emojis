@@ -53327,5 +53327,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-07",
+    "emojis": [
+      {
+        "char": "💊",
+        "label": "estonia's fentanyl crisis aftermath",
+        "url": "https://www.nytimes.com/2026/07/07/world/europe/estonia-fentanyl-new-drugs.html",
+        "title": "Estonia Won the War on Fentanyl. What Came Next Was Even Worse.",
+        "summary": "By 2018, fentanyl overdoses in Estonia had plummeted. But powerful new drugs are appearing fast, with the authorities racing to respond."
+      },
+      {
+        "char": "🕊️",
+        "label": "mourning khamenei in iran",
+        "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-khamenei-qom-funeral.html",
+        "title": "Ayatollah Ali Khamenei, Iran’s Slain Leader, Is Mourned in Qom",
+        "summary": "The ceremony for Ayatollah Ali Khamenei, held at a site considered sacred by many Shiites, was the latest step in a weeklong funeral organized by Iran’s government."
+      },
+      {
+        "char": "🏺",
+        "label": "ancient byzantine city uncovered",
+        "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+        "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+        "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters..."
+      },
+      {
+        "char": "🌍",
+        "label": "nato's future leadership",
+        "url": "https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html",
+        "title": "In NATO’s Next Act, Can Europe Lead?",
+        "summary": "The focus at a leaders’ summit in Turkey this week will be on building a new model for the alliance, as President Trump pushes to do less and pressures others do more."
+      },
+      {
+        "char": "⚡",
+        "label": "cuba's blackout crisis",
+        "url": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
+        "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
+        "summary": "Impoverished island was already struggling to keep the lights on before the US imposed a blockade in January Cuba on Monday suffered its third nationwide power outage since the start of the year, the state electricity company said. The i..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
