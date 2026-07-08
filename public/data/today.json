@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concern",
-    "emoji": "😨",
-    "rationale": "The day's news highlights significant distressing events, including bombings, government criticisms, and humanitarian crises, evoking concern and fear for the state of global affairs.",
+    "emotion_label": "Frustration",
+    "emoji": "😡",
+    "rationale": "Today's news is filled with anger and frustration, particularly in response to government actions in Venezuela and the fallout from multiple crises in Iran and Cuba. The mix of protests and criticism reflects a palpable sense of injustice.",
     "palette": [
       "😢",
       "😡",
