@@ -1,204 +1,43 @@
 {
-  "date": "2026-07-07",
-  "timestamp": "2026-07-07T00:00:00Z",
+  "date": "2026-07-08",
+  "timestamp": "2026-07-08T00:00:00Z",
   "emojis": [
     {
-      "char": "🚨",
-      "label": "aid workers in sudan face crisis",
-      "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
-      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
-      "summary": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSF Fatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past..."
-    },
-    {
-      "char": "🔥",
-      "label": "wildfire forces evacuation in france",
-      "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
-      "title": "Wildfire in southern France forces evacuation of 10,000 people",
-      "summary": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region."
-    },
-    {
-      "char": "⚖️",
-      "label": "syrian chief guilty of torture",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
-      "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
-      "summary": "Two former Syrian officials went on trial in Vienna, Austria, accused of crimes against opponents of former Syrian leader Bashar al-Assad"
-    },
-    {
-      "char": "🏴‍☠️",
-      "label": "canada buys german submarines",
-      "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
-      "title": "Canada to buy 12 hi-tech German submarines after bidding war",
-      "summary": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato ties Canada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defence contracts tha..."
-    },
-    {
-      "char": "🌍",
-      "label": "cuba suffers nationwide blackout",
-      "url": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
-      "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
-      "summary": "Impoverished island was already struggling to keep the lights on before the US imposed a blockade in January Cuba on Monday suffered its third nationwide power outage since the start of the year, the state electricity company said. The i..."
-    },
-    {
-      "char": "🌍",
-      "label": "venezuela earthquake survivor story",
-      "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
-      "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
-      "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June."
-    },
-    {
-      "char": "🚨",
-      "label": "global human trafficking crackdown",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss",
-      "title": "More than 1,000 arrested as part of global human trafficking crackdown",
-      "summary": "Interpol says the vast majority of the 2,070 victims or potential victims identified were women being trafficked for sex."
-    },
-    {
-      "char": "👑",
-      "label": "prince harry's royal visit",
-      "url": "https://www.nytimes.com/2026/07/06/world/europe/prince-harry-uk-meghan-king-charles.html",
-      "title": "Will Prince Harry’s Trip to Britain Repair or Deepen the Royal Rift?",
-      "summary": "Harry arrived in London Monday night for a visit that has already been overshadowed by drama and confusion over his plans."
-    },
-    {
-      "char": "🚀",
-      "label": "china missile test in pacific",
-      "url": "https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html",
-      "title": "China Test Fires Long-Range Ballistic Missile in the Pacific",
-      "summary": "China’s firing of a submarine-launched missile came as Australia secured more defense deals with Pacific Island nations. Countries expressed concern about the test."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "canada buys german submarines",
-      "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
-      "title": "Canada to buy 12 hi-tech German submarines after bidding war",
-      "summary": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato ties Canada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defence contracts tha..."
-    },
-    {
-      "char": "🌍",
-      "label": "venezuela earthquake response",
-      "url": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar",
-      "title": "Rodríguez defends Venezuela’s emergency earthquake response as number of bodies expected to soar",
-      "summary": "Interim president says unrest will not break out despite anger at official response to the 24 June disaster Venezuela’s interim president has defended her country’s emergency response to the twin earthquakes that have killed more than 3,..."
-    },
-    {
-      "char": "⚖️",
-      "label": "syrian chief guilty of torture",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
-      "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
-      "summary": "Two former Syrian officials went on trial in Vienna, Austria, accused of crimes against opponents of former Syrian leader Bashar al-Assad"
-    },
-    {
-      "char": "🚨",
-      "label": "wildfire forces evacuation in france",
-      "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
-      "title": "Wildfire in southern France forces evacuation of 10,000 people",
-      "summary": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region."
-    },
-    {
-      "char": "📚",
-      "label": "uk education project axed",
-      "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
-      "title": "Overseas education project for women and girls axed by UK after two years",
-      "summary": "The programme, aimed at keeping 1m girls in school across Africa, Asia and the Middle East, withdrawn after aid cuts A leading higher education programme, aimed at keeping 1 million girls in school across Africa, Asia and the Middle East..."
-    },
-    {
-      "char": "🐅",
-      "label": "cuban zoo celebrates tiger birth",
-      "url": "https://www.theguardian.com/world/2026/jul/06/cuban-zoo-celebrates-birth-of-bengal-tigers-amid-energy-crisis",
-      "title": "Cuban zoo celebrates birth of Bengal tigers amid energy crisis",
-      "summary": "Arrival of endangered cats, including rare white cub, revitalises team straining under fuel and medicine shortages For the Cuban zookeeper Ángel Cordero, the sight of four Bengal ⁠tiger cubs playing in a cage at the Cuban national zoo is..."
-    },
-    {
-      "char": "⚽",
-      "label": "zimbabwean football star survives attack",
-      "url": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
-      "title": "Zimbabwean football star survives gun attack in South Africa",
-      "summary": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far."
+      "char": "🕊️",
+      "label": "a supreme leader’s final crowds",
+      "url": "https://www.nytimes.com/2026/07/07/world/middleeast/ayatollah-funeral-image.html",
+      "title": "A Supreme Leader’s Final Crowds",
+      "summary": "What you could see when Ayatollah Ali Khamenei’s coffin was being driven to a public space in Tehran."
     },
     {
       "char": "💣",
-      "label": "woman found dead after bomb attack",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
-      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
-      "summary": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast."
-    },
-    {
-      "char": "🏛️",
-      "label": "india's ram temple board overhaul",
-      "url": "https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss",
-      "title": "India's landmark Ram temple overhauls board after alleged theft of donations",
-      "summary": "Questions have been raised over alleged theft of cash, valuable jewellery, gold and silver offered by devotees."
-    },
-    {
-      "char": "🚢",
-      "label": "canada buys german submarines",
-      "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
-      "title": "Canada to buy 12 hi-tech German submarines after bidding war",
-      "summary": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato ties Canada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defence contracts tha..."
-    },
-    {
-      "char": "🌍",
-      "label": "venezuela's earthquake response criticized",
-      "url": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar",
-      "title": "Rodríguez defends Venezuela’s emergency earthquake response as number of bodies expected to soar",
-      "summary": "Interim president says unrest will not break out despite anger at official response to the 24 June disaster Venezuela’s interim president has defended her country’s emergency response to the twin earthquakes that have killed more than 3,..."
-    },
-    {
-      "char": "📰",
-      "label": "russia's torture prisons exposed",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
-      "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
-      "summary": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial."
-    },
-    {
-      "char": "💣",
-      "label": "monaco bombing suspect found dead",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
-      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
-      "summary": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast."
+      "label": "bomb explosions injure 18 in damascus",
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+      "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
+      "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace."
     },
     {
       "char": "⚖️",
-      "label": "200kg cocaine bust in liberia",
-      "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
-      "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
-      "summary": "Shipment discovered at airport in Monrovia and valued at £14.2m had been falsely declared as seasoning cubes Authorities in Liberia have charged five suspects over one of the largest drug seizures in the country’s history, after police f..."
-    },
-    {
-      "char": "⚓",
-      "label": "canada buys german submarines",
-      "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
-      "title": "Canada to buy 12 hi-tech German submarines after bidding war",
-      "summary": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato ties Canada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defence contracts tha..."
+      "label": "french prosecutors investigate mbappé abuse",
+      "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
+      "title": "French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
+      "summary": "Celeste Amarilla could face charges after French Football Federation complains about social media posts over World Cup match Prosecutors in France have opened an investigation into the racist attack on Kylian Mbappé by a Paraguayan senat..."
     },
     {
       "char": "🌍",
-      "label": "cuba suffers nationwide blackout",
-      "url": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
-      "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
-      "summary": "Impoverished island was already struggling to keep the lights on before the US imposed a blockade in January Cuba on Monday suffered its third nationwide power outage since the start of the year, the state electricity company said. The i..."
+      "label": "how a four-generation cuban family survives",
+      "url": "https://www.nytimes.com/2026/07/07/world/americas/cuba-power-crisis-oil-blockade.html",
+      "title": "How a Four-Generation Cuban Family Survives on $60 a Month",
+      "summary": "The U.S. oil blockade has deepened a humanitarian crisis, forcing Cubans to lean on the island’s long tradition of community solidarity to provide a cushion."
+    },
+    {
+      "char": "🐱",
+      "label": "catnip lotion as effective as deet",
+      "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+      "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
+      "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally A homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repellant in..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "Today's news highlights significant human suffering and crises, including war, natural disasters, and human rights violations, evoking a deep sense of sorrow for those affected.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
