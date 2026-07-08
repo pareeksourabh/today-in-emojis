@@ -53547,5 +53547,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-08",
+    "emojis": [
+      {
+        "char": "🇫🇷",
+        "label": "investigation into racist abuse",
+        "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
+        "title": "French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
+        "summary": "Celeste Amarilla could face charges after French Football Federation complains about social media posts over World Cup match Prosecutors in France have opened an investigation into the racist attack on Kylian Mbappé by a Paraguayan senat..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada buys german submarines",
+        "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+        "title": "Canada to buy 12 hi-tech German submarines after bidding war",
+        "summary": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato ties Canada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defence contracts tha..."
+      },
+      {
+        "char": "🐱",
+        "label": "catnip lotion repels mosquitoes",
+        "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+        "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
+        "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally A homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repellant in..."
+      },
+      {
+        "char": "⚓",
+        "label": "iran mourns ayatollah khamenei",
+        "url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-khamenei-funeral-photos.html",
+        "title": "At Iran’s Funeral for Ayatollah Khamenei, Mourners Bid an Emotional Farewell",
+        "summary": "Millions of Iranians descended on Tehran to pay their respects to the slain supreme leader."
+      },
+      {
+        "char": "💊",
+        "label": "cocaine bust in liberia",
+        "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
+        "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
+        "summary": "Shipment discovered at airport in Monrovia and valued at £14.2m had been falsely declared as seasoning cubes Authorities in Liberia have charged five suspects over one of the largest drug seizures in the country’s history, after police f..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
