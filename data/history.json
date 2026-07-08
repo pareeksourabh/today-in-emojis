@@ -53503,5 +53503,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-08",
+    "emojis": [
+      {
+        "char": "🛡️",
+        "label": "nato allies announce missile project",
+        "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+        "title": "Nato allies announce £37bn for new missile project",
+        "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara."
+      },
+      {
+        "char": "⚖️",
+        "label": "investigation into racist abuse of mbappé",
+        "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
+        "title": "French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
+        "summary": "Celeste Amarilla could face charges after French Football Federation complains about social media posts over World Cup match Prosecutors in France have opened an investigation into the racist attack on Kylian Mbappé by a Paraguayan senat..."
+      },
+      {
+        "char": "🗳️",
+        "label": "farage resigns, plans special election run",
+        "url": "https://www.nytimes.com/live/2026/07/07/world/nigel-farage-reform-uk",
+        "title": "Farage Resigns and Says He Will Run Again in Special Election",
+        "summary": "Nigel Farage, leader of the populist right-wing party Reform U.K., has come under increasing pressure after a series of revelations about undisclosed gifts and donations."
+      },
+      {
+        "char": "🚢",
+        "label": "canada buys german submarines",
+        "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+        "title": "Canada to buy 12 hi-tech German submarines after bidding war",
+        "summary": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato ties Canada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defence contracts tha..."
+      },
+      {
+        "char": "🌪️",
+        "label": "typhoon triggers floods in china",
+        "url": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss",
+        "title": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China",
+        "summary": "Villagers whose families have been stranded told the BBC they are struggling to get food and help."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
