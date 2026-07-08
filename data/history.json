@@ -53591,5 +53591,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-08",
+    "emojis": [
+      {
+        "char": "👶",
+        "label": "toddler found alive in morgue",
+        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+        "summary": "After he was discovered to still be alive, the 18-month-old was flown to another hospital and survived."
+      },
+      {
+        "char": "🕌",
+        "label": "khamenei's funeral in iraq",
+        "url": "https://www.bbc.co.uk/news/articles/cp9le3kjj8eo?at_medium=RSS&at_campaign=rss",
+        "title": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
+        "summary": "The remains of Iran's late supreme leader are transported to Najaf and Karbala, as funeral ceremonies continue for a fifth day."
+      },
+      {
+        "char": "🐅",
+        "label": "cuban zoo celebrates tiger birth",
+        "url": "https://www.theguardian.com/world/2026/jul/06/cuban-zoo-celebrates-birth-of-bengal-tigers-amid-energy-crisis",
+        "title": "Cuban zoo celebrates birth of Bengal tigers amid energy crisis",
+        "summary": "Arrival of endangered cats, including rare white cub, revitalises team straining under fuel and medicine shortages For the Cuban zookeeper Ángel Cordero, the sight of four Bengal ⁠tiger cubs playing in a cage at the Cuban national zoo is..."
+      },
+      {
+        "char": "⚓",
+        "label": "canada buys german submarines",
+        "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+        "title": "Canada to buy 12 hi-tech German submarines after bidding war",
+        "summary": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato ties Canada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defence contracts tha..."
+      },
+      {
+        "char": "⚖️",
+        "label": "uk judges hear appeal on gay law",
+        "url": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
+        "title": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
+        "summary": "Activist is challenging ruling last year that restored colonial-era homophobic law against same-sex intimacy Some of the UK’s top judges are hearing arguments over whether a Trinidad and Tobago court had the legal right to overturn a 201..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
