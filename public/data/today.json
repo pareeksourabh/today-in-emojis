@@ -1,20 +1,104 @@
 {
   "date": "2026-07-08",
-  "timestamp": "2026-07-08T17:14:30Z",
+  "timestamp": "2026-07-08T00:00:00Z",
   "emojis": [
     {
-      "char": "👶",
-      "label": "toddler found alive in morgue",
-      "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
-      "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
-      "summary": "After he was discovered to still be alive, the 18-month-old was flown to another hospital and survived."
+      "char": "🕊️",
+      "label": "a supreme leader’s final crowds",
+      "url": "https://www.nytimes.com/2026/07/07/world/middleeast/ayatollah-funeral-image.html",
+      "title": "A Supreme Leader’s Final Crowds",
+      "summary": "What you could see when Ayatollah Ali Khamenei’s coffin was being driven to a public space in Tehran."
+    },
+    {
+      "char": "💣",
+      "label": "bomb explosions injure 18 in damascus",
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+      "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
+      "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace."
+    },
+    {
+      "char": "⚖️",
+      "label": "french prosecutors investigate mbappé abuse",
+      "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
+      "title": "French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
+      "summary": "Celeste Amarilla could face charges after French Football Federation complains about social media posts over World Cup match Prosecutors in France have opened an investigation into the racist attack on Kylian Mbappé by a Paraguayan senat..."
+    },
+    {
+      "char": "🌍",
+      "label": "how a four-generation cuban family survives",
+      "url": "https://www.nytimes.com/2026/07/07/world/americas/cuba-power-crisis-oil-blockade.html",
+      "title": "How a Four-Generation Cuban Family Survives on $60 a Month",
+      "summary": "The U.S. oil blockade has deepened a humanitarian crisis, forcing Cubans to lean on the island’s long tradition of community solidarity to provide a cushion."
+    },
+    {
+      "char": "🐱",
+      "label": "catnip lotion as effective as deet",
+      "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+      "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
+      "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally A homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repellant in..."
     },
     {
       "char": "🕌",
-      "label": "khamenei's funeral in iraq",
-      "url": "https://www.bbc.co.uk/news/articles/cp9le3kjj8eo?at_medium=RSS&at_campaign=rss",
-      "title": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
-      "summary": "The remains of Iran's late supreme leader are transported to Najaf and Karbala, as funeral ceremonies continue for a fifth day."
+      "label": "mass mournings in qom",
+      "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-khamenei-qom-funeral.html",
+      "title": "Mass Mournings In Qom, Where Khamenei Ruled Supreme Over Iran’s Clerics",
+      "summary": "The ceremony for Ayatollah Ali Khamenei, held at a site considered sacred by many Shiites, was the latest step in a weeklong funeral organized by Iran’s government."
+    },
+    {
+      "char": "🐅",
+      "label": "cuban zoo celebrates tigers",
+      "url": "https://www.theguardian.com/world/2026/jul/06/cuban-zoo-celebrates-birth-of-bengal-tigers-amid-energy-crisis",
+      "title": "Cuban zoo celebrates birth of Bengal tigers amid energy crisis",
+      "summary": "Arrival of endangered cats, including rare white cub, revitalises team straining under fuel and medicine shortages For the Cuban zookeeper Ángel Cordero, the sight of four Bengal ⁠tiger cubs playing in a cage at the Cuban national zoo is..."
+    },
+    {
+      "char": "🌍",
+      "label": "venezuela earthquake response",
+      "url": "https://www.nytimes.com/2026/07/07/world/americas/venezuela-earthquakes-delcy-rodriguez-trump.html",
+      "title": "Venezuelans Criticize Own Government Response After Twin Earthquakes",
+      "summary": "Venezuelans are publicly expressing their anger over their government’s disaster response, despite the risk of imprisonment."
+    },
+    {
+      "char": "💣",
+      "label": "monaco bombing suspect found dead",
+      "url": "https://www.nytimes.com/2026/07/07/world/europe/monaco-bombing-suspect-dead-ukraine.html",
+      "title": "Suspect in Monaco Bombing Attack Is Found Dead in Ukraine",
+      "summary": "The Ukrainian authorities said that Anastasiia Berezovska, who officials said was behind the explosion last week, had been shot."
+    },
+    {
+      "char": "🏺",
+      "label": "ancient byzantine city uncovered",
+      "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters..."
+    },
+    {
+      "char": "🇫🇷",
+      "label": "le pen defiant after court ruling",
+      "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+      "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+      "summary": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign."
+    },
+    {
+      "char": "🏺",
+      "label": "ancient byzantine city uncovered",
+      "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters..."
+    },
+    {
+      "char": "⚖️",
+      "label": "200kg cocaine seized in liberia",
+      "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
+      "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
+      "summary": "Shipment discovered at airport in Monrovia and valued at £14.2m had been falsely declared as seasoning cubes Authorities in Liberia have charged five suspects over one of the largest drug seizures in the country’s history, after police f..."
+    },
+    {
+      "char": "🌍",
+      "label": "venezuela earthquake response criticized",
+      "url": "https://www.nytimes.com/2026/07/07/world/americas/venezuela-earthquakes-delcy-rodriguez-trump.html",
+      "title": "Venezuelans Criticize Own Government Response After Twin Earthquakes",
+      "summary": "Venezuelans are publicly expressing their anger over their government’s disaster response, despite the risk of imprisonment."
     },
     {
       "char": "🐅",
@@ -24,20 +108,97 @@
       "summary": "Arrival of endangered cats, including rare white cub, revitalises team straining under fuel and medicine shortages For the Cuban zookeeper Ángel Cordero, the sight of four Bengal ⁠tiger cubs playing in a cage at the Cuban national zoo is..."
     },
     {
-      "char": "⚓",
-      "label": "canada buys german submarines",
-      "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
-      "title": "Canada to buy 12 hi-tech German submarines after bidding war",
-      "summary": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato ties Canada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defence contracts tha..."
+      "char": "🌿",
+      "label": "catnip lotion repels mosquitoes",
+      "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+      "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
+      "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally A homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repellant in..."
+    },
+    {
+      "char": "⚡",
+      "label": "cuba protests power cuts",
+      "url": "https://www.bbc.co.uk/news/articles/cm20g0d3ry4o?at_medium=RSS&at_campaign=rss",
+      "title": "Cubans protest after third nationwide power cut this year",
+      "summary": "While Cuban officials said that power had been mostly restored, those still left in the dark vented their anger."
+    },
+    {
+      "char": "🏗️",
+      "label": "venezuela earthquake response",
+      "url": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar",
+      "title": "Rodríguez defends Venezuela’s emergency earthquake response as number of bodies expected to soar",
+      "summary": "Interim president says unrest will not break out despite anger at official response to the 24 June disaster Venezuela’s interim president has defended her country’s emergency response to the twin earthquakes that have killed more than 3,..."
+    },
+    {
+      "char": "🚀",
+      "label": "elon musk cuts usaid funding",
+      "url": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
+      "title": "What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs",
+      "summary": "Experts say cuts have hindered the response to DRC’s Ebola outbreak and resulted in ‘significant numbers’ of deaths Elon Musk has an Ebola problem. SpaceX stock dropped precipitously after its initial public offering, and Tesla faces a w..."
+    },
+    {
+      "char": "🛡️",
+      "label": "nato missile project funding",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+      "title": "Nato allies announce £37bn for new missile project",
+      "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara."
+    },
+    {
+      "char": "🇮🇷",
+      "label": "trump doubts iran cease-fire",
+      "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+      "title": "Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Latest Strikes",
+      "summary": "“I think it’s over,” President Trump said, referring to the preliminary truce, and threatened to strike Iran again. The two sides traded attacks as their truce appeared to edge closer to collapse."
+    },
+    {
+      "char": "🏛️",
+      "label": "ancient city uncovered in egypt",
+      "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters..."
+    },
+    {
+      "char": "📞",
+      "label": "australia telecom outage impacts services",
+      "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
+      "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
+      "summary": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown."
     },
     {
       "char": "⚖️",
-      "label": "uk judges hear appeal on gay law",
+      "label": "uk judges hear anti-gay law appeal",
       "url": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
       "title": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
       "summary": "Activist is challenging ruling last year that restored colonial-era homophobic law against same-sex intimacy Some of the UK’s top judges are hearing arguments over whether a Trinidad and Tobago court had the legal right to overturn a 201..."
+    },
+    {
+      "char": "🐅",
+      "label": "cuban zoo celebrates tiger births",
+      "url": "https://www.theguardian.com/world/2026/jul/06/cuban-zoo-celebrates-birth-of-bengal-tigers-amid-energy-crisis",
+      "title": "Cuban zoo celebrates birth of Bengal tigers amid energy crisis",
+      "summary": "Arrival of endangered cats, including rare white cub, revitalises team straining under fuel and medicine shortages For the Cuban zookeeper Ángel Cordero, the sight of four Bengal ⁠tiger cubs playing in a cage at the Cuban national zoo is..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concern",
+    "emoji": "😨",
+    "rationale": "The day's news highlights significant distressing events, including bombings, government criticisms, and humanitarian crises, evoking concern and fear for the state of global affairs.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
