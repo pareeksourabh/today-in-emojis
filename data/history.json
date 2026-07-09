@@ -53767,5 +53767,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-09",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "canada buys german submarines",
+        "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+        "title": "Canada to buy 12 hi-tech German submarines after bidding war",
+        "summary": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato ties Canada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defence contracts tha..."
+      },
+      {
+        "char": "💔",
+        "label": "iran strikes escalate violence",
+        "url": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump",
+        "title": "Live Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes",
+        "summary": "Attacks on ships were followed by new U.S. strikes on Iran, which responded by firing at Gulf nations. The pattern of hostilities has all but collapsed a cease-fire, with little sign that either side will step back."
+      },
+      {
+        "char": "⚖️",
+        "label": "uk judges hear anti-gay law appeal",
+        "url": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
+        "title": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
+        "summary": "Activist is challenging ruling last year that restored colonial-era homophobic law against same-sex intimacy Some of the UK’s top judges are hearing arguments over whether a Trinidad and Tobago court had the legal right to overturn a 201..."
+      },
+      {
+        "char": "🌍",
+        "label": "cuba faces nationwide blackout",
+        "url": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
+        "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
+        "summary": "Impoverished island was already struggling to keep the lights on before the US imposed a blockade in January Cuba on Monday suffered its third nationwide power outage since the start of the year, the state electricity company said. The i..."
+      },
+      {
+        "char": "🐅",
+        "label": "cuban zoo celebrates tiger birth",
+        "url": "https://www.theguardian.com/world/2026/jul/06/cuban-zoo-celebrates-birth-of-bengal-tigers-amid-energy-crisis",
+        "title": "Cuban zoo celebrates birth of Bengal tigers amid energy crisis",
+        "summary": "Arrival of endangered cats, including rare white cub, revitalises team straining under fuel and medicine shortages For the Cuban zookeeper Ángel Cordero, the sight of four Bengal ⁠tiger cubs playing in a cage at the Cuban national zoo is..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
