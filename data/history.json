@@ -53723,5 +53723,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-09",
+    "emojis": [
+      {
+        "char": "🦁",
+        "label": "cuban zoo celebrates tigers' birth",
+        "url": "https://www.theguardian.com/world/2026/jul/06/cuban-zoo-celebrates-birth-of-bengal-tigers-amid-energy-crisis",
+        "title": "Cuban zoo celebrates birth of Bengal tigers amid energy crisis",
+        "summary": "Arrival of endangered cats, including rare white cub, revitalises team straining under fuel and medicine shortages For the Cuban zookeeper Ángel Cordero, the sight of four Bengal ⁠tiger cubs playing in a cage at the Cuban national zoo is..."
+      },
+      {
+        "char": "⚽",
+        "label": "france vs morocco world cup match",
+        "url": "https://www.nytimes.com/2026/07/09/world/europe/france-morocco-world-cup-soccer.html",
+        "title": "As France and Morocco Take the Field, Colonial Past and Global Present Will Mix",
+        "summary": "History hangs over the World Cup quarterfinal between France and its former protectorate. These days, national teams intermingle and overlap."
+      },
+      {
+        "char": "⚰️",
+        "label": "ayatollah khamenei's funeral begins",
+        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/khamenei-funeral-iran.html",
+        "title": "Final Stage of Ayatollah Ali Khamenei’s Funeral Begins After Delay",
+        "summary": "Thousands gathered for the procession in Mashhad for the supreme leader, who was killed in the first U.S.-Israeli attacks of the war. Hours earlier, the United States and Iran traded strikes."
+      },
+      {
+        "char": "🚢",
+        "label": "canada buys german submarines",
+        "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+        "title": "Canada to buy 12 hi-tech German submarines after bidding war",
+        "summary": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato ties Canada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defence contracts tha..."
+      },
+      {
+        "char": "🔥",
+        "label": "factory fire kills 28 in china",
+        "url": "https://www.nytimes.com/2026/07/09/world/asia/china-fire-shoe-factory.html",
+        "title": "Factory Fire in China Kills 28",
+        "summary": "The country’s leader, Xi Jinping, called on the authorities to make every effort to investigate the cause of the blaze in Fujian Province."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
