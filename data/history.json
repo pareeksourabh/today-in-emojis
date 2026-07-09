@@ -53635,5 +53635,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-09",
+    "emojis": [
+      {
+        "char": "🇫🇷",
+        "label": "french prosecutors investigate mbappé",
+        "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
+        "title": "French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
+        "summary": "Celeste Amarilla could face charges after French Football Federation complains about social media posts over World Cup match Prosecutors in France have opened an investigation into the racist attack on Kylian Mbappé by a Paraguayan senat..."
+      },
+      {
+        "char": "👶",
+        "label": "toddler found alive in morgue",
+        "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+        "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+        "summary": "After he was discovered to still be alive, the 18-month-old was flown to another hospital and survived."
+      },
+      {
+        "char": "💣",
+        "label": "us launches strikes on iran",
+        "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+        "title": "Iran War Live Updates: U.S. Launches New Strikes on Iran, Military Says",
+        "summary": "U.S. Central Command said on social media that it was protecting shipping in the Strait of Hormuz. President Trump said earlier that he thought a three-week-old cease-fire was “over.”"
+      },
+      {
+        "char": "🛡️",
+        "label": "ukraine to produce patriot missiles",
+        "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
+        "summary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times."
+      },
+      {
+        "char": "🌍",
+        "label": "cuba suffers nationwide blackout",
+        "url": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
+        "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
+        "summary": "Impoverished island was already struggling to keep the lights on before the US imposed a blockade in January Cuba on Monday suffered its third nationwide power outage since the start of the year, the state electricity company said. The i..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
