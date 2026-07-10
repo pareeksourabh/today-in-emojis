@@ -1,41 +1,41 @@
 {
   "date": "2026-07-10",
-  "timestamp": "2026-07-10T07:40:35Z",
+  "timestamp": "2026-07-10T00:00:00Z",
   "emojis": [
     {
-      "char": "😢",
-      "label": "tensions in india after murder",
-      "url": "https://www.bbc.co.uk/news/articles/cze9zd8drzro?at_medium=RSS&at_campaign=rss",
-      "title": "Tensions erupt in Indian state after 11-year-old raped and murdered",
-      "summary": "The girl's body was fished out from a pond on Sunday - a day after her family reported her missing."
-    },
-    {
-      "char": "✈️",
-      "label": "greek fighter jet crash-lands",
-      "url": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
-      "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
-      "summary": "The runway is closed after the jet reportedly landed without deploying its landing gear before bursting into flames."
-    },
-    {
-      "char": "💊",
+      "char": "🇲🇽",
       "label": "mexico investigates drug lord capture",
       "url": "https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation",
       "title": "Mexico investigates whether US lied about role in capture of drug lord",
       "summary": "Reporting suggests FBI involved in seizure of Ismael ‘El Mayo’ Zambada García from Mexican territory in 2024 Mexico has launched an investigation into whether the US lied about its involvement in the capture and secretive transfer of a t..."
     },
     {
-      "char": "💔",
-      "label": "aid worker killed in gaza",
-      "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
-      "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
-      "summary": "The Israeli military said it had struck a Hamas militant but was aware of reports that “uninvolved civilians” were harmed."
+      "char": "🛢️",
+      "label": "iran tanker attacks risk escalation",
+      "url": "https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html",
+      "title": "Tanker Attacks Risk Overplaying Iran’s Hand, Analysts Say",
+      "summary": "Iran’s history shows it is willing to dig in, even when it may suffer big losses."
     },
     {
-      "char": "📉",
-      "label": "chip giant raises $26.5bn",
-      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-      "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
-      "summary": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm."
+      "char": "🔥",
+      "label": "wildfire in southern spain kills 12",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+      "title": "At least 12 dead and 19 missing in wildfire in southern Spain",
+      "summary": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería."
+    },
+    {
+      "char": "🦠",
+      "label": "catnip lotion effective against mosquitoes",
+      "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+      "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
+      "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally A homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repellant in..."
+    },
+    {
+      "char": "⚓",
+      "label": "canada buys german submarines",
+      "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+      "title": "Canada to buy 12 hi-tech German submarines after bidding war",
+      "summary": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato ties Canada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defence contracts tha..."
     }
   ],
   "source": "ai-openai",
