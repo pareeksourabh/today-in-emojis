@@ -53899,5 +53899,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-10",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "species survival vs human impact",
+        "url": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
+        "title": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
+        "summary": "Newly endangered animals include desert frogs and snails in extreme ocean depths, both threatened by mining Life has colonised every corner of the planet by evolving ingenious survival strategies but these are increasingly being overwhel..."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran's supreme leader absence",
+        "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
+        "title": "Iran’s Supreme Leader Remains Absent, a Void at the Top of the Regime",
+        "summary": "Ayatollah Mojtaba Khamenei did not appear at his father’s funeral this week, fueling speculation about his physical condition and leaving a power vacuum in a divided country."
+      },
+      {
+        "char": "🇦🇺",
+        "label": "modi welcomed by indian diaspora",
+        "url": "https://www.nytimes.com/2026/07/10/world/asia/australia-modi-india-diaspora.html",
+        "title": "Indian Diaspora, Now the Largest Foreign-Born Group in Australia, Welcomes Modi",
+        "summary": "A large, festive reception for the Indian prime minister in Melbourne belied tensions over migration in the country."
+      },
+      {
+        "char": "🔥",
+        "label": "europe's fire climate crisis",
+        "url": "https://www.nytimes.com/2026/07/10/world/europe/fire-climate-change-heat-wave-global-warming.html",
+        "title": "Fighting Fires With Figures, These Experts Are Trying to Stop Europe from Burning",
+        "summary": "A team of engineers, foresters and scientists is helping the continent prepare for wildfires from a giant science park in Italy. Their arsenal includes satellites, weather models and expert analysis."
+      },
+      {
+        "char": "💰",
+        "label": "developing nations debt vs education",
+        "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+        "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+        "summary": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
