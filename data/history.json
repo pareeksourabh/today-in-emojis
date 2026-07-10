@@ -53855,5 +53855,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-10",
+    "emojis": [
+      {
+        "char": "😢",
+        "label": "tensions in india after murder",
+        "url": "https://www.bbc.co.uk/news/articles/cze9zd8drzro?at_medium=RSS&at_campaign=rss",
+        "title": "Tensions erupt in Indian state after 11-year-old raped and murdered",
+        "summary": "The girl's body was fished out from a pond on Sunday - a day after her family reported her missing."
+      },
+      {
+        "char": "✈️",
+        "label": "greek fighter jet crash-lands",
+        "url": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
+        "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
+        "summary": "The runway is closed after the jet reportedly landed without deploying its landing gear before bursting into flames."
+      },
+      {
+        "char": "💊",
+        "label": "mexico investigates drug lord capture",
+        "url": "https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation",
+        "title": "Mexico investigates whether US lied about role in capture of drug lord",
+        "summary": "Reporting suggests FBI involved in seizure of Ismael ‘El Mayo’ Zambada García from Mexican territory in 2024 Mexico has launched an investigation into whether the US lied about its involvement in the capture and secretive transfer of a t..."
+      },
+      {
+        "char": "💔",
+        "label": "aid worker killed in gaza",
+        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
+        "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+        "summary": "The Israeli military said it had struck a Hamas militant but was aware of reports that “uninvolved civilians” were harmed."
+      },
+      {
+        "char": "📉",
+        "label": "chip giant raises $26.5bn",
+        "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+        "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
+        "summary": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
