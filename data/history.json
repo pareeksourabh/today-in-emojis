@@ -54075,5 +54075,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-11",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "venezuela earthquake aftermath",
+        "url": "https://www.nytimes.com/2026/07/10/world/americas/venezuela-earthquake-death-baseball-los-criollitos.html",
+        "title": "After Venezuela Earthquakes, a Youth Baseball League Counts the Dead",
+        "summary": "Children who played for Venezuela’s youth baseball league, a symbol of national pride, have been left injured, orphaned or dead."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran's leadership crisis",
+        "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
+        "title": "Iran’s Supreme Leader Remains Absent, a Void at the Top of the Regime",
+        "summary": "Ayatollah Mojtaba Khamenei did not appear at his father’s funeral this week, fueling speculation about his physical condition and leaving a power vacuum in a divided country."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "lgbtq+ cruise denied entry",
+        "url": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
+        "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
+        "summary": "Scarlet Lady’s 2,000 passengers told of change as one of those onboard says they will ‘sparkle and spend elsewhere’ An LGBTQ+ cruise ship blocked from Turkish waters this week has been refused entry into Egypt. The Scarlet Lady’s 2,000 p..."
+      },
+      {
+        "char": "🔥",
+        "label": "spain wildfire deaths",
+        "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+        "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+        "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing."
+      },
+      {
+        "char": "🤝",
+        "label": "harry and meghan visit the king",
+        "url": "https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html",
+        "title": "Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen",
+        "summary": "Friday’s visit to King Charles and Queen Camilla signaled a détente in relations with Prince Harry and his wife, who stepped down from royal duties and moved to the United States in 2020."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
