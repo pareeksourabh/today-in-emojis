@@ -1,13 +1,34 @@
 {
   "date": "2026-07-11",
-  "timestamp": "2026-07-11T01:50:53Z",
+  "timestamp": "2026-07-11T00:00:00Z",
   "emojis": [
     {
-      "char": "🔫",
-      "label": "ice shooting incident in houston",
-      "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
-      "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-      "summary": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say."
+      "char": "🎨",
+      "label": "moscow's art amid war",
+      "url": "https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html",
+      "title": "Moscow Still Has Art and Culture. Just Don’t Say ‘Ukraine.’",
+      "summary": "An eerie limbo prevails at small art shows, independent theaters and private political clubs, where the war is the elephant in the room."
+    },
+    {
+      "char": "🌍",
+      "label": "species survival vs human impact",
+      "url": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
+      "title": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
+      "summary": "Newly endangered animals include desert frogs and snails in extreme ocean depths, both threatened by mining Life has colonised every corner of the planet by evolving ingenious survival strategies but these are increasingly being overwhel..."
+    },
+    {
+      "char": "🌪️",
+      "label": "venezuela quake recovery efforts",
+      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+      "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
+      "summary": "Nearly 17,000 injured and thousands more are listed as missing amid calls by UN and president Delcy Rodríguez for financial help The death toll in Venezuela’s devastating twin earthquakes has topped 4,000, the government said on Friday...."
+    },
+    {
+      "char": "👑",
+      "label": "harry and meghan visit the king",
+      "url": "https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html",
+      "title": "Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen",
+      "summary": "Friday’s visit to King Charles and Queen Camilla signaled a détente in relations with Prince Harry and his wife, who stepped down from royal duties and moved to the United States in 2020."
     },
     {
       "char": "🔥",
@@ -15,27 +36,6 @@
       "url": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
       "title": "At Least 12 People Die in Southern Spain Wildfire",
       "summary": "The blaze in Andalusia, one of the deadliest on record in the country, also left more than 20 people missing. Many of the victims were foreign tourists, the Spanish authorities said."
-    },
-    {
-      "char": "🇳🇬",
-      "label": "nigeria's fake federal agency scandal",
-      "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
-      "title": "Furore in Nigeria over fake federal agency set up in government HQ",
-      "summary": "President orders investigation after fictitious body given funding, triggering renewed scrutiny of alleged corruption A fictitious federal entity that was allocated 1.3bn naira (£700,000) in Nigeria’s 2026 budget has precipitated a polit..."
-    },
-    {
-      "char": "🌍",
-      "label": "cuba's nationwide blackout crisis",
-      "url": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
-      "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
-      "summary": "Impoverished island was already struggling to keep the lights on before the US imposed a blockade in January Cuba on Monday suffered its third nationwide power outage since the start of the year, the state electricity company said. The i..."
-    },
-    {
-      "char": "💔",
-      "label": "venezuela quake recovery efforts",
-      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
-      "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
-      "summary": "Nearly 17,000 injured and thousands more are listed as missing amid calls by UN and president Delcy Rodríguez for financial help The death toll in Venezuela’s devastating twin earthquakes has topped 4,000, the government said on Friday...."
     }
   ],
   "source": "ai-openai",
