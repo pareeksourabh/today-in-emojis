@@ -1,41 +1,41 @@
 {
   "date": "2026-07-11",
-  "timestamp": "2026-07-11T06:18:32Z",
+  "timestamp": "2026-07-11T00:00:00Z",
   "emojis": [
     {
+      "char": "📱",
+      "label": "apple sues openai for trade secrets",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "summary": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”"
+    },
+    {
       "char": "🌍",
-      "label": "venezuela earthquake aftermath",
-      "url": "https://www.nytimes.com/2026/07/10/world/americas/venezuela-earthquake-death-baseball-los-criollitos.html",
-      "title": "After Venezuela Earthquakes, a Youth Baseball League Counts the Dead",
-      "summary": "Children who played for Venezuela’s youth baseball league, a symbol of national pride, have been left injured, orphaned or dead."
+      "label": "venezuela quake death toll exceeds 4000",
+      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+      "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
+      "summary": "Nearly 17,000 injured and thousands more are listed as missing amid calls by UN and president Delcy Rodríguez for financial help The death toll in Venezuela’s devastating twin earthquakes has topped 4,000, the government said on Friday...."
     },
     {
-      "char": "🇮🇷",
-      "label": "iran's leadership crisis",
-      "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
-      "title": "Iran’s Supreme Leader Remains Absent, a Void at the Top of the Regime",
-      "summary": "Ayatollah Mojtaba Khamenei did not appear at his father’s funeral this week, fueling speculation about his physical condition and leaving a power vacuum in a divided country."
-    },
-    {
-      "char": "🏳️‍🌈",
-      "label": "lgbtq+ cruise denied entry",
-      "url": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
-      "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
-      "summary": "Scarlet Lady’s 2,000 passengers told of change as one of those onboard says they will ‘sparkle and spend elsewhere’ An LGBTQ+ cruise ship blocked from Turkish waters this week has been refused entry into Egypt. The Scarlet Lady’s 2,000 p..."
-    },
-    {
-      "char": "🔥",
-      "label": "spain wildfire deaths",
-      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing."
+      "char": "✈️",
+      "label": "man nearly sucked out of ryanair plane",
+      "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+      "summary": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say."
     },
     {
       "char": "🤝",
-      "label": "harry and meghan visit the king",
-      "url": "https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html",
-      "title": "Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen",
-      "summary": "Friday’s visit to King Charles and Queen Camilla signaled a détente in relations with Prince Harry and his wife, who stepped down from royal duties and moved to the United States in 2020."
+      "label": "us and iran ceasefire talks ongoing",
+      "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html",
+      "title": "Mediators Trying to Pull U.S. and Iran Back From Brink, Officials Say",
+      "summary": "Qatari mediators were in Iran seeking to salvage the tattered truce. President Trump said talks with Tehran would continue, even if the cease-fire was “over.”"
+    },
+    {
+      "char": "🦖",
+      "label": "new dinosaur species discovered in thailand",
+      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
+      "summary": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago."
     }
   ],
   "source": "ai-openai",
