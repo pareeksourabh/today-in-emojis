@@ -54119,5 +54119,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-11",
+    "emojis": [
+      {
+        "char": "🔥",
+        "label": "spain wildfire deaths",
+        "url": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
+        "title": "At Least 12 People Die in Southern Spain Wildfire",
+        "summary": "The blaze in Andalusia, one of the deadliest on record in the country, also left more than 20 people missing. Many of the victims were foreign tourists, the Spanish authorities said."
+      },
+      {
+        "char": "⚽",
+        "label": "england vs norway world cup",
+        "url": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
+        "title": "England and Norway, Old Friends, Resurrect a Rivalry for the World Cup",
+        "summary": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side."
+      },
+      {
+        "char": "📚",
+        "label": "debt vs education spending",
+        "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+        "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+        "summary": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same..."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela earthquake toll",
+        "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+        "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
+        "summary": "Nearly 17,000 injured and thousands more are listed as missing amid calls by UN and president Delcy Rodríguez for financial help The death toll in Venezuela’s devastating twin earthquakes has topped 4,000, the government said on Friday...."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola case in dr congo",
+        "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
+        "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+        "summary": "The American works for a humanitarian organization in Congo, the Centers for Disease Control and Prevention said."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
