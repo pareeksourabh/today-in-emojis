@@ -1,43 +1,204 @@
 {
   "date": "2026-07-11",
-  "timestamp": "2026-07-11T16:38:55Z",
+  "timestamp": "2026-07-11T00:00:00Z",
   "emojis": [
     {
-      "char": "🦠",
-      "label": "us citizen tests positive for ebola",
+      "char": "🇮🇷",
+      "label": "iran's supreme leader absent",
+      "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
+      "title": "Iran’s Supreme Leader Remains Absent, a Void at the Top of the Regime",
+      "summary": "Ayatollah Mojtaba Khamenei did not appear at his father’s funeral this week, fueling speculation about his physical condition and leaving a power vacuum in a divided country."
+    },
+    {
+      "char": "🚨",
+      "label": "protests in west bengal",
+      "url": "https://www.nytimes.com/2026/07/10/world/asia/girl-riots-west-bengal-baruipur.html",
+      "title": "Sexual Assault and Killing of Girl Set Off Days of Protest in West Bengal",
+      "summary": "After promising to improve safety for women in the Indian state, the party of Prime Minister Narendra Modi is facing public anger after the death of an 11-year-old girl."
+    },
+    {
+      "char": "💊",
+      "label": "catnip lotion repels mosquitoes",
+      "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+      "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
+      "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally A homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repellant in..."
+    },
+    {
+      "char": "👑",
+      "label": "harry and meghan visit the king",
+      "url": "https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html",
+      "title": "Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen",
+      "summary": "Friday’s visit to King Charles and Queen Camilla signaled a détente in relations with Prince Harry and his wife, who stepped down from royal duties and moved to the United States in 2020."
+    },
+    {
+      "char": "🔥",
+      "label": "wildfire deaths in spain",
+      "url": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
+      "title": "At Least 12 People Die in Southern Spain Wildfire",
+      "summary": "The blaze in Andalusia, one of the deadliest on record in the country, also left more than 20 people missing. Many of the victims were foreign tourists, the Spanish authorities said."
+    },
+    {
+      "char": "🎨",
+      "label": "moscow's art amid war",
+      "url": "https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html",
+      "title": "Moscow Still Has Art and Culture. Just Don’t Say ‘Ukraine.’",
+      "summary": "An eerie limbo prevails at small art shows, independent theaters and private political clubs, where the war is the elephant in the room."
+    },
+    {
+      "char": "🌍",
+      "label": "species survival vs human impact",
+      "url": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
+      "title": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
+      "summary": "Newly endangered animals include desert frogs and snails in extreme ocean depths, both threatened by mining Life has colonised every corner of the planet by evolving ingenious survival strategies but these are increasingly being overwhel..."
+    },
+    {
+      "char": "🌪️",
+      "label": "venezuela quake recovery efforts",
+      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+      "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
+      "summary": "Nearly 17,000 injured and thousands more are listed as missing amid calls by UN and president Delcy Rodríguez for financial help The death toll in Venezuela’s devastating twin earthquakes has topped 4,000, the government said on Friday...."
+    },
+    {
+      "char": "👑",
+      "label": "harry and meghan visit the king",
+      "url": "https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html",
+      "title": "Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen",
+      "summary": "Friday’s visit to King Charles and Queen Camilla signaled a détente in relations with Prince Harry and his wife, who stepped down from royal duties and moved to the United States in 2020."
+    },
+    {
+      "char": "🔥",
+      "label": "wildfire deaths in southern spain",
+      "url": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
+      "title": "At Least 12 People Die in Southern Spain Wildfire",
+      "summary": "The blaze in Andalusia, one of the deadliest on record in the country, also left more than 20 people missing. Many of the victims were foreign tourists, the Spanish authorities said."
+    },
+    {
+      "char": "📱",
+      "label": "apple sues openai for trade secrets",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "summary": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”"
+    },
+    {
+      "char": "🌍",
+      "label": "venezuela quake death toll exceeds 4000",
+      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+      "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
+      "summary": "Nearly 17,000 injured and thousands more are listed as missing amid calls by UN and president Delcy Rodríguez for financial help The death toll in Venezuela’s devastating twin earthquakes has topped 4,000, the government said on Friday...."
+    },
+    {
+      "char": "✈️",
+      "label": "man nearly sucked out of ryanair plane",
+      "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+      "summary": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say."
+    },
+    {
+      "char": "🤝",
+      "label": "us and iran ceasefire talks ongoing",
+      "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html",
+      "title": "Mediators Trying to Pull U.S. and Iran Back From Brink, Officials Say",
+      "summary": "Qatari mediators were in Iran seeking to salvage the tattered truce. President Trump said talks with Tehran would continue, even if the cease-fire was “over.”"
+    },
+    {
+      "char": "🦖",
+      "label": "new dinosaur species discovered in thailand",
+      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
+      "summary": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago."
+    },
+    {
+      "char": "⚔️",
+      "label": "israel strikes iranian steel facility",
+      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
+      "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+      "summary": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy."
+    },
+    {
+      "char": "⚖️",
+      "label": "uk judges hear appeal on anti-gay law",
+      "url": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
+      "title": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
+      "summary": "Activist is challenging ruling last year that restored colonial-era homophobic law against same-sex intimacy Some of the UK’s top judges are hearing arguments over whether a Trinidad and Tobago court had the legal right to overturn a 201..."
+    },
+    {
+      "char": "🔥",
+      "label": "spain battles deadly wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing."
+    },
+    {
+      "char": "✈️",
+      "label": "plane crash in bahamas kills 10",
+      "url": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss",
+      "title": "Small plane crash in Bahamas kills 10 people",
+      "summary": "The country's prime minister called the crash, on the country's independence day, a tragedy."
+    },
+    {
+      "char": "🌍",
+      "label": "ebola case in dr congo",
       "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
       "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
       "summary": "The American works for the humanitarian organization Samaritan’s Purse, American and African health officials said."
     },
     {
-      "char": "🔥",
-      "label": "canadian lab burns buildings to save them",
-      "url": "https://www.nytimes.com/2026/07/11/world/canada/wildfires-prevention-testing-canada.html",
-      "title": "Inside the Canadian Lab Burning Down Buildings to Save Them",
-      "summary": "At the national fire safety facility in Ottawa, scientists and engineers are increasingly focused on the threat from the forest."
-    },
-    {
-      "char": "💰",
-      "label": "developing countries spend more on debt",
-      "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-      "summary": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same..."
-    },
-    {
-      "char": "⚓",
-      "label": "us wants iran to stop shooting at ships",
-      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "summary": "US media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\"."
-    },
-    {
       "char": "🌍",
-      "label": "venezuela quake death toll passes 4000",
+      "label": "venezuela quake recovery efforts",
       "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
       "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
       "summary": "Nearly 17,000 injured and thousands more are listed as missing amid calls by UN and president Delcy Rodríguez for financial help The death toll in Venezuela’s devastating twin earthquakes has topped 4,000, the government said on Friday...."
+    },
+    {
+      "char": "🔍",
+      "label": "mexico drug lord investigation",
+      "url": "https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation",
+      "title": "Mexico investigates whether US lied about role in capture of drug lord",
+      "summary": "Reporting suggests FBI involved in seizure of Ismael ‘El Mayo’ Zambada García from Mexican territory in 2024 Mexico has launched an investigation into whether the US lied about its involvement in the capture and secretive transfer of a t..."
+    },
+    {
+      "char": "🐾",
+      "label": "species survival strategies threatened",
+      "url": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
+      "title": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
+      "summary": "Newly endangered animals include desert frogs and snails in extreme ocean depths, both threatened by mining Life has colonised every corner of the planet by evolving ingenious survival strategies but these are increasingly being overwhel..."
+    },
+    {
+      "char": "🏳️‍🌈",
+      "label": "lgbtq cruise ship denied entry",
+      "url": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
+      "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
+      "summary": "Scarlet Lady’s 2,000 passengers told of change as one of those onboard says they will ‘sparkle and spend elsewhere’ An LGBTQ+ cruise ship blocked from Turkish waters this week has been refused entry into Egypt. The Scarlet Lady’s 2,000 p..."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola case in dr congo",
+      "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
+      "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+      "summary": "The American works for the humanitarian organization Samaritan’s Purse, American and African health officials said."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "sorrow",
+    "emoji": "😢",
+    "rationale": "The news items reflect a day marked by significant loss and distress, including natural disasters and violent events, which evoke a profound sense of sorrow and empathy.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
