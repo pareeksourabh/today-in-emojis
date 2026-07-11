@@ -1,41 +1,41 @@
 {
   "date": "2026-07-11",
-  "timestamp": "2026-07-11T09:40:06Z",
+  "timestamp": "2026-07-11T00:00:00Z",
   "emojis": [
     {
+      "char": "⚔️",
+      "label": "israel strikes iranian steel facility",
+      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
+      "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+      "summary": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy."
+    },
+    {
+      "char": "⚖️",
+      "label": "uk judges hear appeal on anti-gay law",
+      "url": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
+      "title": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
+      "summary": "Activist is challenging ruling last year that restored colonial-era homophobic law against same-sex intimacy Some of the UK’s top judges are hearing arguments over whether a Trinidad and Tobago court had the legal right to overturn a 201..."
+    },
+    {
       "char": "🔥",
-      "label": "spain wildfire deaths",
-      "url": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
-      "title": "At Least 12 People Die in Southern Spain Wildfire",
-      "summary": "The blaze in Andalusia, one of the deadliest on record in the country, also left more than 20 people missing. Many of the victims were foreign tourists, the Spanish authorities said."
+      "label": "spain battles deadly wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing."
     },
     {
-      "char": "⚽",
-      "label": "england vs norway world cup",
-      "url": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
-      "title": "England and Norway, Old Friends, Resurrect a Rivalry for the World Cup",
-      "summary": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side."
-    },
-    {
-      "char": "📚",
-      "label": "debt vs education spending",
-      "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-      "summary": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same..."
+      "char": "✈️",
+      "label": "plane crash in bahamas kills 10",
+      "url": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss",
+      "title": "Small plane crash in Bahamas kills 10 people",
+      "summary": "The country's prime minister called the crash, on the country's independence day, a tragedy."
     },
     {
       "char": "🌍",
-      "label": "venezuela earthquake toll",
-      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
-      "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
-      "summary": "Nearly 17,000 injured and thousands more are listed as missing amid calls by UN and president Delcy Rodríguez for financial help The death toll in Venezuela’s devastating twin earthquakes has topped 4,000, the government said on Friday...."
-    },
-    {
-      "char": "🦠",
       "label": "ebola case in dr congo",
       "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
       "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
-      "summary": "The American works for a humanitarian organization in Congo, the Centers for Disease Control and Prevention said."
+      "summary": "The American works for the humanitarian organization Samaritan’s Purse, American and African health officials said."
     }
   ],
   "source": "ai-openai",
