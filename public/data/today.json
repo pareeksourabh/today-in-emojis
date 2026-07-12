@@ -1,41 +1,41 @@
 {
   "date": "2026-07-12",
-  "timestamp": "2026-07-12T09:53:04Z",
+  "timestamp": "2026-07-12T00:00:00Z",
   "emojis": [
     {
-      "char": "📰",
-      "label": "trump subpoenas journalists",
-      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar."
+      "char": "🇳🇬",
+      "label": "nigeria army kills bandits",
+      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
+      "summary": "Vigilantes also took part in the fight that raged all night and the following morning, residents say Nigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, ac..."
     },
     {
-      "char": "🕵️‍♂",
+      "char": "📚",
+      "label": "debt vs education spending",
+      "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+      "summary": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same..."
+    },
+    {
+      "char": "🛰️",
       "label": "putin's spies in japan",
       "url": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
       "title": "How Putin Turned Japan Into a Den of Spies",
       "summary": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war."
     },
     {
-      "char": "⚔️",
-      "label": "us strikes as iran closes strait",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-      "summary": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway."
+      "char": "🌪️",
+      "label": "typhoon bavi hits china",
+      "url": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
+      "title": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
+      "summary": "Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France."
     },
     {
-      "char": "🚨",
-      "label": "toronto street festival shooting",
-      "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
-      "title": "At least two killed in Toronto street festival shooting",
-      "summary": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene."
-    },
-    {
-      "char": "🌍",
-      "label": "ebola treatment trial in drc",
-      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
-      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
-      "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality rates There is no approved drug to help the medical teams scrabbling to save lives..."
+      "char": "🏚️",
+      "label": "venezuela housing project ruins",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
+      "title": "A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela",
+      "summary": "Discontent with Trump-backed government mounts as Chávez heirs struggle to respond to disaster for which they seem ill-prepared Even before two powerful earthquakes reduced the OPPE 25 government housing project to an anarchy of shattere..."
     }
   ],
   "source": "ai-openai",
