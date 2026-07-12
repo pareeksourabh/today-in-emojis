@@ -1,27 +1,20 @@
 {
   "date": "2026-07-12",
-  "timestamp": "2026-07-12T00:00:00Z",
+  "timestamp": "2026-07-12T16:40:42Z",
   "emojis": [
     {
-      "char": "📰",
-      "label": "uk police arrest ex-lawmaker",
-      "url": "https://www.nytimes.com/2026/07/12/world/europe/ann-widdecombe-arrest-uk.html",
-      "title": "U.K. Police Make New Arrest in Killing of Ex-Lawmaker",
-      "summary": "A 28-year-old man was detained on Saturday in connection with the death of Ann Widdecombe, a former Parliament member, the police said. Another man arrested on Friday was later released."
+      "char": "🔫",
+      "label": "toronto street festival shooting",
+      "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "title": "At least two killed in Toronto street festival shooting",
+      "summary": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene."
     },
     {
-      "char": "⚔️",
-      "label": "us strikes with iran in strait",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region."
-    },
-    {
-      "char": "⚽",
-      "label": "messi can't fill world cup stadium",
-      "url": "https://www.nytimes.com/2026/07/12/world/europe/messi-argentina-world-cup-empty-seats.html",
-      "title": "At World Cup Ticket Prices, Even Messi Can’t Fill a Stadium",
-      "summary": "The Argentine team and its superstar, Lionel Messi, have been among the biggest draws at the World Cup, but that was not enough to prevent vacant seats at its quarterfinal on Saturday."
+      "char": "🇮🇷",
+      "label": "iran hard-liners fighting america",
+      "url": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
+      "title": "Hard-Liners in Iran Want to Keep Fighting America",
+      "summary": "With much of their leadership killed in the war, Iran’s conservatives have sought to fill the void and intensify the fight against the United States."
     },
     {
       "char": "🌪️",
@@ -31,11 +24,18 @@
       "summary": "Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France."
     },
     {
-      "char": "🏳️‍🌈",
-      "label": "lgbtq cruise ship refused entry",
-      "url": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
-      "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
-      "summary": "Scarlet Lady’s 2,000 passengers told of change as one of those onboard says they will ‘sparkle and spend elsewhere’ An LGBTQ+ cruise ship blocked from Turkish waters this week has been refused entry into Egypt. The Scarlet Lady’s 2,000 p..."
+      "char": "🔥",
+      "label": "spain wildfire harrowing escapes",
+      "url": "https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html",
+      "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
+      "summary": "Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain."
+    },
+    {
+      "char": "💉",
+      "label": "ebola treatment trial in drc",
+      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+      "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality rates There is no approved drug to help the medical teams scrabbling to save lives..."
     }
   ],
   "source": "ai-openai",
