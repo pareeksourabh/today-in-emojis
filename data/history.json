@@ -54295,5 +54295,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-12",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "species survival strategies",
+        "url": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
+        "title": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
+        "summary": "Newly endangered animals include desert frogs and snails in extreme ocean depths, both threatened by mining Life has colonised every corner of the planet by evolving ingenious survival strategies but these are increasingly being overwhel..."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "lgbtq+ cruise ship entry denied",
+        "url": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
+        "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
+        "summary": "Scarlet Lady’s 2,000 passengers told of change as one of those onboard says they will ‘sparkle and spend elsewhere’ An LGBTQ+ cruise ship blocked from Turkish waters this week has been refused entry into Egypt. The Scarlet Lady’s 2,000 p..."
+      },
+      {
+        "char": "🔥",
+        "label": "spain wildfire kills 12",
+        "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+        "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+        "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing."
+      },
+      {
+        "char": "⚽",
+        "label": "england vs norway world cup",
+        "url": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
+        "title": "England and Norway Resurrect a Rivalry for the World Cup",
+        "summary": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola case in dr congo",
+        "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
+        "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+        "summary": "The American, who works for the humanitarian organization Samaritan’s Purse, is the second to be infected in an outbreak that continues to spread."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
