@@ -54383,5 +54383,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-12",
+    "emojis": [
+      {
+        "char": "🕌",
+        "label": "taliban targets herat's culture",
+        "url": "https://www.nytimes.com/2026/07/12/world/asia/taliban-morality-police-herat-protests.html",
+        "title": "Inside Herat, Where a Taliban Campaign Targets a Cosmopolitan Outpost",
+        "summary": "Afghanistan’s leader has exerted full control over a city that once enjoyed looser social norms, even under Taliban rule."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela quake recovery efforts",
+        "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+        "title": "Venezuela quake death toll passes 4,300 as scale of recovery effort looms large",
+        "summary": "Nearly 17,000 injured and thousands more listed as missing amid calls by president Delcy Rodríguez and UN for financial help The death toll in Venezuela’s devastating twin earthquakes has passed 4,300, the government said on Saturday. At..."
+      },
+      {
+        "char": "🌪️",
+        "label": "typhoon bavi hits china",
+        "url": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
+        "title": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
+        "summary": "Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France."
+      },
+      {
+        "char": "🚢",
+        "label": "lgbtq cruise denied entry",
+        "url": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
+        "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
+        "summary": "Scarlet Lady’s 2,000 passengers told of change as one of those onboard says they will ‘sparkle and spend elsewhere’ An LGBTQ+ cruise ship blocked from Turkish waters this week has been refused entry into Egypt. The Scarlet Lady’s 2,000 p..."
+      },
+      {
+        "char": "💉",
+        "label": "ebola treatment trial begins",
+        "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+        "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+        "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality rates There is no approved drug to help the medical teams scrabbling to save lives..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
