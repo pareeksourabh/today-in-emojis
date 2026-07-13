@@ -54603,5 +54603,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-13",
+    "emojis": [
+      {
+        "char": "🎬",
+        "label": "sam neill tributes",
+        "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+        "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+        "summary": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death."
+      },
+      {
+        "char": "🌍",
+        "label": "debt vs education spending",
+        "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+        "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+        "summary": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same..."
+      },
+      {
+        "char": "⚖️",
+        "label": "iraqi couple convicted",
+        "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+        "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
+        "summary": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group."
+      },
+      {
+        "char": "💣",
+        "label": "drug lord's brother killed",
+        "url": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss",
+        "title": "Men disguised as police kill Ecuadorean drug lord's brother",
+        "summary": "The victim, David Macías, was the brother of drug lord 'El Fito', who is awaiting trial in the US."
+      },
+      {
+        "char": "🔥",
+        "label": "bangkok bar fire",
+        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+        "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
+        "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
