@@ -54471,5 +54471,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-13",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "david willey, bbc correspondent dies",
+        "url": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
+        "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
+        "summary": "One of the BBC's longest-serving foreign correspondents, he reported on five popes during his career."
+      },
+      {
+        "char": "🇮🇳",
+        "label": "india's colonial past erased",
+        "url": "https://www.nytimes.com/2026/07/12/world/asia/india-gymkhana-club-eviction-colonialism.html",
+        "title": "As India Erases Its Colonial Past, Delhi’s Elite Feel Targeted",
+        "summary": "India’s government wants to shut down Delhi’s Gymkhana Club, which the prime minister calls a vestige of colonialism. Some members suspect a different motive."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran hard-liners want conflict",
+        "url": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
+        "title": "Hard-Liners in Iran Want to Keep Fighting America",
+        "summary": "With much of their leadership killed in the war, Iran’s conservatives have sought to fill the void and intensify the fight against the United States."
+      },
+      {
+        "char": "🌪️",
+        "label": "china evacuates for typhoon",
+        "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+        "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+        "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled."
+      },
+      {
+        "char": "💔",
+        "label": "venezuela quake recovery efforts",
+        "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+        "title": "Venezuela quake death toll passes 4,300 as scale of recovery effort looms large",
+        "summary": "Nearly 17,000 injured and thousands more listed as missing amid calls by president Delcy Rodríguez and UN for financial help The death toll in Venezuela’s devastating twin earthquakes has passed 4,300, the government said on Saturday. At..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
