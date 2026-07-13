@@ -1,204 +1,43 @@
 {
-  "date": "2026-07-12",
-  "timestamp": "2026-07-12T00:00:00Z",
+  "date": "2026-07-13",
+  "timestamp": "2026-07-13T00:00:00Z",
   "emojis": [
     {
-      "char": "🌊",
-      "label": "iran closes strait of hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "title": "Iran says Strait of Hormuz closed 'until further notice'",
-      "summary": "The IRGC says it fired a warning shot at a vessel in the strait and is warning the US not to respond with \"aggression\"."
-    },
-    {
-      "char": "🦠",
-      "label": "us citizen tests positive for ebola",
-      "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
-      "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
-      "summary": "The American, who works for the humanitarian organization Samaritan’s Purse, is the second to be infected in an outbreak that continues to spread."
-    },
-    {
-      "char": "⚔️",
-      "label": "nigeria army kills 300 bandits",
-      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-      "summary": "Vigilantes also took part in the fight that raged all night and the following morning, residents say Nigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, ac..."
-    },
-    {
-      "char": "🤖",
-      "label": "china's robot drive leaves workers behind",
-      "url": "https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html",
-      "title": "‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive",
-      "summary": "For out-of-work factory workers in Kunshan, a region made rich by electronics manufacturing, a park is the only place to go."
-    },
-    {
-      "char": "🌍",
-      "label": "venezuela quake recovery efforts ongoing",
-      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
-      "title": "Venezuela quake death toll passes 4,300 as scale of recovery effort looms large",
-      "summary": "Nearly 17,000 injured and thousands more listed as missing amid calls by president Delcy Rodríguez and UN for financial help The death toll in Venezuela’s devastating twin earthquakes has passed 4,300, the government said on Saturday. At..."
-    },
-    {
-      "char": "⚽",
-      "label": "england vs norway world cup clash",
-      "url": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
-      "title": "England and Norway Resurrect a Rivalry for the World Cup",
-      "summary": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side."
-    },
-    {
       "char": "🔥",
-      "label": "12 dead in spain wildfire",
-      "url": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
-      "title": "At Least 12 People Die in Southern Spain Wildfire",
-      "summary": "The blaze in Andalusia, one of the deadliest on record in the country, also left more than 20 people missing. Many of the victims were foreign tourists, the Spanish authorities said."
+      "label": "bangkok bar fire kills 27",
+      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "title": "At least 27 killed in Bangkok bar fire",
+      "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape."
     },
     {
-      "char": "🇳🇬",
-      "label": "nigeria army kills 300 bandits",
-      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-      "summary": "Vigilantes also took part in the fight that raged all night and the following morning, residents say Nigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, ac..."
-    },
-    {
-      "char": "🦠",
-      "label": "us citizen tests positive for ebola",
-      "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
-      "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
-      "summary": "The American, who works for the humanitarian organization Samaritan’s Purse, is the second to be infected in an outbreak that continues to spread."
-    },
-    {
-      "char": "🌍",
-      "label": "developing countries debt crisis",
-      "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-      "summary": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same..."
-    },
-    {
-      "char": "🔥",
-      "label": "spain wildfire kills 12 people",
-      "url": "https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html",
-      "title": "A Wildfire Killed 12 People in Southern Spain. Here’s the Latest.",
-      "summary": "Officials said more than 20 people were still missing because of the fire, one of the deadliest in Spain’s history. Most of those confirmed to have been killed were from Belgium or Britain."
-    },
-    {
-      "char": "🇮🇳",
-      "label": "india's colonial past under scrutiny",
-      "url": "https://www.nytimes.com/2026/07/12/world/asia/india-gymkhana-club-eviction-colonialism.html",
-      "title": "As India Erases Its Colonial Past, Delhi’s Elite Feel Targeted",
-      "summary": "India’s government wants to shut down Delhi’s Gymkhana Club, which the prime minister calls a vestige of colonialism. Some members suspect a different motive."
-    },
-    {
-      "char": "🌪️",
-      "label": "typhoon bavi hits china",
-      "url": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
-      "title": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
-      "summary": "Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France."
-    },
-    {
-      "char": "💔",
-      "label": "toronto street festival shooting",
-      "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
-      "title": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
-      "summary": "Police say two people exchanged gunfire in shooting that mayor called an ‘irresponsible act of violence’ in festival attended by families A shooting near a Toronto street festival killed two men and wounded four other people on Saturday..."
-    },
-    {
-      "char": "🌍",
-      "label": "venezuela quake recovery efforts",
-      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
-      "title": "Venezuela quake death toll passes 4,300 as scale of recovery effort looms large",
-      "summary": "Nearly 17,000 injured and thousands more listed as missing amid calls by president Delcy Rodríguez and UN for financial help The death toll in Venezuela’s devastating twin earthquakes has passed 4,300, the government said on Saturday. At..."
-    },
-    {
-      "char": "🇳🇬",
-      "label": "nigeria army kills bandits",
-      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-      "summary": "Vigilantes also took part in the fight that raged all night and the following morning, residents say Nigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, ac..."
-    },
-    {
-      "char": "📚",
-      "label": "debt vs education spending",
-      "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-      "summary": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same..."
-    },
-    {
-      "char": "🛰️",
+      "char": "🕵️‍♂",
       "label": "putin's spies in japan",
       "url": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
       "title": "How Putin Turned Japan Into a Den of Spies",
       "summary": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war."
     },
     {
-      "char": "🌪️",
-      "label": "typhoon bavi hits china",
-      "url": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
-      "title": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
-      "summary": "Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France."
+      "char": "🕊️",
+      "label": "former qatar emir dies at 74",
+      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "summary": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today."
     },
     {
-      "char": "🏚️",
-      "label": "venezuela housing project ruins",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
-      "title": "A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela",
-      "summary": "Discontent with Trump-backed government mounts as Chávez heirs struggle to respond to disaster for which they seem ill-prepared Even before two powerful earthquakes reduced the OPPE 25 government housing project to an anarchy of shattere..."
+      "char": "🔫",
+      "label": "toronto shooting at festival",
+      "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
+      "title": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
+      "summary": "Police say two people exchanged gunfire in shooting that mayor called an ‘irresponsible act of violence’ in festival attended by families A shooting near a Toronto street festival killed two men and wounded four other people on Saturday..."
     },
     {
-      "char": "📰",
-      "label": "uk police arrest ex-lawmaker",
-      "url": "https://www.nytimes.com/2026/07/12/world/europe/ann-widdecombe-arrest-uk.html",
-      "title": "U.K. Police Make New Arrest in Killing of Ex-Lawmaker",
-      "summary": "A 28-year-old man was detained on Saturday in connection with the death of Ann Widdecombe, a former Parliament member, the police said. Another man arrested on Friday was later released."
-    },
-    {
-      "char": "⚔️",
-      "label": "us strikes with iran in strait",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region."
-    },
-    {
-      "char": "⚽",
-      "label": "messi can't fill world cup stadium",
-      "url": "https://www.nytimes.com/2026/07/12/world/europe/messi-argentina-world-cup-empty-seats.html",
-      "title": "At World Cup Ticket Prices, Even Messi Can’t Fill a Stadium",
-      "summary": "The Argentine team and its superstar, Lionel Messi, have been among the biggest draws at the World Cup, but that was not enough to prevent vacant seats at its quarterfinal on Saturday."
-    },
-    {
-      "char": "🌪️",
-      "label": "typhoon bavi hits china",
-      "url": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
-      "title": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
-      "summary": "Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France."
-    },
-    {
-      "char": "🏳️‍🌈",
-      "label": "lgbtq cruise ship refused entry",
-      "url": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
-      "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
-      "summary": "Scarlet Lady’s 2,000 passengers told of change as one of those onboard says they will ‘sparkle and spend elsewhere’ An LGBTQ+ cruise ship blocked from Turkish waters this week has been refused entry into Egypt. The Scarlet Lady’s 2,000 p..."
+      "char": "💉",
+      "label": "ebola treatment trial in drc",
+      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+      "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality rates There is no approved drug to help the medical teams scrabbling to save lives..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "Today's news is dominated by tragic events, including high death tolls from natural disasters and violence, evoking a deep sense of sorrow and loss.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
