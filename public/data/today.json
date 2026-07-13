@@ -1,41 +1,41 @@
 {
   "date": "2026-07-13",
-  "timestamp": "2026-07-13T07:26:01Z",
+  "timestamp": "2026-07-13T00:00:00Z",
   "emojis": [
     {
-      "char": "📰",
+      "char": "🇳🇬",
+      "label": "nigeria army kills bandits",
+      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
+      "summary": "Vigilantes also took part in the fight that raged all night and the following morning, residents say Nigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, ac..."
+    },
+    {
+      "char": "🔫",
+      "label": "toronto shooting at festival",
+      "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
+      "title": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
+      "summary": "Police say two people exchanged gunfire in shooting that mayor called an ‘irresponsible act of violence’ in festival attended by families A shooting near a Toronto street festival killed two men and wounded four other people on Saturday..."
+    },
+    {
+      "char": "🔥",
+      "label": "spain wildfire harrowing escapes",
+      "url": "https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html",
+      "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
+      "summary": "Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain."
+    },
+    {
+      "char": "🌪️",
+      "label": "china evacuates for typhoon",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled."
+    },
+    {
+      "char": "💔",
       "label": "lindsey graham dies suddenly",
       "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
       "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
       "summary": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola treatment trial begins",
-      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
-      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
-      "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality rates There is no approved drug to help the medical teams scrabbling to save lives..."
-    },
-    {
-      "char": "🇮🇷",
-      "label": "iran hard-liners resist peace",
-      "url": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
-      "title": "Hard-Liners in Iran Want to Keep Fighting America",
-      "summary": "With much of their leadership killed in the war, Iran’s conservatives have sought to fill the void and intensify the fight against the United States."
-    },
-    {
-      "char": "🕵️‍♂",
-      "label": "putin's spies in japan",
-      "url": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
-      "title": "How Putin Turned Japan Into a Den of Spies",
-      "summary": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war."
-    },
-    {
-      "char": "🏗️",
-      "label": "venezuela housing project ruins",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
-      "title": "A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela",
-      "summary": "Discontent with Trump-backed government mounts as Chávez heirs struggle to respond to disaster for which they seem ill-prepared Even before two powerful earthquakes reduced the OPPE 25 government housing project to an anarchy of shattere..."
     }
   ],
   "source": "ai-openai",
