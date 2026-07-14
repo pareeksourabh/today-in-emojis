@@ -1,41 +1,41 @@
 {
   "date": "2026-07-14",
-  "timestamp": "2026-07-14T13:54:05Z",
+  "timestamp": "2026-07-14T00:00:00Z",
   "emojis": [
+    {
+      "char": "📚",
+      "label": "debt vs education in developing nations",
+      "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+      "summary": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same..."
+    },
+    {
+      "char": "🔫",
+      "label": "toronto shooting at street festival",
+      "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
+      "title": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
+      "summary": "Police say two people exchanged gunfire in shooting that mayor called an ‘irresponsible act of violence’ in festival attended by families A shooting near a Toronto street festival killed two men and wounded four other people on Saturday..."
+    },
+    {
+      "char": "🔥",
+      "label": "bangkok bar fire investigation",
+      "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
+      "summary": "Survivors and first responders reported locked doors and a lack of signage marking emergency exits."
+    },
+    {
+      "char": "⚖️",
+      "label": "trump's settlement with irs voided",
+      "url": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
+      "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
+      "summary": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action."
+    },
     {
       "char": "🌍",
       "label": "anger at earthquake response in venezuela",
       "url": "https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela",
       "title": "‘God is punishing the politicians’: anger at earthquake response grows in Venezuela",
       "summary": "Threat of social unrest rises as public indignation at lack of disaster aid comes on top of fallout from US military intervention • A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela Public anger at w..."
-    },
-    {
-      "char": "💰",
-      "label": "eu bans gold imports from sudan",
-      "url": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
-      "title": "EU bans gold imports from Sudan to curb money financing the war",
-      "summary": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining."
-    },
-    {
-      "char": "🔫",
-      "label": "nigeria army kills 300 bandits",
-      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-      "summary": "Vigilantes also took part in the fight that raged all night and the following morning, residents say Nigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, ac..."
-    },
-    {
-      "char": "🇨🇳",
-      "label": "china purges top official over corruption",
-      "url": "https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html",
-      "title": "China Purges Top Official Over Corruption and Sex Charges",
-      "summary": "Ma Xingrui is the third member of the Politburo to be purged since 2022. He once led the Xinjiang region and was previously head of China’s space program."
-    },
-    {
-      "char": "🎉",
-      "label": "toronto shooting at street festival",
-      "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
-      "title": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
-      "summary": "Police say two people exchanged gunfire in shooting that mayor called an ‘irresponsible act of violence’ in festival attended by families A shooting near a Toronto street festival killed two men and wounded four other people on Saturday..."
     }
   ],
   "source": "ai-openai",
