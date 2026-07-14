@@ -1,21 +1,7 @@
 {
   "date": "2026-07-14",
-  "timestamp": "2026-07-14T06:15:48Z",
+  "timestamp": "2026-07-14T00:00:00Z",
   "emojis": [
-    {
-      "char": "🦬",
-      "label": "bison rams grandfather in park",
-      "url": "https://www.bbc.co.uk/news/articles/c2dy9krpydlo?at_medium=RSS&at_campaign=rss",
-      "title": "Bison rams grandfather in Yellowstone Park, knocking him metres into the air",
-      "summary": "The man and his grandson appeared a safe distance away from the bison before it quickly chased them down."
-    },
-    {
-      "char": "🔥",
-      "label": "survivor recounts spain wildfire",
-      "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
-      "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-      "summary": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain."
-    },
     {
       "char": "🇨🇴",
       "label": "colombian killed by ice agent",
@@ -24,18 +10,32 @@
       "summary": "It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent."
     },
     {
-      "char": "🇳🇬",
-      "label": "furore over fake nigerian agency",
-      "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
-      "title": "Furore in Nigeria over fake federal agency set up in government HQ",
-      "summary": "President orders investigation after fictitious body given funding, triggering renewed scrutiny of alleged corruption A fictitious federal entity that was allocated 1.3bn naira (£700,000) in Nigeria’s 2026 budget has precipitated a polit..."
+      "char": "🏚️",
+      "label": "housing project ruins in venezuela",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
+      "title": "A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela",
+      "summary": "Discontent with Trump-backed government mounts as Chávez heirs struggle to respond to disaster for which they seem ill-prepared Even before two powerful earthquakes reduced the OPPE 25 government housing project to an anarchy of shattere..."
     },
     {
-      "char": "🤖",
-      "label": "robot army remakes warfare in ukraine",
-      "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html",
-      "title": "A Robot Army Remakes Ground Warfare in Ukraine",
-      "summary": "They began as supply mules. Now ground robots evacuate the wounded, hold trenches and even do the killing."
+      "char": "⚖️",
+      "label": "uk law change for grooming gang",
+      "url": "https://www.nytimes.com/2026/07/13/world/europe/uk-deportation-law-change-grooming-gang.html",
+      "title": "U.K. to Change Law to Allow Deportation of ‘Grooming Gang’ Leader",
+      "summary": "The British government on Monday laid out steps enabling the deportation to Pakistan of Shabir Ahmed, the leader of a gang that raped dozens of girls in Northern England."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola treatment trial in drc",
+      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+      "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality rates There is no approved drug to help the medical teams scrabbling to save lives..."
+    },
+    {
+      "char": "🔫",
+      "label": "toronto shooting at street festival",
+      "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
+      "title": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
+      "summary": "Police say two people exchanged gunfire in shooting that mayor called an ‘irresponsible act of violence’ in festival attended by families A shooting near a Toronto street festival killed two men and wounded four other people on Saturday..."
     }
   ],
   "source": "ai-openai",
