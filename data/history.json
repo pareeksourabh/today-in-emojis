@@ -54691,5 +54691,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-14",
+    "emojis": [
+      {
+        "char": "🔥",
+        "label": "bangkok bar fire kills 28",
+        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+        "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
+        "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape."
+      },
+      {
+        "char": "🚗",
+        "label": "volkswagen plans job cuts",
+        "url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
+        "title": "Volkswagen planning to cut up to 100,000 jobs globally",
+        "summary": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China."
+      },
+      {
+        "char": "🔥",
+        "label": "spain wildfire survivors recount escapes",
+        "url": "https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html",
+        "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
+        "summary": "Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain."
+      },
+      {
+        "char": "⚔️",
+        "label": "robot army remakes warfare in ukraine",
+        "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html",
+        "title": "A Robot Army Remakes Ground Warfare in Ukraine",
+        "summary": "They began as supply mules. Now ground robots evacuate the wounded, hold trenches and even do the killing."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola treatment trial begins in drc",
+        "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+        "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+        "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality rates There is no approved drug to help the medical teams scrabbling to save lives..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
