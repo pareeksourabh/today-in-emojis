@@ -54779,5 +54779,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-14",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "anger at earthquake response in venezuela",
+        "url": "https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela",
+        "title": "‘God is punishing the politicians’: anger at earthquake response grows in Venezuela",
+        "summary": "Threat of social unrest rises as public indignation at lack of disaster aid comes on top of fallout from US military intervention • A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela Public anger at w..."
+      },
+      {
+        "char": "💣",
+        "label": "us strikes iran for 3rd night",
+        "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
+        "title": "U.S. Strikes Iran for 3rd Night, in Return to Open Conflict",
+        "summary": "President Trump announced a 20 percent fee on cargo shipped through the Strait of Hormuz. Iran said it had attacked two tankers transiting the waterway as the battle to control it intensified."
+      },
+      {
+        "char": "🕵️‍♂",
+        "label": "japan builds intelligence agency",
+        "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
+        "title": "Japan Builds Intelligence Agency It Hasn’t Had Since World War II",
+        "summary": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is turning to help from Western allies in forming a centralized agency."
+      },
+      {
+        "char": "🐛",
+        "label": "screwworm infestation in the us",
+        "url": "https://www.theguardian.com/us-news/2026/jul/12/new-world-screwworm-infestation-cattle-industry",
+        "title": "Experts warn of ways screwworm could spread in the US and new difficulties in keeping it at bay",
+        "summary": "Scientists worry that current eradication efforts won’t be able to contain parasitic infestation pushing into US When conservationists set up cameras in remote regions of Central American forests, they wanted to monitor illegal cattle mo..."
+      },
+      {
+        "char": "⚖️",
+        "label": "mexico files complaints over migrant deaths",
+        "url": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
+        "title": "Mexico to file criminal complaints over migrants killed by ICE in US",
+        "summary": "Claudia Sheinbaum says Mexicans ‘outraged’ over killing last week of Lorenzo Salgado Araujo by agents in Houston Claudia Sheinbaum announced on Monday that Mexico would be filing criminal complaints in the US for the deaths of more than..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
