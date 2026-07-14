@@ -1,204 +1,43 @@
 {
-  "date": "2026-07-13",
-  "timestamp": "2026-07-13T00:00:00Z",
+  "date": "2026-07-14",
+  "timestamp": "2026-07-14T00:00:00Z",
   "emojis": [
     {
-      "char": "🔥",
-      "label": "bangkok bar fire kills 27",
-      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-      "title": "At least 27 killed in Bangkok bar fire",
-      "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape."
-    },
-    {
-      "char": "🕵️‍♂",
-      "label": "putin's spies in japan",
-      "url": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
-      "title": "How Putin Turned Japan Into a Den of Spies",
-      "summary": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war."
-    },
-    {
-      "char": "🕊️",
-      "label": "former qatar emir dies at 74",
-      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
-      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "summary": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today."
-    },
-    {
-      "char": "🔫",
-      "label": "toronto shooting at festival",
-      "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
-      "title": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
-      "summary": "Police say two people exchanged gunfire in shooting that mayor called an ‘irresponsible act of violence’ in festival attended by families A shooting near a Toronto street festival killed two men and wounded four other people on Saturday..."
-    },
-    {
-      "char": "💉",
-      "label": "ebola treatment trial in drc",
-      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
-      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
-      "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality rates There is no approved drug to help the medical teams scrabbling to save lives..."
-    },
-    {
-      "char": "🇺🇸",
-      "label": "us insists strait of hormuz is open",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region."
-    },
-    {
-      "char": "🌍",
-      "label": "zelensky announces leadership shuffle",
-      "url": "https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html",
-      "title": "Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor",
-      "summary": "President Volodymyr Zelensky said Ukraine’s prime minister, Yuliia Svyrydenko, would step down amid a broader shake-up in Ukraine’s senior leadership."
-    },
-    {
-      "char": "⚖️",
-      "label": "uk judges appeal over anti-gay law",
-      "url": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
-      "title": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
-      "summary": "Activist is challenging ruling last year that restored colonial-era homophobic law against same-sex intimacy Some of the UK’s top judges are hearing arguments over whether a Trinidad and Tobago court had the legal right to overturn a 201..."
-    },
-    {
-      "char": "🌪️",
-      "label": "china evacuates two million from typhoon",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
-      "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled."
-    },
-    {
-      "char": "💔",
-      "label": "venezuela quake death toll passes 4,300",
-      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
-      "title": "Venezuela quake death toll passes 4,300 as scale of recovery effort looms large",
-      "summary": "Nearly 17,000 injured and thousands more listed as missing amid calls by president Delcy Rodríguez and UN for financial help The death toll in Venezuela’s devastating twin earthquakes has passed 4,300, the government said on Saturday. At..."
-    },
-    {
-      "char": "🇳🇬",
-      "label": "nigeria army kills bandits",
-      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-      "summary": "Vigilantes also took part in the fight that raged all night and the following morning, residents say Nigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, ac..."
-    },
-    {
-      "char": "🔫",
-      "label": "toronto shooting at festival",
-      "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
-      "title": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
-      "summary": "Police say two people exchanged gunfire in shooting that mayor called an ‘irresponsible act of violence’ in festival attended by families A shooting near a Toronto street festival killed two men and wounded four other people on Saturday..."
-    },
-    {
-      "char": "🔥",
-      "label": "spain wildfire harrowing escapes",
-      "url": "https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html",
-      "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
-      "summary": "Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain."
-    },
-    {
-      "char": "🌪️",
-      "label": "china evacuates for typhoon",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
-      "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled."
-    },
-    {
-      "char": "💔",
-      "label": "lindsey graham dies suddenly",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "summary": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart."
-    },
-    {
-      "char": "🏚️",
-      "label": "quake recovery in venezuela",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
-      "title": "A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela",
-      "summary": "Discontent with Trump-backed government mounts as Chávez heirs struggle to respond to disaster for which they seem ill-prepared Even before two powerful earthquakes reduced the OPPE 25 government housing project to an anarchy of shattere..."
-    },
-    {
-      "char": "🕵️‍♂",
-      "label": "japan's new intelligence agency",
-      "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
-      "title": "Japan Is Building a New Intelligence Agency With Help From the West",
-      "summary": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security."
-    },
-    {
-      "char": "🔥",
-      "label": "wildfire near paris",
-      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-      "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-      "summary": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region."
-    },
-    {
-      "char": "🌍",
-      "label": "ebola treatment trial in drc",
-      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
-      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
-      "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality rates There is no approved drug to help the medical teams scrabbling to save lives..."
-    },
-    {
-      "char": "🚨",
-      "label": "toronto shooting incident",
-      "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
-      "title": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
-      "summary": "Police say two people exchanged gunfire in shooting that mayor called an ‘irresponsible act of violence’ in festival attended by families A shooting near a Toronto street festival killed two men and wounded four other people on Saturday..."
-    },
-    {
-      "char": "🌍",
-      "label": "netherlands manure innovation",
+      "char": "🌾",
+      "label": "netherlands manure initiative",
       "url": "https://www.nytimes.com/2026/07/13/world/europe/manure-fertilizer-netherlands.html",
       "title": "The Netherlands Pushes to Make Manure a Hotter Product",
       "summary": "The Netherlands has been trying to figure out what to do with manure it can no longer use thanks to environmental rules. Volatile fertilizer costs may help."
     },
     {
-      "char": "⚔️",
-      "label": "trump's iran deal failure",
-      "url": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html",
-      "title": "How Trump Failed to Secure the Strait of Hormuz in His Iran Deal",
-      "summary": "President Trump signed an agreement that Iran said gave it control of the waterway — and global energy supplies. Now, Iran’s military is violently asserting authority."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola treatment trial begins",
-      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
-      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
-      "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality rates There is no approved drug to help the medical teams scrabbling to save lives..."
+      "char": "🏚️",
+      "label": "venezuela housing project ruins",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
+      "title": "A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela",
+      "summary": "Discontent with Trump-backed government mounts as Chávez heirs struggle to respond to disaster for which they seem ill-prepared Even before two powerful earthquakes reduced the OPPE 25 government housing project to an anarchy of shattere..."
     },
     {
       "char": "🔥",
-      "label": "wildfire devastation in spain",
+      "label": "wildfire threat in spain",
       "url": "https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html",
       "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
       "summary": "Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain."
     },
     {
-      "char": "🤖",
-      "label": "ukraine's robot warfare",
-      "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html",
-      "title": "A Robot Army Remakes Ground Warfare in Ukraine",
-      "summary": "They began as supply mules. Now ground robots evacuate the wounded, hold trenches and even do the killing."
+      "char": "🦠",
+      "label": "ebola treatment trial in drc",
+      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+      "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality rates There is no approved drug to help the medical teams scrabbling to save lives..."
+    },
+    {
+      "char": "⚖️",
+      "label": "mexico's migrant deaths complaint",
+      "url": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
+      "title": "Mexico to file criminal complaints over migrants killed by ICE in US",
+      "summary": "Claudia Sheinbaum says Mexicans ‘outraged’ over killing last week of Lorenzo Salgado Araujo by agents in Houston Claudia Sheinbaum announced on Monday that Mexico would be filing criminal complaints in the US for the deaths of more than..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Sorrow",
-    "emoji": "😢",
-    "rationale": "The day is marked by tragic events, including deadly fires, shootings, and natural disasters, reflecting a deep sense of loss and grief in various parts of the world.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
