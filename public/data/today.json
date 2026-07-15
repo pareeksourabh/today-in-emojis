@@ -1,41 +1,41 @@
 {
   "date": "2026-07-15",
-  "timestamp": "2026-07-15T00:00:00Z",
+  "timestamp": "2026-07-15T06:19:30Z",
   "emojis": [
     {
-      "char": "🇺🇦",
-      "label": "ukraine's missile system plans",
-      "url": "https://www.nytimes.com/2026/07/14/world/europe/ukraine-fire-point-patriot-missiles.html",
-      "title": "Ukraine Wants to Make Its Own Antimissile System, Not Just Patriots",
-      "summary": "The Ukrainian firm Fire Point has produced weapons that hit Russian territory. Its next goal, developing an antimissile system, is a much bigger challenge, experts said."
+      "char": "⚔️",
+      "label": "us and iran war tensions",
+      "url": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz",
+      "title": "U.S. and Iran Reignite War Over Strait of Hormuz",
+      "summary": "The two countries slid back to open war over the waterway, as the U.S. planned to reinstate a blockade on Iranian ports on Tuesday. Iran said it had attacked two tankers and fired at U.S. military sites."
+    },
+    {
+      "char": "🦠",
+      "label": "new ebola patient in germany",
+      "url": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
+      "title": "New US Ebola patient arrives in Germany for treatment",
+      "summary": "Aid worker flown to Berlin as Trump administration bars Americans from traveling to US on commercial flights A US national who contracted Ebola in the Democratic Republic of the Congo has arrived in Germany for treatment, the health mini..."
     },
     {
       "char": "🔥",
-      "label": "bangkok bar fire tragedy",
-      "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-      "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
-      "summary": "After a fire killed 30 people, the scrutiny has turned to whether the venue used flammable foam on its ceilings and had blocked exits."
-    },
-    {
-      "char": "⚔️",
-      "label": "nigeria army kills bandits",
-      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-      "summary": "Vigilantes also took part in the fight that raged all night and the following morning, residents say Nigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, ac..."
-    },
-    {
-      "char": "🚨",
       "label": "fire kills six in brussels",
       "url": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
       "title": "Six Dead in an Elevator After Fire in Central Brussels",
       "summary": "After a fire broke out at the Oxy building in central Brussels on Tuesday morning, six bodies were found in an elevator."
     },
     {
-      "char": "🛑",
-      "label": "mexico demands justice for migrants",
-      "url": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
-      "title": "Mexico to demand criminal complaints over migrants killed by ICE in US",
-      "summary": "Claudia Sheinbaum says Mexicans ‘outraged’ over killing last week of Lorenzo Salgado Araujo by agents in Houston Claudia Sheinbaum announced on Monday that Mexico would be demanding criminal complaints in the US for the deaths of more th..."
+      "char": "🌍",
+      "label": "anger at venezuela quake response",
+      "url": "https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela",
+      "title": "‘God is punishing the politicians’: anger at earthquake response grows in Venezuela",
+      "summary": "Threat of social unrest rises as public indignation at lack of disaster aid comes on top of fallout from US military intervention • A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela Public anger at w..."
+    },
+    {
+      "char": "🐂",
+      "label": "brazil bull mascots rivalry",
+      "url": "https://www.nytimes.com/2026/07/14/world/americas/bull-mascots-red-blue-parintins-brazil.html",
+      "title": "A Heated Rivalry Over Bull Mascots Is Dividing a Brazilian Town",
+      "summary": "Deep in the Amazon rainforest, a heated rivalry has split a town for a century. It’s got nothing to do with sports or politics."
     }
   ],
   "source": "ai-openai",

@@ -54955,5 +54955,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-15",
+    "emojis": [
+      {
+        "char": "⚔️",
+        "label": "us and iran war tensions",
+        "url": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz",
+        "title": "U.S. and Iran Reignite War Over Strait of Hormuz",
+        "summary": "The two countries slid back to open war over the waterway, as the U.S. planned to reinstate a blockade on Iranian ports on Tuesday. Iran said it had attacked two tankers and fired at U.S. military sites."
+      },
+      {
+        "char": "🦠",
+        "label": "new ebola patient in germany",
+        "url": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
+        "title": "New US Ebola patient arrives in Germany for treatment",
+        "summary": "Aid worker flown to Berlin as Trump administration bars Americans from traveling to US on commercial flights A US national who contracted Ebola in the Democratic Republic of the Congo has arrived in Germany for treatment, the health mini..."
+      },
+      {
+        "char": "🔥",
+        "label": "fire kills six in brussels",
+        "url": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
+        "title": "Six Dead in an Elevator After Fire in Central Brussels",
+        "summary": "After a fire broke out at the Oxy building in central Brussels on Tuesday morning, six bodies were found in an elevator."
+      },
+      {
+        "char": "🌍",
+        "label": "anger at venezuela quake response",
+        "url": "https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela",
+        "title": "‘God is punishing the politicians’: anger at earthquake response grows in Venezuela",
+        "summary": "Threat of social unrest rises as public indignation at lack of disaster aid comes on top of fallout from US military intervention • A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela Public anger at w..."
+      },
+      {
+        "char": "🐂",
+        "label": "brazil bull mascots rivalry",
+        "url": "https://www.nytimes.com/2026/07/14/world/americas/bull-mascots-red-blue-parintins-brazil.html",
+        "title": "A Heated Rivalry Over Bull Mascots Is Dividing a Brazilian Town",
+        "summary": "Deep in the Amazon rainforest, a heated rivalry has split a town for a century. It’s got nothing to do with sports or politics."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
