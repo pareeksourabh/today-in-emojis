@@ -55043,5 +55043,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-15",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "ebola treatment trial in drc",
+        "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+        "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+        "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality rates There is no approved drug to help the medical teams scrabbling to save lives..."
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukraine's antimissile ambitions",
+        "url": "https://www.nytimes.com/2026/07/14/world/europe/ukraine-fire-point-patriot-missiles.html",
+        "title": "Ukraine Wants to Make Its Own Antimissile System, Not Just Patriots",
+        "summary": "The Ukrainian firm Fire Point has produced weapons that hit Russian territory. Its next goal, developing an antimissile system, is a much bigger challenge, experts said."
+      },
+      {
+        "char": "🔥",
+        "label": "fire kills six in brussels",
+        "url": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
+        "title": "Six Dead in an Elevator After Fire in Central Brussels",
+        "summary": "After a fire broke out at the Oxy building in central Brussels on Tuesday morning, six bodies were found in an elevator."
+      },
+      {
+        "char": "🤝",
+        "label": "venezuela opposition talks",
+        "url": "https://www.theguardian.com/world/2026/jul/15/venezuela-interim-government-opposition-talks-democracy-maria-corina-machado",
+        "title": "Venezuela’s interim government and opposition to begin formal talks",
+        "summary": "Nobel laureate María Corina Machado will not lead negotiations over new elections, contrary to expectations The interim government of Venezuela has announced it will begin formal talks with the opposition aimed at “strengthening democrac..."
+      },
+      {
+        "char": "🐂",
+        "label": "bull mascots rivalry in brazil",
+        "url": "https://www.nytimes.com/2026/07/14/world/americas/bull-mascots-red-blue-parintins-brazil.html",
+        "title": "A Heated Rivalry Over Bull Mascots Is Dividing a Brazilian Town",
+        "summary": "Deep in the Amazon rainforest, a heated rivalry has split a town for a century. It’s got nothing to do with sports or politics."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
