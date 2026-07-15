@@ -1,41 +1,41 @@
 {
   "date": "2026-07-15",
-  "timestamp": "2026-07-15T00:00:00Z",
+  "timestamp": "2026-07-15T10:05:05Z",
   "emojis": [
     {
-      "char": "🦖",
-      "label": "most expensive dinosaur sold",
-      "url": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss",
-      "title": "Tyrannosaurus rex most expensive dinosaur ever sold",
-      "summary": "The dinosaur skeleton, which roamed the planet 67 million years ago, was sold by Sotheby's in New York."
-    },
-    {
       "char": "📉",
-      "label": "china's growth misses target",
+      "label": "china economic growth falls sharply",
       "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
       "title": "China economic growth falls sharply, missing target",
       "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports."
     },
     {
-      "char": "🌮",
-      "label": "chipotle's plan in mexico mocked",
-      "url": "https://www.theguardian.com/world/2026/jul/14/derision-at-us-chain-chipotles-plan-to-sell-its-mexican-food-in-mexico",
-      "title": "Derision at US chain Chipotle’s plan to sell its Mexican food in Mexico",
-      "summary": "One social media user described the opening of its first outlet in Monterrey as ‘like the dog teaching a duck to fly’ A US chain’s plan to sell its version of Mexican food to Mexicans with a first branch south of the border has prompted..."
+      "char": "🛡️",
+      "label": "ukraine wants to make its own antimissile system",
+      "url": "https://www.nytimes.com/2026/07/14/world/europe/ukraine-fire-point-patriot-missiles.html",
+      "title": "Ukraine Wants to Make Its Own Antimissile System, Not Just Patriots",
+      "summary": "The Ukrainian firm Fire Point has produced weapons that hit Russian territory. Its next goal, developing an antimissile system, is a much bigger challenge, experts said."
     },
     {
-      "char": "📚",
-      "label": "debt vs education spending",
-      "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-      "summary": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same..."
+      "char": "⚖️",
+      "label": "mexico demands complaints over migrant deaths",
+      "url": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
+      "title": "Mexico to demand criminal complaints over migrants killed by ICE in US",
+      "summary": "Claudia Sheinbaum says Mexicans ‘outraged’ over killing last week of Lorenzo Salgado Araujo by agents in Houston Claudia Sheinbaum announced on Monday that Mexico would be demanding criminal complaints in the US for the deaths of more th..."
     },
     {
-      "char": "💔",
-      "label": "anger at earthquake response",
-      "url": "https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela",
-      "title": "‘God is punishing the politicians’: anger at earthquake response grows in Venezuela",
-      "summary": "Threat of social unrest rises as public indignation at lack of disaster aid comes on top of fallout from US military intervention • A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela Public anger at w..."
+      "char": "🔥",
+      "label": "six dead in brussels elevator fire",
+      "url": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
+      "title": "Six Dead in an Elevator After Fire in Central Brussels",
+      "summary": "After a fire broke out at the Oxy building in central Brussels on Tuesday morning, six bodies were found in an elevator."
+    },
+    {
+      "char": "🌍",
+      "label": "ebola treatment trial begins in drc",
+      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+      "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality rates There is no approved drug to help the medical teams scrabbling to save lives..."
     }
   ],
   "source": "ai-openai",
