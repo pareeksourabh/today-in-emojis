@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news highlights numerous distressing events, such as natural disasters, conflicts, and human rights issues, which evoke a sense of fear and concern for global well-being.",
+    "emotion_label": "😡",
+    "emoji": "😡",
+    "rationale": "Today's news is filled with anger and frustration over significant social injustices, tragic incidents, and government failures, highlighting a collective outrage across various countries.",
     "palette": [
       "😢",
       "😡",
