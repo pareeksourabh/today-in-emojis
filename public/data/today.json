@@ -1,43 +1,204 @@
 {
   "date": "2026-07-15",
-  "timestamp": "2026-07-15T17:00:29Z",
+  "timestamp": "2026-07-15T00:00:00Z",
   "emojis": [
     {
+      "char": "🇳🇬",
+      "label": "nigeria army kills 300 bandits",
+      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
+      "summary": "Vigilantes also took part in the fight that raged all night and the following morning, residents say Nigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, ac..."
+    },
+    {
+      "char": "💰",
+      "label": "trump pays e jean carroll damages",
+      "url": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+      "summary": "The president had sought to delay the payment as he tried to persuade the Supreme Court to overturn the judgement."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola treatment trial begins in drc",
+      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+      "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality rates There is no approved drug to help the medical teams scrabbling to save lives..."
+    },
+    {
+      "char": "🌍",
+      "label": "china purges top official over corruption",
+      "url": "https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html",
+      "title": "China Purges Top Official Over Corruption and Sex Charges",
+      "summary": "Ma Xingrui is the third member of the Politburo to be purged since 2022. He once led the Xinjiang region and was previously head of China’s space program."
+    },
+    {
+      "char": "🔥",
+      "label": "bangkok bar fire investigation ongoing",
+      "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
+      "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
+      "summary": "After a fire killed 30 people, the scrutiny has turned to whether the venue used flammable foam on its ceilings and had blocked exits."
+    },
+    {
+      "char": "🇺🇦",
+      "label": "ukraine's missile system plans",
+      "url": "https://www.nytimes.com/2026/07/14/world/europe/ukraine-fire-point-patriot-missiles.html",
+      "title": "Ukraine Wants to Make Its Own Antimissile System, Not Just Patriots",
+      "summary": "The Ukrainian firm Fire Point has produced weapons that hit Russian territory. Its next goal, developing an antimissile system, is a much bigger challenge, experts said."
+    },
+    {
+      "char": "🔥",
+      "label": "bangkok bar fire tragedy",
+      "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
+      "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
+      "summary": "After a fire killed 30 people, the scrutiny has turned to whether the venue used flammable foam on its ceilings and had blocked exits."
+    },
+    {
+      "char": "⚔️",
+      "label": "nigeria army kills bandits",
+      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
+      "summary": "Vigilantes also took part in the fight that raged all night and the following morning, residents say Nigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, ac..."
+    },
+    {
+      "char": "🚨",
+      "label": "fire kills six in brussels",
+      "url": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
+      "title": "Six Dead in an Elevator After Fire in Central Brussels",
+      "summary": "After a fire broke out at the Oxy building in central Brussels on Tuesday morning, six bodies were found in an elevator."
+    },
+    {
+      "char": "🛑",
+      "label": "mexico demands justice for migrants",
+      "url": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
+      "title": "Mexico to demand criminal complaints over migrants killed by ICE in US",
+      "summary": "Claudia Sheinbaum says Mexicans ‘outraged’ over killing last week of Lorenzo Salgado Araujo by agents in Houston Claudia Sheinbaum announced on Monday that Mexico would be demanding criminal complaints in the US for the deaths of more th..."
+    },
+    {
+      "char": "🦖",
+      "label": "most expensive dinosaur sold",
+      "url": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss",
+      "title": "Tyrannosaurus rex most expensive dinosaur ever sold",
+      "summary": "The dinosaur skeleton, which roamed the planet 67 million years ago, was sold by Sotheby's in New York."
+    },
+    {
       "char": "📉",
-      "label": "china's economic growth falls",
+      "label": "china's growth misses target",
       "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
       "title": "China economic growth falls sharply, missing target",
       "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports."
     },
     {
-      "char": "🤝",
-      "label": "venezuela talks with opposition",
-      "url": "https://www.bbc.co.uk/news/articles/c1eye5320g5o?at_medium=RSS&at_campaign=rss",
-      "title": "Venezuela government to launch formal talks with opposition members",
-      "summary": "The opposition says the aim of the talks is to strengthen the democratic institutions and the electoral system."
+      "char": "🌮",
+      "label": "chipotle's plan in mexico mocked",
+      "url": "https://www.theguardian.com/world/2026/jul/14/derision-at-us-chain-chipotles-plan-to-sell-its-mexican-food-in-mexico",
+      "title": "Derision at US chain Chipotle’s plan to sell its Mexican food in Mexico",
+      "summary": "One social media user described the opening of its first outlet in Monterrey as ‘like the dog teaching a duck to fly’ A US chain’s plan to sell its version of Mexican food to Mexicans with a first branch south of the border has prompted..."
     },
     {
-      "char": "🌍",
-      "label": "wildfires affect toronto's air",
-      "url": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
-      "title": "Wildfires in Ontario make Toronto air quality worst in world",
-      "summary": "Environment Canada has issued health warnings after sky over city turns yellow Smoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the current worst in the world and caused yellow, smoky air in c..."
+      "char": "📚",
+      "label": "debt vs education spending",
+      "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+      "summary": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same..."
+    },
+    {
+      "char": "💔",
+      "label": "anger at earthquake response",
+      "url": "https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela",
+      "title": "‘God is punishing the politicians’: anger at earthquake response grows in Venezuela",
+      "summary": "Threat of social unrest rises as public indignation at lack of disaster aid comes on top of fallout from US military intervention • A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela Public anger at w..."
+    },
+    {
+      "char": "🌿",
+      "label": "kenyan court dismisses cannabis bid",
+      "url": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
+      "title": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
+      "summary": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya."
+    },
+    {
+      "char": "🔥",
+      "label": "bangkok bar blaze reveals lapses",
+      "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
+      "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
+      "summary": "After a fire killed 30 people, the scrutiny has turned to whether the venue used flammable foam on its ceilings and had blocked exits."
+    },
+    {
+      "char": "🇱🇧",
+      "label": "lebanese hold fast to their land",
+      "url": "https://www.nytimes.com/2026/07/13/world/middleeast/lebanon-south-israel.html",
+      "title": "Lebanese Hold Fast to Their Land Despite Threat of Long Israeli Occupation",
+      "summary": "Entire towns in southern Lebanon have been hollowed out by the war between Israel and Hezbollah. Some residents have stayed, fearing permanent displacement."
+    },
+    {
+      "char": "⚖️",
+      "label": "mexico demands complaints over migrant deaths",
+      "url": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
+      "title": "Mexico to demand criminal complaints over migrants killed by ICE in US",
+      "summary": "Claudia Sheinbaum says Mexicans ‘outraged’ over killing last week of Lorenzo Salgado Araujo by agents in Houston Claudia Sheinbaum announced on Monday that Mexico would be demanding criminal complaints in the US for the deaths of more th..."
+    },
+    {
+      "char": "🤝",
+      "label": "venezuela's opposition begins talks",
+      "url": "https://www.theguardian.com/world/2026/jul/15/venezuela-interim-government-opposition-talks-democracy-maria-corina-machado",
+      "title": "Venezuela’s interim government and opposition to begin formal talks",
+      "summary": "Nobel laureate María Corina Machado will not lead negotiations over new elections, contrary to expectations The interim government of Venezuela has announced it will begin formal talks with the opposition aimed at “strengthening democrac..."
+    },
+    {
+      "char": "🌿",
+      "label": "kenya cannabis legalization bid fails",
+      "url": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
+      "title": "Rastafarians in Kenya fail in bid to get cannabis legalised for religious purposes",
+      "summary": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya."
     },
     {
       "char": "⚽",
-      "label": "argentina's world cup journey",
-      "url": "https://www.nytimes.com/2026/07/15/world/americas/argentina-world-cup-semifinals.html",
-      "title": "As Argentina Tries to Win the World Cup, the Rest of Latin America Cheers Against It",
-      "summary": "Rather than rally behind the tournament’s last Latin American team, other countries in the region are confronting Argentina’s fraught claims to its own identity."
+      "label": "argentina vs england world cup rivalry",
+      "url": "https://www.nytimes.com/2026/07/15/world/americas/argentina-england-rivalry-world-cup.html",
+      "title": "For Argentina, a World Cup Semifinal Against England Isn’t Just Soccer",
+      "summary": "Wednesday’s contest for a spot in the final carries the weight of a 1986 contentious clash, a war over the Falklands and a national mythology built around Diego Maradona."
     },
     {
-      "char": "🦠",
-      "label": "ebola treatment trial in drc",
-      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
-      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
-      "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality rates There is no approved drug to help the medical teams scrabbling to save lives..."
+      "char": "🔫",
+      "label": "nigeria army kills 300 bandits",
+      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
+      "summary": "Vigilantes also took part in the fight that raged all night and the following morning, residents say Nigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, ac..."
+    },
+    {
+      "char": "💻",
+      "label": "australia's ai energy regulations",
+      "url": "https://www.nytimes.com/2026/07/15/world/australia/albanese-artificial-intelligence-guardrails.html",
+      "title": "Australia to Impose Energy and Water Guardrails on Data Centers Amid A.I. Boom",
+      "summary": "The country will also seek to protect the rights of creators of work used to train artificial intelligence models, as it aims to impose parameters on the growing industry."
+    },
+    {
+      "char": "🔥",
+      "label": "wildfires affect toronto air quality",
+      "url": "https://www.nytimes.com/2026/07/15/world/canada/wildfire-smoke-toronto-ontario-northeast.html",
+      "title": "Wildfires Rage in Ontario as Smoke Affects Toronto’s Air Quality",
+      "summary": "Air quality in Canada’s largest city was at times the worst in the world on Wednesday, as wildfires across Ontario sent smoke drifting into New York City and beyond."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "The news highlights numerous distressing events, such as natural disasters, conflicts, and human rights issues, which evoke a sense of fear and concern for global well-being.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
