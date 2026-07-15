@@ -54911,5 +54911,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-15",
+    "emojis": [
+      {
+        "char": "🍍",
+        "label": "del monte farm killings in kenya",
+        "url": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s",
+        "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
+        "summary": "Exclusive: Three men killed in incidents over past year allegedly involving G4S guards, who replaced in-house team after previous deaths Bereaved families and politicians have raised alarm about continued killings on Del Monte’s pineappl..."
+      },
+      {
+        "char": "🌍",
+        "label": "tension at india-bangladesh border",
+        "url": "https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html",
+        "title": "Deportations by India Cause Tension Along Border with Bangladesh",
+        "summary": "India is driving out Bangladeshi immigrants it says are in the country illegally. Bangladesh is pushing back, leaving people stranded along the border amid increasing tensions between the countries."
+      },
+      {
+        "char": "🔥",
+        "label": "fire in central brussels kills six",
+        "url": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
+        "title": "Six Dead in an Elevator After Fire in Central Brussels",
+        "summary": "After a fire broke out at the Oxy building in central Brussels on Tuesday morning, six bodies were found in an elevator."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola treatment trial in drc",
+        "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+        "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+        "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality rates There is no approved drug to help the medical teams scrabbling to save lives..."
+      },
+      {
+        "char": "⚔️",
+        "label": "us-iran tensions over hormuz",
+        "url": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz",
+        "title": "U.S. and Iran Reignite War Over Strait of Hormuz",
+        "summary": "The two countries slid back to open war over the waterway, as the U.S. planned to reinstate a blockade on Iranian ports on Tuesday. Iran said it had attacked two tankers and fired at U.S. military sites."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
