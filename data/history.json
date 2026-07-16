@@ -55219,5 +55219,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-16",
+    "emojis": [
+      {
+        "char": "🎭",
+        "label": "actor sam neill dies from pneumonia",
+        "url": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
+        "title": "Actor Sam Neill died from pneumonia, agent confirms",
+        "summary": "Neill died in Sydney on Monday, with his family saying his death was 'sudden and unexpected'."
+      },
+      {
+        "char": "⚽",
+        "label": "argentina world cup semifinal excitement",
+        "url": "https://www.nytimes.com/2026/07/15/world/americas/argentina-world-cup-semifinals.html",
+        "title": "As Argentina Tries to Win the World Cup, the Rest of Latin America Cheers Against It",
+        "summary": "Rather than rally behind the tournament’s last Latin American team, other countries in the region are confronting Argentina’s fraught claims to its own identity."
+      },
+      {
+        "char": "🌍",
+        "label": "floods in west africa due to climate change",
+        "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
+        "title": "How global heating supercharged floods in West Africa, displacing thousands",
+        "summary": "Adaptation to frightening new normal and reducing emissions further and faster is critical, scientists warn Dozens of people drowned, hundreds had to be rescued and thousands were displaced when floods struck the coasts of west Africa la..."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires worsen toronto air quality",
+        "url": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
+        "title": "Wildfires in Ontario make Toronto air quality worst in world",
+        "summary": "Environment Canada has issued health warnings after sky over city turns yellow Smoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the current worst in the world and caused yellow, smoky air in c..."
+      },
+      {
+        "char": "⚔️",
+        "label": "iran targets us military bases",
+        "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+        "title": "Iran targets military bases as US launches wave of strikes",
+        "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
