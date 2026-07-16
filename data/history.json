@@ -55175,5 +55175,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-16",
+    "emojis": [
+      {
+        "char": "🇲🇽",
+        "label": "mexico investigates ice deaths",
+        "url": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths",
+        "title": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
+        "summary": "Since start of Trump’s second term, 14 Mexican immigrants have died in ICE custody and three in agency operations Mexico formally requested that US state attorneys general criminally investigate cases of immigrants who have died in Immig..."
+      },
+      {
+        "char": "🦧",
+        "label": "new monkey species found in dr congo",
+        "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+        "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
+        "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed."
+      },
+      {
+        "char": "🤝",
+        "label": "venezuela opposition talks begin",
+        "url": "https://www.theguardian.com/world/2026/jul/15/venezuela-interim-government-opposition-talks-democracy-maria-corina-machado",
+        "title": "Venezuela’s interim government and opposition to begin formal talks",
+        "summary": "Nobel laureate María Corina Machado will not lead negotiations over new elections, contrary to expectations The interim government of Venezuela has announced it will begin formal talks with the opposition aimed at “strengthening democrac..."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires worsen toronto air quality",
+        "url": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
+        "title": "Wildfires in Ontario make Toronto air quality worst in world",
+        "summary": "Environment Canada has issued health warnings after sky over city turns yellow Smoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the current worst in the world and caused yellow, smoky air in c..."
+      },
+      {
+        "char": "⚽",
+        "label": "argentina faces action for falklands banner",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+        "title": "Argentina face action after waving Falklands banner",
+        "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
