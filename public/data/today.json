@@ -1,27 +1,34 @@
 {
   "date": "2026-07-16",
-  "timestamp": "2026-07-16T00:00:00Z",
+  "timestamp": "2026-07-16T14:02:47Z",
   "emojis": [
     {
       "char": "🇺🇦",
-      "label": "mass protests in ukraine",
+      "label": "ukraine's defense minister ousted",
       "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html",
-      "title": "Mass Protests Across Ukraine Oppose Ouster of Defense Minister",
-      "summary": "Demonstrators demanded the reinstatement of Mykhailo Fedorov, who had come to symbolize Ukraine’s success in using drones to strike back against Russia."
+      "title": "Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard",
+      "summary": "Mykhailo Fedorov defended his efforts to modernize the Ukrainian armed forces as thousands of people protested his dismissal."
     },
     {
-      "char": "💻",
-      "label": "morocco's hacking software scandal",
-      "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
-      "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
-      "summary": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targets A former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insight into how the..."
+      "char": "🌍",
+      "label": "venezuela's opposition talks begin",
+      "url": "https://www.theguardian.com/world/2026/jul/15/venezuela-interim-government-opposition-talks-democracy-maria-corina-machado",
+      "title": "Venezuela’s interim government and opposition to begin formal talks",
+      "summary": "Nobel laureate María Corina Machado will not lead negotiations over new elections, contrary to expectations The interim government of Venezuela has announced it will begin formal talks with the opposition aimed at “strengthening democrac..."
     },
     {
       "char": "🔥",
-      "label": "wildfires worsen toronto air quality",
+      "label": "wildfires worsen toronto's air quality",
       "url": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
       "title": "Wildfires in Ontario make Toronto air quality worst in world",
       "summary": "Environment Canada has issued health warnings after sky over city turns yellow Smoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the current worst in the world and caused yellow, smoky air in c..."
+    },
+    {
+      "char": "🤖",
+      "label": "india's ai data center expansion",
+      "url": "https://www.nytimes.com/2026/07/16/world/asia/india-ai-data-centers-google.html",
+      "title": "India Is Moving Fast to Build A.I. Data Centers. A Coastal City May Pay the Price.",
+      "summary": "With India lagging in the technology, officials are embracing giant data centers. But critics say the megaprojects will use up energy and water, without providing long-term jobs."
     },
     {
       "char": "🦠",
@@ -29,13 +36,6 @@
       "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
       "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
       "summary": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the Congo Uganda has started lobbying countries to lift Ebola-related travel restrictions afte..."
-    },
-    {
-      "char": "🎬",
-      "label": "sam neill dies from pneumonia",
-      "url": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
-      "title": "Actor Sam Neill died from pneumonia, agent confirms",
-      "summary": "Neill died in Sydney on Monday, with his family saying his death was 'sudden and unexpected'."
     }
   ],
   "source": "ai-openai",
