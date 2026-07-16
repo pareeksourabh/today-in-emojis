@@ -55131,5 +55131,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-16",
+    "emojis": [
+      {
+        "char": "🇻🇪",
+        "label": "venezuela talks for democracy",
+        "url": "https://www.theguardian.com/world/2026/jul/15/venezuela-interim-government-opposition-talks-democracy-maria-corina-machado",
+        "title": "Venezuela’s interim government and opposition to begin formal talks",
+        "summary": "Nobel laureate María Corina Machado will not lead negotiations over new elections, contrary to expectations The interim government of Venezuela has announced it will begin formal talks with the opposition aimed at “strengthening democrac..."
+      },
+      {
+        "char": "🐒",
+        "label": "new monkey species found",
+        "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+        "title": "New monkey species with orange lips found 'hiding' in DRC forest",
+        "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed."
+      },
+      {
+        "char": "⚖️",
+        "label": "france approves assisted dying law",
+        "url": "https://www.nytimes.com/2026/07/15/world/europe/france-law-assisted-dying.html",
+        "title": "France Votes to Allow Assisted Dying",
+        "summary": "Lawmakers approved a bill that will allow doctors to help terminally ill patients to die, adding France to a short list of nations that allow the practice."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires affect toronto air quality",
+        "url": "https://www.nytimes.com/2026/07/15/world/canada/wildfire-smoke-toronto-ontario-northeast.html",
+        "title": "Wildfires Rage in Ontario as Smoke Affects Toronto’s Air Quality",
+        "summary": "Air quality in Canada’s largest city was at times the worst in the world on Wednesday, as wildfires across Ontario sent smoke drifting into New York City and beyond."
+      },
+      {
+        "char": "⚓",
+        "label": "deep sea shipwrecks recreated",
+        "url": "https://www.theguardian.com/science/2026/jul/15/deep-sea-expedition-builds-digital-twins-shipwrecks-scott-shackleton",
+        "title": "Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition",
+        "summary": "Canadian scientists visit remains of polar exploration vessels in ‘golden era for shipwreck investigating’ Moments after devouring the final glimmers of light, the seafloor offered nothing but darkness and silt. Then the bow appeared. Mo..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

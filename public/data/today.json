@@ -1,41 +1,41 @@
 {
   "date": "2026-07-16",
-  "timestamp": "2026-07-16T00:00:00Z",
+  "timestamp": "2026-07-16T01:49:21Z",
   "emojis": [
     {
-      "char": "🦧",
-      "label": "new monkey species found in drc",
+      "char": "🇻🇪",
+      "label": "venezuela talks for democracy",
+      "url": "https://www.theguardian.com/world/2026/jul/15/venezuela-interim-government-opposition-talks-democracy-maria-corina-machado",
+      "title": "Venezuela’s interim government and opposition to begin formal talks",
+      "summary": "Nobel laureate María Corina Machado will not lead negotiations over new elections, contrary to expectations The interim government of Venezuela has announced it will begin formal talks with the opposition aimed at “strengthening democrac..."
+    },
+    {
+      "char": "🐒",
+      "label": "new monkey species found",
       "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
       "title": "New monkey species with orange lips found 'hiding' in DRC forest",
       "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed."
     },
     {
-      "char": "🌊",
-      "label": "3d shipwrecks of shackleton and scott",
-      "url": "https://www.theguardian.com/science/2026/jul/15/deep-sea-expedition-builds-digital-twins-shipwrecks-scott-shackleton",
-      "title": "Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition",
-      "summary": "Canadian scientists visit remains of polar exploration vessels in ‘golden era for shipwreck investigating’ Moments after devouring the final glimmers of light, the seafloor offered nothing but darkness and silt. Then the bow appeared. Mo..."
-    },
-    {
-      "char": "🇳🇬",
-      "label": "nigeria army kills 300 bandits",
-      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-      "summary": "Vigilantes also took part in the fight that raged all night and the following morning, residents say Nigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, ac..."
-    },
-    {
-      "char": "🇫🇷",
-      "label": "france votes to allow assisted dying",
+      "char": "⚖️",
+      "label": "france approves assisted dying law",
       "url": "https://www.nytimes.com/2026/07/15/world/europe/france-law-assisted-dying.html",
       "title": "France Votes to Allow Assisted Dying",
       "summary": "Lawmakers approved a bill that will allow doctors to help terminally ill patients to die, adding France to a short list of nations that allow the practice."
     },
     {
       "char": "🔥",
-      "label": "wildfires in ontario affect air quality",
-      "url": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
-      "title": "Wildfires in Ontario make Toronto air quality worst in world",
-      "summary": "Environment Canada has issued health warnings after sky over city turns yellow Smoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the current worst in the world and caused yellow, smoky air in c..."
+      "label": "wildfires affect toronto air quality",
+      "url": "https://www.nytimes.com/2026/07/15/world/canada/wildfire-smoke-toronto-ontario-northeast.html",
+      "title": "Wildfires Rage in Ontario as Smoke Affects Toronto’s Air Quality",
+      "summary": "Air quality in Canada’s largest city was at times the worst in the world on Wednesday, as wildfires across Ontario sent smoke drifting into New York City and beyond."
+    },
+    {
+      "char": "⚓",
+      "label": "deep sea shipwrecks recreated",
+      "url": "https://www.theguardian.com/science/2026/jul/15/deep-sea-expedition-builds-digital-twins-shipwrecks-scott-shackleton",
+      "title": "Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition",
+      "summary": "Canadian scientists visit remains of polar exploration vessels in ‘golden era for shipwreck investigating’ Moments after devouring the final glimmers of light, the seafloor offered nothing but darkness and silt. Then the bow appeared. Mo..."
     }
   ],
   "source": "ai-openai",
