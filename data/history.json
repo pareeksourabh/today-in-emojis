@@ -55307,5 +55307,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-16",
+    "emojis": [
+      {
+        "char": "⚔️",
+        "label": "us and iran escalate tensions",
+        "url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
+        "title": "Iran War Live Updates: U.S. and Iran Escalate Attacks, While Hinting at Diplomacy",
+        "summary": "As the renewed fighting entered its sixth day, both sides appeared to leave the door open to more negotiations to end the war."
+      },
+      {
+        "char": "🔥",
+        "label": "firefighter suspected of arson",
+        "url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
+        "title": "Volunteer firefighter suspected of starting devastating France forest fire",
+        "summary": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves."
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukraine defense minister protests",
+        "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html",
+        "title": "Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard",
+        "summary": "Mykhailo Fedorov defended his efforts to modernize the Ukrainian armed forces as thousands of people protested his dismissal."
+      },
+      {
+        "char": "🏆",
+        "label": "argentina celebrates world cup win",
+        "url": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
+        "title": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner",
+        "summary": "Banner refers to Falkland Islands conflict in 1982 UK business secretary calls for Fifa investigation The Argentina players celebrated their World Cup win over England with a banner saying “ Las Malvinas son Argentinas ”, making referenc..."
+      },
+      {
+        "char": "🌍",
+        "label": "air quality worsens from wildfires",
+        "url": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
+        "title": "Air quality plummets in 20 states as smoke from Canadian wildfires spreads across the US",
+        "summary": "Millions of Americans face air quality alerts from Minnesota to New York as authorities urge people to stay indoors Sign up for the Breaking News US newsletter email Smoke from wildfires burning in south-central Canada and parts of Minne..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
