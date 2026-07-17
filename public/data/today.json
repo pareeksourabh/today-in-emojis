@@ -1,41 +1,41 @@
 {
   "date": "2026-07-17",
-  "timestamp": "2026-07-17T01:52:55Z",
+  "timestamp": "2026-07-17T00:00:00Z",
   "emojis": [
     {
+      "char": "🇺🇦",
+      "label": "ukraine defense minister protests",
+      "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html",
+      "title": "Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard",
+      "summary": "Mykhailo Fedorov defended his efforts to modernize the Ukrainian armed forces as thousands of people protested his dismissal."
+    },
+    {
       "char": "🏗️",
-      "label": "italian officials jailed for bridge disaster",
-      "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
-      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
-      "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse."
+      "label": "italy bridge collapse sentence",
+      "url": "https://www.nytimes.com/2026/07/16/world/europe/italy-bridge-verdict-morandi-collapse.html",
+      "title": "Highway Executive Given 12-Year Sentence Over Deadly Bridge Collapse in Italy",
+      "summary": "Giovanni Castellucci oversaw a company that managed the Morandi Bridge in Genoa when it fell down in 2018, killing 43 people."
     },
     {
-      "char": "📰",
-      "label": "mykhailo fedorov ousted as defense minister",
-      "url": "https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html",
-      "title": "What to Know About Mykhailo Fedorov, Ukraine’s Ousted Defense Minister",
-      "summary": "Mr. Fedorov became the youthful face of Ukraine’s successful drone warfare program. The move to replace him has prompted street protests."
-    },
-    {
-      "char": "🇮🇱",
-      "label": "israel pushes through divisive laws",
-      "url": "https://www.nytimes.com/2026/07/16/world/middleeast/israel-divisive-new-laws.html",
-      "title": "Israeli Government Pushes Through Divisive Laws Before Election",
-      "summary": "Prime Minister Benjamin Netanyahu backed a series of laws undermining legal oversight of the government, benefiting allied media outlets and aiming to shore up ultra-Orthodox political support."
+      "char": "🌍",
+      "label": "floods in west africa",
+      "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
+      "title": "How global heating supercharged floods in West Africa, displacing thousands",
+      "summary": "Adaptation to frightening new normal and reducing emissions further and faster is critical, scientists warn Dozens of people drowned, hundreds had to be rescued and thousands were displaced when floods struck the coasts of west Africa la..."
     },
     {
       "char": "🔥",
-      "label": "wildfires in ontario worsen air quality",
-      "url": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
-      "title": "Wildfires in Ontario make Toronto air quality worst in world",
-      "summary": "Environment Canada has issued health warnings after sky over city turns yellow Smoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the current worst in the world and caused yellow, smoky air in c..."
+      "label": "wildfires affect air quality",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
+      "title": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
+      "summary": "Millions of Americans face air quality alerts from Minnesota to New York as authorities urge people to stay indoors Sign up for the Breaking News US newsletter email Tell us: have you been affected by the spread of wildfire smoke in the..."
     },
     {
-      "char": "🧑‍⚕️",
-      "label": "orphanage fire kills eleven in algeria",
-      "url": "https://www.nytimes.com/2026/07/16/world/africa/algeria-orphanage-fire.html",
-      "title": "Orphanage Fire Kills Eleven in Algeria",
-      "summary": "The fire on Thursday morning at an orphanage near the nation’s capital killed 11 people, including children, and injured a dozen, the authorities said."
+      "char": "🦠",
+      "label": "uganda ebola patient discharged",
+      "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+      "summary": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the Congo Uganda has started lobbying countries to lift Ebola-related travel restrictions afte..."
     }
   ],
   "source": "ai-openai",
