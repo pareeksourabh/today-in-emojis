@@ -55395,5 +55395,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-17",
+    "emojis": [
+      {
+        "char": "🏗️",
+        "label": "bridge collapse sentencing in italy",
+        "url": "https://www.nytimes.com/2026/07/16/world/europe/italy-bridge-verdict-morandi-collapse.html",
+        "title": "Highway Executive Given 12-Year Sentence Over Deadly Bridge Collapse in Italy",
+        "summary": "Giovanni Castellucci oversaw a company that managed the Morandi Bridge in Genoa when it fell down in 2018, killing 43 people."
+      },
+      {
+        "char": "🦠",
+        "label": "uganda lifts travel restrictions after ebola",
+        "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+        "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+        "summary": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the Congo Uganda has started lobbying countries to lift Ebola-related travel restrictions afte..."
+      },
+      {
+        "char": "🌍",
+        "label": "wildfires affect air quality in us",
+        "url": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
+        "title": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
+        "summary": "Millions of Americans face air quality alerts from Minnesota to New York as authorities urge people to stay indoors Sign up for the Breaking News US newsletter email Tell us: have you been affected by the spread of wildfire smoke in the..."
+      },
+      {
+        "char": "⚖️",
+        "label": "israel passes divisive new laws",
+        "url": "https://www.nytimes.com/2026/07/16/world/middleeast/israel-divisive-new-laws.html",
+        "title": "Israeli Government Pushes Through Divisive Laws Before Election",
+        "summary": "Prime Minister Benjamin Netanyahu backed a series of laws undermining legal oversight of the government, benefiting allied media outlets and aiming to shore up ultra-Orthodox political support."
+      },
+      {
+        "char": "🔥",
+        "label": "floods in west africa displace thousands",
+        "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
+        "title": "How global heating supercharged floods in West Africa, displacing thousands",
+        "summary": "Adaptation to frightening new normal and reducing emissions further and faster is critical, scientists warn Dozens of people drowned, hundreds had to be rescued and thousands were displaced when floods struck the coasts of west Africa la..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
