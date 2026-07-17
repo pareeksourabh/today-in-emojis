@@ -1,21 +1,7 @@
 {
   "date": "2026-07-17",
-  "timestamp": "2026-07-17T13:47:04Z",
+  "timestamp": "2026-07-17T00:00:00Z",
   "emojis": [
-    {
-      "char": "🏆",
-      "label": "world cup celebration in argentina",
-      "url": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
-      "title": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner",
-      "summary": "Banner refers to Falkland Islands conflict in 1982 UK business secretary calls for Fifa investigation The Argentina players celebrated their World Cup win over England with a banner saying “ Las Malvinas son Argentinas ”, making referenc..."
-    },
-    {
-      "char": "🗳️",
-      "label": "russian political battle",
-      "url": "https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html",
-      "title": "A Russian Political Battle Ends With a Visit From Masked Men",
-      "summary": "Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”"
-    },
     {
       "char": "🌫️",
       "label": "smoke from canadian wildfires",
@@ -24,18 +10,32 @@
       "summary": "Millions of Americans face air quality alerts from Minnesota to New York as authorities urge people to stay indoors Sign up for the Breaking News US newsletter email Tell us: have you been affected by the spread of wildfire smoke in the..."
     },
     {
-      "char": "🔥",
-      "label": "extreme heat and forest fires in france",
-      "url": "https://www.nytimes.com/2026/07/17/france-forest-fires-extreme-heat.html",
-      "title": "As Blazes Spread Near Paris, Extreme Heat Is Changing How France Fights Fires",
-      "summary": "Until recently, France’s forest fires were mostly in the south. This week, fires are raging much farther north. France is having to rethink its firefighting strategy."
+      "char": "🚴‍♂️",
+      "label": "cyclist admits to crash",
+      "url": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss",
+      "title": "Olympic cyclist admits to driving despite ban after crash that killed wife",
+      "summary": "Rohan Dennis pleaded guilty to driving while disqualified after police pulled him over last month."
+    },
+    {
+      "char": "🇨🇺",
+      "label": "cuban dissident missing",
+      "url": "https://www.nytimes.com/2026/07/17/world/americas/luis-manuel-otero-alcantara-cuba-missing-exile.html",
+      "title": "Cuban Dissident Is Missing A Week After Prison Release",
+      "summary": "A Cuban artist awaiting permission from the Trump administration to enter the United States is being held in an unknown location in Cuba."
+    },
+    {
+      "char": "🦠",
+      "label": "new ebola patient in germany",
+      "url": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
+      "title": "New US Ebola patient arrives in Germany for treatment",
+      "summary": "Aid worker flown to Berlin as Trump administration bars Americans from traveling to US on commercial flights A US national who contracted Ebola in the Democratic Republic of the Congo has arrived in Germany for treatment, the health mini..."
     },
     {
       "char": "🌍",
-      "label": "floods in west africa",
-      "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
-      "title": "How global heating supercharged floods in West Africa, displacing thousands",
-      "summary": "Adaptation to frightening new normal and reducing emissions further and faster is critical, scientists warn Dozens of people drowned, hundreds had to be rescued and thousands were displaced when floods struck the coasts of west Africa la..."
+      "label": "morocco hacking software revealed",
+      "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+      "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
+      "summary": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targets A former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insight into how the..."
     }
   ],
   "source": "ai-openai",
