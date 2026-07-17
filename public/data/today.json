@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Worry",
-    "emoji": "😨",
-    "rationale": "The day’s news items reflect significant distressing events, including severe weather impacts and geopolitical tensions, leading to a collective sense of worry.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day's news reflects a sense of sadness and concern, with devastating floods, wildfires affecting air quality, and tragic incidents like the orphanage fire in Algeria. These stories highlight the ongoing struggles faced by communities, m",
     "palette": [
       "😢",
       "😡",
