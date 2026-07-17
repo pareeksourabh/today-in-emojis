@@ -1,41 +1,41 @@
 {
   "date": "2026-07-17",
-  "timestamp": "2026-07-17T06:21:28Z",
+  "timestamp": "2026-07-17T00:00:00Z",
   "emojis": [
     {
-      "char": "🏗️",
-      "label": "bridge collapse sentencing in italy",
-      "url": "https://www.nytimes.com/2026/07/16/world/europe/italy-bridge-verdict-morandi-collapse.html",
-      "title": "Highway Executive Given 12-Year Sentence Over Deadly Bridge Collapse in Italy",
-      "summary": "Giovanni Castellucci oversaw a company that managed the Morandi Bridge in Genoa when it fell down in 2018, killing 43 people."
-    },
-    {
-      "char": "🦠",
-      "label": "uganda lifts travel restrictions after ebola",
-      "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
-      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
-      "summary": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the Congo Uganda has started lobbying countries to lift Ebola-related travel restrictions afte..."
-    },
-    {
       "char": "🌍",
-      "label": "wildfires affect air quality in us",
+      "label": "floods in west africa displace thousands",
+      "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
+      "title": "How global heating supercharged floods in West Africa, displacing thousands",
+      "summary": "Adaptation to frightening new normal and reducing emissions further and faster is critical, scientists warn Dozens of people drowned, hundreds had to be rescued and thousands were displaced when floods struck the coasts of west Africa la..."
+    },
+    {
+      "char": "💨",
+      "label": "smoke from wildfires affects us air quality",
       "url": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
       "title": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
       "summary": "Millions of Americans face air quality alerts from Minnesota to New York as authorities urge people to stay indoors Sign up for the Breaking News US newsletter email Tell us: have you been affected by the spread of wildfire smoke in the..."
     },
     {
-      "char": "⚖️",
-      "label": "israel passes divisive new laws",
-      "url": "https://www.nytimes.com/2026/07/16/world/middleeast/israel-divisive-new-laws.html",
-      "title": "Israeli Government Pushes Through Divisive Laws Before Election",
-      "summary": "Prime Minister Benjamin Netanyahu backed a series of laws undermining legal oversight of the government, benefiting allied media outlets and aiming to shore up ultra-Orthodox political support."
+      "char": "🇧🇷",
+      "label": "brazil threatens retaliation over us tariffs",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
+      "title": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products",
+      "summary": "President Lula’s office says US move is result of pressure on White House by family of predecessor Jair Bolsonaro Brazil has vowed to retaliate against Washington’s decision to impose 25% tariffs on imports of some Brazilian products. Th..."
+    },
+    {
+      "char": "🧑‍💻",
+      "label": "india's rapid ai data center expansion",
+      "url": "https://www.nytimes.com/2026/07/16/world/asia/india-ai-data-centers-google.html",
+      "title": "India Is Moving Fast to Build A.I. Data Centers. A Coastal City May Pay the Price.",
+      "summary": "With India lagging in the technology, officials are embracing giant data centers. But critics say the megaprojects will use up energy and water, without providing long-term jobs."
     },
     {
       "char": "🔥",
-      "label": "floods in west africa displace thousands",
-      "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
-      "title": "How global heating supercharged floods in West Africa, displacing thousands",
-      "summary": "Adaptation to frightening new normal and reducing emissions further and faster is critical, scientists warn Dozens of people drowned, hundreds had to be rescued and thousands were displaced when floods struck the coasts of west Africa la..."
+      "label": "orphanage fire kills eleven in algeria",
+      "url": "https://www.nytimes.com/2026/07/16/world/africa/algeria-orphanage-fire.html",
+      "title": "Orphanage Fire Kills Eleven in Algeria",
+      "summary": "The fire on Thursday morning at an orphanage near the nation’s capital killed 11 people, including children, and injured a dozen, the authorities said."
     }
   ],
   "source": "ai-openai",
