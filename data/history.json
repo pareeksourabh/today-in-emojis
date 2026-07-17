@@ -55351,5 +55351,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-17",
+    "emojis": [
+      {
+        "char": "🏗️",
+        "label": "italian officials jailed for bridge disaster",
+        "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+        "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+        "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse."
+      },
+      {
+        "char": "📰",
+        "label": "mykhailo fedorov ousted as defense minister",
+        "url": "https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html",
+        "title": "What to Know About Mykhailo Fedorov, Ukraine’s Ousted Defense Minister",
+        "summary": "Mr. Fedorov became the youthful face of Ukraine’s successful drone warfare program. The move to replace him has prompted street protests."
+      },
+      {
+        "char": "🇮🇱",
+        "label": "israel pushes through divisive laws",
+        "url": "https://www.nytimes.com/2026/07/16/world/middleeast/israel-divisive-new-laws.html",
+        "title": "Israeli Government Pushes Through Divisive Laws Before Election",
+        "summary": "Prime Minister Benjamin Netanyahu backed a series of laws undermining legal oversight of the government, benefiting allied media outlets and aiming to shore up ultra-Orthodox political support."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires in ontario worsen air quality",
+        "url": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
+        "title": "Wildfires in Ontario make Toronto air quality worst in world",
+        "summary": "Environment Canada has issued health warnings after sky over city turns yellow Smoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the current worst in the world and caused yellow, smoky air in c..."
+      },
+      {
+        "char": "🧑‍⚕️",
+        "label": "orphanage fire kills eleven in algeria",
+        "url": "https://www.nytimes.com/2026/07/16/world/africa/algeria-orphanage-fire.html",
+        "title": "Orphanage Fire Kills Eleven in Algeria",
+        "summary": "The fire on Thursday morning at an orphanage near the nation’s capital killed 11 people, including children, and injured a dozen, the authorities said."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
