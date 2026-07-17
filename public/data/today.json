@@ -1,41 +1,41 @@
 {
   "date": "2026-07-17",
-  "timestamp": "2026-07-17T10:00:23Z",
+  "timestamp": "2026-07-17T00:00:00Z",
   "emojis": [
     {
+      "char": "🕊️",
+      "label": "chinese pastor's journey to freedom",
+      "url": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
+      "title": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
+      "summary": "In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping."
+    },
+    {
       "char": "🇧🇷",
-      "label": "brazil vows to retaliate against us tariffs",
+      "label": "brazil threatens retaliation over tariffs",
       "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
       "title": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products",
       "summary": "President Lula’s office says US move is result of pressure on White House by family of predecessor Jair Bolsonaro Brazil has vowed to retaliate against Washington’s decision to impose 25% tariffs on imports of some Brazilian products. Th..."
     },
     {
-      "char": "🔥",
-      "label": "canada fires prompt us air quality alerts",
-      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-      "title": "Canada fires prompt US air quality alerts as smoke blankets major cities",
-      "summary": "Smoke from more than 800 blazes has filled major cities from Toronto and New York, to parts of the US Midwest and Great Lakes."
-    },
-    {
-      "char": "🚸",
-      "label": "school bus crash kills 20 pupils in uganda",
-      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
-      "title": "School bus crash kills at least 20 pupils in Uganda",
-      "summary": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault."
-    },
-    {
-      "char": "🌍",
-      "label": "venezuela earthquakes force grim homecoming",
-      "url": "https://www.nytimes.com/2026/07/17/world/americas/venezuela-earthquakes-families-migration.html",
-      "title": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
-      "summary": "Mass migration, which defines modern Venezuela, has heavily marked the earthquake, too, saving many who had left, but also making their grief harder."
-    },
-    {
       "char": "🦠",
-      "label": "moroccan insider reveals use of hacking software",
+      "label": "morocco's use of hacking software revealed",
       "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
       "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
       "summary": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targets A former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insight into how the..."
+    },
+    {
+      "char": "🔥",
+      "label": "wildfires worsen air quality in toronto",
+      "url": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
+      "title": "Wildfires in Ontario make Toronto air quality worst in world",
+      "summary": "Environment Canada has issued health warnings after sky over city turns yellow Smoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the current worst in the world and caused yellow, smoky air in c..."
+    },
+    {
+      "char": "🌊",
+      "label": "venezuela earthquakes force migrant return",
+      "url": "https://www.nytimes.com/2026/07/17/world/americas/venezuela-earthquakes-families-migration.html",
+      "title": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
+      "summary": "Mass migration, which defines modern Venezuela, has heavily marked the earthquake, too, saving many who had left, but also making their grief harder."
     }
   ],
   "source": "ai-openai",
