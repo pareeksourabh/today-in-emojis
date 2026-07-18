@@ -1,30 +1,9 @@
 {
   "date": "2026-07-18",
-  "timestamp": "2026-07-18T00:00:00Z",
+  "timestamp": "2026-07-18T16:40:29Z",
   "emojis": [
     {
-      "char": "🇨🇺",
-      "label": "cuba faces societal breakdown",
-      "url": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
-      "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
-      "summary": "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growing When Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities..."
-    },
-    {
-      "char": "🚍",
-      "label": "iqaluit gets its first bus line",
-      "url": "https://www.nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html",
-      "title": "Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line",
-      "summary": "Jacinto Marques left Angola for Canada’s frozen edge. Now he’s running a bus service in Iqaluit, the largest, and only city in Canada’s Arctic."
-    },
-    {
-      "char": "🔥",
-      "label": "canadian wildfire smoke affects us",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
-      "title": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
-      "summary": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the US Sign up for the Breaking News US newsletter email Tens of millions of Americans are enduring another day of smoky skies , irritate..."
-    },
-    {
-      "char": "🎭",
+      "char": "🎨",
       "label": "ghana's film posters as art",
       "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
       "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
@@ -32,10 +11,31 @@
     },
     {
       "char": "⚽",
-      "label": "argentina's world cup banner support",
-      "url": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final",
-      "title": "White House backs Argentina players over Falklands banner in World Cup semi-final",
-      "summary": "White House Fifa taskforce chief defends Argentina footballers, saying US believes in free speech The White House has backed Argentina’s footballers who displayed a banner supporting their country’s claim to the Falklands Islands after t..."
+      "label": "argentina's fan base in bangladesh",
+      "url": "https://www.nytimes.com/2026/07/18/world/asia/world-cup-bangladesh-argentina-fans.html",
+      "title": "In Bangladesh, Argentina’s Soccer Team Finds a Huge Fan Base",
+      "summary": "Bangladesh has never qualified for the World Cup. But every four years, many in the country adopt Argentina’s team as their own."
+    },
+    {
+      "char": "🇨🇺",
+      "label": "cuba's societal breakdown",
+      "url": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
+      "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
+      "summary": "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growing When Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities..."
+    },
+    {
+      "char": "🦠",
+      "label": "uganda's ebola patient discharged",
+      "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+      "summary": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the Congo Uganda has started lobbying countries to lift Ebola-related travel restrictions afte..."
+    },
+    {
+      "char": "🌍",
+      "label": "air quality warnings in us",
+      "url": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
+      "title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
+      "summary": "Rain could alleviate conditions in mid-Atlantic and north-east, with World Cup final expected to go ahead on Sunday Warnings of dangerous conditions are expected to remain in place on Saturday across swathes of the US, amid uncertainty a..."
     }
   ],
   "source": "ai-openai",

@@ -55747,5 +55747,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-18",
+    "emojis": [
+      {
+        "char": "🎨",
+        "label": "ghana's film posters as art",
+        "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+        "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+        "summary": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra, He..."
+      },
+      {
+        "char": "⚽",
+        "label": "argentina's fan base in bangladesh",
+        "url": "https://www.nytimes.com/2026/07/18/world/asia/world-cup-bangladesh-argentina-fans.html",
+        "title": "In Bangladesh, Argentina’s Soccer Team Finds a Huge Fan Base",
+        "summary": "Bangladesh has never qualified for the World Cup. But every four years, many in the country adopt Argentina’s team as their own."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuba's societal breakdown",
+        "url": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
+        "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
+        "summary": "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growing When Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities..."
+      },
+      {
+        "char": "🦠",
+        "label": "uganda's ebola patient discharged",
+        "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+        "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+        "summary": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the Congo Uganda has started lobbying countries to lift Ebola-related travel restrictions afte..."
+      },
+      {
+        "char": "🌍",
+        "label": "air quality warnings in us",
+        "url": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
+        "title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
+        "summary": "Rain could alleviate conditions in mid-Atlantic and north-east, with World Cup final expected to go ahead on Sunday Warnings of dangerous conditions are expected to remain in place on Saturday across swathes of the US, amid uncertainty a..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
