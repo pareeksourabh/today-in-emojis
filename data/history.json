@@ -55571,5 +55571,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-18",
+    "emojis": [
+      {
+        "char": "🌊",
+        "label": "earthquake and tsunami threat",
+        "url": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html",
+        "title": "7.3-Magnitude Earthquake Off Coast of Mexico and Guatemala Poses Tsunami Threat",
+        "summary": "A powerful earthquake near the border of Mexico and Guatemala raised fears of a tsunami and shook buildings across three countries."
+      },
+      {
+        "char": "🏠",
+        "label": "venezuela earthquakes impact",
+        "url": "https://www.nytimes.com/2026/07/17/world/americas/venezuela-earthquakes-families-migration.html",
+        "title": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
+        "summary": "Mass migration, which defines modern Venezuela, has heavily marked the earthquake, too, saving many who had left, but also making their grief harder."
+      },
+      {
+        "char": "✈️",
+        "label": "chinese pastor's journey to freedom",
+        "url": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
+        "title": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
+        "summary": "In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping."
+      },
+      {
+        "char": "🦠",
+        "label": "uganda lifts travel restrictions",
+        "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+        "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+        "summary": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the Congo Uganda has started lobbying countries to lift Ebola-related travel restrictions afte..."
+      },
+      {
+        "char": "🖥️",
+        "label": "morocco's hacking software revealed",
+        "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+        "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
+        "summary": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targets A former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insight into how the..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
