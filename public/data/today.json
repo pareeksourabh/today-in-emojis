@@ -1,34 +1,27 @@
 {
   "date": "2026-07-18",
-  "timestamp": "2026-07-18T00:00:00Z",
+  "timestamp": "2026-07-18T13:24:34Z",
   "emojis": [
     {
-      "char": "🕊️",
+      "char": "🌍",
+      "label": "eu proposes slowing carbon cuts",
+      "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "summary": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output."
+    },
+    {
+      "char": "✊",
       "label": "anti-war critic fined in russia",
       "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
       "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
       "summary": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody."
     },
     {
-      "char": "🚨",
+      "char": "🍽️",
       "label": "indian activist hunger strike police",
       "url": "https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html",
       "title": "Indian Activist on Hunger Strike Is Forcibly Removed by Police",
       "summary": "The activist, Sonam Wangchuk, started his strike last month as part of a protest over educational mismanagement that has affected millions of students."
-    },
-    {
-      "char": "🇦🇷",
-      "label": "white house defends argentina team",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
-      "title": "White House defends Argentina team over Falklands banner",
-      "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate."
-    },
-    {
-      "char": "🦠",
-      "label": "americans quarantined in kenya ebola",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
-      "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
-      "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya afte..."
     },
     {
       "char": "⚽",
@@ -36,6 +29,13 @@
       "url": "https://www.nytimes.com/2026/07/18/world/europe/spain-lamine-yamal.html",
       "title": "Lamine Yamal, Soccer Star and Son of African Migrants, Personifies a Changing Spain",
       "summary": "As he prepares for the World Cup final, Lamine Yamal, 19, is at the heart of a national debate about what it means to be Spanish in an increasingly multicultural society."
+    },
+    {
+      "char": "🔥",
+      "label": "canadian wildfires affect air quality",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
+      "title": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
+      "summary": "Millions of Americans face air quality alerts from Minnesota to New York as authorities urge people to stay indoors Sign up for the Breaking News US newsletter email Tell us: have you been affected by the spread of wildfire smoke in the..."
     }
   ],
   "source": "ai-openai",
