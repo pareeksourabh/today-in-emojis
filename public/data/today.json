@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Worry",
-    "emoji": "😨",
-    "rationale": "The news reflects significant global unrest, environmental disasters, and health emergencies, creating an overall sense of worry and anxiety about the state of the world.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day is marked by distressing events, including war updates, natural disasters, and public health concerns, reflecting a somber global atmosphere.",
     "palette": [
       "😢",
       "😡",
