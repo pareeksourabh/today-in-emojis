@@ -55967,5 +55967,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-19",
+    "emojis": [
+      {
+        "char": "🇬🇧",
+        "label": "very british cpac event",
+        "url": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
+        "title": "A Very British CPAC: Few, if Any, Costumes and Not Much Trump",
+        "summary": "London hosted an understated version of the Conservative Political Action Conference, known in the United States for its over-the-top celebration of MAGA causes."
+      },
+      {
+        "char": "🚀",
+        "label": "russia missile attack on ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+        "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+        "summary": "Five people are killed and at least 35 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure."
+      },
+      {
+        "char": "🎨",
+        "label": "cuban artist cleared to travel",
+        "url": "https://www.theguardian.com/world/2026/jul/17/cuban-dissident-artist-luis-manuel-otero-alcantara-cleared-to-travel-to-us",
+        "title": "Cuban dissident artist Luis Manuel Otero Alcántara cleared to travel to US",
+        "summary": "Whereabouts of artist imprisoned after 2021 protests had been unknown following end of his prison term in July Luis Manuel Otero Alcántara, a prominent Cuban dissident artist whose whereabouts remained unknown after his prison sentence e..."
+      },
+      {
+        "char": "🌧️",
+        "label": "flash floods in northeast us",
+        "url": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
+        "title": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
+        "summary": "Poor air quality from wildfires continues to plague New York City as several neighborhoods hit by thunderstorms Saturday is delivering a double dose of dangerous weather across the north-eastern US, with smoky skies from Canadian wildfir..."
+      },
+      {
+        "char": "⚽",
+        "label": "white house backs argentina team",
+        "url": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final",
+        "title": "White House backs Argentina players over Falklands banner in World Cup semi-final",
+        "summary": "White House Fifa taskforce chief defends Argentina footballers, saying US believes in free speech The White House has backed Argentina’s footballers who displayed a banner supporting their country’s claim to the Falkland Islands after th..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
