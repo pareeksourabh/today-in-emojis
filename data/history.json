@@ -55879,5 +55879,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-19",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "americans quarantined in kenya",
+        "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
+        "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
+        "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya afte..."
+      },
+      {
+        "char": "👖",
+        "label": "tokyo's shorts policy debate",
+        "url": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
+        "title": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan",
+        "summary": "The Tokyo government is allowing workers to wear shorts for the first time this summer, prompting delicate questions about etiquette and hairy legs."
+      },
+      {
+        "char": "💥",
+        "label": "us strikes after iranian attack",
+        "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+        "title": "U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers",
+        "summary": "The soldiers, killed in Jordan, were the first U.S. troops to die from hostile fire since an April truce. U.S. forces began retaliatory strikes early Sunday."
+      },
+      {
+        "char": "🇩🇪",
+        "label": "german official resigns over surrogacy",
+        "url": "https://www.nytimes.com/2026/07/18/world/europe/jens-spahn-surrogacy-germany.html",
+        "title": "Uproar Over Surrogate Baby Prompts German Official’s Sudden Resignation",
+        "summary": "Jens Spahn, a top leader of Chancellor Friedrich Merz’s party, resigned his post after announcing that he had a baby by surrogate, which is illegal in Germany."
+      },
+      {
+        "char": "🌧️",
+        "label": "flash floods in north-east us",
+        "url": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
+        "title": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
+        "summary": "Poor air quality from wildfires continues to plague New York City as several neighborhoods hit by thunderstorms Saturday is delivering a double dose of dangerous weather across the north-eastern US, with smoky skies from Canadian wildfir..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
