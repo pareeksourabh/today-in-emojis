@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
+    "emotion_label": "Concern",
     "emoji": "😨",
-    "rationale": "The day is marked by significant issues such as air quality warnings due to wildfires and political unrest, suggesting a general atmosphere of unease and concern.",
+    "rationale": "The day is marked by severe air quality issues and wildfires, raising significant health and environmental concerns across the US and Canada. Additionally, troubling political developments and protests indicate a climate of unrest.",
     "palette": [
       "😢",
       "😡",
