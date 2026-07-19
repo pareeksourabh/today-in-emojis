@@ -55923,5 +55923,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-19",
+    "emojis": [
+      {
+        "char": "🇩🇪",
+        "label": "german politician resigns over surrogacy",
+        "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
+        "title": "German politician resigns over surrogacy child controversy",
+        "summary": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed."
+      },
+      {
+        "char": "🚌",
+        "label": "iqaluit gets its first bus line",
+        "url": "https://www.nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html",
+        "title": "Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line",
+        "summary": "Jacinto Marques left Angola for Canada’s frozen edge. Now he’s running a bus service in Iqaluit, the largest, and only city in Canada’s Arctic."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuban artist cleared to travel to us",
+        "url": "https://www.theguardian.com/world/2026/jul/17/cuban-dissident-artist-luis-manuel-otero-alcantara-cleared-to-travel-to-us",
+        "title": "Cuban dissident artist Luis Manuel Otero Alcántara cleared to travel to US",
+        "summary": "Whereabouts of artist imprisoned after 2021 protests had been unknown following end of his prison term in July Luis Manuel Otero Alcántara, a prominent Cuban dissident artist whose whereabouts remained unknown after his prison sentence e..."
+      },
+      {
+        "char": "🚀",
+        "label": "india launches first commercial rocket",
+        "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+        "title": "Space start-up launches India’s first commercial rocket designed for orbit",
+        "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday."
+      },
+      {
+        "char": "🌍",
+        "label": "uganda lifts travel restrictions after ebola",
+        "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+        "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+        "summary": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the Congo Uganda has started lobbying countries to lift Ebola-related travel restrictions afte..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
