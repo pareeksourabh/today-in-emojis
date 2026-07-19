@@ -55791,5 +55791,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-19",
+    "emojis": [
+      {
+        "char": "🕵️‍♂",
+        "label": "morocco's hacking scandal",
+        "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+        "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
+        "summary": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targets A former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insight into how the..."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuba's societal crisis",
+        "url": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
+        "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
+        "summary": "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growing When Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities..."
+      },
+      {
+        "char": "👶",
+        "label": "germany's surrogacy uproar",
+        "url": "https://www.nytimes.com/2026/07/18/world/europe/jens-spahn-surrogacy-germany.html",
+        "title": "Uproar Over Surrogate Baby Prompts German Official’s Sudden Resignation",
+        "summary": "Jens Spahn, a top leader of Chancellor Friedrich Merz’s party, resigned his post after announcing that he had a baby by surrogate, which is illegal in Germany."
+      },
+      {
+        "char": "🌍",
+        "label": "ghana's film poster art",
+        "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+        "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+        "summary": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra, He..."
+      },
+      {
+        "char": "🚍",
+        "label": "iqaluit's first bus line",
+        "url": "https://www.nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html",
+        "title": "Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line",
+        "summary": "Jacinto Marques left Angola for Canada’s frozen edge. Now he’s running a bus service in Iqaluit, the largest, and only city in Canada’s Arctic."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
