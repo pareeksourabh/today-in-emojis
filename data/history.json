@@ -55835,5 +55835,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-19",
+    "emojis": [
+      {
+        "char": "🚨",
+        "label": "andrew tate arrested in us",
+        "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+        "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
+        "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are \"innocent\"."
+      },
+      {
+        "char": "🇨🇺",
+        "label": "cuba faces societal breakdown",
+        "url": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
+        "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
+        "summary": "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growing When Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities..."
+      },
+      {
+        "char": "💔",
+        "label": "uk aid cuts impact africa",
+        "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+        "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
+        "summary": "Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’ Labour’s foreign aid cuts mean reductions of as much as 90% in the bilateral support the UK will give to some Africa..."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires in ontario canada",
+        "url": "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html",
+        "title": "Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities",
+        "summary": "Nearly 200 fires continued to devastate swaths of the province as smoke continued to drift across parts of Canada and the United States."
+      },
+      {
+        "char": "🗳️",
+        "label": "sao tome presidential election",
+        "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+        "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+        "summary": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent Voters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
