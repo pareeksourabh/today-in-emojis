@@ -1,41 +1,41 @@
 {
   "date": "2026-07-20",
-  "timestamp": "2026-07-20T03:10:48Z",
+  "timestamp": "2026-07-20T00:00:00Z",
   "emojis": [
+    {
+      "char": "🇬🇧",
+      "label": "uk cpac event with few costumes",
+      "url": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
+      "title": "A Very British CPAC: Few, if Any, Costumes and Not Much Trump",
+      "summary": "London hosted an understated version of the Conservative Political Action Conference, known in the United States for its over-the-top celebration of MAGA causes."
+    },
+    {
+      "char": "🇨🇺",
+      "label": "cuban dissident goes into exile",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison."
+    },
+    {
+      "char": "💔",
+      "label": "uk aid cuts impact african nations",
+      "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+      "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
+      "summary": "Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’ Labour’s foreign aid cuts mean reductions of as much as 90% in the bilateral support the UK will give to some Africa..."
+    },
     {
       "char": "🚢",
       "label": "ferry sinks off guyana coast",
       "url": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
-      "title": "Dozens missing after passenger ferry sinks off coast of Guyana",
-      "summary": "Emergency response has rescued 67 people, including 15 children, from one of the country’s worst maritime disasters A ferry carrying 116 passengers and crew sank ⁠off the coast of Guyana in South America ⁠late Saturday, with 67 ⁠people,..."
-    },
-    {
-      "char": "⚽",
-      "label": "us falls in love with world cup",
-      "url": "https://www.nytimes.com/2026/07/19/world/europe/us-world-cup-trump-boston-kansas.html",
-      "title": "The U.S. Braced For the World Cup. It Fell in Love Instead.",
-      "summary": "Amid anxiety over how the United States would welcome the world, cities like Lawrence, Kan., and Boston threw open their doors. The bonds forged are still visible on the streets."
-    },
-    {
-      "char": "🦠",
-      "label": "americans quarantined in kenya",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
-      "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
-      "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya afte..."
+      "title": "Huge search operation after passenger ferry sinks off coast of Guyana",
+      "summary": "Authorities launch criminal investigation after passenger list – showing more than 100 passengers – was found to be inaccurate, complicating rescue efforts A massive search-and-rescue operation is under way after a ferry sank ⁠off the co..."
     },
     {
       "char": "🌍",
-      "label": "earthquake in peru kills six",
+      "label": "earthquake in peru leaves casualties",
       "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
       "title": "Earthquake in Peru leaves at least six dead",
       "summary": "More than 30 injured and 300 displaced after buildings collapse near Sicaya A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least six people, authorities said Sunday. More than 30 people were injured and 300 have be..."
-    },
-    {
-      "char": "🔥",
-      "label": "wildfires in ontario send smoke",
-      "url": "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html",
-      "title": "Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities",
-      "summary": "Nearly 200 fires continued to devastate swaths of the province as smoke continued to drift across parts of Canada and the United States."
     }
   ],
   "source": "ai-openai",
