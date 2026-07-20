@@ -1,41 +1,41 @@
 {
   "date": "2026-07-20",
-  "timestamp": "2026-07-20T00:00:00Z",
+  "timestamp": "2026-07-20T14:15:15Z",
   "emojis": [
     {
       "char": "🌍",
-      "label": "tehran and washington face war escalation",
-      "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
-      "title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
-      "summary": "U.S. and Iranian attacks are unfolding in a way that risks a wider war they cannot contain, analysts warn, unless they can return to negotiations quickly."
+      "label": "amazonian gold mining crisis",
+      "url": "https://www.theguardian.com/world/2026/jul/20/brazil-gold-rush-illegal-mining-settlements-indigenous-lands",
+      "title": "‘It’s total devastation’: inside the Amazonian war against illegal gold mining",
+      "summary": "The Guardian goes on the ground with Brazilian forces fighting to eradicate mining that has destroyed protected areas of Indigenous land The jerry-built bordello at the foot of Vila Cururu, an illegal gold-mining settlement at the heart..."
     },
     {
       "char": "🦠",
-      "label": "americans quarantined over ebola in kenya",
+      "label": "americans quarantined for ebola",
       "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
       "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
       "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya afte..."
     },
     {
-      "char": "📚",
-      "label": "food delivery rider wins literary prize",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
-      "title": "Food delivery rider wins China's top literary prize",
-      "summary": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works."
-    },
-    {
-      "char": "🚢",
-      "label": "ferry sinks off coast of guyana",
-      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
-      "title": "Huge search operation after passenger ferry sinks off coast of Guyana",
-      "summary": "Authorities launch criminal investigation after passenger list – showing more than 100 passengers – was found to be inaccurate, complicating rescue efforts A massive search-and-rescue operation is under way after a ferry sank ⁠off the co..."
-    },
-    {
-      "char": "💔",
-      "label": "earthquake in peru leaves at least six dead",
+      "char": "🌪️",
+      "label": "earthquake in peru kills six",
       "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
       "title": "Earthquake in Peru leaves at least six dead",
       "summary": "More than 30 injured and 300 displaced after buildings collapse near Sicaya A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least six people, authorities said Sunday. More than 30 people were injured and 300 have be..."
+    },
+    {
+      "char": "🇺🇦",
+      "label": "zelensky under pressure in ukraine",
+      "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html",
+      "title": "Zelensky Faces Pressure to Remove Ukraine’s Top General",
+      "summary": "Demonstrators and many soldiers want President Volodymyr Zelensky to reaffirm the vision of drone warfare laid out by the defense minister he fired last week."
+    },
+    {
+      "char": "⚔️",
+      "label": "us soldier killed in iraq attack",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "title": "US soldier killed and one injured after Iranian attack in Iraq",
+      "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan."
     }
   ],
   "source": "ai-openai",
