@@ -1,41 +1,41 @@
 {
   "date": "2026-07-20",
-  "timestamp": "2026-07-20T00:00:00Z",
+  "timestamp": "2026-07-20T17:13:00Z",
   "emojis": [
     {
-      "char": "⚔️",
-      "label": "us service member killed in iran war",
-      "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
-      "title": "Another U.S. Service Member Is Killed as Iran War Expands",
-      "summary": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing."
+      "char": "⚽",
+      "label": "boy dies during world cup celebrations",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
+      "title": "Boy, 13, dies during World Cup celebrations in Spain",
+      "summary": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo."
     },
     {
-      "char": "🦠",
-      "label": "americans quarantined in kenya for ebola",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
-      "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
-      "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya afte..."
+      "char": "⚖️",
+      "label": "drug cartel leader sentenced to life",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
+      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+      "summary": "Known as \"El Mayo\", he helped found the Sinaloa Cartel and admitted to sending vast amounts of cocaine and other drugs to the US."
+    },
+    {
+      "char": "🚢",
+      "label": "ferry capsizes off coast of guyana",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "title": "Scores feared dead after passenger ferry capsizes off Guyana",
+      "summary": "Sixty-seven people have been rescued but the ferry is thought to have had more than 130 people on board."
+    },
+    {
+      "char": "🇮🇳",
+      "label": "protests against parliament in india",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
+      "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+      "summary": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march."
     },
     {
       "char": "🌫️",
-      "label": "canada air quality warnings from wildfire smoke",
+      "label": "canada issues air quality warnings",
       "url": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs",
       "title": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
-      "summary": "Officials say smoke from US fires has crossed the border days after US president accused Canada of improper fire management After days of acrid smoke from northern wildfires choking major US cities and inspiring Donald Trump to threaten..."
-    },
-    {
-      "char": "🏗️",
-      "label": "ukraine war spurs postwar investment interest",
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html",
-      "title": "Ukraine War Momentum Helps Spur Interest in Postwar Investment",
-      "summary": "At a conference on reconstruction, the focus shifted to private investment, not donor assistance."
-    },
-    {
-      "char": "🎉",
-      "label": "rare identical quadruplets born in australia",
-      "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
-      "title": "Rare identical quadruplets born in Australia",
-      "summary": "The parents of the four naturally-conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said."
+      "summary": "Officials say smoke from US fires has crossed border days after US president accused Canada of improper fire management After days of acrid smoke from northern wildfires choking major US cities and inspiring Donald Trump to threaten Cana..."
     }
   ],
   "source": "ai-openai",

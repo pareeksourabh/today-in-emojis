@@ -56187,5 +56187,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-20",
+    "emojis": [
+      {
+        "char": "⚽",
+        "label": "boy dies during world cup celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
+        "title": "Boy, 13, dies during World Cup celebrations in Spain",
+        "summary": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo."
+      },
+      {
+        "char": "⚖️",
+        "label": "drug cartel leader sentenced to life",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
+        "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+        "summary": "Known as \"El Mayo\", he helped found the Sinaloa Cartel and admitted to sending vast amounts of cocaine and other drugs to the US."
+      },
+      {
+        "char": "🚢",
+        "label": "ferry capsizes off coast of guyana",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+        "title": "Scores feared dead after passenger ferry capsizes off Guyana",
+        "summary": "Sixty-seven people have been rescued but the ferry is thought to have had more than 130 people on board."
+      },
+      {
+        "char": "🇮🇳",
+        "label": "protests against parliament in india",
+        "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
+        "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+        "summary": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march."
+      },
+      {
+        "char": "🌫️",
+        "label": "canada issues air quality warnings",
+        "url": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs",
+        "title": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
+        "summary": "Officials say smoke from US fires has crossed border days after US president accused Canada of improper fire management After days of acrid smoke from northern wildfires choking major US cities and inspiring Donald Trump to threaten Cana..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
