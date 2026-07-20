@@ -56055,5 +56055,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-20",
+    "emojis": [
+      {
+        "char": "🎭",
+        "label": "ghana's film posters as art",
+        "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+        "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+        "summary": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra, He..."
+      },
+      {
+        "char": "🚢",
+        "label": "ferry sinks off guyana coast",
+        "url": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
+        "title": "Huge search operation after passenger ferry sinks off coast of Guyana",
+        "summary": "Authorities launch criminal investigation after passenger list – showing more than 100 passengers – was found to be inaccurate, complicating rescue efforts A massive search-and-rescue operation is under way after a ferry sank ⁠off the co..."
+      },
+      {
+        "char": "🚌",
+        "label": "iqaluit gets first bus line",
+        "url": "https://www.nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html",
+        "title": "Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line",
+        "summary": "Jacinto Marques left Angola for Canada’s frozen edge. Now he’s running a bus service in Iqaluit, the largest, and only city in Canada’s Arctic."
+      },
+      {
+        "char": "🌍",
+        "label": "uk aid cuts impact africa",
+        "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+        "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
+        "summary": "Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’ Labour’s foreign aid cuts mean reductions of as much as 90% in the bilateral support the UK will give to some Africa..."
+      },
+      {
+        "char": "🌪️",
+        "label": "earthquake hits peru",
+        "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
+        "title": "Earthquake in Peru leaves at least six dead",
+        "summary": "More than 30 injured and 300 displaced after buildings collapse near Sicaya A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least six people, authorities said Sunday. More than 30 people were injured and 300 have be..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
