@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "timestamp": "2026-07-21T00:00:00Z",
+  "timestamp": "2026-07-21T17:03:59Z",
   "emojis": [
     {
       "char": "🇬🇧",
@@ -10,32 +10,32 @@
       "summary": "Britain’s new prime minister, Andy Burnham, promised policies that would give average Britons financial “breathing space.” His opponents are already doling out criticism."
     },
     {
-      "char": "🇨🇦",
-      "label": "trump slaps tariffs on canada",
+      "char": "🏨",
+      "label": "spanish hotel chain ceases operations",
+      "url": "https://www.theguardian.com/world/2026/jul/21/spanish-hotel-chain-ceases-operations-cuba-sanctions-trump",
+      "title": "Spanish hotel chain ceases operations in Cuba under pressure from Washington",
+      "summary": "Meliá group says Donald Trump’s sanctions make it ‘impossible’ to keep any of its 34 sites open A Spanish hotel chain is to cease all operations in Cuba at the end of the week due to “major difficulties” in doing business on the island u..."
+    },
+    {
+      "char": "🔥",
+      "label": "first nations communities wildfires",
+      "url": "https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government",
+      "title": "We received no alert, say leaders of First Nations communities razed by Canadian wildfires",
+      "summary": "Chiefs in Ontario say they were left to self-evacuate before homes burned to ground, after being told there was no imminent threat Fast-moving wildfires have burned two First Nations communities in Canada to the ground, as members said t..."
+    },
+    {
+      "char": "💰",
+      "label": "trump imposes tariffs on canada",
       "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
       "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
       "summary": "The duties mark a major escalation in trade tensions between the North American neighbours."
     },
     {
-      "char": "🌊",
-      "label": "flash floods in afghanistan",
-      "url": "https://www.nytimes.com/2026/07/21/world/asia/afghanistan-floods-deaths-nuristan.html",
-      "title": "Flash Floods Kill at Least 23 in Afghanistan",
-      "summary": "Dozens remained missing after floods swept through a city in Nuristan, an isolated province in the country’s east."
-    },
-    {
-      "char": "⚓",
-      "label": "philippines sailor injured",
-      "url": "https://www.nytimes.com/2026/07/21/world/asia/philippines-south-china-sea-sailor-injured.html",
-      "title": "Philippines Says Sailor Was Injured in Skirmish With Chinese Coast Guard",
-      "summary": "China said it was not the aggressor in the episode, which was the latest flare-up in the South China Sea between the two countries."
-    },
-    {
-      "char": "🔥",
-      "label": "wildfires in canada",
-      "url": "https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government",
-      "title": "We received no alert, say leaders of First Nations communities razed by Canadian wildfires",
-      "summary": "Chiefs in Ontario say they were left to self-evacuate before homes burned to ground, after being told there was no imminent threat Fast-moving wildfires have burned two First Nations communities in Canada to the ground, as members said t..."
+      "char": "🌍",
+      "label": "healthy diet too expensive globally",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
     }
   ],
   "source": "ai-openai",
