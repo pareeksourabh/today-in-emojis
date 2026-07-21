@@ -56363,5 +56363,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-21",
+    "emojis": [
+      {
+        "char": "🏃‍♂️",
+        "label": "family escapes north korea",
+        "url": "https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html",
+        "title": "A Family’s Daring Escape From North Korea",
+        "summary": "Their resolve for freedom hardened during the pandemic, when they lived through a crippling food shortage and were forced to witness frequent public executions."
+      },
+      {
+        "char": "⚡",
+        "label": "uk electricity tax cut",
+        "url": "https://www.nytimes.com/2026/07/21/world/europe/uk-andy-burnham-electricity-tax-vat.html",
+        "title": "Burnham, UK’s New Prime Minister, Starts With Electricity Tax Cut",
+        "summary": "Prime Minister Andy Burnham moved quickly to confront the high cost of living. And President Trump wished him well after a phone call between the two leaders."
+      },
+      {
+        "char": "👶",
+        "label": "miracle identical quadruplets",
+        "url": "https://www.nytimes.com/2026/07/21/world/australia/australia-identical-quadruplets-birth.html",
+        "title": "Australian Woman Gives Birth to ‘Miracle’ Identical Quadruplets",
+        "summary": "Doctors said the arrival of Emily, Harriet, Catherine and Alexa, who were conceived naturally and split from one fertilized egg, is an extremely rare event."
+      },
+      {
+        "char": "🌍",
+        "label": "healthy diet too expensive globally",
+        "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+        "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+        "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
+      },
+      {
+        "char": "🌊",
+        "label": "floods kill in afghanistan",
+        "url": "https://www.nytimes.com/2026/07/21/world/asia/afghanistan-floods-deaths-nuristan.html",
+        "title": "Flash Floods Kill at Least 23 in Afghanistan",
+        "summary": "Dozens remained missing after floods swept through a city in Nuristan, an isolated province in the country’s east."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
