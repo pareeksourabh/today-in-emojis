@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news items reflect significant global events with a mixture of hope and distress, particularly with reports of leadership change, tragic incidents, and ongoing conflicts, leading to an overall feeling of concern.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day is marked by a mix of tragedy and turmoil, with reports of violence, deaths, and natural disasters overshadowing moments of hope and change. The emotional weight of these events evokes a sense of sadness.",
     "palette": [
       "😢",
       "😡",
