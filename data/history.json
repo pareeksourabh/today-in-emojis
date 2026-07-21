@@ -56319,5 +56319,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-21",
+    "emojis": [
+      {
+        "char": "🔥",
+        "label": "fire outside federal building",
+        "url": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
+        "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
+        "summary": "Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI."
+      },
+      {
+        "char": "👶",
+        "label": "miracle identical quadruplets",
+        "url": "https://www.nytimes.com/2026/07/21/world/australia/australia-identical-quadruplets-birth.html",
+        "title": "Australian Woman Gives Birth to ‘Miracle’ Identical Quadruplets",
+        "summary": "Doctors said the arrival of Emily, Harriet, Catherine and Alexa, who were conceived naturally and split from one fertilized egg, is an extremely rare event."
+      },
+      {
+        "char": "💣",
+        "label": "us airstrike on tanker",
+        "url": "https://www.nytimes.com/2026/07/20/world/middleeast/inside-the-deadly-us-airstrike-on-a-shadow-fleet-tanker.html",
+        "title": "Inside the Deadly U.S. Airstrike on a Shadow Fleet Tanker",
+        "summary": "Evidence suggests the ship on which three Indian sailors died was not moving when it was struck in the Gulf of Oman, but it had been engaged in risky offshore transfers of oil."
+      },
+      {
+        "char": "🇱🇧",
+        "label": "lebanon troops deploy",
+        "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+        "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+        "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah."
+      },
+      {
+        "char": "📉",
+        "label": "trump imposes tariffs on canada",
+        "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
+        "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+        "summary": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tarif..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
