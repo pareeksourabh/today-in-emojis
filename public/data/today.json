@@ -1,204 +1,43 @@
 {
-  "date": "2026-07-20",
-  "timestamp": "2026-07-20T00:00:00Z",
+  "date": "2026-07-21",
+  "timestamp": "2026-07-21T00:00:00Z",
   "emojis": [
     {
-      "char": "🎭",
-      "label": "neighbours actor terence donovan dies",
-      "url": "https://www.bbc.co.uk/news/articles/crmrznw82j4o?at_medium=RSS&at_campaign=rss",
-      "title": "Neighbours actor Terence Donovan dies aged 90",
-      "summary": "His son, actor Jason Donovan, posted to social media that his father died on Saturday night peacefully in Melbourne, Australia"
-    },
-    {
-      "char": "🚀",
-      "label": "russia batters kyiv with missiles",
-      "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
-      "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
-      "summary": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62."
-    },
-    {
-      "char": "⚽",
-      "label": "argentines brace for world cup final",
-      "url": "https://www.nytimes.com/2026/07/19/world/americas/argentines-already-losing-their-minds-brace-for-world-cup-final.html",
-      "title": "Argentines, Already ‘Losing Their Minds,’ Brace for World Cup Final",
-      "summary": "A championship victory would be pure elation, but Argentina is already basking in a state of grace after a win against England and a monthlong fever dream."
-    },
-    {
-      "char": "🗳️",
-      "label": "sao tome and principe presidential election",
-      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
-      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
-      "summary": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent Voters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to..."
-    },
-    {
-      "char": "🌍",
-      "label": "earthquake in peru leaves six dead",
-      "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
-      "title": "Earthquake in Peru leaves at least six dead",
-      "summary": "More than 30 injured and 300 displaced after buildings collapse near Sicaya A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least six people, authorities said Sunday. More than 30 people were injured and 300 have be..."
-    },
-    {
       "char": "🇬🇧",
-      "label": "uk cpac event with few costumes",
-      "url": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
-      "title": "A Very British CPAC: Few, if Any, Costumes and Not Much Trump",
-      "summary": "London hosted an understated version of the Conservative Political Action Conference, known in the United States for its over-the-top celebration of MAGA causes."
+      "label": "andy burnham's first day as pm",
+      "url": "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html",
+      "title": "Inside Andy Burnham’s 1st Day as U.K. Prime Minister",
+      "summary": "As Andy Burnham became Britain’s seventh leader in a decade on Monday, he tried to show that he will govern differently."
     },
     {
-      "char": "🇨🇺",
-      "label": "cuban dissident goes into exile",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
-      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
-      "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison."
+      "char": "💥",
+      "label": "us strikes on iran escalate tensions",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz."
     },
     {
-      "char": "💔",
-      "label": "uk aid cuts impact african nations",
-      "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
-      "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
-      "summary": "Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’ Labour’s foreign aid cuts mean reductions of as much as 90% in the bilateral support the UK will give to some Africa..."
+      "char": "🏃‍♂️",
+      "label": "training in kenya for marathon success",
+      "url": "https://www.nytimes.com/2026/07/20/world/africa/kenya-iten-marathon-training.html",
+      "title": "Aiming for My Fastest Marathon, I Turned to Distance Running’s Mecca",
+      "summary": "A New York Times reporter’s quest to beat the personal best he set 14 years ago took him to a Kenyan village, where the biggest benefit he got was not what he expected."
     },
     {
-      "char": "🚢",
-      "label": "ferry sinks off guyana coast",
-      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
-      "title": "Huge search operation after passenger ferry sinks off coast of Guyana",
-      "summary": "Authorities launch criminal investigation after passenger list – showing more than 100 passengers – was found to be inaccurate, complicating rescue efforts A massive search-and-rescue operation is under way after a ferry sank ⁠off the co..."
-    },
-    {
-      "char": "🌍",
-      "label": "earthquake in peru leaves casualties",
-      "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
-      "title": "Earthquake in Peru leaves at least six dead",
-      "summary": "More than 30 injured and 300 displaced after buildings collapse near Sicaya A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least six people, authorities said Sunday. More than 30 people were injured and 300 have be..."
-    },
-    {
-      "char": "🚢",
-      "label": "ferry sinks off guyana coast",
-      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
-      "title": "Huge search operation after passenger ferry sinks off coast of Guyana",
-      "summary": "Authorities launch criminal investigation after passenger list – showing more than 100 passengers – was found to be inaccurate, complicating rescue efforts A massive search-and-rescue operation is under way after a ferry sank ⁠off the co..."
-    },
-    {
-      "char": "🎨",
-      "label": "ghana's film posters as art",
-      "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
-      "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
-      "summary": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra, He..."
-    },
-    {
-      "char": "🌧️",
-      "label": "flash floods in north-east us",
-      "url": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
-      "title": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
-      "summary": "Poor air quality from wildfires continues to plague New York City as several neighborhoods hit by thunderstorms Saturday is delivering a double dose of dangerous weather across the north-eastern US, with smoky skies from Canadian wildfir..."
+      "char": "⚖️",
+      "label": "el mayo sentenced to life in prison",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/el-mayo-prison-sentence",
+      "title": "Mexican drug lord ‘El Mayo’ sentenced to life in prison in US federal court",
+      "summary": "Case against Ismael Zambada García, who helped co-found and lead the violent Sinaloa cartel, unfolded in New York The Mexican drug kingpin, Ismael Zambada García, known as “El Mayo”, was sentenced in a US federal court on Monday to life..."
     },
     {
       "char": "🌍",
-      "label": "illegal gold mining in brazil",
-      "url": "https://www.theguardian.com/world/2026/jul/20/brazil-gold-rush-illegal-mining-settlements-indigenous-lands",
-      "title": "‘It’s total devastation’: inside the Amazonian war against illegal gold mining",
-      "summary": "The Guardian goes on the ground with Brazilian forces fighting to eradicate mining that has destroyed protected areas of Indigenous land The jerry-built bordello at the foot of Vila Cururu, an illegal gold-mining settlement at the heart..."
-    },
-    {
-      "char": "🌪️",
-      "label": "earthquake in peru",
-      "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
-      "title": "Earthquake in Peru leaves at least six dead",
-      "summary": "More than 30 injured and 300 displaced after buildings collapse near Sicaya A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least six people, authorities said Sunday. More than 30 people were injured and 300 have be..."
-    },
-    {
-      "char": "🌍",
-      "label": "tehran and washington face war escalation",
-      "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
-      "title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
-      "summary": "U.S. and Iranian attacks are unfolding in a way that risks a wider war they cannot contain, analysts warn, unless they can return to negotiations quickly."
-    },
-    {
-      "char": "🦠",
-      "label": "americans quarantined over ebola in kenya",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
-      "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
-      "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya afte..."
-    },
-    {
-      "char": "📚",
-      "label": "food delivery rider wins literary prize",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
-      "title": "Food delivery rider wins China's top literary prize",
-      "summary": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works."
-    },
-    {
-      "char": "🚢",
-      "label": "ferry sinks off coast of guyana",
-      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
-      "title": "Huge search operation after passenger ferry sinks off coast of Guyana",
-      "summary": "Authorities launch criminal investigation after passenger list – showing more than 100 passengers – was found to be inaccurate, complicating rescue efforts A massive search-and-rescue operation is under way after a ferry sank ⁠off the co..."
-    },
-    {
-      "char": "💔",
-      "label": "earthquake in peru leaves at least six dead",
-      "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
-      "title": "Earthquake in Peru leaves at least six dead",
-      "summary": "More than 30 injured and 300 displaced after buildings collapse near Sicaya A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least six people, authorities said Sunday. More than 30 people were injured and 300 have be..."
-    },
-    {
-      "char": "⚔️",
-      "label": "us service member killed in iran war",
-      "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
-      "title": "Another U.S. Service Member Is Killed as Iran War Expands",
-      "summary": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing."
-    },
-    {
-      "char": "🦠",
-      "label": "americans quarantined in kenya for ebola",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
-      "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
-      "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya afte..."
-    },
-    {
-      "char": "🌫️",
-      "label": "canada air quality warnings from wildfire smoke",
-      "url": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs",
-      "title": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
-      "summary": "Officials say smoke from US fires has crossed the border days after US president accused Canada of improper fire management After days of acrid smoke from northern wildfires choking major US cities and inspiring Donald Trump to threaten..."
-    },
-    {
-      "char": "🏗️",
-      "label": "ukraine war spurs postwar investment interest",
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html",
-      "title": "Ukraine War Momentum Helps Spur Interest in Postwar Investment",
-      "summary": "At a conference on reconstruction, the focus shifted to private investment, not donor assistance."
-    },
-    {
-      "char": "🎉",
-      "label": "rare identical quadruplets born in australia",
-      "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
-      "title": "Rare identical quadruplets born in Australia",
-      "summary": "The parents of the four naturally-conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said."
+      "label": "spain celebrates world cup victory",
+      "url": "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html",
+      "title": "Spain Celebrates Both a Soccer Win and a Sense of Wider Success",
+      "summary": "For many fans, the World Cup victory cemented a belief that something promising — a cultural, economic and sports revival — is happening in the country."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "The day is marked by significant tragedies, including the death of notable figures, devastating earthquakes, and ongoing conflicts that evoke a deep sense of loss and grief.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
