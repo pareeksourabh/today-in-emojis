@@ -1,204 +1,43 @@
 {
-  "date": "2026-07-21",
-  "timestamp": "2026-07-21T00:00:00Z",
+  "date": "2026-07-22",
+  "timestamp": "2026-07-22T00:00:00Z",
   "emojis": [
     {
-      "char": "🇬🇧",
-      "label": "andy burnham's first day as pm",
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html",
-      "title": "Inside Andy Burnham’s 1st Day as U.K. Prime Minister",
-      "summary": "As Andy Burnham became Britain’s seventh leader in a decade on Monday, he tried to show that he will govern differently."
+      "char": "🇨🇦",
+      "label": "trump escalates canada tariffs",
+      "url": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html",
+      "title": "Trump Escalates Canada Tariffs as Mark Carney Holds Firm",
+      "summary": "The president’s new tariffs on a top U.S. trading partner aim at gaining concessions, but the Canadian government, and the public, have been bracing for the escalation."
     },
     {
-      "char": "💥",
-      "label": "us strikes on iran escalate tensions",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz."
-    },
-    {
-      "char": "🏃‍♂️",
-      "label": "training in kenya for marathon success",
-      "url": "https://www.nytimes.com/2026/07/20/world/africa/kenya-iten-marathon-training.html",
-      "title": "Aiming for My Fastest Marathon, I Turned to Distance Running’s Mecca",
-      "summary": "A New York Times reporter’s quest to beat the personal best he set 14 years ago took him to a Kenyan village, where the biggest benefit he got was not what he expected."
-    },
-    {
-      "char": "⚖️",
-      "label": "el mayo sentenced to life in prison",
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/el-mayo-prison-sentence",
-      "title": "Mexican drug lord ‘El Mayo’ sentenced to life in prison in US federal court",
-      "summary": "Case against Ismael Zambada García, who helped co-found and lead the violent Sinaloa cartel, unfolded in New York The Mexican drug kingpin, Ismael Zambada García, known as “El Mayo”, was sentenced in a US federal court on Monday to life..."
+      "char": "🏨",
+      "label": "spanish hotel chain ceases ops in cuba",
+      "url": "https://www.theguardian.com/world/2026/jul/21/spanish-hotel-chain-ceases-operations-cuba-sanctions-trump",
+      "title": "Spanish hotel chain ceases operations in Cuba under pressure from Washington",
+      "summary": "Meliá group says Donald Trump’s sanctions make it ‘impossible’ to keep any of its 34 sites open A Spanish hotel chain is to cease all operations in Cuba at the end of the week due to “major difficulties” in doing business on the island u..."
     },
     {
       "char": "🌍",
-      "label": "spain celebrates world cup victory",
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html",
-      "title": "Spain Celebrates Both a Soccer Win and a Sense of Wider Success",
-      "summary": "For many fans, the World Cup victory cemented a belief that something promising — a cultural, economic and sports revival — is happening in the country."
-    },
-    {
-      "char": "🕊️",
-      "label": "hamas names new leader",
-      "url": "https://www.nytimes.com/2026/07/20/world/middleeast/gaza-talks-khalil-al-hayya-leader.html",
-      "title": "Hamas Names Khalil al-Hayya as Its New Leader",
-      "summary": "Seen as closer to Iran, Khalil al-Hayya served as the Palestinian militant group’s chief negotiator with Israel and the Trump administration during the Gaza war."
-    },
-    {
-      "char": "👶",
-      "label": "rare identical quadruplets born",
-      "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
-      "title": "Rare identical quadruplets born in Australia",
-      "summary": "The parents of the four naturally-conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said."
-    },
-    {
-      "char": "🎨",
-      "label": "ghana's film posters as art",
-      "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
-      "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
-      "summary": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra, He..."
-    },
-    {
-      "char": "🌍",
-      "label": "uganda lifts travel restrictions",
-      "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
-      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
-      "summary": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the Congo Uganda has started lobbying countries to lift Ebola-related travel restrictions afte..."
-    },
-    {
-      "char": "⚽",
-      "label": "spain celebrates world cup win",
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html",
-      "title": "Spain Celebrates Both a Soccer Win and a Sense of Wider Success",
-      "summary": "For many fans, the World Cup victory cemented a belief that something promising — a cultural, economic and sports revival — is happening in the country."
+      "label": "south africa's fight against immigrants",
+      "url": "https://www.nytimes.com/2026/07/21/world/africa/south-africa-migrants.html",
+      "title": "Inside the Fight to Rid South Africa of Black Immigrants",
+      "summary": "As immigration surges in the country, activists are going to extreme lengths to expel foreign nationals, often taking the law into their own hands."
     },
     {
       "char": "🚨",
-      "label": "outcry in italy over police death",
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/moroccan-italy-police-death-george-floyd.html",
-      "title": "Outcry in Italy After Man Dies While Being Restrained by Police",
-      "summary": "The death of the man, a Moroccan resident of Italy, set off an outcry across the country and prompted comparisons to the death of George Floyd in the United States."
+      "label": "dozens hurt in bologna protests",
+      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+      "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday."
     },
     {
-      "char": "🇬🇧",
-      "label": "andy burnham's first day as pm",
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html",
-      "title": "Inside Andy Burnham’s 1st Day as U.K. Prime Minister",
-      "summary": "As Andy Burnham became Britain’s seventh leader in a decade on Monday, he tried to show that he will govern differently."
-    },
-    {
-      "char": "🏃‍♂️",
-      "label": "marathon training in kenya",
-      "url": "https://www.nytimes.com/2026/07/20/world/africa/kenya-iten-marathon-training.html",
-      "title": "Aiming for My Fastest Marathon, I Turned to Distance Running’s Mecca",
-      "summary": "A New York Times reporter’s quest to beat the personal best he set 14 years ago took him to a Kenyan village, where the biggest benefit he got was not what he expected."
-    },
-    {
-      "char": "⚓",
-      "label": "russian attacks on black sea ships",
-      "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
-      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-      "summary": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say."
-    },
-    {
-      "char": "🕊️",
-      "label": "hamas names new leader",
-      "url": "https://www.nytimes.com/2026/07/20/world/middleeast/gaza-talks-khalil-al-hayya-leader.html",
-      "title": "Hamas Names Khalil al-Hayya as Its New Leader",
-      "summary": "Seen as closer to Iran, Khalil al-Hayya served as the Palestinian militant group’s chief negotiator with Israel and the Trump administration during the Gaza war."
-    },
-    {
-      "char": "🚢",
-      "label": "ferry capsizes in guyana",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
-      "summary": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive."
-    },
-    {
-      "char": "🗳️",
-      "label": "nicaragua cancels elections",
-      "url": "https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections",
-      "title": "Nicaragua’s president says country will not hold any more elections",
-      "summary": "Daniel Ortega, the 80-year-old authoritarian leader, says move will ‘build a wall’ against the opposition Nicaragua’s long-serving president, Daniel Ortega, has said the country will hold no further elections to prevent the opposition fr..."
-    },
-    {
-      "char": "🇦🇺",
-      "label": "miracle identical quadruplets born",
-      "url": "https://www.nytimes.com/2026/07/21/world/australia/australia-identical-quadruplets-birth.html",
-      "title": "Australian Woman Gives Birth to ‘Miracle’ Identical Quadruplets",
-      "summary": "Doctors said the arrival of Emily, Harriet, Catherine and Alexa, who were conceived naturally and split from one fertilized egg, is an extremely rare event."
-    },
-    {
-      "char": "⚔️",
-      "label": "ukraine protests and zelensky",
-      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-zelensky-protests.html",
-      "title": "When Protesters Speak, Zelensky Listens, in the Ukrainian Tradition",
-      "summary": "With anger high over the firing of the defense minister, the president’s office is signaling an openness to compromise."
-    },
-    {
-      "char": "🌍",
+      "char": "🍽️",
       "label": "healthy diet too expensive globally",
       "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
       "title": "Healthy diet too expensive for one in three people globally, UN report finds",
       "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
-    },
-    {
-      "char": "🇬🇧",
-      "label": "new uk prime minister burnham",
-      "url": "https://www.nytimes.com/2026/07/21/world/europe/andy-burnham-new-uk-prime-minister-policies.html",
-      "title": "New UK Prime Minister Burnham Promises Hope and Change. The Hurdles Are High.",
-      "summary": "Britain’s new prime minister, Andy Burnham, promised policies that would give average Britons financial “breathing space.” His opponents are already doling out criticism."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "trump slaps tariffs on canada",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours."
-    },
-    {
-      "char": "🌊",
-      "label": "flash floods in afghanistan",
-      "url": "https://www.nytimes.com/2026/07/21/world/asia/afghanistan-floods-deaths-nuristan.html",
-      "title": "Flash Floods Kill at Least 23 in Afghanistan",
-      "summary": "Dozens remained missing after floods swept through a city in Nuristan, an isolated province in the country’s east."
-    },
-    {
-      "char": "⚓",
-      "label": "philippines sailor injured",
-      "url": "https://www.nytimes.com/2026/07/21/world/asia/philippines-south-china-sea-sailor-injured.html",
-      "title": "Philippines Says Sailor Was Injured in Skirmish With Chinese Coast Guard",
-      "summary": "China said it was not the aggressor in the episode, which was the latest flare-up in the South China Sea between the two countries."
-    },
-    {
-      "char": "🔥",
-      "label": "wildfires in canada",
-      "url": "https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government",
-      "title": "We received no alert, say leaders of First Nations communities razed by Canadian wildfires",
-      "summary": "Chiefs in Ontario say they were left to self-evacuate before homes burned to ground, after being told there was no imminent threat Fast-moving wildfires have burned two First Nations communities in Canada to the ground, as members said t..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "The day is marked by a mix of tragedy and turmoil, with reports of violence, deaths, and natural disasters overshadowing moments of hope and change. The emotional weight of these events evokes a sense of sadness.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
