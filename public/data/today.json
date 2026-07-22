@@ -1,41 +1,41 @@
 {
   "date": "2026-07-22",
-  "timestamp": "2026-07-22T06:33:28Z",
+  "timestamp": "2026-07-22T00:00:00Z",
   "emojis": [
     {
-      "char": "🏨",
-      "label": "hotel chain ceases operations in cuba",
-      "url": "https://www.theguardian.com/world/2026/jul/21/spanish-hotel-chain-ceases-operations-cuba-sanctions-trump",
-      "title": "Spanish hotel chain ceases operations in Cuba under pressure from Washington",
-      "summary": "Meliá group says Donald Trump’s sanctions make it ‘impossible’ to keep any of its 34 sites open A Spanish hotel chain is to cease all operations in Cuba at the end of the week due to “major difficulties” in doing business on the island u..."
+      "char": "🇨🇺",
+      "label": "cuba's hunger and blackouts",
+      "url": "https://www.theguardian.com/world/2026/jul/21/us-state-department-report-cuba",
+      "title": "US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts",
+      "summary": "State department’s 100-page report is latest push in Trump administration campaign to bring down government The US government’s latest allegations that Cuba is behind “many of the most significant upheavals in recent American political h..."
     },
     {
-      "char": "💰",
-      "label": "trump announces tariffs on canada",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
-      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours."
+      "char": "🗳️",
+      "label": "presidential election in sao tome",
+      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "summary": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent Voters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to..."
     },
     {
-      "char": "🌍",
-      "label": "fight against black immigrants in south africa",
-      "url": "https://www.nytimes.com/2026/07/21/world/africa/south-africa-migrants.html",
-      "title": "Inside the Fight to Rid South Africa of Black Immigrants",
-      "summary": "As immigration surges in the country, activists are going to extreme lengths to expel foreign nationals, often taking the law into their own hands."
-    },
-    {
-      "char": "📰",
+      "char": "🔨",
       "label": "ann widdecombe murder case",
       "url": "https://www.nytimes.com/2026/07/21/world/europe/ann-widdecombe-death-hammer.html",
       "title": "British Politician Ann Widdecombe Was Murdered with a Hammer, Prosecutors Say",
       "summary": "The politician, Ann Widdecombe, was eating lunch at home when a man walked in and asked whether she had bank cards, security footage showed."
     },
     {
-      "char": "🌪️",
-      "label": "teenage boys search after venezuela quake",
-      "url": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html",
-      "title": "The Teenage Boys In Search of Their Mother After the Venezuela Earthquake",
-      "summary": "After Venezuela’s devastating earthquakes, Winder and Deivi Delfín dug every day for 26 days to find the bodies of their mother, brother and grandmother."
+      "char": "🌍",
+      "label": "first nations wildfires in canada",
+      "url": "https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government",
+      "title": "We received no alert, say leaders of First Nations communities razed by Canadian wildfires",
+      "summary": "Chiefs in Ontario say they were left to self-evacuate before homes burned to ground, after being told there was no imminent threat Fast-moving wildfires have burned two First Nations communities in Canada to the ground, as members said t..."
+    },
+    {
+      "char": "🍽️",
+      "label": "global diet affordability crisis",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
     }
   ],
   "source": "ai-openai",
