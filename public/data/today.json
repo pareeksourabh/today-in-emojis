@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news items reflect a concerning atmosphere, highlighting trade tensions, social unrest, and global inequality, which evoke feelings of anxiety and concern.",
+    "emotion_label": "Frustration",
+    "emoji": "😤",
+    "rationale": "Today's news reflects a world grappling with escalating tensions, from trade disputes to social unrest and humanitarian crises. The frustration is palpable as communities face challenges without clear solutions.",
     "palette": [
       "😢",
       "😡",
