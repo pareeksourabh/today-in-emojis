@@ -56495,5 +56495,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-22",
+    "emojis": [
+      {
+        "char": "🏨",
+        "label": "hotel chain ceases operations in cuba",
+        "url": "https://www.theguardian.com/world/2026/jul/21/spanish-hotel-chain-ceases-operations-cuba-sanctions-trump",
+        "title": "Spanish hotel chain ceases operations in Cuba under pressure from Washington",
+        "summary": "Meliá group says Donald Trump’s sanctions make it ‘impossible’ to keep any of its 34 sites open A Spanish hotel chain is to cease all operations in Cuba at the end of the week due to “major difficulties” in doing business on the island u..."
+      },
+      {
+        "char": "💰",
+        "label": "trump announces tariffs on canada",
+        "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+        "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
+        "summary": "The duties mark a major escalation in trade tensions between the North American neighbours."
+      },
+      {
+        "char": "🌍",
+        "label": "fight against black immigrants in south africa",
+        "url": "https://www.nytimes.com/2026/07/21/world/africa/south-africa-migrants.html",
+        "title": "Inside the Fight to Rid South Africa of Black Immigrants",
+        "summary": "As immigration surges in the country, activists are going to extreme lengths to expel foreign nationals, often taking the law into their own hands."
+      },
+      {
+        "char": "📰",
+        "label": "ann widdecombe murder case",
+        "url": "https://www.nytimes.com/2026/07/21/world/europe/ann-widdecombe-death-hammer.html",
+        "title": "British Politician Ann Widdecombe Was Murdered with a Hammer, Prosecutors Say",
+        "summary": "The politician, Ann Widdecombe, was eating lunch at home when a man walked in and asked whether she had bank cards, security footage showed."
+      },
+      {
+        "char": "🌪️",
+        "label": "teenage boys search after venezuela quake",
+        "url": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html",
+        "title": "The Teenage Boys In Search of Their Mother After the Venezuela Earthquake",
+        "summary": "After Venezuela’s devastating earthquakes, Winder and Deivi Delfín dug every day for 26 days to find the bodies of their mother, brother and grandmother."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
