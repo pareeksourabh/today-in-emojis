@@ -56583,5 +56583,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-22",
+    "emojis": [
+      {
+        "char": "⚔️",
+        "label": "iran war updates and threats",
+        "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
+        "title": "Iran War Live Updates: Trump Threatens Retaliation Against Civilian Targets if Iran Strikes in Strait",
+        "summary": "President Trump said the United States would target a bridge or power plant, including in or near the Iranian capital, if Iran fired on the Strait of Hormuz. Secretary of State Marco Rubio earlier suggested that Tehran was “not serious”..."
+      },
+      {
+        "char": "😴",
+        "label": "japan's prime minister's sleep schedule",
+        "url": "https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html",
+        "title": "Japan Is Startled by Prime Minister’s Grueling Sleep Schedule",
+        "summary": "Sanae Takaichi has said she gets just “zero to three hours” of sleep a night, prompting a debate in the country over work-life balance."
+      },
+      {
+        "char": "🎨",
+        "label": "ghana's film posters as art",
+        "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+        "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+        "summary": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra, He..."
+      },
+      {
+        "char": "🥗",
+        "label": "global diet affordability crisis",
+        "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+        "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+        "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
+      },
+      {
+        "char": "🐋",
+        "label": "sperm whales change sounds near boats",
+        "url": "https://www.theguardian.com/environment/2026/jul/22/sperm-whales-dominica-clicks-vowels-language-changes-shipping-noise-project-ceti",
+        "title": "Sperm whales change ‘vowel’ sounds when boats are nearby, scientists discover",
+        "summary": "Researchers listening off the Caribbean island of Dominica found variations in the mammals’ audible clicks when marine traffic was close Sperm whales produce a specific pattern of clicking noises when they hear the noise of boats, resear..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
