@@ -1,43 +1,204 @@
 {
   "date": "2026-07-22",
-  "timestamp": "2026-07-22T17:04:16Z",
+  "timestamp": "2026-07-22T00:00:00Z",
   "emojis": [
     {
-      "char": "🇺🇦",
-      "label": "ukrainian drones hit retailer",
-      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-      "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
-      "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight."
+      "char": "🇨🇦",
+      "label": "trump escalates canada tariffs",
+      "url": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html",
+      "title": "Trump Escalates Canada Tariffs as Mark Carney Holds Firm",
+      "summary": "The president’s new tariffs on a top U.S. trading partner aim at gaining concessions, but the Canadian government, and the public, have been bracing for the escalation."
+    },
+    {
+      "char": "🏨",
+      "label": "spanish hotel chain ceases ops in cuba",
+      "url": "https://www.theguardian.com/world/2026/jul/21/spanish-hotel-chain-ceases-operations-cuba-sanctions-trump",
+      "title": "Spanish hotel chain ceases operations in Cuba under pressure from Washington",
+      "summary": "Meliá group says Donald Trump’s sanctions make it ‘impossible’ to keep any of its 34 sites open A Spanish hotel chain is to cease all operations in Cuba at the end of the week due to “major difficulties” in doing business on the island u..."
+    },
+    {
+      "char": "🌍",
+      "label": "south africa's fight against immigrants",
+      "url": "https://www.nytimes.com/2026/07/21/world/africa/south-africa-migrants.html",
+      "title": "Inside the Fight to Rid South Africa of Black Immigrants",
+      "summary": "As immigration surges in the country, activists are going to extreme lengths to expel foreign nationals, often taking the law into their own hands."
+    },
+    {
+      "char": "🚨",
+      "label": "dozens hurt in bologna protests",
+      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+      "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday."
+    },
+    {
+      "char": "🍽️",
+      "label": "healthy diet too expensive globally",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
     },
     {
       "char": "🦠",
-      "label": "americans quarantined for ebola",
+      "label": "americans quarantined in kenya",
       "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
       "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
       "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya afte..."
     },
     {
-      "char": "⚔️",
-      "label": "ukraine's top general fired",
-      "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html",
-      "title": "Firing of Ukraine’s Top General Signals the End of an Era",
-      "summary": "Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more."
+      "char": "🥗",
+      "label": "healthy diet too expensive globally",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
     },
     {
-      "char": "⚖️",
-      "label": "british woman jailed for blackmail",
-      "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
-      "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
-      "summary": "Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice."
+      "char": "⚔️",
+      "label": "houthis edge closer to us-iran war",
+      "url": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html",
+      "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
+      "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East."
+    },
+    {
+      "char": "🔥",
+      "label": "protests in bologna after police incident",
+      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+      "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday."
+    },
+    {
+      "char": "🎨",
+      "label": "ghana's film posters as collectible art",
+      "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+      "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+      "summary": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra, He..."
+    },
+    {
+      "char": "🇨🇺",
+      "label": "cuba's hunger and blackouts",
+      "url": "https://www.theguardian.com/world/2026/jul/21/us-state-department-report-cuba",
+      "title": "US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts",
+      "summary": "State department’s 100-page report is latest push in Trump administration campaign to bring down government The US government’s latest allegations that Cuba is behind “many of the most significant upheavals in recent American political h..."
+    },
+    {
+      "char": "🗳️",
+      "label": "presidential election in sao tome",
+      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "summary": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent Voters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to..."
+    },
+    {
+      "char": "🔨",
+      "label": "ann widdecombe murder case",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/ann-widdecombe-death-hammer.html",
+      "title": "British Politician Ann Widdecombe Was Murdered with a Hammer, Prosecutors Say",
+      "summary": "The politician, Ann Widdecombe, was eating lunch at home when a man walked in and asked whether she had bank cards, security footage showed."
     },
     {
       "char": "🌍",
-      "label": "nicaragua suspends elections",
-      "url": "https://www.theguardian.com/world/2026/jul/22/nicaragua-daniel-ortega-congress-work-plan-suspend-elections",
-      "title": "Nicaragua’s congress announces ‘work plan’ to suspend elections",
-      "summary": "US secretary of state says international community should ‘join forces’ against authoritarian Ortega regime Nicaragua’s congress, controlled by the country’s long-serving president, Daniel Ortega, has announced a “work plan” to implement..."
+      "label": "first nations wildfires in canada",
+      "url": "https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government",
+      "title": "We received no alert, say leaders of First Nations communities razed by Canadian wildfires",
+      "summary": "Chiefs in Ontario say they were left to self-evacuate before homes burned to ground, after being told there was no imminent threat Fast-moving wildfires have burned two First Nations communities in Canada to the ground, as members said t..."
+    },
+    {
+      "char": "🍽️",
+      "label": "global diet affordability crisis",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
+    },
+    {
+      "char": "🇺🇦",
+      "label": "ukrainian drones hit russian retailer",
+      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+      "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
+      "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight."
+    },
+    {
+      "char": "🇮🇳",
+      "label": "modi government faces protests",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
+      "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
+      "summary": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house."
+    },
+    {
+      "char": "🇯🇵",
+      "label": "japan startled by pm's sleep schedule",
+      "url": "https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html",
+      "title": "Japan Is Startled by Prime Minister’s Grueling Sleep Schedule",
+      "summary": "Sanae Takaichi has said she gets just “zero to three hours” of sleep a night, prompting a debate in the country over work-life balance."
+    },
+    {
+      "char": "🇫🇷",
+      "label": "france bans under-15s from social media",
+      "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+      "title": "France passes law banning under-15s from social media",
+      "summary": "The law will require social media platforms in France to verify all users age from January."
+    },
+    {
+      "char": "🌍",
+      "label": "un report on global diet affordability",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
+    },
+    {
+      "char": "✈️",
+      "label": "wreckage of pan am plane found",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
+      "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+      "summary": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings."
+    },
+    {
+      "char": "🇮🇷",
+      "label": "iran’s neighbors seek peace deal",
+      "url": "https://www.nytimes.com/2026/07/22/world/asia/iran-pakistan-karachi-trade-oil.html",
+      "title": "Iran’s Neighbors Long for a Deal, Any Deal, to End the War",
+      "summary": "Business owners in Pakistan are getting impatient for a chance to finally trade goods and oil along their long shared border with Iran."
+    },
+    {
+      "char": "🥬",
+      "label": "mexican town linked to cyclospora outbreak",
+      "url": "https://www.nytimes.com/2026/07/22/world/americas/cyclospora-lettuce-mexico-guanajuato.html",
+      "title": "A Mexican Town Was Known for Lettuce. Now It’s Because of Cyclospora.",
+      "summary": "In central Mexico, a lettuce-growing region has been potentially linked to an outbreak in the U.S. that has sickened thousands."
+    },
+    {
+      "char": "🗳️",
+      "label": "sao tome and principe election",
+      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "summary": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent Voters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to..."
+    },
+    {
+      "char": "🦠",
+      "label": "health worker monitored for ebola",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
+      "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
+      "summary": "Trump’s 50% tariff threat means there will be no ribbon-cutting celebration of Gordie Howe International Bridge A planned joint US-Canada ceremony on Friday celebrating the opening of the Gordie Howe International Bridge connecting Detro..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "The news items reflect a concerning atmosphere, highlighting trade tensions, social unrest, and global inequality, which evoke feelings of anxiety and concern.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
