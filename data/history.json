@@ -56627,5 +56627,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-22",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "ukrainian drones hit retailer",
+        "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+        "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
+        "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight."
+      },
+      {
+        "char": "🦠",
+        "label": "americans quarantined for ebola",
+        "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
+        "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
+        "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya afte..."
+      },
+      {
+        "char": "⚔️",
+        "label": "ukraine's top general fired",
+        "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html",
+        "title": "Firing of Ukraine’s Top General Signals the End of an Era",
+        "summary": "Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more."
+      },
+      {
+        "char": "⚖️",
+        "label": "british woman jailed for blackmail",
+        "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
+        "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+        "summary": "Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice."
+      },
+      {
+        "char": "🌍",
+        "label": "nicaragua suspends elections",
+        "url": "https://www.theguardian.com/world/2026/jul/22/nicaragua-daniel-ortega-congress-work-plan-suspend-elections",
+        "title": "Nicaragua’s congress announces ‘work plan’ to suspend elections",
+        "summary": "US secretary of state says international community should ‘join forces’ against authoritarian Ortega regime Nicaragua’s congress, controlled by the country’s long-serving president, Daniel Ortega, has announced a “work plan” to implement..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
