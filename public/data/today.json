@@ -1,43 +1,204 @@
 {
   "date": "2026-07-23",
-  "timestamp": "2026-07-23T17:07:20Z",
+  "timestamp": "2026-07-23T00:00:00Z",
   "emojis": [
     {
+      "char": "⚛️",
+      "label": "us-saudi nuclear deal raises concerns",
+      "url": "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html",
+      "title": "U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race",
+      "summary": "An Israeli minister sought to downplay the agreement, while critics said it could spur other regional countries to pursue a nuclear program, and potentially the creation of a bomb."
+    },
+    {
+      "char": "🐋",
+      "label": "sperm whales change sounds near boats",
+      "url": "https://www.theguardian.com/environment/2026/jul/22/sperm-whales-dominica-clicks-vowels-language-changes-shipping-noise-project-ceti",
+      "title": "Sperm whales change ‘vowel’ sounds when boats are nearby, scientists discover",
+      "summary": "Researchers listening off the Caribbean island of Dominica found variations in the mammals’ audible clicks when marine traffic was close Sperm whales produce a specific pattern of clicking noises when they hear the noise of boats, resear..."
+    },
+    {
+      "char": "🎬",
+      "label": "ghana's film posters as collectible art",
+      "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+      "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+      "summary": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra, He..."
+    },
+    {
+      "char": "🗳️",
+      "label": "sao tome and principe presidential election",
+      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "summary": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent Voters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to..."
+    },
+    {
       "char": "🔥",
-      "label": "france wildfires evacuate 20,000",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-      "title": "France evacuates 20,000 as wildfires spread in south-west",
-      "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region."
+      "label": "canadian wildfire evacuees outraged",
+      "url": "https://www.nytimes.com/2026/07/22/world/canada/ontario-wildfires-canada-smoke.html",
+      "title": "Canadian Wildfire Evacuees Outraged Over Lacking Support and Communication",
+      "summary": "Residents of northwestern Ontario say their warnings about fires they spotted were dismissed and official information as the flames spread often didn’t come at all."
     },
     {
-      "char": "🇳🇮",
-      "label": "nicaragua suspends elections plan",
-      "url": "https://www.theguardian.com/world/2026/jul/22/nicaragua-daniel-ortega-congress-work-plan-suspend-elections",
-      "title": "Nicaragua’s congress announces ‘work plan’ to suspend elections",
-      "summary": "US secretary of state says international community should ‘join forces’ against authoritarian Ortega regime Nicaragua’s congress, controlled by the country’s long-serving president, Daniel Ortega, has announced a “work plan” to implement..."
+      "char": "🥗",
+      "label": "healthy diet too expensive globally",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
     },
     {
-      "char": "🔫",
-      "label": "mayor shot dead in mexico",
-      "url": "https://www.theguardian.com/world/2026/jul/23/mayor-shot-dead-mexico-after-surviving-assassination",
-      "title": "Mayor shot dead in Mexico months after surviving assassination attempt",
-      "summary": "Valentín Lavín Romero is the 14th mayor to be murdered since Claudia Sheinbaum became president in 2024 A mayor was shot dead on Wednesday in the Mexican state of Morelos after having survived a previous assassination attempt earlier thi..."
+      "char": "🇮🇳",
+      "label": "young people protest in india",
+      "url": "https://www.nytimes.com/2026/07/22/world/asia/india-youth-protest-modi-cockroach-janta-party.html",
+      "title": "Why Are Young People in India Protesting?",
+      "summary": "A youth-led movement angry over the education system and a lack of jobs is posing a rare challenge to a government that has ruled for more than a decade with a firm hand."
+    },
+    {
+      "char": "🛩️",
+      "label": "wreckage of pan am plane found",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
+      "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+      "summary": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings."
     },
     {
       "char": "⚛️",
-      "label": "saudi arabia wants nuclear energy",
-      "url": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
-      "title": "Oil-Rich Saudi Arabia Isn’t Short on Energy. Here’s Why It Wants to Go Nuclear.",
-      "summary": "Opponents warn that a U.S.-Saudi deal could be a step toward the kingdom building an atomic bomb. But there are other reasons for the world’s largest oil exporter to diversify its energy mix."
+      "label": "us signs nuclear deal with saudi arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "title": "US signs landmark nuclear deal with Saudi Arabia",
+      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme."
+    },
+    {
+      "char": "🔥",
+      "label": "canadian wildfire evacuees outraged",
+      "url": "https://www.nytimes.com/2026/07/22/world/canada/ontario-wildfires-canada-smoke.html",
+      "title": "Canadian Wildfire Evacuees Outraged Over Lacking Support and Communication",
+      "summary": "Residents of northwestern Ontario say their warnings about fires they spotted were dismissed and official information as the flames spread often didn’t come at all."
     },
     {
       "char": "🇨🇦",
-      "label": "canada cancels bridge celebration",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
-      "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
-      "summary": "Trump’s 50% tariff threat means there will be no ribbon-cutting celebration of Gordie Howe International Bridge A planned joint US-Canada ceremony on Friday celebrating the opening of the Gordie Howe International Bridge connecting Detro..."
+      "label": "trump defends tariffs on canada",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/trump-defends-tariff-canada",
+      "title": "Trump defends 50% tariffs on Canada, saying ‘they need us to survive’",
+      "summary": "Mark Carney says Canada is ‘united’ in face of threats as leaders agree to talk before tariffs take effect next month Sign up for the Breaking News US newsletter email Donald Trump has defended his new 50% tariffs on most Canadian goods,..."
+    },
+    {
+      "char": "🦠",
+      "label": "health worker monitored for ebola",
+      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
+      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
+      "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK res..."
+    },
+    {
+      "char": "🔥",
+      "label": "canadian wildfire evacuees outraged",
+      "url": "https://www.nytimes.com/2026/07/22/world/canada/ontario-wildfires-canada-smoke.html",
+      "title": "Canadian Wildfire Evacuees Outraged Over Lacking Support and Communication",
+      "summary": "Residents of northwestern Ontario say their warnings about fires they spotted were dismissed and official information as the flames spread often didn’t come at all."
+    },
+    {
+      "char": "⚔️",
+      "label": "us military presence in jordan",
+      "url": "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html",
+      "title": "U.S. Military Presence in Jordan Makes It Iranian Target",
+      "summary": "Relying heavily on U.S. aid and protection, Jordan is unlikely to restrict the American military presence there, despite escalating Iranian airstrikes."
+    },
+    {
+      "char": "🎨",
+      "label": "ghana's film posters as collectible art",
+      "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+      "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+      "summary": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra, He..."
+    },
+    {
+      "char": "⚛️",
+      "label": "us-saudi nuclear deal concerns",
+      "url": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html",
+      "title": "U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race",
+      "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era."
+    },
+    {
+      "char": "🥗",
+      "label": "global diet affordability crisis",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "trump's tariffs on canada",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/trump-defends-tariff-canada",
+      "title": "Trump defends 50% tariffs on Canada, saying ‘they need us to survive’",
+      "summary": "Mark Carney says Canada is ‘united’ in face of threats as leaders agree to talk before tariffs take effect next month Sign up for the Breaking News US newsletter email Donald Trump has defended his new 50% tariffs on most Canadian goods,..."
+    },
+    {
+      "char": "🔥",
+      "label": "france wildfires evacuations",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "title": "Thousands evacuated in France fires",
+      "summary": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent."
+    },
+    {
+      "char": "🐋",
+      "label": "sperm whales' language changes",
+      "url": "https://www.theguardian.com/environment/2026/jul/22/sperm-whales-dominica-clicks-vowels-language-changes-shipping-noise-project-ceti",
+      "title": "Sperm whales change ‘vowel’ sounds when boats are nearby, scientists discover",
+      "summary": "Researchers listening off the Caribbean island of Dominica found variations in the mammals’ audible clicks when marine traffic was close Sperm whales produce a specific pattern of clicking noises when they hear the noise of boats, resear..."
+    },
+    {
+      "char": "🕊️",
+      "label": "indian activist hunger strike",
+      "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
+      "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
+      "summary": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi."
+    },
+    {
+      "char": "🚢",
+      "label": "yemen's houthis attack tanker",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+      "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel."
+    },
+    {
+      "char": "🇷🇺",
+      "label": "russia's businesses under strain",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days."
+    },
+    {
+      "char": "💰",
+      "label": "oil prices soar over $100",
+      "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
+      "title": "Iran War Live Updates: Attacks in Red Sea Send Oil Prices Over $100 a Barrel",
+      "summary": "The price of Brent crude soared after Iran’s Houthi allies in Yemen claimed strikes on two Saudi tankers. The House cast a second vote to rein in President Trump’s war powers, with four Republicans joining Democrats to rebuke the president."
+    },
+    {
+      "char": "⚛️",
+      "label": "saudi arabia wants nuclear power",
+      "url": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
+      "title": "Oil-Rich Saudi Arabia Isn’t Short on Energy. Here’s Why It Wants to Go Nuclear.",
+      "summary": "Opponents warn that a U.S.-Saudi deal could be a step toward the kingdom building an atomic bomb. But there are other reasons for the world’s largest oil exporter to diversify its energy mix."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "The selection of the 'worried' emoji reflects the overarching themes of concern in today's news, including geopolitical tensions, environmental crises, and social unrest, all of which contribute to a sense of anxiety about the future.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
