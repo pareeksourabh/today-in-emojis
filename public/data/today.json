@@ -1,41 +1,41 @@
 {
   "date": "2026-07-23",
-  "timestamp": "2026-07-23T10:25:04Z",
+  "timestamp": "2026-07-23T00:00:00Z",
   "emojis": [
     {
-      "char": "🇯🇴",
-      "label": "u.s. military presence in jordan",
-      "url": "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html",
-      "title": "U.S. Military Presence in Jordan Makes It Iranian Target",
-      "summary": "Relying heavily on U.S. aid and protection, Jordan is unlikely to restrict the American military presence there, despite escalating Iranian airstrikes."
+      "char": "⚛️",
+      "label": "us-saudi nuclear deal concerns",
+      "url": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html",
+      "title": "U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race",
+      "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era."
     },
     {
-      "char": "🪖",
-      "label": "taliban commander interview",
-      "url": "https://www.nytimes.com/2026/07/23/world/asia/taliban-afghanistan-marine.html",
-      "title": "Why I Sought Out a Taliban Commander I Had Fought",
-      "summary": "First as a Marine and then as a journalist, I spent years tied to Afghanistan. I returned one last time to speak to a former enemy in search of answers, and perhaps closure."
+      "char": "🥗",
+      "label": "global diet affordability crisis",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
     },
     {
-      "char": "🦠",
-      "label": "americans quarantined for ebola",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
-      "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
-      "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya afte..."
+      "char": "🇨🇦",
+      "label": "trump's tariffs on canada",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/trump-defends-tariff-canada",
+      "title": "Trump defends 50% tariffs on Canada, saying ‘they need us to survive’",
+      "summary": "Mark Carney says Canada is ‘united’ in face of threats as leaders agree to talk before tariffs take effect next month Sign up for the Breaking News US newsletter email Donald Trump has defended his new 50% tariffs on most Canadian goods,..."
     },
     {
-      "char": "🇺🇦",
-      "label": "ukraine targets russian amazon",
-      "url": "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html",
-      "title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
-      "summary": "Kyiv is escalating its air war by striking commercial warehouses, trying to bring the conflict closer to home for ordinary Russians."
+      "char": "🔥",
+      "label": "france wildfires evacuations",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "title": "Thousands evacuated in France fires",
+      "summary": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent."
     },
     {
-      "char": "🗳️",
-      "label": "sao tome presidential election",
-      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
-      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
-      "summary": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent Voters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to..."
+      "char": "🐋",
+      "label": "sperm whales' language changes",
+      "url": "https://www.theguardian.com/environment/2026/jul/22/sperm-whales-dominica-clicks-vowels-language-changes-shipping-noise-project-ceti",
+      "title": "Sperm whales change ‘vowel’ sounds when boats are nearby, scientists discover",
+      "summary": "Researchers listening off the Caribbean island of Dominica found variations in the mammals’ audible clicks when marine traffic was close Sperm whales produce a specific pattern of clicking noises when they hear the noise of boats, resear..."
     }
   ],
   "source": "ai-openai",
