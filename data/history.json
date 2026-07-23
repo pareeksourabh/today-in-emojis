@@ -56847,5 +56847,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-23",
+    "emojis": [
+      {
+        "char": "🔥",
+        "label": "france wildfires evacuate 20,000",
+        "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+        "title": "France evacuates 20,000 as wildfires spread in south-west",
+        "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region."
+      },
+      {
+        "char": "🇳🇮",
+        "label": "nicaragua suspends elections plan",
+        "url": "https://www.theguardian.com/world/2026/jul/22/nicaragua-daniel-ortega-congress-work-plan-suspend-elections",
+        "title": "Nicaragua’s congress announces ‘work plan’ to suspend elections",
+        "summary": "US secretary of state says international community should ‘join forces’ against authoritarian Ortega regime Nicaragua’s congress, controlled by the country’s long-serving president, Daniel Ortega, has announced a “work plan” to implement..."
+      },
+      {
+        "char": "🔫",
+        "label": "mayor shot dead in mexico",
+        "url": "https://www.theguardian.com/world/2026/jul/23/mayor-shot-dead-mexico-after-surviving-assassination",
+        "title": "Mayor shot dead in Mexico months after surviving assassination attempt",
+        "summary": "Valentín Lavín Romero is the 14th mayor to be murdered since Claudia Sheinbaum became president in 2024 A mayor was shot dead on Wednesday in the Mexican state of Morelos after having survived a previous assassination attempt earlier thi..."
+      },
+      {
+        "char": "⚛️",
+        "label": "saudi arabia wants nuclear energy",
+        "url": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
+        "title": "Oil-Rich Saudi Arabia Isn’t Short on Energy. Here’s Why It Wants to Go Nuclear.",
+        "summary": "Opponents warn that a U.S.-Saudi deal could be a step toward the kingdom building an atomic bomb. But there are other reasons for the world’s largest oil exporter to diversify its energy mix."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada cancels bridge celebration",
+        "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
+        "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
+        "summary": "Trump’s 50% tariff threat means there will be no ribbon-cutting celebration of Gordie Howe International Bridge A planned joint US-Canada ceremony on Friday celebrating the opening of the Gordie Howe International Bridge connecting Detro..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
