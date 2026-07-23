@@ -1,20 +1,20 @@
 {
   "date": "2026-07-23",
-  "timestamp": "2026-07-23T14:10:38Z",
+  "timestamp": "2026-07-23T00:00:00Z",
   "emojis": [
     {
-      "char": "🇯🇴",
-      "label": "u.s. military presence in jordan",
-      "url": "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html",
-      "title": "U.S. Military Presence in Jordan Makes It Iranian Target",
-      "summary": "Relying heavily on U.S. aid and protection, Jordan is unlikely to restrict the American military presence there, despite escalating Iranian airstrikes."
+      "char": "🕊️",
+      "label": "indian activist hunger strike",
+      "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
+      "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
+      "summary": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi."
     },
     {
-      "char": "🛢️",
-      "label": "houthis attack oil tankers",
+      "char": "🚢",
+      "label": "yemen's houthis attack tanker",
       "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-      "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia."
+      "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+      "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel."
     },
     {
       "char": "🇷🇺",
@@ -24,18 +24,18 @@
       "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days."
     },
     {
-      "char": "🗳️",
-      "label": "sao tome and principe election",
-      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
-      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
-      "summary": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent Voters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to..."
+      "char": "💰",
+      "label": "oil prices soar over $100",
+      "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
+      "title": "Iran War Live Updates: Attacks in Red Sea Send Oil Prices Over $100 a Barrel",
+      "summary": "The price of Brent crude soared after Iran’s Houthi allies in Yemen claimed strikes on two Saudi tankers. The House cast a second vote to rein in President Trump’s war powers, with four Republicans joining Democrats to rebuke the president."
     },
     {
-      "char": "🦠",
-      "label": "health worker monitored for ebola",
-      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
-      "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK res..."
+      "char": "⚛️",
+      "label": "saudi arabia wants nuclear power",
+      "url": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
+      "title": "Oil-Rich Saudi Arabia Isn’t Short on Energy. Here’s Why It Wants to Go Nuclear.",
+      "summary": "Opponents warn that a U.S.-Saudi deal could be a step toward the kingdom building an atomic bomb. But there are other reasons for the world’s largest oil exporter to diversify its energy mix."
     }
   ],
   "source": "ai-openai",
