@@ -1,34 +1,27 @@
 {
   "date": "2026-07-23",
-  "timestamp": "2026-07-23T01:57:15Z",
+  "timestamp": "2026-07-23T00:00:00Z",
   "emojis": [
     {
-      "char": "🧀",
-      "label": "canada's dairy sector in trade crosshairs",
-      "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
-      "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
-      "summary": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs."
-    },
-    {
       "char": "🥗",
-      "label": "healthy diet too expensive for many globally",
+      "label": "healthy diet too expensive globally",
       "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
       "title": "Healthy diet too expensive for one in three people globally, UN report finds",
       "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
     },
     {
-      "char": "🐋",
-      "label": "sperm whales change sounds near boats",
-      "url": "https://www.theguardian.com/environment/2026/jul/22/sperm-whales-dominica-clicks-vowels-language-changes-shipping-noise-project-ceti",
-      "title": "Sperm whales change ‘vowel’ sounds when boats are nearby, scientists discover",
-      "summary": "Researchers listening off the Caribbean island of Dominica found variations in the mammals’ audible clicks when marine traffic was close Sperm whales produce a specific pattern of clicking noises when they hear the noise of boats, resear..."
+      "char": "🇮🇳",
+      "label": "young people protest in india",
+      "url": "https://www.nytimes.com/2026/07/22/world/asia/india-youth-protest-modi-cockroach-janta-party.html",
+      "title": "Why Are Young People in India Protesting?",
+      "summary": "A youth-led movement angry over the education system and a lack of jobs is posing a rare challenge to a government that has ruled for more than a decade with a firm hand."
     },
     {
-      "char": "🔥",
-      "label": "fire kills 10 in peru family tragedy",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
-      "title": "Fire kills 10 members of same family in Peru, police say",
-      "summary": "Authorities are investigating the cause of the blaze in Lima as local media report it may have been arson."
+      "char": "🛩️",
+      "label": "wreckage of pan am plane found",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
+      "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+      "summary": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings."
     },
     {
       "char": "⚛️",
@@ -36,6 +29,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
       "title": "US signs landmark nuclear deal with Saudi Arabia",
       "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme."
+    },
+    {
+      "char": "🔥",
+      "label": "canadian wildfire evacuees outraged",
+      "url": "https://www.nytimes.com/2026/07/22/world/canada/ontario-wildfires-canada-smoke.html",
+      "title": "Canadian Wildfire Evacuees Outraged Over Lacking Support and Communication",
+      "summary": "Residents of northwestern Ontario say their warnings about fires they spotted were dismissed and official information as the flames spread often didn’t come at all."
     }
   ],
   "source": "ai-openai",
