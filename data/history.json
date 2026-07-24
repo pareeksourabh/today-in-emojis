@@ -57067,5 +57067,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-24",
+    "emojis": [
+      {
+        "char": "📱",
+        "label": "india's young protesters challenge media",
+        "url": "https://www.nytimes.com/2026/07/24/world/asia/india-cockroach-party-cjp-protest-memes.html",
+        "title": "Phones in Hand, India’s Young Protesters Blast Through Modi’s Media Control",
+        "summary": "Prime Minister Narendra Modi’s tightly constructed image is being punctured as a Gen Z-led protest movement uses videos and memes to seize the digital narrative."
+      },
+      {
+        "char": "🇬🇧",
+        "label": "uk army training canceled in kenya",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
+        "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
+        "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offences The British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bil..."
+      },
+      {
+        "char": "🏇",
+        "label": "girls compete in kok-boru in kyrgyzstan",
+        "url": "https://www.nytimes.com/2026/07/24/world/europe/first-girls-polo-team-breaks-with-tradition-but-keeps-the-goat-carcass.html",
+        "title": "In Kyrgyzstan, Girls Compete at Kok-Boru, a Game Like Polo",
+        "summary": "Here’s what happened when some teenage girls dared to compete in the dangerous sport of “kok-boru.”"
+      },
+      {
+        "char": "🌳",
+        "label": "amazon communities taken hostage by gangs",
+        "url": "https://www.theguardian.com/environment/2026/jul/24/gangs-taking-villages-on-brazil-peru-border-hostage-say-indigenous-leaders",
+        "title": "Masked men invading and taking Amazon communities ‘hostage’ in organised crime surge, say local leaders",
+        "summary": "Delegation sent to Brasília after gunmen from organised crime group enter homes in western Amazon Indigenous leaders on the Brazilian-Peruvian border have said their communities are being “taken hostage” by organised crime groups who are..."
+      },
+      {
+        "char": "🔫",
+        "label": "deadly shooting in west bank",
+        "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+        "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+        "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
