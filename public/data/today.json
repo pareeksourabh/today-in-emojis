@@ -1,41 +1,41 @@
 {
   "date": "2026-07-24",
-  "timestamp": "2026-07-24T01:53:20Z",
+  "timestamp": "2026-07-24T00:00:00Z",
   "emojis": [
     {
-      "char": "👶",
-      "label": "indonesian babies trafficked to singapore",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
-      "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-      "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear."
-    },
-    {
-      "char": "🕊️",
-      "label": "iran rejects us cease-fire offer",
-      "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
-      "title": "Iran War Live Updates: Iran Rejected a U.S. Cease-Fire Offer Delivered by Iraq, Officials Say",
-      "summary": "The prime minister of Iraq, who recently visited the White House, carried the proposal to Tehran. The U.S. military said it conducted a 13th consecutive night of strikes on Iran in the early hours of Friday local time."
-    },
-    {
-      "char": "🇺🇦",
-      "label": "zelensky's military reversal in ukraine",
-      "url": "https://www.nytimes.com/2026/07/23/world/europe/zelensky-ukraine-military-reversal.html",
-      "title": "Zelensky’s Dizzying U-Turn Is the Latest Zigzag in a Presidency Full of Them",
-      "summary": "President Volodymyr Zelensky of Ukraine has pivoted from unpopular moves before, but a recent decision about military leadership and strategy could weaken his position."
-    },
-    {
-      "char": "🗳️",
-      "label": "sao tome and principe presidential election",
-      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
-      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
-      "summary": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent Voters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to..."
-    },
-    {
-      "char": "⚠️",
-      "label": "ebola virus stalks camps in congo",
+      "char": "🦠",
+      "label": "ebola crisis in congo",
       "url": "https://www.nytimes.com/2026/07/23/world/africa/ebola-camps-congo-water-aid.html",
       "title": "‘We Will All Die From Ebola Here’: Virus Stalks Crowded Camps in Congo",
       "summary": "There are a million people displaced by violence in the epicenter. They live in dangerous conditions and are fighting the virus with very little clean water."
+    },
+    {
+      "char": "🕵️‍♂",
+      "label": "russian spy flees japan",
+      "url": "https://www.nytimes.com/2026/07/23/world/asia/russian-spy-flees-japan.html",
+      "title": "A Russian Spy, Suddenly Cast Into the Spotlight, Flees Japan",
+      "summary": "The military intelligence officer left the country after The Times reported that he was using the Aeroflot airline office in Tokyo to conduct espionage."
+    },
+    {
+      "char": "🔥",
+      "label": "france wildfires evacuation",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "title": "France evacuates 20,000 as wildfires spread in south-west",
+      "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region."
+    },
+    {
+      "char": "🍽️",
+      "label": "global diet costs too high",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
+    },
+    {
+      "char": "🔫",
+      "label": "mayor shot dead in mexico",
+      "url": "https://www.theguardian.com/world/2026/jul/23/mayor-shot-dead-mexico-after-surviving-assassination",
+      "title": "Mayor shot dead in Mexico months after surviving assassination attempt",
+      "summary": "Valentín Lavín Romero is the 14th mayor to be murdered since Claudia Sheinbaum became president in 2024 A mayor was shot dead on Wednesday in the Mexican state of Morelos after having survived a previous assassination attempt earlier thi..."
     }
   ],
   "source": "ai-openai",
