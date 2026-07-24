@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Distress",
-    "emoji": "😢",
-    "rationale": "The news highlights significant distressing events, including the Ebola crisis in Congo, trade tensions between the US and Canada, and tragic fatalities from wildfires and ferry accidents, illustrating a day filled with sorrow and concern.",
+    "emotion_label": "Worry",
+    "emoji": "😨",
+    "rationale": "Today's news highlights multiple crises, from tragic loss of life in Guyana and Congo to escalating tensions in various regions. The overall vibe reflects a deep sense of concern for global stability and human welfare.",
     "palette": [
       "😢",
       "😡",
