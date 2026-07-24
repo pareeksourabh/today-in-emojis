@@ -1,41 +1,41 @@
 {
   "date": "2026-07-24",
-  "timestamp": "2026-07-24T13:53:02Z",
+  "timestamp": "2026-07-24T00:00:00Z",
   "emojis": [
     {
-      "char": "🔥",
-      "label": "wildfires rage across canada",
-      "url": "https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat",
-      "title": "Weather tracker: More than 900 wildfires rage across Canada",
-      "summary": "Fires remain out of control in Northwest Territories and Ontario, while Argentina endures record night-time heat Recent hot, dry weather in Canada has triggered hundreds of wildfires across the country. As of Wednesday, more than 900 wer..."
+      "char": "🇬🇧",
+      "label": "uk army training cancelled in kenya",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
+      "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
+      "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offences The British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bil..."
     },
     {
-      "char": "⚔️",
-      "label": "us and iran trade strikes in gulf",
-      "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages."
-    },
-    {
-      "char": "🥗",
-      "label": "healthy diet too expensive globally",
+      "char": "🌍",
+      "label": "global diet costs too high for many",
       "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
       "title": "Healthy diet too expensive for one in three people globally, UN report finds",
       "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
     },
     {
-      "char": "🇧🇩",
-      "label": "bangladesh president resigns",
-      "url": "https://www.nytimes.com/2026/07/24/world/asia/bangladesh-president-resigns.html",
-      "title": "Bangladesh’s President Resigns Amid Uncertainty Over Ex-Leader’s Plans",
-      "summary": "President Mohammed Shahabuddin stepped down as speculation swirled over the possible return of his onetime ally Sheikh Hasina, who was ousted as prime minister and fled to India."
+      "char": "🔫",
+      "label": "west bank shooting casualties rise",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers."
     },
     {
-      "char": "🌍",
-      "label": "venezuela's earthquakes reveal divide",
-      "url": "https://www.nytimes.com/2026/07/24/world/americas/venezuela-earthquake-dead-costs-la-guaira.html",
-      "title": "Venezuela’s Earthquakes Show Wealth Divide, Even in Death",
-      "summary": "Latin America’s deep-seated inequalities prevailed over the grimly equalizing force of the Venezuela earthquakes, and set even the dead apart."
+      "char": "🚢",
+      "label": "tragic ferry sinking in guyana",
+      "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
+      "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
+      "summary": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana ’s coast has risen to 72, with more bodies..."
+    },
+    {
+      "char": "🔥",
+      "label": "wildfires in france and spain",
+      "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-wildfires.html",
+      "title": "Wildfires in France and Spain Drive Tens of Thousands From Their Homes",
+      "summary": "French officials ordered the evacuation of the Cap Ferret peninsula, a popular holiday destination. Fires in the Madrid area were closing in on populated areas."
     }
   ],
   "source": "ai-openai",
