@@ -1,41 +1,41 @@
 {
   "date": "2026-07-24",
-  "timestamp": "2026-07-24T06:31:34Z",
+  "timestamp": "2026-07-24T00:00:00Z",
   "emojis": [
     {
+      "char": "💊",
+      "label": "trump's new drug tariffs announced",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
+      "title": "Trump announces new tariffs on generic drugs to take effect in 2028 – as it happened",
+      "summary": "This live blog is now closed. Sign up for US Breaking News email US gas prices have continued to rise since the conflict with Iran resumed this month. According to the American Automobile Association (AAA), a gallon of fuel is now just o..."
+    },
+    {
       "char": "🇺🇦",
-      "label": "ukraine targets russian amazon",
-      "url": "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html",
-      "title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
-      "summary": "Kyiv is escalating its air war by striking commercial warehouses, trying to bring the conflict closer to home for ordinary Russians."
+      "label": "zelensky's military reversal in ukraine",
+      "url": "https://www.nytimes.com/2026/07/23/world/europe/zelensky-ukraine-military-reversal.html",
+      "title": "Zelensky’s Dizzying U-Turn Is the Latest Zigzag in a Presidency Full of Them",
+      "summary": "President Volodymyr Zelensky of Ukraine has pivoted from unpopular moves before, but a recent decision about military leadership and strategy could weaken his position."
+    },
+    {
+      "char": "⚛️",
+      "label": "saudi arabia's nuclear ambitions explained",
+      "url": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
+      "title": "Oil-Rich Saudi Arabia Isn’t Short on Energy. Here’s Why It Wants to Go Nuclear.",
+      "summary": "Opponents warn that a U.S.-Saudi deal could be a step toward the kingdom building an atomic bomb. But there are other reasons for the world’s largest oil exporter to diversify its energy mix."
     },
     {
       "char": "🥗",
-      "label": "healthy diet too expensive globally",
+      "label": "global diet costs too high for many",
       "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
       "title": "Healthy diet too expensive for one in three people globally, UN report finds",
       "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
     },
     {
-      "char": "🎖️",
-      "label": "mod cancels kenya army training",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
-      "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
-      "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offences The British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bil..."
-    },
-    {
-      "char": "🔍",
-      "label": "russian men jailed in angola",
-      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
-      "title": "Two Russian men jailed in Angola for terrorism and spying",
-      "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year Two Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a cou..."
-    },
-    {
-      "char": "🌊",
-      "label": "sperm whales change sounds near boats",
-      "url": "https://www.theguardian.com/environment/2026/jul/22/sperm-whales-dominica-clicks-vowels-language-changes-shipping-noise-project-ceti",
-      "title": "Sperm whales change ‘vowel’ sounds when boats are nearby, scientists discover",
-      "summary": "Researchers listening off the Caribbean island of Dominica found variations in the mammals’ audible clicks when marine traffic was close Sperm whales produce a specific pattern of clicking noises when they hear the noise of boats, resear..."
+      "char": "🔫",
+      "label": "mayor shot dead in mexico",
+      "url": "https://www.theguardian.com/world/2026/jul/23/mayor-shot-dead-mexico-after-surviving-assassination",
+      "title": "Mayor shot dead in Mexico months after surviving assassination attempt",
+      "summary": "Valentín Lavín Romero is the 14th mayor to be murdered since Claudia Sheinbaum became president in 2024 A mayor was shot dead on Wednesday in the Mexican state of Morelos after having survived a previous assassination attempt earlier thi..."
     }
   ],
   "source": "ai-openai",
