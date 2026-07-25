@@ -57199,5 +57199,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-25",
+    "emojis": [
+      {
+        "char": "💥",
+        "label": "russian attack near kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+        "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day."
+      },
+      {
+        "char": "🇬🇧",
+        "label": "uk army training cancelled in kenya",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
+        "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
+        "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offences The British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bil..."
+      },
+      {
+        "char": "🔫",
+        "label": "west bank shooting casualties",
+        "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+        "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+        "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires in france and spain",
+        "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+        "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\"."
+      },
+      {
+        "char": "📚",
+        "label": "trump orders history warnings",
+        "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+        "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

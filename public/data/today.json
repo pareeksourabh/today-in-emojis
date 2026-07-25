@@ -1,13 +1,20 @@
 {
   "date": "2026-07-25",
-  "timestamp": "2026-07-25T00:00:00Z",
+  "timestamp": "2026-07-25T09:50:43Z",
   "emojis": [
     {
-      "char": "🦠",
-      "label": "ebola monitoring in london",
-      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
-      "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK res..."
+      "char": "💥",
+      "label": "russian attack near kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day."
+    },
+    {
+      "char": "🇬🇧",
+      "label": "uk army training cancelled in kenya",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
+      "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
+      "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offences The British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bil..."
     },
     {
       "char": "🔫",
@@ -17,25 +24,18 @@
       "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers."
     },
     {
-      "char": "⚔️",
-      "label": "iran war updates",
-      "url": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
-      "title": "Iran War Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
-      "summary": "The discussions at the White House came days before a planned meeting with Prime Minister Benjamin Netanyahu of Israel. Across the region, Iran and the United States continued to trade attacks."
-    },
-    {
       "char": "🔥",
-      "label": "wildfires in western canada",
-      "url": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
-      "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
-      "summary": "At least 90 active blazes in British Columbia in what PM says is one of the country’s most intense seasons on record How dangerous are wildfires and how can we stop them from getting worse? Fresh wildfires have broken out in western Cana..."
+      "label": "wildfires in france and spain",
+      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+      "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+      "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\"."
     },
     {
-      "char": "🍽️",
-      "label": "global diet affordability issue",
-      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
-      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
-      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
+      "char": "📚",
+      "label": "trump orders history warnings",
+      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+      "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias."
     }
   ],
   "source": "ai-openai",
