@@ -57243,5 +57243,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-25",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "canada blocks data deal with us ice",
+        "url": "https://www.theguardian.com/world/2026/jul/24/canada-government-mark-carney-block-data-sharing-deal-thomson-reuters-us-ice-avi-lewis",
+        "title": "Canadian government urged to block Thomson Reuters data deal with US ICE",
+        "summary": "US agency is to pay Canadian media company US$125m for use of investigative database to detect ‘immigration fraud’ A Canadian federal opposition party leader has called on Mark Carney’s government to block the latest data-sharing deal be..."
+      },
+      {
+        "char": "🇷🇺",
+        "label": "russian men jailed for terrorism in angola",
+        "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+        "title": "Two Russian men jailed in Angola for terrorism and spying",
+        "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year Two Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a cou..."
+      },
+      {
+        "char": "🛥️",
+        "label": "guyana ferry sinking death toll rises",
+        "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
+        "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
+        "summary": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana ’s coast has risen to 72, with more bodies..."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires rage in western europe",
+        "url": "https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html",
+        "title": "What to Know About the Wildfires Raging in Western Europe",
+        "summary": "Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola monitoring in london hospital",
+        "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
+        "title": "Health worker monitored for Ebola in London hospital after working in DRC",
+        "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK res..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
