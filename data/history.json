@@ -57155,5 +57155,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-25",
+    "emojis": [
+      {
+        "char": "🔥",
+        "label": "wildfires in canada",
+        "url": "https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat",
+        "title": "Weather tracker: More than 900 wildfires rage across Canada",
+        "summary": "Fires remain out of control in Northwest Territories and Ontario, while Argentina endures record night-time heat Recent hot, dry weather in Canada has triggered hundreds of wildfires across the country. As of Wednesday, more than 900 wer..."
+      },
+      {
+        "char": "🇬🇧",
+        "label": "army training cancelled in kenya",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
+        "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
+        "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offences The British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bil..."
+      },
+      {
+        "char": "🚢",
+        "label": "ferry sinking in guyana",
+        "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
+        "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
+        "summary": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana ’s coast has risen to 72, with more bodies..."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela earthquake impacts",
+        "url": "https://www.nytimes.com/2026/07/24/world/americas/venezuela-earthquake-dead-costs-la-guaira.html",
+        "title": "Venezuela’s Earthquakes Show Wealth Divide, Even in Death",
+        "summary": "Latin America’s deep-seated inequalities prevailed over the grimly equalizing force of the Venezuela earthquakes, and set even the dead apart."
+      },
+      {
+        "char": "👧",
+        "label": "girls compete in kok-boru",
+        "url": "https://www.nytimes.com/2026/07/24/world/europe/first-girls-polo-team-breaks-with-tradition-but-keeps-the-goat-carcass.html",
+        "title": "In Kyrgyzstan, Girls Compete at Kok-Boru, a Game Like Polo",
+        "summary": "Here’s what happened when some teenage girls dared to compete in the dangerous sport of “kok-boru.”"
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

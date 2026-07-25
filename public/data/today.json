@@ -1,34 +1,20 @@
 {
   "date": "2026-07-25",
-  "timestamp": "2026-07-25T00:00:00Z",
+  "timestamp": "2026-07-25T06:21:29Z",
   "emojis": [
     {
-      "char": "🇰🇪",
-      "label": "uk army training cancelled in kenya",
+      "char": "🔥",
+      "label": "wildfires in canada",
+      "url": "https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat",
+      "title": "Weather tracker: More than 900 wildfires rage across Canada",
+      "summary": "Fires remain out of control in Northwest Territories and Ontario, while Argentina endures record night-time heat Recent hot, dry weather in Canada has triggered hundreds of wildfires across the country. As of Wednesday, more than 900 wer..."
+    },
+    {
+      "char": "🇬🇧",
+      "label": "army training cancelled in kenya",
       "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
       "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
       "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offences The British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bil..."
-    },
-    {
-      "char": "💰",
-      "label": "us tariffs on dozens of countries",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "title": "US hits dozens of countries with new wave of tariffs",
-      "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February."
-    },
-    {
-      "char": "⚔️",
-      "label": "iran war impacts daily life",
-      "url": "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html",
-      "title": "‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War",
-      "summary": "Devastated by cycles of violence and economic crisis, many are giving up on work and their futures as the United States batters Iran again."
-    },
-    {
-      "char": "🔥",
-      "label": "wildfires in western canada",
-      "url": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
-      "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
-      "summary": "At least 90 active blazes in British Columbia in what PM says is one of the country’s most intense seasons on record How dangerous are wildfires and how can we stop them from getting worse? Fresh wildfires have broken out in western Cana..."
     },
     {
       "char": "🚢",
@@ -36,6 +22,20 @@
       "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
       "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
       "summary": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana ’s coast has risen to 72, with more bodies..."
+    },
+    {
+      "char": "🌍",
+      "label": "venezuela earthquake impacts",
+      "url": "https://www.nytimes.com/2026/07/24/world/americas/venezuela-earthquake-dead-costs-la-guaira.html",
+      "title": "Venezuela’s Earthquakes Show Wealth Divide, Even in Death",
+      "summary": "Latin America’s deep-seated inequalities prevailed over the grimly equalizing force of the Venezuela earthquakes, and set even the dead apart."
+    },
+    {
+      "char": "👧",
+      "label": "girls compete in kok-boru",
+      "url": "https://www.nytimes.com/2026/07/24/world/europe/first-girls-polo-team-breaks-with-tradition-but-keeps-the-goat-carcass.html",
+      "title": "In Kyrgyzstan, Girls Compete at Kok-Boru, a Game Like Polo",
+      "summary": "Here’s what happened when some teenage girls dared to compete in the dangerous sport of “kok-boru.”"
     }
   ],
   "source": "ai-openai",
