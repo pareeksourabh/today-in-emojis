@@ -1,41 +1,41 @@
 {
   "date": "2026-07-25",
-  "timestamp": "2026-07-25T09:50:43Z",
+  "timestamp": "2026-07-25T00:00:00Z",
   "emojis": [
     {
-      "char": "💥",
-      "label": "russian attack near kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day."
+      "char": "📰",
+      "label": "trump at correspondents' dinner",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April."
     },
     {
-      "char": "🇬🇧",
-      "label": "uk army training cancelled in kenya",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
-      "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
-      "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offences The British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bil..."
+      "char": "🇨🇦",
+      "label": "canada blocks data deal",
+      "url": "https://www.theguardian.com/world/2026/jul/24/canada-government-mark-carney-block-data-sharing-deal-thomson-reuters-us-ice-avi-lewis",
+      "title": "Canadian government urged to block Thomson Reuters data deal with US ICE",
+      "summary": "US agency is to pay Canadian media company US$125m for use of investigative database to detect ‘immigration fraud’ A Canadian federal opposition party leader has called on Mark Carney’s government to block the latest data-sharing deal be..."
     },
     {
-      "char": "🔫",
-      "label": "west bank shooting casualties",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers."
+      "char": "🗳️",
+      "label": "sao tome presidential election",
+      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "summary": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent Voters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to..."
     },
     {
       "char": "🔥",
-      "label": "wildfires in france and spain",
-      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-      "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\"."
+      "label": "wildfires in spain and france",
+      "url": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations",
+      "title": "Live Updates: Hundreds of Thousands Flee as Fires Rage in Spain and France",
+      "summary": "Firefighters were racing to contain blazes that were moving closer to Madrid and Bordeaux."
     },
     {
-      "char": "📚",
-      "label": "trump orders history warnings",
-      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-      "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias."
+      "char": "🦠",
+      "label": "ebola monitoring in london",
+      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
+      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
+      "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK res..."
     }
   ],
   "source": "ai-openai",
