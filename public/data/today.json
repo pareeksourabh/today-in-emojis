@@ -1,28 +1,7 @@
 {
   "date": "2026-07-25",
-  "timestamp": "2026-07-25T00:00:00Z",
+  "timestamp": "2026-07-25T01:52:49Z",
   "emojis": [
-    {
-      "char": "🚢",
-      "label": "ferry sinking in guyana",
-      "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
-      "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
-      "summary": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana ’s coast has risen to 72, with more bodies..."
-    },
-    {
-      "char": "🇬🇧",
-      "label": "uk army training cancelled in kenya",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
-      "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
-      "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offences The British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bil..."
-    },
-    {
-      "char": "🌳",
-      "label": "amazon communities taken hostage",
-      "url": "https://www.theguardian.com/environment/2026/jul/24/gangs-taking-villages-on-brazil-peru-border-hostage-say-indigenous-leaders",
-      "title": "Masked men invading and taking Amazon communities ‘hostage’ in organised crime surge, say local leaders",
-      "summary": "Delegation sent to Brasília after gunmen from organised crime group enter homes in western Amazon Indigenous leaders on the Brazilian-Peruvian border have said their communities are being “taken hostage” by organised crime groups who are..."
-    },
     {
       "char": "🦠",
       "label": "ebola monitoring in london",
@@ -31,11 +10,32 @@
       "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK res..."
     },
     {
-      "char": "⚔️",
-      "label": "us and iran trade strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages."
+      "char": "⚖️",
+      "label": "icc prosecutor removed",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
+      "title": "ICC top prosecutor removed over sexual misconduct allegations",
+      "summary": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint."
+    },
+    {
+      "char": "🌍",
+      "label": "venezuela earthquake costs",
+      "url": "https://www.nytimes.com/2026/07/24/world/americas/venezuela-earthquake-dead-costs-la-guaira.html",
+      "title": "Venezuela’s Earthquakes Show Wealth Divide, Even in Death",
+      "summary": "Latin America’s deep-seated inequalities prevailed over the grimly equalizing force of the Venezuela earthquakes, and set even the dead apart."
+    },
+    {
+      "char": "🔥",
+      "label": "wildfires in western canada",
+      "url": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
+      "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
+      "summary": "At least 90 active blazes in British Columbia in what PM says is one of the country’s most intense seasons on record How dangerous are wildfires and how can we stop them from getting worse? Fresh wildfires have broken out in western Cana..."
+    },
+    {
+      "char": "🗳️",
+      "label": "sao tome election",
+      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "summary": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent Voters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to..."
     }
   ],
   "source": "ai-openai",
