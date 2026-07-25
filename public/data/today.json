@@ -1,7 +1,14 @@
 {
   "date": "2026-07-25",
-  "timestamp": "2026-07-25T00:00:00Z",
+  "timestamp": "2026-07-25T16:40:59Z",
   "emojis": [
+    {
+      "char": "🇨🇦",
+      "label": "wildfires rage across canada",
+      "url": "https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat",
+      "title": "Weather tracker: More than 900 wildfires rage across Canada",
+      "summary": "Fires remain out of control in Northwest Territories and Ontario, while Argentina endures record night-time heat Recent hot, dry weather in Canada has triggered hundreds of wildfires across the country. As of Wednesday, more than 900 wer..."
+    },
     {
       "char": "🚌",
       "label": "bus collision in syria kills 35",
@@ -10,32 +17,25 @@
       "summary": "The accident occurred when a civilian bus collided with another carrying members of the Syrian security forces on a highway in the center of the country."
     },
     {
-      "char": "🔥",
-      "label": "wildfires raging in western europe",
-      "url": "https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html",
-      "title": "What to Know About the Wildfires Raging in Western Europe",
-      "summary": "Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate."
+      "char": "📚",
+      "label": "education minister resigns in india",
+      "url": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
+      "title": "India’s Education Minister Steps Down in Victory for Cockroach Party Protesters",
+      "summary": "The Cockroach Janta Party called an end to weeks of protests after the education minister resigned, a win for that movement even as deep-seated anger among young people remains."
     },
     {
-      "char": "⚔️",
-      "label": "iran war updates: us strikes abate",
-      "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
-      "title": "Iran War Live Updates: U.S. Strikes Abate, Even as Trump Considers Escalation",
-      "summary": "U.S. forces did not announce new overnight attacks on southern Iran for the first time in about two weeks, but tensions remained high as the Houthis and Saudi-led forces in Yemen said they had traded strikes."
+      "char": "⚖️",
+      "label": "two russian men jailed in angola",
+      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+      "title": "Two Russian men jailed in Angola for terrorism and spying",
+      "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year Two Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a cou..."
     },
     {
-      "char": "🌊",
+      "char": "🚢",
       "label": "guyana ferry sinking death toll rises",
       "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
       "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
       "summary": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana ’s coast has risen to 72, with more bodies..."
-    },
-    {
-      "char": "🥗",
-      "label": "healthy diet too expensive globally",
-      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
-      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
-      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
     }
   ],
   "source": "ai-openai",
