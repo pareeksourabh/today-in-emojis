@@ -57331,5 +57331,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-26",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "us-iran cease-fire agreement",
+        "url": "https://www.nytimes.com/2026/07/25/world/middleeast/us-iran-cease-fire-deal-violations.html",
+        "title": "What’s Left of the U.S.-Iran Cease-Fire Agreement",
+        "summary": "Nearly all of the agreement’s 14 points have been violated."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires rage across canada",
+        "url": "https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat",
+        "title": "Weather tracker: More than 900 wildfires rage across Canada",
+        "summary": "Fires remain out of control in Northwest Territories and Ontario, while Argentina endures record night-time heat Recent hot, dry weather in Canada has triggered hundreds of wildfires across the country. As of Wednesday, more than 900 wer..."
+      },
+      {
+        "char": "🔒",
+        "label": "russian men jailed in angola",
+        "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+        "title": "Two Russian men jailed in Angola for terrorism and spying",
+        "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year Two Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a cou..."
+      },
+      {
+        "char": "🚢",
+        "label": "guyana ferry sinking deaths",
+        "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
+        "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
+        "summary": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana ’s coast has risen to 72, with more bodies..."
+      },
+      {
+        "char": "📚",
+        "label": "protests in india",
+        "url": "https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html",
+        "title": "Who Are the People Protesting in India?",
+        "summary": "Some of the young demonstrators who forced out the country’s education minister described their deep-seated anger, frustration and desires that drove them into the streets."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
