@@ -1,41 +1,41 @@
 {
   "date": "2026-07-26",
-  "timestamp": "2026-07-26T00:00:00Z",
+  "timestamp": "2026-07-26T16:42:22Z",
   "emojis": [
     {
-      "char": "🕌",
-      "label": "iran-backed houthis missile attack",
-      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports."
-    },
-    {
-      "char": "🚢",
-      "label": "guyana ferry sinking tragedy",
-      "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
-      "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
-      "summary": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana ’s coast has risen to 72, with more bodies..."
-    },
-    {
       "char": "🔥",
-      "label": "wildfires in western canada",
+      "label": "firefighters battle wildfire near bordeaux",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain."
+    },
+    {
+      "char": "🕵️‍♂",
+      "label": "two russian men jailed for spying",
+      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+      "title": "Two Russian men jailed in Angola for terrorism and spying",
+      "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year Two Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a cou..."
+    },
+    {
+      "char": "💔",
+      "label": "four palestinians and two israelis killed",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers."
+    },
+    {
+      "char": "⚡",
+      "label": "lightning strikes trigger wildfires in canada",
       "url": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
       "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
       "summary": "At least 90 active blazes in British Columbia in what PM says is one of the country’s most intense seasons on record How dangerous are wildfires and how can we stop them from getting worse? Fresh wildfires have broken out in western Cana..."
     },
     {
-      "char": "🏳️‍🌈",
-      "label": "berlin pride attack investigation",
-      "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-      "title": "Officials Call Attack Near Berlin Pride Celebration a ‘Terror Attack’",
-      "summary": "The hunt for a 21-year-old man began early Sunday, in what officials called a likely act of Islamist terrorism."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola monitoring in london",
-      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
-      "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK res..."
+      "char": "🚢",
+      "label": "guyanese authorities confirm ferry sinking",
+      "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
+      "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
+      "summary": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana ’s coast has risen to 72, with more bodies..."
     }
   ],
   "source": "ai-openai",
