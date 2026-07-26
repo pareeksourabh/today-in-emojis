@@ -1,41 +1,41 @@
 {
   "date": "2026-07-26",
-  "timestamp": "2026-07-26T00:00:00Z",
+  "timestamp": "2026-07-26T10:02:39Z",
   "emojis": [
     {
+      "char": "🎨",
+      "label": "russian attack on kyiv drone expo",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day."
+    },
+    {
+      "char": "🌳",
+      "label": "masked men invade amazon communities",
+      "url": "https://www.theguardian.com/environment/2026/jul/24/gangs-taking-villages-on-brazil-peru-border-hostage-say-indigenous-leaders",
+      "title": "Masked men invading and taking Amazon communities ‘hostage’ in organised crime surge, say local leaders",
+      "summary": "Delegation sent to Brasília after gunmen from organised crime group enter homes in western Amazon Indigenous leaders on the Brazilian-Peruvian border have said their communities are being “taken hostage” by organised crime groups who are..."
+    },
+    {
       "char": "📚",
-      "label": "india’s education minister resigns",
-      "url": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
-      "title": "India’s Education Minister Steps Down in Victory for Cockroach Party Protesters",
-      "summary": "The Cockroach Janta Party called an end to weeks of protests after the education minister resigned, a win for that movement even as deep-seated anger among young people remains."
+      "label": "cockroach protest ends after minister quits",
+      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years."
     },
     {
-      "char": "⚔️",
-      "label": "us-iran war enters new phase",
-      "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
-      "title": "U.S.-Iran Strikes Abate as War Enters Latest Crossroads",
-      "summary": "The Trump administration pulled back from major escalation, in part because of concerns over the supply of munitions, said people familiar with the matter."
+      "char": "⚖️",
+      "label": "two russians jailed in angola",
+      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+      "title": "Two Russian men jailed in Angola for terrorism and spying",
+      "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year Two Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a cou..."
     },
     {
-      "char": "🔥",
-      "label": "wildfires rage in spain and france",
-      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
-      "title": "Wildfire Smoke Chokes Skies in Spain and France",
-      "summary": "Hundreds of thousands of people, residents as well as vacationers, were forced to evacuate or told to remain indoors."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola monitoring in london hospital",
-      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
-      "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK res..."
-    },
-    {
-      "char": "🚢",
-      "label": "ferry sinking in guyana confirmed deaths",
-      "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
-      "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
-      "summary": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana ’s coast has risen to 72, with more bodies..."
+      "char": "🌍",
+      "label": "eu divided over israeli imports ban",
+      "url": "https://www.nytimes.com/2026/07/26/world/middleeast/eu-debate-about-import-ban-reveals-deep-divides-over-israel.html",
+      "title": "E.U. Divided Over Barring Imports From Israeli Settlements",
+      "summary": "The discussion about restricting goods from Israeli settlements in occupied territories reflects a European split over whether and how to confront Israel."
     }
   ],
   "source": "ai-openai",
