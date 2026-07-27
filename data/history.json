@@ -57683,5 +57683,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-27",
+    "emojis": [
+      {
+        "char": "🏳️‍🌈",
+        "label": "berlin pride attack raises concerns",
+        "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
+        "title": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
+        "summary": "Chancellor Friedrich Merz of Germany called for tighter monitoring after the authorities said the suspect in the assault had tried to join ISIS and was released from detention in May."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola monitoring in london hospital",
+        "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
+        "title": "Health worker monitored for Ebola in London hospital after working in DRC",
+        "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK res..."
+      },
+      {
+        "char": "🇬🇧",
+        "label": "uk army training cancelled in kenya",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
+        "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
+        "summary": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offences The British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bil..."
+      },
+      {
+        "char": "🚢",
+        "label": "guyana ferry tragedy claims lives",
+        "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
+        "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
+        "summary": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana ’s coast has risen to 72, with more bodies..."
+      },
+      {
+        "char": "🌍",
+        "label": "emergency food aid in uganda",
+        "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
+        "title": "Uganda begins emergency food handouts after 19 die from hunger",
+        "summary": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutrition Uganda has launched emergency food relief distribution after at least 19 deaths from hunger were reported in an area of prolong..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
