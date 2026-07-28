@@ -57859,5 +57859,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-28",
+    "emojis": [
+      {
+        "char": "🔫",
+        "label": "shots fired near us consulate",
+        "url": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto",
+        "title": "Shots fired near US consulate in Canada for second time in four months",
+        "summary": "No one was injured and no suspects have been identified in connection to shooting near Toronto compound, police say Shots were fired near the US consulate in Toronto early on Monday but no one was injured in the second shooting near the..."
+      },
+      {
+        "char": "🗳️",
+        "label": "clashes in kashmir election",
+        "url": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html",
+        "title": "Fresh Clashes Erupt in Pakistani Kashmir on First Day of Contested Vote",
+        "summary": "Dozens have died in recent weeks ahead of a weekslong regional election, officials said. A banned civil rights group said supporters died in conflicts with the police."
+      },
+      {
+        "char": "⚖️",
+        "label": "us walks out of un meeting",
+        "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+        "title": "US walks out of UN Security Council meeting during France's remarks",
+        "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights."
+      },
+      {
+        "char": "🌍",
+        "label": "milei accuses us democrats",
+        "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
+        "title": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
+        "summary": "President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’ More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least..."
+      },
+      {
+        "char": "🍽️",
+        "label": "healthy diet too expensive globally",
+        "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+        "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+        "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
