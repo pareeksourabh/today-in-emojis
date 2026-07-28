@@ -57903,5 +57903,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-28",
+    "emojis": [
+      {
+        "char": "⚔️",
+        "label": "ukraine's strike on iranian ship",
+        "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html",
+        "title": "Ukraine’s Strike on an Iranian Ship Could Bring Two Wars Closer",
+        "summary": "The attack in the Caspian Sea was an unusually direct encounter between two countries that have been on opposite sides for years."
+      },
+      {
+        "char": "💊",
+        "label": "j&j settles baby powder lawsuits",
+        "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+        "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+        "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola monitoring in london",
+        "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
+        "title": "Health worker monitored for Ebola in London hospital after working in DRC",
+        "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK res..."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "afd opposes pride flags",
+        "url": "https://www.nytimes.com/2026/07/28/world/europe/berlin-pride-attack-afd-politics.html",
+        "title": "Germany’s AfD Opposes Pride Flags but May Win Support After L.G.B.T.Q. Attack",
+        "summary": "Analysts say a recent attack on a Pride celebration is likely to focus fall elections on issues favoring the far-right Alternative for Germany party."
+      },
+      {
+        "char": "🎶",
+        "label": "pinochet-era soldier jailed",
+        "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
+        "title": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
+        "summary": "Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in Chile More than 50 years after the murder of the Chilean folk singer Víctor Jara , the last man wanted in connection with his death has been track..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
