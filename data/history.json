@@ -57771,5 +57771,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-28",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "ebola monitoring in london",
+        "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
+        "title": "Health worker monitored for Ebola in London hospital after working in DRC",
+        "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK res..."
+      },
+      {
+        "char": "🔫",
+        "label": "shots fired at us consulate",
+        "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
+        "title": "Shots fired at US consulate in Toronto for a second time this year",
+        "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack."
+      },
+      {
+        "char": "🥗",
+        "label": "healthy diet too expensive globally",
+        "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+        "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+        "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in three people cannot afford to eat a h..."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires in france and spain",
+        "url": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
+        "title": "Europe Wildfires Updates: New Heat Wave Could Worsen France and Spain’s ‘Unprecedented’ Fire Season",
+        "summary": "Firefighters and volunteers raced to contain wildfires on Monday. The crisis has forced hundreds of thousands to evacuate in central Spain and southwest France."
+      },
+      {
+        "char": "🚢",
+        "label": "guyana ferry tragedy updates",
+        "url": "https://www.nytimes.com/2026/07/27/world/americas/guyana-ferry-accident-oil-economy.html",
+        "title": "Guyana Ferry Tragedy Exposes Political Rifts in Oil-Rich Country",
+        "summary": "The capsizing of a ferry was Guyana’s deadliest event since Jonestown in 1978. Many are asking how this could happen in one of the world’s fastest-growing economies."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
