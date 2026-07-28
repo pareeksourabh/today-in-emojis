@@ -57947,5 +57947,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-28",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "victim's family criticizes kohberger",
+        "url": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&at_campaign=rss",
+        "title": "'A narcissist': Victim's family hits out at Kohberger for challenging murder conviction",
+        "summary": "The man accused of killing four students in Idaho is taking back his plea, which was made to avoid the death penalty."
+      },
+      {
+        "char": "🇭🇰",
+        "label": "hong kong activist stays in uk",
+        "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
+        "title": "Hong Kong activist allowed to stay in UK after deportation threat",
+        "summary": "Wu was detained for hours at London's Heathrow Airport last week and refused entry, he told the BBC."
+      },
+      {
+        "char": "⚔️",
+        "label": "iran pauses cease-fire talks",
+        "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html",
+        "title": "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks",
+        "summary": "Amid a reprieve in the fighting, Iran’s leaders are betting that they can endure more pain than President Trump can, and they have leverage over the Strait of Hormuz, analysts say."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires impact europe and north america",
+        "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+        "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+        "summary": "Three years after Maui wildfires many still struggle with ‘biological, emotional and social consequences’, study says A spate of ferocious wildfires across North America and Europe, worsened by the climate crisis, have incinerated homes..."
+      },
+      {
+        "char": "🍷",
+        "label": "bordeaux vineyards threatened by fire",
+        "url": "https://www.nytimes.com/2026/07/28/world/europe/bordeaux-wine-france-wildfires-smoke.html",
+        "title": "Fire Raging Near Bordeaux Brings More Bad News for Its Vineyards",
+        "summary": "One of the largest fires in modern French history is raging near the vineyards of Bordeaux. That is just the latest problem for France’s embattled wine industry."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
