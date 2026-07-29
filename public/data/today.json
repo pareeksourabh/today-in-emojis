@@ -1,7 +1,28 @@
 {
   "date": "2026-07-29",
-  "timestamp": "2026-07-29T10:41:27Z",
+  "timestamp": "2026-07-29T00:00:00Z",
   "emojis": [
+    {
+      "char": "🍽️",
+      "label": "uganda food handouts after deaths",
+      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
+      "title": "Uganda begins emergency food handouts after 19 die from hunger",
+      "summary": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutrition Uganda has launched emergency food relief distribution after at least 19 deaths from hunger were reported in an area of prolong..."
+    },
+    {
+      "char": "🎉",
+      "label": "myanmar's rich seek nightlife amid war",
+      "url": "https://www.nytimes.com/2026/07/29/world/asia/myanmar-war-nightlife-luxury.html",
+      "title": "Amid Myanmar’s Civil War, the Rich Seek Parties and ‘Positive Vibes Only’",
+      "summary": "The lifestyles of the wealthy in Myanmar — nightclubs, caviar and trips abroad — have been largely untouched by years of deadly conflict."
+    },
+    {
+      "char": "🏚️",
+      "label": "japan races to rescue quake survivors",
+      "url": "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-rescue-survivors.html",
+      "title": "Japan ‘Races Against Time’ to Reach People Trapped After Large Quake",
+      "summary": "Rescue personnel are working to free those trapped in collapsed buildings after a 6.8-magnitude earthquake struck Kumamoto on Tuesday."
+    },
     {
       "char": "🐘",
       "label": "kenya investigates elephant deaths",
@@ -10,32 +31,11 @@
       "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park. The Kenya Wildlife S..."
     },
     {
-      "char": "🔥",
-      "label": "wildfires effects linger in europe",
+      "char": "🌍",
+      "label": "climate change effects on wildfires",
       "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
       "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
       "summary": "Three years after Maui wildfires many still struggle with ‘biological, emotional and social consequences’, study says A spate of ferocious wildfires across North America and Europe, worsened by the climate crisis, has incinerated homes a..."
-    },
-    {
-      "char": "🍽️",
-      "label": "uganda starts emergency food aid",
-      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
-      "title": "Uganda begins emergency food handouts after 19 die from hunger",
-      "summary": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutrition Uganda has launched emergency food relief distribution after at least 19 deaths from hunger were reported in an area of prolong..."
-    },
-    {
-      "char": "✈️",
-      "label": "project sunrise: long-haul flight",
-      "url": "https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html",
-      "title": "What to Know About Project Sunrise, a 22-Hour Nonstop Flight Between London and Sydney",
-      "summary": "Qantas plans to launch the world’s longest commercial flight next year from Sydney to London, using specially manufactured Airbus jets."
-    },
-    {
-      "char": "⚖️",
-      "label": "moroccan man's death sparks outrage",
-      "url": "https://www.nytimes.com/2026/07/29/world/europe/fakir-moroccan-death-italy-police.html",
-      "title": "Moroccan Man’s Death While Restrained By Police Reverberates Across Italy",
-      "summary": "Abderrahim Fakir died after police officers pinned him to the ground. His death has evolved into a broader standoff over the treatment and role of immigrants in Italy."
     }
   ],
   "source": "ai-openai",
