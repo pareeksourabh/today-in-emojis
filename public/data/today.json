@@ -1,204 +1,43 @@
 {
-  "date": "2026-07-28",
-  "timestamp": "2026-07-28T00:00:00Z",
+  "date": "2026-07-29",
+  "timestamp": "2026-07-29T00:00:00Z",
   "emojis": [
     {
+      "char": "🇨🇦",
+      "label": "canadians travel drop after trump",
+      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
+      "summary": "Data shows Canadians have replaced US vacations with other international trips in apparent rebuke to Trump Canadians spent $3.3bn less on travel to the US in 2025 than in the previous year, as Donald Trump’s hostile policies towards his..."
+    },
+    {
       "char": "🦠",
-      "label": "ebola monitoring in london",
+      "label": "health worker monitored for ebola",
       "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
       "title": "Health worker monitored for Ebola in London hospital after working in DRC",
       "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus. The UK res..."
     },
     {
-      "char": "🏳️‍🌈",
-      "label": "berlin pride attack criticism",
-      "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
-      "title": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
-      "summary": "Chancellor Friedrich Merz of Germany called for tighter monitoring after the authorities said the suspect in the assault had tried to join ISIS and was released from detention in May."
-    },
-    {
-      "char": "🛩️",
-      "label": "saudi drone attacks blamed on iran",
-      "url": "https://www.nytimes.com/2026/07/27/world/middleeast/saudi-arabia-drone-attacks-iraq-iran.html",
-      "title": "Saudis Blame Iran-Backed Militias Based in Iraq for Drone Attacks",
-      "summary": "The kingdom is being dragged deeper into the wider regional conflict as it faces attacks from Iraq and Yemen."
+      "char": "🌊",
+      "label": "japan rescues after strong quake",
+      "url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
+      "title": "Japan Mounts Rescues in Buildings That Collapsed After Strong Quake",
+      "summary": "Emergency workers were racing to find people and extinguish fires after the 6.8 magnitude quake struck the southwestern prefecture of Kumamoto."
     },
     {
       "char": "🔥",
-      "label": "wildfire near bordeaux",
-      "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-      "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-      "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"."
-    },
-    {
-      "char": "🚢",
-      "label": "guyana ferry tragedy",
-      "url": "https://www.nytimes.com/2026/07/27/world/americas/guyana-ferry-accident-oil-economy.html",
-      "title": "Guyana Ferry Tragedy Exposes Political Rifts in Oil-Rich Country",
-      "summary": "The capsizing of a ferry was Guyana’s deadliest event since Jonestown in 1978. Many are asking how this could happen in one of the world’s fastest-growing economies."
-    },
-    {
-      "char": "🛩️",
-      "label": "saudis blame iran-backed militias",
-      "url": "https://www.nytimes.com/2026/07/27/world/middleeast/saudi-arabia-drone-attacks-iraq-iran.html",
-      "title": "Saudis Blame Iran-Backed Militias Based in Iraq for Drone Attacks",
-      "summary": "The kingdom is being dragged deeper into the wider regional conflict as it faces attacks from Iraq and Yemen."
-    },
-    {
-      "char": "💼",
-      "label": "trump discusses iran war talks",
-      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump says Iran war talks taking place during lull in strikes",
-      "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place."
-    },
-    {
-      "char": "🏳️‍🌈",
-      "label": "shots fired near us consulate",
-      "url": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto",
-      "title": "Shots fired near US consulate in Canada for second time in four months",
-      "summary": "No one was injured and no suspects have been identified in connection to shooting near Toronto compound, police say Shots were fired near the US consulate in Toronto early on Monday but no one was injured in the second shooting near the..."
-    },
-    {
-      "char": "🚢",
-      "label": "guyana ferry tragedy exposes rifts",
-      "url": "https://www.nytimes.com/2026/07/27/world/americas/guyana-ferry-accident-oil-economy.html",
-      "title": "Guyana Ferry Tragedy Exposes Political Rifts in Oil-Rich Country",
-      "summary": "The capsizing of a ferry was Guyana’s deadliest event since Jonestown in 1978. Many are asking how this could happen in one of the world’s fastest-growing economies."
-    },
-    {
-      "char": "🔥",
-      "label": "wildfire near french city of bordeaux",
-      "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-      "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-      "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"."
-    },
-    {
-      "char": "🇮🇱",
-      "label": "netanyahu's balancing act in dc",
-      "url": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html",
-      "title": "In Washington, Netanyahu Faces a Delicate Balancing Act",
-      "summary": "Prime Minister Benjamin Netanyahu of Israel is set to meet President Trump on Tuesday, with one eye on Iran and another on the coming elections back home."
-    },
-    {
-      "char": "🏙️",
-      "label": "japan's mosque identity protests",
-      "url": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
-      "title": "A Japanese town wrestles with identity after protests over its first mosque",
-      "summary": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions."
-    },
-    {
-      "char": "📚",
-      "label": "india's education protest aftermath",
-      "url": "https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html",
-      "title": "India’s ‘Cockroach’ Protesters Disperse, But Questions Remain on Education and Dissent",
-      "summary": "The ‘Cockroach’ movement dispersed, saying its demands had been met, but there are larger issues about the country’s education system and the future of dissent."
-    },
-    {
-      "char": "🔥",
-      "label": "wildfires threaten madrid area",
+      "label": "wildfires near madrid",
       "url": "https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html",
       "title": "Massive Wildfires Draw Close to Madrid",
       "summary": "Madrid is booming, culturally and economically, but the wildfires raging within a short drive of the capital have provided a reality check."
     },
     {
-      "char": "🚢",
-      "label": "guyana ferry sinking tragedy",
-      "url": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
-      "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
-      "summary": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off Guyana ’s coast has risen to 72, with more bodies..."
-    },
-    {
-      "char": "🎬",
-      "label": "nolan film adaptation review",
-      "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
-      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-      "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed."
-    },
-    {
-      "char": "🇭🇰",
-      "label": "hk activist stays in uk",
-      "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
-      "title": "Hong Kong activist allowed to stay in UK after deportation threat",
-      "summary": "Wu was detained for hours at London's Heathrow Airport last week and refused entry, he told the BBC."
-    },
-    {
-      "char": "🔥",
-      "label": "wildfires in western canada",
-      "url": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
-      "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
-      "summary": "At least 90 active blazes in British Columbia in what PM says is one of the country’s most intense seasons on record How dangerous are wildfires and how can we stop them from getting worse? Fresh wildfires have broken out in western Cana..."
-    },
-    {
-      "char": "🤝",
-      "label": "zelensky and trump meeting",
-      "url": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html",
-      "title": "Zelensky and Trump Will Meet at the White House. Has Their Relationship Thawed?",
-      "summary": "President Trump will meet his Ukrainian counterpart in Washington this week. President Volodymyr Zelensky will also attend the funeral of Senator Lindsey Graham."
-    },
-    {
-      "char": "🗳️",
-      "label": "clashes in kashmir elections",
-      "url": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html",
-      "title": "Fresh Clashes Erupt in Pakistani Kashmir on First Day of Contested Vote",
-      "summary": "Dozens have died in recent weeks ahead of a weekslong regional election, officials said. A banned civil rights group said supporters died in conflicts with the police."
-    },
-    {
-      "char": "🇭🇰",
-      "label": "hong kong activist stays in uk",
-      "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
-      "title": "Hong Kong activist allowed to stay in UK after deportation threat",
-      "summary": "Wu was detained for hours at London's Heathrow Airport last week and refused entry, he told the BBC."
-    },
-    {
-      "char": "🔥",
-      "label": "wildfires impact europe and north america",
-      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
-      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
-      "summary": "Three years after Maui wildfires many still struggle with ‘biological, emotional and social consequences’, study says A spate of ferocious wildfires across North America and Europe, worsened by the climate crisis, have incinerated homes..."
-    },
-    {
-      "char": "🌍",
-      "label": "emergency food handouts in uganda",
-      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
-      "title": "Uganda begins emergency food handouts after 19 die from hunger",
-      "summary": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutrition Uganda has launched emergency food relief distribution after at least 19 deaths from hunger were reported in an area of prolong..."
-    },
-    {
-      "char": "🗳️",
-      "label": "clashes in kashmir election",
-      "url": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html",
-      "title": "Fresh Clashes Erupt in Pakistani Kashmir on First Day of Contested Vote",
-      "summary": "Dozens have died in recent weeks ahead of a weekslong regional election, officials said. A banned civil rights group said supporters died in conflicts with the police."
-    },
-    {
-      "char": "🇺🇸",
-      "label": "zelensky and trump meet",
-      "url": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html",
-      "title": "Zelensky and Trump Meet at the White House. Has Their Relationship Thawed?",
-      "summary": "President Trump meets his Ukrainian counterpart in Washington this week. President Volodymyr Zelensky will also attend the funeral of Senator Lindsey Graham."
+      "char": "🍷",
+      "label": "bordeaux vineyards affected by fires",
+      "url": "https://www.nytimes.com/2026/07/28/world/europe/bordeaux-wine-france-wildfires-smoke.html",
+      "title": "Fire Raging Near Bordeaux Brings More Bad News for Its Vineyards",
+      "summary": "One of the largest fires in modern French history is raging near the vineyards of Bordeaux. That is just the latest problem for France’s embattled wine industry."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Concern",
-    "emoji": "😨",
-    "rationale": "Today's news is dominated by alarming events including health scares, deadly attacks, and devastating wildfires, creating a pervasive sense of anxiety and urgency.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
