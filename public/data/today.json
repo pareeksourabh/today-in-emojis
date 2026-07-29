@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The day's news highlights significant crises, including earthquakes, wildfires, and humanitarian issues, evoking a sense of fear and concern for those affected.",
+    "emotion_label": "Sadness",
+    "emoji": "😢",
+    "rationale": "Today's news highlights numerous tragedies, including natural disasters, hunger crises, and ongoing conflicts. The overall tone reflects concern and sorrow for those affected by these events.",
     "palette": [
       "😢",
       "😡",
