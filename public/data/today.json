@@ -1,27 +1,13 @@
 {
   "date": "2026-07-29",
-  "timestamp": "2026-07-29T14:20:01Z",
+  "timestamp": "2026-07-29T00:00:00Z",
   "emojis": [
     {
       "char": "🎤",
-      "label": "pinochet-era soldier jailed for jara",
+      "label": "pinochet soldier jailed for jara's death",
       "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
       "title": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
       "summary": "Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in Chile More than 50 years after the murder of the Chilean folk singer Víctor Jara , the last man wanted in connection with his death has been track..."
-    },
-    {
-      "char": "🔥",
-      "label": "wildfires slow in france and spain",
-      "url": "https://www.nytimes.com/2026/07/29/world/europe/wildfires-spain-france.html",
-      "title": "Wildfires Slow in France and Spain, but Worse May Be Ahead",
-      "summary": "Firefighters have contained vast wildfires in both countries, but winds are high and temperatures rising. Spain’s prime minister said the next 12 hours would be “decisive.”"
-    },
-    {
-      "char": "💣",
-      "label": "us airstrikes drag more countries into fighting",
-      "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
-      "title": "Iran War Live Updates: U.S. and Saudi Airstrikes Drag More Countries Into Fighting",
-      "summary": "Global oil prices jumped on Wednesday after the U.S. and Saudi Arabia said they had carried out joint airstrikes on Iranian proxies in Iraq."
     },
     {
       "char": "🔫",
@@ -32,6 +18,20 @@
     },
     {
       "char": "🌍",
+      "label": "japan races to rescue after earthquake",
+      "url": "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-rescue-survivors.html",
+      "title": "After Large Earthquake, Japan ‘Races Against Time’ to Reach People Trapped",
+      "summary": "Rescue personnel are working to free those trapped in collapsed buildings after a 6.8-magnitude earthquake struck Kumamoto on Tuesday."
+    },
+    {
+      "char": "🕊️",
+      "label": "israel strikes mosque in gaza city",
+      "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
+      "title": "Israel Strikes Mosque in Gaza City",
+      "summary": "The Israeli military accused Hamas of using the mosque to store weapons. The Hamas-run government’s media office said Israel’s claims aimed to justify its attacks on mosques."
+    },
+    {
+      "char": "🍽️",
       "label": "uganda begins emergency food handouts",
       "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
       "title": "Uganda begins emergency food handouts after 19 die from hunger",
