@@ -58299,5 +58299,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-30",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "young africans support usaid cuts",
+        "url": "https://www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds",
+        "title": "A quarter of young Africans believe USAID cuts could be positive, survey finds",
+        "summary": "Losing funds should force leaders to confront their own challenges, they said, while many voiced concerns over increasing foreign influence A quarter of young Africans believe aid cuts by the US could have a positive impact, saying that..."
+      },
+      {
+        "char": "🔥",
+        "label": "europe's summer of heat and fires",
+        "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
+        "title": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
+        "summary": "The continent is experiencing some of its biggest fires and highest temperatures ever. Residents are fleeing, leaders are struggling to respond and “it will get worse,” one climate expert said."
+      },
+      {
+        "char": "🐘",
+        "label": "kenya investigates elephant deaths",
+        "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
+        "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
+        "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park. The Kenya Wildlife S..."
+      },
+      {
+        "char": "🌪️",
+        "label": "japan earthquake death toll rises",
+        "url": "https://www.nytimes.com/2026/07/30/world/asia/japan-earthquake-kumamoto-death-toll.html",
+        "title": "Japan Earthquake Death Toll Rises to 34",
+        "summary": "Rescue crews were working to find people who might still be trapped in a collapsed shopping mall, as the region faced sweltering heat."
+      },
+      {
+        "char": "⚖️",
+        "label": "australia sues telegram over terror content",
+        "url": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss",
+        "title": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
+        "summary": "Telegram told the BBC it rejects the allegations and will contest them in court."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
