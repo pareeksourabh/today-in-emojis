@@ -58387,5 +58387,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-30",
+    "emojis": [
+      {
+        "char": "🐘",
+        "label": "kenya investigating elephant deaths",
+        "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
+        "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
+        "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park. The Kenya Wildlife S..."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires in europe and north america",
+        "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+        "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+        "summary": "Three years after Maui wildfires many still struggle with ‘biological, emotional and social consequences’, study says A spate of ferocious wildfires across North America and Europe, worsened by the climate crisis, has incinerated homes a..."
+      },
+      {
+        "char": "💣",
+        "label": "us strikes on iran after attack",
+        "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+        "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+        "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks."
+      },
+      {
+        "char": "⚽",
+        "label": "milei accuses us democrats at world cup",
+        "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
+        "title": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
+        "summary": "President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’ More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least..."
+      },
+      {
+        "char": "🌍",
+        "label": "us government mislabels african countries",
+        "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
+        "title": "US government map of Africa mislabels every country at global conference",
+        "summary": "State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in Brazil A US government map of Africa mislabeled every country during a state department presentation at a ⁠global conference..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
