@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news items reflect a day filled with distressing events, including natural disasters, hunger crises, and ongoing conflicts, leading to a prevailing sense of fear and concern for global well-being.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The news highlights a series of tragic events, including hunger-related deaths in Uganda, wildfires in Europe, and missile strikes in Ukraine, evoking a deep sense of sorrow and concern for those affected.",
     "palette": [
       "😢",
       "😡",
