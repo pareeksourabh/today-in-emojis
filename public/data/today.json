@@ -1,41 +1,41 @@
 {
   "date": "2026-07-30",
-  "timestamp": "2026-07-30T01:41:09Z",
+  "timestamp": "2026-07-30T00:00:00Z",
   "emojis": [
     {
-      "char": "🎬",
-      "label": "zendaya and tom holland friendship",
-      "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-      "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-      "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day."
+      "char": "🇦🇺",
+      "label": "australia sues telegram over terror content",
+      "url": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss",
+      "title": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
+      "summary": "Telegram told the BBC it rejects the allegations and will contest them in court."
     },
     {
-      "char": "🇬🇧",
-      "label": "northern ireland anti-immigrant ideology",
-      "url": "https://www.nytimes.com/2026/07/29/world/europe/northern-ireland-belfast-protestant-loyalists-immigration-violence.html",
-      "title": "Some Northern Ireland Loyalists Embrace an Anti-Immigrant Ideology",
-      "summary": "Northern Ireland’s Protestant loyalists have long felt their identity was under siege. Now anti-immigrant ideology has found a new toehold here."
+      "char": "🗣️",
+      "label": "jordanians speak out against us troops",
+      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/jordan-us-military-iran-war.html",
+      "title": "Some Jordanians Dare to Speak Out Against U.S. Troop Presence",
+      "summary": "Hundreds of political, legal and other figures signed a public letter warning that Jordan’s close alliance with the United States poses a risk."
+    },
+    {
+      "char": "🔥",
+      "label": "wildfires threaten southern europe",
+      "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
+      "summary": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations."
+    },
+    {
+      "char": "🐘",
+      "label": "kenya investigates elephant deaths",
+      "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
+      "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
+      "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park. The Kenya Wildlife S..."
     },
     {
       "char": "🍽️",
-      "label": "uganda emergency food handouts",
+      "label": "uganda starts emergency food handouts",
       "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
       "title": "Uganda begins emergency food handouts after 19 die from hunger",
       "summary": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutrition Uganda has launched emergency food relief distribution after at least 19 deaths from hunger were reported in an area of prolong..."
-    },
-    {
-      "char": "💣",
-      "label": "telegram founder charged with terrorism",
-      "url": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
-      "title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
-      "summary": "The case against Pavel Durov reflected an ongoing fight over one of the world’s most popular messaging and media apps, which is widely used in the country."
-    },
-    {
-      "char": "🔫",
-      "label": "shots fired near us consulate",
-      "url": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto",
-      "title": "Shots fired near US consulate in Canada for second time in four months",
-      "summary": "No one was injured and no suspects have been identified in connection to shooting near Toronto compound, police say Shots were fired near the US consulate in Toronto early on Monday but no one was injured in the second shooting near the..."
     }
   ],
   "source": "ai-openai",
