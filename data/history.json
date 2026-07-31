@@ -58475,5 +58475,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-31",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "limited war with the US and Iran",
+        "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+        "title": "Why limited war with the US may suit Iran better than peace",
+        "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war."
+      },
+      {
+        "char": "✈️",
+        "label": "canadians travel drop after trump",
+        "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+        "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
+        "summary": "Data shows Canadians have replaced US vacations with other international trips in apparent rebuke to Trump Canadians spent $3.3bn less on travel to the US in 2025 than in the previous year, as Donald Trump’s hostile policies towards his..."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfire in suffolk near nuclear site",
+        "url": "https://www.nytimes.com/2026/07/30/world/europe/suffolk-wildfire-uk.html",
+        "title": "Wildfire in Suffolk, UK, Breaks Out a Few Miles From Nuclear Power Station",
+        "summary": "A large fire engulfed almost 250 acres of land in Suffolk, a scenic area on the coast. It was a few miles from a nuclear power station."
+      },
+      {
+        "char": "🐘",
+        "label": "elephant deaths in kenya park",
+        "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
+        "title": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
+        "summary": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya in the past month were likely caused by the animals ingesti..."
+      },
+      {
+        "char": "🌍",
+        "label": "japan earthquake death toll rises",
+        "url": "https://www.nytimes.com/2026/07/30/world/asia/japan-earthquake-kumamoto-death-toll.html",
+        "title": "Japan Earthquake Death Toll Rises to 34",
+        "summary": "Rescue crews were working to find people who might still be trapped in a collapsed shopping mall, as the region faced sweltering heat."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
