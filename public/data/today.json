@@ -1,34 +1,27 @@
 {
   "date": "2026-07-31",
-  "timestamp": "2026-07-31T14:18:20Z",
+  "timestamp": "2026-07-31T00:00:00Z",
   "emojis": [
     {
-      "char": "🐘",
-      "label": "elephant deaths in kenya",
-      "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
-      "title": "Fifteen elephant deaths in Kenya may be due to cyanide poisoning",
-      "summary": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya were likely caused by the animals ingesting pesticides used..."
-    },
-    {
-      "char": "🎤",
-      "label": "pinochet-era soldier jailed",
-      "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
-      "title": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
-      "summary": "Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in Chile More than 50 years after the murder of the Chilean folk singer Víctor Jara , the last man wanted in connection with his death has been track..."
-    },
-    {
-      "char": "✈️",
-      "label": "flying the douglas dc-3",
-      "url": "https://www.nytimes.com/2026/07/31/world/americas/plane-douglas-dc3-wwii-colombia.html",
-      "title": "I Flew in the Douglas DC-3, a WWII Workhorse of Aviation, Over the Amazon",
-      "summary": "The Douglas DC-3 was mass produced during World War II. Today, one of the few still remaining transports passengers in Colombia’s jungle."
-    },
-    {
       "char": "🌍",
-      "label": "space junk falling to earth",
-      "url": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
-      "title": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
-      "summary": "Flaming chunks of metal crash into homes, farms and parking lots. Who’s to blame? And who pays for the damage?"
+      "label": "ceuta border deaths",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+      "title": "At least 43 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
+      "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident Europe live – latest updates At least 43 people have died trying to reach the Spanish enclave of Ceuta after as many as 50,00..."
+    },
+    {
+      "char": "💥",
+      "label": "coal mine explosion in pakistan",
+      "url": "https://www.nytimes.com/2026/07/31/world/asia/pakistan-coal-mine-explosion.html",
+      "title": "At Least 34 Dead From Coal Mine Blast in Pakistan",
+      "summary": "Rescuers were searching for missing bodies from the accident in one of the country’s mining hubs, where methane gas explosions and mine collapses are frequent."
+    },
+    {
+      "char": "🤝",
+      "label": "archbishop's pledge for communities",
+      "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
+      "title": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
+      "summary": "During visit to Ghana, Sarah Mullally expresses regret and says controversial fund symbolises Christian belief in repentance At a former British castle where thousands of enslaved Africans were held before being shipped across the Atlant..."
     },
     {
       "char": "🦠",
@@ -36,6 +29,13 @@
       "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
       "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
       "summary": "As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle to slow the outbreak The latest numbers of confirmed cases of Ebola in the Democratic R..."
+    },
+    {
+      "char": "🛰️",
+      "label": "space debris risks",
+      "url": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
+      "title": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
+      "summary": "Flaming chunks of metal crash into homes, farms and parking lots. Who’s to blame? And who pays for the damage?"
     }
   ],
   "source": "ai-openai",
