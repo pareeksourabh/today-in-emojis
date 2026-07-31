@@ -1,90 +1,34 @@
 {
-  "date": "2026-07-30",
-  "timestamp": "2026-07-30T00:00:00Z",
+  "date": "2026-07-31",
+  "timestamp": "2026-07-31T00:00:00Z",
   "emojis": [
     {
-      "char": "🇨🇦",
+      "char": "🕊️",
+      "label": "trump on hamas disarmament",
+      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
+      "summary": "Israel and Hamas have yet to comment on the announcement."
+    },
+    {
+      "char": "👴",
+      "label": "cameroon's president health concerns",
+      "url": "https://www.theguardian.com/world/2026/jul/30/record-absence-paul-biya-cameroon-president-health-speculation",
+      "title": "Fifty-three days and counting: 93-year-old leader’s record absence fuels health speculation",
+      "summary": "Cameroon’s Paul Biya has not made a statement or been seen since leaving for ‘brief private stay’ at Swiss hotel on 7 June A record 53-day absence by the world’s oldest head of state has renewed speculation in his native Cameroon about w..."
+    },
+    {
+      "char": "🔫",
       "label": "shots fired near us consulate",
       "url": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto",
       "title": "Shots fired near US consulate in Canada for second time in four months",
       "summary": "No one was injured and no suspects have been identified in connection to shooting near Toronto compound, police say Shots were fired near the US consulate in Toronto early on Monday but no one was injured in the second shooting near the..."
     },
     {
-      "char": "🔥",
-      "label": "locals fight france wildfire",
-      "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-      "summary": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations."
-    },
-    {
-      "char": "🍽️",
-      "label": "uganda emergency food handouts",
-      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
-      "title": "Uganda begins emergency food handouts after 19 die from hunger",
-      "summary": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutrition Uganda has launched emergency food relief distribution after at least 19 deaths from hunger were reported in an area of prolong..."
-    },
-    {
-      "char": "⚔️",
-      "label": "israel strikes mosque in gaza",
-      "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
-      "title": "Israel Strikes Mosque in Gaza City",
-      "summary": "The Israeli military accused Hamas of using the mosque to store weapons. The Hamas-run government’s media office said Israel’s claims aimed to justify its attacks on mosques."
-    },
-    {
       "char": "🌍",
-      "label": "summer heat and climate reckoning",
-      "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
-      "title": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
-      "summary": "The continent is experiencing some of its biggest fires and highest temperatures ever. Residents are fleeing, leaders are struggling to respond and “it will get worse,” one climate expert said."
-    },
-    {
-      "char": "🇦🇺",
-      "label": "australia sues telegram over terror content",
-      "url": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss",
-      "title": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
-      "summary": "Telegram told the BBC it rejects the allegations and will contest them in court."
-    },
-    {
-      "char": "🗣️",
-      "label": "jordanians speak out against us troops",
-      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/jordan-us-military-iran-war.html",
-      "title": "Some Jordanians Dare to Speak Out Against U.S. Troop Presence",
-      "summary": "Hundreds of political, legal and other figures signed a public letter warning that Jordan’s close alliance with the United States poses a risk."
-    },
-    {
-      "char": "🔥",
-      "label": "wildfires threaten southern europe",
-      "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-      "summary": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations."
-    },
-    {
-      "char": "🐘",
-      "label": "kenya investigates elephant deaths",
-      "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
-      "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
-      "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park. The Kenya Wildlife S..."
-    },
-    {
-      "char": "🍽️",
-      "label": "uganda starts emergency food handouts",
-      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
-      "title": "Uganda begins emergency food handouts after 19 die from hunger",
-      "summary": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutrition Uganda has launched emergency food relief distribution after at least 19 deaths from hunger were reported in an area of prolong..."
-    },
-    {
-      "char": "🕊️",
-      "label": "israel strikes mosque in gaza",
-      "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
-      "title": "Israel Strikes Mosque in Gaza City",
-      "summary": "The Israeli military accused Hamas of using the mosque to store weapons. The Hamas-run government’s media office said Israel’s claims aimed to justify its attacks on mosques."
-    },
-    {
-      "char": "🎤",
-      "label": "bts won't enter grammy awards",
-      "url": "https://www.nytimes.com/2026/07/29/world/asia/bts-grammys-arirang-boycott-asian-category.html",
-      "title": "BTS Won’t Enter Music From Comeback Album for Grammy Awards",
-      "summary": "The group announced it would not submit its most recent album, ‘Arirang,’ for consideration a month after the Recording Academy introduced a new category for Asian pop."
+      "label": "nato missile hit poland",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
+      "title": "NATO Says Russian Missile Hit Poland During Ukraine Attack",
+      "summary": "Russian missiles have briefly entered Polish airspace in the past. Investigators have yet to definitively identify the object that struck overnight."
     },
     {
       "char": "🐘",
@@ -92,113 +36,8 @@
       "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
       "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
       "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park. The Kenya Wildlife S..."
-    },
-    {
-      "char": "🌍",
-      "label": "uganda emergency food handouts",
-      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
-      "title": "Uganda begins emergency food handouts after 19 die from hunger",
-      "summary": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutrition Uganda has launched emergency food relief distribution after at least 19 deaths from hunger were reported in an area of prolong..."
-    },
-    {
-      "char": "🔥",
-      "label": "wildfires in europe and north america",
-      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
-      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
-      "summary": "Three years after Maui wildfires many still struggle with ‘biological, emotional and social consequences’, study says A spate of ferocious wildfires across North America and Europe, worsened by the climate crisis, has incinerated homes a..."
-    },
-    {
-      "char": "💥",
-      "label": "missile strike in poland",
-      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine."
-    },
-    {
-      "char": "✈️",
-      "label": "canadians travel drop after trump",
-      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
-      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
-      "summary": "Data shows Canadians have replaced US vacations with other international trips in apparent rebuke to Trump Canadians spent $3.3bn less on travel to the US in 2025 than in the previous year, as Donald Trump’s hostile policies towards his..."
-    },
-    {
-      "char": "🚨",
-      "label": "russia strikes ukraine with missiles",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html",
-      "title": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8",
-      "summary": "President Volodymyr Zelensky of Ukraine said that a family of five had been killed at home in the latest in a series of large-scale aerial assaults by Moscow."
-    },
-    {
-      "char": "🔥",
-      "label": "wildfires rage in crete",
-      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-      "title": "Thousands evacuated in Crete as European wildfires continue to rage",
-      "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island."
-    },
-    {
-      "char": "🐘",
-      "label": "elephant deaths in kenya",
-      "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
-      "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
-      "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park. The Kenya Wildlife S..."
-    },
-    {
-      "char": "💔",
-      "label": "family killed in russian attack",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-      "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
-      "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih."
-    },
-    {
-      "char": "🛩️",
-      "label": "iran war drone attack updates",
-      "url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
-      "title": "Iran War Live Updates: Drone Attack in Egypt Threatens to Expand Fighting",
-      "summary": "The United States and Iran exchanged strikes overnight, after Saudi Arabia acknowledged direct involvement in the war for the first time."
-    },
-    {
-      "char": "🔥",
-      "label": "scotland wildfires threaten park",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/scotland-wildfire-cairngorms-highlands.html",
-      "title": "As Wildfires Plague Europe, Scotland Races to Save a Cherished National Park",
-      "summary": "As Europe’s climate warms, even moorlands and forests in the Cairngorms, in the Scottish Highlands, have fallen victim to rapidly spreading flames."
-    },
-    {
-      "char": "🐘",
-      "label": "elephant deaths in kenya park",
-      "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
-      "title": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
-      "summary": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya in the past month were likely caused by the animals ingesti..."
-    },
-    {
-      "char": "🌍",
-      "label": "us map mislabels african countries",
-      "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
-      "title": "US government map of Africa mislabels every country at global conference",
-      "summary": "State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in Brazil A US government map of Africa mislabeled every country during a state department presentation at a ⁠global conference..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "The news highlights a series of tragic events, including hunger-related deaths in Uganda, wildfires in Europe, and missile strikes in Ukraine, evoking a deep sense of sorrow and concern for those affected.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
