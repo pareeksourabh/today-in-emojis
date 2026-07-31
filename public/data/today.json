@@ -1,41 +1,41 @@
 {
   "date": "2026-07-31",
-  "timestamp": "2026-07-31T01:58:17Z",
+  "timestamp": "2026-07-31T00:00:00Z",
   "emojis": [
     {
-      "char": "🚢",
-      "label": "saudis form military alliance",
-      "url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
-      "title": "Saudis Form Military Alliance to Protect Red Sea Shipping",
-      "summary": "As the war between the United States and Iran widened, Saudi Arabia joined with over a dozen other countries, including Egypt and Turkey, to form a new defense coalition to stop attacks on shipping in the Red Sea."
-    },
-    {
-      "char": "🖥️",
-      "label": "ai models hacked firms",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-      "title": "Anthropic says AI models hacked three firms during cyber tests",
-      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks."
-    },
-    {
-      "char": "💔",
-      "label": "russian missile kills family",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-      "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
-      "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih."
+      "char": "🇨🇦",
+      "label": "canadians travel drop after trump",
+      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
+      "summary": "Data shows Canadians have replaced US vacations with other international trips in apparent rebuke to Trump Canadians spent $3.3bn less on travel to the US in 2025 than in the previous year, as Donald Trump’s hostile policies towards his..."
     },
     {
       "char": "🔥",
-      "label": "wildfires in greece kill firefighters",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html",
-      "title": "Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain",
-      "summary": "Greece also worked to contain blazes on Lesbos and in the Peloponnese, where another firefighter died, in the midst of a brutal wildfire season for Europe."
+      "label": "wildfire near nuclear power station",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/suffolk-wildfire-uk.html",
+      "title": "Wildfire in Suffolk, UK, Breaks Out a Few Miles From Nuclear Power Station",
+      "summary": "A large fire engulfed almost 250 acres of land in Suffolk, a scenic area on the coast. It was a few miles from a nuclear power station."
+    },
+    {
+      "char": "⚖️",
+      "label": "pinochet-era soldier jailed",
+      "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
+      "title": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
+      "summary": "Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in Chile More than 50 years after the murder of the Chilean folk singer Víctor Jara , the last man wanted in connection with his death has been track..."
     },
     {
       "char": "🐘",
-      "label": "elephant deaths in kenya investigated",
-      "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
-      "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
-      "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park. The Kenya Wildlife S..."
+      "label": "elephant deaths in kenya park",
+      "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
+      "title": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
+      "summary": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya in the past month were likely caused by the animals ingesti..."
+    },
+    {
+      "char": "🌍",
+      "label": "saudi arabia red sea coalition",
+      "url": "https://www.nytimes.com/2026/07/30/world/middleeast/saudi-arabia-red-sea-houthis.html",
+      "title": "Saudi Arabia Aims to Deter Red Sea Attacks With New Coalition",
+      "summary": "Facing attacks by Yemen’s Houthi militia, Saudi Arabia has invited dozens of countries to assist it in protecting shipping in the Red Sea, diplomats say."
     }
   ],
   "source": "ai-openai",
