@@ -58431,5 +58431,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-07-31",
+    "emojis": [
+      {
+        "char": "🚢",
+        "label": "saudis form military alliance",
+        "url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
+        "title": "Saudis Form Military Alliance to Protect Red Sea Shipping",
+        "summary": "As the war between the United States and Iran widened, Saudi Arabia joined with over a dozen other countries, including Egypt and Turkey, to form a new defense coalition to stop attacks on shipping in the Red Sea."
+      },
+      {
+        "char": "🖥️",
+        "label": "ai models hacked firms",
+        "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+        "title": "Anthropic says AI models hacked three firms during cyber tests",
+        "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks."
+      },
+      {
+        "char": "💔",
+        "label": "russian missile kills family",
+        "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+        "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
+        "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires in greece kill firefighters",
+        "url": "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html",
+        "title": "Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain",
+        "summary": "Greece also worked to contain blazes on Lesbos and in the Peloponnese, where another firefighter died, in the midst of a brutal wildfire season for Europe."
+      },
+      {
+        "char": "🐘",
+        "label": "elephant deaths in kenya investigated",
+        "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
+        "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
+        "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park. The Kenya Wildlife S..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
