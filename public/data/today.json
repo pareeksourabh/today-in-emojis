@@ -1,14 +1,7 @@
 {
   "date": "2026-07-31",
-  "timestamp": "2026-07-31T00:00:00Z",
+  "timestamp": "2026-07-31T14:18:20Z",
   "emojis": [
-    {
-      "char": "🔥",
-      "label": "french wildfire enforcement failures",
-      "url": "https://www.nytimes.com/2026/07/31/france-heat-firebreak-buffer-wildfire.html",
-      "title": "In Area Hit by Blaze, French Officials Failed to Enforce Wildfire Rules",
-      "summary": "Under French rules, homeowners must clear vegetation within roughly 50 yards of their houses. In the forests affected by France’s worst fire in decades, that didn’t happen."
-    },
     {
       "char": "🐘",
       "label": "elephant deaths in kenya",
@@ -17,21 +10,28 @@
       "summary": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya were likely caused by the animals ingesting pesticides used..."
     },
     {
-      "char": "🕊️",
-      "label": "trump's gaza peace deal announcement",
-      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
-      "title": "Trump’s Announcement of Gaza Deal Raises Many Unanswered Questions",
-      "summary": "Neither Hamas nor the Israeli government has issued an official statement acknowledging the deal, raising concerns about their eagerness to implement its clauses."
+      "char": "🎤",
+      "label": "pinochet-era soldier jailed",
+      "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
+      "title": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
+      "summary": "Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in Chile More than 50 years after the murder of the Chilean folk singer Víctor Jara , the last man wanted in connection with his death has been track..."
     },
     {
-      "char": "🗺️",
-      "label": "us map mislabels african countries",
-      "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
-      "title": "US government map of Africa mislabels every country at global conference",
-      "summary": "State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in Brazil A US government map of Africa mislabeled every country during a state department presentation at a ⁠global conference..."
+      "char": "✈️",
+      "label": "flying the douglas dc-3",
+      "url": "https://www.nytimes.com/2026/07/31/world/americas/plane-douglas-dc3-wwii-colombia.html",
+      "title": "I Flew in the Douglas DC-3, a WWII Workhorse of Aviation, Over the Amazon",
+      "summary": "The Douglas DC-3 was mass produced during World War II. Today, one of the few still remaining transports passengers in Colombia’s jungle."
     },
     {
-      "char": "💔",
+      "char": "🌍",
+      "label": "space junk falling to earth",
+      "url": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
+      "title": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
+      "summary": "Flaming chunks of metal crash into homes, farms and parking lots. Who’s to blame? And who pays for the damage?"
+    },
+    {
+      "char": "🦠",
       "label": "ebola outbreak in drc",
       "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
       "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
