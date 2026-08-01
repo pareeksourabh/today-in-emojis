@@ -58783,5 +58783,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-01",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "us map mislabels african countries",
+        "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
+        "title": "US government map of Africa mislabels every country at global conference",
+        "summary": "State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in Brazil A US government map of Africa mislabeled every country during a state department presentation at a ⁠global conference..."
+      },
+      {
+        "char": "💉",
+        "label": "hiv prevention drug access issues",
+        "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
+        "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
+        "summary": "Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide Sign up for the Breaking News US newsletter email New innovations in HIV prevention could dramatically reduce the number of new HIV c..."
+      },
+      {
+        "char": "🗻",
+        "label": "nirmal purja killed in avalanche",
+        "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+        "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+        "summary": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in drc grows rapidly",
+        "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
+        "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
+        "summary": "As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle to slow the outbreak The latest numbers of confirmed cases of Ebola in the Democratic R..."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires effects in europe and north america",
+        "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+        "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+        "summary": "Three years after Maui wildfires many still struggle with ‘biological, emotional and social consequences’, study says A spate of ferocious wildfires across North America and Europe, worsened by the climate crisis, has incinerated homes a..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

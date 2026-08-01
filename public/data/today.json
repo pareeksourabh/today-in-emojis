@@ -1,41 +1,41 @@
 {
   "date": "2026-08-01",
-  "timestamp": "2026-08-01T00:00:00Z",
+  "timestamp": "2026-08-01T13:36:38Z",
   "emojis": [
     {
-      "char": "💊",
+      "char": "🌍",
+      "label": "us map mislabels african countries",
+      "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
+      "title": "US government map of Africa mislabels every country at global conference",
+      "summary": "State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in Brazil A US government map of Africa mislabeled every country during a state department presentation at a ⁠global conference..."
+    },
+    {
+      "char": "💉",
       "label": "hiv prevention drug access issues",
       "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
       "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
       "summary": "Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide Sign up for the Breaking News US newsletter email New innovations in HIV prevention could dramatically reduce the number of new HIV c..."
     },
     {
-      "char": "🏃‍♂️",
-      "label": "deserter escapes from russian jail",
-      "url": "https://www.nytimes.com/2026/08/01/world/europe/russia-war-deserter.html",
-      "title": "The U.S. Deported Him to Jail in Russia. Then He Escaped.",
-      "summary": "Facing a long prison sentence or a forced trip to the front line of a war he opposes, Artyom Vovchenko believed it was worth taking a risk."
+      "char": "🗻",
+      "label": "nirmal purja killed in avalanche",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "summary": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019."
     },
     {
-      "char": "🇪🇸",
-      "label": "spain calls for urgent eu meeting",
-      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "title": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
-      "summary": "Pedro Sánchez hits out at ‘polarising and unlawful reaction’ over mass crossing into Spanish enclave in north Africa Europe live – latest updates Spain’s prime minister, Pedro Sánchez, has called for an urgent meeting of EU interior mini..."
-    },
-    {
-      "char": "🛡️",
-      "label": "kuwait downs iranian drones",
-      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-kuwait-drone-strikes-trump-escalation.html",
-      "title": "Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation",
-      "summary": "The wave of strikes came as President Trump threatened to intensify the U.S. campaign against Iran, with both sides showing little sign of backing down."
+      "char": "🦠",
+      "label": "ebola outbreak in drc grows rapidly",
+      "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
+      "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
+      "summary": "As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle to slow the outbreak The latest numbers of confirmed cases of Ebola in the Democratic R..."
     },
     {
       "char": "🔥",
-      "label": "wildfires continue across europe",
-      "url": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
-      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
-      "summary": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped."
+      "label": "wildfires effects in europe and north america",
+      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+      "summary": "Three years after Maui wildfires many still struggle with ‘biological, emotional and social consequences’, study says A spate of ferocious wildfires across North America and Europe, worsened by the climate crisis, has incinerated homes a..."
     }
   ],
   "source": "ai-openai",
