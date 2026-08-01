@@ -1,27 +1,13 @@
 {
   "date": "2026-08-01",
-  "timestamp": "2026-08-01T01:59:41Z",
+  "timestamp": "2026-08-01T00:00:00Z",
   "emojis": [
     {
-      "char": "🌍",
-      "label": "migrant deaths at ceuta border",
-      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
-      "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
-      "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident At least 57 people have died trying to reach the Spanish enclave of Ceuta after as many as 50,000 migrants entered the tiny t..."
-    },
-    {
-      "char": "⚽",
-      "label": "milei accuses us democrats",
-      "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
-      "title": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
-      "summary": "President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’ More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least..."
-    },
-    {
-      "char": "💥",
-      "label": "coal mine explosion in pakistan",
-      "url": "https://www.nytimes.com/2026/07/31/world/asia/pakistan-coal-mine-explosion.html",
-      "title": "At Least 34 Dead From Coal Mine Blast in Pakistan",
-      "summary": "Rescuers were searching for missing bodies from the accident in one of the country’s mining hubs, where methane gas explosions and mine collapses are frequent."
+      "char": "🇪🇸",
+      "label": "spain sends troops to ceuta",
+      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "summary": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border."
     },
     {
       "char": "🦠",
@@ -31,11 +17,25 @@
       "summary": "As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle to slow the outbreak The latest numbers of confirmed cases of Ebola in the Democratic R..."
     },
     {
-      "char": "🐘",
-      "label": "elephant deaths in kenya",
-      "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
-      "title": "Fifteen elephant deaths in Kenya may be due to cyanide poisoning",
-      "summary": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya were likely caused by the animals ingesting pesticides used..."
+      "char": "🤖",
+      "label": "killer robot program continues",
+      "url": "https://www.nytimes.com/2026/07/31/world/europe/federov-ukraine-killer-robots.html",
+      "title": "Political Turmoil Will Not Derail Killer Robot Program, Ousted Minister Says",
+      "summary": "The Ukrainian former defense minister Mykhailo Fedorov, an advocate for drone and robot warfare, says the country’s tech-heavy strategy will persist."
+    },
+    {
+      "char": "⚖️",
+      "label": "trump's gaza deal raises questions",
+      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+      "title": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
+      "summary": "The new 15-point plan, released by the Board of Peace and announced by Trump, calls in part for Israel to end its attacks and Hamas to give up its weapons."
+    },
+    {
+      "char": "💔",
+      "label": "57 dead in ceuta border crossing",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+      "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
+      "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident At least 57 people have died trying to reach the Spanish enclave of Ceuta after as many as 50,000 migrants entered the tiny t..."
     }
   ],
   "source": "ai-openai",
