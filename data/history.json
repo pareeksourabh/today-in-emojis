@@ -58695,5 +58695,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-01",
+    "emojis": [
+      {
+        "char": "⚽",
+        "label": "milei accuses us democrats",
+        "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
+        "title": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
+        "summary": "President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’ More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least..."
+      },
+      {
+        "char": "🩹",
+        "label": "protesters injured by pellet guns",
+        "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
+        "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+        "summary": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries."
+      },
+      {
+        "char": "🌍",
+        "label": "migrants return to morocco",
+        "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
+        "title": "After Tens of Thousands of Migrants Enter Spanish Territory, Most Return to Morocco",
+        "summary": "About 48,000 of the up to 60,000 people who came into Ceuta from Morocco returned within a day. Still, the sudden influx created a crisis for Spain’s pro-immigration government. Nearly three dozen died."
+      },
+      {
+        "char": "🎤",
+        "label": "soldier jailed for jara's murder",
+        "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
+        "title": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
+        "summary": "Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in Chile More than 50 years after the murder of the Chilean folk singer Víctor Jara , the last man wanted in connection with his death has been track..."
+      },
+      {
+        "char": "🐘",
+        "label": "elephant deaths in kenya",
+        "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
+        "title": "Fifteen elephant deaths in Kenya may be due to cyanide poisoning",
+        "summary": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya were likely caused by the animals ingesting pesticides used..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
