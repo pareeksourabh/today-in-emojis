@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "sadness",
+    "emotion_label": "Sadness",
     "emoji": "😢",
-    "rationale": "The news items highlight numerous tragedies, including migrant deaths at Ceuta, the escalating Ebola outbreak, and the lasting impact of wildfires, all contributing to a somber emotional atmosphere.",
+    "rationale": "The day's news reflects a deep sense of tragedy and loss, with multiple reports of fatalities from migration attempts, wildfires, and disease outbreaks, highlighting the ongoing human suffering and crises around the world.",
     "palette": [
       "😢",
       "😡",
