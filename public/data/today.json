@@ -1,204 +1,43 @@
 {
-  "date": "2026-07-31",
-  "timestamp": "2026-07-31T00:00:00Z",
+  "date": "2026-08-01",
+  "timestamp": "2026-08-01T00:00:00Z",
   "emojis": [
     {
-      "char": "🕊️",
-      "label": "trump on hamas disarmament",
-      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-      "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
-      "summary": "Israel and Hamas have yet to comment on the announcement."
-    },
-    {
-      "char": "👴",
-      "label": "cameroon's president health concerns",
-      "url": "https://www.theguardian.com/world/2026/jul/30/record-absence-paul-biya-cameroon-president-health-speculation",
-      "title": "Fifty-three days and counting: 93-year-old leader’s record absence fuels health speculation",
-      "summary": "Cameroon’s Paul Biya has not made a statement or been seen since leaving for ‘brief private stay’ at Swiss hotel on 7 June A record 53-day absence by the world’s oldest head of state has renewed speculation in his native Cameroon about w..."
-    },
-    {
-      "char": "🔫",
-      "label": "shots fired near us consulate",
-      "url": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto",
-      "title": "Shots fired near US consulate in Canada for second time in four months",
-      "summary": "No one was injured and no suspects have been identified in connection to shooting near Toronto compound, police say Shots were fired near the US consulate in Toronto early on Monday but no one was injured in the second shooting near the..."
-    },
-    {
       "char": "🌍",
-      "label": "nato missile hit poland",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
-      "title": "NATO Says Russian Missile Hit Poland During Ukraine Attack",
-      "summary": "Russian missiles have briefly entered Polish airspace in the past. Investigators have yet to definitively identify the object that struck overnight."
-    },
-    {
-      "char": "🐘",
-      "label": "elephant deaths in kenya",
-      "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
-      "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
-      "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park. The Kenya Wildlife S..."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "canadians travel drop after trump",
-      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
-      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
-      "summary": "Data shows Canadians have replaced US vacations with other international trips in apparent rebuke to Trump Canadians spent $3.3bn less on travel to the US in 2025 than in the previous year, as Donald Trump’s hostile policies towards his..."
+      "label": "migrants cross to ceuta from morocco",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+      "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
+      "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident At least 57 people have died trying to reach the Spanish enclave of Ceuta after as many as 50,000 migrants entered the tiny t..."
     },
     {
       "char": "🔥",
-      "label": "wildfire near nuclear power station",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/suffolk-wildfire-uk.html",
-      "title": "Wildfire in Suffolk, UK, Breaks Out a Few Miles From Nuclear Power Station",
-      "summary": "A large fire engulfed almost 250 acres of land in Suffolk, a scenic area on the coast. It was a few miles from a nuclear power station."
+      "label": "wildfires effects may linger for years",
+      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+      "summary": "Three years after Maui wildfires many still struggle with ‘biological, emotional and social consequences’, study says A spate of ferocious wildfires across North America and Europe, worsened by the climate crisis, has incinerated homes a..."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola outbreak in drc grows rapidly",
+      "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
+      "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
+      "summary": "As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle to slow the outbreak The latest numbers of confirmed cases of Ebola in the Democratic R..."
     },
     {
       "char": "⚖️",
-      "label": "pinochet-era soldier jailed",
+      "label": "pinochet-era soldier jailed for murder",
       "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
       "title": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
       "summary": "Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in Chile More than 50 years after the murder of the Chilean folk singer Víctor Jara , the last man wanted in connection with his death has been track..."
     },
     {
-      "char": "🐘",
-      "label": "elephant deaths in kenya park",
-      "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
-      "title": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
-      "summary": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya in the past month were likely caused by the animals ingesti..."
-    },
-    {
-      "char": "🌍",
-      "label": "saudi arabia red sea coalition",
-      "url": "https://www.nytimes.com/2026/07/30/world/middleeast/saudi-arabia-red-sea-houthis.html",
-      "title": "Saudi Arabia Aims to Deter Red Sea Attacks With New Coalition",
-      "summary": "Facing attacks by Yemen’s Houthi militia, Saudi Arabia has invited dozens of countries to assist it in protecting shipping in the Red Sea, diplomats say."
-    },
-    {
-      "char": "🎤",
-      "label": "uk rapper found not guilty",
-      "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
-      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-      "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth."
-    },
-    {
-      "char": "🔥",
-      "label": "wildfires in greece and spain",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html",
-      "title": "Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain",
-      "summary": "Greece also worked to contain blazes on Lesbos and in the Peloponnese, where another firefighter died, in the midst of a brutal wildfire season for Europe."
-    },
-    {
-      "char": "🐘",
-      "label": "elephant deaths in kenya",
-      "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
-      "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
-      "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park. The Kenya Wildlife S..."
-    },
-    {
-      "char": "🚀",
-      "label": "nato missile hit poland",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
-      "title": "NATO Says Russian Missile Hit Poland During Ukraine Attack",
-      "summary": "Russian missiles have briefly entered Polish airspace in the past. Investigators have yet to definitively identify the object that struck overnight."
-    },
-    {
-      "char": "🌍",
-      "label": "us map mislabels africa",
-      "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
-      "title": "US government map of Africa mislabels every country at global conference",
-      "summary": "State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in Brazil A US government map of Africa mislabeled every country during a state department presentation at a ⁠global conference..."
-    },
-    {
-      "char": "🔥",
-      "label": "french wildfire enforcement failures",
-      "url": "https://www.nytimes.com/2026/07/31/france-heat-firebreak-buffer-wildfire.html",
-      "title": "In Area Hit by Blaze, French Officials Failed to Enforce Wildfire Rules",
-      "summary": "Under French rules, homeowners must clear vegetation within roughly 50 yards of their houses. In the forests affected by France’s worst fire in decades, that didn’t happen."
-    },
-    {
-      "char": "🐘",
-      "label": "elephant deaths in kenya",
-      "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
-      "title": "Fifteen elephant deaths in Kenya may be due to cyanide poisoning",
-      "summary": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya were likely caused by the animals ingesting pesticides used..."
-    },
-    {
-      "char": "🕊️",
-      "label": "trump's gaza peace deal announcement",
-      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
-      "title": "Trump’s Announcement of Gaza Deal Raises Many Unanswered Questions",
-      "summary": "Neither Hamas nor the Israeli government has issued an official statement acknowledging the deal, raising concerns about their eagerness to implement its clauses."
-    },
-    {
-      "char": "🗺️",
-      "label": "us map mislabels african countries",
-      "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
-      "title": "US government map of Africa mislabels every country at global conference",
-      "summary": "State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in Brazil A US government map of Africa mislabeled every country during a state department presentation at a ⁠global conference..."
-    },
-    {
       "char": "💔",
-      "label": "ebola outbreak in drc",
-      "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
-      "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
-      "summary": "As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle to slow the outbreak The latest numbers of confirmed cases of Ebola in the Democratic R..."
-    },
-    {
-      "char": "🌍",
-      "label": "ceuta border deaths",
-      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
-      "title": "At least 43 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
-      "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident Europe live – latest updates At least 43 people have died trying to reach the Spanish enclave of Ceuta after as many as 50,00..."
-    },
-    {
-      "char": "💥",
-      "label": "coal mine explosion in pakistan",
+      "label": "coal mine blast in pakistan kills 34",
       "url": "https://www.nytimes.com/2026/07/31/world/asia/pakistan-coal-mine-explosion.html",
       "title": "At Least 34 Dead From Coal Mine Blast in Pakistan",
       "summary": "Rescuers were searching for missing bodies from the accident in one of the country’s mining hubs, where methane gas explosions and mine collapses are frequent."
-    },
-    {
-      "char": "🤝",
-      "label": "archbishop's pledge for communities",
-      "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
-      "title": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
-      "summary": "During visit to Ghana, Sarah Mullally expresses regret and says controversial fund symbolises Christian belief in repentance At a former British castle where thousands of enslaved Africans were held before being shipped across the Atlant..."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola outbreak in drc",
-      "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
-      "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
-      "summary": "As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle to slow the outbreak The latest numbers of confirmed cases of Ebola in the Democratic R..."
-    },
-    {
-      "char": "🛰️",
-      "label": "space debris risks",
-      "url": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
-      "title": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
-      "summary": "Flaming chunks of metal crash into homes, farms and parking lots. Who’s to blame? And who pays for the damage?"
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😨",
-    "emoji": "😨",
-    "rationale": "The day is marked by troubling news, including escalating violence and environmental disasters, leading to a sense of fear and concern for safety and well-being.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
