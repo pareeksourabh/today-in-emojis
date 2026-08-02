@@ -1,41 +1,41 @@
 {
   "date": "2026-08-02",
-  "timestamp": "2026-08-02T00:00:00Z",
+  "timestamp": "2026-08-02T09:59:55Z",
   "emojis": [
     {
-      "char": "🦠",
-      "label": "ebola outbreak in drc",
-      "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
-      "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
-      "summary": "As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle to slow the outbreak The latest numbers of confirmed cases of Ebola in the Democratic R..."
+      "char": "🇮🇱",
+      "label": "israel kills hezbollah members",
+      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
+      "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
+      "summary": "The confrontation, over a strategic ridge in southern Lebanon, challenged a fragile cease-fire between Israel and the Iran-backed militant group."
     },
     {
-      "char": "🙏",
-      "label": "archbishop's £100m pledge",
-      "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
-      "title": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
-      "summary": "During visit to Ghana, Sarah Mullally expresses regret and says controversial fund symbolises Christian belief in repentance At a former British castle where thousands of enslaved Africans were held before being shipped across the Atlant..."
-    },
-    {
-      "char": "🛢️",
-      "label": "iran plotted wider war",
-      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
-      "title": "Iran Plotted Wider War With Help of Its Proxies",
-      "summary": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew."
-    },
-    {
-      "char": "✈️",
+      "char": "🛬",
       "label": "tourist plane crashes in peru",
-      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "title": "Tourist plane crashes in Peru, killing 13",
-      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports."
+      "url": "https://www.nytimes.com/2026/08/01/world/americas/peru-tourist-plane-crash-nazca.html",
+      "title": "Tourist Plane Crashes in Peru, Killing All 13 Aboard",
+      "summary": "The flight had taken off from the coastal city of Pisco to view the ancient geoglyphs in the desert, a popular tourist attraction."
     },
     {
       "char": "🏳️‍🌈",
-      "label": "rise of anti-lgbtq laws",
+      "label": "rise of anti-lgbtq laws in africa",
       "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
       "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
       "summary": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’ A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressure..."
+    },
+    {
+      "char": "🚨",
+      "label": "eu calls emergency meeting on ceuta",
+      "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+      "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta."
+    },
+    {
+      "char": "✈️",
+      "label": "westjet flight attendants strike",
+      "url": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html",
+      "title": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
+      "summary": "Labor talks broke down between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work."
     }
   ],
   "source": "ai-openai",

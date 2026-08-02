@@ -58959,5 +58959,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-02",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israel kills hezbollah members",
+        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
+        "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
+        "summary": "The confrontation, over a strategic ridge in southern Lebanon, challenged a fragile cease-fire between Israel and the Iran-backed militant group."
+      },
+      {
+        "char": "🛬",
+        "label": "tourist plane crashes in peru",
+        "url": "https://www.nytimes.com/2026/08/01/world/americas/peru-tourist-plane-crash-nazca.html",
+        "title": "Tourist Plane Crashes in Peru, Killing All 13 Aboard",
+        "summary": "The flight had taken off from the coastal city of Pisco to view the ancient geoglyphs in the desert, a popular tourist attraction."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "rise of anti-lgbtq laws in africa",
+        "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
+        "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
+        "summary": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’ A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressure..."
+      },
+      {
+        "char": "🚨",
+        "label": "eu calls emergency meeting on ceuta",
+        "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+        "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+        "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta."
+      },
+      {
+        "char": "✈️",
+        "label": "westjet flight attendants strike",
+        "url": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html",
+        "title": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
+        "summary": "Labor talks broke down between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
