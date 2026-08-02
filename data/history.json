@@ -59047,5 +59047,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-02",
+    "emojis": [
+      {
+        "char": "🇪🇺",
+        "label": "eu urgent meeting on ceuta crisis",
+        "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+        "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
+        "summary": "Divisions remain in the bloc over mass crossing of migrants into Spanish territory in north Africa The EU is to hold an urgent meeting of interior ministers on Tuesday amid continued divisions in the bloc over the arrival of more than 50..."
+      },
+      {
+        "char": "🇨🇳",
+        "label": "china's surveillance of foreigners",
+        "url": "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html",
+        "title": "How China Keeps Tabs on Foreigners",
+        "summary": "An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data."
+      },
+      {
+        "char": "✈️",
+        "label": "plane crash over nazca lines kills 13",
+        "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
+        "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
+        "summary": "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca L..."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "trump cancels strikes on iran",
+        "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+        "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+        "summary": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Trump not to renew attacks."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela's deadly earthquakes impact",
+        "url": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
+        "title": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
+        "summary": "More than a month after the earthquakes, the coastal region of La Guaira — once Venezuela’s main gateway — is completely unrecognizable."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

@@ -1,41 +1,41 @@
 {
   "date": "2026-08-02",
-  "timestamp": "2026-08-02T00:00:00Z",
+  "timestamp": "2026-08-02T16:42:13Z",
   "emojis": [
     {
+      "char": "🇪🇺",
+      "label": "eu urgent meeting on ceuta crisis",
+      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+      "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
+      "summary": "Divisions remain in the bloc over mass crossing of migrants into Spanish territory in north Africa The EU is to hold an urgent meeting of interior ministers on Tuesday amid continued divisions in the bloc over the arrival of more than 50..."
+    },
+    {
+      "char": "🇨🇳",
+      "label": "china's surveillance of foreigners",
+      "url": "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html",
+      "title": "How China Keeps Tabs on Foreigners",
+      "summary": "An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data."
+    },
+    {
+      "char": "✈️",
+      "label": "plane crash over nazca lines kills 13",
+      "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
+      "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
+      "summary": "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca L..."
+    },
+    {
+      "char": "🇮🇷",
+      "label": "trump cancels strikes on iran",
+      "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+      "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+      "summary": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Trump not to renew attacks."
+    },
+    {
       "char": "🌍",
-      "label": "chaos at ceuta border crossing",
-      "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
-      "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
-      "summary": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects Four days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating..."
-    },
-    {
-      "char": "🎸",
-      "label": "quebec's new chief scientist",
-      "url": "https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html",
-      "title": "Cowboys Fringants Bassist Is Named Quebec’s Chief Scientist",
-      "summary": "Jérôme Dupras is a member of one of Quebec’s most popular folk rock bands. Now, as the province’s chief scientist, he will help shape its environmental destiny."
-    },
-    {
-      "char": "⚔️",
-      "label": "iran's proxy war plans",
-      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
-      "title": "Iran Plotted Wider War With Help of Its Proxies",
-      "summary": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew."
-    },
-    {
-      "char": "🔥",
-      "label": "ferry fire in indonesia",
-      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-      "summary": "The vessel with at least 250 people on board caught fire off Madura island."
-    },
-    {
-      "char": "🌈",
-      "label": "rise of anti-lgbtq laws in africa",
-      "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
-      "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
-      "summary": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’ A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressure..."
+      "label": "venezuela's deadly earthquakes impact",
+      "url": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
+      "title": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
+      "summary": "More than a month after the earthquakes, the coastal region of La Guaira — once Venezuela’s main gateway — is completely unrecognizable."
     }
   ],
   "source": "ai-openai",
