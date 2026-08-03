@@ -59091,5 +59091,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-03",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "trump cancels strikes on iran",
+        "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+        "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+        "summary": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Trump not to renew attacks."
+      },
+      {
+        "char": "💣",
+        "label": "pakistan police station bombing",
+        "url": "https://www.nytimes.com/2026/08/02/world/asia/pakistan-police-station-bombing.html",
+        "title": "Pakistan Police Station Bombing Kills at Least 14",
+        "summary": "The authorities said the suicide bombing, which killed at least 14 people in the Swat Valley. The Pakistani Taliban claimed responsibility."
+      },
+      {
+        "char": "✈️",
+        "label": "tourist plane crashes in peru",
+        "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+        "title": "Tourist plane crashes in Peru, killing 13",
+        "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports."
+      },
+      {
+        "char": "🌍",
+        "label": "venezuela's deadly earthquakes",
+        "url": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
+        "title": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
+        "summary": "More than a month after the earthquakes, the coastal region of La Guaira — once Venezuela’s main gateway — is completely unrecognizable."
+      },
+      {
+        "char": "🚧",
+        "label": "chaos at ceuta border crossing",
+        "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+        "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+        "summary": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects Four days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

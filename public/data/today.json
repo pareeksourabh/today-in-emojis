@@ -1,7 +1,14 @@
 {
   "date": "2026-08-03",
-  "timestamp": "2026-08-03T00:00:00Z",
+  "timestamp": "2026-08-03T01:58:15Z",
   "emojis": [
+    {
+      "char": "📰",
+      "label": "trump cancels strikes on iran",
+      "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+      "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+      "summary": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Trump not to renew attacks."
+    },
     {
       "char": "💣",
       "label": "pakistan police station bombing",
@@ -10,32 +17,25 @@
       "summary": "The authorities said the suicide bombing, which killed at least 14 people in the Swat Valley. The Pakistani Taliban claimed responsibility."
     },
     {
-      "char": "🛩️",
+      "char": "✈️",
       "label": "tourist plane crashes in peru",
-      "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-      "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
-      "summary": "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca L..."
-    },
-    {
-      "char": "🇪🇺",
-      "label": "eu meeting on ceuta crisis",
-      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
-      "summary": "Divisions remain in the bloc over mass crossing of migrants into Spanish territory in north Africa The EU is to hold an urgent meeting of interior ministers on Tuesday amid continued divisions in the bloc over the arrival of more than 50..."
-    },
-    {
-      "char": "🎶",
-      "label": "indie music venues closing",
-      "url": "https://www.nytimes.com/2026/08/02/world/australia/sydney-australia-marys-underground-music-venues-closing.html",
-      "title": "Australia’s Indie Music Venues Closing as Costs Rise and Attendance Drops",
-      "summary": "When Mary’s Underground in Sydney closed, it was a familiar tune for a scene hit by high costs and low attendance. Critics worry about a shrinking space for new talent."
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports."
     },
     {
       "char": "🌍",
-      "label": "hiv prevention drug access issues",
-      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
-      "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
-      "summary": "Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide Sign up for the Breaking News US newsletter email New innovations in HIV prevention could dramatically reduce the number of new HIV c..."
+      "label": "venezuela's deadly earthquakes",
+      "url": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
+      "title": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
+      "summary": "More than a month after the earthquakes, the coastal region of La Guaira — once Venezuela’s main gateway — is completely unrecognizable."
+    },
+    {
+      "char": "🚧",
+      "label": "chaos at ceuta border crossing",
+      "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+      "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+      "summary": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects Four days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating..."
     }
   ],
   "source": "ai-openai",
