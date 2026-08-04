@@ -59355,5 +59355,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-04",
+    "emojis": [
+      {
+        "char": "📬",
+        "label": "france postal workers help elders",
+        "url": "https://www.nytimes.com/2026/08/03/world/europe/france-postal-workers-older-people-heat.html",
+        "title": "As France’s Elders Swelter in the Heat, Postal Workers Come to the Rescue",
+        "summary": "To help prevent heat-related deaths, the French government has asked postal workers to check in on older people."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canadians travel less to us",
+        "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+        "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
+        "summary": "Data shows Canadians have replaced US vacations with other international trips in apparent rebuke to Trump Canadians spent $3.3bn less on travel to the US in 2025 than in the previous year, as Donald Trump’s hostile policies towards his..."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran talks with oman, not us",
+        "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
+        "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+        "summary": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "anti-lgbtq laws rise in west africa",
+        "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
+        "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
+        "summary": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’ A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressure..."
+      },
+      {
+        "char": "✈️",
+        "label": "plane crash over nazca lines",
+        "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
+        "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
+        "summary": "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca L..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
