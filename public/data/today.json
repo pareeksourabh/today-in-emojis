@@ -1,204 +1,43 @@
 {
-  "date": "2026-08-03",
-  "timestamp": "2026-08-03T00:00:00Z",
+  "date": "2026-08-04",
+  "timestamp": "2026-08-04T00:00:00Z",
   "emojis": [
     {
-      "char": "💣",
-      "label": "pakistan police station bombing",
-      "url": "https://www.nytimes.com/2026/08/02/world/asia/pakistan-police-station-bombing.html",
-      "title": "Pakistan Police Station Bombing Kills at Least 14",
-      "summary": "The authorities said the suicide bombing, which killed at least 14 people in the Swat Valley. The Pakistani Taliban claimed responsibility."
-    },
-    {
-      "char": "🛩️",
-      "label": "tourist plane crashes in peru",
-      "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-      "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
-      "summary": "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca L..."
-    },
-    {
-      "char": "🇪🇺",
-      "label": "eu meeting on ceuta crisis",
-      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
-      "summary": "Divisions remain in the bloc over mass crossing of migrants into Spanish territory in north Africa The EU is to hold an urgent meeting of interior ministers on Tuesday amid continued divisions in the bloc over the arrival of more than 50..."
-    },
-    {
-      "char": "🎶",
-      "label": "indie music venues closing",
-      "url": "https://www.nytimes.com/2026/08/02/world/australia/sydney-australia-marys-underground-music-venues-closing.html",
-      "title": "Australia’s Indie Music Venues Closing as Costs Rise and Attendance Drops",
-      "summary": "When Mary’s Underground in Sydney closed, it was a familiar tune for a scene hit by high costs and low attendance. Critics worry about a shrinking space for new talent."
-    },
-    {
-      "char": "🌍",
-      "label": "hiv prevention drug access issues",
-      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
-      "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
-      "summary": "Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide Sign up for the Breaking News US newsletter email New innovations in HIV prevention could dramatically reduce the number of new HIV c..."
-    },
-    {
-      "char": "🎸",
-      "label": "quebec's new chief scientist",
-      "url": "https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html",
-      "title": "Cowboys Fringants Bassist Is Named Quebec’s Chief Scientist",
-      "summary": "Jérôme Dupras is a member of one of Quebec’s most popular folk rock bands. Now, as the province’s chief scientist, he will help shape its environmental destiny."
-    },
-    {
-      "char": "🏳️‍🌈",
-      "label": "rise of anti-lgbtq+ laws",
-      "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
-      "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
-      "summary": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’ A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressure..."
-    },
-    {
-      "char": "🌍",
-      "label": "how china surveils foreigners",
-      "url": "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html",
-      "title": "How China Keeps Tabs on Foreigners",
-      "summary": "An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data."
-    },
-    {
-      "char": "🌪️",
-      "label": "venezuela's deadly earthquakes",
-      "url": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
-      "title": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
-      "summary": "More than a month after the earthquakes, the coastal region of La Guaira — once Venezuela’s main gateway — is completely unrecognizable."
-    },
-    {
-      "char": "✈️",
-      "label": "westjet flight attendants strike",
-      "url": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html",
-      "title": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
-      "summary": "Labor talks resumed on Sunday between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work."
-    },
-    {
-      "char": "📰",
-      "label": "massive attack responds to singapore ban",
-      "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
-      "title": "Massive Attack respond after Singapore ban over Palestine display",
-      "summary": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there."
-    },
-    {
-      "char": "🌍",
-      "label": "ceuta migration crisis in morocco",
-      "url": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
-      "title": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
-      "summary": "Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain."
-    },
-    {
-      "char": "🚁",
-      "label": "firefighting helicopters collide in greece",
-      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-      "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived."
-    },
-    {
-      "char": "💔",
-      "label": "pakistan police station bombing kills 14",
-      "url": "https://www.nytimes.com/2026/08/02/world/asia/pakistan-police-station-bombing.html",
-      "title": "Pakistan Police Station Bombing Kills at Least 14",
-      "summary": "The authorities said the suicide bombing, which killed at least 14 people in the Swat Valley. The Pakistani Taliban claimed responsibility."
-    },
-    {
-      "char": "✈️",
-      "label": "tourist plane crashes over nazca lines",
-      "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-      "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
-      "summary": "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca L..."
-    },
-    {
-      "char": "🌡️",
-      "label": "austria heat records and typhoon",
-      "url": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
-      "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
-      "summary": "Soaring temperatures continue to sweep parts of Europe, while Okinawa faces powerful winds and storm surges Europe live – latest updates Unbearable, record-breaking heat has dominated the summer of 2026 across much of Europe. New records..."
-    },
-    {
-      "char": "✈️",
-      "label": "plane crash over nazca lines",
-      "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-      "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
-      "summary": "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca L..."
-    },
-    {
-      "char": "🔥",
-      "label": "greece firefighting helicopter crash",
-      "url": "https://www.nytimes.com/2026/08/03/world/europe/greece-fire-helicopter-crash-firefighters.html",
-      "title": "2 Killed as Firefighting Helicopters Collide in Greece",
-      "summary": "The aircraft crashed while battling a wildfire northwest of Athens, as Greece fought more than 200 fires in the past week."
-    },
-    {
-      "char": "🌍",
-      "label": "hiv prevention drug access issues",
-      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
-      "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
-      "summary": "Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide Sign up for the Breaking News US newsletter email New innovations in HIV prevention could dramatically reduce the number of new HIV c..."
-    },
-    {
-      "char": "⚖️",
-      "label": "archbishop's pledge for communities",
-      "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
-      "title": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
-      "summary": "During visit to Ghana, Sarah Mullally expresses regret and says controversial fund symbolises Christian belief in repentance At a former British castle where thousands of enslaved Africans were held before being shipped across the Atlant..."
-    },
-    {
-      "char": "🇭🇳",
-      "label": "hernández faces charges in honduras",
-      "url": "https://www.nytimes.com/2026/08/03/world/americas/juan-orlando-hernandez-trump-honduras.html",
-      "title": "After Trump Pardon, Former Honduras President Hernández Faces Charges in His Home Country",
-      "summary": "Juan Orlando Hernández, a former president of Honduras, faces fraud and money laundering charges in his home country after a surprise Trump pardon overturned his drug-trafficking sentence in the U.S."
-    },
-    {
-      "char": "🌊",
-      "label": "deaths at ceuta border crossing",
-      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
-      "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
-      "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident At least 57 people have died trying to reach the Spanish enclave of Ceuta after as many as 50,000 migrants entered the tiny t..."
-    },
-    {
-      "char": "🕊️",
-      "label": "aung san suu kyi's rare contact",
+      "char": "🇲🇲",
+      "label": "myanmar junta allows contact with aung san suu k",
       "url": "https://www.nytimes.com/2026/08/03/world/asia/myanmar-aung-san-suu-kyi-photos-icrc.html",
       "title": "Myanmar Junta Allows Aung San Suu Kyi Rare Contact With an Outsider",
       "summary": "The ousted civilian leader, now 81, met with a representative of the Red Cross. Her long absence from public view had raised concerns about her health."
     },
     {
-      "char": "🌪️",
-      "label": "austria heat and typhoon dolphin",
-      "url": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
-      "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
-      "summary": "Soaring temperatures continue to sweep parts of Europe, while Okinawa faces powerful winds and storm surges Europe live – latest updates Unbearable, record-breaking heat has dominated the summer of 2026 across much of Europe. New records..."
+      "char": "⚽",
+      "label": "fifa faces non-cooperation threats",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+      "title": "Infantino opponents threaten 'non co-operation' with Fifa",
+      "summary": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources."
     },
     {
-      "char": "🏳️‍🌈",
-      "label": "rise of anti-lgbtq+ laws in west africa",
-      "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
-      "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
-      "summary": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’ A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressure..."
+      "char": "🔥",
+      "label": "wildfires effects may linger for years",
+      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+      "summary": "Three years after Maui wildfires many still struggle with ‘biological, emotional and social consequences’, study says A spate of ferocious wildfires across North America and Europe, worsened by the climate crisis, has incinerated homes a..."
+    },
+    {
+      "char": "🌍",
+      "label": "ceuta migration crisis exposes despair",
+      "url": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
+      "title": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
+      "summary": "Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain."
+    },
+    {
+      "char": "💊",
+      "label": "usaid cuts hinder hiv prevention access",
+      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
+      "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
+      "summary": "Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide Sign up for the Breaking News US newsletter email New innovations in HIV prevention could dramatically reduce the number of new HIV c..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Sorrow",
-    "emoji": "😢",
-    "rationale": "Today's news is dominated by tragic events, including bombings and fatal accidents, reflecting a somber atmosphere filled with loss and despair.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
