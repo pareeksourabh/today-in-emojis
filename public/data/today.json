@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news items reveal a series of troubling events, including migration crises, wildfires, and health concerns, which collectively evoke a sense of anxiety and concern about the state of global affairs.",
+    "emotion_label": "😔",
+    "emoji": "😔",
+    "rationale": "The day reflects a mix of despair and concern, highlighted by migration crises, health issues, and tragic accidents, evoking a somber mood overall.",
     "palette": [
       "😢",
       "😡",
