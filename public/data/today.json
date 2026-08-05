@@ -1,7 +1,14 @@
 {
   "date": "2026-08-05",
-  "timestamp": "2026-08-05T00:00:00Z",
+  "timestamp": "2026-08-05T10:38:11Z",
   "emojis": [
+    {
+      "char": "🎓",
+      "label": "mexico university cheating scandal",
+      "url": "https://www.theguardian.com/world/2026/aug/05/mexico-top-university-unam-resit-entrance-exam-cheating-scandal",
+      "title": "Mexico’s top university orders 58,000 students to resit entrance exam after suspected cheating",
+      "summary": "National Autonomous University of Mexico says applicants must take test in person after online debacle Mexico’s largest and most prestigious university has announced that about 58,000 students will have to resit their entrance exam after..."
+    },
     {
       "char": "🌋",
       "label": "guatemala volcano evacuation",
@@ -10,32 +17,25 @@
       "summary": "Eruption of the Fuego volcano sends lava and ash nearly four miles into the sky as country declares second-highest alert Hundreds of people living on the slopes of Guatemala ’s Fuego volcano have evacuated their homes after a huge erupti..."
     },
     {
-      "char": "✈️",
-      "label": "tourist plane crash in peru",
-      "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-      "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
-      "summary": "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca L..."
+      "char": "🌪️",
+      "label": "austria heat records typhoon",
+      "url": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
+      "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
+      "summary": "Soaring temperatures continue to sweep parts of Europe, while Okinawa faces powerful winds and storm surges Europe live – latest updates Unbearable, record-breaking heat has dominated the summer of 2026 across much of Europe. New records..."
     },
     {
-      "char": "🌍",
-      "label": "iran us talks halted",
-      "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
-      "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
-      "summary": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States."
+      "char": "🤖",
+      "label": "finland deepfakes protection",
+      "url": "https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html",
+      "title": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
+      "summary": "Finland, wary of misinformation from Moscow and beyond, has a leg up on other nations in spotting fake news. But A.I. is a whole new challenge."
     },
     {
-      "char": "🇪🇺",
-      "label": "eu border policy after ceuta",
-      "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
-      "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
-      "summary": "European Commission president says work needed in five areas of migration control including returning more people The president of the European Commission has called for action to strengthen Europe’s borders after tens of thousands of pe..."
-    },
-    {
-      "char": "📦",
-      "label": "france postal workers heat aid",
-      "url": "https://www.nytimes.com/2026/08/03/world/europe/france-postal-workers-older-people-heat.html",
-      "title": "As France’s Elders Swelter in the Heat, Postal Workers Come to the Rescue",
-      "summary": "To help prevent heat-related deaths, the French government has asked postal workers to check in on older people."
+      "char": "🕊️",
+      "label": "israel strikes gaza peace deal",
+      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
+      "title": "Israeli Strikes May Undermine Trump’s Peace Plan for Gaza",
+      "summary": "President Trump announced a proposal aimed at achieving the disarmament of Hamas and an Israeli withdrawal. Israel ramped up attacks on the Palestinian enclave."
     }
   ],
   "source": "ai-openai",
