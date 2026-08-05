@@ -59531,5 +59531,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-05",
+    "emojis": [
+      {
+        "char": "🇪🇺",
+        "label": "stronger eu borders after ceuta crisis",
+        "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
+        "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
+        "summary": "European Commission president says work needed in five areas of migration control including returning more people The president of the European Commission has called for action to strengthen Europe’s borders after tens of thousands of pe..."
+      },
+      {
+        "char": "🌋",
+        "label": "guatemala volcano eruption prompts evacuation",
+        "url": "https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people",
+        "title": "Guatemala volcano eruption prompts evacuation of hundreds of people",
+        "summary": "Eruption of the Fuego volcano sends lava and ash nearly four miles into the sky as country declares second-highest alert Hundreds of people living on the slopes of Guatemala ’s Fuego volcano have evacuated their homes after a huge erupti..."
+      },
+      {
+        "char": "✈️",
+        "label": "tourist plane crashes over nazca lines",
+        "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
+        "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
+        "summary": "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca L..."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "anti-lgbtq laws rise in west africa",
+        "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
+        "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
+        "summary": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’ A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressure..."
+      },
+      {
+        "char": "🔥",
+        "label": "iran says no talks with u.s. after trump",
+        "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
+        "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+        "summary": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
