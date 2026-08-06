@@ -59883,5 +59883,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-06",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "ceuta immigration flashpoint",
+        "url": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
+        "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
+        "summary": "In today’s newsletter: The past week shows how quickly images, rumours and ​right-wing political opportunism can eclipse the facts on the ground Good morning. Last week, an estimated 72,000 migrants began crossing into a tiny Spanish enc..."
+      },
+      {
+        "char": "🇺🇦",
+        "label": "ukraine strikes russian refineries",
+        "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine hits two oil refineries deep in Russian territory",
+        "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "venezuela earthquake response",
+        "url": "https://www.nytimes.com/2026/08/06/world/americas/venezuela-earthquakes-response-rodriguez.html",
+        "title": "Venezuela’s Response to Earthquakes Exposes Government’s Shortcomings",
+        "summary": "The government turned to the world to respond to twin quakes. But years of shrinking budgets and political repression weakened its ability to rescue countless people trapped in rubble."
+      },
+      {
+        "char": "🔫",
+        "label": "influencer shot in mexico",
+        "url": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
+        "title": "Mexican influencer shot dead while streaming live on social media",
+        "summary": "César Gastélum was filming outside a fast-food outlet in Sinaloa state when he was killed by a motorbike driver A popular Mexican influencer has been shot dead while doing a live stream on social media outside a restaurant in Sinaloa sta..."
+      },
+      {
+        "char": "🌊",
+        "label": "el niño hunger crisis",
+        "url": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
+        "title": "El Niño could push 50m people into acute hunger before end of next year",
+        "summary": "UN forecasters warn of worsening conditions in 45 countries currently experiencing severe food insecurity About 50 million people are likely to be pushed into acute hunger before the end of next year by the rapidly developing El Niño wea..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
