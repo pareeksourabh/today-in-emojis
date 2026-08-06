@@ -1,41 +1,41 @@
 {
   "date": "2026-08-06",
-  "timestamp": "2026-08-06T14:22:09Z",
+  "timestamp": "2026-08-06T00:00:00Z",
   "emojis": [
     {
+      "char": "🦠",
+      "label": "fauci contempt vote",
+      "url": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
+      "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
+      "summary": "The committee will now refer him for possible prosecution for refusing to answer questions about his handling of the Covid-19 pandemic."
+    },
+    {
+      "char": "🎓",
+      "label": "mexico university exam scandal",
+      "url": "https://www.theguardian.com/world/2026/aug/05/mexico-top-university-unam-resit-entrance-exam-cheating-scandal",
+      "title": "Mexico’s top university orders 58,000 students to resit entrance exam after suspected cheating",
+      "summary": "National Autonomous University of Mexico says applicants must take test in person after online debacle Mexico’s largest and most prestigious university has announced that about 58,000 students will have to resit their entrance exam after..."
+    },
+    {
+      "char": "🤖",
+      "label": "robots aid cherry farmers",
+      "url": "https://www.nytimes.com/2026/08/06/world/asia/japan-ai-robot-cherry-blossoms.html",
+      "title": "Can Robots Save Japan’s Aging Cherry Blossom Farmers?",
+      "summary": "Monster Wolf and Pochi are among the robots deployed to scare away bears and transport cherry blossoms in a northern region where many farmers are in their 70s or older."
+    },
+    {
+      "char": "💔",
+      "label": "ugandan footballer killed",
+      "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
+      "title": "Top Ugandan footballer killed by robbers armed with paving stones",
+      "summary": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the death of a player who was fatally injured during a robbery in the cap..."
+    },
+    {
       "char": "🌍",
-      "label": "ceuta immigration flashpoint",
-      "url": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
-      "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
-      "summary": "In today’s newsletter: The past week shows how quickly images, rumours and ​right-wing political opportunism can eclipse the facts on the ground Good morning. Last week, an estimated 72,000 migrants began crossing into a tiny Spanish enc..."
-    },
-    {
-      "char": "🇺🇦",
-      "label": "ukraine strikes russian refineries",
-      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-      "title": "Ukraine hits two oil refineries deep in Russian territory",
-      "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war."
-    },
-    {
-      "char": "🇻🇪",
-      "label": "venezuela earthquake response",
-      "url": "https://www.nytimes.com/2026/08/06/world/americas/venezuela-earthquakes-response-rodriguez.html",
-      "title": "Venezuela’s Response to Earthquakes Exposes Government’s Shortcomings",
-      "summary": "The government turned to the world to respond to twin quakes. But years of shrinking budgets and political repression weakened its ability to rescue countless people trapped in rubble."
-    },
-    {
-      "char": "🔫",
-      "label": "influencer shot in mexico",
-      "url": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
-      "title": "Mexican influencer shot dead while streaming live on social media",
-      "summary": "César Gastélum was filming outside a fast-food outlet in Sinaloa state when he was killed by a motorbike driver A popular Mexican influencer has been shot dead while doing a live stream on social media outside a restaurant in Sinaloa sta..."
-    },
-    {
-      "char": "🌊",
-      "label": "el niño hunger crisis",
-      "url": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
-      "title": "El Niño could push 50m people into acute hunger before end of next year",
-      "summary": "UN forecasters warn of worsening conditions in 45 countries currently experiencing severe food insecurity About 50 million people are likely to be pushed into acute hunger before the end of next year by the rapidly developing El Niño wea..."
+      "label": "nigerian forces free hostages",
+      "url": "https://www.theguardian.com/world/2026/aug/06/nigerian-security-forces-free-hostages-abducted-by-militants",
+      "title": "Nigerian security forces free more than 300 hostages abducted by militants",
+      "summary": "President hails ‘successful’ rescue as country battles endemic kidnapping for ransom and insecurity worsens Nigerian security forces have rescued more than 300 abducted people in what the president, Bola Ahmed Tinubu, hailed as the large..."
     }
   ],
   "source": "ai-openai",
