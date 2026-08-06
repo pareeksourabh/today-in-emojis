@@ -1,41 +1,41 @@
 {
   "date": "2026-08-06",
-  "timestamp": "2026-08-06T06:35:30Z",
+  "timestamp": "2026-08-06T00:00:00Z",
   "emojis": [
     {
-      "char": "🇮🇱",
-      "label": "israel strikes lebanon over cease-fire",
-      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-lebanon-hezbollah-cease-fire.html",
-      "title": "Israel Strikes Lebanon After Accusing Hezbollah of Cease-Fire Violation",
-      "summary": "At the same time, Israeli and Lebanese negotiators were holding talks in Rome aimed at fostering a long-term diplomatic settlement."
-    },
-    {
-      "char": "🇮🇷",
-      "label": "iran nearing deal with oman on strait",
-      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/iran-oman-strait-of-hormuz.html",
-      "title": "Iran Says It Is Nearing Final Agreement With Oman on Strait of Hormuz",
-      "summary": "The agreement on an acceptable route for ships to pass through the strait would effectively ratify Tehran’s control over the crucial waterway."
-    },
-    {
-      "char": "🇧🇷",
-      "label": "us revokes brazil ambassador's visa",
-      "url": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
-      "title": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud",
-      "summary": "Move is retaliation for Lula’s government refusal to approve Trump’s nominee for ambassador in Brasília Donald Trump’s administration has revoked the visa of Brazil’s ambassador to the US in a sharp escalation of a diplomatic feud with t..."
-    },
-    {
       "char": "🦛",
-      "label": "toronto zoo welcomes pygmy hippo calf",
+      "label": "pygmy hippo calf born at zoo",
       "url": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf",
       "title": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
       "summary": "The 20-year-old’s third calf is being monitored by officials as survival rates for the species are challenging, the zoo said The Toronto Zoo has announced the birth of a female pygmy hippo calf. Kindia, the zoo’s 20-year-old pygmy hippo,..."
     },
     {
-      "char": "🌍",
-      "label": "el niño could cause hunger for millions",
-      "url": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
-      "title": "El Niño could push 50m people into acute hunger before end of next year",
-      "summary": "UN forecasters warn of worsening conditions in 45 countries currently experiencing severe food insecurity About 50 million people are likely to be pushed into acute hunger before the end of next year by the rapidly developing El Niño wea..."
+      "char": "🔫",
+      "label": "influencer shot dead on livestream",
+      "url": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
+      "title": "Mexican influencer shot dead while streaming live on social media",
+      "summary": "César Gastélum was filming outside a fast-food outlet in Sinaloa state when he was killed by a motorbike driver A popular Mexican influencer has been shot dead while doing a live stream on social media outside a restaurant in Sinaloa sta..."
+    },
+    {
+      "char": "✈️",
+      "label": "war in the skies over ukraine",
+      "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
+      "title": "The War That’s Happening Above Russia and Ukraine",
+      "summary": "The combatants are producing ever larger numbers of innovative aerial weapons, hoping for a breakthrough as ground combat is largely frozen."
+    },
+    {
+      "char": "🚬",
+      "label": "china's fight against smoking",
+      "url": "https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html",
+      "title": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time",
+      "summary": "Disputes between smokers and nonsmokers are becoming more visible as a younger generation increasingly refuses to suffer secondhand smoke in silence."
+    },
+    {
+      "char": "⚓",
+      "label": "houthis threaten red sea attacks",
+      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html",
+      "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers",
+      "summary": "Saudi Arabia has not commented on the claims by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments."
     }
   ],
   "source": "ai-openai",
