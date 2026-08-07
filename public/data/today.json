@@ -1,43 +1,204 @@
 {
   "date": "2026-08-07",
-  "timestamp": "2026-08-07T16:37:44Z",
+  "timestamp": "2026-08-07T00:00:00Z",
   "emojis": [
     {
-      "char": "🇸🇦",
-      "label": "saudi-turkey-pakistan defense pact",
-      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
-      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-      "summary": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice."
+      "char": "⚔️",
+      "label": "houthi attacks threaten yemen war",
+      "url": "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html",
+      "title": "Houthi Attacks on Yemeni Military Threaten to Reignite Civil War",
+      "summary": "The Iranian-backed militia said it had targeted the armed forces in two resource-rich provinces, as escalating violence in Yemen imperils a fragile truce."
     },
     {
-      "char": "🧊",
+      "char": "🦠",
+      "label": "ebola outbreak in drc mutating",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+      "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials..."
+    },
+    {
+      "char": "🌍",
+      "label": "trump's influence after ceuta disaster",
+      "url": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster",
+      "title": "‘Morocco feels emboldened’: Trump’s influence in spotlight after Ceuta disaster",
+      "summary": "Washington-Rabat ties under scrutiny as questions swirl over what led to deadly influx into tiny Spanish territory The cosy relationship between Washington and Rabat has long been flaunted by both sides, from Morocco’s announcement this..."
+    },
+    {
+      "char": "🎉",
+      "label": "pygmy hippo calf born at toronto zoo",
+      "url": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf",
+      "title": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
+      "summary": "The 20-year-old’s third calf is being monitored by officials as survival rates for the species are challenging, the zoo said The Toronto Zoo has announced the birth of a female pygmy hippo calf. Kindia, the zoo’s 20-year-old pygmy hippo,..."
+    },
+    {
+      "char": "🔒",
+      "label": "nigerian forces free 300 hostages",
+      "url": "https://www.theguardian.com/world/2026/aug/06/nigerian-security-forces-free-hostages-abducted-by-militants",
+      "title": "Nigerian security forces free more than 300 hostages in ‘largest single-day recovery’",
+      "summary": "President hails operation to rescue captives held in dense forests of Kainji Lake national park in north-central region Nigerian security forces have rescued more than 300 abducted people in what the president, Bola Ahmed Tinubu, hailed..."
+    },
+    {
+      "char": "🎮",
+      "label": "streamer death convictions",
+      "url": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
+      "title": "Two people convicted in relation to death of French streamer",
+      "summary": "Raphaël Graven, 46, died in August 2025, with his death live broadcast on the streaming platform Kick."
+    },
+    {
+      "char": "⚔️",
+      "label": "houthi attacks in yemen",
+      "url": "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html",
+      "title": "Houthi Attacks on Yemeni Military Threaten to Reignite Civil War",
+      "summary": "The Iranian-backed militia said it had targeted the armed forces in two resource-rich provinces, as escalating violence in Yemen imperils a fragile truce."
+    },
+    {
+      "char": "🔥",
+      "label": "fires in french village",
+      "url": "https://www.nytimes.com/2026/08/06/world/europe/le-porge-france-fires-village.html",
+      "title": "Fires Wrecked Their Village in France. Now They Want Answers.",
+      "summary": "After fleeing France’s worst wildfire in decades, residents of Le Porge, a village west of Bordeaux, returned home 13 days later. They found a town in ruins."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola virus mutation in drc",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+      "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials..."
+    },
+    {
+      "char": "🐾",
+      "label": "pygmy hippo calf born",
+      "url": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf",
+      "title": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
+      "summary": "The 20-year-old’s third calf is being monitored by officials as survival rates for the species are challenging, the zoo said The Toronto Zoo has announced the birth of a female pygmy hippo calf. Kindia, the zoo’s 20-year-old pygmy hippo,..."
+    },
+    {
+      "char": "🌍",
+      "label": "migrants in ceuta after border crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
+      "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
+      "summary": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola virus mutating in drc outbreak",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+      "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials..."
+    },
+    {
+      "char": "⚽",
+      "label": "top ugandan footballer killed in robbery",
+      "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
+      "title": "Top Ugandan footballer killed by robbers armed with paving stones",
+      "summary": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the death of a player who was fatally injured during a robbery in the cap..."
+    },
+    {
+      "char": "⚔️",
+      "label": "colombia's eln prepares for war return",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
+      "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
+      "summary": "As Abelardo de la Espriella takes office as president vowing a new military offensive, the country’s last leftwing rebels are getting ready to fight back As the boat approached the riverbank, camouflaged figures watched from the tree lin..."
+    },
+    {
+      "char": "🇻🇳",
+      "label": "foreigners challenge vietnam's justice system",
+      "url": "https://www.nytimes.com/2026/08/07/world/asia/vietnam-tourism-foreigners-crime-law.html",
+      "title": "Foreigners Behaving Badly in Vietnam Challenge Its Communist Justice System",
+      "summary": "Vietnam is grappling with a surge in visitors, testing its Soviet-style criminal justice system as it tries to supercharge its economy through tourism."
+    },
+    {
+      "char": "🤝",
+      "label": "saudi arabia, turkey, pakistan pact",
+      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
+    },
+    {
+      "char": "❄️",
       "label": "antarctica rescue mission",
-      "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-      "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C."
+      "url": "https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html",
+      "title": "Rescuers Battled Extreme Weather Conditions During Medevac Mission in Antarctica",
+      "summary": "An Australian flight crew faced subfreezing temperatures, changing weather conditions and almost constant darkness as they worked to rescue a U.S. national."
     },
     {
-      "char": "🕊️",
-      "label": "gaza activists abuse report",
-      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
-      "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
-      "summary": "In interviews, more than 20 people who tried to break an Israeli blockade described beatings, electric shocks and other abuse after being captured. Israel denied the accusations."
+      "char": "🏫",
+      "label": "thailand school shooting",
+      "url": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
+      "title": "Thailand School Shooting Leaves at Least Eight Dead",
+      "summary": "A student killed his grandparents at their home before opening fire at a high school near Bangkok and turning the gun on himself, the authorities said."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola virus mutation in drc",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+      "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials..."
+    },
+    {
+      "char": "⚽",
+      "label": "top ugandan footballer killed",
+      "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
+      "title": "Top Ugandan footballer killed by robbers armed with paving stones",
+      "summary": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the death of a player who was fatally injured during a robbery in the cap..."
     },
     {
       "char": "🇺🇸",
-      "label": "us consulate closures",
+      "label": "us consulate closures amid china fears",
       "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
       "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
       "summary": "State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon The US state department is to shut five foreign consulates and missions across Asia, Africa, North America and the Caribbean, drawing..."
     },
     {
-      "char": "🌍",
-      "label": "ebola virus mutation concerns",
+      "char": "🇨🇴",
+      "label": "military partnership with colombia",
+      "url": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
+      "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
+      "summary": "The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola virus mutating in drc",
       "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
       "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
       "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials..."
+    },
+    {
+      "char": "🏥",
+      "label": "japan's quake preparedness success",
+      "url": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html",
+      "title": "How Japan Reduced Deaths From a Major Quake",
+      "summary": "After deadly tremors a decade ago, Kumamoto built earthquake-resistant buildings and even trained locals in search and rescue."
+    },
+    {
+      "char": "🎥",
+      "label": "mexican influencer shot live on social media",
+      "url": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
+      "title": "Mexican influencer shot dead while streaming live on social media",
+      "summary": "César Gastélum was filming outside a fast-food outlet in Sinaloa state when he was killed by a motorbike driver A popular Mexican influencer has been shot dead while doing a live stream on social media outside a restaurant in Sinaloa sta..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "sorrow",
+    "emoji": "😢",
+    "rationale": "The day is marked by tragic events including violence in Yemen, a deadly Ebola outbreak, and the mourning of a Ugandan footballer, which evokes a strong sense of sorrow.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
