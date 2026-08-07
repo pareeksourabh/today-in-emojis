@@ -1,41 +1,41 @@
 {
   "date": "2026-08-07",
-  "timestamp": "2026-08-07T00:00:00Z",
+  "timestamp": "2026-08-07T16:37:44Z",
   "emojis": [
     {
+      "char": "🇸🇦",
+      "label": "saudi-turkey-pakistan defense pact",
+      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
+      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "summary": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice."
+    },
+    {
+      "char": "🧊",
+      "label": "antarctica rescue mission",
+      "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C."
+    },
+    {
+      "char": "🕊️",
+      "label": "gaza activists abuse report",
+      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
+      "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
+      "summary": "In interviews, more than 20 people who tried to break an Israeli blockade described beatings, electric shocks and other abuse after being captured. Israel denied the accusations."
+    },
+    {
       "char": "🇺🇸",
-      "label": "us consulate closures amid china fears",
+      "label": "us consulate closures",
       "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
       "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
       "summary": "State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon The US state department is to shut five foreign consulates and missions across Asia, Africa, North America and the Caribbean, drawing..."
     },
     {
-      "char": "🇨🇴",
-      "label": "military partnership with colombia",
-      "url": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
-      "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
-      "summary": "The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola virus mutating in drc",
+      "char": "🌍",
+      "label": "ebola virus mutation concerns",
       "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
       "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
       "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials..."
-    },
-    {
-      "char": "🏥",
-      "label": "japan's quake preparedness success",
-      "url": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html",
-      "title": "How Japan Reduced Deaths From a Major Quake",
-      "summary": "After deadly tremors a decade ago, Kumamoto built earthquake-resistant buildings and even trained locals in search and rescue."
-    },
-    {
-      "char": "🎥",
-      "label": "mexican influencer shot live on social media",
-      "url": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
-      "title": "Mexican influencer shot dead while streaming live on social media",
-      "summary": "César Gastélum was filming outside a fast-food outlet in Sinaloa state when he was killed by a motorbike driver A popular Mexican influencer has been shot dead while doing a live stream on social media outside a restaurant in Sinaloa sta..."
     }
   ],
   "source": "ai-openai",
