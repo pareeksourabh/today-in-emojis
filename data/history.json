@@ -60059,5 +60059,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-07",
+    "emojis": [
+      {
+        "char": "🪳",
+        "label": "youth protests in india",
+        "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+        "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
+        "summary": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand."
+      },
+      {
+        "char": "🚁",
+        "label": "antarctica rescue mission",
+        "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+        "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+        "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C."
+      },
+      {
+        "char": "🇭🇹",
+        "label": "haitians face deportation",
+        "url": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
+        "title": "Haitians face arrest and deportation after US removes TPS protections",
+        "summary": "DHS secretary Markwayne Mullin says ‘We’re going after them right now’ despite threat of violence in home country Hundreds of thousands of Haitians are faced with the prospect of imminent risk of arrest and deportation – to a home countr..."
+      },
+      {
+        "char": "⚖️",
+        "label": "lead poisoning settlement",
+        "url": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
+        "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a ‘historic milestone’",
+        "summary": "Cardinal Pedro Barreto received death threats and harassment during his almost 20-year campaign against a US mining company’s operations in the Andes A Peruvian cardinal who received a barrage of death threats when he challenged the firm..."
+      },
+      {
+        "char": "💣",
+        "label": "iran nuclear program update",
+        "url": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html",
+        "title": "The State of Iran’s Three Key Nuclear Sites",
+        "summary": "The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
