@@ -1,41 +1,41 @@
 {
   "date": "2026-08-08",
-  "timestamp": "2026-08-08T05:01:54Z",
+  "timestamp": "2026-08-08T00:00:00Z",
   "emojis": [
     {
-      "char": "🇨🇴",
-      "label": "trump's military deal with colombia",
-      "url": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
-      "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
-      "summary": "The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway."
+      "char": "🤝",
+      "label": "saudi-turkey-pakistan defense pact",
+      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
+      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "summary": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice."
     },
     {
-      "char": "🏛️",
-      "label": "us consulate closures amid tensions",
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
-      "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
-      "summary": "State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon The US state department is to shut five foreign consulates and missions across Asia, Africa, North America and the Caribbean, drawing..."
-    },
-    {
-      "char": "🔫",
-      "label": "thai pm vows stricter gun laws",
-      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead."
-    },
-    {
-      "char": "⚔️",
-      "label": "defense pact among saudi, turkey, pakistan",
-      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
+      "char": "💰",
+      "label": "us security aid to colombia",
+      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+      "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing ‌p..."
     },
     {
       "char": "⚽",
-      "label": "top ugandan footballer killed in robbery",
+      "label": "top ugandan footballer killed",
       "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
       "title": "Top Ugandan footballer killed by robbers armed with paving stones",
       "summary": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the death of a player who was fatally injured during a robbery in the cap..."
+    },
+    {
+      "char": "🎓",
+      "label": "thai pupil witnesses shooting",
+      "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+      "summary": "The student says she feared never seeing her mother again after the attack killed five teachers."
+    },
+    {
+      "char": "🔥",
+      "label": "russia's wildberries business crisis",
+      "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
+      "title": "She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.",
+      "summary": "As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet."
     }
   ],
   "source": "ai-openai",
