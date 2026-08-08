@@ -60323,5 +60323,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-08",
+    "emojis": [
+      {
+        "char": "🇪🇸",
+        "label": "spain imposes border controls",
+        "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+        "summary": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta."
+      },
+      {
+        "char": "👨‍⚖️",
+        "label": "trump's ex-lawyer confirmed",
+        "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+        "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+        "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
+      },
+      {
+        "char": "🌍",
+        "label": "us bombs iran amid decolonization",
+        "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
+        "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
+        "summary": "The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics."
+      },
+      {
+        "char": "🚨",
+        "label": "haitians face deportation risks",
+        "url": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
+        "title": "Haitians face arrest and deportation after US removes TPS protections",
+        "summary": "DHS secretary Markwayne Mullin says ‘We’re going after them right now’ despite threat of violence in home country Hundreds of thousands of Haitians are faced with the prospect of imminent risk of arrest and deportation – to a home countr..."
+      },
+      {
+        "char": "⚽",
+        "label": "messi's father passes away",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+        "title": "Messi's father Jorge dies aged 68 after illness",
+        "summary": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
