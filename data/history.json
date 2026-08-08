@@ -60147,5 +60147,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-08",
+    "emojis": [
+      {
+        "char": "🌏",
+        "label": "foreigners in vietnam's justice system",
+        "url": "https://www.nytimes.com/2026/08/07/world/asia/vietnam-tourism-foreigners-crime-law.html",
+        "title": "Foreigners Behaving Badly in Vietnam Challenge Its Communist Justice System",
+        "summary": "Vietnam is grappling with a surge in visitors, testing its Soviet-style criminal justice system as it tries to supercharge its economy through tourism."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in drc",
+        "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+        "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+        "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials..."
+      },
+      {
+        "char": "🏥",
+        "label": "earthquake chaos in japan hospital",
+        "url": "https://www.nytimes.com/2026/08/07/world/asia/hospital-video-earthquake-surgery.html",
+        "title": "Video Captures Chaos as Earthquake Strikes Japan Hospital Mid-Surgery",
+        "summary": "Footage shows doctors in Japan clinging to an operating table to protect a patient from the violent tremor. The surgery was completed successfully."
+      },
+      {
+        "char": "⚔️",
+        "label": "colombia's eln prepares for war",
+        "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
+        "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
+        "summary": "As Abelardo de la Espriella takes office as president vowing a new military offensive, the country’s last leftwing rebels are getting ready to fight back As the boat approached the riverbank, camouflaged figures watched from the tree lin..."
+      },
+      {
+        "char": "🐾",
+        "label": "toronto zoo's pygmy hippo calf",
+        "url": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf",
+        "title": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
+        "summary": "The 20-year-old’s third calf is being monitored by officials as survival rates for the species are challenging, the zoo said The Toronto Zoo has announced the birth of a female pygmy hippo calf. Kindia, the zoo’s 20-year-old pygmy hippo,..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
