@@ -60191,5 +60191,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-08",
+    "emojis": [
+      {
+        "char": "🇨🇴",
+        "label": "trump's military deal with colombia",
+        "url": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
+        "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
+        "summary": "The country’s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway."
+      },
+      {
+        "char": "🏛️",
+        "label": "us consulate closures amid tensions",
+        "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+        "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+        "summary": "State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon The US state department is to shut five foreign consulates and missions across Asia, Africa, North America and the Caribbean, drawing..."
+      },
+      {
+        "char": "🔫",
+        "label": "thai pm vows stricter gun laws",
+        "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+        "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+        "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead."
+      },
+      {
+        "char": "⚔️",
+        "label": "defense pact among saudi, turkey, pakistan",
+        "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+        "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
+      },
+      {
+        "char": "⚽",
+        "label": "top ugandan footballer killed in robbery",
+        "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
+        "title": "Top Ugandan footballer killed by robbers armed with paving stones",
+        "summary": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the death of a player who was fatally injured during a robbery in the cap..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
