@@ -1,24 +1,59 @@
 {
   "date": "2026-08-09",
-  "timestamp": "2026-08-09T16:18:20Z",
+  "timestamp": "2026-08-09T00:00:00Z",
   "emojis": [
     {
-      "char": "💰",
-      "label": "war on hezbollah's finances",
-      "url": "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html",
-      "title": "Inside the War on Hezbollah’s Finances",
-      "summary": "Israel and the United States aren’t just targeting the Lebanese militant group’s weapons. They’re going after its money."
+      "char": "🔥",
+      "label": "canada wildfires update",
+      "url": "https://www.nytimes.com/article/canada-wildfires-2026.html",
+      "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+      "summary": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast."
+    },
+    {
+      "char": "🇪🇸",
+      "label": "spain border checks for italy",
+      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+      "title": "Spain to introduce temporary border checks on visitors from Italy",
+      "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass r..."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola outbreak in drc",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+      "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials..."
+    },
+    {
+      "char": "⚖️",
+      "label": "us police officer arrested",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
+      "title": "US police officer accused of killing three people in Mexico arrested at border",
+      "summary": "Chad Eberle of Texas charged over deadly shooting in Saltillo that officials say stemmed from custody dispute A Texas police officer has been arrested in Mexico after authorities there accused him of killing three people and critically i..."
+    },
+    {
+      "char": "⚽",
+      "label": "messi's father passes away",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+      "title": "Messi's father Jorge dies aged 68 after illness",
+      "summary": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness."
+    },
+    {
+      "char": "🌪️",
+      "label": "typhoon hits japan and china",
+      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island."
     },
     {
       "char": "🌍",
-      "label": "first female head of un contender",
-      "url": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
-      "title": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
-      "summary": "Rebeca Grynspan seen as continuity candidate with tacit support from current secretary general, António Guterres A Costa Rican diplomat and former vice-president whose parents were refugees from the Holocaust has become the surprise fron..."
+      "label": "us bombs iran affecting africa",
+      "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
+      "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
+      "summary": "The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics."
     },
     {
-      "char": "💼",
-      "label": "us aid to colombia's crackdown",
+      "char": "💰",
+      "label": "us aids colombia's new president",
       "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
       "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
       "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing ‌p..."
@@ -31,13 +66,139 @@
       "summary": "Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalent A thousand kilometres from the infernos gorging on northern Ontario’s boreal forests, Erin O’Connor watched the sky above Canad..."
     },
     {
-      "char": "🐾",
-      "label": "beavers invade canada's arctic",
-      "url": "https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html",
-      "title": "As the Climate Warms, Beavers are Coming for Canada’s Arctic",
-      "summary": "Drawn by a warming climate, Canada’s furry national symbol is colonizing new territory, evading Inuit hunters and reshaping the world they find."
+      "char": "⚖️",
+      "label": "trump's lawyer confirmed as ag",
+      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
+    },
+    {
+      "char": "⚽",
+      "label": "messi's father dies aged 68",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+      "title": "Messi's father Jorge dies aged 68 after illness",
+      "summary": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness."
+    },
+    {
+      "char": "🕌",
+      "label": "whirling dervishes in turkey",
+      "url": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
+      "title": "Whirling Like Dervishes in Turkey, but Open to Everyone",
+      "summary": "Hundreds of people attended a seven-day retreat in the Turkish countryside seeking transcendence through sema, the spiritual practice of whirling."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola virus outbreak in drc",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+      "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials..."
+    },
+    {
+      "char": "🔥",
+      "label": "canada wildfires update",
+      "url": "https://www.nytimes.com/article/canada-wildfires-2026.html",
+      "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+      "summary": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast."
+    },
+    {
+      "char": "⚔️",
+      "label": "yemen on brink of civil war",
+      "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
+      "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+      "summary": "While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight."
+    },
+    {
+      "char": "🩹",
+      "label": "perez hilton recovery after livestream",
+      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+      "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+      "summary": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family."
+    },
+    {
+      "char": "🇨🇴",
+      "label": "us security aid to colombia",
+      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+      "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing ‌p..."
+    },
+    {
+      "char": "👩‍⚖️",
+      "label": "costa rican diplomat for un head",
+      "url": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
+      "title": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
+      "summary": "Rebeca Grynspan seen as continuity candidate with tacit support from current secretary general, António Guterres A Costa Rican diplomat and former vice-president whose parents were refugees from the Holocaust has become the surprise fron..."
+    },
+    {
+      "char": "🔫",
+      "label": "thailand mass shootings and gun laws",
+      "url": "https://www.nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html",
+      "title": "As Thailand Gets Known for Mass Shootings, Fresh Pledges to Fix Gun Laws",
+      "summary": "A rampage at a high school in Thailand on Friday was the latest episode of gun violence in a country that has grappled in recent years with several attacks."
+    },
+    {
+      "char": "🔥",
+      "label": "wildfire evacuation in british columbia",
+      "url": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
+      "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
+      "summary": "The Bald Range fire has burned more than 25,000 acres in British Columbia. At one point, the fire spread more than 2,000 acres in about an hour, officials said."
+    },
+    {
+      "char": "⚔️",
+      "label": "yemen teeters on civil war",
+      "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
+      "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+      "summary": "While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight."
+    },
+    {
+      "char": "🚢",
+      "label": "ancient roman shipwreck found",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+      "title": "Ancient Roman shipwreck discovered off Sicily coast",
+      "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years."
+    },
+    {
+      "char": "🔥",
+      "label": "health impacts of wildfire smoke",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
+      "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
+      "summary": "Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalent A thousand kilometres from the infernos gorging on northern Ontario’s boreal forests, Erin O’Connor watched the sky above Canad..."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola virus outbreak in drc",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+      "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials..."
+    },
+    {
+      "char": "🛡️",
+      "label": "drone hellscape to stop invasion",
+      "url": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html",
+      "title": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
+      "summary": "Inspired by Ukraine’s battlefield gains, Taiwan is betting on drones to deter a potential Chinese invasion."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Worry",
+    "emoji": "😨",
+    "rationale": "The news items reflect a sense of anxiety and concern, particularly regarding wildfires, disease outbreaks, and escalating conflicts, which collectively evoke a feeling of worry about global events.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
