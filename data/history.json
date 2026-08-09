@@ -60367,5 +60367,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-09",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "hormuz talks and regional stability",
+        "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+        "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+        "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear."
+      },
+      {
+        "char": "🕊️",
+        "label": "whirling dervishes in turkey",
+        "url": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
+        "title": "Whirling Like Dervishes in Turkey, but Open to Everyone",
+        "summary": "Hundreds of people attended a seven-day retreat in the Turkish countryside seeking transcendence through sema, the spiritual practice of whirling."
+      },
+      {
+        "char": "🚨",
+        "label": "police halt youth march in india",
+        "url": "https://www.nytimes.com/2026/08/08/world/asia/india-new-delhi-cjp-protest-march-police.html",
+        "title": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
+        "summary": "A New York Times analysis details the July 20 crackdown on unarmed protesters in New Delhi that has provoked public outrage and accusations of excessive force."
+      },
+      {
+        "char": "⚽",
+        "label": "top ugandan footballer killed",
+        "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
+        "title": "Top Ugandan footballer killed by robbers armed with paving stones",
+        "summary": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the death of a player who was fatally injured during a robbery in the cap..."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfires in canada and evacuation",
+        "url": "https://www.nytimes.com/article/canada-wildfires-2026.html",
+        "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+        "summary": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
