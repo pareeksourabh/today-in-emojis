@@ -60455,5 +60455,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-09",
+    "emojis": [
+      {
+        "char": "🛢️",
+        "label": "iran demands affect strait reopening",
+        "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
+        "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+        "summary": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions."
+      },
+      {
+        "char": "⚔️",
+        "label": "yemen on brink of civil war",
+        "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
+        "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+        "summary": "While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight."
+      },
+      {
+        "char": "⚖️",
+        "label": "trump's south sudan tps ruling",
+        "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
+        "title": "Judge approves Trump effort to end South Sudan TPS protections",
+        "summary": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and Syrians Temporary protected status (TPS) for hundreds of South Sudanese nationals in the United States is set to end after a federal j..."
+      },
+      {
+        "char": "🌍",
+        "label": "first female un head contender",
+        "url": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
+        "title": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
+        "summary": "Rebeca Grynspan seen as continuity candidate with tacit support from current secretary general, António Guterres A Costa Rican diplomat and former vice-president whose parents were refugees from the Holocaust has become the surprise fron..."
+      },
+      {
+        "char": "🔥",
+        "label": "bc wildfire forces evacuations",
+        "url": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
+        "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
+        "summary": "The Bald Range fire has burned more than 25,000 acres in British Columbia. At one point, the fire spread more than 2,000 acres in about an hour, officials said."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
