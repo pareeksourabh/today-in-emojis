@@ -1,41 +1,41 @@
 {
   "date": "2026-08-09",
-  "timestamp": "2026-08-09T01:01:47Z",
+  "timestamp": "2026-08-09T00:00:00Z",
   "emojis": [
     {
+      "char": "🌪️",
+      "label": "typhoon hits japan and china",
+      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island."
+    },
+    {
       "char": "🌍",
-      "label": "hormuz talks and regional stability",
-      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-      "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear."
+      "label": "us bombs iran affecting africa",
+      "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
+      "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
+      "summary": "The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics."
     },
     {
-      "char": "🕊️",
-      "label": "whirling dervishes in turkey",
-      "url": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
-      "title": "Whirling Like Dervishes in Turkey, but Open to Everyone",
-      "summary": "Hundreds of people attended a seven-day retreat in the Turkish countryside seeking transcendence through sema, the spiritual practice of whirling."
-    },
-    {
-      "char": "🚨",
-      "label": "police halt youth march in india",
-      "url": "https://www.nytimes.com/2026/08/08/world/asia/india-new-delhi-cjp-protest-march-police.html",
-      "title": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
-      "summary": "A New York Times analysis details the July 20 crackdown on unarmed protesters in New Delhi that has provoked public outrage and accusations of excessive force."
-    },
-    {
-      "char": "⚽",
-      "label": "top ugandan footballer killed",
-      "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
-      "title": "Top Ugandan footballer killed by robbers armed with paving stones",
-      "summary": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the death of a player who was fatally injured during a robbery in the cap..."
+      "char": "💰",
+      "label": "us aids colombia's new president",
+      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+      "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing ‌p..."
     },
     {
       "char": "🔥",
-      "label": "wildfires in canada and evacuation",
-      "url": "https://www.nytimes.com/article/canada-wildfires-2026.html",
-      "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
-      "summary": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast."
+      "label": "wildfire smoke health impacts",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
+      "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
+      "summary": "Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalent A thousand kilometres from the infernos gorging on northern Ontario’s boreal forests, Erin O’Connor watched the sky above Canad..."
+    },
+    {
+      "char": "⚖️",
+      "label": "trump's lawyer confirmed as ag",
+      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
     }
   ],
   "source": "ai-openai",
