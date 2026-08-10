@@ -60763,5 +60763,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-10",
+    "emojis": [
+      {
+        "char": "🧳",
+        "label": "body in suitcase turns out doll",
+        "url": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+        "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
+        "summary": "Forensics revealed that the \"realistic\" looking body was in fact not human."
+      },
+      {
+        "char": "⚔️",
+        "label": "battle for mali base kills militants",
+        "url": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
+        "title": "Battle for Mali base has killed dozens of militants, army says",
+        "summary": "The army says it was involved in fierce fighting but disputes that Islamists took control of the garrison."
+      },
+      {
+        "char": "🔥",
+        "label": "canadian wildfires force evacuations",
+        "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
+        "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+        "summary": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts Canada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of unp..."
+      },
+      {
+        "char": "🌍",
+        "label": "powerful earthquake strikes colombia",
+        "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+        "title": "At least 20 dead as powerful earthquake strikes western Colombia",
+        "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira Colombia earthquake live – latest updates At least 20 people have died after a powerful earthquake struck western Colombi..."
+      },
+      {
+        "char": "📱",
+        "label": "malaysia's social media ban issues",
+        "url": "https://www.nytimes.com/2026/08/10/world/asia/malaysia-social-media-ban-delayed.html",
+        "title": "Malaysia Was Confident in Its Social Media Ban, but Kids Are Still Logged In",
+        "summary": "Officials told platforms to verify children’s ages using government-issued documents, like identity cards. But the companies have balked, apparently over privacy concerns."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
