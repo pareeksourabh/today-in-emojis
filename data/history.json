@@ -60587,5 +60587,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-10",
+    "emojis": [
+      {
+        "char": "🦫",
+        "label": "beavers invade canadian arctic",
+        "url": "https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html",
+        "title": "As the Climate Warms, Beavers are Coming for Canada’s Arctic",
+        "summary": "Drawn by a warming climate, Canada’s furry national symbol is colonizing new territory, evading Inuit hunters and reshaping the world they find."
+      },
+      {
+        "char": "🔥",
+        "label": "wildfire smoke health impacts",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
+        "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
+        "summary": "Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalent A thousand kilometres from the infernos gorging on northern Ontario’s boreal forests, Erin O’Connor watched the sky above Canad..."
+      },
+      {
+        "char": "🇨🇴",
+        "label": "us aid to colombia's new president",
+        "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+        "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+        "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing ‌p..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola virus mutating in drc",
+        "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+        "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+        "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials..."
+      },
+      {
+        "char": "🌍",
+        "label": "syria reorganizes russian military",
+        "url": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
+        "title": "Syria Agrees to Reorganized Russian Military Presence",
+        "summary": "After more than a year and a half of negotiations, Syria and Russia have agreed on new parameters of Russia’s military presence in Syria. Syria said it opens the way for a new phase in relations."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
