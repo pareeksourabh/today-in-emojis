@@ -1,27 +1,20 @@
 {
   "date": "2026-08-10",
-  "timestamp": "2026-08-10T01:03:48Z",
+  "timestamp": "2026-08-10T00:00:00Z",
   "emojis": [
     {
-      "char": "🦫",
-      "label": "beavers invade canadian arctic",
-      "url": "https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html",
-      "title": "As the Climate Warms, Beavers are Coming for Canada’s Arctic",
-      "summary": "Drawn by a warming climate, Canada’s furry national symbol is colonizing new territory, evading Inuit hunters and reshaping the world they find."
+      "char": "⚽",
+      "label": "top ugandan footballer killed",
+      "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
+      "title": "Top Ugandan footballer killed by robbers armed with paving stones",
+      "summary": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the death of a player who was fatally injured during a robbery in the cap..."
     },
     {
-      "char": "🔥",
-      "label": "wildfire smoke health impacts",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
-      "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
-      "summary": "Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalent A thousand kilometres from the infernos gorging on northern Ontario’s boreal forests, Erin O’Connor watched the sky above Canad..."
-    },
-    {
-      "char": "🇨🇴",
-      "label": "us aid to colombia's new president",
-      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
-      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
-      "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing ‌p..."
+      "char": "🌍",
+      "label": "costa rican diplomat for un",
+      "url": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
+      "title": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
+      "summary": "Rebeca Grynspan seen as continuity candidate with tacit support from current secretary general, António Guterres A Costa Rican diplomat and former vice-president whose parents were refugees from the Holocaust has become the surprise fron..."
     },
     {
       "char": "🦠",
@@ -31,11 +24,18 @@
       "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials..."
     },
     {
-      "char": "🌍",
-      "label": "syria reorganizes russian military",
-      "url": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
-      "title": "Syria Agrees to Reorganized Russian Military Presence",
-      "summary": "After more than a year and a half of negotiations, Syria and Russia have agreed on new parameters of Russia’s military presence in Syria. Syria said it opens the way for a new phase in relations."
+      "char": "🔥",
+      "label": "canadian wildfires force evacuations",
+      "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
+      "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+      "summary": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts Canada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of unp..."
+    },
+    {
+      "char": "🌡️",
+      "label": "europe braces for heat wave",
+      "url": "https://www.nytimes.com/2026/08/09/weather/extreme-heat-wave-uk-france-spain-forecast.html",
+      "title": "Europe Braces for Another Heat Wave. Here’s What to Know.",
+      "summary": "High temperature warnings were in place across western, central and southern Europe on Sunday as a heat dome intensifies across the continent."
     }
   ],
   "source": "ai-openai",
