@@ -1,204 +1,43 @@
 {
-  "date": "2026-08-10",
-  "timestamp": "2026-08-10T00:00:00Z",
+  "date": "2026-08-11",
+  "timestamp": "2026-08-11T00:00:00Z",
   "emojis": [
     {
-      "char": "🌀",
-      "label": "whirling dervishes in turkey",
-      "url": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
-      "title": "Whirling Like Dervishes in Turkey, but Open to Everyone",
-      "summary": "Hundreds of people attended a seven-day retreat in the Turkish countryside seeking transcendence through sema, the spiritual practice of whirling."
-    },
-    {
-      "char": "☀️",
-      "label": "europe heat wave forecast",
-      "url": "https://www.nytimes.com/2026/08/09/weather/extreme-heat-wave-uk-france-spain-forecast.html",
-      "title": "Europe Braces for Another Heat Wave. Here’s What to Know.",
-      "summary": "High temperature warnings were in place across western, central and southern Europe on Sunday as a heat dome intensifies across the continent."
-    },
-    {
-      "char": "🚁",
-      "label": "drones over german base",
-      "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts."
-    },
-    {
-      "char": "🌍",
-      "label": "us consulate closures",
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
-      "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
-      "summary": "State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon The US state department is to shut five foreign consulates and missions across Asia, Africa, North America and the Caribbean, drawing..."
-    },
-    {
-      "char": "💰",
-      "label": "us aid to colombia",
-      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
-      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
-      "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing ‌p..."
-    },
-    {
-      "char": "⚽",
-      "label": "top ugandan footballer killed",
-      "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
-      "title": "Top Ugandan footballer killed by robbers armed with paving stones",
-      "summary": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the death of a player who was fatally injured during a robbery in the cap..."
-    },
-    {
-      "char": "🌍",
-      "label": "costa rican diplomat for un",
-      "url": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
-      "title": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
-      "summary": "Rebeca Grynspan seen as continuity candidate with tacit support from current secretary general, António Guterres A Costa Rican diplomat and former vice-president whose parents were refugees from the Holocaust has become the surprise fron..."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola virus mutating in drc",
-      "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
-      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
-      "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials..."
-    },
-    {
-      "char": "🔥",
-      "label": "canadian wildfires force evacuations",
-      "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
-      "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
-      "summary": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts Canada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of unp..."
-    },
-    {
-      "char": "🌡️",
-      "label": "europe braces for heat wave",
-      "url": "https://www.nytimes.com/2026/08/09/weather/extreme-heat-wave-uk-france-spain-forecast.html",
-      "title": "Europe Braces for Another Heat Wave. Here’s What to Know.",
-      "summary": "High temperature warnings were in place across western, central and southern Europe on Sunday as a heat dome intensifies across the continent."
-    },
-    {
-      "char": "🇮🇷",
-      "label": "iran pushes for return to june mou",
-      "url": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
-      "title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
-      "summary": "The Strait of Hormuz is Iran’s best leverage to get Washington to release Iran’s frozen assets, lift economic sanctions and end its naval blockade."
-    },
-    {
-      "char": "🔥",
-      "label": "canadian wildfires force evacuations",
-      "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
-      "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
-      "summary": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts Canada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of unp..."
-    },
-    {
-      "char": "🌪️",
-      "label": "typhoon dolphin prompts evacuations",
-      "url": "https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html",
-      "title": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
-      "summary": "The storm, which made landfall on Sunday evening, is the strongest to hit China this year and also caused flooding in parts of the Philippines."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola virus could be mutating",
-      "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
-      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
-      "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials..."
-    },
-    {
-      "char": "🌍",
-      "label": "costa rican diplomat for un head",
-      "url": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
-      "title": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
-      "summary": "Rebeca Grynspan seen as continuity candidate with tacit support from current secretary general, António Guterres A Costa Rican diplomat and former vice-president whose parents were refugees from the Holocaust has become the surprise fron..."
-    },
-    {
-      "char": "🇪🇸",
-      "label": "spain border checks on italy",
-      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-      "title": "Spain to introduce temporary border checks on visitors from Italy",
-      "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass r..."
-    },
-    {
-      "char": "🎥",
-      "label": "kurdish filmmaker recounts ice force-feeding",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
-      "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
-      "summary": "Gabar Choli tells of how, for months, he was shackled, pinned and forcibly fed – and the physical and emotional scars the ordeal has left In June 2025, a sluggish and thin Gabar Choli, with sunken temples and bones visible under his skin..."
-    },
-    {
-      "char": "🌊",
-      "label": "iran pushes for return to june mou",
-      "url": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
-      "title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
-      "summary": "The Strait of Hormuz is Iran’s best leverage to get Washington to release Iran’s frozen assets, lift economic sanctions and end its naval blockade."
-    },
-    {
-      "char": "🔥",
-      "label": "health burden of wildfire smoke",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
-      "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
-      "summary": "Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalent A thousand kilometres from the infernos gorging on northern Ontario’s boreal forests, Erin O’Connor watched the sky above Canad..."
-    },
-    {
-      "char": "🌪️",
-      "label": "typhoon dolphin barrels into china",
-      "url": "https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html",
-      "title": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
-      "summary": "The storm, which made landfall on Sunday evening, is the strongest to hit China this year and also caused flooding in parts of the Philippines."
-    },
-    {
-      "char": "🌪️",
-      "label": "china evacuates one million from storm",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-      "title": "China evacuates one million from homes as massive storm arrives",
-      "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai."
-    },
-    {
       "char": "💣",
-      "label": "ukraine drone attack kills 13 in russia",
-      "url": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
-      "title": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
-      "summary": "The strike, on an industrial center in Tatarstan, killed at least 13 people."
+      "label": "southern iran bears brunt of u.s. bombing",
+      "url": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html",
+      "title": "Southern Iran Bears Brunt of U.S. Bombing",
+      "summary": "While fighting has abated in much of Iran, near-constant U.S. airstrikes in Qeshm island and other southern spots have upended lives and livelihoods."
     },
     {
-      "char": "🍽️",
-      "label": "kurdish hunger striker speaks on force-feeding",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/kurdish-hunger-striker-ice-force-feeding",
-      "title": "Kurdish hunger striker says ICE force-feeding ‘mentally broke me’",
-      "summary": "Exclusive: Film-maker Gabar Choli describes how he endured coercive treatment over eight months in detention in Texas A Kurdish man who was force fed over the course of eight months while on hunger strike in US immigration detention has..."
+      "char": "🏙️",
+      "label": "transformed spanish hometown faces scrutiny",
+      "url": "https://www.nytimes.com/2026/08/10/world/europe/malaga-spain-mayor-torre-urban-regeneration.html",
+      "title": "He Transformed His Spanish Hometown. Did He Also Spoil It?",
+      "summary": "Francisco de la Torre, the mayor of Málaga, is credited with turning the once drab port into a culture and tech hub. Critics say he’s also destroyed the city’s soul."
+    },
+    {
+      "char": "💉",
+      "label": "trump limits childhood vaccines with new order",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\"."
+    },
+    {
+      "char": "🚆",
+      "label": "new train service connects finland and sweden",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
+      "title": "New train service connects Finland and Sweden for first time in decades",
+      "summary": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe."
     },
     {
       "char": "🌍",
-      "label": "earthquake shakes colombia, 20 dead",
-      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-      "title": "At least 20 dead after 7.4 magnitude earthquake shakes Colombia – latest news",
-      "summary": "More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations Colombia’s Geological Service said that it had been “the highest magnitude earthquake registered in Colombia in the last decade” and th..."
-    },
-    {
-      "char": "🔥",
-      "label": "canadian wildfires force thousands to flee",
-      "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
-      "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
-      "summary": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts Canada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of unp..."
+      "label": "powerful earthquake strikes colombia, many dead",
+      "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
+      "title": "Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
+      "summary": "The quake shook major cities, including Bogotá, Cali and Medellín. At least 111 people have died, the president said, and the death toll appeared likely to rise as rescuers searched damaged buildings."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😨",
-    "emoji": "😨",
-    "rationale": "Today's news is filled with distressing events such as deadly natural disasters, violent crime, and the ongoing health crises. These stories evoke a sense of fear and concern for safety and stability.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
