@@ -60983,5 +60983,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-11",
+    "emojis": [
+      {
+        "char": "🇷🇺",
+        "label": "russia releases us marine",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+        "title": "Russia releases former US Marine reported in poor health",
+        "summary": "Robert Gilman, who was arrested in 2022 for kicking a police officer while drunk, had reportedly been in a catatonic-like state."
+      },
+      {
+        "char": "🚢",
+        "label": "houthi strike on red sea ship",
+        "url": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
+        "title": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
+        "summary": "The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait. The Iran-backed Houthis have not commented on the attack."
+      },
+      {
+        "char": "⚖️",
+        "label": "assad sentenced to death",
+        "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
+        "title": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
+        "summary": "The former president was convicted of crimes against humanity during the country’s civil war, the first verdict since he fled to Russia in 2024."
+      },
+      {
+        "char": "✈️",
+        "label": "canadian airline cancels flight",
+        "url": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
+        "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
+        "summary": "Flight from Victoria to Toronto forced to return to terminal after repeated attempts to secure child in seat failed A Canadian airline cancelled a flight from Victoria to Toronto after a child refused to wear a seatbelt. The child was st..."
+      },
+      {
+        "char": "🌍",
+        "label": "colombia earthquake aftermath",
+        "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+        "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
+        "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira More than 100 people died after a powerful earthquake struck western Colombia, collapsing and severely damaging scores of..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
