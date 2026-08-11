@@ -60895,5 +60895,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-11",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "colombia quake leaves over 110 dead",
+        "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
+        "title": "Colombia quake leaves more than 110 dead – as it happened",
+        "summary": "This blog is now closed – a full report is here People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌ He added that the city had asked authorities..."
+      },
+      {
+        "char": "🥵",
+        "label": "italians want to curl in summer heat",
+        "url": "https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html",
+        "title": "In a Sweltering Summer, These Italians Want Romans to Curl",
+        "summary": "By setting up a curling rink in the shadow of the Colosseum, sports officials hope to capitalize on the fresh popularity of the Winter Olympics phenomenon. Even in a heat wave and without any ice."
+      },
+      {
+        "char": "🚨",
+        "label": "kurdish filmmaker recounts ice force-feeding",
+        "url": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
+        "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
+        "summary": "Gabar Choli tells of how, for months, he was shackled, pinned and forcibly fed – and the physical and emotional scars the ordeal has left In June 2025, a sluggish and thin Gabar Choli, with sunken temples and bones visible under his skin..."
+      },
+      {
+        "char": "🔥",
+        "label": "canada wildfires force thousands to flee",
+        "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
+        "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+        "summary": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts Canada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of unp..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola virus outbreak in drc could mutate",
+        "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+        "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+        "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
