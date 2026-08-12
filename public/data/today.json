@@ -1,43 +1,204 @@
 {
   "date": "2026-08-12",
-  "timestamp": "2026-08-12T16:42:58Z",
+  "timestamp": "2026-08-12T00:00:00Z",
   "emojis": [
+    {
+      "char": "🇸🇾",
+      "label": "syria fears government takeover",
+      "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-sweida-province-druse-government.html",
+      "title": "A Syrian Holdout Province, Sweida, Fears a Government Takeover",
+      "summary": "In Sweida Province, dominated by the country’s Druse minority, many say it is just a matter of time before the central government moves to assert control over the region."
+    },
+    {
+      "char": "🇺🇦",
+      "label": "russian civilian deaths rising",
+      "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
+      "title": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
+      "summary": "The higher tempo of Ukrainian strikes has fueled discontent among Russians, but it is far from clear that it will change the Kremlin’s calculus about the war."
+    },
+    {
+      "char": "🌒",
+      "label": "iceland awaits solar eclipse",
+      "url": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-iceland.html",
+      "title": "The Eclipse Is Coming, and Iceland Is Looking for a Break in the Clouds",
+      "summary": "Rooms were booked years ago, and officials have been making plans. But there’s no telling where, exactly, Icelanders might go to find the best possible view."
+    },
+    {
+      "char": "🇨🇴",
+      "label": "colombia earthquake rescue efforts",
+      "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
+      "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
+      "summary": "“We heard them screaming,” said one rescuer in Cali, where emergency workers and volunteers are racing against time to find the living trapped in the rubble."
+    },
+    {
+      "char": "⚖️",
+      "label": "assad sentenced to death",
+      "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
+      "title": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
+      "summary": "The former president was convicted of crimes against humanity during the country’s civil war, the first verdict since he fled to Russia in 2024."
+    },
+    {
+      "char": "🌍",
+      "label": "colombia earthquake causes devastation",
+      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+      "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
+      "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira More than 100 people died after a powerful earthquake struck western Colombia, collapsing and severely damaging scores of..."
+    },
+    {
+      "char": "🎤",
+      "label": "baby shark boy's k-pop debut",
+      "url": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
+      "title": "Baby Shark Boy set to make K-pop debut",
+      "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star."
+    },
+    {
+      "char": "✈️",
+      "label": "canadian airline cancels flight",
+      "url": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
+      "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
+      "summary": "Flight from Victoria to Toronto forced to return to terminal after repeated attempts to secure child in seat failed A Canadian airline cancelled a flight from Victoria to Toronto after a child refused to wear a seatbelt. The child was st..."
+    },
+    {
+      "char": "⚓",
+      "label": "houthi strike on red sea ship",
+      "url": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
+      "title": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
+      "summary": "The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait while the Iran-backed Houthis accused Saudi Arabia of transporting weapons."
+    },
+    {
+      "char": "🏖️",
+      "label": "bondi beach shooting hero's charges dropped",
+      "url": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&at_campaign=rss",
+      "title": "Bondi Beach shooting hero's assault charges dropped by police",
+      "summary": "Police charged Ahmed al Ahmed in June after an alleged incident with his father at a Sydney home."
+    },
+    {
+      "char": "🌍",
+      "label": "raul castro's grandson power broker",
+      "url": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html",
+      "title": "How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker",
+      "summary": "The Castro family envoy, Raúl G. Rodríguez Castro, who has been in talks with the Trump administration, was once named in a case targeting a Cuban smuggling ring."
+    },
+    {
+      "char": "🎶",
+      "label": "baby shark boy's k-pop debut",
+      "url": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
+      "title": "Baby Shark boy set to make K-pop debut",
+      "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star."
+    },
+    {
+      "char": "💔",
+      "label": "russian civilian deaths rising",
+      "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
+      "title": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
+      "summary": "The higher tempo of Ukrainian strikes has fueled discontent among Russians, but it is far from clear that it will change the Kremlin’s calculus about the war."
+    },
+    {
+      "char": "🌊",
+      "label": "colombia quake leaves over 110 dead",
+      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
+      "title": "Colombia quake leaves more than 110 dead – as it happened",
+      "summary": "This blog is now closed – a full report is here People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌ He added that the city had asked authorities..."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola virus mutating in drc",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+      "summary": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo could be mutating, health officials..."
+    },
+    {
+      "char": "🌾",
+      "label": "fungus discovery aids farmers",
+      "url": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
+      "title": "Halting the march of the armyworm: fungus discovery offers hope to African farmers",
+      "summary": "South African scientist’s breakthrough research shows soil fungus could be used in fight against devastating crop pest Hearing about fields full of dead caterpillars enveloped in a mysterious white substance intrigued the South African s..."
+    },
+    {
+      "char": "🗳️",
+      "label": "zambia election backlash",
+      "url": "https://www.nytimes.com/2026/08/12/world/africa/zambia-presidential-election-hichilema.html",
+      "title": "Zambia Election: President Hichilema Faces Backlash Ahead of Vote",
+      "summary": "President Hakainde Hichilema was elected five years ago, promising to protect civil liberties in his copper-rich African nation. Now, he’s accused of trampling on them."
+    },
+    {
+      "char": "🌒",
+      "label": "total solar eclipse updates",
+      "url": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
+      "title": "Live Updates: In Europe, the Total Solar Eclipse Is Only Hours Away",
+      "summary": "From Iceland to Spain, people have flocked to places where, briefly, the moon will completely block the sun."
+    },
+    {
+      "char": "🚢",
+      "label": "ferry capsizes in zimbabwe",
+      "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
+      "title": "At least 15 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
+      "summary": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake At least 15 people have died and 27 are missing after an overcrowded ferry capsized on Lake Kariba in Zimbabwe. The boat had a..."
+    },
+    {
+      "char": "⚖️",
+      "label": "trump ends south sudan tps",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
+      "title": "Judge approves Trump effort to end South Sudan TPS protections",
+      "summary": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and Syrians Temporary protected status (TPS) for hundreds of South Sudanese nationals in the United States is set to end after a federal j..."
+    },
+    {
+      "char": "🏚️",
+      "label": "colombia quake rescue",
+      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete."
+    },
+    {
+      "char": "🌍",
+      "label": "bali fireflies restoration",
+      "url": "https://www.nytimes.com/2026/08/12/world/asia/bali-restore-fireflies.html",
+      "title": "In Bali, a Quest to Restore the Sacred Glow of Fireflies",
+      "summary": "The insects, revered in local culture, are disappearing for many reasons, including rapid development to cater to tourists."
+    },
+    {
+      "char": "💼",
+      "label": "trump tariffs impact",
+      "url": "https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html",
+      "title": "Trump Tariffs Force Some Canadian Companies to Move South of the Border",
+      "summary": "If President Trump moves ahead with 50 percent tariffs on a wide range of Canadian products later this month, some companies may only survive by relocating to the United States."
+    },
+    {
+      "char": "🗳️",
+      "label": "zambia election backlash",
+      "url": "https://www.nytimes.com/2026/08/12/world/africa/zambia-presidential-election-hichilema.html",
+      "title": "Zambia Election: President Hichilema Faces Backlash Ahead of Vote",
+      "summary": "President Hakainde Hichilema was elected five years ago, promising to protect civil liberties in his copper-rich African nation. Now, he’s accused of trampling on them."
+    },
     {
       "char": "🚢",
       "label": "ferry capsizes in zimbabwe",
       "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
       "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
       "summary": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake At least 44 people have died after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said. The boat had a capac..."
-    },
-    {
-      "char": "🇪🇸",
-      "label": "spain to check visitors from italy",
-      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-      "title": "Spain to introduce temporary border checks on visitors from Italy",
-      "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass r..."
-    },
-    {
-      "char": "🌾",
-      "label": "natural cure for armyworm pests",
-      "url": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
-      "title": "Halting the march of the African armyworm: a natural cure offers hope to farmers",
-      "summary": "South African scientist’s breakthrough research shows soil fungus could be used in fight against devastating crop pest Hearing about fields full of dead caterpillars enveloped in a mysterious white substance intrigued the South African s..."
-    },
-    {
-      "char": "🌀",
-      "label": "powerful earthquake in colombia",
-      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-      "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
-      "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira More than 100 people died after a powerful earthquake struck western Colombia, collapsing and severely damaging scores of..."
-    },
-    {
-      "char": "🌍",
-      "label": "total solar eclipse countdown",
-      "url": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
-      "title": "Live Updates: Europe Counts Down to a Total Solar Eclipse",
-      "summary": "From Iceland to Spain, people have flocked to places where, briefly, the moon will completely block the sun. It is the continent’s first total eclipse in decades."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concern",
+    "emoji": "😢",
+    "rationale": "The news highlights several tragic events, including a deadly earthquake in Colombia and escalating tensions in various regions, evoking a sense of sadness and concern for those affected.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
