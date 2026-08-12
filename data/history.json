@@ -61159,5 +61159,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-12",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "trump tariffs impact canada",
+        "url": "https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html",
+        "title": "Trump Tariffs Force Some Canadian Companies to Move South of the Border",
+        "summary": "If President Trump moves ahead with 50 percent tariffs on a wide range of Canadian products later this month, some companies may only survive by relocating to the United States."
+      },
+      {
+        "char": "🦠",
+        "label": "ice force-feeding controversy",
+        "url": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
+        "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
+        "summary": "Gabar Choli tells of how, for months, he was shackled, pinned and forcibly fed – and the physical and emotional scars the ordeal has left In June 2025, a sluggish and thin Gabar Choli, with sunken temples and bones visible under his skin..."
+      },
+      {
+        "char": "🌌",
+        "label": "bali fireflies restoration",
+        "url": "https://www.nytimes.com/2026/08/12/world/asia/bali-restore-fireflies.html",
+        "title": "In Bali, a Quest to Restore the Sacred Glow of Fireflies",
+        "summary": "The insects, revered in local culture, are disappearing for many reasons, including rapid development to cater to tourists."
+      },
+      {
+        "char": "🚢",
+        "label": "ferry capsizes in zimbabwe",
+        "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
+        "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
+        "summary": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake At least 44 people have died after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said. The boat had a capac..."
+      },
+      {
+        "char": "🌍",
+        "label": "ecuador fishing boat attacks",
+        "url": "https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html",
+        "title": "Ecuadorean Fishing Boats Hit by Mystery Attackers",
+        "summary": "Ecuadorean crews plying the waters of the Pacific have been targeted by a mysterious outfit equipped with drones. Some sailors appear to have lost their lives."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
