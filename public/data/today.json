@@ -1,41 +1,41 @@
 {
   "date": "2026-08-12",
-  "timestamp": "2026-08-12T01:10:16Z",
+  "timestamp": "2026-08-12T00:00:00Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "luigi mangione murder trial",
-      "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
-      "title": "Luigi Mangione murder trial to have anonymous jury",
-      "summary": "The judge overseeing the state murder trial ruled the 12-person jury would remain anonymous because of the intense media spotlight on the case."
-    },
-    {
       "char": "🌍",
-      "label": "colombia earthquake rescue efforts",
-      "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
-      "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
-      "summary": "“We heard them screaming,” said one rescuer in Cali, where emergency workers and volunteers are racing against time to find the living trapped in the rubble."
+      "label": "colombia earthquake causes devastation",
+      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+      "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
+      "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira More than 100 people died after a powerful earthquake struck western Colombia, collapsing and severely damaging scores of..."
     },
     {
-      "char": "🚢",
+      "char": "🎤",
+      "label": "baby shark boy's k-pop debut",
+      "url": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
+      "title": "Baby Shark Boy set to make K-pop debut",
+      "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star."
+    },
+    {
+      "char": "✈️",
+      "label": "canadian airline cancels flight",
+      "url": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
+      "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
+      "summary": "Flight from Victoria to Toronto forced to return to terminal after repeated attempts to secure child in seat failed A Canadian airline cancelled a flight from Victoria to Toronto after a child refused to wear a seatbelt. The child was st..."
+    },
+    {
+      "char": "⚓",
       "label": "houthi strike on red sea ship",
       "url": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
       "title": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
       "summary": "The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait while the Iran-backed Houthis accused Saudi Arabia of transporting weapons."
     },
     {
-      "char": "📰",
-      "label": "trump's plane swap hints",
-      "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-      "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes Anthony Zurcher."
-    },
-    {
-      "char": "⚰️",
-      "label": "syria sentences al-assad to death",
-      "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
-      "title": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
-      "summary": "The former president was convicted of crimes against humanity during the country’s civil war, the first verdict since he fled to Russia in 2024."
+      "char": "🏖️",
+      "label": "bondi beach shooting hero's charges dropped",
+      "url": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&at_campaign=rss",
+      "title": "Bondi Beach shooting hero's assault charges dropped by police",
+      "summary": "Police charged Ahmed al Ahmed in June after an alleged incident with his father at a Sydney home."
     }
   ],
   "source": "ai-openai",
