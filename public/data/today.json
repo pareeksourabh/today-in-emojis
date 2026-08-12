@@ -1,20 +1,13 @@
 {
   "date": "2026-08-12",
-  "timestamp": "2026-08-12T00:00:00Z",
+  "timestamp": "2026-08-12T05:40:41Z",
   "emojis": [
     {
       "char": "🌍",
-      "label": "colombia earthquake causes devastation",
-      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-      "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
-      "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira More than 100 people died after a powerful earthquake struck western Colombia, collapsing and severely damaging scores of..."
-    },
-    {
-      "char": "🎤",
-      "label": "baby shark boy's k-pop debut",
-      "url": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
-      "title": "Baby Shark Boy set to make K-pop debut",
-      "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star."
+      "label": "colombia earthquake rescue efforts",
+      "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+      "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+      "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings."
     },
     {
       "char": "✈️",
@@ -24,18 +17,25 @@
       "summary": "Flight from Victoria to Toronto forced to return to terminal after repeated attempts to secure child in seat failed A Canadian airline cancelled a flight from Victoria to Toronto after a child refused to wear a seatbelt. The child was st..."
     },
     {
-      "char": "⚓",
-      "label": "houthi strike on red sea ship",
-      "url": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
-      "title": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
-      "summary": "The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait while the Iran-backed Houthis accused Saudi Arabia of transporting weapons."
+      "char": "📞",
+      "label": "france bans telemarketing calls",
+      "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+      "title": "France bans unsolicited telemarketing calls",
+      "summary": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\"."
     },
     {
-      "char": "🏖️",
-      "label": "bondi beach shooting hero's charges dropped",
-      "url": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&at_campaign=rss",
-      "title": "Bondi Beach shooting hero's assault charges dropped by police",
-      "summary": "Police charged Ahmed al Ahmed in June after an alleged incident with his father at a Sydney home."
+      "char": "🇪🇸",
+      "label": "spain border checks for italy",
+      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+      "title": "Spain to introduce temporary border checks on visitors from Italy",
+      "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass r..."
+    },
+    {
+      "char": "🎤",
+      "label": "baby shark boy's k-pop debut",
+      "url": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
+      "title": "Baby Shark Boy set to make K-pop debut",
+      "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star."
     }
   ],
   "source": "ai-openai",

@@ -61071,5 +61071,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-12",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "colombia earthquake rescue efforts",
+        "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+        "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+        "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings."
+      },
+      {
+        "char": "✈️",
+        "label": "canadian airline cancels flight",
+        "url": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
+        "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
+        "summary": "Flight from Victoria to Toronto forced to return to terminal after repeated attempts to secure child in seat failed A Canadian airline cancelled a flight from Victoria to Toronto after a child refused to wear a seatbelt. The child was st..."
+      },
+      {
+        "char": "📞",
+        "label": "france bans telemarketing calls",
+        "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+        "title": "France bans unsolicited telemarketing calls",
+        "summary": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\"."
+      },
+      {
+        "char": "🇪🇸",
+        "label": "spain border checks for italy",
+        "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+        "title": "Spain to introduce temporary border checks on visitors from Italy",
+        "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass r..."
+      },
+      {
+        "char": "🎤",
+        "label": "baby shark boy's k-pop debut",
+        "url": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
+        "title": "Baby Shark Boy set to make K-pop debut",
+        "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
