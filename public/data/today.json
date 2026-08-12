@@ -1,27 +1,34 @@
 {
   "date": "2026-08-12",
-  "timestamp": "2026-08-12T13:18:09Z",
+  "timestamp": "2026-08-12T00:00:00Z",
   "emojis": [
     {
-      "char": "🇨🇦",
-      "label": "trump tariffs impact canada",
+      "char": "🏚️",
+      "label": "colombia quake rescue",
+      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete."
+    },
+    {
+      "char": "🌍",
+      "label": "bali fireflies restoration",
+      "url": "https://www.nytimes.com/2026/08/12/world/asia/bali-restore-fireflies.html",
+      "title": "In Bali, a Quest to Restore the Sacred Glow of Fireflies",
+      "summary": "The insects, revered in local culture, are disappearing for many reasons, including rapid development to cater to tourists."
+    },
+    {
+      "char": "💼",
+      "label": "trump tariffs impact",
       "url": "https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html",
       "title": "Trump Tariffs Force Some Canadian Companies to Move South of the Border",
       "summary": "If President Trump moves ahead with 50 percent tariffs on a wide range of Canadian products later this month, some companies may only survive by relocating to the United States."
     },
     {
-      "char": "🦠",
-      "label": "ice force-feeding controversy",
-      "url": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
-      "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
-      "summary": "Gabar Choli tells of how, for months, he was shackled, pinned and forcibly fed – and the physical and emotional scars the ordeal has left In June 2025, a sluggish and thin Gabar Choli, with sunken temples and bones visible under his skin..."
-    },
-    {
-      "char": "🌌",
-      "label": "bali fireflies restoration",
-      "url": "https://www.nytimes.com/2026/08/12/world/asia/bali-restore-fireflies.html",
-      "title": "In Bali, a Quest to Restore the Sacred Glow of Fireflies",
-      "summary": "The insects, revered in local culture, are disappearing for many reasons, including rapid development to cater to tourists."
+      "char": "🗳️",
+      "label": "zambia election backlash",
+      "url": "https://www.nytimes.com/2026/08/12/world/africa/zambia-presidential-election-hichilema.html",
+      "title": "Zambia Election: President Hichilema Faces Backlash Ahead of Vote",
+      "summary": "President Hakainde Hichilema was elected five years ago, promising to protect civil liberties in his copper-rich African nation. Now, he’s accused of trampling on them."
     },
     {
       "char": "🚢",
@@ -29,13 +36,6 @@
       "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
       "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
       "summary": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake At least 44 people have died after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said. The boat had a capac..."
-    },
-    {
-      "char": "🌍",
-      "label": "ecuador fishing boat attacks",
-      "url": "https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html",
-      "title": "Ecuadorean Fishing Boats Hit by Mystery Attackers",
-      "summary": "Ecuadorean crews plying the waters of the Pacific have been targeted by a mysterious outfit equipped with drones. Some sailors appear to have lost their lives."
     }
   ],
   "source": "ai-openai",
