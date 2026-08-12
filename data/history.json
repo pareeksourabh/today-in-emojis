@@ -61027,5 +61027,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-12",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "luigi mangione murder trial",
+        "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+        "title": "Luigi Mangione murder trial to have anonymous jury",
+        "summary": "The judge overseeing the state murder trial ruled the 12-person jury would remain anonymous because of the intense media spotlight on the case."
+      },
+      {
+        "char": "🌍",
+        "label": "colombia earthquake rescue efforts",
+        "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
+        "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
+        "summary": "“We heard them screaming,” said one rescuer in Cali, where emergency workers and volunteers are racing against time to find the living trapped in the rubble."
+      },
+      {
+        "char": "🚢",
+        "label": "houthi strike on red sea ship",
+        "url": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
+        "title": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
+        "summary": "The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait while the Iran-backed Houthis accused Saudi Arabia of transporting weapons."
+      },
+      {
+        "char": "📰",
+        "label": "trump's plane swap hints",
+        "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+        "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes Anthony Zurcher."
+      },
+      {
+        "char": "⚰️",
+        "label": "syria sentences al-assad to death",
+        "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
+        "title": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
+        "summary": "The former president was convicted of crimes against humanity during the country’s civil war, the first verdict since he fled to Russia in 2024."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
