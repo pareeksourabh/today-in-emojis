@@ -61291,5 +61291,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-13",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "trump ends south sudan tps",
+        "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
+        "title": "Judge approves Trump effort to end South Sudan TPS protections",
+        "summary": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and Syrians Temporary protected status (TPS) for hundreds of South Sudanese nationals in the United States is set to end after a federal j..."
+      },
+      {
+        "char": "🚢",
+        "label": "ferry capsizes in zimbabwe",
+        "url": "https://www.nytimes.com/2026/08/12/world/africa/-zimbabwe-lake-kariba-ferry-capsize.html",
+        "title": "More Than 40 Dead After a Ferry Capsizes on Zimbabwe’s Lake Kariba",
+        "summary": "The vessel was crowded far beyond capacity and was hit by strong waves, the police said. While dozens have been rescued, the search continues for an unknown number of missing people."
+      },
+      {
+        "char": "✈️",
+        "label": "westjet settles harassment case",
+        "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
+        "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
+        "summary": "Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot The Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long sexual harassment class action lawsui..."
+      },
+      {
+        "char": "🔫",
+        "label": "thailand halts gun permits",
+        "url": "https://www.nytimes.com/2026/08/12/world/asia/thailand-gun-permits-school-shooting.html",
+        "title": "Thailand Halts New Gun Permits After Mass Shooting at a School",
+        "summary": "It remains to be seen how far the government will go to tighten gun control in the country, which has experienced a string of high-profile shootings in recent years."
+      },
+      {
+        "char": "🗳️",
+        "label": "zambia election backlash",
+        "url": "https://www.nytimes.com/2026/08/12/world/africa/zambia-presidential-election-hichilema.html",
+        "title": "Zambia Election: President Hichilema Faces Backlash Ahead of Vote",
+        "summary": "President Hakainde Hichilema was elected five years ago, promising to protect civil liberties in his copper-rich African nation. Now, he’s accused of trampling on them."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
