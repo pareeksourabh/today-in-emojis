@@ -61423,5 +61423,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-13",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "colombia earthquake causes devastation",
+        "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+        "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
+        "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira More than 100 people died after a powerful earthquake struck western Colombia, collapsing and severely damaging scores of..."
+      },
+      {
+        "char": "🎤",
+        "label": "eurovision 2027 in bulgaria",
+        "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+        "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+        "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in congo",
+        "url": "https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html",
+        "title": "A Patient’s Final Breath in a Congolese Ebola Ward",
+        "summary": "The distance between life and death is razor thin at one medical clinic in Rwampara, the heart of the epidemic ravaging the Democratic Republic of Congo."
+      },
+      {
+        "char": "✈️",
+        "label": "westjet settles harassment case",
+        "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
+        "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
+        "summary": "Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot The Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long sexual harassment class action lawsui..."
+      },
+      {
+        "char": "🌋",
+        "label": "mount etna erupts in sicily",
+        "url": "https://www.nytimes.com/2026/08/13/world/europe/mount-etna-volcano-sicily-eruption.html",
+        "title": "Hundreds of Flights Canceled in Sicily as Mount Etna Erupts",
+        "summary": "Etna erupts often, but it usually doesn’t release this much ash, an expert said. Tens of thousands of travelers’ plans have been disrupted in the past week."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

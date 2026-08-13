@@ -1,20 +1,34 @@
 {
   "date": "2026-08-13",
-  "timestamp": "2026-08-13T00:00:00Z",
+  "timestamp": "2026-08-13T16:41:23Z",
   "emojis": [
     {
-      "char": "🗳️",
-      "label": "zambia elections haunted by rival",
-      "url": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
-      "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-      "summary": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continues As Zambians go to the polls on Thursday, the ghost of the current president’s predecessor hangs over the elections..."
+      "char": "🌍",
+      "label": "colombia earthquake causes devastation",
+      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+      "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
+      "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira More than 100 people died after a powerful earthquake struck western Colombia, collapsing and severely damaging scores of..."
+    },
+    {
+      "char": "🎤",
+      "label": "eurovision 2027 in bulgaria",
+      "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest."
     },
     {
       "char": "🦠",
-      "label": "ebola outbreak spreads in drc",
-      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-      "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after..."
+      "label": "ebola outbreak in congo",
+      "url": "https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html",
+      "title": "A Patient’s Final Breath in a Congolese Ebola Ward",
+      "summary": "The distance between life and death is razor thin at one medical clinic in Rwampara, the heart of the epidemic ravaging the Democratic Republic of Congo."
+    },
+    {
+      "char": "✈️",
+      "label": "westjet settles harassment case",
+      "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
+      "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
+      "summary": "Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot The Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long sexual harassment class action lawsui..."
     },
     {
       "char": "🌋",
@@ -22,20 +36,6 @@
       "url": "https://www.nytimes.com/2026/08/13/world/europe/mount-etna-volcano-sicily-eruption.html",
       "title": "Hundreds of Flights Canceled in Sicily as Mount Etna Erupts",
       "summary": "Etna erupts often, but it usually doesn’t release this much ash, an expert said. Tens of thousands of travelers’ plans have been disrupted in the past week."
-    },
-    {
-      "char": "🇷🇺",
-      "label": "putin visits disputed islands",
-      "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-      "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-      "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war."
-    },
-    {
-      "char": "⚖️",
-      "label": "french ambassador faces misconduct claims",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
-      "title": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
-      "summary": "The accusations against Bruno Foucher prompted investigations into a potential security breach."
     }
   ],
   "source": "ai-openai",
