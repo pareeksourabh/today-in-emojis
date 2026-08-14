@@ -61467,5 +61467,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-14",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "colombia earthquake causes devastation",
+        "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+        "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
+        "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira More than 100 people died after a powerful earthquake struck western Colombia, collapsing and severely damaging scores of..."
+      },
+      {
+        "char": "☀️",
+        "label": "uk summer heat linked to climate change",
+        "url": "https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html",
+        "title": "‘An English Summer Is Not the Same Anymore’",
+        "summary": "With forecasters issuing a warning for very high temperatures, this summer is on track to be one of the hottest yet."
+      },
+      {
+        "char": "⚓",
+        "label": "putin visits disputed islands angering tokyo",
+        "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+        "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+        "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war."
+      },
+      {
+        "char": "🚢",
+        "label": "ferry capsizes in zimbabwe, many dead",
+        "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
+        "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
+        "summary": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake At least 44 people have died after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said. The boat had a capac..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak spreads in democratic republic",
+        "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+        "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+        "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
