@@ -1,41 +1,41 @@
 {
   "date": "2026-08-14",
-  "timestamp": "2026-08-14T09:09:21Z",
+  "timestamp": "2026-08-14T00:00:00Z",
   "emojis": [
     {
+      "char": "🌊",
+      "label": "romania nuclear plant shut down",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
+    },
+    {
+      "char": "🕊️",
+      "label": "american missionary freed in niger",
+      "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+      "title": "American missionary kidnapped in Niger freed after nine months",
+      "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Kevin Rideo..."
+    },
+    {
+      "char": "🏛️",
+      "label": "notre-dame windows restoration",
+      "url": "https://www.nytimes.com/2026/08/14/world/europe/notre-dame-windows-glass-tabouret.html",
+      "title": "After Notre-Dame Fire, France Restored the Cathedral — but Not These Windows",
+      "summary": "France has faithfully renovated most of what burned at Notre-Dame in 2019. Contentiously, six towering windows will soon be replaced by a new design."
+    },
+    {
       "char": "🌍",
-      "label": "colombia quake leaves 110 dead",
-      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-      "title": "Colombia quake leaves more than 110 dead – as it happened",
-      "summary": "This blog is now closed – a full report is here People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌ He added that the city had asked authorities..."
+      "label": "sudan's el obeid conflict explained",
+      "url": "https://www.nytimes.com/2026/08/14/world/africa/el-obeid-sudan-war-el-fasher.html",
+      "title": "Will Sudan’s El Obeid Become the Next El Fasher? What to Know.",
+      "summary": "Taking El Obeid would allow the paramilitary Rapid Support Forces to consolidate its hold on western Sudan, a significant strategic goal."
     },
     {
-      "char": "👮‍♂️",
-      "label": "mexican governor charged in student case",
-      "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
-      "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
-      "summary": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over his alleged involvement in the disappearance of 43 students..."
-    },
-    {
-      "char": "🐻",
-      "label": "fined for waking sleeping polar bear",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
-      "title": "Person fined after using foghorn to wake sleeping polar bear",
-      "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\"."
-    },
-    {
-      "char": "✈️",
-      "label": "canadian airline cancels flight",
-      "url": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
-      "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
-      "summary": "Flight from Victoria to Toronto forced to return to terminal after repeated attempts to secure child in seat failed A Canadian airline cancelled a flight from Victoria to Toronto after a child refused to wear a seatbelt. The child was st..."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola outbreak spreads in drc",
-      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-      "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after..."
+      "char": "🌪️",
+      "label": "colombia earthquake death toll rises",
+      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+      "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
+      "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira More than 100 people died after a powerful earthquake struck western Colombia, collapsing and severely damaging scores of..."
     }
   ],
   "source": "ai-openai",
