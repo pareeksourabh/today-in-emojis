@@ -1,41 +1,41 @@
 {
   "date": "2026-08-14",
-  "timestamp": "2026-08-14T13:14:53Z",
+  "timestamp": "2026-08-14T00:00:00Z",
   "emojis": [
     {
+      "char": "🇮🇱",
+      "label": "kushner visits israel for talks",
+      "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
+      "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
+      "summary": "Jared Kushner, President Trump’s senior aide, is expected to meet with Prime Minister Benjamin Netanyahu of Israel, who has rejected a U.S.-backed deal to disarm Hamas."
+    },
+    {
       "char": "🇲🇽",
-      "label": "mexican governor charged in student case",
+      "label": "former governor charged in student case",
       "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
       "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
       "summary": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over his alleged involvement in the disappearance of 43 students..."
     },
     {
-      "char": "🏠",
-      "label": "palestinians told to leave homes",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
+      "char": "🌍",
+      "label": "colombia earthquake leaves many dead",
+      "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+      "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
+      "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira More than 100 people died after a powerful earthquake struck western Colombia, collapsing and severely damaging scores of..."
     },
     {
-      "char": "🌧️",
-      "label": "record rainfall in japan leaves deaths",
-      "url": "https://www.nytimes.com/2026/08/14/world/asia/chiba-tokyo-flood-rain-deaths.html",
-      "title": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan",
-      "summary": "Three months’ worth of rain fell in just 12 hours in a region east of Tokyo, leading to deadly flooding."
+      "char": "✈️",
+      "label": "canadian airline cancels flight",
+      "url": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
+      "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
+      "summary": "Flight from Victoria to Toronto forced to return to terminal after repeated attempts to secure child in seat failed A Canadian airline cancelled a flight from Victoria to Toronto after a child refused to wear a seatbelt. The child was st..."
     },
     {
-      "char": "🇷🇺",
-      "label": "russia derails moldova's government",
-      "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
-      "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
-      "summary": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government."
-    },
-    {
-      "char": "🚢",
-      "label": "ferry capsizes in zimbabwe, many dead",
-      "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
-      "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
-      "summary": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake At least 44 people have died after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said. The boat had a capac..."
+      "char": "🦠",
+      "label": "ebola outbreak spreads in drc",
+      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+      "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after..."
     }
   ],
   "source": "ai-openai",
