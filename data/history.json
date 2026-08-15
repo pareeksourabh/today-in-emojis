@@ -61775,5 +61775,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-15",
+    "emojis": [
+      {
+        "char": "🇷🇺",
+        "label": "russia meddles in moldova politics",
+        "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
+        "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
+        "summary": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government."
+      },
+      {
+        "char": "🌍",
+        "label": "aid for palestinians amid conflict",
+        "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+        "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+        "summary": "Two families have been trapped in their homes in the occupied West Bank for several days."
+      },
+      {
+        "char": "☀️",
+        "label": "heat deaths in europe raise alarms",
+        "url": "https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html",
+        "title": "Heat Deaths in a ‘Cold’ Country Are a Warning to the Rest of Europe",
+        "summary": "A June heat wave in Belgium and neighboring countries exposed a lethal lack of readiness. That’s a risk as another wave hits Europe."
+      },
+      {
+        "char": "🌊",
+        "label": "earthquake in indonesia causes casualties",
+        "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+        "title": "Powerful 7.7-magnitude earthquake kills at least 20 in Indonesia",
+        "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
+      },
+      {
+        "char": "🕊️",
+        "label": "missionary freed after kidnapping",
+        "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+        "title": "American missionary kidnapped in Niger freed after nine months",
+        "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
