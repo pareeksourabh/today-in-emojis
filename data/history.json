@@ -61687,5 +61687,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-15",
+    "emojis": [
+      {
+        "char": "🌧️",
+        "label": "unprecedented rain in japan",
+        "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+        "title": "'Unprecedented' rain in Japan kills eight people",
+        "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
+      },
+      {
+        "char": "🎨",
+        "label": "stolen matisse artworks recovered",
+        "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+        "title": "Stolen Matisse artworks recovered by police in Brazil",
+        "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo."
+      },
+      {
+        "char": "✈️",
+        "label": "us aircraft carrier relief mission",
+        "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+        "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+        "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+      },
+      {
+        "char": "✊",
+        "label": "westjet settles harassment case",
+        "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
+        "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
+        "summary": "Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot The Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long sexual harassment class action lawsui..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak spreads in drc",
+        "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+        "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+        "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
