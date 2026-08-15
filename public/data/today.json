@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Sadness",
+    "emotion_label": "Devastated",
     "emoji": "😢",
-    "rationale": "The day's news features significant tragedies including natural disasters, health crises, and violence, overshadowing positive developments, indicating an overall somber emotional tone.",
+    "rationale": "Today's news is marked by tragedy, including devastating losses from natural disasters, violence, and health crises. The emotional weight of these events evokes profound sadness.",
     "palette": [
       "😢",
       "😡",
