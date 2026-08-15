@@ -61731,5 +61731,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-15",
+    "emojis": [
+      {
+        "char": "🇲🇽",
+        "label": "mexican governor charged in student case",
+        "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
+        "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
+        "summary": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over his alleged involvement in the disappearance of 43 students..."
+      },
+      {
+        "char": "🇷🇺",
+        "label": "russia derails moldova's government",
+        "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
+        "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
+        "summary": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government."
+      },
+      {
+        "char": "🚢",
+        "label": "ferry capsizes in zimbabwe",
+        "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
+        "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
+        "summary": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake At least 44 people have died after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said. The boat had a capac..."
+      },
+      {
+        "char": "🌍",
+        "label": "heat wave hits europe again",
+        "url": "https://www.nytimes.com/2026/08/14/world/europe/europe-heat-wave-photos.html",
+        "title": "Heat Is Hammering Europe, Again. Here’s What That Looks Like.",
+        "summary": "Extreme temperatures and repeated wildfires are pushing infrastructure to the limit and testing the continent’s resolve."
+      },
+      {
+        "char": "🕊️",
+        "label": "american missionary freed in niger",
+        "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+        "title": "American missionary kidnapped in Niger freed after nine months",
+        "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
