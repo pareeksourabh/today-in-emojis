@@ -1,34 +1,20 @@
 {
   "date": "2026-08-15",
-  "timestamp": "2026-08-15T08:31:36Z",
+  "timestamp": "2026-08-15T00:00:00Z",
   "emojis": [
     {
-      "char": "🇷🇺",
-      "label": "russia meddles in moldova politics",
-      "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
-      "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
-      "summary": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government."
+      "char": "🇦🇫",
+      "label": "taliban marks 5 years in power",
+      "url": "https://www.nytimes.com/2026/08/15/world/asia/entrenched-embattled-and-defiant-the-taliban-celebrate-5-years-in-power.html",
+      "title": "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
+      "summary": "The Taliban have Afghanistan in a chokehold that spares no one. But threats are starting to crack their veneer of stability and control."
     },
     {
-      "char": "🌍",
-      "label": "aid for palestinians amid conflict",
-      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "summary": "Two families have been trapped in their homes in the occupied West Bank for several days."
-    },
-    {
-      "char": "☀️",
-      "label": "heat deaths in europe raise alarms",
+      "char": "🌡️",
+      "label": "heat deaths in cold country",
       "url": "https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html",
       "title": "Heat Deaths in a ‘Cold’ Country Are a Warning to the Rest of Europe",
       "summary": "A June heat wave in Belgium and neighboring countries exposed a lethal lack of readiness. That’s a risk as another wave hits Europe."
-    },
-    {
-      "char": "🌊",
-      "label": "earthquake in indonesia causes casualties",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "title": "Powerful 7.7-magnitude earthquake kills at least 20 in Indonesia",
-      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
     },
     {
       "char": "🕊️",
@@ -36,6 +22,20 @@
       "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
       "title": "American missionary kidnapped in Niger freed after nine months",
       "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in..."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola outbreak in drc spreads",
+      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+      "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after..."
+    },
+    {
+      "char": "🌍",
+      "label": "earthquake rocks indonesia",
+      "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
+      "title": "At Least 38 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
+      "summary": "The temblor was one of the strongest the area had experienced in decades, an official said."
     }
   ],
   "source": "ai-openai",
