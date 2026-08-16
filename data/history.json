@@ -61951,5 +61951,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-16",
+    "emojis": [
+      {
+        "char": "✈️",
+        "label": "westjet settles harassment case",
+        "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
+        "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
+        "summary": "Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot The Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long sexual harassment class action lawsui..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak spreads in drc",
+        "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+        "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+        "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after..."
+      },
+      {
+        "char": "🚨",
+        "label": "moroccan police arrest migrants",
+        "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+        "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+        "summary": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tighte..."
+      },
+      {
+        "char": "⚖️",
+        "label": "austria detains syrian war criminal",
+        "url": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html",
+        "title": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
+        "summary": "Musab Abu Rukbah, a former police chief, left Austria after appealing his eight-year sentence for crimes committed during Syria’s civil war."
+      },
+      {
+        "char": "⛏️",
+        "label": "gold found in belgium brewery",
+        "url": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
+        "title": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
+        "summary": "A construction worker’s drill struck gold during a renovation project in East Flanders, setting off a search for the owners of the stashed fortune."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
