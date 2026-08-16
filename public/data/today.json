@@ -1,43 +1,204 @@
 {
   "date": "2026-08-16",
-  "timestamp": "2026-08-16T16:09:37Z",
+  "timestamp": "2026-08-16T00:00:00Z",
   "emojis": [
     {
-      "char": "👑",
-      "label": "liechtenstein allows women to rule",
-      "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-      "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000."
+      "char": "🎥",
+      "label": "iranian youtube show raises questions",
+      "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
+      "title": "The Iranian YouTube Show Posing Questions Few Dare Ask",
+      "summary": "Azad, a popular online debate program, has tackled topics that push the limits of Iran’s authoritarian system. Some question how it has remained on air."
     },
     {
-      "char": "🚴‍♂️",
-      "label": "ontario court rules on bike lanes",
-      "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
-      "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
-      "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour..."
+      "char": "🌊",
+      "label": "family stranded at sea in thailand",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+      "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui."
+    },
+    {
+      "char": "✈️",
+      "label": "westjet settles harassment case",
+      "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
+      "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
+      "summary": "Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot The Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long sexual harassment class action lawsui..."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola outbreak spreads in drc",
+      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+      "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after..."
+    },
+    {
+      "char": "💰",
+      "label": "gold found under brewery in belgium",
+      "url": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
+      "title": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
+      "summary": "A construction worker’s drill struck gold during a renovation project in East Flanders, setting off a search for the owners of the stashed fortune."
+    },
+    {
+      "char": "💰",
+      "label": "gold found in belgium",
+      "url": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
+      "title": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
+      "summary": "A construction worker’s drill struck gold during a renovation project in East Flanders, setting off a search for the owners of the stashed fortune."
+    },
+    {
+      "char": "🌍",
+      "label": "earthquake in indonesia",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way."
+    },
+    {
+      "char": "🏫",
+      "label": "cambridge hiring questions",
+      "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+      "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "summary": "Jason Arday, the school’s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work."
+    },
+    {
+      "char": "⚔️",
+      "label": "europe seeks role in talks",
+      "url": "https://www.nytimes.com/2026/08/15/world/europe/europe-russia-ukraine-talks.html",
+      "title": "Wary of Trump, Europe Seeks Role in Eventual Russia-Ukraine Talks",
+      "summary": "French, German and British diplomats are working on a format for future negotiations — even if Russia has shown little interest."
+    },
+    {
+      "char": "🚤",
+      "label": "family stranded at sea",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+      "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui."
+    },
+    {
+      "char": "🔫",
+      "label": "gun buyback in australia",
+      "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "title": "Australian state to launch gun buyback after Bondi Beach attack",
+      "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms."
+    },
+    {
+      "char": "✈️",
+      "label": "westjet settles harassment case",
+      "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
+      "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
+      "summary": "Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot The Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long sexual harassment class action lawsui..."
+    },
+    {
+      "char": "💥",
+      "label": "israeli strikes kill eleven",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane lashes hawaii",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+      "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years."
+    },
+    {
+      "char": "🩸",
+      "label": "canadian plasma clinics pause",
+      "url": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
+      "title": "Canadian plasma clinics pause collections after deaths of two donors",
+      "summary": "Grifols, which runs private chain of clinics, to temporarily stop taking donations after new government investigation A chain of private plasma donation clinics in Canada has said it is pausing collections after the deaths of two donors..."
+    },
+    {
+      "char": "🎓",
+      "label": "cambridge hiring questions",
+      "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+      "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "summary": "Jason Arday, the school’s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work."
     },
     {
       "char": "🕵️‍♂",
-      "label": "mexican governor charged in student case",
+      "label": "mexican governor charged",
       "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
       "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
       "summary": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over his alleged involvement in the disappearance of 43 students..."
     },
     {
-      "char": "🎨",
-      "label": "renaissance paintings stolen in italy",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
+      "char": "🦠",
+      "label": "ebola outbreak in drc",
+      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+      "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after..."
     },
     {
-      "char": "🌍",
-      "label": "cholera outbreak in myanmar",
-      "url": "https://www.nytimes.com/2026/08/16/world/asia/cholera-outbreak-yangon-myanmar.html",
-      "title": "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City",
-      "summary": "Civil war and military rule have weakened Myanmar’s health care system, while heavy monsoon rains have increased the risk of waterborne disease."
+      "char": "✈️",
+      "label": "missionary freed in niger",
+      "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+      "title": "American missionary kidnapped in Niger freed after nine months",
+      "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in..."
+    },
+    {
+      "char": "🌊",
+      "label": "zimbabwe boat accident",
+      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+      "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesd..."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane causes flash floods in hawaii",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+      "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas."
+    },
+    {
+      "char": "🔫",
+      "label": "shooting at us consulate in toronto",
+      "url": "https://www.nytimes.com/2026/08/16/world/canada/us-consulate-synagogue-shooting-toronto-canada.html",
+      "title": "A Shooting at the U.S. Consulate in Toronto Exposes a Neighborhood’s Guns-for-Hire Network",
+      "summary": "A shooting at a U.S. Consulate has thrust a neighborhood with a troubled past into the center of an emerging criminal phenomenon: young guns for hire as gig workers in the underworld economy."
+    },
+    {
+      "char": "💼",
+      "label": "bp to develop gasfield in venezuela",
+      "url": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
+      "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
+      "summary": "Move will be one of first large-scale foreign investments in country since US ousted leader Nicolás Maduro in January BP has answered Donald Trump’s call for oil companies to help rebuild Venezuela’s fossil fuel industry with new plans t..."
+    },
+    {
+      "char": "🛥️",
+      "label": "zimbabwe boat accident death toll rises",
+      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+      "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesd..."
+    },
+    {
+      "char": "🎨",
+      "label": "art heist of renaissance paintings in italy",
+      "url": "https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html",
+      "title": "Art Heist: 4 Antonello da Messina Paintings Stolen From Sicily",
+      "summary": "The works, by Antonello da Messina, were taken as the Sicilian city of Messina held a religious celebration."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Sadness",
+    "emoji": "😢",
+    "rationale": "The news items reflect a series of tragic events, including deaths from disasters, violence, and serious health outbreaks, leading to an overall emotional essence of sadness.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
