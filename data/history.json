@@ -61995,5 +61995,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-16",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israeli strikes in lebanon kill 11",
+        "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
+        "title": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
+        "summary": "The Lebanese health ministry said children were among those killed. The Israeli prime minister’s office said Hezbollah had struck first, injuring three Israeli soldiers."
+      },
+      {
+        "char": "🚔",
+        "label": "moroccan police arrest over 100 migrants",
+        "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+        "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+        "summary": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tighte..."
+      },
+      {
+        "char": "🎓",
+        "label": "cambridge faces questions on race and hiring",
+        "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+        "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+        "summary": "Jason Arday, the school’s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work."
+      },
+      {
+        "char": "⚔️",
+        "label": "three killed in fresh russian attacks in ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+        "summary": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit."
+      },
+      {
+        "char": "⚓",
+        "label": "zimbabwe boat accident death toll rises to 68",
+        "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+        "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+        "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesd..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
