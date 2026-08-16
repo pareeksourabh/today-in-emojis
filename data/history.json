@@ -62083,5 +62083,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-16",
+    "emojis": [
+      {
+        "char": "👑",
+        "label": "liechtenstein allows women to rule",
+        "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+        "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+        "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000."
+      },
+      {
+        "char": "🚴‍♂️",
+        "label": "ontario court rules on bike lanes",
+        "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
+        "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
+        "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour..."
+      },
+      {
+        "char": "🕵️‍♂",
+        "label": "mexican governor charged in student case",
+        "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
+        "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
+        "summary": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over his alleged involvement in the disappearance of 43 students..."
+      },
+      {
+        "char": "🎨",
+        "label": "renaissance paintings stolen in italy",
+        "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+        "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+        "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
+      },
+      {
+        "char": "🌍",
+        "label": "cholera outbreak in myanmar",
+        "url": "https://www.nytimes.com/2026/08/16/world/asia/cholera-outbreak-yangon-myanmar.html",
+        "title": "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City",
+        "summary": "Civil war and military rule have weakened Myanmar’s health care system, while heavy monsoon rains have increased the risk of waterborne disease."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
