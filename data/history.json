@@ -62039,5 +62039,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-16",
+    "emojis": [
+      {
+        "char": "💔",
+        "label": "eleven killed in israel strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+        "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
+      },
+      {
+        "char": "🇫🇷",
+        "label": "french ambassador investigated",
+        "url": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
+        "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
+        "summary": "Disciplinary proceedings under way after security concerns raised over reported visits to official residence France has opened disciplinary proceedings against its ambassador to Central African Republic over allegations of misconduct, af..."
+      },
+      {
+        "char": "⚔️",
+        "label": "iran war economic battle",
+        "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+        "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+        "summary": "The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program."
+      },
+      {
+        "char": "🙏",
+        "label": "missionary freed after kidnapping",
+        "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+        "title": "American missionary kidnapped in Niger freed after nine months",
+        "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in..."
+      },
+      {
+        "char": "✈️",
+        "label": "westjet settles harassment case",
+        "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
+        "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
+        "summary": "Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot The Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long sexual harassment class action lawsui..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
