@@ -1,7 +1,14 @@
 {
   "date": "2026-08-17",
-  "timestamp": "2026-08-17T00:43:40Z",
+  "timestamp": "2026-08-17T00:00:00Z",
   "emojis": [
+    {
+      "char": "🌍",
+      "label": "indonesia earthquake displaces thousands",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
+    },
     {
       "char": "🚴‍♂️",
       "label": "ontario court rules on bike lanes",
@@ -10,32 +17,25 @@
       "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour..."
     },
     {
-      "char": "💻",
-      "label": "online abuse after protests in india",
-      "url": "https://www.nytimes.com/2026/08/16/world/asia/india-women-protests-online-abuse.html",
-      "title": "After Women in India Joined Protests, Online Harassment Followed",
-      "summary": "Widespread online abuse and visits from the police show the added risks women take standing up for their beliefs in a patriarchal society."
+      "char": "🩸",
+      "label": "canadian plasma clinics pause collections",
+      "url": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
+      "title": "Canadian plasma clinics pause collections after deaths of two donors",
+      "summary": "Grifols, which runs private chain of clinics, to temporarily stop taking donations after new government investigation A chain of private plasma donation clinics in Canada has said it is pausing collections after the deaths of two donors..."
     },
     {
       "char": "🦠",
-      "label": "deadliest ebola outbreak in drc",
-      "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-      "title": "Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history",
-      "summary": "At least 2,325 people have been killed, according to government data, surpassing the death toll from 2018-20 outbreak The Ebola outbreak in the Democratic Republic of Congo is now the deadliest in the country’s history with at least 2,32..."
+      "label": "ebola outbreak spreads in drc",
+      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+      "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after..."
     },
     {
-      "char": "🌪️",
-      "label": "hurricane lala devastates hawaii",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-      "summary": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash."
-    },
-    {
-      "char": "🎨",
-      "label": "art heist in italy",
-      "url": "https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html",
-      "title": "Art Heist: 4 Antonello da Messina Paintings Stolen From Sicily",
-      "summary": "The works, by Antonello da Messina, were taken as the Sicilian city of Messina held a religious celebration."
+      "char": "🛥️",
+      "label": "zimbabwe boat accident death toll rises",
+      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+      "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesd..."
     }
   ],
   "source": "ai-openai",
