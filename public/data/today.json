@@ -1,41 +1,41 @@
 {
   "date": "2026-08-17",
-  "timestamp": "2026-08-17T00:00:00Z",
+  "timestamp": "2026-08-17T16:11:25Z",
   "emojis": [
     {
-      "char": "🇲🇽",
-      "label": "mexican governor charged in student case",
+      "char": "⚔️",
+      "label": "us strategy in iran war",
+      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+      "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+      "summary": "The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program."
+    },
+    {
+      "char": "🦠",
+      "label": "deadliest ebola outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+      "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+      "summary": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo."
+    },
+    {
+      "char": "🚨",
+      "label": "houthis strike on saudi vessel",
+      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html",
+      "title": "Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates",
+      "summary": "The armed group, based in Yemen and backed by Iran, said it had launched missiles near the vital maritime trade route, in a conflict that shows no sign of abating."
+    },
+    {
+      "char": "⚖️",
+      "label": "mexican governor charged",
       "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
       "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
       "summary": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over his alleged involvement in the disappearance of 43 students..."
     },
     {
-      "char": "🦠",
-      "label": "ebola outbreak spreads in drc",
-      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-      "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after..."
-    },
-    {
-      "char": "🚀",
-      "label": "ukraine's satellites aid war efforts",
-      "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
-      "title": "How Ukraine’s Satellites Help Drive Its War Drones",
-      "summary": "Ukrainian drone teams have a powerful new tool: near real-time information on troop movements and locations."
-    },
-    {
-      "char": "🇧🇷",
-      "label": "lula's fourth term bid in brazil",
-      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
-      "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
-      "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that..."
-    },
-    {
-      "char": "🤝",
-      "label": "us and iran miss war deal deadline",
-      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
-      "title": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
-      "summary": "President Trump said a cease-fire agreed in June would lead to limits on Iran’s nuclear program and finish the conflict, but the countries appear far apart."
+      "char": "🚴‍♂️",
+      "label": "ontario bike lanes ruling",
+      "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
+      "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
+      "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour..."
     }
   ],
   "source": "ai-openai",
