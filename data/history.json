@@ -62259,5 +62259,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-17",
+    "emojis": [
+      {
+        "char": "🕵️‍♂",
+        "label": "mexican governor charged in student case",
+        "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
+        "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
+        "summary": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over his alleged involvement in the disappearance of 43 students..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in dr congo deadliest",
+        "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+        "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+        "summary": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo."
+      },
+      {
+        "char": "🌍",
+        "label": "aid shortages after indonesia earthquake",
+        "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+        "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+        "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday."
+      },
+      {
+        "char": "🤝",
+        "label": "kushner meets netanyahu on peace deal",
+        "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+        "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
+        "summary": "Prime Minister Benjamin Netanyahu of Israel has refused to pull back the country’s military until Hamas fully disarms. But the Trump administration is under pressure to show progress."
+      },
+      {
+        "char": "🚤",
+        "label": "zimbabwe boat accident death toll rises",
+        "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+        "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+        "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesd..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
