@@ -62215,5 +62215,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-17",
+    "emojis": [
+      {
+        "char": "🇮🇷",
+        "label": "iran's supreme leader on war footing",
+        "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
+        "title": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
+        "summary": "Ayatollah Mojtaba Khamenei’s appointment of hard-line loyalists to top jobs suggests he is prepared to keep the country on a war footing and to quash domestic dissent."
+      },
+      {
+        "char": "🔥",
+        "label": "twin fires on greek island",
+        "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+        "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+        "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "lula's historic fourth term bid",
+        "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+        "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
+        "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that..."
+      },
+      {
+        "char": "👑",
+        "label": "liechtenstein allows women to rule",
+        "url": "https://www.nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html",
+        "title": "Liechtenstein Changes Its Law to Allow Women to Ascend the Throne",
+        "summary": "The move puts the principality in the majority among nearby nations with royal families."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in dr congo",
+        "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+        "title": "Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history",
+        "summary": "At least 2,325 people have been killed, according to government data, surpassing the death toll from 2018-20 outbreak The Ebola outbreak in the Democratic Republic of Congo is now the deadliest in the country’s history with at least 2,32..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
