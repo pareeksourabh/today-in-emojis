@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "sadness",
-    "emoji": "😢",
-    "rationale": "The day is marked by multiple tragic events, including a devastating bus accident, an escalating Ebola outbreak, and significant political unrest, which collectively create an overall sense of sadness and concern.",
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "Today's news is marked by a series of tragic events, including deadly accidents and health crises, which evoke a strong sense of fear and concern for those affected.",
     "palette": [
       "😢",
       "😡",
