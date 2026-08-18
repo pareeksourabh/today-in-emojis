@@ -62435,5 +62435,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-18",
+    "emojis": [
+      {
+        "char": "🇮🇳",
+        "label": "indian student leader hunger strike ends",
+        "url": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
+        "title": "Indian student leader ends hunger strike after 16 days",
+        "summary": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state."
+      },
+      {
+        "char": "🎭",
+        "label": "hayden panettiere's family in shock",
+        "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
+        "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+        "summary": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada avoids new us tariffs",
+        "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
+        "title": "It’s Crunchtime Again for Canada to Avoid New U.S. Tariffs",
+        "summary": "Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?"
+      },
+      {
+        "char": "🛢️",
+        "label": "bp develops gasfield in venezuela",
+        "url": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
+        "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
+        "summary": "Move will be one of first large-scale foreign investments in country since US ousted leader Nicolás Maduro in January BP has answered Donald Trump’s call for oil companies to help rebuild Venezuela’s fossil fuel industry with new plans t..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak deadliest in drc history",
+        "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+        "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
+        "summary": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
