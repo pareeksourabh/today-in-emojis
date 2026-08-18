@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "The news items reflect a day filled with sorrowful events, including the deaths from the Ebola outbreak, a boat accident, and a tragic shooting in the Philippines, which collectively evoke a profound sense of grief and concern.",
+    "emotion_label": "😔",
+    "emoji": "😔",
+    "rationale": "Today’s news highlights a series of tragedies and conflicts, from deadly outbreaks and accidents to escalating violence. The overall tone is somber, reflecting the struggles and hardships faced by many.",
     "palette": [
       "😢",
       "😡",
