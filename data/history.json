@@ -62391,5 +62391,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-18",
+    "emojis": [
+      {
+        "char": "🎭",
+        "label": "hayden panettiere tribute",
+        "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+        "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+        "summary": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville."
+      },
+      {
+        "char": "🔫",
+        "label": "tupac murder trial witness",
+        "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+        "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+        "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak deadliest",
+        "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+        "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
+        "summary": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at..."
+      },
+      {
+        "char": "🚤",
+        "label": "zimbabwe boat accident toll",
+        "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+        "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+        "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesd..."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "lula's fourth term bid",
+        "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+        "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
+        "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
