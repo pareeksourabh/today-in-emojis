@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The day is marked by multiple distressing events including earthquakes, a deadly Ebola outbreak, and significant political unrest, all contributing to a general feeling of anxiety and concern.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day is marked by tragic events, including a deadly Ebola outbreak and fatal accidents in Zimbabwe and Colombia, evoking deep sadness and concern for those affected.",
     "palette": [
       "😢",
       "😡",
