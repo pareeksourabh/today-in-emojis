@@ -1,41 +1,41 @@
 {
   "date": "2026-08-19",
-  "timestamp": "2026-08-19T04:46:53Z",
+  "timestamp": "2026-08-19T00:00:00Z",
   "emojis": [
     {
       "char": "🌍",
-      "label": "colombia earthquake aftermath",
+      "label": "brazil's oil discovery near amazon",
+      "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "trump pauses tariffs on canada",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
+      "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods."
+    },
+    {
+      "char": "🏰",
+      "label": "feud over ancient castle in provence",
+      "url": "https://www.nytimes.com/2026/08/18/world/europe/provence-chateau-village-feud.html",
+      "title": "Six Years in Provence: An Ancient Castle and a Feud Over a Troublesome Bridge",
+      "summary": "In a picturesque village, the mayor closed a road, setting off a storm with residents and the owners of a castle that once belonged to his family."
+    },
+    {
+      "char": "🌪️",
+      "label": "colombia faces hardship after earthquake",
       "url": "https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html",
       "title": "Chocó, Colombia, Faces Deeper Hardship After an Earthquake",
       "summary": "In Chocó, a remote region, “pain, hunger and homelessness await” survivors of last week’s earthquake, the governor said. Shakira visited to help draw awareness."
     },
     {
-      "char": "🇧🇷",
-      "label": "lula's fourth term bid",
-      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
-      "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
-      "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that..."
-    },
-    {
       "char": "🕊️",
-      "label": "missionary freed in niger",
+      "label": "missionary freed after kidnapping in niger",
       "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
       "title": "American missionary kidnapped in Niger freed after nine months",
       "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in..."
-    },
-    {
-      "char": "🩸",
-      "label": "canadian plasma clinics pause",
-      "url": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
-      "title": "Canadian plasma clinics pause collections after deaths of two donors",
-      "summary": "Grifols, which runs private chain of clinics, to temporarily stop taking donations after new government investigation A chain of private plasma donation clinics in Canada has said it is pausing collections after the deaths of two donors..."
-    },
-    {
-      "char": "⚖️",
-      "label": "ontario bike lanes ruling",
-      "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
-      "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
-      "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour..."
     }
   ],
   "source": "ai-openai",
