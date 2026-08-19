@@ -62655,5 +62655,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-19",
+    "emojis": [
+      {
+        "char": "🏛️",
+        "label": "kyiv cathedral revived after strike",
+        "url": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-kyiv-cathedral-russia-drone-strike.html",
+        "title": "Kyiv’s Dormition Cathedral is Revived After Russian Drone Strike",
+        "summary": "Volunteers and priests rallied to clean up Kyiv’s Dormition Cathedral, still smelling of smoke from a massive blaze, for an anniversary celebration."
+      },
+      {
+        "char": "💰",
+        "label": "iran war enriches africa's richest man",
+        "url": "https://www.nytimes.com/2026/08/19/world/africa/dangote-iran-refinery-oil-nigeria.html",
+        "title": "How the Iran War Made Africa’s Richest Man Even Richer",
+        "summary": "Africans have turned to one of their own for fuel as the world’s supplies run low. But they are not the only ones with the continent’s richest man on speed dial."
+      },
+      {
+        "char": "🕊️",
+        "label": "south korea shortens us war games",
+        "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+        "title": "South Korea shortens war games with US, citing Washington request",
+        "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un."
+      },
+      {
+        "char": "🛥️",
+        "label": "missionary freed after nine months",
+        "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+        "title": "American missionary kidnapped in Niger freed after nine months",
+        "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in..."
+      },
+      {
+        "char": "⚖️",
+        "label": "ontario court rules on bike lanes",
+        "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
+        "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
+        "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
