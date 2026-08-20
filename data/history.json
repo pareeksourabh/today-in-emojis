@@ -62875,5 +62875,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-20",
+    "emojis": [
+      {
+        "char": "🤖",
+        "label": "ai jobs in india",
+        "url": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html",
+        "title": "The Indian City Where AI Is Creating Jobs for Humans",
+        "summary": "In the fast-growing field of data annotation, workers in a small city in south India train A.I. to improve how it performs tasks traditionally done by people."
+      },
+      {
+        "char": "🇬🇧",
+        "label": "harry and meghan return",
+        "url": "https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html",
+        "title": "What to Know About Prince Harry and Meghan’s Move Back to the U.K.",
+        "summary": "The couple are moving back after six years in the United States. What they will do, and much else, are still unclear."
+      },
+      {
+        "char": "🌍",
+        "label": "activist forced out of us",
+        "url": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
+        "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
+        "summary": "Beto Coral held up banners in Florida warning fellow Colombians to not vote for Abelardo de la Espriella In the week before Colombia’s presidential election, Beto Coral, a well-known activist living in the United States, travelled to Flo..."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "lula's fourth term bid",
+        "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+        "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
+        "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that..."
+      },
+      {
+        "char": "⚠️",
+        "label": "gold mine collapse in car",
+        "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+        "title": "More than 100 dead after goldmine collapses in Central African Republic",
+        "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African Repu..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
