@@ -62699,5 +62699,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-20",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "far-right adviser arrested",
+        "url": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
+        "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
+        "summary": "Fernando Cerimedo, 42, arrested on suspicion of ordering shooting of Bolivian lawyer Nadia Beller A senior adviser to many of Latin America’s new wave of far-right leaders has been arrested for allegedly masterminding the attempted murde..."
+      },
+      {
+        "char": "🎤",
+        "label": "chinese comic investigated",
+        "url": "https://www.nytimes.com/2026/08/19/us/guo-degang-china-comic-investigated.html",
+        "title": "Chinese Comic Investigated After Singing a Riff of a Patriotic Song",
+        "summary": "Guo Degang, one of the country’s best-known comedians, was reported to the authorities, as the arts continue to be a focus for ideological crackdowns."
+      },
+      {
+        "char": "⚰️",
+        "label": "german cold case confession",
+        "url": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
+        "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
+        "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz."
+      },
+      {
+        "char": "🚁",
+        "label": "safari helicopter crash",
+        "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+        "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
+        "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of nor..."
+      },
+      {
+        "char": "🦠",
+        "label": "deadliest ebola outbreak",
+        "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+        "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
+        "summary": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
