@@ -62743,5 +62743,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-20",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israel investigates gaza killings",
+        "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
+        "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
+        "summary": "Two high-profile cases that had spurred international condemnation of the country’s conduct in Gaza were transferred to the military police. Such investigations have rarely led to convictions."
+      },
+      {
+        "char": "⛏️",
+        "label": "goldmine collapse in central africa",
+        "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+        "title": "More than 100 dead after goldmine collapses in Central African Republic",
+        "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African Repu..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in drc",
+        "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+        "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
+        "summary": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at..."
+      },
+      {
+        "char": "🚁",
+        "label": "helicopter crash in kenya",
+        "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+        "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
+        "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of nor..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "trump pauses tariffs on canada",
+        "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
+        "title": "Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline",
+        "summary": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’ Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration offici..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
