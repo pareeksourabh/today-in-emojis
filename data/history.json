@@ -62831,5 +62831,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-20",
+    "emojis": [
+      {
+        "char": "🛩️",
+        "label": "helicopter crash in kenya",
+        "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+        "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
+        "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of nor..."
+      },
+      {
+        "char": "🏰",
+        "label": "harry and meghan return to britain",
+        "url": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html",
+        "title": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
+        "summary": "Just last year, Prince Harry said he couldn’t imagine ever bringing his family back to Britain."
+      },
+      {
+        "char": "🥫",
+        "label": "grocery shortages in ukraine",
+        "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-grocery-stores-shortages.html",
+        "title": "Bare Grocery Shelves Are a New Wartime Hardship for Ukrainians",
+        "summary": "After years of pounding power plants and cities, Russia’s air war has taken aim at Ukraine’s supermarket warehouses."
+      },
+      {
+        "char": "⚖️",
+        "label": "evergrande founder sentenced to life",
+        "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
+        "title": "China Sentences Evergrande Founder to Life in Prison",
+        "summary": "Hui Ka Yan’s punishment caps the downfall of a property empire whose collapse set off a prolonged crisis in the Chinese economy."
+      },
+      {
+        "char": "🌍",
+        "label": "spain's immigration policy change",
+        "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
+        "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
+        "summary": "Madrid government changes stance after previously saying anyone who entered territory illegally would be sent back Europe live – latest updates The Spanish government has U-turned and said it will allow 500 migrant children in Ceuta to r..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
