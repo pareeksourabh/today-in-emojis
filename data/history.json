@@ -63051,5 +63051,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-21",
+    "emojis": [
+      {
+        "char": "🇨🇲",
+        "label": "cameroon's president returns home",
+        "url": "https://www.nytimes.com/2026/08/20/world/africa/cameroon-president-returns-from-long-stay-abroad.html",
+        "title": "Cameroon’s Aging President Returns From Monthslong Stay Abroad",
+        "summary": "Paul Biya, 93, had been in Switzerland since early June. The prolonged absence stirred questions about his health and plans for succession."
+      },
+      {
+        "char": "🚢",
+        "label": "somali piracy rises with hijackings",
+        "url": "https://www.nytimes.com/2026/08/20/world/africa/2-hijackings-in-4-days-somali-piracy-surges.html",
+        "title": "2 Hijackings in 4 Days: Somali Piracy Rises",
+        "summary": "Experts worry that the conflict in Iran and other regional dynamics are setting the stage for a Somali pirates’ comeback."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "lula's fourth term bid in brazil",
+        "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+        "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
+        "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that..."
+      },
+      {
+        "char": "✈️",
+        "label": "plane crash kills eight in alaska",
+        "url": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+        "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
+        "summary": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast."
+      },
+      {
+        "char": "🌍",
+        "label": "mexican deportees find refuge in la",
+        "url": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
+        "title": "Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’",
+        "summary": "With plentiful jobs and community support, one Mexico City neighbourhood has become a haven for those who have lived much of their lives in the US With its wide avenues lined with tall palm trees, its quaint cafes and old-school cantinas..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
