@@ -63007,5 +63007,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-21",
+    "emojis": [
+      {
+        "char": "🎤",
+        "label": "yung filly retrial in australia",
+        "url": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+        "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+        "summary": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,"
+      },
+      {
+        "char": "🇯🇵",
+        "label": "japan judge faces trump sanctions",
+        "url": "https://www.nytimes.com/2026/08/20/world/asia/japan-trump-icc-judge-sanctions.html",
+        "title": "Japan’s U.S. Ties Could Not Save a Top Judge From Trump’s I.C.C. Sanctions",
+        "summary": "Japan had tried to dissuade the U.S. from imposing sanctions on Tomoko Akane, president of the International Criminal Court, but the White House pressed ahead."
+      },
+      {
+        "char": "⛏️",
+        "label": "goldmine collapse in central africa",
+        "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+        "title": "More than 100 dead after goldmine collapses in Central African Republic",
+        "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African Repu..."
+      },
+      {
+        "char": "🌊",
+        "label": "panama canal cuts ship traffic",
+        "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+        "title": "Panama Canal to cut number of ships passing through due to El Niño",
+        "summary": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision."
+      },
+      {
+        "char": "🤖",
+        "label": "ai creating jobs in india",
+        "url": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html",
+        "title": "The Indian City Where AI Is Creating Jobs for Humans",
+        "summary": "In the fast-growing field of data annotation, workers in a small city in south India train A.I. to improve how it performs tasks traditionally done by people."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
