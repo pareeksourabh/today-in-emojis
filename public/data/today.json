@@ -1,41 +1,41 @@
 {
   "date": "2026-08-21",
-  "timestamp": "2026-08-21T12:55:12Z",
+  "timestamp": "2026-08-21T00:00:00Z",
   "emojis": [
     {
-      "char": "🇨🇲",
-      "label": "cameroon's president returns home",
-      "url": "https://www.nytimes.com/2026/08/20/world/africa/cameroon-president-returns-from-long-stay-abroad.html",
-      "title": "Cameroon’s Aging President Returns From Monthslong Stay Abroad",
-      "summary": "Paul Biya, 93, had been in Switzerland since early June. The prolonged absence stirred questions about his health and plans for succession."
+      "char": "💔",
+      "label": "goldmine collapse in central africa",
+      "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+      "title": "More than 100 dead after goldmine collapses in Central African Republic",
+      "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African Repu..."
     },
     {
-      "char": "🚢",
-      "label": "somali piracy rises with hijackings",
-      "url": "https://www.nytimes.com/2026/08/20/world/africa/2-hijackings-in-4-days-somali-piracy-surges.html",
-      "title": "2 Hijackings in 4 Days: Somali Piracy Rises",
-      "summary": "Experts worry that the conflict in Iran and other regional dynamics are setting the stage for a Somali pirates’ comeback."
-    },
-    {
-      "char": "🇧🇷",
-      "label": "lula's fourth term bid in brazil",
-      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
-      "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
-      "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that..."
-    },
-    {
-      "char": "✈️",
-      "label": "plane crash kills eight in alaska",
-      "url": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
-      "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
-      "summary": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast."
+      "char": "🔥",
+      "label": "fire in swiss alpine town",
+      "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+      "title": "Five missing after fire in Swiss Alpine town",
+      "summary": "Eight others were injured, local police say, with the cause of the fire still being investigated."
     },
     {
       "char": "🌍",
-      "label": "mexican deportees find refuge in la",
+      "label": "mexicans find refuge in little la",
       "url": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
       "title": "Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’",
       "summary": "With plentiful jobs and community support, one Mexico City neighbourhood has become a haven for those who have lived much of their lives in the US With its wide avenues lined with tall palm trees, its quaint cafes and old-school cantinas..."
+    },
+    {
+      "char": "🚁",
+      "label": "safari helicopter crash in kenya",
+      "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+      "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
+      "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of nor..."
+    },
+    {
+      "char": "🦠",
+      "label": "rare diseases and next pandemic",
+      "url": "https://www.nytimes.com/2026/08/21/world/americas/rare-south-american-diseases-climate-change-pandemics.html",
+      "title": "Rare South American Diseases Offer Clues on the Next Pandemic",
+      "summary": "Ebola virus, hantavirus and the pathogen that causes Covid-19 likely jumped from animals to humans. So do these viruses — and scientists say climate change is speeding their spread."
     }
   ],
   "source": "ai-openai",
