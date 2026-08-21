@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Devastation",
+    "emotion_label": "Sorrow",
     "emoji": "😢",
-    "rationale": "The day's news is heavily dominated by devastating events, including a deadly goldmine collapse, an escalating Ebola outbreak, and tragic helicopter crashes, evoking a profound sense of sorrow.",
+    "rationale": "Today's news is filled with tragic events, including fatalities from a helicopter crash, a goldmine collapse, and a deadly Ebola outbreak. The overwhelming loss of life and suffering reflected in these reports evokes a deep sense of sorrow.",
     "palette": [
       "😢",
       "😡",
