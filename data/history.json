@@ -63139,5 +63139,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-22",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "trump pauses canada tariffs threat",
+        "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
+        "title": "Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline",
+        "summary": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’ Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration offici..."
+      },
+      {
+        "char": "💔",
+        "label": "russian drone strike kills 15 in ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+        "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head."
+      },
+      {
+        "char": "🕊️",
+        "label": "palestinian teenager killed in west bank",
+        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
+        "title": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
+        "summary": "Palestinian and Israeli authorities offered divergent accounts of the incident, which came as settler violence has surged across the Israeli-occupied territory."
+      },
+      {
+        "char": "👑",
+        "label": "britons split on harry and meghan's return",
+        "url": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-royal-return-public-opinion.html",
+        "title": "‘They’re Always Going to Be Polarizing’: Britons Split on Harry and Meghan’s Return",
+        "summary": "Recent surveys suggest the broader public views both of them negatively, especially in comparison to Harry’s brother, William, and his wife, Kate."
+      },
+      {
+        "char": "⚔️",
+        "label": "two injured in canada temple stabbing",
+        "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+        "title": "Two injured in stabbing attack at Canada Sikh temple",
+        "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

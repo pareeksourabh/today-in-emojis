@@ -1,41 +1,41 @@
 {
   "date": "2026-08-22",
-  "timestamp": "2026-08-22T00:00:00Z",
+  "timestamp": "2026-08-22T00:42:55Z",
   "emojis": [
     {
-      "char": "🔫",
-      "label": "germany weapons cache plot",
-      "url": "https://www.nytimes.com/2026/08/21/world/europe/germany-foreign-plot-hidden-guns.html",
-      "title": "Germany Identifies a Plot After Finding a Weapons Cache, but Names No Culprit",
-      "summary": "Officials were careful not to point a finger, after revealing what they said was a plan for a political attack, at a time when a series of destabilizing actions have been blamed on Russia."
-    },
-    {
-      "char": "🚨",
-      "label": "far-right adviser arrested",
-      "url": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
-      "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
-      "summary": "Fernando Cerimedo, 42, arrested on suspicion of ordering shooting of Bolivian lawyer Nadia Beller A senior adviser to many of Latin America’s new wave of far-right leaders has been arrested for allegedly masterminding the attempted murde..."
+      "char": "🇨🇦",
+      "label": "trump pauses canada tariffs threat",
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
+      "title": "Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline",
+      "summary": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’ Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration offici..."
     },
     {
       "char": "💔",
-      "label": "palestinian teenager killed",
+      "label": "russian drone strike kills 15 in ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+      "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head."
+    },
+    {
+      "char": "🕊️",
+      "label": "palestinian teenager killed in west bank",
       "url": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
       "title": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
       "summary": "Palestinian and Israeli authorities offered divergent accounts of the incident, which came as settler violence has surged across the Israeli-occupied territory."
     },
     {
-      "char": "🪙",
-      "label": "goldmine collapse in africa",
-      "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
-      "title": "More than 100 dead after goldmine collapses in Central African Republic",
-      "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African Repu..."
+      "char": "👑",
+      "label": "britons split on harry and meghan's return",
+      "url": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-royal-return-public-opinion.html",
+      "title": "‘They’re Always Going to Be Polarizing’: Britons Split on Harry and Meghan’s Return",
+      "summary": "Recent surveys suggest the broader public views both of them negatively, especially in comparison to Harry’s brother, William, and his wife, Kate."
     },
     {
-      "char": "✈️",
-      "label": "helicopter crash in kenya",
-      "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
-      "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
-      "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of nor..."
+      "char": "⚔️",
+      "label": "two injured in canada temple stabbing",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+      "title": "Two injured in stabbing attack at Canada Sikh temple",
+      "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate."
     }
   ],
   "source": "ai-openai",
