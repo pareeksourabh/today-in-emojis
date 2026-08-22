@@ -1,41 +1,41 @@
 {
   "date": "2026-08-22",
-  "timestamp": "2026-08-22T12:46:35Z",
+  "timestamp": "2026-08-22T00:00:00Z",
   "emojis": [
     {
-      "char": "🏔️",
-      "label": "father leaves son on mount fuji",
-      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
-      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
-    },
-    {
-      "char": "🗡️",
-      "label": "stabbing at canada sikh temple",
-      "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-      "title": "Two injured in stabbing attack at Canada Sikh temple",
-      "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate."
-    },
-    {
       "char": "🇱🇧",
-      "label": "lebanon stalls on hezbollah efforts",
+      "label": "lebanon’s efforts to tame hezbollah",
       "url": "https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html",
       "title": "Lebanon’s Efforts to Tame Hezbollah Stall Amid Israel War",
       "summary": "President Joseph Aoun took office with a popular mandate to reassert control after the militant group dragged the country back into war with Israel."
     },
     {
-      "char": "💰",
-      "label": "gold mine collapse in central africa",
-      "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
-      "title": "More than 100 dead after goldmine collapses in Central African Republic",
-      "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African Repu..."
+      "char": "🗻",
+      "label": "father leaves son alone on mount fuji",
+      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
     },
     {
       "char": "🦠",
-      "label": "ebola outbreak in drc deadliest",
+      "label": "ebola outbreak in drc deadliest in history",
       "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
       "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
       "summary": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at..."
+    },
+    {
+      "char": "🚁",
+      "label": "five americans killed in kenya helicopter crash",
+      "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+      "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
+      "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of nor..."
+    },
+    {
+      "char": "🎙️",
+      "label": "how ‘the rest is history’ podcast conquered",
+      "url": "https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html",
+      "title": "How ‘The Rest Is History’ Podcast Conquered the World",
+      "summary": "When two British historians, Tom Holland and Dominic Sandbrook, began the show, neither anticipated it would become the top history podcast in the English-speaking world."
     }
   ],
   "source": "ai-openai",
