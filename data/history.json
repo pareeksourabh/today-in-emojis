@@ -63491,5 +63491,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-23",
+    "emojis": [
+      {
+        "char": "💼",
+        "label": "jd vance mocks carney on trade",
+        "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
+        "title": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
+        "summary": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for apparently capitulat..."
+      },
+      {
+        "char": "📚",
+        "label": "novelist critiques italian families",
+        "url": "https://www.nytimes.com/2026/08/22/world/europe/italian-families-novel-anniversary-bajani.html",
+        "title": "Close and Loving, or Oppressive? A Novelist Takes Aim at Italian Families.",
+        "summary": "Many Italians see themselves in Andrea Bajani’s latest novel, a portrayal of the family as a “little totalitarian system” shaped by psychological and physical violence."
+      },
+      {
+        "char": "⚔️",
+        "label": "girl killed in swedish sword attack",
+        "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+        "title": "Girl, 17, killed in Swedish sword attack, police say",
+        "summary": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak deadliest in drc",
+        "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+        "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
+        "summary": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at..."
+      },
+      {
+        "char": "💔",
+        "label": "mushroom murderer hotel mix-up",
+        "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+        "title": "The hotel booking mix-up that could free mushroom murderer",
+        "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
