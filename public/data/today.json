@@ -1,41 +1,41 @@
 {
   "date": "2026-08-23",
-  "timestamp": "2026-08-23T08:33:07Z",
+  "timestamp": "2026-08-23T00:00:00Z",
   "emojis": [
     {
-      "char": "🇸🇾",
-      "label": "syria condemns israeli strike",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-      "title": "Syria says Israeli strike near Damascus violation of international law",
-      "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border."
+      "char": "💰",
+      "label": "crypto boss goes missing",
+      "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+      "summary": "The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals."
     },
     {
-      "char": "🇱🇷",
-      "label": "us deports migrants to liberia",
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-      "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west Africa..."
+      "char": "🇨🇦",
+      "label": "trump on canada trade talks",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
     },
     {
-      "char": "🗡️",
-      "label": "swedish girl killed in sword attack",
+      "char": "🚁",
+      "label": "helicopter crash in kenya",
+      "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+      "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
+      "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of nor..."
+    },
+    {
+      "char": "⚔️",
+      "label": "swedish sword attack",
       "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
       "title": "Girl, 17, killed in Swedish sword attack, police say",
       "summary": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained."
     },
     {
-      "char": "🇲🇽",
-      "label": "mexican governor leaves office amid scandal",
-      "url": "https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html",
-      "title": "Mexican Governor Accused by U.S. of Aiding Cartel Leaves Office, Again",
-      "summary": "Rubén Rocha Moya of Sinaloa reversed course a day after returning to office, amid widespread criticism, including from members of his own party."
-    },
-    {
-      "char": "💔",
-      "label": "more than 100 dead in goldmine collapse",
-      "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
-      "title": "More than 100 dead after goldmine collapses in Central African Republic",
-      "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African Repu..."
+      "char": "🦠",
+      "label": "ebola outbreak in drc",
+      "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+      "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
+      "summary": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at..."
     }
   ],
   "source": "ai-openai",
