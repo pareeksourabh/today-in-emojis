@@ -63403,5 +63403,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-23",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "carney faces crucial test on trade",
+        "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+        "title": "Carney faces crucial test after walking away from Trump's deal",
+        "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences."
+      },
+      {
+        "char": "👶",
+        "label": "harry and meghan's return implications",
+        "url": "https://www.nytimes.com/2026/08/22/world/europe/harry-meghan-children-schools.html",
+        "title": "What Does Harry and Meghan’s Return to England Mean for Their Children?",
+        "summary": "One effect of moving back is that Archie and Lilibet now have the opportunity to be schooled as Britons. Here’s what that might look like."
+      },
+      {
+        "char": "💰",
+        "label": "crypto boss missing successor found",
+        "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+        "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+        "summary": "The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals."
+      },
+      {
+        "char": "🏗️",
+        "label": "goldmine collapse in central africa",
+        "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+        "title": "More than 100 dead after goldmine collapses in Central African Republic",
+        "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African Repu..."
+      },
+      {
+        "char": "🛬",
+        "label": "us deportation agreement with liberia",
+        "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+        "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+        "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west Africa..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
