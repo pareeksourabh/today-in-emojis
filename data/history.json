@@ -63447,5 +63447,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-23",
+    "emojis": [
+      {
+        "char": "🇸🇾",
+        "label": "syria condemns israeli strike",
+        "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+        "title": "Syria says Israeli strike near Damascus violation of international law",
+        "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border."
+      },
+      {
+        "char": "🇱🇷",
+        "label": "us deports migrants to liberia",
+        "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+        "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+        "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west Africa..."
+      },
+      {
+        "char": "🗡️",
+        "label": "swedish girl killed in sword attack",
+        "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+        "title": "Girl, 17, killed in Swedish sword attack, police say",
+        "summary": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained."
+      },
+      {
+        "char": "🇲🇽",
+        "label": "mexican governor leaves office amid scandal",
+        "url": "https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html",
+        "title": "Mexican Governor Accused by U.S. of Aiding Cartel Leaves Office, Again",
+        "summary": "Rubén Rocha Moya of Sinaloa reversed course a day after returning to office, amid widespread criticism, including from members of his own party."
+      },
+      {
+        "char": "💔",
+        "label": "more than 100 dead in goldmine collapse",
+        "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+        "title": "More than 100 dead after goldmine collapses in Central African Republic",
+        "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African Repu..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
