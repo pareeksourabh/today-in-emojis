@@ -1,41 +1,41 @@
 {
   "date": "2026-08-24",
-  "timestamp": "2026-08-24T08:50:52Z",
+  "timestamp": "2026-08-24T00:00:00Z",
   "emojis": [
     {
-      "char": "🪂",
-      "label": "safari helicopter crash in kenya",
-      "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
-      "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
-      "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of nor..."
-    },
-    {
-      "char": "🌎",
-      "label": "latin america leaders boost allies",
-      "url": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
-      "title": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
-      "summary": "With cheers, endorsements and insults for rivals and “wokismo,” a new crop of right-wing leaders are openly stepping into one another’s elections."
-    },
-    {
       "char": "🔥",
-      "label": "wildfire evacuation in nevada",
+      "label": "wildfire near reno, nevada",
       "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
       "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
       "summary": "The fire has burned around 10,500 acres and is completely uncontained, officials say."
     },
     {
-      "char": "💰",
+      "char": "⚖️",
+      "label": "zambia election petition deadline",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing."
+    },
+    {
+      "char": "🇺🇸",
+      "label": "trump lashes out at trade talks",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada a..."
+    },
+    {
+      "char": "⚠️",
+      "label": "landfill collapse kills 31 in guinea",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "title": "Guinea rubbish landfill collapse kills 31",
+      "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says."
+    },
+    {
+      "char": "⛏️",
       "label": "goldmine collapse in central africa",
       "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
       "title": "More than 100 dead after goldmine collapses in Central African Republic",
       "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African Repu..."
-    },
-    {
-      "char": "🌊",
-      "label": "spain allows migrant minors relocation",
-      "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
-      "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
-      "summary": "Madrid government changes stance after previously saying anyone who entered territory illegally would be sent back The Spanish government has U-turned and said it will allow 500 migrant children in Ceuta to relocate to the mainland. The..."
     }
   ],
   "source": "ai-openai",
