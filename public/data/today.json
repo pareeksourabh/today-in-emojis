@@ -1,41 +1,41 @@
 {
   "date": "2026-08-24",
-  "timestamp": "2026-08-24T12:57:35Z",
+  "timestamp": "2026-08-24T00:00:00Z",
   "emojis": [
     {
-      "char": "🤖",
-      "label": "russia's ai drones in ukraine",
-      "url": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html",
-      "title": "Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
-      "summary": "The tech giant says it does not sell the devices in Russia, but they are widely available on resale markets. When purchased that way, they are virtually impossible to track."
-    },
-    {
-      "char": "🏏",
-      "label": "imran khan's medical care plea",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-      "summary": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment."
-    },
-    {
-      "char": "⚠️",
-      "label": "landfill collapse in guinea",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "title": "Guinea rubbish landfill collapse kills 31",
-      "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says."
-    },
-    {
       "char": "🇺🇸",
-      "label": "us deportation to liberia",
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-      "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west Africa..."
+      "label": "us-south-korea drill canceled",
+      "url": "https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html",
+      "title": "U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands",
+      "summary": "The move to call off the high-profile event was communicated in June, South Korea said. President Trump shortened another joint military exercise earlier this month."
     },
     {
-      "char": "🔥",
-      "label": "wildfires in indonesia due to el niño",
-      "url": "https://www.nytimes.com/2026/08/24/world/asia/indonesia-el-nino-borneo-fire.html",
-      "title": "As El Niño Dries Indonesia, Wildfires Intensify",
-      "summary": "The unusual weather pattern and dried out peatlands, a kind of wetland, have been behind some of the country’s worst fire seasons. This year could be one."
+      "char": "📉",
+      "label": "canada-us trade talks collapse",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+      "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+      "summary": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground ‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war The calamitous collapse of trade negotiations between C..."
+    },
+    {
+      "char": "🕊️",
+      "label": "syria-israel talks mediated by us",
+      "url": "https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html",
+      "title": "Syria and Israel Hold U.S.-Mediated Talks to Try to Ease Tensions",
+      "summary": "The discussions, reported by the Syrian state news agency, came days after Israel struck an air base in Syria’s northwest, the latest in a series of military interventions."
+    },
+    {
+      "char": "💰",
+      "label": "iran faces financial offensive",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated."
+    },
+    {
+      "char": "🌍",
+      "label": "landslide in guinea kills dozens",
+      "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
+      "title": "Landslide at waste mound in Guinea capital kills 30, government says",
+      "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains..."
     }
   ],
   "source": "ai-openai",
