@@ -1,20 +1,27 @@
 {
   "date": "2026-08-24",
-  "timestamp": "2026-08-24T00:00:00Z",
+  "timestamp": "2026-08-24T08:50:52Z",
   "emojis": [
     {
-      "char": "🎙️",
-      "label": "british historians podcast success",
-      "url": "https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html",
-      "title": "How Two British Historians Made a Smash Hit Podcast",
-      "summary": "They took on topics as diverse as fall of the Aztecs, the French Revolution, the assassination of Abraham Lincoln, and history’s greatest monkeys. The rest is history."
-    },
-    {
-      "char": "🚁",
-      "label": "helicopter crash in kenya",
+      "char": "🪂",
+      "label": "safari helicopter crash in kenya",
       "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
       "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
       "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of nor..."
+    },
+    {
+      "char": "🌎",
+      "label": "latin america leaders boost allies",
+      "url": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
+      "title": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
+      "summary": "With cheers, endorsements and insults for rivals and “wokismo,” a new crop of right-wing leaders are openly stepping into one another’s elections."
+    },
+    {
+      "char": "🔥",
+      "label": "wildfire evacuation in nevada",
+      "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+      "summary": "The fire has burned around 10,500 acres and is completely uncontained, officials say."
     },
     {
       "char": "💰",
@@ -24,18 +31,11 @@
       "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African Repu..."
     },
     {
-      "char": "🌍",
-      "label": "iran warns gulf states on economy",
-      "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
-      "title": "Iran Warns Gulf States Not to Join Trump’s Economic War",
-      "summary": "Iran’s new hard-line national security adviser, Mohsen Rezaei, vowed to prevent “a single drop of oil” from leaving the region."
-    },
-    {
-      "char": "⚽",
-      "label": "maradona's ball sells for £2.5m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
-      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
-      "summary": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction."
+      "char": "🌊",
+      "label": "spain allows migrant minors relocation",
+      "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
+      "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
+      "summary": "Madrid government changes stance after previously saying anyone who entered territory illegally would be sent back The Spanish government has U-turned and said it will allow 500 migrant children in Ceuta to relocate to the mainland. The..."
     }
   ],
   "source": "ai-openai",
