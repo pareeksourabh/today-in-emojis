@@ -63755,5 +63755,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-24",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "trump lashes out at trade war",
+        "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+        "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+        "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada a..."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran defies us sanctions",
+        "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
+        "title": "Iran Pledges to Defy Trump’s Economic Sanctions",
+        "summary": "Analysts say Tehran could intensify the dispute militarily after attempts to squeeze its economy. An Iranian official vowed “not a single drop of oil” would leave the Gulf."
+      },
+      {
+        "char": "💔",
+        "label": "goldmine collapse kills over 100",
+        "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+        "title": "More than 100 dead after goldmine collapses in Central African Republic",
+        "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African Repu..."
+      },
+      {
+        "char": "🦅",
+        "label": "israel warns of response to gaza kites",
+        "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+        "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza."
+      },
+      {
+        "char": "🌍",
+        "label": "children affected by mpox in africa",
+        "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
+        "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
+        "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said,..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
