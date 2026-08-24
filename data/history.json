@@ -63579,5 +63579,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-24",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "canada-us trade talks collapse",
+        "url": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+        "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+        "summary": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground ‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war The calamitous collapse of trade negotiations between C..."
+      },
+      {
+        "char": "⛳",
+        "label": "golf brand apologizes for advert",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+        "title": "Golf brand apologises for advert that shows woman being pushed over",
+        "summary": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club."
+      },
+      {
+        "char": "🏃‍♂️",
+        "label": "kejela breaks half marathon record",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+        "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
+        "summary": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of 56 minutes 51 seconds in a World Athletics road race in Buenos Aires."
+      },
+      {
+        "char": "⛏️",
+        "label": "goldmine collapse in central africa",
+        "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+        "title": "More than 100 dead after goldmine collapses in Central African Republic",
+        "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African Repu..."
+      },
+      {
+        "char": "🌾",
+        "label": "world's breadbaskets under threat",
+        "url": "https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html",
+        "title": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
+        "summary": "Bad harvests and attacks on trade passages threaten to drive food prices higher."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
