@@ -1,41 +1,41 @@
 {
   "date": "2026-08-25",
-  "timestamp": "2026-08-25T00:00:00Z",
+  "timestamp": "2026-08-25T00:44:02Z",
   "emojis": [
     {
-      "char": "🇺🇸",
-      "label": "us deports migrants to liberia",
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-      "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west Africa..."
+      "char": "🇷🇺",
+      "label": "russia's online retailer hit by strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes."
     },
     {
-      "char": "🚢",
-      "label": "us vessel strike in pacific",
-      "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-      "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-      "summary": "US Southern Command has struck another vessel in the eastern Pacific, killing two accused of trafficking drugs The US military has launched a deadly strike on a vessel in the Pacific Ocean, killing two people accused of drug trafficking...."
+      "char": "🇨🇦",
+      "label": "canada-us trade talks collapse",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+      "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+      "summary": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground ‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war The calamitous collapse of trade negotiations between C..."
     },
     {
-      "char": "🤖",
-      "label": "ai drone kills in ukraine",
-      "url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
-      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-      "summary": "An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans."
-    },
-    {
-      "char": "💼",
-      "label": "trump trade war with canada",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada a..."
+      "char": "☕",
+      "label": "iran cracks down on coffee shops",
+      "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html",
+      "title": "Iran Cracks Down on One Luxury Left to Its Youth: Coffee Shops",
+      "summary": "In recent weeks, the police have closed dozens of cafes, often citing laws that stipulate women must veil in public. Experts say the closures are part of an effort to control public space."
     },
     {
       "char": "🤖",
-      "label": "chinese robot beats usain bolt",
+      "label": "chinese robot beats usain bolt's record",
       "url": "https://www.nytimes.com/2026/08/24/world/asia/chinese-robot-100-meter-usain-bolt.html",
       "title": "A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed?",
       "summary": "China’s humanoid robots are achieving superhuman feats of athleticism. But how that translates into the real world is still an open question, experts said."
+    },
+    {
+      "char": "🧑‍🤝‍",
+      "label": "prince harry quits wildlife charity board",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+      "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
+      "summary": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights..."
     }
   ],
   "source": "ai-openai",
