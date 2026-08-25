@@ -1,41 +1,41 @@
 {
   "date": "2026-08-25",
-  "timestamp": "2026-08-25T04:43:22Z",
+  "timestamp": "2026-08-25T00:00:00Z",
   "emojis": [
     {
-      "char": "🦁",
-      "label": "prince harry quits wildlife charity",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
-      "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
-      "summary": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights..."
-    },
-    {
       "char": "🇺🇸",
-      "label": "us removes syria from terror list",
-      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa."
+      "label": "us deports migrants to liberia",
+      "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+      "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west Africa..."
     },
     {
-      "char": "🦠",
-      "label": "children half of mpox cases in guinea",
+      "char": "☕",
+      "label": "iran cracks down on coffee shops",
+      "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html",
+      "title": "Iran Cracks Down on One Luxury Left to Its Youth: Coffee Shops",
+      "summary": "In recent weeks, the police have closed dozens of cafes, often citing laws that stipulate women must veil in public. Experts say the closures are part of an effort to control public space."
+    },
+    {
+      "char": "👶",
+      "label": "children half of mpox cases in guinea-bissau",
       "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
       "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
       "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said,..."
     },
     {
-      "char": "🚢",
-      "label": "us vessel strike in eastern pacific",
-      "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-      "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-      "summary": "US Southern Command has struck another vessel in the eastern Pacific, killing two accused of trafficking drugs The US military has launched a deadly strike on a vessel in the Pacific Ocean, killing two people accused of drug trafficking...."
+      "char": "🌍",
+      "label": "landslide in guinea kills 30",
+      "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
+      "title": "Landslide at waste mound in Guinea capital kills 30, government says",
+      "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains..."
     },
     {
-      "char": "🌍",
-      "label": "colombia immigration crackdown announced",
-      "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
-      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
-      "summary": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Espriella, has announced a crackdown on imm..."
+      "char": "🚁",
+      "label": "ai drone kills three in ukraine",
+      "url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
+      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+      "summary": "An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans."
     }
   ],
   "source": "ai-openai",
