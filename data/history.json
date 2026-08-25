@@ -63931,5 +63931,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-25",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "landslide in guinea kills 30",
+        "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
+        "title": "Landslide at waste mound in Guinea capital kills 30, government says",
+        "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains..."
+      },
+      {
+        "char": "🇨🇴",
+        "label": "colombia immigration crackdown announced",
+        "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+        "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+        "summary": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Espriella, has announced a crackdown on imm..."
+      },
+      {
+        "char": "🚢",
+        "label": "us strikes vessel in eastern pacific",
+        "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
+        "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
+        "summary": "US Southern Command has struck another vessel in the eastern Pacific, killing two accused of trafficking drugs The US military has launched a deadly strike on a vessel in the Pacific Ocean, killing two people accused of drug trafficking...."
+      },
+      {
+        "char": "🦠",
+        "label": "children half of mpox cases in guinea-bissau",
+        "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
+        "title": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
+        "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said,..."
+      },
+      {
+        "char": "🎨",
+        "label": "chinese artist jailed for mao sculptures",
+        "url": "https://www.nytimes.com/2026/08/25/world/asia/china-artist-gao-zhen-jailed-mao-sculpture.html",
+        "title": "Chinese Artist Sentenced to Three Years in Prison for Mao Sculptures",
+        "summary": "Gao Zhen, part of a brotherly duo famous for satirical artworks, was convicted of slandering one of China’s heroes after a secret one-day trial."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
