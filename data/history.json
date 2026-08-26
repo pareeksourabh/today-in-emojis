@@ -64151,5 +64151,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-26",
+    "emojis": [
+      {
+        "char": "🇨🇴",
+        "label": "colombia immigration crackdown",
+        "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+        "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+        "summary": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Espriella, has announced a crackdown on imm..."
+      },
+      {
+        "char": "💔",
+        "label": "gang attack in haiti",
+        "url": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
+        "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
+        "summary": "Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight ‘A massacre’: Haiti gangs carrying out mass killings At least 47 people were killed and more than 50 others kidnapped when armed men atta..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada retaliatory tariffs on us",
+        "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+        "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+        "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
+      },
+      {
+        "char": "🕊️",
+        "label": "israeli lawmaker damages memorial",
+        "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+        "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+        "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu."
+      },
+      {
+        "char": "💍",
+        "label": "indian jewellery ad backlash",
+        "url": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
+        "title": "Indian jewellery ad pulled after backlash over actor's outfit",
+        "summary": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
