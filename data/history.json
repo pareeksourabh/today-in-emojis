@@ -64107,5 +64107,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-26",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "ukraine tank situation",
+        "url": "https://www.nytimes.com/2026/08/25/world/europe/ukraine-russia-tanks.html",
+        "title": "What Happened to the Coveted Western Tanks Sent to Ukraine?",
+        "summary": "Ukraine pleaded for the expensive weapons, and ultimately got them, but drones have rendered them almost unusable."
+      },
+      {
+        "char": "🇮🇱",
+        "label": "monument vandalism in west bank",
+        "url": "https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html",
+        "title": "Israeli Lawmaker Smashes Palestinian Monument in West Bank",
+        "summary": "Videos showed Israeli troops standing by as Zvi Sukkot attacked the monument with a sledgehammer. The military said soldiers had stopped the demolition."
+      },
+      {
+        "char": "🌪️",
+        "label": "tornado hits southern france",
+        "url": "https://www.nytimes.com/2026/08/25/world/europe/tornado-southern-france-pomas.html",
+        "title": "Tornado Rips Through Towns in Southern France",
+        "summary": "An uncommonly powerful tornado destroyed dozens of homes and knocked out power to about 2,800 households."
+      },
+      {
+        "char": "🚨",
+        "label": "mass arrests in west africa",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+        "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+        "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams."
+      },
+      {
+        "char": "🛑",
+        "label": "deportation of migrants to liberia",
+        "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+        "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+        "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west Africa..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
