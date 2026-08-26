@@ -1,27 +1,20 @@
 {
   "date": "2026-08-26",
-  "timestamp": "2026-08-26T00:44:47Z",
+  "timestamp": "2026-08-26T00:00:00Z",
   "emojis": [
     {
-      "char": "🇨🇦",
-      "label": "canada tariffs against trump",
-      "url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
-      "title": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
-      "summary": "Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs."
+      "char": "🇺🇸",
+      "label": "us soldier's wife deported",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
+      "title": "Wife of US soldier deported after Trump rollback on military family protections",
+      "summary": "Cristy Maryori Villafranca-Trejo, deported to Honduras, is latest military spouse to face removal amid Trump 2.0 The wife of an active-duty US soldier was deported on Monday to her native Honduras , according to her family and the federa..."
     },
     {
-      "char": "🔦",
-      "label": "nigeria manhunt for kidnappers",
-      "url": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
-      "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
-      "summary": "The footage shows dozens of men, women and children sitting in a forest."
-    },
-    {
-      "char": "🇮🇷",
-      "label": "iran's economy under us sanctions",
-      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
-      "title": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
-      "summary": "Experts warn that a campaign aimed at avoiding military escalation could instead provoke it, as Iranian leaders vow retaliation across the oil-rich Gulf."
+      "char": "👶",
+      "label": "children affected by mpox in guinea-bissau",
+      "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
+      "title": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
+      "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said,..."
     },
     {
       "char": "🌪️",
@@ -31,11 +24,18 @@
       "summary": "An uncommonly powerful tornado destroyed dozens of homes and knocked out power to about 2,800 households."
     },
     {
-      "char": "👶",
-      "label": "children affected by mpox in guinea-bissau",
-      "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
-      "title": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
-      "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said,..."
+      "char": "🇨🇴",
+      "label": "colombia immigration crackdown",
+      "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+      "summary": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Espriella, has announced a crackdown on imm..."
+    },
+    {
+      "char": "💔",
+      "label": "dozens massacred in haiti",
+      "url": "https://www.nytimes.com/2026/08/25/world/americas/haiti-massacre-kenscoff.html",
+      "title": "Dozens Massacred in Haiti, Officials Say, Heightening Fears of Gangs",
+      "summary": "Gangs targeted a key community on the outskirts of the capital, raising fears about the gangs’ next move. The mayor said at least 25 people had been killed, but the U.N. put the death toll at 47."
     }
   ],
   "source": "ai-openai",
