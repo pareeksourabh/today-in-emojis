@@ -64063,5 +64063,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-26",
+    "emojis": [
+      {
+        "char": "🇨🇳",
+        "label": "china protests us sanctions on iran",
+        "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+        "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+        "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing."
+      },
+      {
+        "char": "🎭",
+        "label": "lockerbie bombing trial postponed",
+        "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+        "title": "Lockerbie bombing trial postponed days before it was due to start",
+        "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago."
+      },
+      {
+        "char": "💼",
+        "label": "us-canada trade war escalates",
+        "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
+        "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+        "summary": "Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable."
+      },
+      {
+        "char": "📹",
+        "label": "nigeria mosque kidnapping video released",
+        "url": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+        "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
+        "summary": "Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older people An armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducted in an attack on a..."
+      },
+      {
+        "char": "🌪️",
+        "label": "tornado rips through southern france",
+        "url": "https://www.nytimes.com/2026/08/25/world/europe/tornado-southern-france-pomas.html",
+        "title": "Tornado Rips Through Towns in Southern France",
+        "summary": "An uncommonly powerful tornado destroyed dozens of homes and knocked out power to about 2,800 households."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
