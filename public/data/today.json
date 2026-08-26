@@ -1,27 +1,13 @@
 {
   "date": "2026-08-26",
-  "timestamp": "2026-08-26T00:00:00Z",
+  "timestamp": "2026-08-26T00:44:47Z",
   "emojis": [
     {
-      "char": "🦁",
-      "label": "prince harry quits wildlife charity",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
-      "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
-      "summary": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights..."
-    },
-    {
-      "char": "🚀",
-      "label": "ukraine tanks update",
-      "url": "https://www.nytimes.com/2026/08/25/world/europe/ukraine-russia-tanks.html",
-      "title": "What Happened to the Coveted Western Tanks Sent to Ukraine?",
-      "summary": "Ukraine pleaded for the expensive weapons, and ultimately got them, but drones have rendered them almost unusable."
-    },
-    {
-      "char": "💼",
-      "label": "us-canada trade war escalates",
-      "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
-      "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
-      "summary": "Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable."
+      "char": "🇨🇦",
+      "label": "canada tariffs against trump",
+      "url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
+      "title": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
+      "summary": "Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs."
     },
     {
       "char": "🔦",
@@ -31,11 +17,25 @@
       "summary": "The footage shows dozens of men, women and children sitting in a forest."
     },
     {
+      "char": "🇮🇷",
+      "label": "iran's economy under us sanctions",
+      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
+      "title": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
+      "summary": "Experts warn that a campaign aimed at avoiding military escalation could instead provoke it, as Iranian leaders vow retaliation across the oil-rich Gulf."
+    },
+    {
       "char": "🌪️",
       "label": "tornado hits southern france",
       "url": "https://www.nytimes.com/2026/08/25/world/europe/tornado-southern-france-pomas.html",
       "title": "Tornado Rips Through Towns in Southern France",
       "summary": "An uncommonly powerful tornado destroyed dozens of homes and knocked out power to about 2,800 households."
+    },
+    {
+      "char": "👶",
+      "label": "children affected by mpox in guinea-bissau",
+      "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
+      "title": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
+      "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said,..."
     }
   ],
   "source": "ai-openai",

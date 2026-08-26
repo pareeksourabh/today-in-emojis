@@ -64019,5 +64019,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-26",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "canada tariffs against trump",
+        "url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
+        "title": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
+        "summary": "Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs."
+      },
+      {
+        "char": "🔦",
+        "label": "nigeria manhunt for kidnappers",
+        "url": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
+        "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
+        "summary": "The footage shows dozens of men, women and children sitting in a forest."
+      },
+      {
+        "char": "🇮🇷",
+        "label": "iran's economy under us sanctions",
+        "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
+        "title": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
+        "summary": "Experts warn that a campaign aimed at avoiding military escalation could instead provoke it, as Iranian leaders vow retaliation across the oil-rich Gulf."
+      },
+      {
+        "char": "🌪️",
+        "label": "tornado hits southern france",
+        "url": "https://www.nytimes.com/2026/08/25/world/europe/tornado-southern-france-pomas.html",
+        "title": "Tornado Rips Through Towns in Southern France",
+        "summary": "An uncommonly powerful tornado destroyed dozens of homes and knocked out power to about 2,800 households."
+      },
+      {
+        "char": "👶",
+        "label": "children affected by mpox in guinea-bissau",
+        "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
+        "title": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
+        "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said,..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
