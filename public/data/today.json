@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "sadness",
+    "emotion_label": "😢",
     "emoji": "😢",
-    "rationale": "The day's news is filled with distressing events, including human rights abuses, natural disasters, and violence, leading to a pervasive sense of sadness and concern.",
+    "rationale": "The news today is filled with distressing events, including violence, natural disasters, and humanitarian crises, evoking a deep sense of sadness and concern for those affected.",
     "palette": [
       "😢",
       "😡",
