@@ -3,39 +3,39 @@
   "timestamp": "2026-08-27T00:00:00Z",
   "emojis": [
     {
-      "char": "🌱",
-      "label": "ghanaians reclaiming their food",
+      "char": "🇨🇺",
+      "label": "cuban dissident in miami",
+      "url": "https://www.nytimes.com/2026/08/27/world/americas/cuba-exile-otero-alcantara.html",
+      "title": "After Whiskey With His Captors, Cuban Dissident Lands in a Miami Maelstrom",
+      "summary": "The former political prisoner Luis Manuel Otero Alcántara is unpacking 4,000 paintings he brought to Miami from Cuba and dodging criticism from exiles who once welcomed him."
+    },
+    {
+      "char": "🌊",
+      "label": "nepal flood rescue efforts",
+      "url": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods",
+      "title": "Live Updates: Rescuers Scour Himalayan Valleys for Survivors After Devastating Flood",
+      "summary": "More than 1,000 people were missing in Nepal and the Tibet region of China after a torrent of mud, water and ice swept away villages and bridges. Officials said at least 335 people had been killed."
+    },
+    {
+      "char": "🦜",
+      "label": "smuggling parrot eggs in south africa",
+      "url": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+      "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+      "summary": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife trafficking South African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered..."
+    },
+    {
+      "char": "🥗",
+      "label": "ghanaians reclaiming food power",
       "url": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
       "title": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
       "summary": "In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western imports After three years at catering school in Accra, Abiro Wisdom was certain of one thing – he did not want to go int..."
     },
     {
-      "char": "🕊️",
-      "label": "gaza cease-fire jeopardized",
-      "url": "https://www.nytimes.com/2026/08/26/world/middleeast/trump-official-israel-jeopardizing-gaza-cease-fire.html",
-      "title": "Trump’s Top Gaza Official Says Israel Is Jeopardizing the Cease-Fire",
-      "summary": "Nickolay Mladenov, the Board of Peace’s high representative for Gaza, criticized Israel for its ongoing strikes on what it says are Hamas targets, after it rejected a plan to disarm the group."
-    },
-    {
-      "char": "🚑",
-      "label": "car rams into crowd in france",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
-      "title": "Two dead and 10 hurt after car rams into crowd in northern France",
-      "summary": "A suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar."
-    },
-    {
-      "char": "💻",
-      "label": "ukraine's drone army software",
-      "url": "https://www.nytimes.com/2026/08/26/world/europe/ukraine-delta-battlefield-management.html",
-      "title": "Ukraine’s Most Potent Weapon: The Software Orchestrating Its Drone Army",
-      "summary": "The Delta system pulls together battlefield data to identify targets, creating a miles-wide “kill zone.” The technology is credited with helping to cut Russian advances to a near standstill."
-    },
-    {
-      "char": "🎤",
-      "label": "dolly parton's musical legacy",
-      "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
-      "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
-      "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer."
+      "char": "⚔️",
+      "label": "ukraine war frontline fighting",
+      "url": "https://www.nytimes.com/2026/08/27/world/europe/ukraine-russia-war-zaporizhzhia-frontline-fighting.html",
+      "title": "Where Drones Cannot See, the Ukraine War Is a Deadly Game of Cat and Mouse",
+      "summary": "Russian troops are trying to infiltrate the vast, overgrown reservoir basin of a dam they blew up three years ago as Ukrainian soldiers hunt them at close quarters."
     }
   ],
   "source": "ai-openai",
