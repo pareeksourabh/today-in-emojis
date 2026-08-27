@@ -64327,5 +64327,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-27",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "gaza envoy criticises strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
+        "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
+        "summary": "Nickolay Mladenov warns that a collapse of last October's ceasefire would be \"a point of no return\" for the region."
+      },
+      {
+        "char": "⚔️",
+        "label": "saudi response to houthis' attacks",
+        "url": "https://www.nytimes.com/2026/08/27/world/middleeast/saudi-arabia-yemen-houthis-war.html",
+        "title": "Saudi Response to Houthis’ Attacks on Ships May Be a New War",
+        "summary": "Analysts say that weeks of Houthi attacks on Saudi targets have brought the kingdom and the Iranian-backed militia to the brink of full-blown conflict, and could open a new front in the Iran war."
+      },
+      {
+        "char": "📈",
+        "label": "us toilet paper prices surge",
+        "url": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
+        "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
+        "summary": "Paper products among hardest-hit sectors after trade negotiations broke down, with 25-50% tariffs estimated Are you a Canadian boycotting US products? We’d like to hear from you Using the bathroom or having a cry is about to become more..."
+      },
+      {
+        "char": "💰",
+        "label": "greenlandic women get compensation",
+        "url": "https://www.nytimes.com/2026/08/27/world/europe/denmark-greenland-forced-contraception-compensation.html",
+        "title": "Greenlandic Women Will Finally Get Money for Forced Contraception",
+        "summary": "For decades, Denmark implanted intrauterine devices in women in Greenland in an effort to keep down the island’s population. On Thursday, the government passed a compensation bill."
+      },
+      {
+        "char": "🌊",
+        "label": "nepal-tibet floods update",
+        "url": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods",
+        "title": "Live Updates: Rescuers Scour Remote Valleys, as Survivors Describe Families Swept Away",
+        "summary": "Officials said hundreds were killed in Nepal and Tibet in a massive flood. Stunned witnesses described a torrent of debris and water carrying away villages in minutes."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
