@@ -1,41 +1,41 @@
 {
   "date": "2026-08-27",
-  "timestamp": "2026-08-27T05:55:14Z",
+  "timestamp": "2026-08-27T00:00:00Z",
   "emojis": [
     {
-      "char": "🎶",
+      "char": "🌱",
+      "label": "ghanaians reclaiming their food",
+      "url": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
+      "title": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
+      "summary": "In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western imports After three years at catering school in Accra, Abiro Wisdom was certain of one thing – he did not want to go int..."
+    },
+    {
+      "char": "🕊️",
+      "label": "gaza cease-fire jeopardized",
+      "url": "https://www.nytimes.com/2026/08/26/world/middleeast/trump-official-israel-jeopardizing-gaza-cease-fire.html",
+      "title": "Trump’s Top Gaza Official Says Israel Is Jeopardizing the Cease-Fire",
+      "summary": "Nickolay Mladenov, the Board of Peace’s high representative for Gaza, criticized Israel for its ongoing strikes on what it says are Hamas targets, after it rejected a plan to disarm the group."
+    },
+    {
+      "char": "🚑",
+      "label": "car rams into crowd in france",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
+      "title": "Two dead and 10 hurt after car rams into crowd in northern France",
+      "summary": "A suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar."
+    },
+    {
+      "char": "💻",
+      "label": "ukraine's drone army software",
+      "url": "https://www.nytimes.com/2026/08/26/world/europe/ukraine-delta-battlefield-management.html",
+      "title": "Ukraine’s Most Potent Weapon: The Software Orchestrating Its Drone Army",
+      "summary": "The Delta system pulls together battlefield data to identify targets, creating a miles-wide “kill zone.” The technology is credited with helping to cut Russian advances to a near standstill."
+    },
+    {
+      "char": "🎤",
       "label": "dolly parton's musical legacy",
       "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
       "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
       "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer."
-    },
-    {
-      "char": "🦁",
-      "label": "prince harry quits wildlife charity board",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
-      "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
-      "summary": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights..."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "trump's trade war with canada",
-      "url": "https://www.theguardian.com/us-news/2026/aug/26/trump-canada-trade-war",
-      "title": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks",
-      "summary": "The US president expected Ottawa to bow to tariff demands, but Canada is striking back – and it could cost Americans This was originally published in This Week in Trumpland. Sign up to receive it in your inbox every Wednesday Earlier thi..."
-    },
-    {
-      "char": "💉",
-      "label": "mpox outbreak in new countries",
-      "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
-      "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
-      "summary": "The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affected A fresh outbreak of mpox in Guinea Bissau – the country’s first – means the virus formerly..."
-    },
-    {
-      "char": "🔥",
-      "label": "14 newborns die in hospital fire",
-      "url": "https://www.nytimes.com/2026/08/26/world/asia/pakistan-islamabad-hospital-fire.html",
-      "title": "14 Newborns Die in Hospital Fire in Pakistan’s Capital",
-      "summary": "The fire broke out at Islamabad’s largest hospital and has become a political issue. Opposition supporters shouted, “Stop killing our children!” at an official visiting the scene."
     }
   ],
   "source": "ai-openai",
