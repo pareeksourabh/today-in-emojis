@@ -1,204 +1,43 @@
 {
-  "date": "2026-08-26",
-  "timestamp": "2026-08-26T00:00:00Z",
+  "date": "2026-08-27",
+  "timestamp": "2026-08-27T00:00:00Z",
   "emojis": [
     {
-      "char": "🦁",
-      "label": "prince harry quits wildlife charity",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
-      "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
-      "summary": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights..."
-    },
-    {
-      "char": "🚀",
-      "label": "ukraine tanks update",
-      "url": "https://www.nytimes.com/2026/08/25/world/europe/ukraine-russia-tanks.html",
-      "title": "What Happened to the Coveted Western Tanks Sent to Ukraine?",
-      "summary": "Ukraine pleaded for the expensive weapons, and ultimately got them, but drones have rendered them almost unusable."
-    },
-    {
-      "char": "💼",
-      "label": "us-canada trade war escalates",
-      "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
-      "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
-      "summary": "Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable."
-    },
-    {
-      "char": "🔦",
-      "label": "nigeria manhunt for kidnappers",
-      "url": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
-      "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
-      "summary": "The footage shows dozens of men, women and children sitting in a forest."
-    },
-    {
-      "char": "🌪️",
-      "label": "tornado hits southern france",
-      "url": "https://www.nytimes.com/2026/08/25/world/europe/tornado-southern-france-pomas.html",
-      "title": "Tornado Rips Through Towns in Southern France",
-      "summary": "An uncommonly powerful tornado destroyed dozens of homes and knocked out power to about 2,800 households."
-    },
-    {
-      "char": "🇺🇸",
-      "label": "us soldier's wife deported",
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
-      "title": "Wife of US soldier deported after Trump rollback on military family protections",
-      "summary": "Cristy Maryori Villafranca-Trejo, deported to Honduras, is latest military spouse to face removal amid Trump 2.0 The wife of an active-duty US soldier was deported on Monday to her native Honduras , according to her family and the federa..."
-    },
-    {
-      "char": "👶",
-      "label": "children affected by mpox in guinea-bissau",
-      "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
-      "title": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
-      "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said,..."
-    },
-    {
-      "char": "🌪️",
-      "label": "tornado hits southern france",
-      "url": "https://www.nytimes.com/2026/08/25/world/europe/tornado-southern-france-pomas.html",
-      "title": "Tornado Rips Through Towns in Southern France",
-      "summary": "An uncommonly powerful tornado destroyed dozens of homes and knocked out power to about 2,800 households."
-    },
-    {
-      "char": "🇨🇴",
-      "label": "colombia immigration crackdown",
-      "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
-      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
-      "summary": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Espriella, has announced a crackdown on imm..."
-    },
-    {
-      "char": "💔",
-      "label": "dozens massacred in haiti",
-      "url": "https://www.nytimes.com/2026/08/25/world/americas/haiti-massacre-kenscoff.html",
-      "title": "Dozens Massacred in Haiti, Officials Say, Heightening Fears of Gangs",
-      "summary": "Gangs targeted a key community on the outskirts of the capital, raising fears about the gangs’ next move. The mayor said at least 25 people had been killed, but the U.N. put the death toll at 47."
-    },
-    {
-      "char": "⚓",
-      "label": "us vessel strike in eastern pacific",
-      "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-      "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-      "summary": "US Southern Command has struck another vessel in the eastern Pacific, killing two accused of trafficking drugs The US military has launched a deadly strike on a vessel in the Pacific Ocean, killing two people accused of drug trafficking...."
-    },
-    {
-      "char": "⚖️",
-      "label": "turkey ordered to free businessman",
-      "url": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-      "title": "European rights court orders Turkey to free imprisoned businessman",
-      "summary": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated."
-    },
-    {
-      "char": "🚨",
-      "label": "wife of us soldier deported",
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
-      "title": "Wife of US soldier deported after Trump rollback on military family protections",
-      "summary": "Cristy Maryori Villafranca-Trejo, deported to Honduras, is latest military spouse to face removal amid Trump 2.0 The wife of an active-duty US soldier was deported on Monday to her native Honduras , according to her family and the federa..."
-    },
-    {
-      "char": "🌪️",
-      "label": "tornado tears through french village",
-      "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-      "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
-      "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital."
-    },
-    {
-      "char": "👶",
-      "label": "children half of mpox cases in guinea-bissau",
-      "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
-      "title": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
-      "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said,..."
-    },
-    {
-      "char": "🇨🇴",
-      "label": "colombia immigration crackdown",
-      "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
-      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
-      "summary": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Espriella, has announced a crackdown on imm..."
-    },
-    {
-      "char": "💍",
-      "label": "jewellery ad backlash in india",
-      "url": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
-      "title": "Indian jewellery ad pulled after backlash over actor's outfit",
-      "summary": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi."
-    },
-    {
-      "char": "🌱",
-      "label": "ghanaians reclaiming food power",
-      "url": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
-      "title": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
-      "summary": "In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western imports After three years at catering school, Abiro Wisdom was certain of one thing – he did not want to go into caterin..."
-    },
-    {
-      "char": "🇮🇷",
-      "label": "iran's economy under us sanctions",
-      "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
-      "title": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
-      "summary": "Experts warn that a campaign aimed at avoiding military escalation could instead provoke it, as Iranian leaders vow retaliation across the oil-rich Gulf."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "canada retaliates with tariffs",
-      "url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
-      "title": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
-      "summary": "Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs."
-    },
-    {
-      "char": "🧻",
-      "label": "us toilet paper prices surge",
-      "url": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
-      "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
-      "summary": "Paper products among hardest-hit sectors after trade negotiations broke down, with 25-50% tariffs estimated Are you a Canadian boycotting US products? We’d like to hear from you Using the bathroom or having a cry is about to become more..."
-    },
-    {
-      "char": "✈️",
-      "label": "airport worker dies of malaria",
-      "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-      "summary": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport."
-    },
-    {
-      "char": "⚔️",
-      "label": "far-right lawmaker damages memorial",
-      "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-      "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-      "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu."
-    },
-    {
-      "char": "🔫",
-      "label": "gang attack in haiti kills 47",
-      "url": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
-      "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
-      "summary": "Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight ‘A massacre’: Haiti gangs carrying out mass killings At least 47 people were killed and more than 50 others kidnapped when armed men atta..."
-    },
-    {
       "char": "🕊️",
-      "label": "gaza cease-fire jeopardized",
+      "label": "trump's official on gaza cease-fire",
       "url": "https://www.nytimes.com/2026/08/26/world/middleeast/trump-official-israel-jeopardizing-gaza-cease-fire.html",
       "title": "Trump’s Top Gaza Official Says Israel Is Jeopardizing the Cease-Fire",
       "summary": "Nickolay Mladenov, the Board of Peace’s high representative for Gaza, criticized Israel for its ongoing strikes on what it says are Hamas targets, after it rejected a plan to disarm the group."
+    },
+    {
+      "char": "💊",
+      "label": "breakthrough pancreatic cancer treatment",
+      "url": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+      "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+      "summary": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "canadians respond to trump tariffs",
+      "url": "https://www.nytimes.com/2026/08/26/world/canada/carney-canada-trump-tariffs-retaliate.html",
+      "title": "Canadians Stand Their Ground Amid New Trump Tariffs and Expanding U.S.-Canada Trade War",
+      "summary": "Business owners are preparing for financial pain after the latest U.S.-Canada trade talks collapsed. But many Canadians are embracing a show of resistance."
+    },
+    {
+      "char": "🔥",
+      "label": "hospital fire kills 14 newborns",
+      "url": "https://www.nytimes.com/2026/08/26/world/asia/pakistan-islamabad-hospital-fire.html",
+      "title": "14 Newborns Die in Hospital Fire in Pakistan’s Capital",
+      "summary": "The fire broke out at Islamabad’s largest hospital and has become a political issue. Opposition supporters shouted, “Stop killing our children!” at an official visiting the scene."
+    },
+    {
+      "char": "🐦",
+      "label": "arrests in parrot egg smuggling",
+      "url": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+      "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+      "summary": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife trafficking South African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "The news today is filled with distressing events, including violence, natural disasters, and humanitarian crises, evoking a deep sense of sadness and concern for those affected.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
