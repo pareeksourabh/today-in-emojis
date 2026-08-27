@@ -64371,5 +64371,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-27",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "jury deliberating in child murder case",
+        "url": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
+        "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
+        "summary": "Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis."
+      },
+      {
+        "char": "💰",
+        "label": "greenlandic women get compensation",
+        "url": "https://www.nytimes.com/2026/08/27/world/europe/denmark-greenland-forced-contraception-compensation.html",
+        "title": "Greenlandic Women Will Finally Get Money for Forced Contraception",
+        "summary": "For decades, Denmark implanted intrauterine devices in women in Greenland in an effort to keep down the island’s population. On Thursday, the government passed a compensation bill."
+      },
+      {
+        "char": "🚨",
+        "label": "wife of soldier deported to honduras",
+        "url": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
+        "title": "Wife of US soldier deported after Trump rollback on military family protections",
+        "summary": "Cristy Maryori Villafranca-Trejo, deported to Honduras, is latest military spouse to face removal amid Trump 2.0 The wife of an active-duty US soldier was deported on Monday to her native Honduras , according to her family and the federa..."
+      },
+      {
+        "char": "🌍",
+        "label": "south african police arrest for smuggling",
+        "url": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+        "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+        "summary": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife trafficking South African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered..."
+      },
+      {
+        "char": "🌊",
+        "label": "devastating floods in nepal-tibet",
+        "url": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods",
+        "title": "Live Updates: Rescuers Search for Missing and Stranded Under Threat of More Floods",
+        "summary": "Officials said hundreds were killed in Nepal and Tibet, and more than 1,400 people are missing. Stunned witnesses described a torrent of debris and water carrying away villages in minutes."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
