@@ -64591,5 +64591,49 @@
       "provider": "openai",
       "total_candidates": 29
     }
+  },
+  {
+    "date": "2026-08-28",
+    "emojis": [
+      {
+        "char": "🇮🇸",
+        "label": "iceland's eu vote heats up",
+        "url": "https://www.nytimes.com/2026/08/28/world/europe/iceland-european-union-vote.html",
+        "title": "‘The Sauna Is Hot and Uncomfortable’: Vote on E.U. Talks Makes Iceland Sweat",
+        "summary": "The usually genial country has been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union."
+      },
+      {
+        "char": "🪖",
+        "label": "us military aid cuts to allies",
+        "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
+        "title": "US plans to cut off military aid to key Middle East ally, BBC told",
+        "summary": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran."
+      },
+      {
+        "char": "👑",
+        "label": "norway's new king ascends throne",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+        "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+        "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\"."
+      },
+      {
+        "char": "🌊",
+        "label": "tropical storm dolly update",
+        "url": "https://www.theguardian.com/weather/2026/aug/28/tropical-storm-dolly-caribbean",
+        "title": "Tropical Storm Dolly downgraded to ‘open tropical wave’ as it heads to Caribbean",
+        "summary": "Remnants from tropical storm could cause heavy rainfall on Leeward Islands and affect Virgin Islands, Puerto Rico and Hispaniola Remnants of Tropical Storm Dolly, which has been downgraded to an “open tropical wave”, were moving still ac..."
+      },
+      {
+        "char": "💎",
+        "label": "diamond necklace stolen in vienna",
+        "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
+        "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
+        "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was o..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
