@@ -64503,5 +64503,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-28",
+    "emojis": [
+      {
+        "char": "📚",
+        "label": "inside afghanistan’s secret schools",
+        "url": "https://www.nytimes.com/2026/08/28/world/asia/afghanistan-girls-education.html",
+        "title": "Inside Afghanistan’s Secret Schools for Girls",
+        "summary": "The Taliban have banned education for millions of Afghan girls. Times journalists examined classrooms where students, teachers and parents continue to resist by defying the rules."
+      },
+      {
+        "char": "💎",
+        "label": "egyptian queen’s diamond necklace stolen",
+        "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
+        "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
+        "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was o..."
+      },
+      {
+        "char": "👑",
+        "label": "mourning norway's king harald v",
+        "url": "https://www.nytimes.com/2026/08/28/world/europe/king-harald-norway-death.html",
+        "title": "Mourners in Norway Remember King Harald V",
+        "summary": "Norwegians grieved a monarch who remained popular despite scandals involving the royal family. His death marks a new era for the country."
+      },
+      {
+        "char": "🌪️",
+        "label": "tropical storm dolly heads for caribbean",
+        "url": "https://www.theguardian.com/weather/2026/aug/28/tropical-storm-dolly-caribbean",
+        "title": "Tropical Storm Dolly speeding across Atlantic toward the Caribbean",
+        "summary": "Weather system is forecast to approach the Leeward Islands this weekend and may produce flash flooding Tropical Storm Dolly is moving quickly across the Atlantic Ocean toward the Leeward Islands and is expected to bring significant rainf..."
+      },
+      {
+        "char": "🌍",
+        "label": "nepal glacier collapse causes flooding",
+        "url": "https://www.nytimes.com/2026/08/28/world/australia/nepal-flood-glacier-collapse.html",
+        "title": "Disaster Experts Say Nepal Glacier Collapse Was Difficult to Predict",
+        "summary": "Given the challenges in forecasting and detecting such calamities, researchers advised banning construction on floodplains and marking out clear evacuation routes."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
