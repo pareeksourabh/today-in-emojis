@@ -1,64 +1,43 @@
 {
   "date": "2026-08-28",
-  "timestamp": "2026-08-28T00:39:34Z",
+  "timestamp": "2026-08-28T00:00:00Z",
   "emojis": [
     {
-      "char": "🚗",
-      "label": "canadian car theft epidemic",
-      "url": "https://www.nytimes.com/2026/08/27/world/canada/canada-car-theft-russia-sanctions.html",
-      "title": "Russian Sanctions Are Fueling a Canadian Car Theft Epidemic",
-      "summary": "Russia is the largest destination for stolen Canadian cars. Smugglers are meeting the demand of a booming black market."
+      "char": "🦜",
+      "label": "south african police arrest for smuggling",
+      "url": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+      "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+      "summary": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife trafficking South African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered..."
     },
     {
-      "char": "🇶🇦",
-      "label": "qatari pm visits iran",
-      "url": "https://www.nytimes.com/2026/08/27/world/middleeast/qatar-visit-iran.html",
-      "title": "Qatari Prime Minister Travels to Tehran as Iran War Nears Six-Month Mark",
-      "summary": "Sheikh Mohammed bin Abdulrahman Al Thani has been a key mediator in the conflict, even as his country has blamed Tehran for hundreds of missile and drone attacks."
+      "char": "💰",
+      "label": "greenlandic women get compensation",
+      "url": "https://www.nytimes.com/2026/08/27/world/europe/denmark-greenland-forced-contraception-compensation.html",
+      "title": "Greenlandic Women Will Finally Get Money for Forced Contraception",
+      "summary": "For decades, Denmark implanted intrauterine devices in women in Greenland in an effort to keep down the island’s population. On Thursday, the government passed a compensation bill."
     },
     {
       "char": "🌊",
-      "label": "nepal-tibet floods aftermath",
+      "label": "nepal-tibet floods caused by glacier collapse",
       "url": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
       "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
       "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice."
     },
     {
-      "char": "🎓",
-      "label": "canada hires us scholars",
-      "url": "https://www.nytimes.com/2026/08/27/world/canada/canada-universities-hire-us-researchers.html",
-      "title": "Canada Hires U.S. Scholars From Harvard and Other Top Universities",
-      "summary": "A crackdown on American academia by the Trump administration has handed Canadian universities a rare opportunity to lure some top researchers north."
+      "char": "⚖️",
+      "label": "mladić dies, war criminal legacy",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+      "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+      "summary": "He was jailed for life in 2017 for genocide, war crimes and crimes against humanity during the wars in the ex-Yugoslavia in 1992-95."
     },
     {
-      "char": "🕊️",
-      "label": "saudi response to houthis",
-      "url": "https://www.nytimes.com/2026/08/27/world/middleeast/saudi-arabia-yemen-houthis-war.html",
-      "title": "Saudi Response to Houthis’ Attacks on Ships May Be a New War",
-      "summary": "Analysts say that weeks of Houthi attacks on Saudi targets have brought the kingdom and the Iranian-backed militia to the brink of full-blown conflict, and could open a new front in the Iran war."
+      "char": "🇺🇸",
+      "label": "trump renames lake ontario",
+      "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
+      "title": "Trump signs executive order to rename Lake Ontario as Lake America",
+      "summary": "Mark Carney rejects attempt to rename lake as did several US governors, with Tony Evers mocking the move US politics live – latest updates Donald Trump signed an executive order on Thursday directing the federal government to rename Lake..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😨",
-    "emoji": "😨",
-    "rationale": "Today's news highlights alarming issues such as car theft linked to international crime, the potential for escalating conflicts in the Middle East, and environmental disasters from climate change, creating an atmosphere of anxiety and fear.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
