@@ -64415,5 +64415,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-28",
+    "emojis": [
+      {
+        "char": "🚗",
+        "label": "canadian car theft epidemic",
+        "url": "https://www.nytimes.com/2026/08/27/world/canada/canada-car-theft-russia-sanctions.html",
+        "title": "Russian Sanctions Are Fueling a Canadian Car Theft Epidemic",
+        "summary": "Russia is the largest destination for stolen Canadian cars. Smugglers are meeting the demand of a booming black market."
+      },
+      {
+        "char": "🇶🇦",
+        "label": "qatari pm visits iran",
+        "url": "https://www.nytimes.com/2026/08/27/world/middleeast/qatar-visit-iran.html",
+        "title": "Qatari Prime Minister Travels to Tehran as Iran War Nears Six-Month Mark",
+        "summary": "Sheikh Mohammed bin Abdulrahman Al Thani has been a key mediator in the conflict, even as his country has blamed Tehran for hundreds of missile and drone attacks."
+      },
+      {
+        "char": "🌊",
+        "label": "nepal-tibet floods aftermath",
+        "url": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
+        "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+        "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice."
+      },
+      {
+        "char": "🎓",
+        "label": "canada hires us scholars",
+        "url": "https://www.nytimes.com/2026/08/27/world/canada/canada-universities-hire-us-researchers.html",
+        "title": "Canada Hires U.S. Scholars From Harvard and Other Top Universities",
+        "summary": "A crackdown on American academia by the Trump administration has handed Canadian universities a rare opportunity to lure some top researchers north."
+      },
+      {
+        "char": "🕊️",
+        "label": "saudi response to houthis",
+        "url": "https://www.nytimes.com/2026/08/27/world/middleeast/saudi-arabia-yemen-houthis-war.html",
+        "title": "Saudi Response to Houthis’ Attacks on Ships May Be a New War",
+        "summary": "Analysts say that weeks of Houthi attacks on Saudi targets have brought the kingdom and the Iranian-backed militia to the brink of full-blown conflict, and could open a new front in the Iran war."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
