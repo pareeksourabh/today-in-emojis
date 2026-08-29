@@ -64679,5 +64679,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-29",
+    "emojis": [
+      {
+        "char": "🌪️",
+        "label": "tropical storm downgraded",
+        "url": "https://www.theguardian.com/weather/2026/aug/28/tropical-storm-dolly-caribbean",
+        "title": "Tropical Storm Dolly downgraded to ‘open tropical wave’ as it heads to Caribbean",
+        "summary": "Remnants from tropical storm could cause heavy rainfall on Leeward Islands and affect Virgin Islands, Puerto Rico and Hispaniola Remnants of Tropical Storm Dolly, which has been downgraded to an “open tropical wave”, were moving still ac..."
+      },
+      {
+        "char": "🇮🇸",
+        "label": "iceland votes on eu talks",
+        "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+        "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+        "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry."
+      },
+      {
+        "char": "🛢️",
+        "label": "us seeks stake in venezuela oil",
+        "url": "https://www.theguardian.com/world/2026/aug/28/us-venezuela-oil-gas-stake",
+        "title": "Venezuelan opposition up in arms over reports US wants big stake in oil and gas",
+        "summary": "Critics call move to gain long-term access to country’s massive energy reserves ‘predatory’ and ‘unconstitutional’ Reports that the US is preparing to claim a big stake in Venezuela’s massive energy reserves have sparked an outcry, with..."
+      },
+      {
+        "char": "🌊",
+        "label": "nepal flood disaster updates",
+        "url": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
+        "title": "Live Updates: Scale of Flood Disaster Grows as Nepal Doubles Estimate of Missing",
+        "summary": "A spokeswoman for the Nepali disaster relief agency said the tally grew to 1,900 after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new flooding."
+      },
+      {
+        "char": "👑",
+        "label": "norway mourns new king",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+        "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+        "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\"."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
