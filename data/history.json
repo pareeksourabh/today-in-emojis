@@ -64723,5 +64723,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-29",
+    "emojis": [
+      {
+        "char": "🇮🇳",
+        "label": "modi hedges against trump",
+        "url": "https://www.nytimes.com/2026/08/29/world/asia/modi-india-deals-trump.html",
+        "title": "Modi Is Hedging Against Trump, One Deal at a Time",
+        "summary": "In a year of globe-trotting, the Indian prime minister has secured deals around the world as the United States becomes less dependable."
+      },
+      {
+        "char": "🌊",
+        "label": "nepal floods search continues",
+        "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+        "title": "‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods",
+        "summary": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation."
+      },
+      {
+        "char": "🇨🇴",
+        "label": "colombia ex-guerrillas fear fate",
+        "url": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
+        "title": "They laid down arms. Now ex-guerrillas in Colombia fear fate under new hardline president",
+        "summary": "‘Total peace’ plan of previous government led only 99 of Colombia’s 30,000 armed combatants to disarm, but new president Abelardo De la Espriella opposes peace agreements In mid-June, 99 guerrilla fighters were flown by helicopter to a s..."
+      },
+      {
+        "char": "💎",
+        "label": "egyptian queen's necklace stolen",
+        "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
+        "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
+        "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was o..."
+      },
+      {
+        "char": "🌪️",
+        "label": "tropical storm dolly downgraded",
+        "url": "https://www.theguardian.com/weather/2026/aug/28/tropical-storm-dolly-caribbean",
+        "title": "Tropical Storm Dolly downgraded to ‘open tropical wave’ as it heads to Caribbean",
+        "summary": "Remnants from tropical storm could cause heavy rainfall on Leeward Islands and affect Virgin Islands, Puerto Rico and Hispaniola Remnants of Tropical Storm Dolly, which has been downgraded to an “open tropical wave”, were moving still ac..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
