@@ -64635,5 +64635,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-29",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "trump renames lake ontario",
+        "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
+        "title": "Trump signs executive order to rename Lake Ontario as Lake America",
+        "summary": "Mark Carney rejects attempt to rename lake as did several US governors, with Tony Evers mocking the move US politics live – latest updates Donald Trump signed an executive order on Thursday directing the federal government to rename Lake..."
+      },
+      {
+        "char": "🛢️",
+        "label": "us oil deal with venezuela",
+        "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+        "title": "Trump announces new US oil agreement with Venezuela",
+        "summary": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control..."
+      },
+      {
+        "char": "🐦",
+        "label": "smuggling parrot eggs in sa",
+        "url": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+        "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+        "summary": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife trafficking South African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered..."
+      },
+      {
+        "char": "🌍",
+        "label": "mpox outbreak explainer",
+        "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
+        "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
+        "summary": "The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affected A fresh outbreak of mpox in Guinea Bissau – the country’s first – means the virus formerly..."
+      },
+      {
+        "char": "🏰",
+        "label": "visiting irish castle",
+        "url": "https://www.nytimes.com/2026/08/28/world/europe/ireland-dunguaire-castle.html",
+        "title": "You Can Photograph This Pretty Irish Castle. You Just Can’t Go In.",
+        "summary": "Tourists still flock to the picturesque 16th-century Dunguaire Castle on Galway Bay. But in recent years, a dispute over ownership has prevented visitors from entering."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
