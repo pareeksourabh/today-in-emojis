@@ -1,41 +1,41 @@
 {
   "date": "2026-08-29",
-  "timestamp": "2026-08-29T13:41:34Z",
+  "timestamp": "2026-08-29T00:00:00Z",
   "emojis": [
     {
+      "char": "🇨🇦",
+      "label": "canada supports trump's trade deal",
+      "url": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
+      "title": "Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.",
+      "summary": "The U.S.-Canada trade war has galvanized Canadians behind their prime minister’s decision to walk away from negotiations. What happens when the time comes for talks to restart?"
+    },
+    {
+      "char": "🛢️",
+      "label": "us controls venezuela's oil deal",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
+    },
+    {
+      "char": "🇮🇸",
+      "label": "iceland votes on eu membership",
+      "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry."
+    },
+    {
       "char": "🌊",
-      "label": "nepal floods search for missing",
+      "label": "nepal floods leave thousands missing",
       "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
-      "title": "‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods",
+      "title": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
       "summary": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation."
     },
     {
-      "char": "🦠",
-      "label": "mpox outbreak in new countries",
-      "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
-      "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
-      "summary": "The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affected A fresh outbreak of mpox in Guinea Bissau – the country’s first – means the virus formerly..."
-    },
-    {
-      "char": "🌪️",
-      "label": "tropical storm dolly downgraded",
-      "url": "https://www.theguardian.com/weather/2026/aug/28/tropical-storm-dolly-caribbean",
-      "title": "Tropical Storm Dolly downgraded to ‘open tropical wave’ as it heads to Caribbean",
-      "summary": "Remnants from tropical storm could cause heavy rainfall on Leeward Islands and affect Virgin Islands, Puerto Rico and Hispaniola Remnants of Tropical Storm Dolly, which has been downgraded to an “open tropical wave”, were moving still ac..."
-    },
-    {
-      "char": "🇺🇸",
-      "label": "trump's trade war in detroit",
-      "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
-      "title": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
-      "summary": "Unpopular new policy comes as midterms loom and control of Congress could be decided by several Michigan races Every day $1bn worth of goods crosses the river dividing Detroit, Michigan, and Windsor, Ontario, two largely blue-collar US a..."
-    },
-    {
-      "char": "💎",
-      "label": "egyptian queen's necklace stolen",
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
-      "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
-      "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was o..."
+      "char": "💔",
+      "label": "ukraine strike kills 37 in kyiv",
+      "url": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
+      "title": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
+      "summary": "The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said."
     }
   ],
   "source": "ai-openai",
