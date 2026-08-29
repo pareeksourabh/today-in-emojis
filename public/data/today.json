@@ -1,43 +1,204 @@
 {
   "date": "2026-08-29",
-  "timestamp": "2026-08-29T18:56:37Z",
+  "timestamp": "2026-08-29T00:00:00Z",
   "emojis": [
     {
-      "char": "🇬🇧",
-      "label": "uk urged to help free british-egyptian",
-      "url": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
-      "title": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
-      "summary": "Lawyers claim Eman el-Shazly, from Birmingham, was detained in effort to silence her sister, a critic of Sisi regime The UK Foreign Office has been asked to intervene to secure the release of a British-Egyptian woman who it is claimed ha..."
+      "char": "🌊",
+      "label": "nepal flood disaster updates",
+      "url": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
+      "title": "Live Updates: Scale of Flood Disaster Grows as Nepal Doubles Estimate of Missing",
+      "summary": "A spokeswoman for the Nepali disaster relief agency said the tally grew to 1,900 after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new flooding."
     },
     {
-      "char": "🇮🇸",
-      "label": "iceland votes on joining eu talks",
-      "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-      "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry."
+      "char": "🦠",
+      "label": "mpox outbreak in new countries",
+      "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
+      "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
+      "summary": "The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affected A fresh outbreak of mpox in Guinea Bissau – the country’s first – means the virus formerly..."
+    },
+    {
+      "char": "👑",
+      "label": "norway mourns king harald",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+      "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\"."
+    },
+    {
+      "char": "🛢️",
+      "label": "us seeks stake in venezuela oil",
+      "url": "https://www.theguardian.com/world/2026/aug/28/us-venezuela-oil-gas-stake",
+      "title": "Venezuelan opposition up in arms over reports US wants big stake in oil and gas",
+      "summary": "Critics call move to gain long-term access to country’s massive energy reserves ‘predatory’ and ‘unconstitutional’ Reports that the US is preparing to claim a big stake in Venezuela’s massive energy reserves have sparked an outcry, with..."
+    },
+    {
+      "char": "🐦",
+      "label": "smuggling parrot eggs in south africa",
+      "url": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+      "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+      "summary": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife trafficking South African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered..."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "canada poaches us researchers",
+      "url": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
+      "title": "Canada poaches dozens of top US researchers for its universities",
+      "summary": "Researchers in fields like climate and medicine are being lured north by new research funding."
+    },
+    {
+      "char": "🇮🇷",
+      "label": "iran appears stronger after six months",
+      "url": "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html",
+      "title": "Six Months In, Iran Appears Stronger and U.S. Goals Unclear",
+      "summary": "Trump’s replacement of a military war with a heightened economic one is not expected to alter Iran’s strategy, while further impoverishing its people."
+    },
+    {
+      "char": "🏰",
+      "label": "pretty irish castle open for photos",
+      "url": "https://www.nytimes.com/2026/08/28/world/europe/ireland-dunguaire-castle.html",
+      "title": "You Can Photograph This Pretty Irish Castle. You Just Can’t Go In.",
+      "summary": "Tourists still flock to the picturesque 16th-century Dunguaire Castle on Galway Bay. But in recent years, a dispute over ownership has prevented visitors from entering."
+    },
+    {
+      "char": "🌊",
+      "label": "nepal glacier collapse disaster",
+      "url": "https://www.nytimes.com/2026/08/28/world/asia/nepal-flood-glacier-collapse.html",
+      "title": "Disaster Experts Say Nepal Glacier Collapse Was Difficult to Predict",
+      "summary": "Given the challenges in forecasting and detecting such calamities, researchers advised banning construction on floodplains and marking out clear evacuation routes."
+    },
+    {
+      "char": "🇻🇪",
+      "label": "trump's oil agreement with venezuela",
+      "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+      "title": "Trump announces new US oil agreement with Venezuela",
+      "summary": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control..."
+    },
+    {
+      "char": "🇷🇺",
+      "label": "putin's ongoing fight in ukraine",
+      "url": "https://www.nytimes.com/2026/08/28/world/europe/russia-ukraine-war-putin.html",
+      "title": "Why Putin Is Fighting On, Even as His Problems Multiply",
+      "summary": "There is little sign that public exhaustion, economic headwinds or increased Ukrainian strikes are changing the Russian leader’s view that he will eventually achieve victory."
+    },
+    {
+      "char": "🌊",
+      "label": "nepal flood disaster updates",
+      "url": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
+      "title": "Live Updates: Scale of Flood Disaster Grows as Nepal Says 2,400 Are Missing",
+      "summary": "More than 550 were still missing in China, and rescue efforts in both countries were complicated by fears of new flooding in the steep Himalayan valleys."
+    },
+    {
+      "char": "🛢️",
+      "label": "us seeks stake in venezuela oil",
+      "url": "https://www.theguardian.com/world/2026/aug/28/us-venezuela-oil-gas-stake",
+      "title": "Venezuelan opposition up in arms over reports US wants big stake in oil and gas",
+      "summary": "Critics call move to gain long-term access to country’s massive energy reserves ‘predatory’ and ‘unconstitutional’ Reports that the US is preparing to claim a big stake in Venezuela’s massive energy reserves have sparked an outcry, with..."
+    },
+    {
+      "char": "👑",
+      "label": "norway's new king haakon",
+      "url": "https://www.nytimes.com/2026/08/28/world/europe/norway-new-king-haakon.html",
+      "title": "Who Is Haakon, Norway’s New King?",
+      "summary": "Crown Prince Haakon, the only son of King Harald V, will become monarch, a largely ceremonial and symbolic role."
     },
     {
       "char": "💎",
-      "label": "egyptian queen's diamond necklace stolen",
+      "label": "diamond necklace stolen in vienna",
       "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
       "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
       "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was o..."
     },
     {
+      "char": "🐦",
+      "label": "south african parrot egg smuggling",
+      "url": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+      "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+      "summary": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife trafficking South African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered..."
+    },
+    {
+      "char": "💰",
+      "label": "trump's oil deal with venezuela",
+      "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+      "title": "Trump announces new US oil agreement with Venezuela",
+      "summary": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control..."
+    },
+    {
+      "char": "🌊",
+      "label": "nepal floods rescue efforts",
+      "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+      "title": "‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods",
+      "summary": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation."
+    },
+    {
+      "char": "💎",
+      "label": "egyptian queen's stolen necklace",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
+      "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
+      "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was o..."
+    },
+    {
+      "char": "📈",
+      "label": "meta's us lawsuit settlement impact",
+      "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
+      "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
+      "summary": "Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the Netherlands In October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bah..."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "canada supports trump's trade deal",
+      "url": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
+      "title": "Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.",
+      "summary": "The U.S.-Canada trade war has galvanized Canadians behind their prime minister’s decision to walk away from negotiations. What happens when the time comes for talks to restart?"
+    },
+    {
       "char": "🛢️",
-      "label": "trump's deal for venezuela's oil",
+      "label": "us controls venezuela's oil deal",
       "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
     },
     {
+      "char": "🇮🇸",
+      "label": "iceland votes on eu membership",
+      "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry."
+    },
+    {
       "char": "🌊",
-      "label": "search for missing in nepal floods",
+      "label": "nepal floods leave thousands missing",
       "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
       "title": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
       "summary": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation."
+    },
+    {
+      "char": "💔",
+      "label": "ukraine strike kills 37 in kyiv",
+      "url": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
+      "title": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
+      "summary": "The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Sorrow",
+    "emoji": "😢",
+    "rationale": "The news highlights significant disasters, including floods in Nepal and a resurgence of disease outbreaks, creating an overall atmosphere of sorrow and concern for human suffering.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
