@@ -65075,5 +65075,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-30",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "meta's global lawsuit impact",
+        "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
+        "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
+        "summary": "Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the Netherlands In October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bah..."
+      },
+      {
+        "char": "🌊",
+        "label": "tibet flood casualties",
+        "url": "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html",
+        "title": "China Says 261 Foreigners From 23 Countries Are Missing in Tibet Flood",
+        "summary": "The disclosure offered one of the clearest pictures yet of the disaster on the Chinese side of the border, where authorities have released few details."
+      },
+      {
+        "char": "🎉",
+        "label": "shooting at swiss rave",
+        "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+        "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+        "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich."
+      },
+      {
+        "char": "🏰",
+        "label": "moving a castle in japan",
+        "url": "https://www.nytimes.com/2026/08/30/world/asia/japan-hirosaki-castle-moving.html",
+        "title": "The People of Hirosaki, Japan, Try to Move a Castle by Hand",
+        "summary": "In Japan, the ancient tradition of hikiya involves moving buildings with ropes and rollers. About 4,000 people teamed up to try it on Hirosaki Castle."
+      },
+      {
+        "char": "💎",
+        "label": "stolen diamond necklace",
+        "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
+        "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
+        "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was o..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
