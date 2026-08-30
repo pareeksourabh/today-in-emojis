@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concern",
-    "emoji": "😨",
-    "rationale": "The news highlights significant issues such as natural disasters, public health concerns, and political tensions, evoking feelings of anxiety and concern about global events.",
+    "emotion_label": "😔",
+    "emoji": "😔",
+    "rationale": "The day is marked by significant distressing events, including ongoing natural disasters and humanitarian crises, overshadowing moments of progress or hope.",
     "palette": [
       "😢",
       "😡",
