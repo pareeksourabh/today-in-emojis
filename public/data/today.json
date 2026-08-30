@@ -1,43 +1,204 @@
 {
   "date": "2026-08-30",
-  "timestamp": "2026-08-30T18:51:43Z",
+  "timestamp": "2026-08-30T00:00:00Z",
   "emojis": [
     {
-      "char": "🌍",
-      "label": "meta's global lawsuit impact",
+      "char": "🇮🇸",
+      "label": "iceland's eu membership talks",
+      "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html",
+      "title": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
+      "summary": "A few years ago, some feared the European Union was going out of style. Now Iceland is mulling membership alongside a long list of candidates."
+    },
+    {
+      "char": "🦠",
+      "label": "mpox outbreak in new countries",
+      "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
+      "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
+      "summary": "The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affected A fresh outbreak of mpox in Guinea Bissau – the country’s first – means the virus formerly..."
+    },
+    {
+      "char": "💼",
+      "label": "meta's global lawsuit settlement",
       "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
       "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
       "summary": "Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the Netherlands In October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bah..."
     },
     {
+      "char": "🛢️",
+      "label": "us seeks stake in venezuelan oil",
+      "url": "https://www.theguardian.com/world/2026/aug/28/us-venezuela-oil-gas-stake",
+      "title": "Venezuelan opposition up in arms over reports US wants big stake in oil and gas",
+      "summary": "Critics call move to gain long-term access to country’s massive energy reserves ‘predatory’ and ‘unconstitutional’ Reports that the US is preparing to claim a big stake in Venezuela’s massive energy reserves have sparked an outcry, with..."
+    },
+    {
       "char": "🌊",
-      "label": "tibet flood casualties",
+      "label": "nepal flood rescue efforts",
+      "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+      "title": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
+      "summary": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation."
+    },
+    {
+      "char": "🇻🇪",
+      "label": "trump's oil deal with venezuela",
+      "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+      "title": "Trump announces new US oil agreement with Venezuela",
+      "summary": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control..."
+    },
+    {
+      "char": "🇹🇷",
+      "label": "turkey-israel tensions rise",
+      "url": "https://www.nytimes.com/2026/08/29/world/middleeast/turkey-israel-tensions-region.html",
+      "title": "Turkey and Israel Vie for Middle East Influence as Tensions Spike",
+      "summary": "Israel’s strike on a Syrian base to pre-empt the feared deployment of Turkish forces was part of a growing competition in the Middle East and beyond."
+    },
+    {
+      "char": "🇬🇧",
+      "label": "uk urged to help egyptian activist",
+      "url": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
+      "title": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
+      "summary": "Lawyers claim Eman el-Shazly, from Birmingham, was detained in effort to silence her sister, a critic of Sisi regime The UK Foreign Office has been asked to intervene to secure the release of a British-Egyptian woman who it is claimed ha..."
+    },
+    {
+      "char": "🌧️",
+      "label": "nepal floods rescue efforts",
+      "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
+      "title": "Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods",
+      "summary": "The Nepal Army, which is leading rescue efforts, turned to the trapped workers more than a day after the flood, according to army officials, industry groups and private rescuers."
+    },
+    {
+      "char": "🐦",
+      "label": "south africa arrests for parrot smuggling",
+      "url": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+      "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+      "summary": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife trafficking South African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered..."
+    },
+    {
+      "char": "🇮🇸",
+      "label": "iceland eu referendum on edge",
+      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "title": "Iceland EU referendum on a knife edge as counting continues",
+      "summary": "A vote on whether to resume membership talks with the European Union is too close to call."
+    },
+    {
+      "char": "🌊",
+      "label": "nepal floods rescue efforts ongoing",
+      "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
+      "title": "Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods",
+      "summary": "The Nepal Army, which is leading rescue efforts, turned to the trapped workers more than a day after the flood, according to army officials, industry groups and private rescuers."
+    },
+    {
+      "char": "🦜",
+      "label": "south africa arrests for parrot egg smuggling",
+      "url": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+      "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+      "summary": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife trafficking South African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered..."
+    },
+    {
+      "char": "📚",
+      "label": "afghanistan's secret schools for girls",
+      "url": "https://www.nytimes.com/2026/08/28/world/asia/afghanistan-girls-education.html",
+      "title": "Inside Afghanistan’s Secret Schools for Girls",
+      "summary": "The Taliban have banned education for millions of Afghan girls. Times journalists examined classrooms where students, teachers and parents continue to resist by defying the rules."
+    },
+    {
+      "char": "💎",
+      "label": "diamond necklace stolen in vienna",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
+      "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
+      "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was o..."
+    },
+    {
+      "char": "💥",
+      "label": "ukraine strike kills 37",
+      "url": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
+      "title": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
+      "summary": "The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said."
+    },
+    {
+      "char": "🇿🇲",
+      "label": "zambian leader charged with treason",
+      "url": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+      "title": "Zambian opposition leader charged with treason",
+      "summary": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital."
+    },
+    {
+      "char": "🌊",
+      "label": "tibet flood leaves 261 missing",
       "url": "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html",
       "title": "China Says 261 Foreigners From 23 Countries Are Missing in Tibet Flood",
       "summary": "The disclosure offered one of the clearest pictures yet of the disaster on the Chinese side of the border, where authorities have released few details."
     },
     {
-      "char": "🎉",
-      "label": "shooting at swiss rave",
-      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich."
+      "char": "🛢️",
+      "label": "iran faces gas shortages amid blockade",
+      "url": "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html",
+      "title": "Long Lines for Gas in Iran Show War and U.S. Blockade Squeezing Supply",
+      "summary": "The government is struggling to meet a shortfall in fuel and is wary that higher prices at the pump could stir unrest."
     },
     {
       "char": "🏰",
-      "label": "moving a castle in japan",
+      "label": "japan moves castle by hand",
       "url": "https://www.nytimes.com/2026/08/30/world/asia/japan-hirosaki-castle-moving.html",
       "title": "The People of Hirosaki, Japan, Try to Move a Castle by Hand",
       "summary": "In Japan, the ancient tradition of hikiya involves moving buildings with ropes and rollers. About 4,000 people teamed up to try it on Hirosaki Castle."
     },
     {
+      "char": "🇬🇧",
+      "label": "uk urged to help free british-egyptian",
+      "url": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
+      "title": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
+      "summary": "Lawyers claim Eman el-Shazly, from Birmingham, was detained in effort to silence her sister, a critic of Sisi regime The UK Foreign Office has been asked to intervene to secure the release of a British-Egyptian woman who it is claimed ha..."
+    },
+    {
+      "char": "🌊",
+      "label": "iceland votes against eu membership talks",
+      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "title": "Iceland votes against restarting EU membership talks",
+      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks."
+    },
+    {
+      "char": "🏰",
+      "label": "hirosaki people try to move a castle",
+      "url": "https://www.nytimes.com/2026/08/30/world/asia/japan-hirosaki-castle-moving.html",
+      "title": "The People of Hirosaki, Japan, Try to Move a Castle by Hand",
+      "summary": "In Japan, the ancient tradition of hikiya involves moving buildings with ropes and rollers. About 4,000 people teamed up to try it on Hirosaki Castle."
+    },
+    {
+      "char": "💔",
+      "label": "humanitarian crisis worsening in sudan",
+      "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+      "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
+      "summary": "More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirts Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, accordi..."
+    },
+    {
       "char": "💎",
-      "label": "stolen diamond necklace",
+      "label": "egyptian queen's diamond necklace stolen",
       "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
       "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
       "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was o..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concern",
+    "emoji": "😨",
+    "rationale": "The news highlights significant issues such as natural disasters, public health concerns, and political tensions, evoking feelings of anxiety and concern about global events.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
