@@ -65295,5 +65295,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-31",
+    "emojis": [
+      {
+        "char": "💎",
+        "label": "queen's diamond necklace stolen",
+        "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
+        "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
+        "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was o..."
+      },
+      {
+        "char": "🇺🇸",
+        "label": "trump's oil deal with venezuela",
+        "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+        "title": "Trump announces new US oil agreement with Venezuela",
+        "summary": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control..."
+      },
+      {
+        "char": "🛡️",
+        "label": "ukraine faces drone attacks",
+        "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
+        "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
+        "summary": "The nearly constant air raids, a shift from years of largely overnight attacks, have left residents exhausted and on edge."
+      },
+      {
+        "char": "🔫",
+        "label": "swiss rave shooting incident",
+        "url": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
+        "title": "Man arrested after Swiss rave shooting that killed woman",
+        "summary": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau."
+      },
+      {
+        "char": "⚖️",
+        "label": "un committee on slavery reparations",
+        "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
+        "title": "Countries legally obliged to consider slavery reparations, says UN committee",
+        "summary": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other ⁠measu..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
