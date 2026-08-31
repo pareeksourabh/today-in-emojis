@@ -1,41 +1,41 @@
 {
   "date": "2026-08-31",
-  "timestamp": "2026-08-31T00:00:00Z",
+  "timestamp": "2026-08-31T02:31:21Z",
   "emojis": [
     {
-      "char": "🛥️",
-      "label": "ferry capsizes off cyprus",
-      "url": "https://www.nytimes.com/2026/08/30/world/europe/cyprus-ferry-capsizes-turkey.html",
-      "title": "Ferry Carrying Hundreds of Passengers Capsizes Off Coast of Cyprus",
-      "summary": "Local authorities said 267 people were aboard the catamaran-type vessel when it began taking on water shortly after its departure from Kyrenia."
-    },
-    {
       "char": "🔫",
-      "label": "shooting at swiss rave",
-      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich."
+      "label": "deadly shooting at swiss rave",
+      "url": "https://www.nytimes.com/2026/08/30/world/europe/switzerland-rave-shooting.html",
+      "title": "Hunt Underway After Deadly Shooting at Swiss Rave",
+      "summary": "One reveler was killed and five were injured early Sunday at a dance party at a horseracing track in Switzerland’s north."
     },
     {
-      "char": "🇬🇧",
-      "label": "uk urged to help egyptian",
-      "url": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
-      "title": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
-      "summary": "Lawyers claim Eman el-Shazly, from Birmingham, was detained in effort to silence her sister, a critic of Sisi regime The UK Foreign Office has been asked to intervene to secure the release of a British-Egyptian woman who it is claimed ha..."
+      "char": "🇨🇴",
+      "label": "colombian guerrillas' fate debated",
+      "url": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
+      "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
+      "summary": "Fighters in legal limbo after accepting ‘total peace’ plan of Petro government just days before hardliner Abelardo De la Espriella took over In mid-June, 99 guerrilla fighters were flown by helicopter to a small settlement in a rural are..."
     },
     {
-      "char": "🌊",
-      "label": "nepal floods mass burials",
-      "url": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html",
-      "title": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
-      "summary": "Only a fraction of the over 2,500 missing are turning up among the dead, underscoring a bleak reality: The death toll is likely to keep rising for days to come."
+      "char": "🇮🇸",
+      "label": "iceland votes against eu talks",
+      "url": "https://www.nytimes.com/2026/08/30/world/europe/iceland-eu-referendum-talks.html",
+      "title": "Iceland Votes to Steer Clear of European Union Talks",
+      "summary": "After divisive debate, Icelanders rejected a proposal to resume negotiations on joining the bloc in a referendum with the highest voter turnout in almost two decades."
+    },
+    {
+      "char": "🏰",
+      "label": "moving a castle in japan",
+      "url": "https://www.nytimes.com/2026/08/30/world/asia/japan-hirosaki-castle-moving.html",
+      "title": "The People of Hirosaki, Japan, Try to Move a Castle by Hand",
+      "summary": "In Japan, the ancient tradition of hikiya involves moving buildings with ropes and rollers. About 4,000 people teamed up to try it on Hirosaki Castle."
     },
     {
       "char": "🌍",
-      "label": "nasa launches new telescope",
-      "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
-      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter."
+      "label": "humanitarian crisis in sudan",
+      "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+      "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
+      "summary": "More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirts Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, accordi..."
     }
   ],
   "source": "ai-openai",

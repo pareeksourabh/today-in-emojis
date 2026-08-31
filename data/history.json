@@ -65119,5 +65119,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-31",
+    "emojis": [
+      {
+        "char": "🔫",
+        "label": "deadly shooting at swiss rave",
+        "url": "https://www.nytimes.com/2026/08/30/world/europe/switzerland-rave-shooting.html",
+        "title": "Hunt Underway After Deadly Shooting at Swiss Rave",
+        "summary": "One reveler was killed and five were injured early Sunday at a dance party at a horseracing track in Switzerland’s north."
+      },
+      {
+        "char": "🇨🇴",
+        "label": "colombian guerrillas' fate debated",
+        "url": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
+        "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
+        "summary": "Fighters in legal limbo after accepting ‘total peace’ plan of Petro government just days before hardliner Abelardo De la Espriella took over In mid-June, 99 guerrilla fighters were flown by helicopter to a small settlement in a rural are..."
+      },
+      {
+        "char": "🇮🇸",
+        "label": "iceland votes against eu talks",
+        "url": "https://www.nytimes.com/2026/08/30/world/europe/iceland-eu-referendum-talks.html",
+        "title": "Iceland Votes to Steer Clear of European Union Talks",
+        "summary": "After divisive debate, Icelanders rejected a proposal to resume negotiations on joining the bloc in a referendum with the highest voter turnout in almost two decades."
+      },
+      {
+        "char": "🏰",
+        "label": "moving a castle in japan",
+        "url": "https://www.nytimes.com/2026/08/30/world/asia/japan-hirosaki-castle-moving.html",
+        "title": "The People of Hirosaki, Japan, Try to Move a Castle by Hand",
+        "summary": "In Japan, the ancient tradition of hikiya involves moving buildings with ropes and rollers. About 4,000 people teamed up to try it on Hirosaki Castle."
+      },
+      {
+        "char": "🌍",
+        "label": "humanitarian crisis in sudan",
+        "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+        "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
+        "summary": "More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirts Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, accordi..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
