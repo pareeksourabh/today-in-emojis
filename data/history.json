@@ -65207,5 +65207,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-31",
+    "emojis": [
+      {
+        "char": "⚽",
+        "label": "messi retires from international football",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+        "title": "Messi retires from international football",
+        "summary": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\"."
+      },
+      {
+        "char": "🌍",
+        "label": "migrants still in ceuta after surge",
+        "url": "https://www.nytimes.com/2026/08/31/world/europe/ceuta-migrants-pedro-sanchez-north-africa.html",
+        "title": "Spanish Leader Says 5,000 Migrants Are Still in Ceuta, Weeks After Border Surge",
+        "summary": "Their continued presence has roiled the Spanish territory in Africa and heaped pressure on Prime Minister Pedro Sánchez."
+      },
+      {
+        "char": "💼",
+        "label": "venezuela defends oil deal with trump",
+        "url": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
+        "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
+        "summary": "Deal that will reportedly see US take control of 65bn barrels of Venezuelan oil has provoked outrage in her country Venezuela’s interim president, Delcy Rodríguez, has defended her government’s highly controversial energy deal with Donal..."
+      },
+      {
+        "char": "🎨",
+        "label": "galliano exhibition cancelled after backlash",
+        "url": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
+        "title": "John Galliano exhibition at New York Met cancelled after backlash",
+        "summary": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011."
+      },
+      {
+        "char": "🔫",
+        "label": "man arrested after rave shooting in switzerland",
+        "url": "https://www.nytimes.com/2026/08/31/world/europe/switzerland-shooting-rave-suspect-arrest.html",
+        "title": "Man Arrested in Switzerland After Deadly Shooting at Rave",
+        "summary": "The suspect, a 43-year-old Swiss citizen, was taken into custody early on Monday, the police said."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
