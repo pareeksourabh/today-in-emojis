@@ -65163,5 +65163,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-08-31",
+    "emojis": [
+      {
+        "char": "🚢",
+        "label": "ferry capsizes in cyprus",
+        "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+        "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
+        "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "venezuela oil deal with trump",
+        "url": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
+        "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
+        "summary": "Deal that will reportedly see US take control of 65bn barrels of Venezuelan oil has provoked outrage in her country Venezuela’s interim president, Delcy Rodríguez, has defended her government’s highly controversial energy deal with Donal..."
+      },
+      {
+        "char": "🔭",
+        "label": "nasa launches new space telescope",
+        "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+        "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+        "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter."
+      },
+      {
+        "char": "💎",
+        "label": "diamond necklace stolen in vienna",
+        "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
+        "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
+        "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was o..."
+      },
+      {
+        "char": "🛡️",
+        "label": "russian drones escalate kyiv conflict",
+        "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
+        "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
+        "summary": "The nearly constant air raids, a shift from years of largely overnight attacks, have left residents exhausted and on edge."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
