@@ -1,41 +1,41 @@
 {
   "date": "2026-09-01",
-  "timestamp": "2026-09-01T00:00:00Z",
+  "timestamp": "2026-09-01T16:20:02Z",
   "emojis": [
     {
-      "char": "🔥",
-      "label": "greece wildfires and ancient ruins",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html",
-      "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
-      "summary": "As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape."
+      "char": "🇮🇱",
+      "label": "israeli operation in gaza kills 4",
+      "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+      "title": "Israeli Operation in Gaza Kills 4, Palestinian Officials Say",
+      "summary": "Israel’s defense minister said the operation resulted in the capture of a senior Hamas member. Hamas said Israel sent covert operatives into Gaza City."
     },
     {
-      "char": "💔",
-      "label": "nepal mudslide death toll rises",
-      "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-      "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
-      "summary": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16."
+      "char": "⚰️",
+      "label": "coffin making in ebola-hit city",
+      "url": "https://www.nytimes.com/2026/09/01/world/africa/congo-ebola-coffins.html",
+      "title": "The Ritual of Coffin Making in a City Hit by Ebola",
+      "summary": "While several coffin makers in Bunia said they were providing a public service, the virus has put them at the center of a debate around safe burials."
     },
     {
-      "char": "🇬🇧",
-      "label": "keir starmer resigns from parliament",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/keir-starmer-uk-prime-minister-resigns-mp.html",
-      "title": "Keir Starmer, Former UK Prime Minister, Says He Will Resign From Parliament",
-      "summary": "Keir Starmer, who left Downing Street in July after pressure from his own party, said he would quit his parliamentary seat to focus on a role in international affairs and defense."
-    },
-    {
-      "char": "🗳️",
-      "label": "canada liberals win special elections",
-      "url": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney",
-      "title": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney",
-      "summary": "Three projected victories are a message to US that Carney has support of the Canadian people, says one lawmaker Canada’s ruling Liberal party has swept three special elections, a result that showed voters backing the prime minister, Mark..."
+      "char": "🏚️",
+      "label": "dire conditions for sudan refugees",
+      "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+      "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
+      "summary": "More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirts Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, accordi..."
     },
     {
       "char": "⚖️",
-      "label": "countries consider slavery reparations",
+      "label": "un committee on slavery reparations",
       "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
       "title": "Countries legally obliged to consider slavery reparations, says UN committee",
       "summary": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other ⁠measu..."
+    },
+    {
+      "char": "🔥",
+      "label": "greece protects ancient ruins from fires",
+      "url": "https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html",
+      "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
+      "summary": "As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape."
     }
   ],
   "source": "ai-openai",
