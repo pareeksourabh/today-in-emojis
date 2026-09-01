@@ -1,64 +1,43 @@
 {
-  "date": "2026-08-31",
-  "timestamp": "2026-08-31T21:08:55Z",
+  "date": "2026-09-01",
+  "timestamp": "2026-09-01T00:00:00Z",
   "emojis": [
     {
-      "char": "💎",
-      "label": "queen's diamond necklace stolen",
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
-      "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
-      "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was o..."
+      "char": "🌍",
+      "label": "xi's leverage in summit with russia",
+      "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
+      "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
+      "summary": "A two-day conference of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare."
     },
     {
-      "char": "🇺🇸",
-      "label": "trump's oil deal with venezuela",
-      "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
-      "title": "Trump announces new US oil agreement with Venezuela",
-      "summary": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control..."
+      "char": "🚁",
+      "label": "nepal rescuers search for workers",
+      "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+      "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939."
+    },
+    {
+      "char": "⚽",
+      "label": "messi retires from international football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+      "title": "Messi retires from international football with 'nothing left to give'",
+      "summary": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\"."
+    },
+    {
+      "char": "✈️",
+      "label": "south african airline defends flyby",
+      "url": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
+      "title": "South African airline defends dramatic low-level flyby before rugby union clash",
+      "summary": "Cape Town stunt sparks major debate over safety risks Airlink insists flyby conducted according to regulations A pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew huge cheers from the..."
     },
     {
       "char": "🛡️",
-      "label": "ukraine faces drone attacks",
-      "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
-      "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
-      "summary": "The nearly constant air raids, a shift from years of largely overnight attacks, have left residents exhausted and on edge."
-    },
-    {
-      "char": "🔫",
-      "label": "swiss rave shooting incident",
-      "url": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
-      "title": "Man arrested after Swiss rave shooting that killed woman",
-      "summary": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau."
-    },
-    {
-      "char": "⚖️",
-      "label": "un committee on slavery reparations",
-      "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
-      "title": "Countries legally obliged to consider slavery reparations, says UN committee",
-      "summary": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other ⁠measu..."
+      "label": "israel and greece defense deal",
+      "url": "https://www.nytimes.com/2026/08/31/world/middleeast/israel-greece-defense-deal.html",
+      "title": "Israel and Greece Reach $3.5 Billion Defense Deal",
+      "summary": "Despite the growing diplomatic isolation of the government, the agreement makes clear that the Israeli defense industry is still finding considerable demand abroad."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😨",
-    "emoji": "😨",
-    "rationale": "The day is marked by a series of unsettling events, including theft, violence, and ongoing conflict, which collectively create an atmosphere of concern and anxiety.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
