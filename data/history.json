@@ -65515,5 +65515,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-01",
+    "emojis": [
+      {
+        "char": "🔥",
+        "label": "greece wildfires and ancient sites",
+        "url": "https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html",
+        "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
+        "summary": "As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape."
+      },
+      {
+        "char": "⚖️",
+        "label": "un committee on slavery reparations",
+        "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
+        "title": "Countries legally obliged to consider slavery reparations, says UN committee",
+        "summary": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other ⁠measu..."
+      },
+      {
+        "char": "🇮🇪",
+        "label": "dispute over irish factory and russia",
+        "url": "https://www.nytimes.com/2026/09/01/world/europe/ireland-alumina-aughinish-plant-russia.html",
+        "title": "A Factory in Rural Ireland Is at the Center of a Dispute Over Russia",
+        "summary": "Alumina processed at a refinery in County Limerick may be feeding Russia’s war in Ukraine, an investigation suggested. There is little agreement on what to do about it."
+      },
+      {
+        "char": "🎓",
+        "label": "iran sanctions impact on students",
+        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html",
+        "title": "U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad",
+        "summary": "The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster ties with the world."
+      },
+      {
+        "char": "🌍",
+        "label": "humanitarian crisis in sudan",
+        "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+        "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
+        "summary": "More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirts Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, accordi..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
