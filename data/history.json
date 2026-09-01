@@ -65427,5 +65427,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-01",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "canada's lake ontario sign spat",
+        "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+        "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
+        "summary": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America sign Donald Trump and Canada continued a verbal duel on Saturday over the US government’s administrative renaming of Lake Ontario..."
+      },
+      {
+        "char": "🗳️",
+        "label": "us meddling in brazil election",
+        "url": "https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election",
+        "title": "Echoes of cold war as US accused of meddling in another Brazilian election",
+        "summary": "Claims that Trump and Rubio are trying to influence result have parallels with CIA intervention 64 years ago The year was 1962 and the Kennedy administration was desperate to swing Brazil’s congressional elections against its leftwing pr..."
+      },
+      {
+        "char": "🌊",
+        "label": "floods impact nepal and tibet",
+        "url": "https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html",
+        "title": "China Censors and Punishes to Shape Narrative on Floods in Tibet, a Contrast to Nepal",
+        "summary": "While journalists can report freely on grief and anger in Nepal, China’s official media have presented a sanitized disaster aftermath in Tibet."
+      },
+      {
+        "char": "⚔️",
+        "label": "hamas member seized in gaza raid",
+        "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+        "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+        "summary": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered."
+      },
+      {
+        "char": "🛢️",
+        "label": "venezuela's oil deal with trump",
+        "url": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
+        "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
+        "summary": "Deal that will reportedly see US take control of 65bn barrels of Venezuelan oil has provoked outrage in her country Venezuela’s interim president, Delcy Rodríguez, has defended her government’s highly controversial energy deal with Donal..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
