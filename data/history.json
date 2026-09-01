@@ -65383,5 +65383,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-01",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "canada trump lake ontario name spat",
+        "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+        "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
+        "summary": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America sign Donald Trump and Canada continued a verbal duel on Saturday over the US government’s administrative renaming of Lake Ontario..."
+      },
+      {
+        "char": "🔫",
+        "label": "warring cartels target women in mexico",
+        "url": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
+        "title": "‘The Nest of Snakes’: Warring Cartels Target Women in Mexico",
+        "summary": "A two-year war between rival Sinaloa Cartel factions is driving a surge in killings and disappearances targeting women."
+      },
+      {
+        "char": "⚖️",
+        "label": "un committee on slavery reparations",
+        "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
+        "title": "Countries legally obliged to consider slavery reparations, says UN committee",
+        "summary": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other ⁠measu..."
+      },
+      {
+        "char": "🛡️",
+        "label": "israel greece defense deal",
+        "url": "https://www.nytimes.com/2026/08/31/world/middleeast/israel-greece-defense-deal.html",
+        "title": "Israel and Greece Reach $3.5 Billion Defense Deal",
+        "summary": "Despite the growing diplomatic isolation of the government, the agreement makes clear that the Israeli defense industry is still finding considerable demand abroad."
+      },
+      {
+        "char": "🌍",
+        "label": "morocco ceuta border breach statement",
+        "url": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
+        "title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
+        "summary": "Pedro Sánchez says two countries cooperating and accuses Israel and Russia of spreading fake news about migration Spain’s prime minister, Pedro Sánchez, has said there is no evidence to suggest the Moroccan government was behind last mon..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
