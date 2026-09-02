@@ -65691,5 +65691,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-02",
+    "emojis": [
+      {
+        "char": "🇻🇪",
+        "label": "venezuela oil deal controversy",
+        "url": "https://www.theguardian.com/world/2026/sep/02/venezuela-oil-deal-trump-chris-wright",
+        "title": "Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism",
+        "summary": "Energy secretary Chris Wright denies US seeks to ‘take’ country’s oil, saying deal is ‘transformation’ of relations The US energy secretary, Chris Wright, has denied Washington is seeking to commandeer huge quantities of Venezuelan oil,..."
+      },
+      {
+        "char": "🏠",
+        "label": "miracle house in nepal floods",
+        "url": "https://www.nytimes.com/2026/09/02/world/asia/nepal-flood-miracle-house-dhunge-bazaar.html",
+        "title": "The ‘Miracle House’ That Survived Nepal’s Floods",
+        "summary": "People are coming to take photos of the green-painted house, which kept the Pyakurel family safe as the area all around them was destroyed by rampaging floodwaters."
+      },
+      {
+        "char": "🇭🇰",
+        "label": "joshua wong guilty plea",
+        "url": "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html",
+        "title": "Hong Kong Pro-Democracy Activist Joshua Wong Pleads Guilty to Collusion",
+        "summary": "The pro-democracy dissident was accused of urging Western politicians like Nancy Pelosi and Marco Rubio to pressure Hong Kong by imposing sanctions on the city."
+      },
+      {
+        "char": "⚓",
+        "label": "uss lincoln docks in thailand",
+        "url": "https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html",
+        "title": "U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break",
+        "summary": "Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln, which came into the spotlight because of a tough deployment in the war in Iran."
+      },
+      {
+        "char": "🌾",
+        "label": "farmers poisoned by pesticides",
+        "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
+        "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
+        "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world’s farmers are poisoned by pesticides every single year, a study has found. Using publicly a..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
