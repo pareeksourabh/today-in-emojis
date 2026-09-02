@@ -65647,5 +65647,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-02",
+    "emojis": [
+      {
+        "char": "🇹🇭",
+        "label": "us troops in thailand",
+        "url": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
+        "title": "Why US troops have a history in this raucous Thai city",
+        "summary": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars."
+      },
+      {
+        "char": "🌊",
+        "label": "nepal flood damage",
+        "url": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html",
+        "title": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage",
+        "summary": "The country’s government estimates that the recent catastrophic floods caused $5 billion in damage. That’s one-tenth of Nepal’s entire economy."
+      },
+      {
+        "char": "🕊️",
+        "label": "israeli raid in gaza",
+        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+        "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+        "summary": "Israel said it seized the head of Hamas’s internal security force in the deadly operation. Fighting has continued in the enclave despite a U.S.-backed truce."
+      },
+      {
+        "char": "☠️",
+        "label": "farmers poisoned by pesticides",
+        "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
+        "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
+        "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world’s farmers are poisoned by pesticides every single year, a study has found. Using publicly a..."
+      },
+      {
+        "char": "📜",
+        "label": "guinea-bissau new constitution",
+        "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+        "title": "Guinea-Bissau voters approve new constitution expanding presidential powers",
+        "summary": "Changes include fewer seats in parliament and new rules on presidential candidates ahead of December elections Guinea-Bissau voters have approved a new constitution significantly expanding presidential powers ahead of elections due in De..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
