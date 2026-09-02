@@ -1,204 +1,43 @@
 {
-  "date": "2026-09-01",
-  "timestamp": "2026-09-01T00:00:00Z",
+  "date": "2026-09-02",
+  "timestamp": "2026-09-02T00:00:00Z",
   "emojis": [
     {
-      "char": "🌍",
-      "label": "xi's leverage in summit with russia",
-      "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
-      "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
-      "summary": "A two-day conference of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare."
-    },
-    {
-      "char": "🚁",
-      "label": "nepal rescuers search for workers",
-      "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-      "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939."
-    },
-    {
-      "char": "⚽",
-      "label": "messi retires from international football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
-      "title": "Messi retires from international football with 'nothing left to give'",
-      "summary": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\"."
-    },
-    {
-      "char": "✈️",
-      "label": "south african airline defends flyby",
-      "url": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
-      "title": "South African airline defends dramatic low-level flyby before rugby union clash",
-      "summary": "Cape Town stunt sparks major debate over safety risks Airlink insists flyby conducted according to regulations A pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew huge cheers from the..."
-    },
-    {
-      "char": "🛡️",
-      "label": "israel and greece defense deal",
-      "url": "https://www.nytimes.com/2026/08/31/world/middleeast/israel-greece-defense-deal.html",
-      "title": "Israel and Greece Reach $3.5 Billion Defense Deal",
-      "summary": "Despite the growing diplomatic isolation of the government, the agreement makes clear that the Israeli defense industry is still finding considerable demand abroad."
-    },
-    {
-      "char": "🌍",
+      "char": "🇸🇩",
       "label": "dire conditions for sudanese refugees",
       "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
       "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
       "summary": "More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirts Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, accordi..."
     },
     {
-      "char": "🚨",
-      "label": "migrants still in ceuta after surge",
-      "url": "https://www.nytimes.com/2026/08/31/world/europe/ceuta-migrants-pedro-sanchez-north-africa.html",
-      "title": "Spanish Leader Says 5,000 Migrants Are Still in Ceuta, Weeks After Border Surge",
-      "summary": "Their continued presence has roiled the Spanish territory in Africa and heaped pressure on Prime Minister Pedro Sánchez."
+      "char": "🇫🇷",
+      "label": "france targets fast fashion companies",
+      "url": "https://www.bbc.co.uk/news/articles/cm2792pendro?at_medium=RSS&at_campaign=rss",
+      "title": "France targets Shein and Temu with fast fashion fees",
+      "summary": "The levy on \"ultra-fast fashion\" items could reach almost €20 per garment by 2030."
     },
     {
       "char": "💔",
-      "label": "cartels target women in mexico",
-      "url": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
-      "title": "‘The Nest of Snakes’: Warring Cartels Target Women in Mexico",
-      "summary": "A two-year war between rival Sinaloa Cartel factions is driving a surge in killings and disappearances targeting women."
+      "label": "iran retaliates after us strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
+      "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun."
     },
     {
-      "char": "🔫",
-      "label": "swiss rave shooting suspect arrested",
-      "url": "https://www.nytimes.com/2026/08/31/world/europe/switzerland-shooting-rave-suspect-arrest.html",
-      "title": "Man Arrested in Switzerland After Deadly Shooting at Rave",
-      "summary": "The suspect, a 43-year-old Swiss citizen, was taken into custody early on Monday, the police said."
-    },
-    {
-      "char": "⚡",
-      "label": "nepal flood recovery efforts ongoing",
-      "url": "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-balen-shah-gen-z.html",
-      "title": "For Nepal’s Young Leader, Flood Recovery Will Be a Herculean Task",
-      "summary": "Prime Minister Balendra Shah, 36, rose to power this year on the back of youth anger with graft and mismanagement. His fledgling government now faces a huge test."
-    },
-    {
-      "char": "🇺🇦",
-      "label": "ukrainian drone mastermind advises italy",
-      "url": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
-      "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
-      "summary": "The appointment of Mykhailo Fedorov, a Ukrainian former defense minister, showed how other militaries are racing to adapt to battlefield changes accelerated by the war in Ukraine."
-    },
-    {
-      "char": "🇨🇴",
-      "label": "colombian guerrillas' fate debated",
-      "url": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
-      "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
-      "summary": "Fighters in legal limbo after accepting ‘total peace’ plan of Petro government just days before hardliner Abelardo De la Espriella took over In mid-June, 99 guerrilla fighters were flown by helicopter to a small settlement in a rural are..."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "canada vs trump over lake ontario name",
-      "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-      "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
-      "summary": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America sign Donald Trump and Canada continued a verbal duel on Saturday over the US government’s administrative renaming of Lake Ontario..."
-    },
-    {
-      "char": "🇲🇦",
-      "label": "morocco not to blame for border breach",
-      "url": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
-      "title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
-      "summary": "Pedro Sánchez says two countries cooperating and accuses Israel and Russia of spreading fake news about migration Spain’s prime minister, Pedro Sánchez, has said there is no evidence to suggest the Moroccan government was behind last mon..."
-    },
-    {
-      "char": "⚽",
-      "label": "messi's retirement sparks heartbreak",
-      "url": "https://www.nytimes.com/2026/08/31/world/americas/lionel-messi-retirement-soccer-argentina.html",
-      "title": "Lionel Messi’s Retirement From Soccer Sparks Heartbreak Across Argentina",
-      "summary": "Lionel Messi’s retirement from the national soccer team, though widely expected, sparked fears of a diminished squad, and heartbreak over the departure of a national icon."
-    },
-    {
-      "char": "🇺🇸",
-      "label": "uss lincoln docks in thailand",
-      "url": "https://www.nytimes.com/2026/09/01/world/asia/uss-lincoln-pattaya-thailand.html",
-      "title": "U.S.S. Abraham Lincoln to Dock in Thailand on Wednesday, Pattaya Mayor Says",
-      "summary": "The U.S.S. Abraham Lincoln became an emblem of the strains of the war on the U.S. military. Now its crew will have some rest."
-    },
-    {
-      "char": "🕊️",
-      "label": "gaza city raid kills three",
-      "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-      "title": "Israeli fire kills three in Gaza City during reported raid, medics say",
-      "summary": "Unconfirmed local reports say the Israeli military carried out air and artillery strikes after a raid by an Israel-backed militia was discovered."
-    },
-    {
-      "char": "📚",
-      "label": "iran sanctions impact students",
+      "char": "🎓",
+      "label": "sanctions cut off iranian students",
       "url": "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html",
       "title": "U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad",
       "summary": "The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster ties with the world."
     },
     {
-      "char": "🌍",
-      "label": "sudan crisis worsens for refugees",
-      "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
-      "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
-      "summary": "More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirts Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, accordi..."
-    },
-    {
-      "char": "🔥",
-      "label": "greece protects ancient ruins",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html",
-      "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
-      "summary": "As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape."
-    },
-    {
-      "char": "🔥",
-      "label": "greece wildfires and ancient ruins",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html",
-      "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
-      "summary": "As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape."
-    },
-    {
-      "char": "💔",
-      "label": "nepal mudslide death toll rises",
-      "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-      "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
-      "summary": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16."
-    },
-    {
-      "char": "🇬🇧",
-      "label": "keir starmer resigns from parliament",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/keir-starmer-uk-prime-minister-resigns-mp.html",
-      "title": "Keir Starmer, Former UK Prime Minister, Says He Will Resign From Parliament",
-      "summary": "Keir Starmer, who left Downing Street in July after pressure from his own party, said he would quit his parliamentary seat to focus on a role in international affairs and defense."
-    },
-    {
-      "char": "🗳️",
-      "label": "canada liberals win special elections",
-      "url": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney",
-      "title": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney",
-      "summary": "Three projected victories are a message to US that Carney has support of the Canadian people, says one lawmaker Canada’s ruling Liberal party has swept three special elections, a result that showed voters backing the prime minister, Mark..."
-    },
-    {
-      "char": "⚖️",
-      "label": "countries consider slavery reparations",
-      "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
-      "title": "Countries legally obliged to consider slavery reparations, says UN committee",
-      "summary": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other ⁠measu..."
+      "char": "🕊️",
+      "label": "gaza raid kills four palestinians",
+      "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+      "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+      "summary": "Israel said it seized the head of Hamas’s internal security force in the deadly operation. Fighting has continued in the enclave despite a U.S.-backed truce."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Heartbreak",
-    "emoji": "😢",
-    "rationale": "Today is marked by significant loss and distress, particularly with Messi's retirement igniting sadness among fans and the tragic flooding in Nepal claiming numerous lives. These stories evoke a strong sense of sorrow.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
