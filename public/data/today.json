@@ -1,41 +1,41 @@
 {
   "date": "2026-09-02",
-  "timestamp": "2026-09-02T08:38:27Z",
+  "timestamp": "2026-09-02T00:00:00Z",
   "emojis": [
     {
-      "char": "⚰️",
-      "label": "ebola coffin making in congo",
-      "url": "https://www.nytimes.com/2026/09/01/world/africa/congo-ebola-coffins.html",
-      "title": "The Ritual of Coffin Making in a City Hit by Ebola",
-      "summary": "While several coffin makers in Bunia said they were providing a public service, the virus has put them at the center of a debate around safe burials."
+      "char": "🇹🇭",
+      "label": "us troops in thailand",
+      "url": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
+      "title": "Why US troops have a history in this raucous Thai city",
+      "summary": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars."
     },
     {
-      "char": "🏌️‍♂",
-      "label": "tiger woods changes plea",
-      "url": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
-      "title": "Tiger Woods to change plea after crash arrest",
-      "summary": "The golfer will be in court on Wednesday for a hearing to change his plea after being charged with driving under the influence."
+      "char": "🕊️",
+      "label": "gaza conflict updates",
+      "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
+      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+      "summary": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children."
     },
     {
-      "char": "✈️",
-      "label": "ukraine warns on russian airspace",
-      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine."
-    },
-    {
-      "char": "📜",
-      "label": "guinea-bissau approves new constitution",
-      "url": "https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss",
-      "title": "Guinea-Bissau referendum approves new constitution that expands president's powers",
-      "summary": "The sweeping reforms come in the wake of last year's coup and ahead of a proposed return to civilian rule."
-    },
-    {
-      "char": "🌍",
-      "label": "countries consider slavery reparations",
+      "char": "⚖️",
+      "label": "slavery reparations by un",
       "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
       "title": "Countries legally obliged to consider slavery reparations, says UN committee",
       "summary": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other ⁠measu..."
+    },
+    {
+      "char": "📉",
+      "label": "germany blames russia",
+      "url": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html",
+      "title": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
+      "summary": "The country said Moscow was behind an explosive-laden drone found near a Ukrainian plane at a German airport last month. President Vladimir Putin of Russia called the accusation “a grave mistake.”"
+    },
+    {
+      "char": "🌍",
+      "label": "floods impact in nepal",
+      "url": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html",
+      "title": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage",
+      "summary": "The country’s government estimates that the recent catastrophic floods caused $5 billion in damage. That’s one-tenth of Nepal’s entire economy."
     }
   ],
   "source": "ai-openai",
