@@ -65559,5 +65559,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-02",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "global power dynamics",
+        "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
+        "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+        "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world."
+      },
+      {
+        "char": "⚖️",
+        "label": "slavery reparations discussion",
+        "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
+        "title": "Countries legally obliged to consider slavery reparations, says UN committee",
+        "summary": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other ⁠measu..."
+      },
+      {
+        "char": "💎",
+        "label": "stolen diamond necklace",
+        "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
+        "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
+        "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was o..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola coffin making",
+        "url": "https://www.nytimes.com/2026/09/01/world/africa/congo-ebola-coffins.html",
+        "title": "The Ritual of Coffin Making in a City Hit by Ebola",
+        "summary": "While several coffin makers in Bunia said they were providing a public service, the virus has put them at the center of a debate around safe burials."
+      },
+      {
+        "char": "🔥",
+        "label": "greece wildfires protection",
+        "url": "https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html",
+        "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
+        "summary": "As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
