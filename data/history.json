@@ -65735,5 +65735,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-02",
+    "emojis": [
+      {
+        "char": "⚓",
+        "label": "us sailors arrive in thailand",
+        "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+        "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
+        "summary": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism."
+      },
+      {
+        "char": "🔫",
+        "label": "active shooter drills in asia",
+        "url": "https://www.nytimes.com/2026/09/02/world/asia/thailand-philippines-active-shooter-drills.html",
+        "title": "Do Active Shooter Drills Help? Two Asian Nations Grapple With Gun Violence.",
+        "summary": "After school shootings, Thailand and the Philippines are taking different approaches to the drills, which are common practice in the United States."
+      },
+      {
+        "char": "💥",
+        "label": "us and iran survey strike damage",
+        "url": "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html",
+        "title": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
+        "summary": "The American military said its barrage was retaliation against recent attacks on U.S. forces and marine traffic. Iranian officials said a wedding was hit and civilians killed."
+      },
+      {
+        "char": "🌾",
+        "label": "farmers poisoned by pesticides",
+        "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
+        "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
+        "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world’s farmers are poisoned by pesticides every single year, a study has found. Using publicly a..."
+      },
+      {
+        "char": "🏠",
+        "label": "miracle house in nepal floods",
+        "url": "https://www.nytimes.com/2026/09/02/world/asia/nepal-flood-miracle-house-dhunge-bazaar.html",
+        "title": "The ‘Miracle House’ That Survived Nepal’s Floods",
+        "summary": "People are coming to take photos of the green-painted house, which kept the Pyakurel family safe as the area all around them was destroyed by rampaging floodwaters."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
