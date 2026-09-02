@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "sadness",
+    "emotion_label": "😢",
     "emoji": "😢",
-    "rationale": "The news items highlight severe humanitarian crises, escalating violence, and environmental disasters, indicating a day filled with sorrow and distress.",
+    "rationale": "The day's news reflects a deep sense of suffering and distress, particularly with reports of civilians fleeing conflict and dire humanitarian conditions in Sudan, as well as significant tragedies reported in Gaza.",
     "palette": [
       "😢",
       "😡",
