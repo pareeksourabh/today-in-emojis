@@ -1,41 +1,41 @@
 {
   "date": "2026-09-02",
-  "timestamp": "2026-09-02T02:06:33Z",
+  "timestamp": "2026-09-02T00:00:00Z",
   "emojis": [
     {
+      "char": "🇮🇱",
+      "label": "israeli raid in gaza kills 4",
+      "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+      "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+      "summary": "Israel said it seized the head of Hamas’s internal security force in the deadly operation. Fighting has continued in the enclave despite a U.S.-backed truce."
+    },
+    {
       "char": "🌍",
-      "label": "global power dynamics",
+      "label": "g20 meeting showcases global power",
       "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world."
     },
     {
-      "char": "⚖️",
-      "label": "slavery reparations discussion",
-      "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
-      "title": "Countries legally obliged to consider slavery reparations, says UN committee",
-      "summary": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other ⁠measu..."
+      "char": "💼",
+      "label": "mark carney on us trade war",
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
+      "title": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
+      "summary": "Canadian PM is set to retaliate against tariffs levied by Donald Trump and criticized US officials over insults US politics live – latest updates Mark Carney has rebuked Donald Trump’s administration and urged officials in Washington to..."
     },
     {
-      "char": "💎",
-      "label": "stolen diamond necklace",
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
-      "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
-      "summary": "Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was o..."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola coffin making",
+      "char": "⚰️",
+      "label": "coffin making in ebola-hit city",
       "url": "https://www.nytimes.com/2026/09/01/world/africa/congo-ebola-coffins.html",
       "title": "The Ritual of Coffin Making in a City Hit by Ebola",
       "summary": "While several coffin makers in Bunia said they were providing a public service, the virus has put them at the center of a debate around safe burials."
     },
     {
-      "char": "🔥",
-      "label": "greece wildfires protection",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html",
-      "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
-      "summary": "As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape."
+      "char": "🇲🇦",
+      "label": "morocco not to blame for border breach",
+      "url": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
+      "title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
+      "summary": "Pedro Sánchez says two countries cooperating and accuses Israel and Russia of spreading fake news about migration Spain’s prime minister, Pedro Sánchez, has said there is no evidence to suggest the Moroccan government was behind last mon..."
     }
   ],
   "source": "ai-openai",
