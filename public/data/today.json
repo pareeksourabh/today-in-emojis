@@ -1,41 +1,41 @@
 {
   "date": "2026-09-03",
-  "timestamp": "2026-09-03T12:40:55Z",
+  "timestamp": "2026-09-03T00:00:00Z",
   "emojis": [
     {
-      "char": "🇷🇺",
-      "label": "russia-ukraine conflict escalates",
-      "url": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
-      "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
-      "summary": "Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken."
-    },
-    {
-      "char": "💰",
-      "label": "trump on us currency",
-      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "summary": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\""
-    },
-    {
-      "char": "📜",
-      "label": "guinea-bissau constitution vote",
-      "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
-      "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
-      "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands pres..."
-    },
-    {
-      "char": "🔥",
-      "label": "toxic haze from wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
-      "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
-      "summary": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues."
+      "char": "🇪🇸",
+      "label": "spain pm denies morocco border breach",
+      "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
+      "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
+      "summary": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross border Europe live – latest updates Spain has seen no evidence “whatsoever” that Morocco planned or facilitated a mass border breach i..."
     },
     {
       "char": "⚖️",
-      "label": "slavery reparations discussion",
-      "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
-      "title": "Countries legally obliged to consider slavery reparations, says UN committee",
-      "summary": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other ⁠measu..."
+      "label": "syrians seek justice for assad's crimes",
+      "url": "https://www.nytimes.com/2026/09/03/world/middleeast/syria-justice-abuse-assad.html",
+      "title": "Syrians Want Justice for Assad-Era Killings and Torture",
+      "summary": "Hundreds of thousands were killed and tortured. But prosecuting everyone involved in atrocities could be impractical and risk renewed civil strife."
+    },
+    {
+      "char": "🚤",
+      "label": "migrants feared dead off canary islands",
+      "url": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
+      "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
+      "summary": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind."
+    },
+    {
+      "char": "🌍",
+      "label": "un warns of supersized el niño impact",
+      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies."
+    },
+    {
+      "char": "⚰️",
+      "label": "vietnam sentences 11 to death for drugs",
+      "url": "https://www.nytimes.com/2026/09/03/world/asia/vietnam-death-penalty-drug-trafficking.html",
+      "title": "Vietnam Sentences 11 to Death Penalty in Drug Trafficking Case",
+      "summary": "The authorities said they uncovered the network after four flight attendants arriving from Paris were found with narcotics hidden in toothpaste tubes."
     }
   ],
   "source": "ai-openai",
