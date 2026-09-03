@@ -65955,5 +65955,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-03",
+    "emojis": [
+      {
+        "char": "🇪🇸",
+        "label": "spain questions morocco border control",
+        "url": "https://www.nytimes.com/2026/09/03/world/europe/spain-morocco-ceuta-sanchez.html",
+        "title": "Spain’s Leader Questions Morocco Border Control During Ceuta Migrant Surge",
+        "summary": "Prime Minister Pedro Sánchez of Spain said the role of Moroccan authorities at key moments needed to be “clarified.” But he rejected any suggestion they had planned the crisis."
+      },
+      {
+        "char": "🔫",
+        "label": "gang wars impact elections in haiti",
+        "url": "https://www.nytimes.com/2026/09/03/world/americas/haiti-election-gangs.html",
+        "title": "How Do You Run for Office in a Gang War?",
+        "summary": "Haitian election officials have set elections for Dec. 13, but many experts say extreme violence is likely to cause a postponement. Again."
+      },
+      {
+        "char": "⚖️",
+        "label": "justice for assad-era victims in syria",
+        "url": "https://www.nytimes.com/2026/09/03/world/middleeast/syria-justice-abuse-assad.html",
+        "title": "Syrians Want Justice for Assad-Era Killings and Torture",
+        "summary": "Hundreds of thousands were killed and tortured. But prosecuting everyone involved in atrocities could be impractical and risk renewed civil strife."
+      },
+      {
+        "char": "🌍",
+        "label": "el niño impacts global weather patterns",
+        "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+        "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+        "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies."
+      },
+      {
+        "char": "⚽",
+        "label": "south african airline's rugby flyby",
+        "url": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
+        "title": "South African airline defends dramatic low-level flyby before rugby union clash",
+        "summary": "Cape Town stunt sparks major debate over safety risks Airlink insists flyby conducted according to regulations A pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew huge cheers from the..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
