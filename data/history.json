@@ -65779,5 +65779,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-03",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "slavery reparations by un",
+        "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
+        "title": "Countries legally obliged to consider slavery reparations, says UN committee",
+        "summary": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other ⁠measu..."
+      },
+      {
+        "char": "👶",
+        "label": "body shaming controversy",
+        "url": "https://www.theguardian.com/us-news/2026/sep/02/pete-hegseth-body-shaming-post",
+        "title": "Pete Hegseth criticized for body-shaming Canadian cadets: ‘Literally they’re kids’",
+        "summary": "US defense secretary faces backlash for attempting to mock Canada’s armed forces amid trade war A social media post by Pete Hegseth, the US secretary of defense, body-shaming female members of a Canadian youth development program remaine..."
+      },
+      {
+        "char": "🚢",
+        "label": "iranian attack on tanker",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+        "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+        "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday."
+      },
+      {
+        "char": "📜",
+        "label": "guinea-bissau constitution vote",
+        "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+        "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
+        "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands pres..."
+      },
+      {
+        "char": "🔬",
+        "label": "iran nuclear program status",
+        "url": "https://www.nytimes.com/2026/09/02/world/middleeast/iran-nuclear-program-iaea.html",
+        "title": "Status of Iran’s Nuclear Program Is Unclear, U.N. Watchdog Says",
+        "summary": "As the war sputters on, an internal report from the International Atomic Energy Agency said Iran’s refusal to grant access to its inspectors was an urgent concern."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
