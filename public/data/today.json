@@ -1,146 +1,20 @@
 {
-  "date": "2026-09-02",
-  "timestamp": "2026-09-02T00:00:00Z",
+  "date": "2026-09-03",
+  "timestamp": "2026-09-03T00:00:00Z",
   "emojis": [
     {
-      "char": "🇸🇩",
-      "label": "dire conditions for sudanese refugees",
-      "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
-      "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
-      "summary": "More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirts Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, accordi..."
+      "char": "💥",
+      "label": "us and iran survey damage",
+      "url": "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html",
+      "title": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
+      "summary": "The American military said its barrage was retaliation against recent attacks on U.S. forces and marine traffic. Iranian officials said a wedding was hit and civilians killed."
     },
     {
-      "char": "🇫🇷",
-      "label": "france targets fast fashion companies",
-      "url": "https://www.bbc.co.uk/news/articles/cm2792pendro?at_medium=RSS&at_campaign=rss",
-      "title": "France targets Shein and Temu with fast fashion fees",
-      "summary": "The levy on \"ultra-fast fashion\" items could reach almost €20 per garment by 2030."
-    },
-    {
-      "char": "💔",
-      "label": "iran retaliates after us strikes",
-      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
-      "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun."
-    },
-    {
-      "char": "🎓",
-      "label": "sanctions cut off iranian students",
-      "url": "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html",
-      "title": "U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad",
-      "summary": "The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster ties with the world."
-    },
-    {
-      "char": "🕊️",
-      "label": "gaza raid kills four palestinians",
-      "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
-      "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
-      "summary": "Israel said it seized the head of Hamas’s internal security force in the deadly operation. Fighting has continued in the enclave despite a U.S.-backed truce."
-    },
-    {
-      "char": "🇮🇱",
-      "label": "israeli raid in gaza kills 4",
-      "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
-      "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
-      "summary": "Israel said it seized the head of Hamas’s internal security force in the deadly operation. Fighting has continued in the enclave despite a U.S.-backed truce."
-    },
-    {
-      "char": "🌍",
-      "label": "g20 meeting showcases global power",
-      "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
-      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
-      "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world."
-    },
-    {
-      "char": "💼",
-      "label": "mark carney on us trade war",
-      "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
-      "title": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
-      "summary": "Canadian PM is set to retaliate against tariffs levied by Donald Trump and criticized US officials over insults US politics live – latest updates Mark Carney has rebuked Donald Trump’s administration and urged officials in Washington to..."
-    },
-    {
-      "char": "⚰️",
-      "label": "coffin making in ebola-hit city",
-      "url": "https://www.nytimes.com/2026/09/01/world/africa/congo-ebola-coffins.html",
-      "title": "The Ritual of Coffin Making in a City Hit by Ebola",
-      "summary": "While several coffin makers in Bunia said they were providing a public service, the virus has put them at the center of a debate around safe burials."
-    },
-    {
-      "char": "🇲🇦",
-      "label": "morocco not to blame for border breach",
-      "url": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
-      "title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
-      "summary": "Pedro Sánchez says two countries cooperating and accuses Israel and Russia of spreading fake news about migration Spain’s prime minister, Pedro Sánchez, has said there is no evidence to suggest the Moroccan government was behind last mon..."
-    },
-    {
-      "char": "🔥",
-      "label": "greece wildfires and ancient ruins",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html",
-      "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
-      "summary": "As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape."
-    },
-    {
-      "char": "🌾",
-      "label": "farmers poisoned by pesticides",
-      "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
-      "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
-      "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world’s farmers are poisoned by pesticides every single year, a study has found. Using publicly a..."
-    },
-    {
-      "char": "🌊",
-      "label": "nepal flood damage economy",
-      "url": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html",
-      "title": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage",
-      "summary": "The country’s government estimates that the recent catastrophic floods caused $5 billion in damage. That’s one-tenth of Nepal’s entire economy."
-    },
-    {
-      "char": "⚖️",
-      "label": "slavery reparations un committee",
-      "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
-      "title": "Countries legally obliged to consider slavery reparations, says UN committee",
-      "summary": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other ⁠measu..."
-    },
-    {
-      "char": "🚨",
-      "label": "humanitarian crisis in sudan",
-      "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
-      "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
-      "summary": "More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirts Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, accordi..."
-    },
-    {
-      "char": "🇹🇭",
-      "label": "us troops in thailand",
-      "url": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
-      "title": "Why US troops have a history in this raucous Thai city",
-      "summary": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars."
-    },
-    {
-      "char": "🕊️",
-      "label": "gaza conflict updates",
-      "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-      "summary": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children."
-    },
-    {
-      "char": "⚖️",
-      "label": "slavery reparations by un",
-      "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
-      "title": "Countries legally obliged to consider slavery reparations, says UN committee",
-      "summary": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other ⁠measu..."
-    },
-    {
-      "char": "📉",
-      "label": "germany blames russia",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html",
-      "title": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
-      "summary": "The country said Moscow was behind an explosive-laden drone found near a Ukrainian plane at a German airport last month. President Vladimir Putin of Russia called the accusation “a grave mistake.”"
-    },
-    {
-      "char": "🌍",
-      "label": "floods impact in nepal",
-      "url": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html",
-      "title": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage",
-      "summary": "The country’s government estimates that the recent catastrophic floods caused $5 billion in damage. That’s one-tenth of Nepal’s entire economy."
+      "char": "📜",
+      "label": "guinea-bissau constitution approved",
+      "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+      "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
+      "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands pres..."
     },
     {
       "char": "🐛",
@@ -150,55 +24,20 @@
       "summary": "For the first time in a year, the U.S.-Mexico border partly reopened to cattle imports following a screwworm infestation across the region. The battle against the flesh-eating fly has only just begun deep in Mexico."
     },
     {
-      "char": "🇪🇺",
-      "label": "eu and nato pressure on russia",
-      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
-    },
-    {
-      "char": "🏠",
-      "label": "miracle house survives floods",
-      "url": "https://www.nytimes.com/2026/09/02/world/asia/nepal-flood-miracle-house-dhunge-bazaar.html",
-      "title": "The ‘Miracle House’ That Survived Nepal’s Floods",
-      "summary": "People are coming to take photos of the green-painted house, which kept the Pyakurel family safe as the area all around them was destroyed by rampaging floodwaters."
-    },
-    {
       "char": "⚛️",
-      "label": "iran nuclear program status unclear",
+      "label": "status of iran's nuclear program",
       "url": "https://www.nytimes.com/2026/09/02/world/middleeast/iran-nuclear-program-iaea.html",
       "title": "Status of Iran’s Nuclear Program Is Unclear, U.N. Watchdog Says",
       "summary": "As the war sputters on, an internal report from the International Atomic Energy Agency said Iran’s refusal to grant access to its inspectors was an urgent concern."
     },
     {
-      "char": "🗳️",
-      "label": "guinea-bissau approves new constitution",
-      "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
-      "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
-      "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands pres..."
+      "char": "🤖",
+      "label": "ai mobilizes aid after earthquake",
+      "url": "https://www.nytimes.com/2026/09/02/world/americas/colombia-earthquake-ai-aid-app.html",
+      "title": "After the Earthquake, They Used A.I. to Mobilize Aid",
+      "summary": "As volunteers struggled to get supplies to quake victims in Colombia, a few tech workers built an app to map and organize the sprawling relief effort."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "The day's news reflects a deep sense of suffering and distress, particularly with reports of civilians fleeing conflict and dire humanitarian conditions in Sudan, as well as significant tragedies reported in Gaza.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
