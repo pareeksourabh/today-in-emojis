@@ -1,204 +1,43 @@
 {
-  "date": "2026-09-03",
-  "timestamp": "2026-09-03T00:00:00Z",
+  "date": "2026-09-04",
+  "timestamp": "2026-09-04T00:00:00Z",
   "emojis": [
     {
-      "char": "💥",
-      "label": "us and iran survey damage",
-      "url": "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html",
-      "title": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
-      "summary": "The American military said its barrage was retaliation against recent attacks on U.S. forces and marine traffic. Iranian officials said a wedding was hit and civilians killed."
+      "char": "🎨",
+      "label": "china boycotts art festival over taiwan",
+      "url": "https://www.nytimes.com/2026/09/03/world/asia/china-taiwan-gwangju-biennale.html",
+      "title": "China Boycotts a Top Art Festival Over Taiwan Exhibition",
+      "summary": "China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own."
     },
     {
-      "char": "📜",
-      "label": "guinea-bissau constitution approved",
-      "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
-      "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
-      "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands pres..."
-    },
-    {
-      "char": "🐛",
-      "label": "fight against flesh-eating fly",
-      "url": "https://www.nytimes.com/2026/09/02/world/americas/screwworm-facility-mexico.html",
-      "title": "Inside the Fight Against a Flesh-Eating Fly in Mexico",
-      "summary": "For the first time in a year, the U.S.-Mexico border partly reopened to cattle imports following a screwworm infestation across the region. The battle against the flesh-eating fly has only just begun deep in Mexico."
-    },
-    {
-      "char": "⚛️",
-      "label": "status of iran's nuclear program",
-      "url": "https://www.nytimes.com/2026/09/02/world/middleeast/iran-nuclear-program-iaea.html",
-      "title": "Status of Iran’s Nuclear Program Is Unclear, U.N. Watchdog Says",
-      "summary": "As the war sputters on, an internal report from the International Atomic Energy Agency said Iran’s refusal to grant access to its inspectors was an urgent concern."
-    },
-    {
-      "char": "🤖",
-      "label": "ai mobilizes aid after earthquake",
-      "url": "https://www.nytimes.com/2026/09/02/world/americas/colombia-earthquake-ai-aid-app.html",
-      "title": "After the Earthquake, They Used A.I. to Mobilize Aid",
-      "summary": "As volunteers struggled to get supplies to quake victims in Colombia, a few tech workers built an app to map and organize the sprawling relief effort."
-    },
-    {
-      "char": "⚓",
-      "label": "iranian attack on saudi tanker",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-      "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday."
+      "char": "🇦🇷",
+      "label": "peter thiel moves to argentina",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/peter-thiel-argentina-javier-milei",
+      "title": "Apocalypse prep or pure pragmatism: what is behind Peter Thiel’s move to Argentina?",
+      "summary": "Relocation coincides with proposed laws that opponents say would entrench power of US tech billionaires in country Dozens of protesters converged on Peter Thiel’s mansion in Buenos Aires this week after a congressional session raised que..."
     },
     {
       "char": "🌍",
-      "label": "farmers poisoned by pesticides",
-      "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
-      "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
-      "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world’s farmers are poisoned by pesticides every single year, a study has found. Using publicly a..."
-    },
-    {
-      "char": "🔫",
-      "label": "active shooter drills in asia",
-      "url": "https://www.nytimes.com/2026/09/02/world/asia/thailand-philippines-active-shooter-drills.html",
-      "title": "Do Active Shooter Drills Help? Two Asian Nations Grapple With Gun Violence.",
-      "summary": "After school shootings, Thailand and the Philippines are taking different approaches to the drills, which are common practice in the United States."
-    },
-    {
-      "char": "🏠",
-      "label": "miracle house in nepal floods",
-      "url": "https://www.nytimes.com/2026/09/02/world/asia/nepal-flood-miracle-house-dhunge-bazaar.html",
-      "title": "The ‘Miracle House’ That Survived Nepal’s Floods",
-      "summary": "People are coming to take photos of the green-painted house, which kept the Pyakurel family safe as the area all around them was destroyed by rampaging floodwaters."
-    },
-    {
-      "char": "🗳️",
-      "label": "guinea-bissau constitution approved",
-      "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
-      "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
-      "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands pres..."
-    },
-    {
-      "char": "✈️",
-      "label": "south african airline flyby",
-      "url": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
-      "title": "South African airline defends dramatic low-level flyby before rugby union clash",
-      "summary": "Cape Town stunt sparks major debate over safety risks Airlink insists flyby conducted according to regulations A pre-game stunt involving two passenger jets flying dramatically low over a stadium in South Africa drew huge cheers from the..."
-    },
-    {
-      "char": "🇮🇱",
-      "label": "netanyahu seeks conflict",
-      "url": "https://www.nytimes.com/2026/09/02/world/middleeast/netanyahu-israel-election.html",
-      "title": "Netanyahu’s Israel Is Looking for a Fight in Every Direction",
-      "summary": "The Israeli leader, facing a tough re-election contest, may need a security crisis to rally voters behind him and hold on to his job."
-    },
-    {
-      "char": "💔",
-      "label": "wedding tragedy in iran",
-      "url": "https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html",
-      "title": "In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy",
-      "summary": "The bomb that hit the residential area was American, according to a weapons expert and a visual analysis by The Times. It killed five people and wounded 67 others, the Iranian authorities said."
-    },
-    {
-      "char": "🌊",
-      "label": "miracle house in nepal",
-      "url": "https://www.nytimes.com/2026/09/02/world/asia/nepal-flood-miracle-house-dhunge-bazaar.html",
-      "title": "The ‘Miracle House’ That Survived Nepal’s Floods",
-      "summary": "People are coming to take photos of the green-painted house, which kept the Pyakurel family safe as the area all around them was destroyed by rampaging floodwaters."
-    },
-    {
-      "char": "📜",
-      "label": "guinea-bissau constitution vote",
-      "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
-      "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
-      "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands pres..."
+      "label": "norway seizes russian ship in arctic",
+      "url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
+      "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
+      "summary": "Empowered by an international court order, Norway captured the vessel as part of a global effort to seize Russian assets. The Russians called it “piracy.”"
     },
     {
       "char": "⚖️",
-      "label": "slavery reparations by un",
-      "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
-      "title": "Countries legally obliged to consider slavery reparations, says UN committee",
-      "summary": "Guidance says states must implement ‘comprehensive measures’ to address legacy of racial discrimination A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other ⁠measu..."
-    },
-    {
-      "char": "🌊",
-      "label": "lake ontario renamed lake america",
-      "url": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
-      "title": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
-      "summary": "Tech company submits to controversial Trump order to rename body of water amid US trade spat with Canada Apple has renamed Lake Ontario as “Lake America” for US users of its Maps app, after an executive order from Donald Trump to change..."
-    },
-    {
-      "char": "🚨",
-      "label": "farmers poisoned by pesticides",
-      "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
-      "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
-      "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world’s farmers are poisoned by pesticides every single year, a study has found. Using publicly a..."
-    },
-    {
-      "char": "⚓",
-      "label": "black sea grain supply threatened",
-      "url": "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html",
-      "title": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
-      "summary": "Strikes on ports and vessels by both Russia and Ukraine have left farmers facing ruin and could cause another worldwide food shock."
-    },
-    {
-      "char": "🗳️",
-      "label": "guinea-bissau new constitution",
-      "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
-      "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
-      "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands pres..."
-    },
-    {
-      "char": "🇪🇸",
-      "label": "spain pm denies morocco border breach",
-      "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
-      "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
-      "summary": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross border Europe live – latest updates Spain has seen no evidence “whatsoever” that Morocco planned or facilitated a mass border breach i..."
-    },
-    {
-      "char": "⚖️",
-      "label": "syrians seek justice for assad's crimes",
+      "label": "syrians seek justice for assad-era abuses",
       "url": "https://www.nytimes.com/2026/09/03/world/middleeast/syria-justice-abuse-assad.html",
       "title": "Syrians Want Justice for Assad-Era Killings and Torture",
       "summary": "Hundreds of thousands were killed and tortured. But prosecuting everyone involved in atrocities could be impractical and risk renewed civil strife."
     },
     {
-      "char": "🚤",
-      "label": "migrants feared dead off canary islands",
-      "url": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
-      "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
-      "summary": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind."
-    },
-    {
-      "char": "🌍",
-      "label": "un warns of supersized el niño impact",
-      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-      "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies."
-    },
-    {
-      "char": "⚰️",
-      "label": "vietnam sentences 11 to death for drugs",
-      "url": "https://www.nytimes.com/2026/09/03/world/asia/vietnam-death-penalty-drug-trafficking.html",
-      "title": "Vietnam Sentences 11 to Death Penalty in Drug Trafficking Case",
-      "summary": "The authorities said they uncovered the network after four flight attendants arriving from Paris were found with narcotics hidden in toothpaste tubes."
+      "char": "🌾",
+      "label": "farmers poisoned by pesticides yearly",
+      "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
+      "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
+      "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world’s farmers are poisoned by pesticides every single year, a study has found. Using publicly a..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "Today's news is filled with tragic events, from civilian casualties in Iran to the ongoing plight of farmers poisoned by pesticides. The overall vibe reflects a deep sense of loss and concern for humanity.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
