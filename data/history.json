@@ -66131,5 +66131,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-04",
+    "emojis": [
+      {
+        "char": "🇨🇴",
+        "label": "colombia president poses with bodies",
+        "url": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
+        "title": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
+        "summary": "Abelardo De La Espriella posts video of himself with rows of body bags as performative populism continues to sweep Americas Colombia’s hardline president, Abelardo De La Espriella, has provoked outrage after posting a video on social med..."
+      },
+      {
+        "char": "📜",
+        "label": "guinea-bissau constitution approved",
+        "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+        "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
+        "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands pres..."
+      },
+      {
+        "char": "🇺🇬",
+        "label": "young king's body returns to uganda",
+        "url": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
+        "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
+        "summary": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer."
+      },
+      {
+        "char": "🛡️",
+        "label": "risk of russian sabotage in europe",
+        "url": "https://www.nytimes.com/2026/09/04/world/europe/russia-europe-nato-sabotage.html",
+        "title": "The Risk of Russian Sabotage in Europe: A Fight That Spirals Out of Control",
+        "summary": "Europe’s options are limited in responding to an unnerving series of plots and provocations. But the odds of unpredictable consequences are rising."
+      },
+      {
+        "char": "🌍",
+        "label": "un vote on new world map",
+        "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+        "title": "UN to vote on adopting new world map that shows Africa’s true scale",
+        "summary": "Togo-sponsored resolution calls to phase out traditional map that depicts continent as similar size to Greenland The UN general assembly will vote on Friday on a resolution for the world to formally phase out the traditional Mercator map..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
