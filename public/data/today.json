@@ -1,41 +1,41 @@
 {
   "date": "2026-09-04",
-  "timestamp": "2026-09-04T00:00:00Z",
+  "timestamp": "2026-09-04T12:34:56Z",
   "emojis": [
     {
-      "char": "🛢️",
-      "label": "venezuela oil deal investigations",
-      "url": "https://www.nytimes.com/2026/09/04/world/americas/venezuela-oil-trump-alejandro-betancourt.html",
-      "title": "Alejandro Betancourt, Trump’s Partner in Venezuelan Oil Deal, Has Faced Investigations",
-      "summary": "Alejandro Betancourt has been targeted by multiple investigations. Now he’s the U.S. government’s unrivaled partner in President Trump’s bid to control Venezuelan oil resources."
+      "char": "🕊️",
+      "label": "ukraine's path to peace",
+      "url": "https://www.nytimes.com/2026/09/04/world/europe/ukraine-russia-talks-kyrylo-budanov.html",
+      "title": "After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace",
+      "summary": "Kyrylo Budanov, a decorated soldier and former military spy chief, advocates a negotiated settlement. Talks are expected to resume this month."
     },
     {
       "char": "🌊",
-      "label": "nepal flood symbolic cremation",
-      "url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html",
-      "title": "Families Turn to Symbolic Cremation After Nepal Floods",
-      "summary": "Thousands are missing, and some families have lost hope of recovering their bodies. To carry out his sacred duty, a son lights the funeral pyre for a straw effigy of his father."
+      "label": "nepal flood survivors rescued",
+      "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+      "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+      "summary": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors."
     },
     {
-      "char": "🧑‍⚖️",
-      "label": "lindsay clancy trial tensions",
-      "url": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
-      "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
-      "summary": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case."
+      "char": "🇩🇪",
+      "label": "germany's far right rise",
+      "url": "https://www.nytimes.com/2026/09/04/world/europe/germany-afd-extremists.html",
+      "title": "Germany’s Far Right, Edging Close to Power, Remains Close to Extremists",
+      "summary": "The Alternative for Germany party has tried to soften its hard-line image but is still privately working with extremists. It could win a state election on Sunday."
     },
     {
-      "char": "🌍",
-      "label": "un vote on new world map",
+      "char": "🇮🇱",
+      "label": "israel's foothold in lebanon",
+      "url": "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html",
+      "title": "Israel Says It Is Cementing Its Foothold in Southern Lebanon",
+      "summary": "The recent capture of a strategic ridge has further entrenched the Israeli occupation of Lebanese territory, as efforts to broker lasting peace have floundered."
+    },
+    {
+      "char": "🗺️",
+      "label": "un votes on new world map",
       "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
       "title": "UN to vote on adopting new world map that shows Africa’s true scale",
       "summary": "Togo-sponsored resolution calls to phase out traditional map that depicts continent as similar size to Greenland The UN general assembly will vote on Friday on a resolution for the world to formally phase out the traditional Mercator map..."
-    },
-    {
-      "char": "🐖",
-      "label": "transplanted pig kidney success",
-      "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-      "title": "Transplanted pig kidney works in US man's body for record 271 days",
-      "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant."
     }
   ],
   "source": "ai-openai",
