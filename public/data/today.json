@@ -1,41 +1,41 @@
 {
   "date": "2026-09-04",
-  "timestamp": "2026-09-04T02:08:33Z",
+  "timestamp": "2026-09-04T00:00:00Z",
   "emojis": [
     {
-      "char": "🎨",
-      "label": "china boycotts art festival over taiwan",
-      "url": "https://www.nytimes.com/2026/09/03/world/asia/china-taiwan-gwangju-biennale.html",
-      "title": "China Boycotts a Top Art Festival Over Taiwan Exhibition",
-      "summary": "China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own."
-    },
-    {
-      "char": "⚖️",
-      "label": "syrians seek justice for assad-era crimes",
-      "url": "https://www.nytimes.com/2026/09/03/world/middleeast/syria-justice-abuse-assad.html",
-      "title": "Syrians Want Justice for Assad-Era Killings and Torture",
-      "summary": "Hundreds of thousands were killed and tortured. But prosecuting everyone involved in atrocities could be impractical and risk renewed civil strife."
-    },
-    {
-      "char": "🗺️",
-      "label": "apple maps renames lake ontario",
-      "url": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
-      "title": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
-      "summary": "Tech company submits to controversial Trump order to rename body of water amid US trade spat with Canada Apple has renamed Lake Ontario as “Lake America” for US users of its Maps app, after an executive order from Donald Trump to change..."
-    },
-    {
       "char": "🗳️",
-      "label": "gang war complicates elections in haiti",
+      "label": "gangs and elections in haiti",
       "url": "https://www.nytimes.com/2026/09/03/world/americas/haiti-election-gangs.html",
       "title": "How Do You Run for Office in a Gang War?",
       "summary": "Haitian election officials have set elections for Dec. 13, but many experts say extreme violence is likely to cause a postponement. Again."
     },
     {
+      "char": "🦠",
+      "label": "transplanted pig kidney success",
+      "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+      "title": "Transplanted pig kidney works in US man's body for record 271 days",
+      "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant."
+    },
+    {
+      "char": "⚖️",
+      "label": "apartheid victims seek justice",
+      "url": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
+      "title": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
+      "summary": "Claim relating to 1960 attack on hundreds of protesters part of wave of litigation over apartheid crimes in South Africa The day dawned brightly on 21 March 1960, as residents of the South African township of Sharpeville gathered to prot..."
+    },
+    {
       "char": "🌍",
-      "label": "un warns of supersized el niño impact",
-      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-      "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies."
+      "label": "china boycotts art festival",
+      "url": "https://www.nytimes.com/2026/09/03/world/asia/china-taiwan-gwangju-biennale.html",
+      "title": "China Boycotts a Top Art Festival Over Taiwan Exhibition",
+      "summary": "China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own."
+    },
+    {
+      "char": "🛳️",
+      "label": "norway seizes russian ship",
+      "url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
+      "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
+      "summary": "Empowered by an international court order, Norway captured the vessel as part of a global effort to seize Russian assets. The Russians called it “piracy.”"
     }
   ],
   "source": "ai-openai",
