@@ -66043,5 +66043,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-04",
+    "emojis": [
+      {
+        "char": "💼",
+        "label": "us billionaire sues epstein panel",
+        "url": "https://www.bbc.co.uk/news/articles/cddve618plzo?at_medium=RSS&at_campaign=rss",
+        "title": "US billionaire Leon Black defies summons and sues Epstein panel",
+        "summary": "The lawsuit calls the House Oversight Committee's subpoenas, which ordered him to share nondisclosure agreements, \"invalid\"."
+      },
+      {
+        "char": "🐊",
+        "label": "steve irwin's family honors him",
+        "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+        "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+        "summary": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming."
+      },
+      {
+        "char": "🇦🇷",
+        "label": "milei supports falklands claim",
+        "url": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
+        "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
+        "summary": "President cites Donald Trump’s suggestion that he might reconsider US support for British sovereignty, and threatens swifter sanctions on British oil interests President Javier Milei has said “winds of change favourable” to Argentina’s c..."
+      },
+      {
+        "char": "🌧️",
+        "label": "nepal needs funding after floods",
+        "url": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+        "title": "Nepal says it will need billions in funding to rebuild after flash floods",
+        "summary": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris."
+      },
+      {
+        "char": "⚖️",
+        "label": "gloria steinem passes away",
+        "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+        "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+        "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\"."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
