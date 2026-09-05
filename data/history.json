@@ -66307,5 +66307,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-05",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "trump's falklands favor to milei",
+        "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+        "title": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
+        "summary": "US president suggests he might support his Argentinian acolyte’s drive to reclaim sovereignty of disputed islands Donald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conserva..."
+      },
+      {
+        "char": "🗺️",
+        "label": "un adopts new world map for africa",
+        "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+        "title": "UN votes to adopt new world map to reflect Africa's true size",
+        "summary": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it."
+      },
+      {
+        "char": "🇩🇪",
+        "label": "german far-right surges in power",
+        "url": "https://www.nytimes.com/2026/09/05/world/europe/germany-afd-saxony-anhalt.html",
+        "title": "German Far-Right Surges, in Threat to Postwar Taboo on Extremists in Power",
+        "summary": "Sunday’s vote in the state of Saxony-Anhalt could produce the strongest showing in the history of the Alternative for Germany party, and potentially a far-right government in the statehouse."
+      },
+      {
+        "char": "🌾",
+        "label": "farmers poisoned by pesticides yearly",
+        "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
+        "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
+        "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world’s farmers are poisoned by pesticides every single year, a study has found. Using publicly a..."
+      },
+      {
+        "char": "🕊️",
+        "label": "us envoys arrive for ukraine talks",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+        "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
