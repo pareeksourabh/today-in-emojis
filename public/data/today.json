@@ -3,39 +3,39 @@
   "timestamp": "2026-09-05T00:00:00Z",
   "emojis": [
     {
-      "char": "🇵🇭",
-      "label": "philippines vice president arrest warrant",
-      "url": "https://www.nytimes.com/2026/09/04/world/asia/sara-duterte-arrest-warrant-philippines.html",
-      "title": "Philippines’ Vice President Faces Arrest Over Assassination Threats",
-      "summary": "A court issued a warrant for Sara Duterte, who is accused of having threatened President Ferdinand R. Marcos Jr. and two of his relatives."
+      "char": "🛩️",
+      "label": "russia drone attack on ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital."
+    },
+    {
+      "char": "🏞️",
+      "label": "nepal flood rescues bring hope",
+      "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river."
     },
     {
       "char": "🇬🇧",
-      "label": "uk responds to falklands claim",
+      "label": "uk defends falklands claim",
       "url": "https://www.theguardian.com/uk-news/2026/sep/04/uk-ministers-hit-back-argentinian-falkland-islands-claim",
       "title": "UK hits back at Argentinian Falklands claim and insists islands remain British",
       "summary": "Ed Miliband says Britain’s position remains ‘unwavering’ in response to remarks by Argentina’s president UK politics live – latest updates British ministers have hit back after the Argentinian president said “winds of change” favourable..."
     },
     {
-      "char": "🇩🇪",
-      "label": "germany's far-right seeks power",
-      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
-      "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two."
-    },
-    {
-      "char": "🌊",
-      "label": "nepal families turn to cremation",
-      "url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html",
-      "title": "Families Turn to Symbolic Cremation After Nepal Floods",
-      "summary": "Thousands are missing, and some families have lost hope of recovering their bodies. To carry out his sacred duty, a son lights the funeral pyre for a straw effigy of his father."
+      "char": "⚔️",
+      "label": "yemen houthis escalate fighting",
+      "url": "https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html",
+      "title": "Yemen’s Houthis Push Toward Red Sea Strait as Ground Fighting Escalates",
+      "summary": "The Houthis, an Iran-backed militia, appear to be trying to gain control of a port city near the Bab al-Mandab Strait, a key choke point for global trade."
     },
     {
       "char": "💣",
-      "label": "russia suspected in europe sabotage",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-      "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere."
+      "label": "blast at bolivia military barracks",
+      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions."
     }
   ],
   "source": "ai-openai",
