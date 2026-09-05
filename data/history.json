@@ -66351,5 +66351,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-05",
+    "emojis": [
+      {
+        "char": "🇷🇺",
+        "label": "putin pauses kyiv strikes",
+        "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+        "title": "Putin Orders Pause in Kyiv Strikes Ahead of Visit by U.S. Envoys",
+        "summary": "Steve Witkoff, President Trump’s special envoy, and Jared Kushner, his son-in-law, arrived in Moscow to meet with the Russian leader. They head to Kyiv next, in an effort to revive peace talks."
+      },
+      {
+        "char": "☢️",
+        "label": "chemical weapons in sudan",
+        "url": "https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html",
+        "title": "Secret Dossier Adds to Evidence of Chemical Weapons in Sudan",
+        "summary": "The documents bolster allegations that the Sudanese military developed and used toxic bombs to gain an edge in the country’s devastating civil war."
+      },
+      {
+        "char": "🌊",
+        "label": "nepal flood survivors rescued",
+        "url": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
+        "title": "Two Survivors Rescued in Nepal 10 Days After Floods",
+        "summary": "The improbable rescues came a day after two others were recovered from a buried tunnel."
+      },
+      {
+        "char": "🗳️",
+        "label": "guinea-bissau constitution approved",
+        "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+        "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
+        "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands pres..."
+      },
+      {
+        "char": "⚓",
+        "label": "us strikes iranian oil tankers",
+        "url": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html",
+        "title": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says",
+        "summary": "The U.S. military said it retaliated after Iran launched missiles at two warships. The strikes came days after the two sides exchanged some of their most intense fire in weeks."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
