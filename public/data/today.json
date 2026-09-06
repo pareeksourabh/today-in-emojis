@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "timestamp": "2026-09-06T17:48:44Z",
+  "timestamp": "2026-09-06T00:00:00Z",
   "emojis": [
     {
       "char": "🗺️",
@@ -10,34 +10,195 @@
       "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the..."
     },
     {
+      "char": "🇷🇺",
+      "label": "putin denies draft amid fears",
+      "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html",
+      "title": "Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances",
+      "summary": "As the fear of a possible mobilization becomes a fixture of daily life across Russia, many men are deciding whether to flee, hide or sit tight."
+    },
+    {
+      "char": "🇦🇷",
+      "label": "trump's influence on falklands claim",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+      "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
+      "summary": "US president suggests he might support his Argentinian ally’s drive to reclaim sovereignty of disputed islands Donald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservativ..."
+    },
+    {
+      "char": "💣",
+      "label": "drone attack kills soldiers in colombia",
+      "url": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
+      "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
+      "summary": "Officials accuse National Liberation Army of launching strike followed by clash inside military compound An attack involving explosives dropped from drones followed by a clash inside a military compound in north-eastern Colombia has kill..."
+    },
+    {
       "char": "⚖️",
-      "label": "egyptian presenter sentenced to death",
+      "label": "egyptian tv presenter sentenced to death",
       "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
       "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
       "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawl..."
     },
     {
+      "char": "🗺️",
+      "label": "un adopts new world map for africa",
+      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+      "title": "UN votes to adopt new world map that shows Africa’s true scale",
+      "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the..."
+    },
+    {
       "char": "🌊",
+      "label": "uss lincoln finds solace in thailand",
+      "url": "https://www.nytimes.com/2026/09/05/world/asia/uss-abraham-lincoln-thailand-pattaya.html",
+      "title": "After Months at War, Brief Solace in a Party Town Far From Home",
+      "summary": "A stopover in Thailand was welcome relief for thousands of troops aboard the U.S.S. Abraham Lincoln from a grueling deployment. But it was not a complete salve."
+    },
+    {
+      "char": "⚖️",
+      "label": "colombia president poses with bodies",
+      "url": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
+      "title": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
+      "summary": "Abelardo De La Espriella posts video of himself with rows of body bags as performative populism continues to sweep Americas Colombia’s hardline president, Abelardo De La Espriella, has provoked outrage after posting a video on social med..."
+    },
+    {
+      "char": "🐺",
+      "label": "trump removes grey wolf protections",
+      "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump signs order to remove endangered species protection for grey wolves",
+      "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations."
+    },
+    {
+      "char": "💣",
+      "label": "chemical weapons evidence in sudan",
+      "url": "https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html",
+      "title": "Secret Dossier Adds to Evidence of Chemical Weapons in Sudan",
+      "summary": "The documents bolster allegations that the Sudanese military developed and used toxic bombs to gain an edge in the country’s devastating civil war."
+    },
+    {
+      "char": "🗳️",
+      "label": "germany elections and far-right rise",
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html",
+      "title": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
+      "summary": "Elections in Saxony-Anhalt, in the country’s east, could result in an outright majority for the Alternative for Germany party."
+    },
+    {
+      "char": "🌍",
+      "label": "apartheid victims seek justice",
+      "url": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
+      "title": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
+      "summary": "Claim relating to 1960 attack on hundreds of protesters part of wave of litigation over apartheid crimes in South Africa The day dawned brightly on 21 March 1960, as residents of the South African township of Sharpeville gathered to prot..."
+    },
+    {
+      "char": "⚓",
+      "label": "us-iran ship conflict escalates",
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships."
+    },
+    {
+      "char": "🚁",
+      "label": "drone attack kills soldiers in colombia",
+      "url": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
+      "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
+      "summary": "Officials accuse National Liberation Army of launching strike followed by clash inside military compound An attack involving explosives dropped from drones followed by a clash inside a military compound in north-eastern Colombia has kill..."
+    },
+    {
+      "char": "🌧️",
       "label": "nepal floods rescue operation",
       "url": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
       "title": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
       "summary": "A rescue from a mostly buried house gave new hope to a town devastated by floods in Nepal. Earlier Saturday, another survivor had been pulled from a tunnel."
     },
     {
-      "char": "💣",
-      "label": "blast at bolivia military barracks",
-      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions."
+      "char": "🇪🇸",
+      "label": "spain pm denies morocco border breach",
+      "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
+      "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
+      "summary": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross border Europe live – latest updates Spain has seen no evidence “whatsoever” that Morocco planned or facilitated a mass border breach i..."
+    },
+    {
+      "char": "🇩🇪",
+      "label": "germany elections could see far-right rise",
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html",
+      "title": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
+      "summary": "Elections in Saxony-Anhalt, in the country’s east, could result in an outright majority for the Alternative for Germany party."
+    },
+    {
+      "char": "🌧️",
+      "label": "nepali woman rescued from mud after floods",
+      "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+      "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house."
+    },
+    {
+      "char": "🕊️",
+      "label": "us envoys in ukraine for peace talks",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
+      "summary": "Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday, having \"discussed substantive plans for next steps\" with Putin on Saturday, according to the White House."
+    },
+    {
+      "char": "📜",
+      "label": "guinea-bissau voters approve new constitution",
+      "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+      "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
+      "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands pres..."
+    },
+    {
+      "char": "🏢",
+      "label": "dozens feared trapped in delhi building",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down."
+    },
+    {
+      "char": "🇷🇺",
+      "label": "putin meets witkoff and kushner",
+      "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+      "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
+      "summary": "President Vladimir V. Putin ordered a pause in strikes on Ukraine’s capital, Kyiv, ahead of the meeting with President Trump’s envoys: his son-in-law Jared Kushner and the businessman Steve Witkoff."
+    },
+    {
+      "char": "⚖️",
+      "label": "egyptian tv presenter sentenced to death",
+      "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
+      "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
+      "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawl..."
     },
     {
       "char": "🗳️",
-      "label": "germany election updates",
-      "url": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
-      "title": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show",
-      "summary": "The Alternative for Germany party was projected to finish first in the eastern state of Saxony-Anhalt. But it was not clear whether it would win a majority — which would propel a far-right party into power for the first time since World..."
+      "label": "germany elections could see far-right rise",
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html",
+      "title": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
+      "summary": "Elections in Saxony-Anhalt, in the country’s east, could result in an outright majority for the Alternative for Germany party."
+    },
+    {
+      "char": "📜",
+      "label": "guinea-bissau's new constitution controversy",
+      "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+      "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
+      "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands pres..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "The day featured multiple distressing reports, including military conflicts, environmental crises, and political upheaval, evoking a sense of concern and anxiety.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
