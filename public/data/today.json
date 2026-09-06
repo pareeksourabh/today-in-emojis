@@ -1,28 +1,7 @@
 {
-  "date": "2026-09-05",
-  "timestamp": "2026-09-05T00:00:00Z",
+  "date": "2026-09-06",
+  "timestamp": "2026-09-06T00:00:00Z",
   "emojis": [
-    {
-      "char": "🌊",
-      "label": "nepal tunnel rescues bring hope",
-      "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-      "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river."
-    },
-    {
-      "char": "🇵🇭",
-      "label": "vp faces arrest over threats",
-      "url": "https://www.nytimes.com/2026/09/04/world/asia/sara-duterte-arrest-warrant-philippines.html",
-      "title": "Philippines’ Vice President Faces Arrest Over Assassination Threats",
-      "summary": "A court issued a warrant for Sara Duterte, who is accused of having threatened President Ferdinand R. Marcos Jr. and two of his relatives."
-    },
-    {
-      "char": "📜",
-      "label": "guinea-bissau new constitution concerns",
-      "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
-      "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
-      "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands pres..."
-    },
     {
       "char": "🗺️",
       "label": "un adopts new world map for africa",
@@ -31,174 +10,34 @@
       "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the..."
     },
     {
-      "char": "⚖️",
-      "label": "victims sue for apartheid compensation",
-      "url": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
-      "title": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
-      "summary": "Claim relating to 1960 attack on hundreds of protesters part of wave of litigation over apartheid crimes in South Africa The day dawned brightly on 21 March 1960, as residents of the South African township of Sharpeville gathered to prot..."
-    },
-    {
-      "char": "🇵🇭",
-      "label": "philippines vice president arrest warrant",
-      "url": "https://www.nytimes.com/2026/09/04/world/asia/sara-duterte-arrest-warrant-philippines.html",
-      "title": "Philippines’ Vice President Faces Arrest Over Assassination Threats",
-      "summary": "A court issued a warrant for Sara Duterte, who is accused of having threatened President Ferdinand R. Marcos Jr. and two of his relatives."
-    },
-    {
-      "char": "🇬🇧",
-      "label": "uk responds to falklands claim",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/04/uk-ministers-hit-back-argentinian-falkland-islands-claim",
-      "title": "UK hits back at Argentinian Falklands claim and insists islands remain British",
-      "summary": "Ed Miliband says Britain’s position remains ‘unwavering’ in response to remarks by Argentina’s president UK politics live – latest updates British ministers have hit back after the Argentinian president said “winds of change” favourable..."
-    },
-    {
-      "char": "🇩🇪",
-      "label": "germany's far-right seeks power",
-      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
-      "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two."
-    },
-    {
-      "char": "🌊",
-      "label": "nepal families turn to cremation",
-      "url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html",
-      "title": "Families Turn to Symbolic Cremation After Nepal Floods",
-      "summary": "Thousands are missing, and some families have lost hope of recovering their bodies. To carry out his sacred duty, a son lights the funeral pyre for a straw effigy of his father."
-    },
-    {
-      "char": "💣",
-      "label": "russia suspected in europe sabotage",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-      "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere."
-    },
-    {
-      "char": "🛩️",
-      "label": "russia drone attack on ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-      "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital."
-    },
-    {
-      "char": "🏞️",
-      "label": "nepal flood rescues bring hope",
-      "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-      "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river."
-    },
-    {
-      "char": "🇬🇧",
-      "label": "uk defends falklands claim",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/04/uk-ministers-hit-back-argentinian-falkland-islands-claim",
-      "title": "UK hits back at Argentinian Falklands claim and insists islands remain British",
-      "summary": "Ed Miliband says Britain’s position remains ‘unwavering’ in response to remarks by Argentina’s president UK politics live – latest updates British ministers have hit back after the Argentinian president said “winds of change” favourable..."
-    },
-    {
-      "char": "⚔️",
-      "label": "yemen houthis escalate fighting",
-      "url": "https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html",
-      "title": "Yemen’s Houthis Push Toward Red Sea Strait as Ground Fighting Escalates",
-      "summary": "The Houthis, an Iran-backed militia, appear to be trying to gain control of a port city near the Bab al-Mandab Strait, a key choke point for global trade."
-    },
-    {
-      "char": "💣",
-      "label": "blast at bolivia military barracks",
-      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions."
-    },
-    {
-      "char": "🧪",
-      "label": "chemical weapons in sudan",
-      "url": "https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html",
-      "title": "Secret Dossier Adds to Evidence of Chemical Weapons in Sudan",
-      "summary": "The documents bolster allegations that the Sudanese military developed and used toxic bombs to gain an edge in the country’s devastating civil war."
-    },
-    {
-      "char": "🇺🇦",
-      "label": "ukraine drone attack",
-      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-      "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital."
-    },
-    {
-      "char": "🏗️",
-      "label": "nepal flood rescue",
-      "url": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
-      "title": "Chinese Worker Rescued From Tunnel in Nepal 10 Days After Floods",
-      "summary": "The improbable rescue came a day after two other workers were recovered from a buried tunnel."
-    },
-    {
-      "char": "📜",
-      "label": "guinea-bissau constitution vote",
-      "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
-      "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
-      "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands pres..."
-    },
-    {
-      "char": "🌍",
-      "label": "new world map for africa",
-      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-      "title": "UN votes to adopt new world map that shows Africa’s true scale",
-      "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the..."
-    },
-    {
-      "char": "🐺",
-      "label": "trump removes grey wolf protections",
-      "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump signs order to remove endangered species protection for grey wolves",
-      "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations."
-    },
-    {
-      "char": "🛢️",
-      "label": "us strikes iranian oil tankers",
-      "url": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html",
-      "title": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says",
-      "summary": "The U.S. military said it retaliated after Iran launched missiles at two warships. The strikes came days after the two sides exchanged some of their most intense fire in weeks."
-    },
-    {
-      "char": "🌾",
-      "label": "farmers poisoned by pesticides",
-      "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
-      "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
-      "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world’s farmers are poisoned by pesticides every single year, a study has found. Using publicly a..."
+      "char": "🇷🇺",
+      "label": "putin denies draft amid fears",
+      "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html",
+      "title": "Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances",
+      "summary": "As the fear of a possible mobilization becomes a fixture of daily life across Russia, many men are deciding whether to flee, hide or sit tight."
     },
     {
       "char": "🇦🇷",
-      "label": "milei supports falklands claim",
-      "url": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
-      "title": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands",
-      "summary": "President cites Trump’s suggestion that he might reconsider US stance on British sovereignty and threatens swifter sanctions on UK oil interests President Javier Milei has said “winds of change” favourable to Argentina’s claim to the Fal..."
+      "label": "trump's influence on falklands claim",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+      "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
+      "summary": "US president suggests he might support his Argentinian ally’s drive to reclaim sovereignty of disputed islands Donald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservativ..."
     },
     {
       "char": "💣",
-      "label": "chemical weapons in sudan",
-      "url": "https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html",
-      "title": "Secret Dossier Adds to Evidence of Chemical Weapons in Sudan",
-      "summary": "The documents bolster allegations that the Sudanese military developed and used toxic bombs to gain an edge in the country’s devastating civil war."
+      "label": "drone attack kills soldiers in colombia",
+      "url": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
+      "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
+      "summary": "Officials accuse National Liberation Army of launching strike followed by clash inside military compound An attack involving explosives dropped from drones followed by a clash inside a military compound in north-eastern Colombia has kill..."
+    },
+    {
+      "char": "⚖️",
+      "label": "egyptian tv presenter sentenced to death",
+      "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
+      "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
+      "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawl..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Hope",
-    "emoji": "🙏",
-    "rationale": "Despite the challenges highlighted in various news items, the rescue of flood survivors in Nepal brings a glimmer of hope amidst despair, suggesting resilience and the possibility of recovery.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
