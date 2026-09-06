@@ -66439,5 +66439,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-06",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "trump's falklands stance",
+        "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+        "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
+        "summary": "US president suggests he might support his Argentinian ally’s drive to reclaim sovereignty of disputed islands Donald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservativ..."
+      },
+      {
+        "char": "🇦🇷",
+        "label": "milei supports falklands claim",
+        "url": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
+        "title": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands",
+        "summary": "President cites Trump’s suggestion that he might reconsider US stance on British sovereignty and threatens swifter sanctions on UK oil interests President Javier Milei has said “winds of change” favourable to Argentina’s claim to the Fal..."
+      },
+      {
+        "char": "💣",
+        "label": "drone attack in colombia",
+        "url": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
+        "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
+        "summary": "Officials accuse National Liberation Army of launching strike followed by clash inside military compound An attack involving explosives dropped from drones followed by a clash inside a military compound in north-eastern Colombia has kill..."
+      },
+      {
+        "char": "⚓",
+        "label": "us strikes iranian tankers",
+        "url": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html",
+        "title": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says",
+        "summary": "The U.S. military said it retaliated after Iran launched missiles at two warships. The strikes came days after the two sides exchanged some of their most intense fire in weeks."
+      },
+      {
+        "char": "⚖️",
+        "label": "tv presenter sentenced to death",
+        "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
+        "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
+        "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawl..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
