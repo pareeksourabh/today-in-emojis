@@ -66527,5 +66527,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-06",
+    "emojis": [
+      {
+        "char": "🇷🇺",
+        "label": "putin meets witkoff and kushner",
+        "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+        "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
+        "summary": "President Vladimir V. Putin ordered a pause in strikes on Ukraine’s capital, Kyiv, ahead of the meeting with President Trump’s envoys: his son-in-law Jared Kushner and the businessman Steve Witkoff."
+      },
+      {
+        "char": "⚖️",
+        "label": "tv presenter sentenced to death in egypt",
+        "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+        "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+        "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues."
+      },
+      {
+        "char": "🪖",
+        "label": "drone attack kills soldiers in colombia",
+        "url": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
+        "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
+        "summary": "Officials accuse National Liberation Army of launching strike followed by clash inside military compound An attack involving explosives dropped from drones followed by a clash inside a military compound in north-eastern Colombia has kill..."
+      },
+      {
+        "char": "🗺️",
+        "label": "un adopts new world map for africa",
+        "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+        "title": "UN votes to adopt new world map that shows Africa’s true scale",
+        "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the..."
+      },
+      {
+        "char": "🐝",
+        "label": "bad year for bees in canada",
+        "url": "https://www.nytimes.com/2026/09/06/world/canada/a-bad-year-for-bees-gets-worse-as-trumps-tariffs-hit-canadas-honey-belt.html",
+        "title": "A Bad Year for Bees Gets Worse as Trump’s Tariffs Hit Canada’s Honey Belt",
+        "summary": "Alberta produces 40 percent of Canada’s honey. This year, rain and President Trump’s trade war have combined to threaten the industry."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
