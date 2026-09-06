@@ -66615,5 +66615,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-06",
+    "emojis": [
+      {
+        "char": "🗺️",
+        "label": "un adopts new world map for africa",
+        "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+        "title": "UN votes to adopt new world map that shows Africa’s true scale",
+        "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the..."
+      },
+      {
+        "char": "⚖️",
+        "label": "egyptian presenter sentenced to death",
+        "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
+        "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
+        "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawl..."
+      },
+      {
+        "char": "🌊",
+        "label": "nepal floods rescue operation",
+        "url": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
+        "title": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
+        "summary": "A rescue from a mostly buried house gave new hope to a town devastated by floods in Nepal. Earlier Saturday, another survivor had been pulled from a tunnel."
+      },
+      {
+        "char": "💣",
+        "label": "blast at bolivia military barracks",
+        "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+        "title": "At least two dead in blast at Bolivia military barracks",
+        "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions."
+      },
+      {
+        "char": "🗳️",
+        "label": "germany election updates",
+        "url": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
+        "title": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show",
+        "summary": "The Alternative for Germany party was projected to finish first in the eastern state of Saxony-Anhalt. But it was not clear whether it would win a majority — which would propel a far-right party into power for the first time since World..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
