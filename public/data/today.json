@@ -1,41 +1,41 @@
 {
   "date": "2026-09-07",
-  "timestamp": "2026-09-07T00:00:00Z",
+  "timestamp": "2026-09-07T02:01:39Z",
   "emojis": [
     {
-      "char": "🇬🇧",
+      "char": "🇪🇸",
+      "label": "spain pm denies morocco border breach",
+      "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
+      "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
+      "summary": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross border Europe live – latest updates Spain has seen no evidence “whatsoever” that Morocco planned or facilitated a mass border breach i..."
+    },
+    {
+      "char": "🗺️",
+      "label": "un adopts new world map for africa",
+      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+      "title": "UN votes to adopt new world map that shows Africa’s true scale",
+      "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the..."
+    },
+    {
+      "char": "🤝",
+      "label": "jamaica petitions king for reparations",
+      "url": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
+      "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
+      "summary": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to..."
+    },
+    {
+      "char": "⚔️",
       "label": "falklands row raises defence spending",
       "url": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
       "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
       "summary": "Exclusive: Tan Dhesi says Argentinian threats make it more crucial than ever that PM increase defence spending Javier Milei’s threats to the Falkland Islands make it even more important that Andy Burnham increase defence spending immedia..."
     },
     {
-      "char": "⚖️",
-      "label": "mistrial in lindsay clancy case",
-      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-      "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids."
-    },
-    {
-      "char": "🕊️",
-      "label": "symbolic peace talks russia ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale."
-    },
-    {
       "char": "🇩🇪",
-      "label": "germany's afd could win state government",
-      "url": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html",
-      "title": "Germany’s AfD Could Win Its First State Government. Here’s What to Know.",
-      "summary": "The Alternative for Germany dominated the vote in Saxony-Anhalt, though it appeared to fall short of an absolute majority."
-    },
-    {
-      "char": "🇧🇷",
-      "label": "bolsonaro coup plan revealed",
-      "url": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
-      "title": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
-      "summary": "Carlos de Almeida Baptista Júnior describes 2022 meeting in new book as ex-leader’s son vies with Lula for presidency The far-right populist Jair Bolsonaro was in his final days as Brazil’s president when, six weeks after losing the ele..."
+      "label": "germany's afd set for big election win",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+      "summary": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%."
     }
   ],
   "source": "ai-openai",
