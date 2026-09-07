@@ -1,34 +1,139 @@
 {
   "date": "2026-09-07",
-  "timestamp": "2026-09-07T19:26:54Z",
+  "timestamp": "2026-09-07T00:00:00Z",
   "emojis": [
     {
-      "char": "✈️",
-      "label": "cargo plane overran runway in miami",
-      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "title": "Investigators begin work on why cargo plane overran Miami runway",
-      "summary": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport."
+      "char": "🇬🇧",
+      "label": "falklands row raises defence spending",
+      "url": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
+      "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
+      "summary": "Exclusive: Tan Dhesi says Argentinian threats make it more crucial than ever that PM increase defence spending Javier Milei’s threats to the Falkland Islands make it even more important that Andy Burnham increase defence spending immedia..."
     },
     {
       "char": "⚖️",
-      "label": "tv presenter sentenced to death in egypt",
-      "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
-      "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
-      "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawl..."
+      "label": "mistrial in lindsay clancy case",
+      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids."
     },
     {
-      "char": "🇬🇧",
-      "label": "uk targets israeli settlements with ban",
-      "url": "https://www.nytimes.com/2026/09/07/world/middleeast/britain-sanctions-israeli-settlers.html",
-      "title": "Britain Set to Target Israeli West Bank Settlements With Trade Ban",
-      "summary": "The expected move will be announced on Tuesday, officials said, and underscored Israel’s mounting isolation over its policies toward Palestinians following the war in Gaza."
+      "char": "🕊️",
+      "label": "symbolic peace talks russia ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale."
     },
     {
-      "char": "💥",
-      "label": "israel strikes in lebanon escalate conflict",
-      "url": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html",
-      "title": "Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies",
-      "summary": "The bombardment killed 11 people, Lebanese officials said, after days of attacks that have spurred worries that Israel is looking to push deeper into Lebanese territory."
+      "char": "🇩🇪",
+      "label": "germany's afd could win state government",
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html",
+      "title": "Germany’s AfD Could Win Its First State Government. Here’s What to Know.",
+      "summary": "The Alternative for Germany dominated the vote in Saxony-Anhalt, though it appeared to fall short of an absolute majority."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "bolsonaro coup plan revealed",
+      "url": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
+      "title": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
+      "summary": "Carlos de Almeida Baptista Júnior describes 2022 meeting in new book as ex-leader’s son vies with Lula for presidency The far-right populist Jair Bolsonaro was in his final days as Brazil’s president when, six weeks after losing the ele..."
+    },
+    {
+      "char": "🕊️",
+      "label": "apartheid victims seek justice",
+      "url": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
+      "title": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
+      "summary": "Claim relating to 1960 attack on hundreds of protesters part of wave of litigation over apartheid crimes in South Africa The day dawned brightly on 21 March 1960, as residents of the South African township of Sharpeville gathered to prot..."
+    },
+    {
+      "char": "🇩🇪",
+      "label": "germany's far-right election surge",
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html",
+      "title": "Germany’s AfD Could Win Its First State Government. Here’s What to Know.",
+      "summary": "The Alternative for Germany dominated the vote in Saxony-Anhalt, though it appeared to fall short of an absolute majority."
+    },
+    {
+      "char": "🐝",
+      "label": "trump's tariffs hurt canadian bees",
+      "url": "https://www.nytimes.com/2026/09/06/world/canada/trump-tariffs-canada-bees-honey.html",
+      "title": "A Bad Year for Bees Gets Worse as Trump’s Tariffs Hit Canada’s Honey Belt",
+      "summary": "Alberta produces 40 percent of Canada’s honey. This year, rain and President Trump’s trade war have combined to threaten the industry."
+    },
+    {
+      "char": "🏗️",
+      "label": "building collapse in delhi",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down."
+    },
+    {
+      "char": "🌍",
+      "label": "un adopts new world map",
+      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+      "title": "UN votes to adopt new world map that shows Africa’s true scale",
+      "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the..."
+    },
+    {
+      "char": "🇩🇪",
+      "label": "afd victory in saxony-anhalt",
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-europe-far-right-saxony-anhalt.html",
+      "title": "AfD Victory in Saxony-Anhalt Sends a Signal to Europe",
+      "summary": "A vote in eastern Germany has given fresh momentum to hard-right parties hoping to win elections across Europe next year, analysts said."
+    },
+    {
+      "char": "🕊️",
+      "label": "zelensky expects war to continue",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv."
+    },
+    {
+      "char": "🤖",
+      "label": "china's graduates face ai challenges",
+      "url": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html",
+      "title": "China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
+      "summary": "A record 12.7 million young people are looking for jobs as the country embraces artificial intelligence — and as the technology begins to upend the work force."
+    },
+    {
+      "char": "🇦🇷",
+      "label": "trump's pique with uk over falklands",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+      "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
+      "summary": "US president suggests he might support his Argentinian ally’s drive to reclaim sovereignty of disputed islands Donald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservativ..."
+    },
+    {
+      "char": "🌋",
+      "label": "indonesia volcano leaves 270,000 stranded",
+      "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+      "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
+      "summary": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday."
+    },
+    {
+      "char": "🇮🇱",
+      "label": "israeli strikes in lebanon kill nine",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli strikes in southern Lebanese village kill nine",
+      "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah."
+    },
+    {
+      "char": "🇪🇸",
+      "label": "spain pm denies morocco border breach",
+      "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
+      "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
+      "summary": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross border Europe live – latest updates Spain has seen no evidence “whatsoever” that Morocco planned or facilitated a mass border breach i..."
+    },
+    {
+      "char": "🇳🇵",
+      "label": "nepal mourns victims of flash floods",
+      "url": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
+      "title": "Nepal observes national day of mourning for victims of flash flood disaster",
+      "summary": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period."
+    },
+    {
+      "char": "🇩🇪",
+      "label": "germany's far right misses majority",
+      "url": "https://www.nytimes.com/2026/09/06/world/europe/germany-afd-election-saxony-anhalt.html",
+      "title": "Germany’s Far Right Just Misses Majority in Crucial State Election",
+      "summary": "The Alternative for Germany, or AfD, trounced its rivals but was left unsure if it will be able to govern in Saxony-Anhalt. The result shocked Germany."
     },
     {
       "char": "🌪️",
@@ -36,8 +141,64 @@
       "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
       "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
       "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong province..."
+    },
+    {
+      "char": "🇧🇮",
+      "label": "burundians leave kenya ahead of crackdown",
+      "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+      "title": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
+      "summary": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses."
+    },
+    {
+      "char": "🇮🇱",
+      "label": "israel strikes in lebanon escalate",
+      "url": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html",
+      "title": "Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies",
+      "summary": "The bombardment killed 11 people, Lebanese officials said, after days of attacks that have spurred worries that Israel is looking to push deeper into Lebanese territory."
+    },
+    {
+      "char": "🇩🇪",
+      "label": "germany's far right faces challenges",
+      "url": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html",
+      "title": "Germany’s ‘Firewall’ Against the Far Right Is Being Tested as Never Before",
+      "summary": "A blowout win by the far-right Alternative for Germany party in a state election has revealed a split among voters about whether to uphold a decades-old strategy for sidelining extremists."
+    },
+    {
+      "char": "🌪️",
+      "label": "typhoon saudel causes evacuations",
+      "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
+      "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
+      "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong province..."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "canada's tariffs amid trade tensions",
+      "url": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html",
+      "title": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
+      "summary": "New Canadian levies of up to 50 percent are expected to begin Tuesday, even as Washington warns of a new round of American tariffs."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Worry",
+    "emoji": "😨",
+    "rationale": "The news items highlight a range of distressing events, including military conflicts, natural disasters, and political instability, which collectively evoke a sense of anxiety and concern for the future.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
