@@ -67055,5 +67055,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-08",
+    "emojis": [
+      {
+        "char": "🇦🇷",
+        "label": "argentina files case against oil company",
+        "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+        "title": "Argentina to file criminal case against oil company operating in Falklands",
+        "summary": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands."
+      },
+      {
+        "char": "🌊",
+        "label": "flood victims remembered in tibet",
+        "url": "https://www.nytimes.com/2026/09/08/world/asia/china-nepal-border-flood-tibet-victims-messages.html",
+        "title": "Online Posts Show Families’ Grief for Flood Victims on Tibet’s Side of China-Nepal Border",
+        "summary": "The authorities have not released an official list of those missing in the Tibet flood, creating an information void that people have tried to fill."
+      },
+      {
+        "char": "🌀",
+        "label": "typhoon saudel causes evacuations",
+        "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
+        "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
+        "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong province..."
+      },
+      {
+        "char": "🏴‍☠️",
+        "label": "pirates return to somalia seas",
+        "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+        "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+        "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not se..."
+      },
+      {
+        "char": "⚖️",
+        "label": "trial begins for surfers' killers",
+        "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
+        "title": "‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend",
+        "summary": "Bereaved mother Debra Robinson in court stares at three men accused of murdering Jake and Callum Robinson and Jack Carter Rhoad in 2024 The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot have g..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
