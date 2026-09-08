@@ -66879,5 +66879,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-08",
+    "emojis": [
+      {
+        "char": "🗼",
+        "label": "eiffel tower protest over staff move",
+        "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+        "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+        "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative."
+      },
+      {
+        "char": "✈️",
+        "label": "trump threatens canadian jet sales",
+        "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+        "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours."
+      },
+      {
+        "char": "⚔️",
+        "label": "uk targets israeli settlements with trade ban",
+        "url": "https://www.nytimes.com/2026/09/07/world/middleeast/britain-sanctions-israeli-settlers.html",
+        "title": "Britain Set to Target Israeli West Bank Settlements With Trade Ban",
+        "summary": "The expected move will be announced on Tuesday, officials said, and underscored Israel’s mounting isolation over its policies toward Palestinians following the war in Gaza."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "grindr settles hiv status sharing claims",
+        "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+        "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+        "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties."
+      },
+      {
+        "char": "⚖️",
+        "label": "trial begins for alleged surfers' killers",
+        "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
+        "title": "‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend",
+        "summary": "Three men on trial for killing Jake and Callum Robinson and Jack Carter Rhoad in Baja California in 2024 The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot have gone on trial, two years after t..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
