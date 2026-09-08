@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news items reflect a day filled with serious issues including violence, international disputes, and humanitarian crises, creating an overall sense of concern and urgency.",
+    "emotion_label": "😔",
+    "emoji": "😔",
+    "rationale": "Today’s news is marked by significant grief and tension, with reports of violence, loss, and ongoing struggles for justice and recognition. The emotional weight of these events reflects a somber reality.",
     "palette": [
       "😢",
       "😡",
