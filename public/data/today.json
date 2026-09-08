@@ -1,41 +1,41 @@
 {
   "date": "2026-09-08",
-  "timestamp": "2026-09-08T12:41:52Z",
+  "timestamp": "2026-09-08T00:00:00Z",
   "emojis": [
     {
-      "char": "🇰🇪",
-      "label": "kenya registers burundians amid tension",
-      "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-      "title": "Kenya moves to register frightened Burundians as tension over foreign traders rises",
-      "summary": "All foreigners without proper documents in Kenya are urged to register through their embassies."
+      "char": "🚆",
+      "label": "peace express to ukraine",
+      "url": "https://www.nytimes.com/2026/09/07/world/europe/ukraine-russia-witkoff-kushner-trump.html",
+      "title": "They Went to Ukraine on the ‘Peace Express.’ Detours Are Likely Ahead.",
+      "summary": "The Trump administration had let the peace process enter such a freeze that a trip to Kyiv was just an initial step. Any new talks will happen alongside escalating fighting."
     },
     {
-      "char": "🇸🇦",
-      "label": "saudi arabia vows retaliation after attacks",
-      "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
-      "title": "Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens",
-      "summary": "The latest escalation threatens to drag Saudi Arabia and the Iran-backed Houthi militia back into a full-blown war."
+      "char": "🚢",
+      "label": "china's arctic shipping route",
+      "url": "https://www.nytimes.com/2026/09/08/world/europe/china-arctic-shipping-trade-route.html",
+      "title": "Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?",
+      "summary": "Melting ice is opening a trade route through the Arctic. China has begun the first regular service, part of its polar ambitions."
     },
     {
-      "char": "🗺️",
-      "label": "un adopts new world map showing africa's scale",
-      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-      "title": "UN votes to adopt new world map that shows Africa’s true scale",
-      "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the..."
-    },
-    {
-      "char": "🌊",
-      "label": "typhoon saudel causes mass evacuations",
-      "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
-      "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
-      "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong province..."
-    },
-    {
-      "char": "⚖️",
-      "label": "jamaica petitions king charles for reparations",
+      "char": "🤝",
+      "label": "jamaica's reparations petition",
       "url": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
       "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
       "summary": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to..."
+    },
+    {
+      "char": "📱",
+      "label": "australian social media law",
+      "url": "https://www.nytimes.com/2026/09/08/world/australia/social-media-law-algorithms-digital-duty-care.html",
+      "title": "Australian Social Media Users Could Get Power to Switch Off Algorithms",
+      "summary": "Technology companies have been “running real-time, unregulated product testing on Australians” for too long, communications minister says."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "canada's tariffs on us",
+      "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
+      "title": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
+      "summary": "Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods Canada’s retaliatory tariffs on billions of dollars’ worth of American imports have come into effect, escalating a trade fight that has be..."
     }
   ],
   "source": "ai-openai",
