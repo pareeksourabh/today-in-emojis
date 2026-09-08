@@ -66923,5 +66923,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-08",
+    "emojis": [
+      {
+        "char": "🗺️",
+        "label": "un adopts new world map for africa",
+        "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+        "title": "UN votes to adopt new world map that shows Africa’s true scale",
+        "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the..."
+      },
+      {
+        "char": "🌉",
+        "label": "north korea-russia bridge opens",
+        "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+        "title": "North Korea and Russia open first road bridge linking both countries",
+        "summary": "Relations between the neighbours have strengthened since the start of the Ukraine war."
+      },
+      {
+        "char": "🌊",
+        "label": "flood victims remembered in tibet",
+        "url": "https://www.nytimes.com/2026/09/08/world/asia/china-nepal-border-flood-tibet-victims-messages.html",
+        "title": "Online Posts Show Families’ Grief for Flood Victims on Tibet’s Side of China-Nepal Border",
+        "summary": "The authorities have not released an official list of those missing in the Tibet flood, creating an information void that people have tried to fill."
+      },
+      {
+        "char": "⚖️",
+        "label": "philippines lawmaker charged with kickbacks",
+        "url": "https://www.nytimes.com/2026/09/07/world/asia/philippines-romualdez-arrest-kickbacks.html",
+        "title": "Philippines Lawmaker, Cousin of Marcos, Charged With Taking Kickbacks",
+        "summary": "A cousin of President Ferdinand Marcos Jr. was charged with plundering public funds meant for flood control in the Southeast Asian country. He has denied wrongdoing."
+      },
+      {
+        "char": "🇪🇸",
+        "label": "spain pm denies morocco border breach",
+        "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
+        "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
+        "summary": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross border Europe live – latest updates Spain has seen no evidence “whatsoever” that Morocco planned or facilitated a mass border breach i..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
