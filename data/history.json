@@ -67011,5 +67011,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-08",
+    "emojis": [
+      {
+        "char": "🏥",
+        "label": "sudan healthcare crisis",
+        "url": "https://www.bbc.co.uk/news/articles/c62m8247yleo?at_medium=RSS&at_campaign=rss",
+        "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
+        "summary": "Médecins Sans Frontières is urging world leaders to increase funding to help the millions who need aid."
+      },
+      {
+        "char": "🇬🇧",
+        "label": "uk sanctions israel settlements",
+        "url": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
+        "title": "UK Imposes Sanctions on Israeli Settlements in West Bank, Accuses Settlers of Ethnic Cleansing",
+        "summary": "Britain said Israel had “turned a blind eye” to violence against Palestinians by extremist settlers, as it joined allies in announcing a ban on trade with illegal settlements."
+      },
+      {
+        "char": "📜",
+        "label": "jamaica reparations petition",
+        "url": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
+        "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
+        "summary": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to..."
+      },
+      {
+        "char": "⚖️",
+        "label": "egyptian presenter death sentence",
+        "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
+        "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
+        "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawl..."
+      },
+      {
+        "char": "🚢",
+        "label": "china arctic shipping route",
+        "url": "https://www.nytimes.com/2026/09/08/world/europe/china-arctic-shipping-trade-route.html",
+        "title": "Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?",
+        "summary": "Melting ice is opening a trade route through the Arctic. China has begun the first regular service, part of its polar ambitions."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
