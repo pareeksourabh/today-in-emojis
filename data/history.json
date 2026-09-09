@@ -67143,5 +67143,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-09",
+    "emojis": [
+      {
+        "char": "🎨",
+        "label": "renoir paintings stolen in heist",
+        "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+        "title": "Renoir paintings worth millions stolen in French museum heist",
+        "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight."
+      },
+      {
+        "char": "⚔️",
+        "label": "saudi arabia and yemen on brink of war",
+        "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
+        "title": "Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War",
+        "summary": "The Saudi authorities said dozens were injured in attacks by the Iran-backed militia and vowed to retaliate."
+      },
+      {
+        "char": "🇩🇪",
+        "label": "afd's far right win pressures germany",
+        "url": "https://www.nytimes.com/2026/09/08/world/europe/germany-merz-pressure-afd.html",
+        "title": "AfD’s Far Right Win Puts New Pressure on Germany’s Leader Merz",
+        "summary": "Antipathy to Chancellor Friedrich Merz was a reason the far right surged in a state election. Though he does not face a national election until 2029, his leadership is under increasing scrutiny."
+      },
+      {
+        "char": "🚢",
+        "label": "china takes arctic shipping shortcut",
+        "url": "https://www.nytimes.com/2026/09/08/world/europe/china-arctic-shipping-trade-route.html",
+        "title": "Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?",
+        "summary": "Melting ice is opening a trade route through the Arctic. China has begun the first regular service, part of its polar ambitions."
+      },
+      {
+        "char": "🕊️",
+        "label": "jamaica hands reparations petition",
+        "url": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
+        "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
+        "summary": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
