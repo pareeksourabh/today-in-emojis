@@ -3,39 +3,39 @@
   "timestamp": "2026-09-09T00:00:00Z",
   "emojis": [
     {
-      "char": "🇨🇦",
-      "label": "canada retaliates against us tariffs",
-      "url": "https://www.nytimes.com/2026/09/08/world/canada/carney-tariffs-trade.html",
-      "title": "Carney Says Retaliation Against U.S. Tariffs Was Unavoidable",
-      "summary": "In a video address, the prime minister said the United States was seeking “dependency, not a true economic partnership” from Canada."
+      "char": "🇬🇧",
+      "label": "falklands row raises defence spending",
+      "url": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
+      "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
+      "summary": "Exclusive: Tan Dhesi says Argentinian threats make it more crucial than ever that PM increase defence spending Javier Milei’s threats to the Falkland Islands make it even more important that Andy Burnham increase defence spending immedia..."
     },
     {
-      "char": "⚖️",
-      "label": "egyptian presenter sentenced to death",
+      "char": "🎨",
+      "label": "egyptian tv presenter sentenced to death",
       "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
       "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
       "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawl..."
     },
     {
-      "char": "🌪️",
-      "label": "typhoon causes mass evacuations in china",
-      "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
-      "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
-      "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong province..."
-    },
-    {
-      "char": "🗺️",
-      "label": "un adopts new world map for africa",
-      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-      "title": "UN votes to adopt new world map that shows Africa’s true scale",
-      "summary": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the..."
-    },
-    {
       "char": "⚔️",
-      "label": "saudi arabia and houthis brink of war",
+      "label": "saudi arabia and yemen on brink of war",
       "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
       "title": "Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War",
       "summary": "The Saudi authorities said dozens were injured in attacks by the Iran-backed militia and vowed to retaliate."
+    },
+    {
+      "char": "🧠",
+      "label": "study: anaemic mothers affect babies' brains",
+      "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
+      "title": "Babies born to anaemic mothers have smaller brains, study finds",
+      "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the..."
+    },
+    {
+      "char": "🌪️",
+      "label": "typhoon saudel causes mass evacuations",
+      "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
+      "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
+      "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong province..."
     }
   ],
   "source": "ai-openai",
