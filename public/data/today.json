@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "sadness",
+    "emotion_label": "😢",
     "emoji": "😢",
-    "rationale": "The news items highlight significant tragedies and crises, including drone strikes, trade wars, and natural disasters causing evacuations, evoking a strong sense of sadness and concern for humanity.",
+    "rationale": "Today's news is filled with tragic events, including loss of life from drone attacks and natural disasters, evoking a profound sense of sorrow and grief.",
     "palette": [
       "😢",
       "😡",
