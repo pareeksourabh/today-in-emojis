@@ -1,41 +1,41 @@
 {
   "date": "2026-09-09",
-  "timestamp": "2026-09-09T08:51:33Z",
+  "timestamp": "2026-09-09T00:00:00Z",
   "emojis": [
     {
-      "char": "🎨",
-      "label": "renoir paintings stolen in heist",
-      "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
-      "title": "Renoir paintings worth millions stolen in French museum heist",
-      "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight."
+      "char": "📚",
+      "label": "dutch town teaches adolescence in school",
+      "url": "https://www.nytimes.com/2026/09/09/world/europe/netherlands-adolescence-manophere-education.html",
+      "title": "Why This Small Dutch Town Is Teaching ‘Adolescence’ in School",
+      "summary": "The Netflix series is seen as a way to kindle debate about gender roles and to confront online bullying."
+    },
+    {
+      "char": "🏴‍☠️",
+      "label": "pirates return to hijacking off somalia",
+      "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+      "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+      "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not se..."
     },
     {
       "char": "⚔️",
-      "label": "saudi arabia and yemen on brink of war",
-      "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
-      "title": "Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War",
-      "summary": "The Saudi authorities said dozens were injured in attacks by the Iran-backed militia and vowed to retaliate."
+      "label": "iran ready to escalate war with us",
+      "url": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html",
+      "title": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
+      "summary": "The Iranian government is taking an increasingly aggressive approach as it confronts a growing economic threat and worries that its grip on the Strait of Hormuz is slipping, analysts say."
     },
     {
-      "char": "🇩🇪",
-      "label": "afd's far right win pressures germany",
-      "url": "https://www.nytimes.com/2026/09/08/world/europe/germany-merz-pressure-afd.html",
-      "title": "AfD’s Far Right Win Puts New Pressure on Germany’s Leader Merz",
-      "summary": "Antipathy to Chancellor Friedrich Merz was a reason the far right surged in a state election. Though he does not face a national election until 2029, his leadership is under increasing scrutiny."
+      "char": "🌧️",
+      "label": "nepal flood relief amid usaid cuts",
+      "url": "https://www.nytimes.com/2026/09/09/world/asia/nepal-floods-usaid-trump-relief.html",
+      "title": "Nepal’s Flood Relief Workers Feel the Pain of Trump’s Cuts to U.S.A.I.D.",
+      "summary": "The agency played an important role in responding to earlier disasters like the 2015 earthquake. But the U.S. and other countries have pulled back, Nepali officials and humanitarian groups say."
     },
     {
-      "char": "🚢",
-      "label": "china takes arctic shipping shortcut",
-      "url": "https://www.nytimes.com/2026/09/08/world/europe/china-arctic-shipping-trade-route.html",
-      "title": "Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?",
-      "summary": "Melting ice is opening a trade route through the Arctic. China has begun the first regular service, part of its polar ambitions."
-    },
-    {
-      "char": "🕊️",
-      "label": "jamaica hands reparations petition",
-      "url": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
-      "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
-      "summary": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to..."
+      "char": "🍻",
+      "label": "us bans imports of canadian goods",
+      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+      "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force."
     }
   ],
   "source": "ai-openai",
