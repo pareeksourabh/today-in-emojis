@@ -67275,5 +67275,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-09",
+    "emojis": [
+      {
+        "char": "🍺",
+        "label": "us bans canadian alcohol imports",
+        "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+        "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+        "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force."
+      },
+      {
+        "char": "🇩🇪",
+        "label": "germany's far right party gains power",
+        "url": "https://www.nytimes.com/2026/09/09/world/europe/afd-bsw-sahra-wagenknecht.html",
+        "title": "This Tiny Anti-Establishment Party May Put Germany’s Far Right in Power",
+        "summary": "Germany’s far right won a state election but fell short of a majority. Its path to power depends on a small populist group that defies traditional labels."
+      },
+      {
+        "char": "🏅",
+        "label": "uganda withdraws from invictus games",
+        "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+        "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+        "summary": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate."
+      },
+      {
+        "char": "🚤",
+        "label": "us boat strikes target in south america",
+        "url": "https://www.nytimes.com/2026/09/09/world/americas/us-boat-strikes-south-america.html",
+        "title": "U.S. Takes Aim at New Target in Deadly Boat Strike Campaign",
+        "summary": "U.S. military officials in the past two weeks have sunk six large fishing vessels accused of providing fuel to fast boats carrying drugs from South America."
+      },
+      {
+        "char": "🏴‍☠️",
+        "label": "pirates return to somalia's waters",
+        "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+        "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+        "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not se..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
