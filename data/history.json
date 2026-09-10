@@ -67407,5 +67407,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-10",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "gander welcomed americans in 2001",
+        "url": "https://www.nytimes.com/2026/09/10/world/canada/9-11-gander-newfoundland-canada-us.html",
+        "title": "Gander Welcomed Americans in 2001. Now, U.S.-Canada Tensions Hit Home",
+        "summary": "The Newfoundland town welcomed thousands of frightened airline passengers on Sept. 11, but 25 years later, mixed emotions run through anniversary plans amid an escalating trade war."
+      },
+      {
+        "char": "🏴‍☠️",
+        "label": "hijacking pirates off somalia",
+        "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+        "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+        "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not se..."
+      },
+      {
+        "char": "🤝",
+        "label": "uganda withdraws from invictus games",
+        "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
+        "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
+        "summary": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’ Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said, out of respect for K..."
+      },
+      {
+        "char": "🧠",
+        "label": "babies born to anaemic mothers",
+        "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
+        "title": "Babies born to anaemic mothers have smaller brains, study finds",
+        "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the..."
+      },
+      {
+        "char": "🌪️",
+        "label": "typhoon saudel mass evacuations",
+        "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
+        "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
+        "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong province..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
