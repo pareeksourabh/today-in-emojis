@@ -67319,5 +67319,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-10",
+    "emojis": [
+      {
+        "char": "🚤",
+        "label": "us boat strike campaign",
+        "url": "https://www.nytimes.com/2026/09/09/world/americas/us-boat-strikes-south-america.html",
+        "title": "U.S. Takes Aim at New Target in Deadly Boat Strike Campaign",
+        "summary": "U.S. military officials in the past two weeks have sunk six large fishing vessels accused of providing fuel to fast boats carrying drugs from South America."
+      },
+      {
+        "char": "🛢️",
+        "label": "oil prices surge to $100",
+        "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+        "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday"
+      },
+      {
+        "char": "🔍",
+        "label": "uk police investigate death",
+        "url": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
+        "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
+        "summary": "Andrew Frederick’s body was found in property he was staying at in Grenada in January The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK police to uncover the tr..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola panic in congo",
+        "url": "https://www.nytimes.com/2026/09/09/world/africa/ebola-congo-truck-driver.html",
+        "title": "How a Driver’s Sudden Death Triggered Ebola Panic in Congo",
+        "summary": "When a truck driver unexpectedly collapsed and died in a remote village, frontline medical staff scrambled to safely isolate his body, triggering a standoff."
+      },
+      {
+        "char": "🌪️",
+        "label": "typhoon causes evacuations",
+        "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
+        "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
+        "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong province..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
