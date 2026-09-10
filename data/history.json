@@ -67363,5 +67363,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-10",
+    "emojis": [
+      {
+        "char": "🚢",
+        "label": "ferry fire in the philippines",
+        "url": "https://www.nytimes.com/2026/09/09/world/asia/philippines-ferry-fire-palawan.html",
+        "title": "At Least 5 Dead, More Than 80 Missing After Ferry Fire in the Philippines",
+        "summary": "The June Aster was sailing from Manila to Coron, a popular tourist destination, when a fire broke out aboard the vessel."
+      },
+      {
+        "char": "🌪️",
+        "label": "typhoon saudel in china",
+        "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
+        "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
+        "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong province..."
+      },
+      {
+        "char": "🇺🇸",
+        "label": "us-uganda invictus games withdrawal",
+        "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
+        "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
+        "summary": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’ Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said, out of respect for K..."
+      },
+      {
+        "char": "💔",
+        "label": "family seeks justice in grenada",
+        "url": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
+        "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
+        "summary": "Andrew Frederick’s body was found in property he was staying at in Grenada in January The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK police to uncover the tr..."
+      },
+      {
+        "char": "💼",
+        "label": "ukraine's budget gap rattles europe",
+        "url": "https://www.nytimes.com/2026/09/09/world/europe/ukraine-war-cost.html",
+        "title": "Ukraine’s Unexpected $27 Billion Budget Gap Rattles Europe",
+        "summary": "An unexpected request from President Volodymyr Zelensky offered a stark reminder that the cost of the war will rise, challenging Europe."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
