@@ -67539,5 +67539,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-11",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "gander welcomed americans in 2001",
+        "url": "https://www.nytimes.com/2026/09/10/world/canada/9-11-gander-newfoundland-canada-us.html",
+        "title": "Gander Welcomed Americans in 2001. Now, U.S.-Canada Tensions Hit Home.",
+        "summary": "The Newfoundland town welcomed thousands of frightened airline passengers on Sept. 11, but 25 years later, mixed emotions run through anniversary plans amid an escalating trade war."
+      },
+      {
+        "char": "🏺",
+        "label": "ancient tombs found under peru's sands",
+        "url": "https://www.nytimes.com/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html",
+        "title": "Ancient Tombs, Untouched by Looters, Are Found Under Peru’s Sands",
+        "summary": "One archaeologist called the tombs “the discovery of the decade” as the first burials from the Chimu kingdom to have escaped centuries of plunder."
+      },
+      {
+        "char": "⚖️",
+        "label": "man jailed for threatening son's teacher",
+        "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+        "title": "Man jailed after threatening to kill son's teacher in French village",
+        "summary": "The father had threatened to behead a female primary school teacher near Toulouse."
+      },
+      {
+        "char": "🌊",
+        "label": "typhoon saudel causes mass evacuations",
+        "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
+        "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
+        "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong province..."
+      },
+      {
+        "char": "🕊️",
+        "label": "yemen's houthis seize strategic port",
+        "url": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
+        "title": "Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally",
+        "summary": "The Iran-backed militia routed Yemeni government forces in Mokha, putting the group in a stronger position to attack ships in a crucial waterway for global trade."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
