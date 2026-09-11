@@ -67715,5 +67715,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-11",
+    "emojis": [
+      {
+        "char": "🧘‍♂️",
+        "label": "buddhist monk embezzlement scandal",
+        "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+        "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+        "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex."
+      },
+      {
+        "char": "🚌",
+        "label": "coach crash in swiss alps",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+        "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+        "summary": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps."
+      },
+      {
+        "char": "🧠",
+        "label": "anaemic mothers and brain size",
+        "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
+        "title": "Babies born to anaemic mothers have smaller brains, study finds",
+        "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the..."
+      },
+      {
+        "char": "🌍",
+        "label": "brics summit and emerging powers",
+        "url": "https://www.nytimes.com/2026/09/11/world/asia/brics-meeting-summit-delhi.html",
+        "title": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
+        "summary": "The leaders of China, Russia, India, Iran and other nations in the BRICS club gather in New Delhi this weekend, but wars and soaring energy prices divide them."
+      },
+      {
+        "char": "⚓",
+        "label": "houthis seize key red sea island",
+        "url": "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html",
+        "title": "Houthis Seize a Key Red Sea Island, Threatening Yet Another Global Oil Route",
+        "summary": "The Iran-backed militia’s ground offensive has reached the Bab al-Mandab, a Red Sea strait that is a choke point for global trade."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
