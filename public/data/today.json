@@ -1,204 +1,43 @@
 {
-  "date": "2026-09-10",
-  "timestamp": "2026-09-10T00:00:00Z",
+  "date": "2026-09-11",
+  "timestamp": "2026-09-11T00:00:00Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "australian surfers homicide trial",
-      "url": "https://www.theguardian.com/world/2026/sep/09/australian-surfers-jake-callum-robinson-homicide-trial-mexico-ntwnfb",
-      "title": "‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies",
-      "summary": "Three men are on trial over the death of brothers Jake and Callum Robinson and their friend, US citizen Jack Carter Rhoad, in Ensenada The father of two Australian surfers killed in Mexico two years ago testified in court on Tuesday that..."
-    },
-    {
-      "char": "🌪️",
-      "label": "typhoon saudel evacuations",
-      "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
-      "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
-      "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong province..."
-    },
-    {
-      "char": "⚔️",
-      "label": "yemen war escalation",
-      "url": "https://www.nytimes.com/2026/09/09/world/middleeast/saudi-yemen-strilkes.html",
-      "title": "Yemen Tilts Toward Full-Scale War as Saudi-Houthi Clashes Escalate",
-      "summary": "With its oil-export routes once again under threat, Saudi Arabia is stepping up its military campaign against an old antagonist."
-    },
-    {
-      "char": "🚤",
-      "label": "us boat strike campaign",
-      "url": "https://www.nytimes.com/2026/09/09/world/americas/us-boat-strikes-south-america.html",
-      "title": "U.S. Takes Aim at New Target in Deadly Boat Strike Campaign",
-      "summary": "U.S. military officials in the past two weeks have sunk six large fishing vessels accused of providing fuel to fast boats carrying drugs from South America."
-    },
-    {
-      "char": "🔫",
-      "label": "ecuador drug gang terrorist group",
-      "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
-      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
-      "summary": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as..."
-    },
-    {
-      "char": "🇩🇪",
-      "label": "germany's merz attacks afd in debate",
-      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers."
-    },
-    {
-      "char": "🇮🇷",
-      "label": "iran signals readiness to escalate war",
-      "url": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html",
-      "title": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
-      "summary": "The Iranian government is taking an increasingly aggressive approach as it confronts a growing economic threat and worries that its grip on the Strait of Hormuz is slipping, analysts say."
-    },
-    {
       "char": "🇨🇦",
-      "label": "us bans canadian dairy and alcohol",
-      "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
-      "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
-      "summary": "Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroad The US is banning dairy products, most alcoholic beverages and motorcycles from Canada , the White House said on Tuesday, as..."
-    },
-    {
-      "char": "🇺🇬",
-      "label": "uganda withdraws from invictus games",
-      "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
-      "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
-      "summary": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’ Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said, out of respect for K..."
-    },
-    {
-      "char": "💰",
-      "label": "singapore’s prime minister gets a big raise",
-      "url": "https://www.nytimes.com/2026/09/09/world/asia/singapore-minister-salary.html",
-      "title": "Singapore’s Prime Minister Gets a Big Raise",
-      "summary": "Singapore’s prime minister, Lawrence Wong, got the bump as part of a longstanding policy to pay high salaries to public servants in order to attract top talent and prevent corruption."
-    },
-    {
-      "char": "⚔️",
-      "label": "iran war won't end until elections",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election."
-    },
-    {
-      "char": "📱",
-      "label": "apple's new boss gambles on folding iphone",
-      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "title": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
-      "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years."
-    },
-    {
-      "char": "⚖️",
-      "label": "egyptian tv presenter sentenced to death",
-      "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
-      "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
-      "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawl..."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola panic triggered by driver's death",
-      "url": "https://www.nytimes.com/2026/09/09/world/africa/ebola-congo-truck-driver.html",
-      "title": "How a Driver’s Sudden Death Triggered Ebola Panic in Congo",
-      "summary": "When a truck driver unexpectedly collapsed and died in a remote village, frontline medical staff scrambled to safely isolate his body, triggering a standoff."
-    },
-    {
-      "char": "🌊",
-      "label": "fire on philippines ferry leaves many missing",
-      "url": "https://www.nytimes.com/2026/09/09/world/asia/philippines-ferry-fire-palawan.html",
-      "title": "At Least 5 Dead, More Than 80 Missing After Ferry Fire in the Philippines",
-      "summary": "The June Aster was sailing from Manila to Coron, a popular tourist destination, when a fire broke out aboard the vessel."
-    },
-    {
-      "char": "⚔️",
-      "label": "yemen on the brink of war",
-      "url": "https://www.nytimes.com/2026/09/10/world/middleeast/yemen-houthis-saudis-war.html",
-      "title": "Why Yemen Is Back on the Brink of War",
-      "summary": "The Houthi militia, the Yemeni government, Iran and Saudi Arabia all have reasons to escalate the conflict."
+      "label": "gander welcomed americans in 2001",
+      "url": "https://www.nytimes.com/2026/09/10/world/canada/9-11-gander-newfoundland-canada-us.html",
+      "title": "Gander Welcomed Americans in 2001. Now, U.S.-Canada Tensions Hit Home.",
+      "summary": "The Newfoundland town welcomed thousands of frightened airline passengers on Sept. 11, but 25 years later, mixed emotions run through anniversary plans amid an escalating trade war."
     },
     {
       "char": "🇦🇺",
-      "label": "australian surfers homicide trial",
+      "label": "father of slain surfers testifies in trial",
       "url": "https://www.theguardian.com/world/2026/sep/09/australian-surfers-jake-callum-robinson-homicide-trial-mexico-ntwnfb",
       "title": "‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies",
       "summary": "Three men are on trial over the death of brothers Jake and Callum Robinson and their friend, US citizen Jack Carter Rhoad, in Ensenada The father of two Australian surfers killed in Mexico two years ago testified in court on Tuesday that..."
     },
     {
-      "char": "🔥",
-      "label": "ferry fire in the philippines",
-      "url": "https://www.nytimes.com/2026/09/09/world/asia/philippines-ferry-fire-palawan.html",
-      "title": "At Least 5 Dead, More Than 80 Missing After Ferry Fire in the Philippines",
-      "summary": "The June Aster was sailing from Manila to Coron, a popular tourist destination, when a fire broke out aboard the vessel."
-    },
-    {
-      "char": "🌪️",
-      "label": "typhoon saudel evacuations",
-      "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
-      "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
-      "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong province..."
-    },
-    {
-      "char": "💔",
-      "label": "chimamanda ngozi adichie's loss",
-      "url": "https://www.nytimes.com/2026/09/10/world/africa/chimamanda-ngozi-adichie-nigeria-son-death.html",
-      "title": "After a Difficult Loss, Nigeria Has Become a Source of Pain for Chimamanda Ngozi Adichie",
-      "summary": "Chimamanda Ngozi Adichie has moved countless readers with her novels about Nigerians at home and abroad. After the death in Lagos of her toddler son, her homeland no longer feels as much like home."
-    },
-    {
-      "char": "🗳️",
-      "label": "trump's election pledge legality",
-      "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
-      "summary": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms."
-    },
-    {
-      "char": "🕊️",
-      "label": "9/11 compensation fund insights",
-      "url": "https://www.nytimes.com/2026/09/10/world/kenneth-feinberg-sept-11-compensation.html",
-      "title": "Kenneth Feinberg Recalls Running the 9/11 Compensation Fund",
-      "summary": "Kenneth Feinberg says the nearly three years he spent running the Sept. 11 compensation fund changed his life view forever."
-    },
-    {
       "char": "🏺",
-      "label": "ancient mausoleum discovered in peru",
+      "label": "ancient tombs found under peru's sands",
       "url": "https://www.nytimes.com/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html",
-      "title": "An Ancient Mausoleum, Untouched by Looters, Is Found Under Peru’s Sands",
+      "title": "Ancient Tombs, Untouched by Looters, Are Found Under Peru’s Sands",
       "summary": "One archaeologist called the tombs “the discovery of the decade” as the first burials from the Chimu kingdom to have escaped centuries of plunder."
     },
     {
-      "char": "🌪️",
-      "label": "typhoon saudel causes evacuations",
-      "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
-      "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
-      "summary": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong province..."
-    },
-    {
       "char": "🔥",
-      "label": "cargo ship fire in eastern china",
+      "label": "fire on cargo ship kills twenty-five",
       "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
       "title": "Twenty-five dead after fire on cargo ship in eastern China",
       "summary": "Of the 42 people on board, 17 were were evacuated, CCTV reports."
+    },
+    {
+      "char": "⚓",
+      "label": "houthis seize strategic red sea port",
+      "url": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
+      "title": "Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally",
+      "summary": "The Iran-backed militia routed Yemeni government forces in Mokha, putting the group in a stronger position to attack ships in a crucial waterway for global trade."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "Today's news is filled with tragic stories of loss and conflict, including a father's grief over his slain sons and multiple disasters causing fatalities. The pervasive themes of violence and suffering evoke a deep sense of sorrow.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
