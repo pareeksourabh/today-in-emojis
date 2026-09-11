@@ -3,39 +3,39 @@
   "timestamp": "2026-09-11T00:00:00Z",
   "emojis": [
     {
-      "char": "🏴‍☠️",
+      "char": "👨‍🏫",
+      "label": "man jailed for teacher threat",
+      "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "summary": "The father had threatened to behead a female primary school teacher near Toulouse."
+    },
+    {
+      "char": "✈️",
+      "label": "amazon cargo plane crash",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+      "summary": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded."
+    },
+    {
+      "char": "💥",
+      "label": "russian strike in ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
+      "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+      "summary": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report."
+    },
+    {
+      "char": "🇪🇨",
+      "label": "ecuador gang designated terrorist",
+      "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
+      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
+      "summary": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as..."
+    },
+    {
+      "char": "⚓",
       "label": "pirates return to somalia seas",
       "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
       "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
       "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not se..."
-    },
-    {
-      "char": "🔥",
-      "label": "ferry fire in the philippines",
-      "url": "https://www.nytimes.com/2026/09/09/world/asia/philippines-ferry-fire-palawan.html",
-      "title": "At Least 5 Dead, More Than 80 Missing After Ferry Fire in the Philippines",
-      "summary": "The June Aster was sailing from Manila to Coron, a popular tourist destination, when a fire broke out aboard the vessel."
-    },
-    {
-      "char": "⚓",
-      "label": "houthis seize red sea port",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-      "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route."
-    },
-    {
-      "char": "👶",
-      "label": "anaemic mothers and brain size",
-      "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
-      "title": "Babies born to anaemic mothers have smaller brains, study finds",
-      "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the..."
-    },
-    {
-      "char": "👑",
-      "label": "ugandan king's succession dispute",
-      "url": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
-      "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
-      "summary": "Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarch A traditional Ugandan kingdom has become engulfed in a bitter succession dispute after the family of a king who re..."
     }
   ],
   "source": "ai-openai",
