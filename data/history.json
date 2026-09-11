@@ -67671,5 +67671,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-11",
+    "emojis": [
+      {
+        "char": "💔",
+        "label": "man loses case over gifts",
+        "url": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+        "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
+        "summary": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together."
+      },
+      {
+        "char": "🐴",
+        "label": "horses trafficked in europe",
+        "url": "https://www.nytimes.com/2026/09/11/world/europe/horses-trafficked-europe-fake-passports.html",
+        "title": "Horses Trafficked in Europe With Fake Animal Passports, Police Say",
+        "summary": "The police in Belgium, France, Ireland and the Netherlands say they suspect a fraud network of faking identities and duplicating microchips for hundreds of horses."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada supports ukraine",
+        "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
+        "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+        "summary": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the countries pledged to..."
+      },
+      {
+        "char": "💰",
+        "label": "$15m fund to end fgm",
+        "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
+        "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+        "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide , have..."
+      },
+      {
+        "char": "🧠",
+        "label": "study on anaemic mothers",
+        "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
+        "title": "Babies born to anaemic mothers have smaller brains, study finds",
+        "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
