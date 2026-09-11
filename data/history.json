@@ -67627,5 +67627,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-11",
+    "emojis": [
+      {
+        "char": "🧘‍♂️",
+        "label": "monk arrested for embezzlement",
+        "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+        "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+        "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex."
+      },
+      {
+        "char": "🎁",
+        "label": "man loses case over gifts",
+        "url": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+        "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
+        "summary": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together."
+      },
+      {
+        "char": "🚌",
+        "label": "coach crash in Swiss Alps",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+        "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+        "summary": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps."
+      },
+      {
+        "char": "⚖️",
+        "label": "homicide trial of surfers in Mexico",
+        "url": "https://www.theguardian.com/world/2026/sep/09/australian-surfers-jake-callum-robinson-homicide-trial-mexico-ntwnfb",
+        "title": "‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies",
+        "summary": "Three men are on trial over the death of brothers Jake and Callum Robinson and their friend, US citizen Jack Carter Rhoad, in Ensenada The father of two Australian surfers killed in Mexico two years ago testified in court on Tuesday that..."
+      },
+      {
+        "char": "💣",
+        "label": "Israel destroys Hezbollah base",
+        "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+        "title": "Israel says it has destroyed major underground Hezbollah base",
+        "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
