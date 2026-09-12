@@ -1,43 +1,204 @@
 {
   "date": "2026-09-12",
-  "timestamp": "2026-09-12T17:54:40Z",
+  "timestamp": "2026-09-12T00:00:00Z",
   "emojis": [
     {
+      "char": "🚢",
+      "label": "rubio fights drug trade with allies",
+      "url": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking",
+      "title": "Rubio signals shift to working with allies to fight drug trade as latest boat strike kills three",
+      "summary": "Rubio visits Ecuador and welcomes cooperation after campaign of unilateral strikes on alleged ‘narco-terrorists’ The US secretary of state, Marco Rubio, gave new clarity on the approach toward combating drug trafficking in Latin American..."
+    },
+    {
+      "char": "🌏",
+      "label": "china and india vie for influence",
+      "url": "https://www.nytimes.com/2026/09/11/world/asia/china-india-brics-summit.html",
+      "title": "At BRICS Summit, China and India Vie for Influence",
+      "summary": "China sees the BRICS group as a vehicle for challenging American power. India wants to keep the group broad enough to avoid choosing sides."
+    },
+    {
       "char": "🚆",
-      "label": "train derailment investigation",
-      "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-      "title": "French officials investigate if malicious act caused train derailment",
-      "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured."
+      "label": "train derailment in france injures many",
+      "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+      "title": "Passenger train derails in France leaving at least 44 injured",
+      "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy."
     },
     {
-      "char": "💔",
-      "label": "nigerians extradited for scams",
-      "url": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
-      "title": "Six Nigerians extradited to US over $6M online romance scam",
-      "summary": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South Africa Six Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through on..."
+      "char": "👑",
+      "label": "princess diana's dress goes to auction",
+      "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
+      "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December."
     },
     {
-      "char": "🎤",
-      "label": "concert cancellations in south africa",
-      "url": "https://www.nytimes.com/2026/09/12/world/africa/tyla-south-africa-concert-nigeria-immigration.html",
-      "title": "Tyla and Other Stars Cancel Concerts Amid Anti-Immigrant Backlash",
-      "summary": "As anti-immigrant sentiment and vigilante violence fuel outrage across the continent, some fans abroad are rejecting South African performers."
+      "char": "🧠",
+      "label": "study links anaemia to smaller baby brains",
+      "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
+      "title": "Babies born to anaemic mothers have smaller brains, study finds",
+      "summary": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the..."
+    },
+    {
+      "char": "📰",
+      "label": "arrest in mississippi woman's death",
+      "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+      "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "canada supports ukraine air defense",
+      "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
+      "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+      "summary": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the countries pledged to..."
+    },
+    {
+      "char": "⚖️",
+      "label": "emma bonino, civil rights icon, dies",
+      "url": "https://www.nytimes.com/2026/09/11/world/europe/emma-bonino-italian-campaigner-dies.html",
+      "title": "Emma Bonino, Italian Campaigner for Civil Rights, Dies at 78",
+      "summary": "In nearly five decades in politics, Ms. Bonino wielded outsize influence on Italian discourse, helping erode the political sway of the Catholic Church."
+    },
+    {
+      "char": "🔫",
+      "label": "ecuador gang designated terrorist group",
+      "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
+      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
+      "summary": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as..."
+    },
+    {
+      "char": "🌊",
+      "label": "houthis seize key red sea island",
+      "url": "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html",
+      "title": "Houthis Seize a Key Red Sea Island, Threatening Another Global Oil Route",
+      "summary": "The militia captured the island in the Bab al-Mandab Strait, a choke point for trade. Saudi Arabia also announced it had shut down a critical oil pipeline after a drone attack launched from Iraq."
+    },
+    {
+      "char": "🔍",
+      "label": "france sex-trafficking investigation",
+      "url": "https://www.nytimes.com/2026/09/11/world/europe/france-paris-epstein-prosecutor.html",
+      "title": "France Widens Sex-Trafficking Investigation Linked to Jeffrey Epstein",
+      "summary": "The lead prosecutor in Paris said investigators had identified 13 new potential victims of Mr. Epstein, the financier and sex offender, who was a part-time resident of the city."
     },
     {
       "char": "🇮🇪",
-      "label": "trump on irish unification",
-      "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
-      "title": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
-      "summary": "The United States has been officially neutral on an issue that was a source of decades of violence in Northern Ireland until a 1998 peace deal."
+      "label": "trump's visit to ireland",
+      "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html",
+      "title": "In Doonbeg, Trump’s Irish Open Visit Prompts Protests and Praise",
+      "summary": "As the U.S. president heads to his Doonbeg hotel for the Irish Open, locals expressed both appreciation for the resort’s economic benefits and opposition to his politics."
     },
     {
-      "char": "🔥",
-      "label": "ferry fire death toll rises",
-      "url": "https://www.nytimes.com/2026/09/12/world/asia/death-toll-from-ferry-fire-in-the-philippines-rises-to-76.html",
-      "title": "Death Toll From Ferry Fire in the Philippines Rises to 76",
-      "summary": "Rescuers were still searching for victims days after a fire broke out on the June Aster en route to a popular tourist site. At least 43 people survived."
+      "char": "🚂",
+      "label": "train derailment in france",
+      "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+      "title": "Passenger train derails in France leaving at least 44 injured",
+      "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy."
+    },
+    {
+      "char": "💰",
+      "label": "ecuador gang designated terrorist",
+      "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
+      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
+      "summary": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as..."
+    },
+    {
+      "char": "👑",
+      "label": "ugandan kingdom succession dispute",
+      "url": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
+      "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
+      "summary": "Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarch A traditional Ugandan kingdom has become engulfed in a bitter succession dispute after the family of a king who re..."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "canada supports ukraine defense",
+      "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
+      "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+      "summary": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the countries pledged to..."
+    },
+    {
+      "char": "🇰🇪",
+      "label": "kenya's crackdown on traders",
+      "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "summary": "The authorities have struggled to contain the fallout, as frightened migrants flee the country."
+    },
+    {
+      "char": "🏴‍☠️",
+      "label": "pirates return to somalia seas",
+      "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+      "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+      "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not se..."
+    },
+    {
+      "char": "👑",
+      "label": "uganda's secret son dispute",
+      "url": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
+      "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
+      "summary": "Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarch A traditional Ugandan kingdom has become engulfed in a bitter succession dispute after the family of a king who re..."
+    },
+    {
+      "char": "💣",
+      "label": "ecuador gang designated terrorist",
+      "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
+      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
+      "summary": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as..."
+    },
+    {
+      "char": "⚔️",
+      "label": "iran's war leverage against us",
+      "url": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
+      "title": "Iran Finds Escalation Is a Fruitful Path to Leverage in War With U.S.",
+      "summary": "Iran and its allies now hold sway over two key oil shipping routes, and Tehran is setting the stage for a diplomatic win that could enhance its stature."
+    },
+    {
+      "char": "🇺🇬",
+      "label": "uganda withdraws from invictus games",
+      "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
+      "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
+      "summary": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’ Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said, out of respect for K..."
+    },
+    {
+      "char": "🕵️‍♂",
+      "label": "uk police seek help in grenada death",
+      "url": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
+      "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
+      "summary": "Andrew Frederick’s body was found in property he was staying at in Grenada in January The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK police to uncover the tr..."
+    },
+    {
+      "char": "🚨",
+      "label": "visa issues threaten us-brazil crime fight",
+      "url": "https://www.nytimes.com/2026/09/12/world/americas/us-brazil-crime-police-visas-ice.html",
+      "title": "Visa Issue Threatens U.S.-Brazil Cooperation on Crime",
+      "summary": "Officials say the Trump administration is blocking some of Brazil’s efforts to expand cooperation on fighting transnational crime."
+    },
+    {
+      "char": "🌍",
+      "label": "15m fund to end fgm worldwide",
+      "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
+      "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+      "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide , have..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😔",
+    "rationale": "The news items highlight significant issues including violence, humanitarian crises, and social injustices, which evoke a sense of concern and sadness about the state of global affairs.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
