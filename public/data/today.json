@@ -1,41 +1,41 @@
 {
   "date": "2026-09-12",
-  "timestamp": "2026-09-12T15:17:39Z",
+  "timestamp": "2026-09-12T00:00:00Z",
   "emojis": [
     {
-      "char": "🌍",
-      "label": "houthis seize key red sea island",
-      "url": "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html",
-      "title": "Houthis Seize a Key Red Sea Island, Threatening Another Global Oil Route",
-      "summary": "The militia captured the island in the Bab al-Mandab Strait, a choke point for trade. Saudi Arabia also announced it had shut down a critical oil pipeline after a drone attack launched from Iraq."
+      "char": "⚔️",
+      "label": "iran's war leverage against us",
+      "url": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
+      "title": "Iran Finds Escalation Is a Fruitful Path to Leverage in War With U.S.",
+      "summary": "Iran and its allies now hold sway over two key oil shipping routes, and Tehran is setting the stage for a diplomatic win that could enhance its stature."
+    },
+    {
+      "char": "🇺🇬",
+      "label": "uganda withdraws from invictus games",
+      "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
+      "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
+      "summary": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’ Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said, out of respect for K..."
+    },
+    {
+      "char": "🕵️‍♂",
+      "label": "uk police seek help in grenada death",
+      "url": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
+      "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
+      "summary": "Andrew Frederick’s body was found in property he was staying at in Grenada in January The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK police to uncover the tr..."
     },
     {
       "char": "🚨",
-      "label": "ecuadorian crime gang designated terrorist",
-      "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
-      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
-      "summary": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as..."
-    },
-    {
-      "char": "🩺",
-      "label": "doctor pressures leaders on ebola response",
-      "url": "https://www.nytimes.com/2026/09/12/world/africa/jean-kaseya-africa-cdc.html",
-      "title": "The Doctor Pressuring African Leaders to Own the Ebola Response",
-      "summary": "International agencies and foreign donors have long driven campaigns to defeat diseases like Ebola. Dr. Jean Kaseya, the head of the Africa C.D.C., wants to change that."
-    },
-    {
-      "char": "🔥",
-      "label": "death toll rises from ferry fire in phillipines",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
-      "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says."
-    },
-    {
-      "char": "💼",
-      "label": "visa issue threatens us-brazil cooperation",
+      "label": "visa issues threaten us-brazil crime fight",
       "url": "https://www.nytimes.com/2026/09/12/world/americas/us-brazil-crime-police-visas-ice.html",
       "title": "Visa Issue Threatens U.S.-Brazil Cooperation on Crime",
       "summary": "Officials say the Trump administration is blocking some of Brazil’s efforts to expand cooperation on fighting transnational crime."
+    },
+    {
+      "char": "🌍",
+      "label": "15m fund to end fgm worldwide",
+      "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
+      "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+      "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide , have..."
     }
   ],
   "source": "ai-openai",
