@@ -67759,5 +67759,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-12",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israel destroys hezbollah base",
+        "url": "https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html",
+        "title": "Israel Destroys Underground Hezbollah Base in Southern Lebanon",
+        "summary": "The complex sat below Ali al-Taher ridge, a strategic hilltop that overlooks the region and that has seen intense fighting."
+      },
+      {
+        "char": "🇺🇬",
+        "label": "uganda withdraws from invictus games",
+        "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
+        "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
+        "summary": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’ Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said, out of respect for K..."
+      },
+      {
+        "char": "🏴‍☠️",
+        "label": "pirates return to somalia seas",
+        "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+        "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+        "summary": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of Africa has returned to levels not se..."
+      },
+      {
+        "char": "🤖",
+        "label": "china's ai attack on wechat",
+        "url": "https://www.nytimes.com/2026/09/11/world/asia/china-ai-attack-wechat.html",
+        "title": "For China, a Mock A.I. Attack on WeChat Signals a Dangerous New Era",
+        "summary": "The demonstration of a potent cyberweapon has exposed China’s vulnerabilities and added to the urgency of A.I. safety talks between Beijing and Washington."
+      },
+      {
+        "char": "🐴",
+        "label": "fake passports for horse trafficking",
+        "url": "https://www.nytimes.com/2026/09/11/world/europe/horses-trafficked-europe-fake-passports.html",
+        "title": "Police Uncover Scheme Using Fake Horse Passports to Traffic Animals",
+        "summary": "The police in Belgium, France, Ireland and the Netherlands say they suspect a fraud network of faking identities and duplicating microchips for hundreds of horses."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
