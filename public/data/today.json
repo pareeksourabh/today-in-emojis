@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😔",
-    "rationale": "The news items highlight significant issues including violence, humanitarian crises, and social injustices, which evoke a sense of concern and sadness about the state of global affairs.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "Today's news reflects a series of tragedies and conflicts, including deaths from a train derailment and the ongoing struggles against drug trafficking and violence. The emotional weight of these events evokes a sense of sadness and concern.",
     "palette": [
       "😢",
       "😡",
