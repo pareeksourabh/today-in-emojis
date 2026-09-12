@@ -67935,5 +67935,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-12",
+    "emojis": [
+      {
+        "char": "🚆",
+        "label": "train derailment investigation",
+        "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+        "title": "French officials investigate if malicious act caused train derailment",
+        "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured."
+      },
+      {
+        "char": "💔",
+        "label": "nigerians extradited for scams",
+        "url": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
+        "title": "Six Nigerians extradited to US over $6M online romance scam",
+        "summary": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South Africa Six Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through on..."
+      },
+      {
+        "char": "🎤",
+        "label": "concert cancellations in south africa",
+        "url": "https://www.nytimes.com/2026/09/12/world/africa/tyla-south-africa-concert-nigeria-immigration.html",
+        "title": "Tyla and Other Stars Cancel Concerts Amid Anti-Immigrant Backlash",
+        "summary": "As anti-immigrant sentiment and vigilante violence fuel outrage across the continent, some fans abroad are rejecting South African performers."
+      },
+      {
+        "char": "🇮🇪",
+        "label": "trump on irish unification",
+        "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
+        "title": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
+        "summary": "The United States has been officially neutral on an issue that was a source of decades of violence in Northern Ireland until a 1998 peace deal."
+      },
+      {
+        "char": "🔥",
+        "label": "ferry fire death toll rises",
+        "url": "https://www.nytimes.com/2026/09/12/world/asia/death-toll-from-ferry-fire-in-the-philippines-rises-to-76.html",
+        "title": "Death Toll From Ferry Fire in the Philippines Rises to 76",
+        "summary": "Rescuers were still searching for victims days after a fire broke out on the June Aster en route to a popular tourist site. At least 43 people survived."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
