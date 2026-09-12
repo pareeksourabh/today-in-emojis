@@ -1,34 +1,20 @@
 {
   "date": "2026-09-12",
-  "timestamp": "2026-09-12T00:00:00Z",
+  "timestamp": "2026-09-12T08:31:56Z",
   "emojis": [
     {
-      "char": "🔍",
+      "char": "🇫🇷",
       "label": "france sex-trafficking investigation",
       "url": "https://www.nytimes.com/2026/09/11/world/europe/france-paris-epstein-prosecutor.html",
       "title": "France Widens Sex-Trafficking Investigation Linked to Jeffrey Epstein",
       "summary": "The lead prosecutor in Paris said investigators had identified 13 new potential victims of Mr. Epstein, the financier and sex offender, who was a part-time resident of the city."
     },
     {
-      "char": "🇮🇪",
-      "label": "trump's visit to ireland",
-      "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html",
-      "title": "In Doonbeg, Trump’s Irish Open Visit Prompts Protests and Praise",
-      "summary": "As the U.S. president heads to his Doonbeg hotel for the Irish Open, locals expressed both appreciation for the resort’s economic benefits and opposition to his politics."
-    },
-    {
-      "char": "🚂",
-      "label": "train derailment in france",
-      "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-      "title": "Passenger train derails in France leaving at least 44 injured",
-      "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy."
-    },
-    {
-      "char": "💰",
-      "label": "ecuador gang designated terrorist",
-      "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
-      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
-      "summary": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as..."
+      "char": "🔥",
+      "label": "ferry fire in the philippines",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+      "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says."
     },
     {
       "char": "👑",
@@ -36,6 +22,20 @@
       "url": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
       "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
       "summary": "Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarch A traditional Ugandan kingdom has become engulfed in a bitter succession dispute after the family of a king who re..."
+    },
+    {
+      "char": "🛢️",
+      "label": "houthis seize key red sea island",
+      "url": "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html",
+      "title": "Houthis Seize a Key Red Sea Island, Threatening Another Global Oil Route",
+      "summary": "The militia captured the island in the Bab al-Mandab Strait, a choke point for trade. Saudi Arabia also announced it had shut down a critical oil pipeline after a drone attack launched from Iraq."
+    },
+    {
+      "char": "🎤",
+      "label": "lil durk acquitted in trial",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
+      "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+      "summary": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo."
     }
   ],
   "source": "ai-openai",
