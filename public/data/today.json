@@ -1,14 +1,7 @@
 {
   "date": "2026-09-13",
-  "timestamp": "2026-09-13T18:22:48Z",
+  "timestamp": "2026-09-13T00:00:00Z",
   "emojis": [
-    {
-      "char": "🏊‍♂️",
-      "label": "us congressman swims to safety",
-      "url": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
-      "title": "US congressman swims to safety after his plane is forced to land on a lake",
-      "summary": "The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake."
-    },
     {
       "char": "🇺🇬",
       "label": "uganda withdraws from invictus games",
@@ -17,27 +10,195 @@
       "summary": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’ Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said, out of respect for K..."
     },
     {
-      "char": "💰",
-      "label": "15m fund to end fgm worldwide",
-      "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
-      "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
-      "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide , have..."
+      "char": "🇧🇷",
+      "label": "visa issue threatens us-brazil cooperation",
+      "url": "https://www.nytimes.com/2026/09/12/world/americas/us-brazil-crime-police-visas-ice.html",
+      "title": "Visa Issue Threatens U.S.-Brazil Cooperation on Crime",
+      "summary": "Officials say the Trump administration is blocking some of Brazil’s efforts to expand cooperation on fighting transnational crime."
     },
     {
-      "char": "⚖️",
+      "char": "💔",
+      "label": "nigerians extradited over romance scam",
+      "url": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
+      "title": "Six Nigerians extradited to US over $6m online romance scam",
+      "summary": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South Africa Six Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through on..."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "canada supports ukraine during zelenskyy visit",
+      "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
+      "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+      "summary": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the countries pledged to..."
+    },
+    {
+      "char": "🛢️",
+      "label": "saudi arabia oil pipeline attack details",
+      "url": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
+      "title": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
+      "summary": "A drone attack from Iraq forced Saudi Arabia to close its East-West pipeline, the kingdom said, threatening a key workaround to Iran’s Persian Gulf blockade."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "visa issue threatens us-brazil cooperation",
+      "url": "https://www.nytimes.com/2026/09/12/world/americas/us-brazil-crime-police-visas-ice.html",
+      "title": "Visa Issue Threatens U.S.-Brazil Cooperation on Crime",
+      "summary": "Officials say the Trump administration is blocking some of Brazil’s efforts to expand cooperation on fighting transnational crime."
+    },
+    {
+      "char": "🛳️",
+      "label": "death toll from ferry fire in philippines",
+      "url": "https://www.nytimes.com/2026/09/12/world/asia/philippines-ferry-fire-death-toll.html",
+      "title": "Death Toll From Ferry Fire in the Philippines Rises to 76",
+      "summary": "Rescuers were still searching for victims days after a fire broke out on the June Aster en route to a popular tourist site. At least 43 people survived."
+    },
+    {
+      "char": "💊",
+      "label": "notorious ecuadorian crime gang designated",
+      "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
+      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
+      "summary": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as..."
+    },
+    {
+      "char": "🕌",
+      "label": "yemenis flee new fighting amid war",
+      "url": "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html",
+      "title": "‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting",
+      "summary": "Hunger and disease have tormented Yemen for years. Now, fighting between the Saudi-backed government and Iran-backed Houthis is pushing it to the brink."
+    },
+    {
+      "char": "🇺🇦",
+      "label": "canada offers air defense support for ukraine",
+      "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
+      "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+      "summary": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the countries pledged to..."
+    },
+    {
+      "char": "📰",
+      "label": "job loss over charlie kirk posts",
+      "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+      "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch."
+    },
+    {
+      "char": "💣",
+      "label": "ecuador gang designated terrorist",
+      "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
+      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
+      "summary": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as..."
+    },
+    {
+      "char": "🇦🇺",
       "label": "australian surfers homicide trial",
       "url": "https://www.theguardian.com/world/2026/sep/09/australian-surfers-jake-callum-robinson-homicide-trial-mexico-ntwnfb",
       "title": "‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies",
       "summary": "Three men are on trial over the death of brothers Jake and Callum Robinson and their friend, US citizen Jack Carter Rhoad, in Ensenada The father of two Australian surfers killed in Mexico two years ago testified in court on Tuesday that..."
     },
     {
-      "char": "🇮🇪",
-      "label": "trump says irish unification would be fantastic",
-      "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
-      "title": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
-      "summary": "The United States has been officially neutral on an issue that was a source of decades of violence in Northern Ireland until a 1998 peace deal."
+      "char": "🚢",
+      "label": "indonesian ferry rescue operation",
+      "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "title": "One dead, 102 rescued from Indonesian ferry that went missing in Java Sea",
+      "summary": "The nation's search and rescue team said it lost contact with the Virgo Transport 8 in the early hours of Sunday morning."
+    },
+    {
+      "char": "🌍",
+      "label": "canada supports ukraine visit",
+      "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
+      "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+      "summary": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the countries pledged to..."
+    },
+    {
+      "char": "👑",
+      "label": "ugandan kingdom succession dispute",
+      "url": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
+      "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
+      "summary": "Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarch A traditional Ugandan kingdom has become engulfed in a bitter succession dispute after the family of a king who re..."
+    },
+    {
+      "char": "🌍",
+      "label": "fund to end female genital mutilation",
+      "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
+      "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+      "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide , have..."
+    },
+    {
+      "char": "🤝",
+      "label": "iran meets gulf arab states",
+      "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
+      "title": "Iran Will Meet With Gulf Arab States as Mideast Conflict Widens",
+      "summary": "Talks are expected tomorrow, officials said. Diplomacy to end the war with the United States has stalled and Iranian-allied forces have advanced in Yemen."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "trump's tariffs impact on canada",
+      "url": "https://www.nytimes.com/2026/09/13/world/canada/trump-tariffs-ontario-michigan-algoma-steel.html",
+      "title": "Trump’s Canadian Tariffs Tear at Bond Between Twins Towns in Ontario and Michigan",
+      "summary": "A 50 percent U.S. tariff on Canadian steel is crippling a major Ontario mill, driving mass layoffs and rupturing a century of cross-border life with Michigan."
+    },
+    {
+      "char": "🗳️",
+      "label": "sweden election shows shifting priorities",
+      "url": "https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html",
+      "title": "An Election in Sweden Shows Shifting Priorities",
+      "summary": "Sweden votes on Sunday. With various crises easing, center-left politics seem in vogue again, but the far right cannot be discounted."
+    },
+    {
+      "char": "🗳️",
+      "label": "okinawa election amid china fears",
+      "url": "https://www.nytimes.com/2026/09/13/world/asia/japapn-okinawa-election-governor-conservative-china-economy.html",
+      "title": "Okinawa Set to Elect Conservative Amid Fears About China and Economy",
+      "summary": "Genta Koja was projected to become the Japanese archipelago’s next governor, a win for the country’s hawkish prime minister as she works to accelerate a military buildup."
+    },
+    {
+      "char": "💰",
+      "label": "fund launched to end fgm worldwide",
+      "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
+      "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+      "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide , have..."
+    },
+    {
+      "char": "🇬🇧",
+      "label": "british man found dead in grenada",
+      "url": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
+      "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
+      "summary": "Andrew Frederick’s body was found in property he was staying at in Grenada in January The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK police to uncover the tr..."
+    },
+    {
+      "char": "👑",
+      "label": "burial of king oyo in uganda",
+      "url": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda",
+      "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
+      "summary": "Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi Kijanangoma Uganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his r..."
+    },
+    {
+      "char": "🌊",
+      "label": "himalayan floods cause devastation",
+      "url": "https://www.nytimes.com/2026/09/13/world/asia/nepal-tibet-floods-school-children.html",
+      "title": "Along Himalayan Floods’ Path, Wiped Out Towns and Mounting Grief",
+      "summary": "Survivors tell the stories of the people and places buried under the mud after a disaster in Nepal."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Sadness",
+    "emoji": "😢",
+    "rationale": "The day's news is dominated by loss and conflict, including tragic fatalities from fires and ongoing violence in Yemen, leading to an overall emotional tone of sadness.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
