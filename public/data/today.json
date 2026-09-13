@@ -1,13 +1,27 @@
 {
   "date": "2026-09-13",
-  "timestamp": "2026-09-13T15:54:10Z",
+  "timestamp": "2026-09-13T00:00:00Z",
   "emojis": [
     {
-      "char": "🇮🇪",
-      "label": "trump's remarks on irish unification",
-      "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
-      "title": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
-      "summary": "The United States has been officially neutral on an issue that was a source of decades of violence in Northern Ireland until a 1998 peace deal."
+      "char": "🗳️",
+      "label": "okinawa election amid china fears",
+      "url": "https://www.nytimes.com/2026/09/13/world/asia/japapn-okinawa-election-governor-conservative-china-economy.html",
+      "title": "Okinawa Set to Elect Conservative Amid Fears About China and Economy",
+      "summary": "Genta Koja was projected to become the Japanese archipelago’s next governor, a win for the country’s hawkish prime minister as she works to accelerate a military buildup."
+    },
+    {
+      "char": "💰",
+      "label": "fund launched to end fgm worldwide",
+      "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
+      "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+      "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide , have..."
+    },
+    {
+      "char": "🇬🇧",
+      "label": "british man found dead in grenada",
+      "url": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
+      "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
+      "summary": "Andrew Frederick’s body was found in property he was staying at in Grenada in January The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK police to uncover the tr..."
     },
     {
       "char": "👑",
@@ -17,25 +31,11 @@
       "summary": "Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi Kijanangoma Uganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his r..."
     },
     {
-      "char": "✈️",
-      "label": "us congressman swims to safety",
-      "url": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
-      "title": "US congressman swims to safety after his plane is forced to land on a lake",
-      "summary": "The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake."
-    },
-    {
-      "char": "🌈",
-      "label": "turkish police raid on lgbtq+ bars",
-      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community."
-    },
-    {
-      "char": "💔",
-      "label": "family seeks justice in grenada death",
-      "url": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
-      "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
-      "summary": "Andrew Frederick’s body was found in property he was staying at in Grenada in January The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK police to uncover the tr..."
+      "char": "🌊",
+      "label": "himalayan floods cause devastation",
+      "url": "https://www.nytimes.com/2026/09/13/world/asia/nepal-tibet-floods-school-children.html",
+      "title": "Along Himalayan Floods’ Path, Wiped Out Towns and Mounting Grief",
+      "summary": "Survivors tell the stories of the people and places buried under the mud after a disaster in Nepal."
     }
   ],
   "source": "ai-openai",
