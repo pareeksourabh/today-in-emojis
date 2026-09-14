@@ -1,41 +1,41 @@
 {
   "date": "2026-09-14",
-  "timestamp": "2026-09-14T00:00:00Z",
+  "timestamp": "2026-09-14T09:43:28Z",
   "emojis": [
     {
-      "char": "🇮🇷",
-      "label": "iran escalation for leverage",
-      "url": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
-      "title": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
-      "summary": "Iran and its allies now hold sway over two key oil shipping routes, and Tehran is setting the stage for a diplomatic win that could enhance its stature."
-    },
-    {
       "char": "🚢",
-      "label": "indonesian ferry tragedy",
+      "label": "ferry capsizes in java sea",
       "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
       "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
       "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather."
     },
     {
-      "char": "🇨🇦",
-      "label": "trump's tariffs impact",
-      "url": "https://www.nytimes.com/2026/09/13/world/canada/trump-tariffs-ontario-michigan-algoma-steel.html",
-      "title": "Trump’s Canadian Tariffs Tear at Bond Between Twins Towns in Ontario and Michigan",
-      "summary": "A 50 percent U.S. tariff on Canadian steel is crippling a major Ontario mill, driving mass layoffs and rupturing a century of cross-border life with Michigan."
+      "char": "🇮🇪",
+      "label": "trump ends visit, lifts whiskey tariffs",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US."
     },
     {
-      "char": "💰",
-      "label": "fund to end fgm globally",
-      "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
-      "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
-      "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide , have..."
+      "char": "🔒",
+      "label": "detained for criticizing government",
+      "url": "https://www.nytimes.com/2026/09/14/world/americas/trinidad-assassination-plot-arrests.html",
+      "title": "She Bashed the Government on a Private Call. Then She Was Detained for Months",
+      "summary": "Racial and political tensions have flared in Trinidad and Tobago after members of an ethnic minority were accused of an assassination plot based on a private phone call."
     },
     {
-      "char": "🤖",
-      "label": "ai slowdown questions",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution."
+      "char": "💣",
+      "label": "russian strikes near ex-cia chief",
+      "url": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
+      "title": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
+      "summary": "David Petraeus was at a rail station when a drone hit. Another train, with former Prime Minister Boris Johnson of Britain and other dignitaries, had just left, Ukrainian officials said."
+    },
+    {
+      "char": "🌐",
+      "label": "moscow's digital surveillance trap",
+      "url": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
+      "title": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
+      "summary": "Cutting-edge technologies have reshaped the Russian capital, making it safer, more convenient — and more closely watched."
     }
   ],
   "source": "ai-openai",
