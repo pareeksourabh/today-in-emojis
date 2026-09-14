@@ -4,38 +4,38 @@
   "emojis": [
     {
       "char": "🇮🇷",
-      "label": "iran escalation in war with u.s.",
+      "label": "iran escalation for leverage",
       "url": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
       "title": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
       "summary": "Iran and its allies now hold sway over two key oil shipping routes, and Tehran is setting the stage for a diplomatic win that could enhance its stature."
     },
     {
-      "char": "🛩️",
-      "label": "us congressman forced to land on lake",
-      "url": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
-      "title": "US congressman swims to safety after his plane is forced to land on a lake",
-      "summary": "The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake."
-    },
-    {
       "char": "🚢",
-      "label": "indonesian ferry capsizes, many missing",
+      "label": "indonesian ferry tragedy",
       "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
       "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
       "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather."
     },
     {
-      "char": "🌍",
-      "label": "ecuadorian crime gang designated terrorist",
-      "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
-      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
-      "summary": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as..."
+      "char": "🇨🇦",
+      "label": "trump's tariffs impact",
+      "url": "https://www.nytimes.com/2026/09/13/world/canada/trump-tariffs-ontario-michigan-algoma-steel.html",
+      "title": "Trump’s Canadian Tariffs Tear at Bond Between Twins Towns in Ontario and Michigan",
+      "summary": "A 50 percent U.S. tariff on Canadian steel is crippling a major Ontario mill, driving mass layoffs and rupturing a century of cross-border life with Michigan."
     },
     {
-      "char": "🇯🇵",
-      "label": "okinawa elects conservative amid fears",
-      "url": "https://www.nytimes.com/2026/09/13/world/asia/japapn-okinawa-election-governor-conservative-china-economy.html",
-      "title": "Okinawa Elects a Conservative Amid Fears About China and the Economy",
-      "summary": "Genta Koja will become the Japanese archipelago’s next governor, a win for the country’s hawkish prime minister as she works to accelerate a military buildup."
+      "char": "💰",
+      "label": "fund to end fgm globally",
+      "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
+      "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+      "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide , have..."
+    },
+    {
+      "char": "🤖",
+      "label": "ai slowdown questions",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution."
     }
   ],
   "source": "ai-openai",
