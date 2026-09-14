@@ -68375,5 +68375,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-14",
+    "emojis": [
+      {
+        "char": "🕵️‍♂",
+        "label": "moscow's digital surveillance trap",
+        "url": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
+        "title": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
+        "summary": "Cutting-edge technologies have reshaped the Russian capital, making it safer, more convenient — and more closely watched."
+      },
+      {
+        "char": "🚺",
+        "label": "fund to end female genital mutilation",
+        "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
+        "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+        "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide , have..."
+      },
+      {
+        "char": "⛽",
+        "label": "syrians protest fuel price rise",
+        "url": "https://www.nytimes.com/2026/09/14/world/middleeast/syrians-protest-fuel-price-rises.html",
+        "title": "Syrians Protest as Surge in Fuel Prices Adds to Cost-of-Living Crisis",
+        "summary": "The government’s decision to increase prices by as much as 40 percent spurred widespread demonstrations across the country."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "brazil's far right edges back to power",
+        "url": "https://www.theguardian.com/world/2026/sep/14/brazil-bolsonaro-far-right-minas-gerais",
+        "title": "‘A coin flip’: on the campaign trail as Brazil’s far right edges back to power",
+        "summary": "Neck-and-neck with Lula in polls, Flávio Bolsonaro fires up his base in the bellwether state of Minas Gerais – starting at the scene of his father’s stabbing A giant banner of Brazil’s incarcerated former president Jair Bolsonaro flutter..."
+      },
+      {
+        "char": "💰",
+        "label": "africa's richest man launches share sale",
+        "url": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+        "title": "Africa's richest man launches continent's biggest share sale",
+        "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
