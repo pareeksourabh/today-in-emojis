@@ -1,20 +1,34 @@
 {
   "date": "2026-09-14",
-  "timestamp": "2026-09-14T00:00:00Z",
+  "timestamp": "2026-09-14T02:32:43Z",
   "emojis": [
     {
-      "char": "🇮🇪",
-      "label": "trump ends irish whiskey tariffs",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US."
+      "char": "🕊️",
+      "label": "iran-arab states meeting postponed",
+      "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
+      "title": "Meeting Between Iran, Arab States Postponed as Mideast Diplomacy Stalls",
+      "summary": "Talks between the United States and Iran hit a dead end weeks ago, leaving Arab countries struggling to manage their ties to Tehran amid ongoing attacks."
     },
     {
-      "char": "🥊",
-      "label": "canadian boxer george chuvalo dies",
-      "url": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
-      "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
-      "summary": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down."
+      "char": "🇸🇪",
+      "label": "sweden election too close to call",
+      "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority."
+    },
+    {
+      "char": "🤖",
+      "label": "king charles ai leaders meeting",
+      "url": "https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html",
+      "title": "King Charles Will Convene A.I. Leaders Amid Calls to Slow Development",
+      "summary": "As alarm from the highest echelons of A.I. companies mounts, Buckingham Palace said the king would meet with executives to explore how the technology can be used for good."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "canada supports ukraine visit",
+      "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
+      "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+      "summary": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the countries pledged to..."
     },
     {
       "char": "🌊",
@@ -22,20 +36,6 @@
       "url": "https://www.nytimes.com/2026/09/13/world/asia/nepal-tibet-floods-school-children.html",
       "title": "Along Himalayan Floods’ Path, Wiped Out Towns and Mounting Grief",
       "summary": "Survivors tell the stories of the people and places buried under the mud after a disaster in Nepal."
-    },
-    {
-      "char": "🗳️",
-      "label": "swedish election results too close to call",
-      "url": "https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html",
-      "title": "Election in Sweden Is Too Close to Call",
-      "summary": "With most of the votes counted on Sunday, it was basically a tie between the center-left and center-right coalitions."
-    },
-    {
-      "char": "🔫",
-      "label": "ecuadorian gang designated terrorist group",
-      "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
-      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
-      "summary": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as..."
     }
   ],
   "source": "ai-openai",

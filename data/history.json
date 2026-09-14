@@ -68199,5 +68199,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-14",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "iran-arab states meeting postponed",
+        "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
+        "title": "Meeting Between Iran, Arab States Postponed as Mideast Diplomacy Stalls",
+        "summary": "Talks between the United States and Iran hit a dead end weeks ago, leaving Arab countries struggling to manage their ties to Tehran amid ongoing attacks."
+      },
+      {
+        "char": "🇸🇪",
+        "label": "sweden election too close to call",
+        "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+        "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+        "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority."
+      },
+      {
+        "char": "🤖",
+        "label": "king charles ai leaders meeting",
+        "url": "https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html",
+        "title": "King Charles Will Convene A.I. Leaders Amid Calls to Slow Development",
+        "summary": "As alarm from the highest echelons of A.I. companies mounts, Buckingham Palace said the king would meet with executives to explore how the technology can be used for good."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada supports ukraine visit",
+        "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
+        "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+        "summary": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the countries pledged to..."
+      },
+      {
+        "char": "🌊",
+        "label": "himalayan floods cause devastation",
+        "url": "https://www.nytimes.com/2026/09/13/world/asia/nepal-tibet-floods-school-children.html",
+        "title": "Along Himalayan Floods’ Path, Wiped Out Towns and Mounting Grief",
+        "summary": "Survivors tell the stories of the people and places buried under the mud after a disaster in Nepal."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
