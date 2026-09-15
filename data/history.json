@@ -68463,5 +68463,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-15",
+    "emojis": [
+      {
+        "char": "🐾",
+        "label": "wild dogs trek across zambia",
+        "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+        "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+        "summary": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures."
+      },
+      {
+        "char": "🤖",
+        "label": "trump calls ai safety fears a hoax",
+        "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+        "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory."
+      },
+      {
+        "char": "🎭",
+        "label": "legendary designer bob mackie dies",
+        "url": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+        "title": "Legendary costume designer Bob Mackie dies aged 87",
+        "summary": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John."
+      },
+      {
+        "char": "🌍",
+        "label": "ebola outbreak in drc has peaked",
+        "url": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow",
+        "title": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
+        "summary": "Almost 3,500 people have died in outbreak and experts say more must be done to ensure Bundibugyo is under control Authorities in the Democratic Republic of the Congo have announced that the Ebola outbreak ravaging parts of the country ha..."
+      },
+      {
+        "char": "💼",
+        "label": "canada pitches stability in chaos",
+        "url": "https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html",
+        "title": "Carney Pitches Canada as a Haven of Investment Stability in a Chaotic World",
+        "summary": "The prime minister brought together about 100 money managers in Toronto to promote Canada as the ideal place for their investments."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
