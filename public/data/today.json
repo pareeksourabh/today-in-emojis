@@ -1,41 +1,41 @@
 {
   "date": "2026-09-16",
-  "timestamp": "2026-09-16T09:11:27Z",
+  "timestamp": "2026-09-16T00:00:00Z",
   "emojis": [
     {
-      "char": "🚁",
-      "label": "helicopter crash in LA",
+      "char": "📰",
+      "label": "journalist killed in helicopter crash",
       "url": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
-      "title": "Three killed after LA news helicopter crashes while covering deadly bus collision",
+      "title": "Journalist and pilot among three killed after news helicopter crashes in LA",
       "summary": "The NBCLA news helicopter was flying near the scene of a fatal bus crash."
     },
     {
-      "char": "🇻🇪",
-      "label": "alex saab pleads guilty",
-      "url": "https://www.nytimes.com/2026/09/14/us/alex-saab-maduro-money-laundering-plea.html",
-      "title": "Alex Saab, Venezuelan Tied to Maduro, Pleads Guilty in Florida",
-      "summary": "Alex Saab, a former official in Venezuela and longtime ally of its deposed leader, Nicolás Maduro, agreed to cooperate with investigators."
-    },
-    {
-      "char": "⚖️",
-      "label": "brazil supreme court fight",
-      "url": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
-      "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
-      "summary": "Scandal explodes as country’s election campaign peaks, with polls suggesting dead heat between candidates Brazil’s supreme court has been thrust into what experts consider the greatest crisis since the return of democracy in the 1980s, a..."
+      "char": "🛡️",
+      "label": "saudi arabia shoots down drone",
+      "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+      "summary": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\"."
     },
     {
       "char": "🌍",
-      "label": "nature defenders self-defence",
+      "label": "nature defenders form self-defence units",
       "url": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime",
       "title": "People protecting nature and land set up self-defence units amid threat of murder",
       "summary": "Defenders of forests and rivers killed at rate of one every three days in 2025, with 85% of deaths in Latin America Nature and land defenders were murdered at the rate of one every three days last year, prompting many communities to set..."
     },
     {
-      "char": "💰",
-      "label": "kyrgyzstan economy boom",
-      "url": "https://www.nytimes.com/2026/09/15/world/asia/kyrgyzstan-economy-russia-war.html",
-      "title": "It’s Boom Time in Kyrgyzstan, Courtesy in Part of the War in Ukraine",
-      "summary": "The economy of the Central Asian nation grew by 11 percent last year, partly by becoming a key conduit for goods flowing into Russia."
+      "char": "🚢",
+      "label": "panama canal traffic cuts worsen",
+      "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
+      "title": "Panama canal traffic facing further cuts as drought from El Niño worsens",
+      "summary": "Planned daily reductions will further choke one of the world’s most important shipping lanes The Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climate phenomenon, further choking up one o..."
+    },
+    {
+      "char": "⚖️",
+      "label": "brazil's far right edges back to power",
+      "url": "https://www.theguardian.com/world/2026/sep/14/brazil-bolsonaro-far-right-minas-gerais",
+      "title": "‘A coin flip’: on the campaign trail as Brazil’s far right edges back to power",
+      "summary": "Neck-and-neck with Lula in polls, Flávio Bolsonaro fires up his base in the bellwether state of Minas Gerais – starting at the scene of his father’s stabbing A giant banner of Brazil’s incarcerated former president Jair Bolsonaro flutter..."
     }
   ],
   "source": "ai-openai",
