@@ -1,204 +1,43 @@
 {
-  "date": "2026-09-15",
-  "timestamp": "2026-09-15T00:00:00Z",
+  "date": "2026-09-16",
+  "timestamp": "2026-09-16T00:00:00Z",
   "emojis": [
     {
-      "char": "🎬",
-      "label": "israeli film on gaza backlash",
-      "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
-      "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
-      "summary": "The film “NAZA” investigates the killing of Palestinians by Israeli forces in Gaza. Israel’s culture minister has suggested revoking the directors’ citizenship."
+      "char": "🇦🇪",
+      "label": "gulf arabs seek options after us bases",
+      "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html",
+      "title": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran",
+      "summary": "The American presence in these countries has not shielded them from retaliation during the Iran war. Now they are hoping direct talks with Iran could help."
     },
     {
-      "char": "🏥",
-      "label": "london hospital slave trade funding",
-      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
-      "title": "The London hospital funded by donors who invested in the slave trade",
-      "summary": "St Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved Africans Inside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest ho..."
+      "char": "🇳🇬",
+      "label": "nigeria arrests alleged drug kingpin",
+      "url": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss",
+      "title": "Nigeria arrests alleged Mexican drug kingpin at international airport",
+      "summary": "Arturo Carrera Loaiza denies allegations he was involved in meth production, the Nigerian authorities say."
     },
     {
-      "char": "⛽",
-      "label": "syrians protest fuel price rise",
-      "url": "https://www.nytimes.com/2026/09/14/world/middleeast/syrians-protest-fuel-price-rises.html",
-      "title": "Syrians Protest as Surge in Fuel Prices Adds to Cost-of-Living Crisis",
-      "summary": "The government’s decision to increase prices as much as 40 percent spurred widespread demonstrations across the country."
-    },
-    {
-      "char": "🤖",
-      "label": "china denies ai competition claims",
-      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-      "title": "China criticises idea it is in 'malicious competition' over AI",
-      "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race."
-    },
-    {
-      "char": "👑",
-      "label": "burial of king oyo in uganda",
-      "url": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda",
-      "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
-      "summary": "Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi Kijanangoma Uganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his r..."
-    },
-    {
-      "char": "💔",
-      "label": "nigerians extradited for romance scam",
-      "url": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
-      "title": "Six Nigerians extradited to US over $6m online romance scam",
-      "summary": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South Africa Six Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through on..."
-    },
-    {
-      "char": "🌍",
-      "label": "fund launched to end fgm worldwide",
-      "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
-      "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
-      "summary": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally Frontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide , have..."
-    },
-    {
-      "char": "✈️",
-      "label": "nato jets down drone in lithuania",
-      "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-      "title": "Nato jets down drone that entered Lithuanian airspace",
-      "summary": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia."
-    },
-    {
-      "char": "🚢",
-      "label": "panama canal traffic cut due to drought",
-      "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
-      "title": "Panama canal traffic to be cut again as drought from El Niño worsens",
-      "summary": "Latest daily reductions will further choke one of the world’s most important shipping lanes The Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climate phenomenon, further choking up one of..."
-    },
-    {
-      "char": "🎬",
-      "label": "israeli film about gaza faces backlash",
-      "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
-      "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
-      "summary": "The film “NAZA” investigates the killing of Palestinians by Israeli forces in Gaza. Israel’s culture minister has suggested revoking the directors’ citizenship."
-    },
-    {
-      "char": "🏆",
-      "label": "matthew rhys makes emmy history",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-      "summary": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony."
-    },
-    {
-      "char": "🎬",
-      "label": "israeli film faces backlash",
-      "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
-      "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
-      "summary": "The film “NAZA” investigates the killing of Palestinians by Israeli forces in Gaza. Israel’s culture minister has suggested revoking the directors’ citizenship."
-    },
-    {
-      "char": "🚢",
-      "label": "panama canal traffic cut due to drought",
-      "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
-      "title": "Panama canal traffic to be cut again as drought from El Niño worsens",
-      "summary": "Latest daily reductions will further choke one of the world’s most important shipping lanes The Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climate phenomenon, further choking up one of..."
-    },
-    {
-      "char": "👑",
-      "label": "burial of king oyo in uganda",
-      "url": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda",
-      "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
-      "summary": "Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi Kijanangoma Uganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his r..."
-    },
-    {
-      "char": "🗳️",
-      "label": "landmark vote in mindanao region",
-      "url": "https://www.nytimes.com/2026/09/14/world/asia/muslim-mindanao-philippines-election.html",
-      "title": "Landmark Vote Held in Restive Muslim Autonomous Region in the Philippines",
-      "summary": "The election, in an area long known for violent separatists, was marred by a shootout that killed three, officials said."
+      "char": "🇰🇬",
+      "label": "boom time in kyrgyzstan amid war",
+      "url": "https://www.nytimes.com/2026/09/15/world/asia/kyrgyzstan-economy-russia-war.html",
+      "title": "It’s Boom Time in Kyrgyzstan, Courtesy in Part of the War in Ukraine",
+      "summary": "The economy of the Central Asian nation grew by 11 percent last year, partly by becoming a key conduit for goods flowing into Russia."
     },
     {
       "char": "🇨🇦",
-      "label": "canada supports ukraine defense",
-      "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
-      "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
-      "summary": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the countries pledged to..."
+      "label": "canada pursues unique eu alliance",
+      "url": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
+      "title": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
+      "summary": "Prime minister speaks of strengthening Canada’s economic and political ties to Europe at Canada Investment Summit Mark Carney said Canada will pursue a “unique security and economic alliance” with Europe as he positions his country as a..."
     },
     {
-      "char": "💔",
+      "char": "🌍",
       "label": "ebola outbreak in drc has peaked",
       "url": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow",
       "title": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
       "summary": "Almost 3,500 people have died in outbreak and experts say more must be done to ensure Bundibugyo is under control Authorities in the Democratic Republic of the Congo have announced that the Ebola outbreak ravaging parts of the country ha..."
-    },
-    {
-      "char": "🚀",
-      "label": "us deploys space weapons confirmed",
-      "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-      "title": "US confirms for first time it has deployed space weapons",
-      "summary": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action."
-    },
-    {
-      "char": "⚓",
-      "label": "denmark reports flare incident",
-      "url": "https://www.nytimes.com/2026/09/15/world/europe/denmark-russia-flares-helicopter.html",
-      "title": "Denmark Says Russian Warship Fired Flares at Military Helicopter",
-      "summary": "The incident was the latest in string of episodes involving airspace incursions and other provocations that European leaders have blamed on Russia."
-    },
-    {
-      "char": "💰",
-      "label": "africa's richest man ipo plans",
-      "url": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
-      "title": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
-      "summary": "Public offering of Aliko Dangote’s Nigerian oil refinery business could swell his net wealth by two-thirds The fortune of Africa’s richest person could swell by two thirds to nearly $60bn (£44bn) after his refinery in Nigeria listed publ..."
-    },
-    {
-      "char": "🚀",
-      "label": "us weapon in space",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-      "title": "What weapon could the US have put into space?",
-      "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit."
-    },
-    {
-      "char": "🇨🇴",
-      "label": "colombian ex-minister charged",
-      "url": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&at_campaign=rss",
-      "title": "Colombian ex-foreign minister charged over nanny's lie detector test",
-      "summary": "Laura Sarabia is accused of ordering police to interrogate her nanny after cash allegedly went missing from her flat."
-    },
-    {
-      "char": "⚡",
-      "label": "ukraine energy truce claims",
-      "url": "https://www.nytimes.com/2026/09/15/world/europe/trump-energy-truce-ukraine-russia.html",
-      "title": "Ukraine and Russia Say There Is No Energy Truce, Despite Trump’s Claims",
-      "summary": "The Kremlin said that an agreement would be “a very good idea” but that any deal would not have much effect on fuel markets, as President Trump had suggested."
-    },
-    {
-      "char": "🌍",
-      "label": "south africans denied refuge",
-      "url": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us",
-      "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
-      "summary": "Drive to save thousands of Afrikaners from false claims of ‘white genocide’ appears to show signs of slowing When Donald Trump announced in February 2025 that the US would accept Afrikaners from South Africa as refugees, many white South..."
-    },
-    {
-      "char": "🌊",
-      "label": "panama canal drought issues",
-      "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
-      "title": "Panama canal traffic to be cut again as drought from El Niño worsens",
-      "summary": "Latest daily reductions will further choke one of the world’s most important shipping lanes The Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climate phenomenon, further choking up one of..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "The news highlights a series of troubling events, including violence, social unrest, and historical injustices, creating a pervasive sense of sadness and concern about global issues.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
