@@ -68683,5 +68683,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-16",
+    "emojis": [
+      {
+        "char": "🏗️",
+        "label": "gaza building collapse kills 16",
+        "url": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
+        "title": "At Least 16 Dead in Gaza After Building Collapse, Officials Say",
+        "summary": "The building was previously damaged by an Israeli strike, the local rescue service said. Its fall underscored the precarious conditions of those living among the enclave’s ruins."
+      },
+      {
+        "char": "⚖️",
+        "label": "duterte appears at icc for first time",
+        "url": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
+        "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
+        "summary": "He is due to be tried for crimes against humanity over thousands of deaths linked to his war on drugs."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "eu plans canada associate membership",
+        "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "title": "EU chief backs plan for Canada to become 'associate member'",
+        "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump."
+      },
+      {
+        "char": "🌊",
+        "label": "panama canal traffic cut by drought",
+        "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
+        "title": "Panama canal traffic facing further cuts as drought from El Niño worsens",
+        "summary": "Planned daily reductions will further choke one of the world’s most important shipping lanes The Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climate phenomenon, further choking up one o..."
+      },
+      {
+        "char": "👩‍⚖️",
+        "label": "south africa vows justice for femicide",
+        "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
+        "title": "South African president vows justice as more women's bodies found near Johannesburg",
+        "summary": "Police have not linked the deaths to a serial killer but are investigating this possibility."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
