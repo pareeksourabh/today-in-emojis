@@ -68639,5 +68639,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-16",
+    "emojis": [
+      {
+        "char": "🚁",
+        "label": "helicopter crash in LA",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+        "title": "Three killed after LA news helicopter crashes while covering deadly bus collision",
+        "summary": "The NBCLA news helicopter was flying near the scene of a fatal bus crash."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "alex saab pleads guilty",
+        "url": "https://www.nytimes.com/2026/09/14/us/alex-saab-maduro-money-laundering-plea.html",
+        "title": "Alex Saab, Venezuelan Tied to Maduro, Pleads Guilty in Florida",
+        "summary": "Alex Saab, a former official in Venezuela and longtime ally of its deposed leader, Nicolás Maduro, agreed to cooperate with investigators."
+      },
+      {
+        "char": "⚖️",
+        "label": "brazil supreme court fight",
+        "url": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
+        "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
+        "summary": "Scandal explodes as country’s election campaign peaks, with polls suggesting dead heat between candidates Brazil’s supreme court has been thrust into what experts consider the greatest crisis since the return of democracy in the 1980s, a..."
+      },
+      {
+        "char": "🌍",
+        "label": "nature defenders self-defence",
+        "url": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime",
+        "title": "People protecting nature and land set up self-defence units amid threat of murder",
+        "summary": "Defenders of forests and rivers killed at rate of one every three days in 2025, with 85% of deaths in Latin America Nature and land defenders were murdered at the rate of one every three days last year, prompting many communities to set..."
+      },
+      {
+        "char": "💰",
+        "label": "kyrgyzstan economy boom",
+        "url": "https://www.nytimes.com/2026/09/15/world/asia/kyrgyzstan-economy-russia-war.html",
+        "title": "It’s Boom Time in Kyrgyzstan, Courtesy in Part of the War in Ukraine",
+        "summary": "The economy of the Central Asian nation grew by 11 percent last year, partly by becoming a key conduit for goods flowing into Russia."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
