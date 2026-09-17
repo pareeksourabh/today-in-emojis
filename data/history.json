@@ -68903,5 +68903,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-17",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "brazil supreme court election fight",
+        "url": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
+        "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
+        "summary": "Scandal explodes as country’s election campaign peaks, with polls suggesting dead heat between candidates Brazil’s supreme court has been thrust into what experts consider the greatest crisis since the return of democracy in the 1980s, a..."
+      },
+      {
+        "char": "💔",
+        "label": "human cost of north korea's power",
+        "url": "https://www.nytimes.com/2026/09/17/world/asia/north-korea-exploitation-kim.html",
+        "title": "The Hidden Human Cost of Kim Jong-un’s New Power",
+        "summary": "The North Korean leader’s financial and diplomatic leverage rests on the brutal exploitation of his own people, from coal miners to diplomats, at home and abroad."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "eu-canada trade ambitions face reality",
+        "url": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
+        "title": "E.U.-Canada Ambitions Face Reality Check as Trump Bristles",
+        "summary": "The bloc’s offer of “associate member” status to Ottawa shows how U.S. allies are pulling closer together. But their plans face significant obstacles."
+      },
+      {
+        "char": "⛏️",
+        "label": "sudan gold mine collapse kills 70",
+        "url": "https://www.nytimes.com/2026/09/16/world/africa/sudan-gold-mine-collapse.html",
+        "title": "Gold Mine Collapse in Sudan Kills at Least 70",
+        "summary": "Dozens more are missing after shafts collapsed on Sunday, according to a charity, which said that the chances of rescuing those trapped were “limited” because of a lack of specialized equipment."
+      },
+      {
+        "char": "🌊",
+        "label": "nepal floods hit power plant",
+        "url": "https://www.nytimes.com/2026/09/16/world/asia/nepal-floods-chillime-hydropower-plant.html",
+        "title": "After a Desperate Search for Survivors, Rescuers Find Bodies at Nepal Power Plant",
+        "summary": "An expert team spent days trying to find six men who were trapped underground after catastrophic floods, as families clung to fading hopes."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
