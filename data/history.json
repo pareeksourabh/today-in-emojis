@@ -68859,5 +68859,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-17",
+    "emojis": [
+      {
+        "char": "🕵️‍♀",
+        "label": "anger over femicide in south africa",
+        "url": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
+        "title": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
+        "summary": "String of female murder victims found near Johannesburg’s international airport, including five in the past week The discovery of the bodies of eight women around Johannesburg’s international airport, including five in the past week, has..."
+      },
+      {
+        "char": "🇺🇸",
+        "label": "us visa restrictions for south africans",
+        "url": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination",
+        "title": "US to bar some South Africans over claims of anti-white discrimination",
+        "summary": "Announcement of visa restrictions follows Trump’s false claims of ‘white genocide’ taking place in South Africa The US has announced visa restrictions on some South Africans as Donald Trump’s administration continues to claim that South..."
+      },
+      {
+        "char": "🚢",
+        "label": "trump sanctions strand shipping containers",
+        "url": "https://www.nytimes.com/2026/09/17/world/americas/trump-sanctions-cuba-shipping-containers.html",
+        "title": "Trump Sanctions on Cuba Strands Thousands Of Shipping Containers",
+        "summary": "The U.S. says its sanctions are not aimed at depriving Cuba of essential goods. Thousands of stranded shipping containers tell a different story."
+      },
+      {
+        "char": "💧",
+        "label": "floods hit barcelona region",
+        "url": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss",
+        "title": "One dead after torrential rain and flash floods hit Barcelona region",
+        "summary": "Flooding has caused widespread disruption across Valencia and Catalonia in north-east Spain."
+      },
+      {
+        "char": "⚖️",
+        "label": "belarus frees political prisoners",
+        "url": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html",
+        "title": "Belarus Frees 25 Political Prisoners in Exchange for U.S. Sanctions Relief",
+        "summary": "The deal is part of the Trump administration’s more transactional approach to a close Russian ally that Europe has tried to isolate."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
