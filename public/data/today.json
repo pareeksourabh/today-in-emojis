@@ -1,7 +1,21 @@
 {
   "date": "2026-09-17",
-  "timestamp": "2026-09-17T00:00:00Z",
+  "timestamp": "2026-09-17T02:35:11Z",
   "emojis": [
+    {
+      "char": "🇺🇦",
+      "label": "ukraine corruption outrage",
+      "url": "https://www.nytimes.com/2026/09/16/world/europe/ukraine-corruption.html",
+      "title": "A Colorful Undercover Recording Spurs Fresh Outrage Over Graft in Ukraine",
+      "summary": "A case about kickbacks has drawn attention in a country worried that corruption threatens the war effort, and its future."
+    },
+    {
+      "char": "🌍",
+      "label": "violence in africa's sahel",
+      "url": "https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year",
+      "title": "Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year",
+      "summary": "Twenty-five years after 9/11, figures compiled by conflict monitor underline how Sahel region has become centre of Islamist terror Islamist extremist violence in Africa’s Sahel region is set to reach historic highs after a series of swee..."
+    },
     {
       "char": "💔",
       "label": "gold mine collapse in sudan",
@@ -10,32 +24,18 @@
       "summary": "Dozens more are missing after shafts collapsed on Sunday, according to a charity, which said that the chances of rescuing those trapped were “limited” because of a lack of specialized equipment."
     },
     {
-      "char": "🏗️",
-      "label": "gaza building collapse kills children",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year."
+      "char": "🏳️‍🌈",
+      "label": "turkey crackdown on lgbtq",
+      "url": "https://www.nytimes.com/2026/09/16/world/middleeast/lgbtq-arrests-erdogan-turkey.html",
+      "title": "Turkey Begins Broad Crackdown on L.G.B.T.Q. Community",
+      "summary": "The government has called the campaign an effort to protect families. Rights organizations have accused the authorities of criminalizing L.G.B.T.Q. people and of seeking to thwart political activism."
     },
     {
-      "char": "⚖️",
-      "label": "kosovo leader sentenced for war crimes",
-      "url": "https://www.nytimes.com/2026/09/16/world/europe/kosovo-thaci-war-crimes-hague-serbia.html",
-      "title": "Kosovo’s Former Leader Is Sentenced to 25 Years in War Crimes Case",
-      "summary": "A tribunal in The Hague found Hashim Thaci, who led Kosovo’s independence struggle in the 1990s, responsible for arbitrary detention, torture and murder."
-    },
-    {
-      "char": "🕊️",
-      "label": "belarus frees political prisoners",
-      "url": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html",
-      "title": "Belarus Frees 25 Political Prisoners in Exchange for U.S. Sanctions Relief",
-      "summary": "The deal is part of the Trump administration’s more transactional approach to a close Russian ally that Europe has tried to isolate."
-    },
-    {
-      "char": "🌍",
-      "label": "nature defenders face organized crime",
-      "url": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime",
-      "title": "People protecting nature and land set up self-defence units amid threat of murder",
-      "summary": "Defenders of forests and rivers killed at rate of one every three days in 2025, with 85% of deaths in Latin America Nature and land defenders were murdered at the rate of one every three days last year, prompting many communities to set..."
+      "char": "🤝",
+      "label": "canada eu economic alliance",
+      "url": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
+      "title": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
+      "summary": "Prime minister speaks of strengthening Canada’s economic and political ties to Europe at Canada Investment Summit Mark Carney said Canada will pursue a “unique security and economic alliance” with Europe as he positions his country as a..."
     }
   ],
   "source": "ai-openai",
