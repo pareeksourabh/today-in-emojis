@@ -1,160 +1,27 @@
 {
-  "date": "2026-09-17",
-  "timestamp": "2026-09-17T00:00:00Z",
+  "date": "2026-09-18",
+  "timestamp": "2026-09-18T00:00:00Z",
   "emojis": [
     {
-      "char": "💔",
-      "label": "gold mine collapse in sudan",
-      "url": "https://www.nytimes.com/2026/09/16/world/africa/sudan-gold-mine-collapse.html",
-      "title": "Gold Mine Collapse in Sudan Kills at Least 70",
-      "summary": "Dozens more are missing after shafts collapsed on Sunday, according to a charity, which said that the chances of rescuing those trapped were “limited” because of a lack of specialized equipment."
+      "char": "🇺🇸",
+      "label": "us visa restrictions on south africans",
+      "url": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination",
+      "title": "US to bar some South Africans over claims of anti-white discrimination",
+      "summary": "Announcement of visa restrictions follows Trump’s false claims of ‘white genocide’ taking place in South Africa The US has announced visa restrictions on some South Africans as Donald Trump’s administration continues to claim that South..."
     },
     {
-      "char": "🏗️",
-      "label": "gaza building collapse kills children",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year."
-    },
-    {
-      "char": "⚖️",
-      "label": "kosovo leader sentenced for war crimes",
-      "url": "https://www.nytimes.com/2026/09/16/world/europe/kosovo-thaci-war-crimes-hague-serbia.html",
-      "title": "Kosovo’s Former Leader Is Sentenced to 25 Years in War Crimes Case",
-      "summary": "A tribunal in The Hague found Hashim Thaci, who led Kosovo’s independence struggle in the 1990s, responsible for arbitrary detention, torture and murder."
-    },
-    {
-      "char": "🕊️",
-      "label": "belarus frees political prisoners",
-      "url": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html",
-      "title": "Belarus Frees 25 Political Prisoners in Exchange for U.S. Sanctions Relief",
-      "summary": "The deal is part of the Trump administration’s more transactional approach to a close Russian ally that Europe has tried to isolate."
-    },
-    {
-      "char": "🌍",
-      "label": "nature defenders face organized crime",
-      "url": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime",
-      "title": "People protecting nature and land set up self-defence units amid threat of murder",
-      "summary": "Defenders of forests and rivers killed at rate of one every three days in 2025, with 85% of deaths in Latin America Nature and land defenders were murdered at the rate of one every three days last year, prompting many communities to set..."
-    },
-    {
-      "char": "🇺🇦",
-      "label": "ukraine corruption scandal",
-      "url": "https://www.nytimes.com/2026/09/16/world/europe/ukraine-corruption.html",
-      "title": "A Colorful Undercover Recording Spurs Fresh Outrage Over Graft in Ukraine",
-      "summary": "A case about kickbacks has drawn attention in a country worried that corruption threatens the war effort, and its future."
-    },
-    {
-      "char": "🇨🇳",
-      "label": "iran diplomat visits beijing",
-      "url": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
-      "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
-      "summary": "China renewed calls for an end to the fighting in the Middle East while demonstrating its influence over Tehran."
-    },
-    {
-      "char": "🇿🇦",
-      "label": "south africans denied refuge",
-      "url": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us",
-      "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
-      "summary": "Drive to save thousands of Afrikaners from false claims of ‘white genocide’ appears to show signs of slowing When Donald Trump announced in February 2025 that the US would accept Afrikaners from South Africa as refugees, many white South..."
-    },
-    {
-      "char": "🏗️",
-      "label": "gaza building collapse",
-      "url": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-      "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-      "summary": "The Israeli military said in a statement it “did not strike the building,” but did not say whether any strikes on nearby targets could have caused the damage."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "canada eu membership plan",
-      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-      "title": "EU chief backs plan for Canada to become 'associate member'",
-      "summary": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal."
-    },
-    {
-      "char": "🍽️",
-      "label": "michelin-starred restaurant fined",
-      "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&at_campaign=rss",
-      "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-      "summary": "The owner of the acclaimed establishment avoids jail but is made to pay 15 million won (£8,144; $10,965)."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "eu-canada trade ambitions",
-      "url": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
-      "title": "E.U.-Canada Ambitions Face Reality Check as Trump Bristles",
-      "summary": "The bloc’s offer of “associate member” status to Ottawa shows how U.S. allies are pulling closer together. But their plans face significant obstacles."
+      "char": "🐱",
+      "label": "new cat species in bolivia",
+      "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+      "title": "New cat species identified for first time in more than a century in Bolivia",
+      "summary": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking..."
     },
     {
       "char": "⚖️",
-      "label": "brazil supreme court conflict",
+      "label": "brazil supreme court election fight",
       "url": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
       "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
       "summary": "Scandal explodes as country’s election campaign peaks, with polls suggesting dead heat between candidates Brazil’s supreme court has been thrust into what experts consider the greatest crisis since the return of democracy in the 1980s, a..."
-    },
-    {
-      "char": "🏗️",
-      "label": "gaza building collapse tragedy",
-      "url": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-      "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-      "summary": "The Israeli military said in a statement it “did not strike the building,” but did not say whether any strikes on nearby targets could have caused the damage."
-    },
-    {
-      "char": "💔",
-      "label": "femicide anger in south africa",
-      "url": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
-      "title": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
-      "summary": "String of female murder victims found near Johannesburg’s international airport, including five in the past week The discovery of the bodies of eight women around Johannesburg’s international airport, including five in the past week, has..."
-    },
-    {
-      "char": "💰",
-      "label": "slave-trade wealth in britain",
-      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/16/slave-trade-wealth-britain-financial-system-bank-of-england-enslaved-africans",
-      "title": "Slave-trade wealth was embedded in Britain’s financial system, research finds",
-      "summary": "Dozens of Bank of England directors and founding subscribers invested in trafficking of enslaved Africans The Bank of England and the British financial system were for centuries deeply involved in the enslavement and transatlantic traffi..."
-    },
-    {
-      "char": "🚢",
-      "label": "panama canal traffic cuts",
-      "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
-      "title": "Panama canal traffic facing further cuts as drought from El Niño worsens",
-      "summary": "Planned daily reductions will further choke one of the world’s most important shipping lanes The Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climate phenomenon, further choking up one o..."
-    },
-    {
-      "char": "📰",
-      "label": "abducted journalist found dead",
-      "url": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss",
-      "title": "Abducted South African journalist found dead with gunshot wounds",
-      "summary": "The body of veteran broadcaster Owen Ndlovu was found hours after armed men kidnapped him near Johannesburg."
-    },
-    {
-      "char": "🌍",
-      "label": "femicide anger in south africa",
-      "url": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
-      "title": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
-      "summary": "String of female murder victims found near Johannesburg’s international airport, including five in the past week The discovery of the bodies of eight women around Johannesburg’s international airport, including five in the past week, has..."
-    },
-    {
-      "char": "🐶",
-      "label": "wild dogs longest journey",
-      "url": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
-      "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
-      "summary": "As three siblings came of age and had to leave their pack, scientists tracked the dogs’ perilous 2,500-mile odyssey to find their own territory It sounds like a Disney movie: three wild dogs, all brothers, on an epic journey to find a ho..."
-    },
-    {
-      "char": "💰",
-      "label": "slave-trade wealth in britain",
-      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/16/slave-trade-wealth-britain-financial-system-bank-of-england-enslaved-africans",
-      "title": "Slave-trade wealth was embedded in Britain’s financial system, research finds",
-      "summary": "Dozens of Bank of England directors and founding subscribers invested in trafficking of enslaved Africans The Bank of England and the British financial system were for centuries deeply involved in the enslavement and transatlantic traffi..."
-    },
-    {
-      "char": "🏗️",
-      "label": "israel's disputed settlement plan",
-      "url": "https://www.nytimes.com/2026/09/17/world/middleeast/e1-israel-west-bank-settlement.html",
-      "title": "What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?",
-      "summary": "Israel’s right-wing government is opening bidding for thousands of housing units in a patch of the West Bank, a move that would thwart efforts at Palestinian statehood."
     },
     {
       "char": "🎭",
@@ -165,40 +32,12 @@
     },
     {
       "char": "🌍",
-      "label": "nature defenders self-defence units",
-      "url": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime",
-      "title": "People protecting nature and land set up self-defence units amid threat of murder",
-      "summary": "Defenders of forests and rivers killed at rate of one every three days in 2025, with 85% of deaths in Latin America Nature and land defenders were murdered at the rate of one every three days last year, prompting many communities to set..."
-    },
-    {
-      "char": "🚨",
-      "label": "bodies found at nepal power plant",
-      "url": "https://www.nytimes.com/2026/09/16/world/asia/nepal-floods-chillime-hydropower-plant.html",
-      "title": "After a Desperate Search for Survivors, Rescuers Find Bodies at Nepal Power Plant",
-      "summary": "An expert team spent days trying to find six men who were trapped underground after catastrophic floods, as families clung to fading hopes."
+      "label": "violence in africa's sahel belt",
+      "url": "https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year",
+      "title": "Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year",
+      "summary": "Twenty-five years after 9/11, figures compiled by conflict monitor underline how Sahel region has become centre of Islamist terror Islamist extremist violence in Africa’s Sahel region is set to reach historic highs after a series of swee..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Sadness",
-    "emoji": "😢",
-    "rationale": "The day's news is overwhelmingly filled with tragic events, including significant loss of life from natural disasters and violence, highlighting a deep sense of sorrow and grief.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
