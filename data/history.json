@@ -69035,5 +69035,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-18",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "world's largest cesspool in mexico",
+        "url": "https://www.nytimes.com/2026/09/17/world/americas/mexico-city-endho-dam.html",
+        "title": "Locals Call It the World’s Largest Cesspool, and Blame It for Surging Cancer",
+        "summary": "For decades, the Mexican authorities have sacrificed a rural valley to flush away the capital’s waste and power the economy. Now, local communities are paying for that decision — often with peoples’ lives."
+      },
+      {
+        "char": "🐾",
+        "label": "wild dog brothers' epic journey",
+        "url": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
+        "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
+        "summary": "As three siblings came of age and had to leave their pack, scientists tracked the dogs’ perilous 2,500-mile odyssey to find their own territory It sounds like a Disney movie: three wild dogs, all brothers, on an epic journey to find a ho..."
+      },
+      {
+        "char": "🤖",
+        "label": "ai could rival humans, warns microsoft",
+        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+        "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\"."
+      },
+      {
+        "char": "🛡️",
+        "label": "nature defenders form self-defence units",
+        "url": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime",
+        "title": "People protecting nature and land set up self-defence units amid threat of murder",
+        "summary": "Defenders of forests and rivers killed at rate of one every three days in 2025, with 85% of deaths in Latin America Nature and land defenders were murdered at the rate of one every three days last year, prompting many communities to set..."
+      },
+      {
+        "char": "🚢",
+        "label": "trump sanctions strand shipping containers",
+        "url": "https://www.nytimes.com/2026/09/17/world/americas/trump-sanctions-cuba-shipping-containers.html",
+        "title": "Trump Sanctions on Cuba Strands Thousands Of Shipping Containers",
+        "summary": "The U.S. says its sanctions are not aimed at depriving Cuba of essential goods. Thousands of stranded shipping containers tell a different story."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
