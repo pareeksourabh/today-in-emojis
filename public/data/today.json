@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news items reflect a concerning trend of violence, political turmoil, and humanitarian crises, balanced with moments of hope such as the discovery of a new cat species. This duality evokes a sense of anxiety about current global issues.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day is marked by significant tragedies, including violence against women in South Africa and numerous deaths from tainted alcohol in Nigeria, reflecting a profound sense of sorrow and loss.",
     "palette": [
       "😢",
       "😡",
