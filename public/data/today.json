@@ -1,204 +1,43 @@
 {
-  "date": "2026-09-18",
-  "timestamp": "2026-09-18T00:00:00Z",
+  "date": "2026-09-19",
+  "timestamp": "2026-09-19T00:00:00Z",
   "emojis": [
     {
-      "char": "🇺🇸",
-      "label": "us visa restrictions on south africans",
-      "url": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination",
-      "title": "US to bar some South Africans over claims of anti-white discrimination",
-      "summary": "Announcement of visa restrictions follows Trump’s false claims of ‘white genocide’ taking place in South Africa The US has announced visa restrictions on some South Africans as Donald Trump’s administration continues to claim that South..."
-    },
-    {
-      "char": "🐱",
-      "label": "new cat species in bolivia",
-      "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
-      "title": "New cat species identified for first time in more than a century in Bolivia",
-      "summary": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking..."
-    },
-    {
-      "char": "⚖️",
-      "label": "brazil supreme court election fight",
-      "url": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
-      "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
-      "summary": "Scandal explodes as country’s election campaign peaks, with polls suggesting dead heat between candidates Brazil’s supreme court has been thrust into what experts consider the greatest crisis since the return of democracy in the 1980s, a..."
-    },
-    {
-      "char": "🎭",
-      "label": "cultural reawakening in budapest",
-      "url": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
-      "title": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
-      "summary": "A one-woman show about the perils of authoritarianism draws on a memoir by the Hungarian-American writer Kati Marton. Under Viktor Orban’s government, it might not have happened."
-    },
-    {
-      "char": "🌍",
-      "label": "violence in africa's sahel belt",
-      "url": "https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year",
-      "title": "Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year",
-      "summary": "Twenty-five years after 9/11, figures compiled by conflict monitor underline how Sahel region has become centre of Islamist terror Islamist extremist violence in Africa’s Sahel region is set to reach historic highs after a series of swee..."
-    },
-    {
       "char": "✈️",
-      "label": "iran airline suspends flights",
-      "url": "https://www.nytimes.com/2026/09/17/world/middleeast/iranian-airlines-suspend-flights-us-sanctions.html",
-      "title": "Major Iranian Airline Suspends Several Flights Abroad, Adding to Isolation",
-      "summary": "The carrier, Mahan Air, said it would stop flying to neighboring countries just over a week after the United States imposed sweeping sanctions on Iran’s aviation industry."
+      "label": "ryanair boss apologizes for remarks",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+      "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+      "summary": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\"."
     },
     {
-      "char": "🕵️‍♀",
-      "label": "femicide sparks outrage in south africa",
-      "url": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
-      "title": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
-      "summary": "String of female murder victims found near Johannesburg’s international airport, including five in the past week The discovery of the bodies of eight women around Johannesburg’s international airport, including five in the past week, has..."
+      "char": "🇨🇦",
+      "label": "canada's eu membership uncertainty",
+      "url": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
+      "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
+      "summary": "Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that means Europe live – latest updates Mark Carney received a rapturous reception in the European parliament when he gave his speech..."
     },
     {
-      "char": "🐾",
-      "label": "wild dogs make longest journey",
-      "url": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
-      "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
-      "summary": "As three siblings came of age and had to leave their pack, scientists tracked the dogs’ perilous 2,500-mile odyssey to find their own territory It sounds like a Disney movie: three wild dogs, all brothers, on an epic journey to find a ho..."
-    },
-    {
-      "char": "🎭",
-      "label": "new play signals cultural reawakening",
-      "url": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
-      "title": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
-      "summary": "A one-woman show about the perils of authoritarianism draws on a memoir by the Hungarian-American writer Kati Marton. Under Viktor Orban’s government, it might not have happened."
-    },
-    {
-      "char": "⚔️",
-      "label": "yemen war intensifies with houthi advances",
-      "url": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
-      "title": "Yemen War Intensifies as Houthi Militia Advances on Marib",
-      "summary": "Clashes between Iranian-backed Houthi fighters and Saudi-backed government forces have been reported near oil-rich Marib Province."
-    },
-    {
-      "char": "🚢",
-      "label": "trump sanctions on cuba",
-      "url": "https://www.nytimes.com/2026/09/17/world/americas/trump-sanctions-cuba-shipping-containers.html",
-      "title": "Trump Sanctions on Cuba Strands Thousands Of Shipping Containers",
-      "summary": "The U.S. says its sanctions are not aimed at depriving Cuba of essential goods. Thousands of stranded shipping containers tell a different story."
+      "char": "🔍",
+      "label": "russian hybrid attacks intensifying",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
     },
     {
       "char": "⚖️",
-      "label": "brazil supreme court election fight",
-      "url": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
-      "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
-      "summary": "Scandal explodes as country’s election campaign peaks, with polls suggesting dead heat between candidates Brazil’s supreme court has been thrust into what experts consider the greatest crisis since the return of democracy in the 1980s, a..."
-    },
-    {
-      "char": "🇸🇪",
-      "label": "sweden swings back left",
-      "url": "https://www.nytimes.com/2026/09/17/world/europe/sweden-election-social-democrats.html",
-      "title": "Sweden Swings Back Left, Bucking a Trend in Europe",
-      "summary": "The results of this week’s exceptionally close election dealt a blow to far-right nationalists, who have gained ground elsewhere."
-    },
-    {
-      "char": "🐾",
-      "label": "wild dog brothers' journey",
-      "url": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
-      "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
-      "summary": "As three siblings came of age and had to leave their pack, scientists tracked the dogs’ perilous 2,500-mile odyssey to find their own territory It sounds like a Disney movie: three wild dogs, all brothers, on an epic journey to find a ho..."
-    },
-    {
-      "char": "🍹",
-      "label": "nigeria alcohol deaths",
-      "url": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
-      "title": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol",
-      "summary": "Drinking locally made alcohol is common in Nigeria, especially in rural areas where it is more affordable and poorly regulated At least 48 people have died and about 100 others are receiving treatment in southern Nigeria after consuming..."
-    },
-    {
-      "char": "🗳️",
-      "label": "autocrats and public opinion",
-      "url": "https://www.nytimes.com/2026/09/18/world/europe/putin-russia-election-ideas.html",
-      "title": "Why Autocrats Care What People Think",
-      "summary": "Russia is staging an election that matters to almost no one — except President Vladimir V. Putin and his inner circle."
-    },
-    {
-      "char": "⚔️",
-      "label": "yemen war intensifies",
-      "url": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
-      "title": "Yemen War Intensifies as Houthi Militia Advances on Marib",
-      "summary": "Clashes between Iranian-backed Houthi fighters and Saudi-backed government forces have been reported near oil-rich Marib Province."
-    },
-    {
-      "char": "⚖️",
-      "label": "brazil supreme court conflict",
-      "url": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
-      "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
-      "summary": "Scandal explodes as country’s election campaign peaks, with polls suggesting dead heat between candidates Brazil’s supreme court has been thrust into what experts consider the greatest crisis since the return of democracy in the 1980s, a..."
-    },
-    {
-      "char": "🌍",
-      "label": "new wild cat species found",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
-      "title": "New wild cat species discovered - with only one known living member",
-      "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia."
-    },
-    {
-      "char": "🍹",
-      "label": "nigeria alcohol deaths",
-      "url": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
-      "title": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol",
-      "summary": "Drinking locally made alcohol is common in Nigeria, especially in rural areas where it is more affordable and poorly regulated At least 48 people have died and about 100 others are receiving treatment in southern Nigeria after consuming..."
-    },
-    {
-      "char": "🗳️",
-      "label": "autocrats and public opinion",
-      "url": "https://www.nytimes.com/2026/09/18/world/europe/putin-russia-election-ideas.html",
-      "title": "Why Autocrats Care What People Think",
-      "summary": "Russia is staging an election that matters to almost no one — except President Vladimir V. Putin and his inner circle."
-    },
-    {
-      "char": "⚖️",
-      "label": "brazil supreme court election fight",
-      "url": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
-      "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
-      "summary": "Scandal explodes as country’s election campaign peaks, with polls suggesting dead heat between candidates Brazil’s supreme court has been thrust into what experts consider the greatest crisis since the return of democracy in the 1980s, a..."
-    },
-    {
-      "char": "🌧️",
-      "label": "himalayan flood risks after disaster",
-      "url": "https://www.nytimes.com/2026/09/18/climate/nepal-tibet-floods-himalayas-warnings.html",
-      "title": "Scientists Warn of Flood Risks to 8 Himalayan Countries after Nepal Disaster",
-      "summary": "The catastrophe set off alarms in a region with thousands of glaciers spanning eight nations. Better monitoring and cooperation between the countries could save lives, experts say."
+      "label": "protests in nigeria over miners' treatment",
+      "url": "https://www.nytimes.com/2026/09/18/world/africa/nigeria-miners-dead-police-minna.html",
+      "title": "Protests Erupt in Nigeria After Police Pack 66 Miners Into One Cell",
+      "summary": "Thirty-seven people died in the authorities’ custody, officials said. Survivors said the cell had barely any ventilation, food, or water and people began “collapsing and dying.”"
     },
     {
       "char": "🐱",
-      "label": "new cat species discovered in bolivia",
+      "label": "new cat species identified in bolivia",
       "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
       "title": "New cat species identified for first time in more than a century in Bolivia",
       "summary": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking..."
-    },
-    {
-      "char": "🚨",
-      "label": "british woman rescued in malawi",
-      "url": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
-      "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
-      "summary": "Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last week A British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "The day is marked by significant tragedies, including violence against women in South Africa and numerous deaths from tainted alcohol in Nigeria, reflecting a profound sense of sorrow and loss.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
