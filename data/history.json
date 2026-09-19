@@ -69431,5 +69431,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-19",
+    "emojis": [
+      {
+        "char": "🤖",
+        "label": "google's gemini ai hacked companies",
+        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+        "title": "Google's Gemini AI hacked three companies in security test",
+        "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "millionaire activist seeks asylum",
+        "url": "https://www.nytimes.com/2026/09/19/world/europe/spain-chambers-asylum-us-extradition.html",
+        "title": "Millionaire Activist James Chambers Seeks Asylum in Spain",
+        "summary": "Jailed in Madrid on an extradition request from the United States that his lawyer says is tied to pro-Palestinian activism, James Chambers fears persecution if returned."
+      },
+      {
+        "char": "🦈",
+        "label": "shark attack prompts kill order",
+        "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+        "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+        "summary": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him."
+      },
+      {
+        "char": "✈️",
+        "label": "saudi arabia issues air raid alerts",
+        "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+        "summary": "Residents later received the all-clear after explosions were reported in the capital."
+      },
+      {
+        "char": "🎬",
+        "label": "battle of chile director dies",
+        "url": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
+        "title": "Battle of Chile director Patricio Guzmán dies aged 85",
+        "summary": "Passionate documentary maker won international acclaim for unsparing but poetic films exploring the impact of the Pinochet regime in Chile Patricio Guzmán, the film-maker who chronicled Chile’s bloody 1970s political strife and its subse..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
