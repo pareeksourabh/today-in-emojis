@@ -69255,5 +69255,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-19",
+    "emojis": [
+      {
+        "char": "😷",
+        "label": "panic in nigerian prison cell",
+        "url": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
+        "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
+        "summary": "Police fire teargas as protests break out in city of Minna after deaths of suspected illegal goldminers, many of whom were children Survivors from a prison cell in Nigeria where 37 suspected illegal goldminers died while in the custody o..."
+      },
+      {
+        "char": "🇺🇸",
+        "label": "fbi halts cooperation with canada",
+        "url": "https://www.nytimes.com/2026/09/18/us/politics/fbi-canada-cbc-9-11.html",
+        "title": "F.B.I. Temporarily Halted Cooperation With Canada Over References to 9/11",
+        "summary": "The abrupt move by Kash Patel, the bureau’s director, came as President Trump was ramping up his attacks on the country."
+      },
+      {
+        "char": "💣",
+        "label": "explosion at pakistan mosque",
+        "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+        "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+        "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility."
+      },
+      {
+        "char": "🏨",
+        "label": "nightmare prison for us deportees",
+        "url": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+        "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
+        "summary": "Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program."
+      },
+      {
+        "char": "🗳️",
+        "label": "how russia manipulates elections",
+        "url": "https://www.nytimes.com/2026/09/18/world/europe/russia-duma-election.html",
+        "title": "Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants",
+        "summary": "Russian elections like the parliamentary vote that begins today are hardly free. But they are critical to the government as a source of legitimacy."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
