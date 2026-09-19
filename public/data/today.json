@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news items reveal a mix of serious social issues, violence, and environmental concerns, culminating in an overall atmosphere of unease and urgency.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day was marked by tragic events, including the deaths of miners in Nigeria and a deadly attack in Pakistan, highlighting deep-seated issues of violence and injustice that evoke sadness and concern.",
     "palette": [
       "😢",
       "😡",
