@@ -69343,5 +69343,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-19",
+    "emojis": [
+      {
+        "char": "🛡️",
+        "label": "nature defenders self-defence units",
+        "url": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime",
+        "title": "People protecting nature and land set up self-defence units amid threat of murder",
+        "summary": "Defenders of forests and rivers killed at rate of one every three days in 2025, with 85% of deaths in Latin America Nature and land defenders were murdered at the rate of one every three days last year, prompting many communities to set..."
+      },
+      {
+        "char": "🌍",
+        "label": "nepal's gen z vs polluters",
+        "url": "https://www.nytimes.com/2026/09/19/world/asia/nepals-gen-z-is-taking-on-the-worlds-polluters-over-climate-disasters.html",
+        "title": "Nepal’s Gen Z Is Taking on the World’s Polluters Over Climate Disasters",
+        "summary": "The young government of Nepal, a nation with a tiny carbon footprint, is seeking reparations from the world’s major economies as it bears the brunt of collapsing Himalayan glaciers."
+      },
+      {
+        "char": "🏨",
+        "label": "nightmare prison for us deportees",
+        "url": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+        "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
+        "summary": "Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program."
+      },
+      {
+        "char": "🎬",
+        "label": "patricio guzmán dies aged 85",
+        "url": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
+        "title": "Battle of Chile director Patricio Guzmán dies aged 85",
+        "summary": "Passionate documentary maker won international acclaim for unsparing but poetic films exploring the impact of the Pinochet regime in Chile Patricio Guzmán, the film-maker who chronicled Chile’s bloody 1970s political strife and its subse..."
+      },
+      {
+        "char": "🚨",
+        "label": "british woman kidnapped in malawi",
+        "url": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
+        "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
+        "summary": "Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last week A British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
