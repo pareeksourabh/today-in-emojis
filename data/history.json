@@ -69607,5 +69607,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-20",
+    "emojis": [
+      {
+        "char": "🚀",
+        "label": "houthis attack saudi capital",
+        "url": "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html",
+        "title": "In Significant Escalation, Houthis Attack Saudi Capital",
+        "summary": "The Houthis, an Iranian-backed militia, said they had fired a wave of missiles and drones at Riyadh, and on Saudi oil facilities."
+      },
+      {
+        "char": "🌍",
+        "label": "bachelet withdraws from un race",
+        "url": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
+        "title": "Michelle Bachelet withdraws from race to become UN secretary general",
+        "summary": "Former president of Chile drops out after support collapsed in security council straw poll, leaving seven candidates in contest Michelle Bachelet, a former president of Chile, has withdrawn her candidacy to become the next secretary gene..."
+      },
+      {
+        "char": "💰",
+        "label": "brazil's lula welfare payments",
+        "url": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
+        "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
+        "summary": "Critics say moves from leftwing incumbent president are electorally motivated two weeks before Brazil’s elections Brazil’s president, Luiz Inácio Lula da Silva, has announced a 15% increase in the country’s main cash-transfer programme f..."
+      },
+      {
+        "char": "🐱",
+        "label": "new cat species in bolivia",
+        "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+        "title": "New cat species identified for first time in more than a century in Bolivia",
+        "summary": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "canada's eu membership uncertainty",
+        "url": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
+        "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
+        "summary": "Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that means Europe live – latest updates Mark Carney received a rapturous reception in the European parliament when he gave his speech..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
