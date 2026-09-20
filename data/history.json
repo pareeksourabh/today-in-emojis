@@ -69475,5 +69475,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-20",
+    "emojis": [
+      {
+        "char": "🇬🇱",
+        "label": "greenlanders question trump deal",
+        "url": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html",
+        "title": "‘Nervous and Skeptical,’ Greenlanders Question the New Deal With Trump",
+        "summary": "The U.S. president’s threats to seize Greenland left its people on edge, and with details scarce, the news of an agreement didn’t seem to be putting minds at ease."
+      },
+      {
+        "char": "🐱",
+        "label": "new cat species in bolivia",
+        "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+        "title": "New cat species identified for first time in more than a century in Bolivia",
+        "summary": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking..."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "brazil's lula boosts welfare ahead of election",
+        "url": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
+        "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
+        "summary": "Critics say moves from leftwing incumbent president are electorally motivated two weeks before Brazil’s elections Brazil’s president, Luiz Inácio Lula da Silva, has announced a 15% increase in the country’s main cash-transfer programme f..."
+      },
+      {
+        "char": "🌍",
+        "label": "nepal's gen z fights climate change",
+        "url": "https://www.nytimes.com/2026/09/19/world/asia/nepals-gen-z-is-taking-on-the-worlds-polluters-over-climate-disasters.html",
+        "title": "Nepal’s Gen Z Is Taking on the World’s Polluters Over Climate Disasters",
+        "summary": "The young government of Nepal, a nation with a tiny carbon footprint, is seeking reparations from the world’s major economies as it bears the brunt of collapsing Himalayan glaciers."
+      },
+      {
+        "char": "🎬",
+        "label": "patricio guzman dies at 85",
+        "url": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
+        "title": "Battle of Chile director Patricio Guzmán dies aged 85",
+        "summary": "Passionate documentary maker won international acclaim for unsparing but poetic films exploring the impact of the Pinochet regime in Chile Patricio Guzmán, the film-maker who chronicled Chile’s bloody 1970s political strife and its subse..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
