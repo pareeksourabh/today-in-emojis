@@ -1,27 +1,20 @@
 {
   "date": "2026-09-20",
-  "timestamp": "2026-09-20T00:00:00Z",
+  "timestamp": "2026-09-20T09:11:09Z",
   "emojis": [
     {
       "char": "🌍",
-      "label": "nato welcomes greenland deal",
-      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory."
+      "label": "nature defenders self-defence units",
+      "url": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime",
+      "title": "People protecting nature and land set up self-defence units amid threat of murder",
+      "summary": "Defenders of forests and rivers killed at rate of one every three days in 2025, with 85% of deaths in Latin America Nature and land defenders were murdered at the rate of one every three days last year, prompting many communities to set..."
     },
     {
-      "char": "🐱",
-      "label": "firefighters find rare feline",
-      "url": "https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline",
-      "title": "Louisiana firefighters find feline native to sub-Saharan Africa while responding to house fire",
-      "summary": "The African serval, illegally enclosed in the back yard, was subdued and transferred to an animal welfare facility Louisiana firefighters responding to a small house blaze found a wildcat native to sub-Saharan Africa illegally enclosed i..."
-    },
-    {
-      "char": "💰",
-      "label": "brazil's lula boosts welfare payments",
-      "url": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
-      "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
-      "summary": "Critics say moves from leftwing incumbent president are electorally motivated two weeks before Brazil’s elections Brazil’s president, Luiz Inácio Lula da Silva, has announced a 15% increase in the country’s main cash-transfer programme f..."
+      "char": "🗳️",
+      "label": "german elections amid far-right surge",
+      "url": "https://www.nytimes.com/2026/09/20/world/europe/germany-afd-elections-berlin-mecklenburg.html",
+      "title": "Germans Are Voting Again, Amid a Far-Right Surge. Here’s What to Watch.",
+      "summary": "Elections in eastern Germany on Sunday could galvanize the Alternative for Germany, an ascendant far-right party, or spur a backlash."
     },
     {
       "char": "🚨",
@@ -31,11 +24,18 @@
       "summary": "Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last week A British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged..."
     },
     {
-      "char": "🕌",
-      "label": "houthis attack saudi capital",
-      "url": "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html",
-      "title": "In Significant Escalation, Houthis Attack Saudi Capital",
-      "summary": "The Houthis, an Iranian-backed militia, said they had fired a wave of missiles and drones at Riyadh, and on Saudi oil facilities."
+      "char": "💣",
+      "label": "al qaeda claims attack in pakistan",
+      "url": "https://www.nytimes.com/2026/09/19/world/asia/pakistan-mosque-attack-bahadur.html",
+      "title": "Group With Al Qaeda Links Claims Responsibility for Attack in Pakistan",
+      "summary": "The attack on a mosque inside a police compound, killing at least two dozen people, is the latest example of the worsening violence near the Afghan border."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "brazil's lula welfare payments announcement",
+      "url": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
+      "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
+      "summary": "Critics say moves from leftwing incumbent president are electorally motivated two weeks before Brazil’s elections Brazil’s president, Luiz Inácio Lula da Silva, has announced a 15% increase in the country’s main cash-transfer programme f..."
     }
   ],
   "source": "ai-openai",

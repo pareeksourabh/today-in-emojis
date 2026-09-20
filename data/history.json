@@ -69519,5 +69519,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-20",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "nature defenders self-defence units",
+        "url": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime",
+        "title": "People protecting nature and land set up self-defence units amid threat of murder",
+        "summary": "Defenders of forests and rivers killed at rate of one every three days in 2025, with 85% of deaths in Latin America Nature and land defenders were murdered at the rate of one every three days last year, prompting many communities to set..."
+      },
+      {
+        "char": "🗳️",
+        "label": "german elections amid far-right surge",
+        "url": "https://www.nytimes.com/2026/09/20/world/europe/germany-afd-elections-berlin-mecklenburg.html",
+        "title": "Germans Are Voting Again, Amid a Far-Right Surge. Here’s What to Watch.",
+        "summary": "Elections in eastern Germany on Sunday could galvanize the Alternative for Germany, an ascendant far-right party, or spur a backlash."
+      },
+      {
+        "char": "🚨",
+        "label": "british woman rescued in malawi",
+        "url": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
+        "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
+        "summary": "Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last week A British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged..."
+      },
+      {
+        "char": "💣",
+        "label": "al qaeda claims attack in pakistan",
+        "url": "https://www.nytimes.com/2026/09/19/world/asia/pakistan-mosque-attack-bahadur.html",
+        "title": "Group With Al Qaeda Links Claims Responsibility for Attack in Pakistan",
+        "summary": "The attack on a mosque inside a police compound, killing at least two dozen people, is the latest example of the worsening violence near the Afghan border."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "brazil's lula welfare payments announcement",
+        "url": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
+        "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
+        "summary": "Critics say moves from leftwing incumbent president are electorally motivated two weeks before Brazil’s elections Brazil’s president, Luiz Inácio Lula da Silva, has announced a 15% increase in the country’s main cash-transfer programme f..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
