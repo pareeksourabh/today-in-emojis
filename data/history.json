@@ -69871,5 +69871,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-21",
+    "emojis": [
+      {
+        "char": "⚽",
+        "label": "xhaka under investigation",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
+        "title": "Xhaka under investigation over Covid-19 certificate",
+        "summary": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate."
+      },
+      {
+        "char": "🌊",
+        "label": "yemenis flee as war escalates",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+        "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+        "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti."
+      },
+      {
+        "char": "🏥",
+        "label": "uk hospitals struggle with heat",
+        "url": "https://www.nytimes.com/2026/09/21/world/europe/uk-hospitals-heat-waves-climate.html",
+        "title": "‘Way Too Hot’: Britain’s Hospitals Were Not Built for 96-Degree Summers",
+        "summary": "Patients and workers in one of the country’s largest hospitals sweltered in a heat wave last month. Experts say the whole country must urgently adapt."
+      },
+      {
+        "char": "⚖️",
+        "label": "us strikes may be crimes against humanity",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
+        "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
+        "summary": "A report says the attacks, of which there have been at least 68, were not self-defence."
+      },
+      {
+        "char": "🗳️",
+        "label": "russia's elections and the kremlin",
+        "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+        "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+        "summary": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
