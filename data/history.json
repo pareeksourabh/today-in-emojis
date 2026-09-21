@@ -69695,5 +69695,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-21",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israeli president pardons ex-soldier",
+        "url": "https://www.nytimes.com/2026/09/19/world/middleeast/israel-pardon-azaria.html",
+        "title": "Israeli President Pardons Ex-Soldier Over Killing of Incapacitated Palestinian",
+        "summary": "In 2016, Elor Azaria killed a Palestinian attacker who had been injured, fueling a public debate both at home and abroad over Israeli military actions."
+      },
+      {
+        "char": "💧",
+        "label": "herod's pool draining land",
+        "url": "https://www.nytimes.com/2026/09/20/world/middleeast/west-bank-pool-palestinians-israelis-water.html",
+        "title": "Israeli Tourist Trap ‘Herod’s Pool’ Is Draining Palestinians’ Land Dry",
+        "summary": "Israeli lawmakers have promoted visits to an ancient reservoir in the West Bank that was refilled this summer with water diverted from Palestinian-owned farms."
+      },
+      {
+        "char": "🔫",
+        "label": "arrests in haitian president's assassination",
+        "url": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
+        "title": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
+        "summary": "Jovenel Moïse, 53, was shot dead in July 2021 in a killing which sparked chaos in Haiti Eighteen people have been arrested in association with the 2021 assassination of the Haitian president Jovenel Moïse, according to US officials. Moïs..."
+      },
+      {
+        "char": "🇷🇺",
+        "label": "russia's elections and opposition",
+        "url": "https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html",
+        "title": "They Have Almost No Chance in Russia’s Elections. Why Are They Running?",
+        "summary": "The liberal party Yabloko is fielding 98 candidates in this weekend’s elections, a small miracle for antiwar Russians who cannot openly express their views."
+      },
+      {
+        "char": "🕵️‍♂",
+        "label": "diplomat from myanmar in nyc",
+        "url": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
+        "title": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
+        "summary": "For more than five years, U Kyaw Moe Tun has refused to give up his United Nations post and a sandstone townhouse on the Upper East Side."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
