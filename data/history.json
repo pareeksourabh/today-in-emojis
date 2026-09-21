@@ -69783,5 +69783,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-21",
+    "emojis": [
+      {
+        "char": "🇩🇪",
+        "label": "far right in europe",
+        "url": "https://www.nytimes.com/2026/09/21/world/europe/germany-afd-far-right.html",
+        "title": "The Fuel That Feeds Europe’s Far Right: Nostalgia and Lost Pride",
+        "summary": "The populist emphasis on national identity and threats to it, real and imagined, finds a deep response in voters adrift in a world they no longer understand."
+      },
+      {
+        "char": "🇫🇷",
+        "label": "france-canada relations",
+        "url": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
+        "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+        "summary": "Two leaders meet in French territory off Canada as Ottawa seeks stronger relations with EU while fighting trade war with US The leaders of France and Canada have pledged closer ties to grapple with rising geopolitical tensions, climate c..."
+      },
+      {
+        "char": "🔫",
+        "label": "arrests in haitian president case",
+        "url": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
+        "title": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
+        "summary": "Jovenel Moïse, 53, was shot dead in July 2021 in a killing which sparked chaos in Haiti Eighteen people have been arrested in association with the 2021 assassination of the Haitian president Jovenel Moïse, according to US officials. Moïs..."
+      },
+      {
+        "char": "🇱🇧",
+        "label": "lebanon amnesty law issues",
+        "url": "https://www.nytimes.com/2026/09/21/world/middleeast/lebanon-amnesty-law-aoun.html",
+        "title": "Why a Law to Help Prisoners Became a New Sectarian Flashpoint in Lebanon",
+        "summary": "An amnesty measure was supposed to ease prison overcrowding and pressure on the judiciary. Instead, it highlighted the country’s divides."
+      },
+      {
+        "char": "🇯🇵",
+        "label": "putin-japan dispute",
+        "url": "https://www.nytimes.com/2026/09/21/world/asia/japan-russia-putin-nemuro.html",
+        "title": "Putin Reignited a Dispute With Japan. This Town Is Stuck in the Middle.",
+        "summary": "The fishing town of Nemuro depends on Russia for trade. But it’s also leading a fight to win back islands seized by Moscow in World War II."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

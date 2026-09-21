@@ -1,41 +1,41 @@
 {
   "date": "2026-09-21",
-  "timestamp": "2026-09-21T00:00:00Z",
+  "timestamp": "2026-09-21T14:56:11Z",
   "emojis": [
     {
-      "char": "🌍",
-      "label": "un general assembly faces crises",
-      "url": "https://www.nytimes.com/2026/09/21/world/americas/un-general-assembly-ai.html",
-      "title": "U.N. General Assembly to Confront Familiar Crises, New Conflicts and A.I.",
-      "summary": "The United Nations is also searching for a replacement for António Guterres, who has served two terms as the secretary general and is stepping down."
+      "char": "🇩🇪",
+      "label": "far right in europe",
+      "url": "https://www.nytimes.com/2026/09/21/world/europe/germany-afd-far-right.html",
+      "title": "The Fuel That Feeds Europe’s Far Right: Nostalgia and Lost Pride",
+      "summary": "The populist emphasis on national identity and threats to it, real and imagined, finds a deep response in voters adrift in a world they no longer understand."
+    },
+    {
+      "char": "🇫🇷",
+      "label": "france-canada relations",
+      "url": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
+      "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+      "summary": "Two leaders meet in French territory off Canada as Ottawa seeks stronger relations with EU while fighting trade war with US The leaders of France and Canada have pledged closer ties to grapple with rising geopolitical tensions, climate c..."
+    },
+    {
+      "char": "🔫",
+      "label": "arrests in haitian president case",
+      "url": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
+      "title": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
+      "summary": "Jovenel Moïse, 53, was shot dead in July 2021 in a killing which sparked chaos in Haiti Eighteen people have been arrested in association with the 2021 assassination of the Haitian president Jovenel Moïse, according to US officials. Moïs..."
     },
     {
       "char": "🇱🇧",
-      "label": "lebanon sectarian law controversy",
+      "label": "lebanon amnesty law issues",
       "url": "https://www.nytimes.com/2026/09/21/world/middleeast/lebanon-amnesty-law-aoun.html",
       "title": "Why a Law to Help Prisoners Became a New Sectarian Flashpoint in Lebanon",
       "summary": "An amnesty measure was supposed to ease prison overcrowding and pressure on the judiciary. Instead, it highlighted the country’s divides."
     },
     {
-      "char": "🛡️",
-      "label": "us-china tensions over taiwan arms",
-      "url": "https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html",
-      "title": "One Issue That Could Upend Fragile U.S.-China Ties: Taiwan Arms",
-      "summary": "As Beijing presses President Trump to freeze a proposed $14 billion weapons sale to the island, Taiwan is trying to show that its security is in U.S. interests."
-    },
-    {
-      "char": "🚨",
-      "label": "british woman rescued in malawi",
-      "url": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
-      "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
-      "summary": "Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last week A British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged..."
-    },
-    {
-      "char": "🐱",
-      "label": "new cat species discovered in bolivia",
-      "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
-      "title": "New cat species identified for first time in more than a century in Bolivia",
-      "summary": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking..."
+      "char": "🇯🇵",
+      "label": "putin-japan dispute",
+      "url": "https://www.nytimes.com/2026/09/21/world/asia/japan-russia-putin-nemuro.html",
+      "title": "Putin Reignited a Dispute With Japan. This Town Is Stuck in the Middle.",
+      "summary": "The fishing town of Nemuro depends on Russia for trade. But it’s also leading a fight to win back islands seized by Moscow in World War II."
     }
   ],
   "source": "ai-openai",
