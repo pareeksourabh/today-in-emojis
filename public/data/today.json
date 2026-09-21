@@ -1,43 +1,204 @@
 {
   "date": "2026-09-21",
-  "timestamp": "2026-09-21T18:03:30Z",
+  "timestamp": "2026-09-21T00:00:00Z",
   "emojis": [
     {
-      "char": "😷",
-      "label": "panic in nigerian prison",
-      "url": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
-      "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
-      "summary": "Police fire teargas as protests break out in city of Minna after deaths of suspected illegal goldminers, many of whom were children Survivors from a prison cell in Nigeria where 37 suspected illegal goldminers died while in the custody o..."
+      "char": "🗳️",
+      "label": "russia's elections and candidates",
+      "url": "https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html",
+      "title": "They Have Almost No Chance in Russia’s Elections. Why Are They Running?",
+      "summary": "The liberal party Yabloko is fielding 98 candidates in this weekend’s elections, a small miracle for antiwar Russians who cannot openly express their views."
     },
     {
-      "char": "🔫",
-      "label": "shooting near ontario synagogue",
-      "url": "https://www.nytimes.com/2026/09/21/world/canada/synagogue-shooting-belleville-ontario-yom-kippur.html",
-      "title": "Police Officer Injured in Shooting Near Ontario Synagogue on Yom Kippur",
-      "summary": "A gunman opened fire near the Sons of Jacob Synagogue in Belleville as congregants gathered for Yom Kippur, the authorities said."
+      "char": "🚁",
+      "label": "drone attacks in moscow",
+      "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
+      "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
+      "summary": "Ukraine says it used a newly developed ballistic missile in the attacks, which also targeted other parts of Russia."
+    },
+    {
+      "char": "🔒",
+      "label": "kidnapping rescue in malawi",
+      "url": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
+      "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
+      "summary": "Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last week A British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged..."
     },
     {
       "char": "🐱",
-      "label": "firefighters rescue african feline",
-      "url": "https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline",
-      "title": "Louisiana firefighters find feline native to sub-Saharan Africa while responding to house fire",
-      "summary": "The African serval, illegally enclosed in the back yard, was subdued and transferred to an animal welfare facility Louisiana firefighters responding to a small house blaze found a wildcat native to sub-Saharan Africa illegally enclosed i..."
+      "label": "new cat species in bolivia",
+      "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+      "title": "New cat species identified for first time in more than a century in Bolivia",
+      "summary": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking..."
     },
     {
-      "char": "🎬",
-      "label": "bollywood's bard still writing",
-      "url": "https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html",
-      "title": "At 92, the Bard of Bollywood Is Still Writing About Love",
-      "summary": "The poet and lyricist Gulzar has profoundly shaped the idea of tender romance in India through his verse and songs in more than 150 musicals."
+      "char": "🌍",
+      "label": "bachelet withdraws from un race",
+      "url": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
+      "title": "Michelle Bachelet withdraws from race to become UN secretary general",
+      "summary": "Former president of Chile drops out after support collapsed in security council straw poll, leaving seven candidates in contest Michelle Bachelet, a former president of Chile, has withdrawn her candidacy to become the next secretary gene..."
     },
     {
-      "char": "⚖️",
-      "label": "lebanon's prisoner law conflict",
+      "char": "🇵🇰",
+      "label": "sister of ex-pm khan arrested",
+      "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+      "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests."
+    },
+    {
+      "char": "🇫🇷",
+      "label": "france-canada ties amid tensions",
+      "url": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
+      "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+      "summary": "Two leaders meet in French territory off Canada as Ottawa seeks stronger relations with EU while fighting trade war with US The leaders of France and Canada have pledged closer ties to grapple with rising geopolitical tensions, climate c..."
+    },
+    {
+      "char": "🚨",
+      "label": "british woman rescued in malawi",
+      "url": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
+      "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
+      "summary": "Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last week A British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged..."
+    },
+    {
+      "char": "🎉",
+      "label": "mexico's melon contest",
+      "url": "https://www.nytimes.com/2026/09/19/world/americas/mexico-melon-contest-veracruz.html",
+      "title": "The Most Handsome Melon in Mexico? Yes, It’s a Real Contest.",
+      "summary": "In the eastern city of Xalapa, what started as a joke among friends over two decades ago has become a vibrant annual tradition that highlights creativity and absurdity with melons."
+    },
+    {
+      "char": "🐱",
+      "label": "new cat species found in bolivia",
+      "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+      "title": "New cat species identified for first time in more than a century in Bolivia",
+      "summary": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking..."
+    },
+    {
+      "char": "🌍",
+      "label": "trump's deportation deals",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
+      "title": "Banished to alien lands: Trump’s secret deportation deals",
+      "summary": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy deals made with dozens of countries. An..."
+    },
+    {
+      "char": "🔫",
+      "label": "arrests in haitian president case",
+      "url": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
+      "title": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
+      "summary": "Jovenel Moïse, 53, was shot dead in July 2021 in a killing which sparked chaos in Haiti Eighteen people have been arrested in association with the 2021 assassination of the Haitian president Jovenel Moïse, according to US officials. Moïs..."
+    },
+    {
+      "char": "💧",
+      "label": "water crisis in west bank",
+      "url": "https://www.nytimes.com/2026/09/20/world/middleeast/west-bank-pool-palestinians-israelis-water.html",
+      "title": "Israeli Tourist Trap ‘Herod’s Pool’ Is Draining Palestinians’ Land Dry",
+      "summary": "Israeli lawmakers have promoted visits to an ancient reservoir in the West Bank that was refilled this summer with water diverted from Palestinian-owned farms."
+    },
+    {
+      "char": "🐱",
+      "label": "new cat species discovered",
+      "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+      "title": "New cat species identified for first time in more than a century in Bolivia",
+      "summary": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking..."
+    },
+    {
+      "char": "🚨",
+      "label": "kidnapping rescue in malawi",
+      "url": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
+      "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
+      "summary": "Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last week A British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged..."
+    },
+    {
+      "char": "🌍",
+      "label": "un general assembly faces crises",
+      "url": "https://www.nytimes.com/2026/09/21/world/americas/un-general-assembly-ai.html",
+      "title": "U.N. General Assembly to Confront Familiar Crises, New Conflicts and A.I.",
+      "summary": "The United Nations is also searching for a replacement for António Guterres, who has served two terms as the secretary general and is stepping down."
+    },
+    {
+      "char": "🇱🇧",
+      "label": "lebanon sectarian law controversy",
       "url": "https://www.nytimes.com/2026/09/21/world/middleeast/lebanon-amnesty-law-aoun.html",
       "title": "Why a Law to Help Prisoners Became a New Sectarian Flashpoint in Lebanon",
       "summary": "An amnesty measure was supposed to ease prison overcrowding and pressure on the judiciary. Instead, it highlighted the country’s divides."
+    },
+    {
+      "char": "🛡️",
+      "label": "us-china tensions over taiwan arms",
+      "url": "https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html",
+      "title": "One Issue That Could Upend Fragile U.S.-China Ties: Taiwan Arms",
+      "summary": "As Beijing presses President Trump to freeze a proposed $14 billion weapons sale to the island, Taiwan is trying to show that its security is in U.S. interests."
+    },
+    {
+      "char": "🚨",
+      "label": "british woman rescued in malawi",
+      "url": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
+      "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
+      "summary": "Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last week A British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged..."
+    },
+    {
+      "char": "🐱",
+      "label": "new cat species discovered in bolivia",
+      "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+      "title": "New cat species identified for first time in more than a century in Bolivia",
+      "summary": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking..."
+    },
+    {
+      "char": "⚖️",
+      "label": "us strikes may be crimes against humanity",
+      "url": "https://www.theguardian.com/world/2026/sep/21/us-boat-strikes-crime-against-humanity",
+      "title": "US strikes on alleged drug boats may constitute ‘crimes against humanity’, UN finds",
+      "summary": "Dozens of US attacks on boats in the Pacific and Caribbean have killed more than 230 people since September 2025 A special rapporteur for the UN human rights council has concluded that there are “reasonable grounds to believe” that the U..."
+    },
+    {
+      "char": "🏥",
+      "label": "uk hospitals unprepared for heat waves",
+      "url": "https://www.nytimes.com/2026/09/21/world/europe/uk-hospitals-heat-waves-climate.html",
+      "title": "‘Way Too Hot’: Britain’s Hospitals Were Not Built for 96-Degree Summers",
+      "summary": "Patients and workers in one of the country’s largest hospitals sweltered in a heat wave last month. Experts say the whole country must urgently adapt."
+    },
+    {
+      "char": "🌀",
+      "label": "typhoon dujuan hits japan, evacuations urged",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas."
+    },
+    {
+      "char": "🤝",
+      "label": "france-canada relations amid tensions",
+      "url": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
+      "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+      "summary": "Two leaders meet in French territory off Canada as Ottawa seeks stronger relations with EU while fighting trade war with US The leaders of France and Canada have pledged closer ties to grapple with rising geopolitical tensions, climate c..."
+    },
+    {
+      "char": "🔫",
+      "label": "gunfire near ontario synagogue during yom kippur",
+      "url": "https://www.theguardian.com/world/2026/sep/21/gunfire-belleville-ontario-synagogue-yom-kippur",
+      "title": "Man and police officer wounded in exchange of gunfire near Ontario synagogue",
+      "summary": "Officials say man was critically injured and officer was wounded in Yom Kippur incident near Belleville synagogue A police officer and a man were wounded in an exchange of gunfire on Sunday near a synagogue in Ontario as members of the J..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "The day's news reflects a range of serious issues including political unrest, climate challenges, and humanitarian crises, evoking a sense of concern and urgency.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
