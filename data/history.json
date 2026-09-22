@@ -70047,5 +70047,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-22",
+    "emojis": [
+      {
+        "char": "🚨",
+        "label": "men deported from us to equatorial guinea",
+        "url": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
+        "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
+        "summary": "Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violence Two men that the Trump administration expelled to Equatorial Guinea were bound, fitted with bags over their heads, beaten and pus..."
+      },
+      {
+        "char": "🏫",
+        "label": "shooting near high school in turkey",
+        "url": "https://www.nytimes.com/2026/09/22/world/europe/turkey-school-shooting-injured.html",
+        "title": "Shooting Near High School in Turkey Injures 11",
+        "summary": "The attack came months after back-to-back school shootings in the country, where educators have been warning about rising violence."
+      },
+      {
+        "char": "⚖️",
+        "label": "sri lanka court convicts men over bombings",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+        "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+        "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270."
+      },
+      {
+        "char": "🌍",
+        "label": "colombia wildfire threatens tourist area",
+        "url": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva",
+        "title": "Colombia declares public calamity as wildfire threatens popular tourist area",
+        "summary": "Wildfire forces evacuations and burns through mountains surrounding Villa de Leyva in the north-east Colombian authorities declared a public calamity as a wildfire burned through mountains surrounding one of the country’s best-known colo..."
+      },
+      {
+        "char": "🤝",
+        "label": "macron and carney closer ties",
+        "url": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
+        "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+        "summary": "Two leaders meet in French territory off Canada as Ottawa seeks stronger relations with EU while fighting trade war with US The leaders of France and Canada have pledged closer ties to grapple with rising geopolitical tensions, climate c..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
