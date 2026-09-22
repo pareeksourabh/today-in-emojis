@@ -1,64 +1,43 @@
 {
-  "date": "2026-09-21",
-  "timestamp": "2026-09-21T20:09:03Z",
+  "date": "2026-09-22",
+  "timestamp": "2026-09-22T00:00:00Z",
   "emojis": [
     {
-      "char": "⚽",
-      "label": "xhaka under investigation",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
-      "title": "Xhaka under investigation over Covid-19 certificate",
-      "summary": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate."
-    },
-    {
-      "char": "🌊",
-      "label": "yemenis flee as war escalates",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti."
-    },
-    {
-      "char": "🏥",
-      "label": "uk hospitals struggle with heat",
-      "url": "https://www.nytimes.com/2026/09/21/world/europe/uk-hospitals-heat-waves-climate.html",
-      "title": "‘Way Too Hot’: Britain’s Hospitals Were Not Built for 96-Degree Summers",
-      "summary": "Patients and workers in one of the country’s largest hospitals sweltered in a heat wave last month. Experts say the whole country must urgently adapt."
+      "char": "🇪🇹",
+      "label": "ethiopian rebel alliance formed",
+      "url": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
+      "title": "Seven Ethiopian rebel groups form new alliance",
+      "summary": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together."
     },
     {
       "char": "⚖️",
       "label": "us strikes may be crimes against humanity",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
-      "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
-      "summary": "A report says the attacks, of which there have been at least 68, were not self-defence."
+      "url": "https://www.nytimes.com/2026/09/21/world/americas/us-boat-strikes-crimes-un.html",
+      "title": "U.S. Strikes on Alleged Drug Boats Could Be Criminal, U.N. Expert Says",
+      "summary": "A U.N. human rights investigator, like other experts, concluded that the Trump administration’s deadly attacks violate international law, and said the strikes could be crimes against humanity."
+    },
+    {
+      "char": "🏥",
+      "label": "africa healthcare under strain after us aid",
+      "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
+      "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+      "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put has put healthcare in Africa and..."
     },
     {
       "char": "🗳️",
-      "label": "russia's elections and the kremlin",
+      "label": "russia's elections show few surprises",
       "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
       "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
       "summary": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg."
+    },
+    {
+      "char": "🔥",
+      "label": "colombia wildfire threatens tourist area",
+      "url": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva",
+      "title": "Colombia declares public calamity as wildfire threatens popular tourist area",
+      "summary": "Wildfire forces evacuations and burns through mountains surrounding Villa de Leyva in the north-east Colombian authorities declared a public calamity as a wildfire burned through mountains surrounding one of the country’s best-known colo..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "Today's news reflects a somber atmosphere, with issues ranging from war and humanitarian crises to public health concerns and political manipulation. There's a prevailing sense of distress and urgency in addressing these significant global",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
