@@ -70003,5 +70003,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-22",
+    "emojis": [
+      {
+        "char": "🕊️",
+        "label": "sri lanka easter bombings verdict",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+        "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+        "summary": "The 2019 attacks were the deadliest the country had seen since the end of its civil war."
+      },
+      {
+        "char": "⚖️",
+        "label": "us strikes may be crimes against humanity",
+        "url": "https://www.theguardian.com/world/2026/sep/21/us-boat-strikes-crime-against-humanity",
+        "title": "US strikes on alleged drug boats may constitute ‘crimes against humanity’, UN expert says",
+        "summary": "Dozens of US attacks on boats in the Pacific and Caribbean have killed more than 230 people since September 2025 A special rapporteur for the UN human rights council has concluded that there are “reasonable grounds to believe” that the U..."
+      },
+      {
+        "char": "🌪️",
+        "label": "typhoon dujuan hits japan",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+        "title": "Four dead after powerful Typhoon Dujuan lashes Japan",
+        "summary": "The storm pulled away from Japan after bringing heavy rains and strong winds to Tokyo and surrounding areas."
+      },
+      {
+        "char": "📚",
+        "label": "earl spencer book on diana",
+        "url": "https://www.nytimes.com/2026/09/22/world/europe/diana-earl-spencer-book.html",
+        "title": "Earl Spencer Book Blasts Diana’s Treatment by UK Royal Family",
+        "summary": "The decades have not lessened Earl Spencer’s anger over the House of Windsor’s treatment of the former Princess of Wales. King Charles comes in for special vitriol."
+      },
+      {
+        "char": "🔥",
+        "label": "colombia wildfire threatens tourism",
+        "url": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva",
+        "title": "Colombia declares public calamity as wildfire threatens popular tourist area",
+        "summary": "Wildfire forces evacuations and burns through mountains surrounding Villa de Leyva in the north-east Colombian authorities declared a public calamity as a wildfire burned through mountains surrounding one of the country’s best-known colo..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
