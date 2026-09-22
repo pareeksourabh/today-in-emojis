@@ -70091,5 +70091,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-22",
+    "emojis": [
+      {
+        "char": "🏫",
+        "label": "bc sues openai over school shooting",
+        "url": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
+        "title": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
+        "summary": "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT use British Columbia has sued OpenAI , saying a mass shooting at a school in the Canadian province could have been preven..."
+      },
+      {
+        "char": "🇬🇧",
+        "label": "uk leader meets trump at un",
+        "url": "https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html",
+        "title": "UK Leader Burnham to Hold First Meeting With Trump at UN General Assembly",
+        "summary": "Prime Minister Andy Burnham of Britain faces his most high-stakes meeting since taking office, looking to build a rapport with President Trump."
+      },
+      {
+        "char": "🏛️",
+        "label": "italy prisons overheated this summer",
+        "url": "https://www.nytimes.com/2026/09/22/world/europe/italy-prisons-heat-wave-summer-overcrowding.html",
+        "title": "Italy’s Prisons Were Overcrowded. Then They Overheated.",
+        "summary": "As temperatures in the country continue to approach 90 degrees Fahrenheit, inmates have been sleeping on concrete cell floors. Even the guards have complained."
+      },
+      {
+        "char": "🔥",
+        "label": "colombia wildfire threatens tourism",
+        "url": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva",
+        "title": "Colombia declares public calamity as wildfire threatens popular tourist area",
+        "summary": "Wildfire forces evacuations and burns through mountains surrounding Villa de Leyva in the north-east Colombian authorities declared a public calamity as a wildfire burned through mountains surrounding one of the country’s best-known colo..."
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane polo becomes category 5",
+        "url": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
+        "title": "Tropical Storm Polo turns into category 5 monster hurricane off south-west coast of Mexico",
+        "summary": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in fewer than 24 hours,..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
