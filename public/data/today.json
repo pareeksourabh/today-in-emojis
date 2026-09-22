@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news highlights various crises such as wildfires, international conflicts, and healthcare strains, creating a sense of concern and anxiety about current global issues.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day is marked by significant distressing events, including wildfires forcing evacuations, accusations of crimes against humanity, and the tragic death of a young star. These stories evoke a profound sense of sadness for those affected.",
     "palette": [
       "😢",
       "😡",
