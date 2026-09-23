@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The presence of significant distressing news, such as shootings and natural disasters, alongside moments of joy illustrates a day of mixed emotions, hence the choice of the 'worried' emoji.",
+    "emotion_label": "Mixed Emotions",
+    "emoji": "😮",
+    "rationale": "The day is marked by a juxtaposition of emotional highs, like the excitement for Céline Dion's tour, against serious issues such as violence in Turkey and hurricanes threatening lives and livelihoods.",
     "palette": [
       "😢",
       "😡",
