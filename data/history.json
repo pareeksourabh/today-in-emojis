@@ -70311,5 +70311,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-23",
+    "emojis": [
+      {
+        "char": "🇦🇺",
+        "label": "us rebukes australia over social media",
+        "url": "https://www.nytimes.com/2026/09/23/world/australia/social-media-law-algorithms-us-embassy.html",
+        "title": "U.S. Rebukes Australia Over Proposed Limits on Social Media Algorithms",
+        "summary": "The U.S. Embassy said a draft law allowing users to opt out of systems that choose what they can see in their feeds could amount to censorship."
+      },
+      {
+        "char": "⚔️",
+        "label": "ethiopia and tigray accuse each other",
+        "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+        "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+        "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes."
+      },
+      {
+        "char": "💰",
+        "label": "indian billionaire's london flotation",
+        "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
+        "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
+        "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlle..."
+      },
+      {
+        "char": "🏠",
+        "label": "spain's housing shortage highlighted",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+        "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+        "summary": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it."
+      },
+      {
+        "char": "🗳️",
+        "label": "india's election panel faces scrutiny",
+        "url": "https://www.nytimes.com/2026/09/23/world/asia/india-election-commission-voter-rolls.html",
+        "title": "India’s Election Panel Faces New Scrutiny Over Voter Roll Revisions",
+        "summary": "An explosive news report says election commission members objected to the measures that excluded millions of people from voting, which critics say favor the government."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
