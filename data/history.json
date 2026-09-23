@@ -70267,5 +70267,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-23",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "morocco's election and youth frustration",
+        "url": "https://www.nytimes.com/2026/09/23/world/africa/morocco-election-youth-frustration.html",
+        "title": "Youth Frustration and Migration Shadow Morocco’s Election",
+        "summary": "Unemployment and poor public services fueled the border crisis at Ceuta and Gen Z protests, but frustrated young people may stay away from the polls."
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane polo off mexico's coast",
+        "url": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
+        "title": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
+        "summary": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in fewer than 24 hours,..."
+      },
+      {
+        "char": "💰",
+        "label": "indian billionaire's london flotation",
+        "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
+        "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
+        "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market A payments business that operates across Africa and is ultimately controlled by an Indian billionaire has announced its intention to float on the str..."
+      },
+      {
+        "char": "⚖️",
+        "label": "jamaica's slavery reparations petition",
+        "url": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council",
+        "title": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
+        "summary": "The move comes after Jamaica’s culture minister Olivia Grange travelled to the UK earlier this month to lodge the historic petition King Charles has referred a landmark slavery reparations petition from Jamaica to a high-level UK appeals..."
+      },
+      {
+        "char": "🤖",
+        "label": "china's ai plans for the future",
+        "url": "https://www.nytimes.com/2026/09/23/world/asia/china-ai-economy-xi-jinping.html",
+        "title": "How China’s Leader Plans to Win the Future With A.I.",
+        "summary": "A decade ago, Xi Jinping asked if China could master A.I. His push is remaking the economy, challenging the United States and keeping society under control."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
