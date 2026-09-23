@@ -70223,5 +70223,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-23",
+    "emojis": [
+      {
+        "char": "🚨",
+        "label": "top police officer charged with rape",
+        "url": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
+        "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
+        "summary": "Arrest of Shadrack Sibiya comes as country reels from cases of femicide and alleged police corruption and criminality One of South Africa’s most senior police officers has been charged with raping an 18-year-old woman and grooming a 16-y..."
+      },
+      {
+        "char": "🏥",
+        "label": "africa healthcare aid withdrawal",
+        "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
+        "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+        "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put healthcare in Africa and the Glo..."
+      },
+      {
+        "char": "🔫",
+        "label": "mass shooting in south africa",
+        "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+        "title": "Eleven killed in mass shooting at house in South Africa",
+        "summary": "One of those killed is believed to be a pregnant woman, police said."
+      },
+      {
+        "char": "🌐",
+        "label": "us rebukes australia on social media",
+        "url": "https://www.nytimes.com/2026/09/23/world/australia/social-media-law-algorithms-us-embassy.html",
+        "title": "U.S. Rebukes Australia Over Proposed Limits on Social Media Algorithms",
+        "summary": "The U.S. Embassy said a draft law allowing users to opt out of systems that choose what they can see in their feeds could amount to censorship."
+      },
+      {
+        "char": "🇯🇵",
+        "label": "japan ends enemy state label",
+        "url": "https://www.nytimes.com/2026/09/23/world/asia/unga-japan-takaichi-enemy-state.html",
+        "title": "At the U.N., Japan’s Leader Says It’s Time to End ‘Enemy State’ Label",
+        "summary": "Prime Minister Sanae Takaichi said the United Nations should scrub the World War II-era designation from its Charter. China and Russia have used the term recently to attack Japan."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
