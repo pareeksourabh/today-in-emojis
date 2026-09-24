@@ -70531,5 +70531,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-24",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "netanyahu lashes out at critics",
+        "url": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news",
+        "title": "U.N. Live Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
+        "summary": "In a combative speech, the prime minister defended Israeli military action across the Middle East, and attacked Mayor Zohran Mamdani of New York. Dozens of delegates walked out of the hall as he took the podium."
+      },
+      {
+        "char": "💻",
+        "label": "openai agent infiltrates australian site",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+        "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+        "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June."
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane polo rages off mexico",
+        "url": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
+        "title": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
+        "summary": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in fewer than 24 hours,..."
+      },
+      {
+        "char": "⚖️",
+        "label": "jamaica king refers reparations petition",
+        "url": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council",
+        "title": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
+        "summary": "The move comes after Jamaica’s culture minister Olivia Grange travelled to the UK earlier this month to lodge the historic petition King Charles has referred a landmark slavery reparations petition from Jamaica to a high-level UK appeals..."
+      },
+      {
+        "char": "📉",
+        "label": "brazil election corruption scandal",
+        "url": "https://www.nytimes.com/2026/09/24/world/americas/brazil-supreme-court-justice-moraes-vorcaro-trump.html",
+        "title": "A Corruption Scandal Is Reshaping Brazil’s Presidential Election",
+        "summary": "Allegations embroiling the Brazilian judge who jailed former President Bolsonaro are reshaping an election that has consequences for Latin America and Washington."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
