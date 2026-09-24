@@ -70399,5 +70399,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-24",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "weinstein sentenced to prison",
+        "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+        "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+        "summary": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\"."
+      },
+      {
+        "char": "🤝",
+        "label": "trump and xi meet on ai",
+        "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+        "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+        "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control."
+      },
+      {
+        "char": "🕊️",
+        "label": "families urge trump on detained americans",
+        "url": "https://www.nytimes.com/2026/09/24/world/asia/china-xi-trump-detained-americans.html",
+        "title": "Families Urge Trump to Press Xi to Free Americans Detained in China",
+        "summary": "The Americans being held in China are U Min Zin, a scholar who studied Myanmar, and Youlin Chen, a seismologist who researched North Korean nuclear tests."
+      },
+      {
+        "char": "⚔️",
+        "label": "ethiopia and tigray on war fears",
+        "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+        "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+        "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes."
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane polo off mexico coast",
+        "url": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
+        "title": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
+        "summary": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in fewer than 24 hours,..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
