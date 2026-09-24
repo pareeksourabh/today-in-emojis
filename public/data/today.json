@@ -1,41 +1,41 @@
 {
   "date": "2026-09-24",
-  "timestamp": "2026-09-24T09:10:21Z",
+  "timestamp": "2026-09-24T00:00:00Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "weinstein sentenced to prison",
-      "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-      "summary": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\"."
+      "char": "🗳️",
+      "label": "india's election commission controversy",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "summary": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief."
     },
     {
-      "char": "🤝",
-      "label": "trump and xi meet on ai",
-      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control."
-    },
-    {
-      "char": "🕊️",
-      "label": "families urge trump on detained americans",
-      "url": "https://www.nytimes.com/2026/09/24/world/asia/china-xi-trump-detained-americans.html",
-      "title": "Families Urge Trump to Press Xi to Free Americans Detained in China",
-      "summary": "The Americans being held in China are U Min Zin, a scholar who studied Myanmar, and Youlin Chen, a seismologist who researched North Korean nuclear tests."
-    },
-    {
-      "char": "⚔️",
-      "label": "ethiopia and tigray on war fears",
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes."
+      "char": "🔥",
+      "label": "poland's starlink station sabotage",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says."
     },
     {
       "char": "🌪️",
-      "label": "hurricane polo off mexico coast",
+      "label": "hurricane polo off mexico's coast",
       "url": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
       "title": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
       "summary": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in fewer than 24 hours,..."
+    },
+    {
+      "char": "🏥",
+      "label": "australia investigates openai hack",
+      "url": "https://www.nytimes.com/2026/09/23/world/asia/australia-investigates-openai-hack-on-public-health-care-site.html",
+      "title": "Australia Investigates OpenAI Hack on Public Health Care Site",
+      "summary": "Australia is exploring potential legal action after an artificial intelligence agent accessed nonpublic information on the country’s universal health care system."
+    },
+    {
+      "char": "⚖️",
+      "label": "jamaica's slavery reparations petition",
+      "url": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council",
+      "title": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
+      "summary": "The move comes after Jamaica’s culture minister Olivia Grange travelled to the UK earlier this month to lodge the historic petition King Charles has referred a landmark slavery reparations petition from Jamaica to a high-level UK appeals..."
     }
   ],
   "source": "ai-openai",
