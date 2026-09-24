@@ -1,20 +1,13 @@
 {
   "date": "2026-09-24",
-  "timestamp": "2026-09-24T19:32:07Z",
+  "timestamp": "2026-09-24T00:00:00Z",
   "emojis": [
     {
-      "char": "🇮🇱",
-      "label": "netanyahu lashes out at critics",
-      "url": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news",
-      "title": "U.N. Live Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
-      "summary": "In a combative speech, the prime minister defended Israeli military action across the Middle East, and attacked Mayor Zohran Mamdani of New York. Dozens of delegates walked out of the hall as he took the podium."
-    },
-    {
-      "char": "💻",
-      "label": "openai agent infiltrates australian site",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June."
+      "char": "🇲🇽",
+      "label": "trump’s new favorite neighbor: mexico",
+      "url": "https://www.nytimes.com/2026/09/23/world/americas/trump-mexico-trade-relations.html",
+      "title": "Trump’s New Favorite Neighbor: Mexico",
+      "summary": "President Trump built his political brand in part on bashing Mexico. Now his second presidency depends on deepening partnerships with the country."
     },
     {
       "char": "🌪️",
@@ -24,20 +17,188 @@
       "summary": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in fewer than 24 hours,..."
     },
     {
+      "char": "🤖",
+      "label": "how china plans to win with a.i.",
+      "url": "https://www.nytimes.com/2026/09/23/world/asia/china-ai-economy-xi-jinping.html",
+      "title": "How China’s Leader Plans to Win the Future With A.I.",
+      "summary": "A decade ago, Xi Jinping asked if China could master A.I. His push is remaking the economy, challenging the United States and keeping society under control."
+    },
+    {
+      "char": "🏥",
+      "label": "healthcare in africa under strain",
+      "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
+      "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+      "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put healthcare in Africa and the glo..."
+    },
+    {
       "char": "⚖️",
-      "label": "jamaica king refers reparations petition",
+      "label": "jamaica hails king’s reparations decision",
       "url": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council",
       "title": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
       "summary": "The move comes after Jamaica’s culture minister Olivia Grange travelled to the UK earlier this month to lodge the historic petition King Charles has referred a landmark slavery reparations petition from Jamaica to a high-level UK appeals..."
     },
     {
-      "char": "📉",
-      "label": "brazil election corruption scandal",
-      "url": "https://www.nytimes.com/2026/09/24/world/americas/brazil-supreme-court-justice-moraes-vorcaro-trump.html",
-      "title": "A Corruption Scandal Is Reshaping Brazil’s Presidential Election",
-      "summary": "Allegations embroiling the Brazilian judge who jailed former President Bolsonaro are reshaping an election that has consequences for Latin America and Washington."
+      "char": "🌍",
+      "label": "zelensky warns of war costs",
+      "url": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
+      "title": "U.N. Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine",
+      "summary": "Ukraine’s president said rising fuel prices and deadlier drone technology showed that the fighting have spilled beyond his country’s borders. He called for steps to end to the war before winter."
+    },
+    {
+      "char": "🏛️",
+      "label": "ancient wall found in paris",
+      "url": "https://www.nytimes.com/2026/09/23/world/europe/ancient-wall-paris-rome.html",
+      "title": "Ancient Wall Found in Paris Provides Clues to City’s Origins",
+      "summary": "A discovery at a Parisian hospital, on an island in the Seine, has given archaeologists clues about the city as Julius Caesar may have found it."
+    },
+    {
+      "char": "🇲🇽",
+      "label": "trump's new neighbor: mexico",
+      "url": "https://www.nytimes.com/2026/09/23/world/americas/trump-mexico-trade-relations.html",
+      "title": "Trump’s New Favorite Neighbor: Mexico",
+      "summary": "President Trump built his political brand in part on bashing Mexico. Now his second presidency depends on deepening partnerships with the country."
+    },
+    {
+      "char": "⚖️",
+      "label": "jamaica hails reparations decision",
+      "url": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council",
+      "title": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
+      "summary": "The move comes after Jamaica’s culture minister Olivia Grange travelled to the UK earlier this month to lodge the historic petition King Charles has referred a landmark slavery reparations petition from Jamaica to a high-level UK appeals..."
+    },
+    {
+      "char": "🚨",
+      "label": "top south african officer charged",
+      "url": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
+      "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
+      "summary": "Arrest of Shadrack Sibiya comes as country reels from cases of femicide and alleged police corruption and criminality One of South Africa’s most senior police officers has been charged with raping an 18-year-old woman and grooming a 16-y..."
+    },
+    {
+      "char": "🗣️",
+      "label": "trump's threat to annihilate iran",
+      "url": "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
+      "title": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
+      "summary": "US president may have upstaged the ghost of Soviet leader Khrushchev by musing destruction of fellow member state Donald Trump has a habit of discomfiting delegates to the United Nations general assembly. But this year, he may have upsta..."
+    },
+    {
+      "char": "🤖",
+      "label": "ai superpower ambitions at un",
+      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control."
+    },
+    {
+      "char": "🇪🇹",
+      "label": "tigrayan forces mobilize in ethiopia",
+      "url": "https://www.nytimes.com/2026/09/23/world/africa/ethiopia-tigray-airport.html",
+      "title": "Tigrayan Forces Mobilize Against the Central Government in Ethiopia",
+      "summary": "Tigray People’s Liberation Front seized a key airport in the city of Mekelle, as fears grow of a possible return to a full-scale war."
+    },
+    {
+      "char": "🇦🇷",
+      "label": "argentina threatens on falklands at un",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
+      "title": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
+      "summary": "Argentinian president accuses United Nations of being filled with ‘parasites’ in bellicose general assembly speech Javier Milei has condemned the UN as he warned that Argentina would take “matters into our own hands” in its dispute with..."
+    },
+    {
+      "char": "⚖️",
+      "label": "harvey weinstein sentenced to prison",
+      "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+      "summary": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\"."
+    },
+    {
+      "char": "🗳️",
+      "label": "india's election commission controversy",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "summary": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief."
+    },
+    {
+      "char": "🔥",
+      "label": "poland's starlink station sabotage",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane polo off mexico's coast",
+      "url": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
+      "title": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
+      "summary": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in fewer than 24 hours,..."
+    },
+    {
+      "char": "🏥",
+      "label": "australia investigates openai hack",
+      "url": "https://www.nytimes.com/2026/09/23/world/asia/australia-investigates-openai-hack-on-public-health-care-site.html",
+      "title": "Australia Investigates OpenAI Hack on Public Health Care Site",
+      "summary": "Australia is exploring potential legal action after an artificial intelligence agent accessed nonpublic information on the country’s universal health care system."
+    },
+    {
+      "char": "⚖️",
+      "label": "jamaica's slavery reparations petition",
+      "url": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council",
+      "title": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
+      "summary": "The move comes after Jamaica’s culture minister Olivia Grange travelled to the UK earlier this month to lodge the historic petition King Charles has referred a landmark slavery reparations petition from Jamaica to a high-level UK appeals..."
+    },
+    {
+      "char": "⚔️",
+      "label": "ethiopia repels rebel attacks",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war."
+    },
+    {
+      "char": "📰",
+      "label": "white house press access issues",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
+      "summary": "Employees from CNN, Politico and MS Now reported being denied entry, with some having passes confiscated."
+    },
+    {
+      "char": "🤝",
+      "label": "jamaica slavery reparations petition",
+      "url": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council",
+      "title": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
+      "summary": "The move comes after Jamaica’s culture minister Olivia Grange travelled to the UK earlier this month to lodge the historic petition King Charles has referred a landmark slavery reparations petition from Jamaica to a high-level UK appeals..."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane polo off mexico",
+      "url": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
+      "title": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
+      "summary": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in fewer than 24 hours,..."
+    },
+    {
+      "char": "🏛️",
+      "label": "un assembly updates on israel",
+      "url": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news",
+      "title": "U.N. Live Updates: Abbas Criticizes Israeli Attacks and Failure of Gaza Peace Plan",
+      "summary": "The Palestinian leader, Mahmoud Abbas, condemned settler violence in the West Bank, saying, ‘We will not leave our homeland.’ Prime Minister Benjamin Netanyahu of Israel will take the stage later today, weeks before pivotal elections at..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "The news highlights significant global issues, including the intensification of Hurricane Polo and rising geopolitical tensions, leading to an overall sense of concern and anxiety.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
