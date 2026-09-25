@@ -4,38 +4,38 @@
   "emojis": [
     {
       "char": "🏛️",
-      "label": "trump denies media access to dinner",
+      "label": "media outlets banned by trump",
       "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
       "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-      "summary": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored."
+      "summary": "CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored."
     },
     {
-      "char": "⚔️",
-      "label": "ethiopian army faces rebel offensive",
-      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-      "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-      "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states..."
+      "char": "🇨🇦",
+      "label": "carney on us-canada relations",
+      "url": "https://www.nytimes.com/2026/09/24/world/canada/carney-economy-trade-war.html",
+      "title": "Carney Says He Would Consider a Second Term, Depending on State of U.S.-Canada Relations",
+      "summary": "As he tries to break Canada’s dependence on the United States, Prime Minister Mark Carney said he knows Canadians will feel pain from the trade war."
     },
     {
-      "char": "🛡️",
+      "char": "⛪",
+      "label": "pope leo visits secular france",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/pope-leo-france-visit.html",
+      "title": "Leo XIV, Trying to Be Everyone’s Pope, Heads to Secular France",
+      "summary": "After touring Africa, Pope Leo’s four-day visit to France shows how he is seeking to appeal to Roman Catholicism’s original heartlands as well as to the church’s newest strongholds."
+    },
+    {
+      "char": "🏥",
+      "label": "africa healthcare aid withdrawal",
+      "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
+      "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+      "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put healthcare in Africa and the glo..."
+    },
+    {
+      "char": "🕌",
       "label": "saudi arabia downs houthi missiles",
       "url": "https://www.nytimes.com/2026/09/24/world/middleeast/saudi-arabia-houthi-missile-attack-yemen-war.html",
       "title": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom, Official Says",
       "summary": "The Iran-backed militia in Yemen fired six ballistic missiles at Saudi cities, a military spokesman said. It was a major cross-border attack."
-    },
-    {
-      "char": "🔪",
-      "label": "priest killed in polish abbey attack",
-      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
-      "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say."
-    },
-    {
-      "char": "🗳️",
-      "label": "morocco election sees low youth turnout",
-      "url": "https://www.nytimes.com/2026/09/24/world/africa/morocco-election-results-youth.html",
-      "title": "Party Close to King Leads in Morocco’s Election as Young Voters Stay Away",
-      "summary": "Early results in legislative elections showed the lowest voter turnout in nearly two decades. Economic frustrations have grown as Morocco is set to co-host the 2030 soccer World Cup."
     }
   ],
   "source": "ai-openai",
