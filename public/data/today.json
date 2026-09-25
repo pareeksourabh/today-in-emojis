@@ -1,41 +1,41 @@
 {
   "date": "2026-09-25",
-  "timestamp": "2026-09-25T09:30:09Z",
+  "timestamp": "2026-09-25T00:00:00Z",
   "emojis": [
     {
-      "char": "🏛️",
-      "label": "cambridge investigation plans abandoned",
-      "url": "https://www.nytimes.com/2026/09/25/world/europe/cambridge-jason-arday-investigation.html",
-      "title": "Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday",
-      "summary": "The professor had catalyzed debates over diversity efforts in higher education."
-    },
-    {
-      "char": "🔫",
-      "label": "colombia president wears gun in city shutdown",
-      "url": "https://www.nytimes.com/2026/09/25/us/colombia-de-la-espriella-gun.html",
-      "title": "Colombia’s President Wears Gun to Santa Marta, City Shut Down by a Criminal Group",
-      "summary": "Abelardo De La Espriella, the new president, wore the gun to visit Santa Marta, a tourist destination shut down by an armed group after state forces killed a group leader."
-    },
-    {
       "char": "🌍",
-      "label": "healthcare in africa under strain after us aid",
+      "label": "healthcare strain in africa",
       "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
       "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
       "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put healthcare in Africa and the glo..."
     },
     {
-      "char": "📚",
-      "label": "russian attacks destroy ukrainian cultural books",
-      "url": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
-      "title": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
-      "summary": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”"
+      "char": "🇮🇹",
+      "label": "italy bans burqa and niqab",
+      "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "summary": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\"."
     },
     {
-      "char": "⚔️",
-      "label": "rebel offensive raises fears of ethiopian civil",
-      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-      "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-      "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states..."
+      "char": "🇧🇷",
+      "label": "lula accuses trump of meddling",
+      "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+      "title": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
+      "summary": "A TV spot claims the US president is trying to sway October’s presidential vote in favour of Lula’s far-right opponents Luiz Inácio Lula da Silva’s presidential campaign has accused Donald Trump of wanting to “colonise” Brazil in order t..."
+    },
+    {
+      "char": "🔫",
+      "label": "colombia president wears gun",
+      "url": "https://www.nytimes.com/2026/09/25/us/colombia-de-la-espriella-gun.html",
+      "title": "Colombia’s President Wears Gun to Santa Marta, City Shut Down by a Criminal Group",
+      "summary": "Abelardo De La Espriella, the new president, wore the gun to visit Santa Marta, a tourist destination shut down by an armed group after state forces killed a group leader."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane polo hits baja",
+      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
     }
   ],
   "source": "ai-openai",
