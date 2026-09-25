@@ -1,41 +1,41 @@
 {
   "date": "2026-09-25",
-  "timestamp": "2026-09-25T00:00:00Z",
+  "timestamp": "2026-09-25T09:30:09Z",
   "emojis": [
     {
       "char": "🏛️",
-      "label": "media outlets banned by trump",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-      "summary": "CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored."
+      "label": "cambridge investigation plans abandoned",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/cambridge-jason-arday-investigation.html",
+      "title": "Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday",
+      "summary": "The professor had catalyzed debates over diversity efforts in higher education."
     },
     {
-      "char": "🇨🇦",
-      "label": "carney on us-canada relations",
-      "url": "https://www.nytimes.com/2026/09/24/world/canada/carney-economy-trade-war.html",
-      "title": "Carney Says He Would Consider a Second Term, Depending on State of U.S.-Canada Relations",
-      "summary": "As he tries to break Canada’s dependence on the United States, Prime Minister Mark Carney said he knows Canadians will feel pain from the trade war."
+      "char": "🔫",
+      "label": "colombia president wears gun in city shutdown",
+      "url": "https://www.nytimes.com/2026/09/25/us/colombia-de-la-espriella-gun.html",
+      "title": "Colombia’s President Wears Gun to Santa Marta, City Shut Down by a Criminal Group",
+      "summary": "Abelardo De La Espriella, the new president, wore the gun to visit Santa Marta, a tourist destination shut down by an armed group after state forces killed a group leader."
     },
     {
-      "char": "⛪",
-      "label": "pope leo visits secular france",
-      "url": "https://www.nytimes.com/2026/09/25/world/europe/pope-leo-france-visit.html",
-      "title": "Leo XIV, Trying to Be Everyone’s Pope, Heads to Secular France",
-      "summary": "After touring Africa, Pope Leo’s four-day visit to France shows how he is seeking to appeal to Roman Catholicism’s original heartlands as well as to the church’s newest strongholds."
-    },
-    {
-      "char": "🏥",
-      "label": "africa healthcare aid withdrawal",
+      "char": "🌍",
+      "label": "healthcare in africa under strain after us aid",
       "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
       "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
       "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put healthcare in Africa and the glo..."
     },
     {
-      "char": "🕌",
-      "label": "saudi arabia downs houthi missiles",
-      "url": "https://www.nytimes.com/2026/09/24/world/middleeast/saudi-arabia-houthi-missile-attack-yemen-war.html",
-      "title": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom, Official Says",
-      "summary": "The Iran-backed militia in Yemen fired six ballistic missiles at Saudi cities, a military spokesman said. It was a major cross-border attack."
+      "char": "📚",
+      "label": "russian attacks destroy ukrainian cultural books",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
+      "title": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
+      "summary": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”"
+    },
+    {
+      "char": "⚔️",
+      "label": "rebel offensive raises fears of ethiopian civil",
+      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+      "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+      "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states..."
     }
   ],
   "source": "ai-openai",
