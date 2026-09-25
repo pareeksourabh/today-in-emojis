@@ -70707,5 +70707,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-25",
+    "emojis": [
+      {
+        "char": "✊",
+        "label": "students strike in germany",
+        "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
+        "title": "Students strike across Germany in protest against military service",
+        "summary": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow."
+      },
+      {
+        "char": "🔒",
+        "label": "fbi hack exposes sensitive data",
+        "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+        "title": "Special agents' blood and urine test results stolen in FBI hack",
+        "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks."
+      },
+      {
+        "char": "⚔️",
+        "label": "ethiopian rebels launch offensive",
+        "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+        "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+        "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states..."
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane polo threatens mexico",
+        "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+        "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+        "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
+      },
+      {
+        "char": "🤝",
+        "label": "mary jane veloso pardoned",
+        "url": "https://www.nytimes.com/2026/09/25/world/asia/mary-jane-veloso-philippines-pardon.html",
+        "title": "Once Sentenced to Death, Mary Jane Veloso Receives Pardon in the Philippines",
+        "summary": "Mary Jane Veloso was convicted of drug smuggling and nearly killed by a firing squad in Indonesia. On Friday, more than a decade later, she was pardoned in the Philippines."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
