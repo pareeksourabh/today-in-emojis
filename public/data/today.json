@@ -1,41 +1,41 @@
 {
   "date": "2026-09-25",
-  "timestamp": "2026-09-25T00:00:00Z",
+  "timestamp": "2026-09-25T02:38:49Z",
   "emojis": [
     {
-      "char": "🇷🇺",
-      "label": "europe warns of russia's attacks",
-      "url": "https://www.nytimes.com/2026/09/24/world/europe/russia-europe-warning-ukraine-war.html",
-      "title": "Europe Warns of Russia’s Hybrid Attacks but Struggles to Counter Them",
-      "summary": "If President Vladimir V. Putin was hoping to get Europeans’ attention, he’s succeeded with a series of close-call incursions. The question now is what they will do about it."
+      "char": "🇦🇷",
+      "label": "argentina's falklands threat",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
+      "title": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
+      "summary": "Argentinian president accuses United Nations of being filled with ‘parasites’ in bellicose general assembly speech Javier Milei has condemned the UN as he warned that Argentina would take “matters into our own hands” in its dispute with..."
     },
     {
-      "char": "💥",
-      "label": "saudi arabia downs houthi missiles",
-      "url": "https://www.nytimes.com/2026/09/24/world/middleeast/saudi-arabia-houthi-missile-attack-yemen-war.html",
-      "title": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom, Official Says",
-      "summary": "The Iran-backed militia in Yemen fired six ballistic missiles at Saudi cities, a military spokesman said. It was a major cross-border attack."
+      "char": "💉",
+      "label": "africa healthcare strain",
+      "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
+      "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+      "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put healthcare in Africa and the glo..."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "brazil election corruption scandal",
+      "url": "https://www.nytimes.com/2026/09/24/world/americas/brazil-supreme-court-justice-moraes-vorcaro-trump.html",
+      "title": "A Corruption Scandal Is Reshaping Brazil’s Presidential Election",
+      "summary": "Allegations embroiling the Brazilian judge who jailed former President Bolsonaro are reshaping an election that has consequences for Latin America and Washington."
+    },
+    {
+      "char": "👮‍♂️",
+      "label": "south africa police officer charged",
+      "url": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
+      "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
+      "summary": "Arrest of Shadrack Sibiya comes as country reels from cases of femicide and alleged police corruption and criminality One of South Africa’s most senior police officers has been charged with raping an 18-year-old woman and grooming a 16-y..."
     },
     {
       "char": "🌪️",
-      "label": "hurricane polo rages off mexico",
+      "label": "hurricane polo intensifies",
       "url": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
       "title": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
       "summary": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in fewer than 24 hours,..."
-    },
-    {
-      "char": "🗳️",
-      "label": "morocco's election results youth turnout",
-      "url": "https://www.nytimes.com/2026/09/24/world/africa/morocco-election-results-youth.html",
-      "title": "Party Close to King Leads in Morocco’s Election as Young Voters Stay Away",
-      "summary": "Early results in legislative elections showed the lowest voter turnout in nearly two decades. Economic frustrations have grown as Morocco is set to co-host the 2030 soccer World Cup."
-    },
-    {
-      "char": "🚨",
-      "label": "trump's secret deportation deals",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
-      "title": "Banished to alien lands: Trump’s secret deportation deals",
-      "summary": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy deals made with dozens of countries. An..."
     }
   ],
   "source": "ai-openai",
