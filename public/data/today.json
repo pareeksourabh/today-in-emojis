@@ -1,204 +1,43 @@
 {
-  "date": "2026-09-25",
-  "timestamp": "2026-09-25T00:00:00Z",
+  "date": "2026-09-26",
+  "timestamp": "2026-09-26T00:00:00Z",
   "emojis": [
     {
-      "char": "🇷🇺",
-      "label": "europe warns of russia's attacks",
-      "url": "https://www.nytimes.com/2026/09/24/world/europe/russia-europe-warning-ukraine-war.html",
-      "title": "Europe Warns of Russia’s Hybrid Attacks but Struggles to Counter Them",
-      "summary": "If President Vladimir V. Putin was hoping to get Europeans’ attention, he’s succeeded with a series of close-call incursions. The question now is what they will do about it."
-    },
-    {
-      "char": "💥",
-      "label": "saudi arabia downs houthi missiles",
-      "url": "https://www.nytimes.com/2026/09/24/world/middleeast/saudi-arabia-houthi-missile-attack-yemen-war.html",
-      "title": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom, Official Says",
-      "summary": "The Iran-backed militia in Yemen fired six ballistic missiles at Saudi cities, a military spokesman said. It was a major cross-border attack."
-    },
-    {
-      "char": "🌪️",
-      "label": "hurricane polo rages off mexico",
-      "url": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
-      "title": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
-      "summary": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of Mexico has intensified into a category 5 monster in fewer than 24 hours,..."
-    },
-    {
-      "char": "🗳️",
-      "label": "morocco's election results youth turnout",
-      "url": "https://www.nytimes.com/2026/09/24/world/africa/morocco-election-results-youth.html",
-      "title": "Party Close to King Leads in Morocco’s Election as Young Voters Stay Away",
-      "summary": "Early results in legislative elections showed the lowest voter turnout in nearly two decades. Economic frustrations have grown as Morocco is set to co-host the 2030 soccer World Cup."
-    },
-    {
-      "char": "🚨",
-      "label": "trump's secret deportation deals",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
-      "title": "Banished to alien lands: Trump’s secret deportation deals",
-      "summary": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy deals made with dozens of countries. An..."
-    },
-    {
-      "char": "🏛️",
-      "label": "trump denies media access to dinner",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-      "summary": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored."
-    },
-    {
-      "char": "⚔️",
-      "label": "ethiopian army faces rebel offensive",
-      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-      "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-      "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states..."
-    },
-    {
-      "char": "🛡️",
-      "label": "saudi arabia downs houthi missiles",
-      "url": "https://www.nytimes.com/2026/09/24/world/middleeast/saudi-arabia-houthi-missile-attack-yemen-war.html",
-      "title": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom, Official Says",
-      "summary": "The Iran-backed militia in Yemen fired six ballistic missiles at Saudi cities, a military spokesman said. It was a major cross-border attack."
-    },
-    {
-      "char": "🔪",
-      "label": "priest killed in polish abbey attack",
-      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
-      "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say."
-    },
-    {
-      "char": "🗳️",
-      "label": "morocco election sees low youth turnout",
-      "url": "https://www.nytimes.com/2026/09/24/world/africa/morocco-election-results-youth.html",
-      "title": "Party Close to King Leads in Morocco’s Election as Young Voters Stay Away",
-      "summary": "Early results in legislative elections showed the lowest voter turnout in nearly two decades. Economic frustrations have grown as Morocco is set to co-host the 2030 soccer World Cup."
-    },
-    {
-      "char": "🏛️",
-      "label": "media outlets banned by trump",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-      "summary": "CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "carney on us-canada relations",
-      "url": "https://www.nytimes.com/2026/09/24/world/canada/carney-economy-trade-war.html",
-      "title": "Carney Says He Would Consider a Second Term, Depending on State of U.S.-Canada Relations",
-      "summary": "As he tries to break Canada’s dependence on the United States, Prime Minister Mark Carney said he knows Canadians will feel pain from the trade war."
-    },
-    {
-      "char": "⛪",
-      "label": "pope leo visits secular france",
-      "url": "https://www.nytimes.com/2026/09/25/world/europe/pope-leo-france-visit.html",
-      "title": "Leo XIV, Trying to Be Everyone’s Pope, Heads to Secular France",
-      "summary": "After touring Africa, Pope Leo’s four-day visit to France shows how he is seeking to appeal to Roman Catholicism’s original heartlands as well as to the church’s newest strongholds."
-    },
-    {
-      "char": "🏥",
-      "label": "africa healthcare aid withdrawal",
-      "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
-      "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
-      "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put healthcare in Africa and the glo..."
-    },
-    {
-      "char": "🕌",
-      "label": "saudi arabia downs houthi missiles",
-      "url": "https://www.nytimes.com/2026/09/24/world/middleeast/saudi-arabia-houthi-missile-attack-yemen-war.html",
-      "title": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom, Official Says",
-      "summary": "The Iran-backed militia in Yemen fired six ballistic missiles at Saudi cities, a military spokesman said. It was a major cross-border attack."
-    },
-    {
-      "char": "🌍",
-      "label": "healthcare strain in africa",
-      "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
-      "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
-      "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put healthcare in Africa and the glo..."
-    },
-    {
-      "char": "🇮🇹",
-      "label": "italy bans burqa and niqab",
-      "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
-      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "summary": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\"."
-    },
-    {
       "char": "🇧🇷",
-      "label": "lula accuses trump of meddling",
-      "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
-      "title": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
-      "summary": "A TV spot claims the US president is trying to sway October’s presidential vote in favour of Lula’s far-right opponents Luiz Inácio Lula da Silva’s presidential campaign has accused Donald Trump of wanting to “colonise” Brazil in order t..."
+      "label": "trump accused of election interference",
+      "url": "https://www.theguardian.com/world/2026/sep/24/trump-brazil-election-interference",
+      "title": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
+      "summary": "Legislators sent letter to Marco Rubio saying US interference is weakening Brazil’s democratic institutions A group of 31 Democratic members of the US Congress has sent a letter to the secretary of state, Marco Rubio , criticising the Tr..."
     },
     {
-      "char": "🔫",
-      "label": "colombia president wears gun",
-      "url": "https://www.nytimes.com/2026/09/25/us/colombia-de-la-espriella-gun.html",
-      "title": "Colombia’s President Wears Gun to Santa Marta, City Shut Down by a Criminal Group",
-      "summary": "Abelardo De La Espriella, the new president, wore the gun to visit Santa Marta, a tourist destination shut down by an armed group after state forces killed a group leader."
-    },
-    {
-      "char": "🌪️",
-      "label": "hurricane polo hits baja",
-      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
-      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
-      "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
+      "char": "🤖",
+      "label": "pope warns against losing humanity to ai",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "title": "Pope warns against 'losing humanity' to AI machines",
+      "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday."
     },
     {
       "char": "🚨",
-      "label": "trump's secret deportation deals",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
-      "title": "Banished to alien lands: Trump’s secret deportation deals",
-      "summary": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy deals made with dozens of countries. An..."
+      "label": "two arrested in nyc sewer mystery",
+      "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&at_campaign=rss",
+      "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+      "summary": "The city has seen a string of incidents in which people have climbed out of manholes late at night."
     },
     {
-      "char": "💻",
-      "label": "openai hack in australia",
-      "url": "https://www.nytimes.com/2026/09/25/world/australia/openai-hack-australia.html",
-      "title": "OpenAI Agents Hacked Into an Australian Government Website. Who’s Responsible?",
-      "summary": "The first known breach of a government website by rogue artificial intelligence agents has prompted global calls for more regulation of the technology."
-    },
-    {
-      "char": "⚖️",
-      "label": "mary jane veloso's pardon",
+      "char": "🇵🇭",
+      "label": "mary jane veloso receives pardon",
       "url": "https://www.nytimes.com/2026/09/25/world/asia/mary-jane-veloso-philippines-pardon.html",
       "title": "Once Sentenced to Death, Mary Jane Veloso Receives Pardon in the Philippines",
       "summary": "Mary Jane Veloso was convicted of drug smuggling and nearly killed by a firing squad in Indonesia. On Friday, more than a decade later, she was pardoned in the Philippines."
     },
     {
-      "char": "🌪️",
-      "label": "hurricane polo hits mexico",
-      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
-      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
-      "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
-    },
-    {
-      "char": "📚",
-      "label": "ukrainian culture under attack",
-      "url": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
-      "title": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
-      "summary": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”"
+      "char": "🏡",
+      "label": "spain eviction crisis highlights struggles",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/spain-eviction-housing-crisis.html",
+      "title": "87-Year-Old Evicted From Her Home Tells Spaniards to ‘Fight’ to Avoid Same Fate",
+      "summary": "María del Carmen Abascal, whose case has become a symbol of Spain’s housing crisis, appeared in a video from her hospital bed after police officers removed her from her apartment."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😨",
-    "emoji": "😨",
-    "rationale": "Today's news is filled with escalating conflicts and natural disasters, creating a sense of fear and anxiety. From hybrid warfare to powerful hurricanes, the day's events evoke concern for safety and stability.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
