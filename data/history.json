@@ -70927,5 +70927,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-26",
+    "emojis": [
+      {
+        "char": "🪧",
+        "label": "protests in pakistan's capital",
+        "url": "https://www.nytimes.com/2026/09/26/world/asia/pakistan-protest-islamabad-containers.html",
+        "title": "A Tetris-Like Maze Blocks Protests in Pakistan’s Capital",
+        "summary": "Pakistani authorities have barricaded Islamabad with more than 1,500 shipping containers to stop opposition protesters, choking off access to the capital."
+      },
+      {
+        "char": "🎲",
+        "label": "lula bans sports betting in brazil",
+        "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
+        "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
+        "summary": "President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week befo..."
+      },
+      {
+        "char": "🌊",
+        "label": "flood disaster declared in bangkok",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated."
+      },
+      {
+        "char": "💰",
+        "label": "indian billionaire's london flotation",
+        "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
+        "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
+        "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlle..."
+      },
+      {
+        "char": "⚔️",
+        "label": "rebel offensive in ethiopia",
+        "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+        "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+        "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
