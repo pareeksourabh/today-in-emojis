@@ -70795,5 +70795,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-26",
+    "emojis": [
+      {
+        "char": "🏛️",
+        "label": "trump's arch plans move ahead",
+        "url": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump's plans for massive arch move ahead",
+        "summary": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\"."
+      },
+      {
+        "char": "📚",
+        "label": "ukrainian culture under attack",
+        "url": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
+        "title": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
+        "summary": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”"
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane polo heads for mexico",
+        "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+        "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+        "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
+      },
+      {
+        "char": "🤖",
+        "label": "ai test impacts book prize chances",
+        "url": "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html",
+        "title": "His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.",
+        "summary": "“It Was Either That Or Die,” by the Haitian-Canadian author Thélyson Orélien, was the hit of the French literary season. Now it has been pulled from the shortlist for a prestigious prize."
+      },
+      {
+        "char": "⚖️",
+        "label": "mary jane veloso receives pardon",
+        "url": "https://www.nytimes.com/2026/09/25/world/asia/mary-jane-veloso-philippines-pardon.html",
+        "title": "Once Sentenced to Death, Mary Jane Veloso Receives Pardon in the Philippines",
+        "summary": "Mary Jane Veloso was convicted of drug smuggling and nearly killed by a firing squad in Indonesia. On Friday, more than a decade later, she was pardoned in the Philippines."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
