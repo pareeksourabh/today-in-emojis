@@ -1,41 +1,41 @@
 {
   "date": "2026-09-26",
-  "timestamp": "2026-09-26T00:00:00Z",
+  "timestamp": "2026-09-26T12:46:23Z",
   "emojis": [
-    {
-      "char": "🇺🇦",
-      "label": "zelensky on russia's attacks",
-      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-      "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president."
-    },
-    {
-      "char": "🏗️",
-      "label": "un lists companies in settlements",
-      "url": "https://www.nytimes.com/2026/09/25/world/middleeast/un-companies-westbank-settlements.html",
-      "title": "U.N. Releases New List of Companies It Says Do Business With Israeli Settlements",
-      "summary": "Israel condemned the database of firms tied to activity in the occupied West Bank as a “political tool” to advance “a smear campaign.”"
-    },
     {
       "char": "💥",
       "label": "explosion in athens tourist area",
       "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
-      "title": "At Least 4 Dead After Explosion in Athens Tourist District",
-      "summary": "Two people were still missing. Local officials said a gas leak might have caused the blast."
+      "title": "Six Dead After Explosion in Athens Tourist District",
+      "summary": "Local officials said a gas leak might have caused the blast, which rattled a part of the Greek capital that draws many visitors."
     },
     {
-      "char": "🎲",
-      "label": "lula bans sports betting",
-      "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
-      "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
-      "summary": "President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week befo..."
+      "char": "🌍",
+      "label": "lula accuses trump of meddling",
+      "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+      "title": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
+      "summary": "A TV spot claims the US president is trying to sway October’s presidential vote in favour of Lula’s far-right opponents Luiz Inácio Lula da Silva’s presidential campaign has accused Donald Trump of wanting to “colonise” Brazil in order t..."
     },
     {
-      "char": "🌊",
-      "label": "flood disaster in bangkok",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "title": "Bangkok roads submerged as flood disaster declared",
-      "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated."
+      "char": "🇨🇦",
+      "label": "carney seeks trade partners for canada",
+      "url": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
+      "title": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
+      "summary": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States."
+    },
+    {
+      "char": "📚",
+      "label": "russian attacks on ukrainian culture",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
+      "title": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
+      "summary": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”"
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane polo heads for baja california",
+      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
     }
   ],
   "source": "ai-openai",

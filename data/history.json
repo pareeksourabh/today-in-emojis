@@ -70883,5 +70883,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-26",
+    "emojis": [
+      {
+        "char": "💥",
+        "label": "explosion in athens tourist area",
+        "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+        "title": "Six Dead After Explosion in Athens Tourist District",
+        "summary": "Local officials said a gas leak might have caused the blast, which rattled a part of the Greek capital that draws many visitors."
+      },
+      {
+        "char": "🌍",
+        "label": "lula accuses trump of meddling",
+        "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+        "title": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
+        "summary": "A TV spot claims the US president is trying to sway October’s presidential vote in favour of Lula’s far-right opponents Luiz Inácio Lula da Silva’s presidential campaign has accused Donald Trump of wanting to “colonise” Brazil in order t..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "carney seeks trade partners for canada",
+        "url": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
+        "title": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
+        "summary": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States."
+      },
+      {
+        "char": "📚",
+        "label": "russian attacks on ukrainian culture",
+        "url": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
+        "title": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
+        "summary": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”"
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane polo heads for baja california",
+        "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+        "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+        "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
