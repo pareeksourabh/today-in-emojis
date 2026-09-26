@@ -1,41 +1,41 @@
 {
   "date": "2026-09-26",
-  "timestamp": "2026-09-26T02:41:33Z",
+  "timestamp": "2026-09-26T00:00:00Z",
   "emojis": [
     {
-      "char": "🏛️",
-      "label": "trump's arch plans move ahead",
-      "url": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump's plans for massive arch move ahead",
-      "summary": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\"."
+      "char": "⚔️",
+      "label": "ethiopian civil war fears",
+      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+      "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+      "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states..."
+    },
+    {
+      "char": "🇵🇭",
+      "label": "mary jane veloso pardoned",
+      "url": "https://www.nytimes.com/2026/09/25/world/asia/mary-jane-veloso-philippines-pardon.html",
+      "title": "Once Sentenced to Death, Mary Jane Veloso Receives Pardon in the Philippines",
+      "summary": "Mary Jane Veloso was convicted of drug smuggling and nearly killed by a firing squad in Indonesia. On Friday, more than a decade later, she was pardoned in the Philippines."
     },
     {
       "char": "📚",
-      "label": "ukrainian culture under attack",
+      "label": "ukraine cultural losses",
       "url": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
       "title": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
       "summary": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”"
     },
     {
+      "char": "🏥",
+      "label": "africa healthcare strain",
+      "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
+      "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+      "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put healthcare in Africa and the glo..."
+    },
+    {
       "char": "🌪️",
-      "label": "hurricane polo heads for mexico",
+      "label": "hurricane polo approaching",
       "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
       "title": "Hurricane Polo barrels towards Baja California region of Mexico",
       "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
-    },
-    {
-      "char": "🤖",
-      "label": "ai test impacts book prize chances",
-      "url": "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html",
-      "title": "His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.",
-      "summary": "“It Was Either That Or Die,” by the Haitian-Canadian author Thélyson Orélien, was the hit of the French literary season. Now it has been pulled from the shortlist for a prestigious prize."
-    },
-    {
-      "char": "⚖️",
-      "label": "mary jane veloso receives pardon",
-      "url": "https://www.nytimes.com/2026/09/25/world/asia/mary-jane-veloso-philippines-pardon.html",
-      "title": "Once Sentenced to Death, Mary Jane Veloso Receives Pardon in the Philippines",
-      "summary": "Mary Jane Veloso was convicted of drug smuggling and nearly killed by a firing squad in Indonesia. On Friday, more than a decade later, she was pardoned in the Philippines."
     }
   ],
   "source": "ai-openai",
