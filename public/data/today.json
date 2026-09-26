@@ -1,27 +1,20 @@
 {
   "date": "2026-09-26",
-  "timestamp": "2026-09-26T16:05:10Z",
+  "timestamp": "2026-09-26T18:45:46Z",
   "emojis": [
     {
-      "char": "🪧",
-      "label": "protests in pakistan's capital",
-      "url": "https://www.nytimes.com/2026/09/26/world/asia/pakistan-protest-islamabad-containers.html",
-      "title": "A Tetris-Like Maze Blocks Protests in Pakistan’s Capital",
-      "summary": "Pakistani authorities have barricaded Islamabad with more than 1,500 shipping containers to stop opposition protesters, choking off access to the capital."
-    },
-    {
-      "char": "🎲",
-      "label": "lula bans sports betting in brazil",
-      "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
-      "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
-      "summary": "President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week befo..."
-    },
-    {
       "char": "🌊",
-      "label": "flood disaster declared in bangkok",
+      "label": "bangkok flood disaster declared",
       "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
       "title": "Bangkok roads submerged as flood disaster declared",
       "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated."
+    },
+    {
+      "char": "📚",
+      "label": "ai test impacts book prize nominee",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html",
+      "title": "His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.",
+      "summary": "“It Was Either That Or Die,” by the Haitian-Canadian author Thélyson Orélien, was the hit of the French literary season. Now it has been pulled from the shortlist for a prestigious prize."
     },
     {
       "char": "💰",
@@ -31,11 +24,18 @@
       "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlle..."
     },
     {
-      "char": "⚔️",
-      "label": "rebel offensive in ethiopia",
-      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-      "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-      "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states..."
+      "char": "🏠",
+      "label": "87-year-old eviction crisis in spain",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/spain-eviction-housing-crisis.html",
+      "title": "87-Year-Old Evicted From Her Home Tells Spaniards to ‘Fight’ to Avoid Same Fate",
+      "summary": "María del Carmen Abascal, whose case has become a symbol of Spain’s housing crisis, appeared in a video from her hospital bed after police officers removed her from her apartment."
+    },
+    {
+      "char": "🦠",
+      "label": "alberta's rat-free image shattered",
+      "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+      "title": "Alberta’s self-image as world’s only rat-free region shattered by discovery of rat",
+      "summary": "Province’s rat patrol called in to investigate as town of Bowden announces discovery of dead vermin For more than seven decades, residents of Alberta have shared something in common with Antarctica and the high Arctic: all locations are..."
     }
   ],
   "source": "ai-openai",
