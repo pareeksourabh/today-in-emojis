@@ -1,43 +1,204 @@
 {
   "date": "2026-09-26",
-  "timestamp": "2026-09-26T18:45:46Z",
+  "timestamp": "2026-09-26T00:00:00Z",
   "emojis": [
     {
+      "char": "🇧🇷",
+      "label": "trump accused of election interference",
+      "url": "https://www.theguardian.com/world/2026/sep/24/trump-brazil-election-interference",
+      "title": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
+      "summary": "Legislators sent letter to Marco Rubio saying US interference is weakening Brazil’s democratic institutions A group of 31 Democratic members of the US Congress has sent a letter to the secretary of state, Marco Rubio , criticising the Tr..."
+    },
+    {
+      "char": "🤖",
+      "label": "pope warns against losing humanity to ai",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "title": "Pope warns against 'losing humanity' to AI machines",
+      "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday."
+    },
+    {
+      "char": "🚨",
+      "label": "two arrested in nyc sewer mystery",
+      "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&at_campaign=rss",
+      "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+      "summary": "The city has seen a string of incidents in which people have climbed out of manholes late at night."
+    },
+    {
+      "char": "🇵🇭",
+      "label": "mary jane veloso receives pardon",
+      "url": "https://www.nytimes.com/2026/09/25/world/asia/mary-jane-veloso-philippines-pardon.html",
+      "title": "Once Sentenced to Death, Mary Jane Veloso Receives Pardon in the Philippines",
+      "summary": "Mary Jane Veloso was convicted of drug smuggling and nearly killed by a firing squad in Indonesia. On Friday, more than a decade later, she was pardoned in the Philippines."
+    },
+    {
+      "char": "🏡",
+      "label": "spain eviction crisis highlights struggles",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/spain-eviction-housing-crisis.html",
+      "title": "87-Year-Old Evicted From Her Home Tells Spaniards to ‘Fight’ to Avoid Same Fate",
+      "summary": "María del Carmen Abascal, whose case has become a symbol of Spain’s housing crisis, appeared in a video from her hospital bed after police officers removed her from her apartment."
+    },
+    {
+      "char": "⚔️",
+      "label": "ethiopian civil war fears",
+      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+      "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+      "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states..."
+    },
+    {
+      "char": "🇵🇭",
+      "label": "mary jane veloso pardoned",
+      "url": "https://www.nytimes.com/2026/09/25/world/asia/mary-jane-veloso-philippines-pardon.html",
+      "title": "Once Sentenced to Death, Mary Jane Veloso Receives Pardon in the Philippines",
+      "summary": "Mary Jane Veloso was convicted of drug smuggling and nearly killed by a firing squad in Indonesia. On Friday, more than a decade later, she was pardoned in the Philippines."
+    },
+    {
+      "char": "📚",
+      "label": "ukraine cultural losses",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
+      "title": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
+      "summary": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”"
+    },
+    {
+      "char": "🏥",
+      "label": "africa healthcare strain",
+      "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
+      "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+      "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put healthcare in Africa and the glo..."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane polo approaching",
+      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
+    },
+    {
+      "char": "🗳️",
+      "label": "trump voter citizenship database",
+      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "summary": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "carney seeks new trade partners",
+      "url": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
+      "title": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
+      "summary": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States."
+    },
+    {
+      "char": "🌍",
+      "label": "african seats on un security council",
+      "url": "https://www.nytimes.com/2026/09/25/world/africa/africa-security-council-representation.html",
+      "title": "African Presidents Call for Permanent African Seats on U.N. Security Council",
+      "summary": "A host of African leaders including the presidents of Ghana, Liberia, Kenya and Namibia demanded the change while the U.N. Secretary General said the lack of a permanent African seat was “indefensible.”"
+    },
+    {
+      "char": "🏢",
+      "label": "un companies in israeli settlements",
+      "url": "https://www.nytimes.com/2026/09/25/world/middleeast/un-companies-westbank-settlements.html",
+      "title": "U.N. Releases New List of Companies It Says Do Business With Israeli Settlements",
+      "summary": "Israel condemned the database of firms tied to activity in the occupied West Bank as a “political tool” to advance “a smear campaign.”"
+    },
+    {
+      "char": "⚔️",
+      "label": "ethiopian army rebel offensive",
+      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+      "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+      "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states..."
+    },
+    {
+      "char": "🇺🇦",
+      "label": "zelensky on russia's attacks",
+      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president."
+    },
+    {
+      "char": "🏗️",
+      "label": "un lists companies in settlements",
+      "url": "https://www.nytimes.com/2026/09/25/world/middleeast/un-companies-westbank-settlements.html",
+      "title": "U.N. Releases New List of Companies It Says Do Business With Israeli Settlements",
+      "summary": "Israel condemned the database of firms tied to activity in the occupied West Bank as a “political tool” to advance “a smear campaign.”"
+    },
+    {
+      "char": "💥",
+      "label": "explosion in athens tourist area",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+      "title": "At Least 4 Dead After Explosion in Athens Tourist District",
+      "summary": "Two people were still missing. Local officials said a gas leak might have caused the blast."
+    },
+    {
+      "char": "🎲",
+      "label": "lula bans sports betting",
+      "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
+      "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
+      "summary": "President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week befo..."
+    },
+    {
       "char": "🌊",
-      "label": "bangkok flood disaster declared",
+      "label": "flood disaster in bangkok",
       "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
       "title": "Bangkok roads submerged as flood disaster declared",
       "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated."
     },
     {
       "char": "📚",
-      "label": "ai test impacts book prize nominee",
-      "url": "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html",
-      "title": "His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.",
-      "summary": "“It Was Either That Or Die,” by the Haitian-Canadian author Thélyson Orélien, was the hit of the French literary season. Now it has been pulled from the shortlist for a prestigious prize."
+      "label": "ukrainian culture under attack",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
+      "title": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
+      "summary": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”"
     },
     {
-      "char": "💰",
-      "label": "indian billionaire's london flotation",
-      "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
-      "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
-      "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlle..."
+      "char": "🚧",
+      "label": "protests blocked in pakistan",
+      "url": "https://www.nytimes.com/2026/09/26/world/asia/pakistan-protest-islamabad-containers.html",
+      "title": "A Tetris-Like Maze Blocks Protests in Pakistan’s Capital",
+      "summary": "Pakistani authorities have barricaded Islamabad with more than 1,500 shipping containers to stop opposition protesters, choking off access to the capital."
     },
     {
-      "char": "🏠",
-      "label": "87-year-old eviction crisis in spain",
-      "url": "https://www.nytimes.com/2026/09/25/world/europe/spain-eviction-housing-crisis.html",
-      "title": "87-Year-Old Evicted From Her Home Tells Spaniards to ‘Fight’ to Avoid Same Fate",
-      "summary": "María del Carmen Abascal, whose case has become a symbol of Spain’s housing crisis, appeared in a video from her hospital bed after police officers removed her from her apartment."
+      "char": "🇧🇷",
+      "label": "lula accuses trump of meddling",
+      "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+      "title": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
+      "summary": "A TV spot claims the US president is trying to sway October’s presidential vote in favour of Lula’s far-right opponents Luiz Inácio Lula da Silva’s presidential campaign has accused Donald Trump of wanting to “colonise” Brazil in order t..."
     },
     {
-      "char": "🦠",
-      "label": "alberta's rat-free image shattered",
-      "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
-      "title": "Alberta’s self-image as world’s only rat-free region shattered by discovery of rat",
-      "summary": "Province’s rat patrol called in to investigate as town of Bowden announces discovery of dead vermin For more than seven decades, residents of Alberta have shared something in common with Antarctica and the high Arctic: all locations are..."
+      "char": "🏗️",
+      "label": "explosion near acropolis in athens",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane polo threatens mexico",
+      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concern",
+    "emoji": "😨",
+    "rationale": "The day is marked by alarming reports of conflicts, natural disasters, and societal issues, evoking a sense of fear and concern for the future, warranting the use of the fearful emoji.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
