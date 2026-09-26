@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concern",
-    "emoji": "😨",
-    "rationale": "The day is marked by alarming reports of conflicts, natural disasters, and societal issues, evoking a sense of fear and concern for the future, warranting the use of the fearful emoji.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "Today's news highlights significant distressing events, such as violent conflicts, natural disasters, and humanitarian crises, evoking a sense of sadness and concern for those affected.",
     "palette": [
       "😢",
       "😡",
