@@ -71191,5 +71191,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-27",
+    "emojis": [
+      {
+        "char": "💰",
+        "label": "billionaire's london flotation",
+        "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
+        "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
+        "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlle..."
+      },
+      {
+        "char": "🎲",
+        "label": "lula bans sports betting",
+        "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
+        "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
+        "summary": "President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week befo..."
+      },
+      {
+        "char": "🖼️",
+        "label": "ceo loses job over ai image",
+        "url": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
+        "title": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
+        "summary": "Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with Canada The CEO of a Michigan credit union is no longer employed there, according to the organization, aft..."
+      },
+      {
+        "char": "🍹",
+        "label": "singapore sling cocktail",
+        "url": "https://www.nytimes.com/2026/09/27/world/asia/singapore-sling-raffles-hotel-cocktail.html",
+        "title": "The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It.",
+        "summary": "You can still buy a Singapore Sling in the colonial-era hotel where it’s said to have been invented more than a century ago. Custom versions have arisen nearby."
+      },
+      {
+        "char": "🐀",
+        "label": "alberta's rat discovery",
+        "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+        "title": "Alberta’s self-image as world’s only rat-free region shattered by discovery of rat",
+        "summary": "Province’s rat patrol called in to investigate as town of Bowden announces discovery of dead vermin For more than seven decades, residents of Alberta have shared something in common with Antarctica and the high Arctic: all locations are..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
