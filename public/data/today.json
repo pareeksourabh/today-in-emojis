@@ -1,27 +1,34 @@
 {
   "date": "2026-09-27",
-  "timestamp": "2026-09-27T13:38:28Z",
+  "timestamp": "2026-09-27T00:00:00Z",
   "emojis": [
     {
-      "char": "💼",
-      "label": "indian billionaire's firm flotation",
+      "char": "💰",
+      "label": "indian billionaire's london flotation",
       "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
       "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
       "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlle..."
     },
     {
-      "char": "⚔️",
-      "label": "ethiopian army rebel offensive",
-      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-      "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-      "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states..."
+      "char": "🍹",
+      "label": "raffles' singapore sling cocktail",
+      "url": "https://www.nytimes.com/2026/09/27/world/asia/singapore-sling-raffles-hotel-cocktail.html",
+      "title": "The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It.",
+      "summary": "You can still buy a Singapore Sling in the colonial-era hotel where it’s said to have been invented more than a century ago. Custom versions have arisen nearby."
     },
     {
-      "char": "🏗️",
-      "label": "un companies in israeli settlements",
-      "url": "https://www.nytimes.com/2026/09/25/world/middleeast/un-companies-westbank-settlements.html",
-      "title": "U.N. Releases New List of Companies It Says Do Business With Israeli Settlements",
-      "summary": "Israel condemned the database of firms tied to activity in the occupied West Bank as a “political tool” to advance “a smear campaign.”"
+      "char": "✈️",
+      "label": "myanmar's aerial craft in war",
+      "url": "https://www.nytimes.com/2026/09/27/world/asia/myanmar-light-aircraft-war-weapons.html",
+      "title": "Recreational Aerial Craft Become Weapons in Myanmar’s War",
+      "summary": "Years after a coup, the military is increasingly using motorized paragliders and gyrocopters to bomb towns and villages in rebel-held territory."
+    },
+    {
+      "char": "🔫",
+      "label": "mass shootings in south africa",
+      "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "title": "At least 27 dead after two mass shootings in South Africa, police say",
+      "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 2..."
     },
     {
       "char": "🌪️",
@@ -29,13 +36,6 @@
       "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
       "title": "Hurricane Polo barrels towards Baja California region of Mexico",
       "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
-    },
-    {
-      "char": "🔫",
-      "label": "mass shootings in south africa",
-      "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-      "title": "At least 27 dead after two mass shootings in South Africa, police say",
-      "summary": "Seventeen people killed at bar near Johannesburg and 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 27 people, police have said. The Sout..."
     }
   ],
   "source": "ai-openai",
