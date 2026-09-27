@@ -71015,5 +71015,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-27",
+    "emojis": [
+      {
+        "char": "🐀",
+        "label": "alberta's rat-free image shattered",
+        "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+        "title": "Alberta’s self-image as world’s only rat-free region shattered by discovery of rat",
+        "summary": "Province’s rat patrol called in to investigate as town of Bowden announces discovery of dead vermin For more than seven decades, residents of Alberta have shared something in common with Antarctica and the high Arctic: all locations are..."
+      },
+      {
+        "char": "💥",
+        "label": "explosion in athens tourist area",
+        "url": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+        "title": "Six Dead After Explosion in Athens Tourist District",
+        "summary": "Officials said a gas leak might have caused the blast, which destroyed a building and rattled a part of the Greek capital that draws many visitors."
+      },
+      {
+        "char": "📚",
+        "label": "russian attacks destroy ukrainian books",
+        "url": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
+        "title": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
+        "summary": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”"
+      },
+      {
+        "char": "🏠",
+        "label": "evicted woman urges fight against crisis",
+        "url": "https://www.nytimes.com/2026/09/25/world/europe/spain-eviction-housing-crisis.html",
+        "title": "Evicted 87-Year-Old Woman Urges Spaniards to ‘Fight’ to Avoid Same Fate",
+        "summary": "María del Carmen Abascal, whose case has become a symbol of Spain’s housing crisis, appeared in a video from a hospital bed after being removed from her apartment."
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane polo threatens baja california",
+        "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+        "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+        "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
