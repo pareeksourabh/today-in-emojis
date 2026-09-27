@@ -1,43 +1,204 @@
 {
   "date": "2026-09-27",
-  "timestamp": "2026-09-27T19:21:04Z",
+  "timestamp": "2026-09-27T00:00:00Z",
   "emojis": [
     {
-      "char": "💰",
-      "label": "billionaire's london flotation",
-      "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
-      "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
-      "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlle..."
+      "char": "🚔",
+      "label": "south african police officer charged",
+      "url": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
+      "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
+      "summary": "Arrest of Shadrack Sibiya comes as country reels from cases of femicide and alleged police corruption and criminality One of South Africa’s most senior police officers has been charged with raping an 18-year-old woman and grooming a 16-y..."
+    },
+    {
+      "char": "⛪",
+      "label": "pope praises youth at mass",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane polo heads for mexico",
+      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
+    },
+    {
+      "char": "📚",
+      "label": "russian attacks on ukrainian culture",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
+      "title": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
+      "summary": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”"
     },
     {
       "char": "🎲",
-      "label": "lula bans sports betting",
+      "label": "lula bans sports betting in brazil",
       "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
       "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
       "summary": "President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week befo..."
     },
     {
-      "char": "🖼️",
+      "char": "🏠",
+      "label": "spain eviction housing crisis",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/spain-eviction-housing-crisis.html",
+      "title": "Evicted 87-Year-Old Woman Urges Spaniards to ‘Fight’ to Avoid Same Fate",
+      "summary": "María del Carmen Abascal, whose case has become a symbol of Spain’s housing crisis, appeared in a video from a hospital bed after being removed from her apartment."
+    },
+    {
+      "char": "🚨",
+      "label": "south africa police officer charged",
+      "url": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
+      "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
+      "summary": "Arrest of Shadrack Sibiya comes as country reels from cases of femicide and alleged police corruption and criminality One of South Africa’s most senior police officers has been charged with raping an 18-year-old woman and grooming a 16-y..."
+    },
+    {
+      "char": "🇮🇱",
+      "label": "israel blocking netanyahu agenda",
+      "url": "https://www.nytimes.com/2026/09/26/world/middleeast/israel-netanyahu-gali-baharav-miara-attorney-general.html",
+      "title": "Heroine or Public Enemy? The Israeli Blocking Much of Netanyahu’s Agenda.",
+      "summary": "Gali Baharav-Miara, Israel’s first female attorney general, has stopped many of the government’s efforts to remove constraints on its power."
+    },
+    {
+      "char": "💔",
+      "label": "healthcare strain in africa",
+      "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
+      "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+      "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put healthcare in Africa and the glo..."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane polo in baja california",
+      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
+    },
+    {
+      "char": "🍹",
+      "label": "raffles' singapore sling cocktail",
+      "url": "https://www.nytimes.com/2026/09/27/world/asia/singapore-sling-raffles-hotel-cocktail.html",
+      "title": "The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It.",
+      "summary": "The Singapore Sling was said to have been invented more than a century ago in a colonial-era hotel, where it now goes for about $40 a pop."
+    },
+    {
+      "char": "🤖",
+      "label": "china's skepticism on ai safety",
+      "url": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html",
+      "title": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
+      "summary": "In China, A.I. doomsday warnings can feel distinctly Western or like a ploy to stop Chinese A.I. companies from trying to overtake their U.S. rivals."
+    },
+    {
+      "char": "⚖️",
+      "label": "us strikes raise humanitarian concerns",
+      "url": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
+      "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
+      "summary": "Attorney says fishers ‘losing their livelihoods’, but Marco Rubio maintains US still willing to ‘blow up ships if need be’ While the US secretary of state, Marco Rubio , was being decorated in Quito by Ecuador’s president for “helping to..."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane polo heads for baja california",
+      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
+    },
+    {
+      "char": "⚽",
+      "label": "ireland to wear black armbands for game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel."
+    },
+    {
+      "char": "👩‍💼",
       "label": "ceo loses job over ai image",
       "url": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
       "title": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
       "summary": "Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with Canada The CEO of a Michigan credit union is no longer employed there, according to the organization, aft..."
     },
     {
+      "char": "🇷🇺",
+      "label": "russia vows to continue ukraine war",
+      "url": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html",
+      "title": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
+      "summary": "Russia’s foreign minister met with his German counterpart during the U.N. General Assembly but spent part of his address defending his country’s war on Ukraine."
+    },
+    {
+      "char": "⚖️",
+      "label": "iran calls for negotiation to end conflict",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane polo threatens baja california",
+      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
+    },
+    {
+      "char": "💰",
+      "label": "indian billionaire plans london flotation",
+      "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
+      "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
+      "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlle..."
+    },
+    {
+      "char": "💰",
+      "label": "indian billionaire's london flotation",
+      "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
+      "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
+      "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlle..."
+    },
+    {
       "char": "🍹",
-      "label": "singapore sling cocktail",
+      "label": "raffles' singapore sling cocktail",
       "url": "https://www.nytimes.com/2026/09/27/world/asia/singapore-sling-raffles-hotel-cocktail.html",
       "title": "The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It.",
       "summary": "You can still buy a Singapore Sling in the colonial-era hotel where it’s said to have been invented more than a century ago. Custom versions have arisen nearby."
     },
     {
-      "char": "🐀",
-      "label": "alberta's rat discovery",
-      "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
-      "title": "Alberta’s self-image as world’s only rat-free region shattered by discovery of rat",
-      "summary": "Province’s rat patrol called in to investigate as town of Bowden announces discovery of dead vermin For more than seven decades, residents of Alberta have shared something in common with Antarctica and the high Arctic: all locations are..."
+      "char": "✈️",
+      "label": "myanmar's aerial craft in war",
+      "url": "https://www.nytimes.com/2026/09/27/world/asia/myanmar-light-aircraft-war-weapons.html",
+      "title": "Recreational Aerial Craft Become Weapons in Myanmar’s War",
+      "summary": "Years after a coup, the military is increasingly using motorized paragliders and gyrocopters to bomb towns and villages in rebel-held territory."
+    },
+    {
+      "char": "🔫",
+      "label": "mass shootings in south africa",
+      "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "title": "At least 27 dead after two mass shootings in South Africa, police say",
+      "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 2..."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane polo hits baja california",
+      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been not..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Sadness",
+    "emoji": "😢",
+    "rationale": "The day's news highlights significant tragedies, including mass shootings and serious allegations against police, which contribute to an overall sense of sadness and concern for societal issues.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
