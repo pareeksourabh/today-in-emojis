@@ -71367,5 +71367,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-28",
+    "emojis": [
+      {
+        "char": "🕵️‍♂",
+        "label": "suspected kidnap victims found",
+        "url": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&at_campaign=rss",
+        "title": "Remains of dozens of suspected kidnap victims found in Nigerian forests",
+        "summary": "Investigations are ongoing to establish the identities of at least 28 people whose remains were recovered by police."
+      },
+      {
+        "char": "⚔️",
+        "label": "yemen's front-line city battles",
+        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+        "title": "Inside Yemen's front-line city as Houthis battle for control",
+        "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers."
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane threats in hawaii",
+        "url": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
+        "title": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for Hurricane Polo",
+        "summary": "Hurricane Nolo is moving away from Hawaiian islands but threat of heavy rain, flash floods and strong winds persists Hurricane Nolo was moving away from the Hawaiian islands on Sunday, but the threat of heavy rain, flash flooding and str..."
+      },
+      {
+        "char": "💼",
+        "label": "billionaire's london flotation",
+        "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
+        "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
+        "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlle..."
+      },
+      {
+        "char": "🔫",
+        "label": "mass shootings in south africa",
+        "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+        "title": "At least 27 dead after two mass shootings in South Africa, police say",
+        "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 2..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
