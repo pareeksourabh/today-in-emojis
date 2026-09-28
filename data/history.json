@@ -71323,5 +71323,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-28",
+    "emojis": [
+      {
+        "char": "🔫",
+        "label": "mass shootings in south africa",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+        "title": "Two mass shootings in South Africa leave 28 dead",
+        "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence."
+      },
+      {
+        "char": "💰",
+        "label": "trump and venezuelan gold",
+        "url": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html",
+        "title": "Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It",
+        "summary": "The administration is brokering deals in a notoriously corrupt industry, including one with a company that the United States deems a security threat."
+      },
+      {
+        "char": "🏢",
+        "label": "ceo loses job over ai image",
+        "url": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
+        "title": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
+        "summary": "Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with Canada The CEO of a Michigan credit union is no longer employed there, according to the organization, aft..."
+      },
+      {
+        "char": "💥",
+        "label": "drone strike in kyiv",
+        "url": "https://www.nytimes.com/2026/09/28/world/europe/urkaine-drone-attack-kyiv-academy-sciences.html",
+        "title": "Fire, Smoke and Desperation After a Strike in the Heart of Kyiv",
+        "summary": "A Russian jet-powered drone hit Ukraine’s National Academy of Sciences, the source of almost all of the country’s major scientific discoveries."
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane polo threatens mexico",
+        "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+        "title": "Mexico's Pacific coast braces for Hurricane Polo",
+        "summary": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
