@@ -71235,5 +71235,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-28",
+    "emojis": [
+      {
+        "char": "🔫",
+        "label": "mass shootings in south africa",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+        "title": "Two mass shootings in South Africa leave 27 dead",
+        "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence."
+      },
+      {
+        "char": "🚁",
+        "label": "helicopter crash near montreal",
+        "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
+        "title": "Four killed in helicopter crash near Montreal",
+        "summary": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC."
+      },
+      {
+        "char": "🤝",
+        "label": "iran seeks negotiation after conflict",
+        "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+        "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments."
+      },
+      {
+        "char": "⚓",
+        "label": "us strikes on ecuadorian boats",
+        "url": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
+        "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
+        "summary": "Attorney says fishers ‘losing their livelihoods’, but Marco Rubio maintains US still willing to ‘blow up ships if need be’ While the US secretary of state, Marco Rubio , was being decorated in Quito by Ecuador’s president for “helping to..."
+      },
+      {
+        "char": "🎤",
+        "label": "mighty sparrow dies aged 91",
+        "url": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
+        "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
+        "summary": "Slinger Francisco, who performed as the Mighty Sparrow, died on Sunday surrounded by family in New York Slinger Francisco, known on stage as the Mighty Sparrow and dubbed the “calypso king of the world”, has died aged 91. Francisco, who..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
