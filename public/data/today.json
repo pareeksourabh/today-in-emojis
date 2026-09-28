@@ -1,41 +1,41 @@
 {
   "date": "2026-09-28",
-  "timestamp": "2026-09-28T00:00:00Z",
+  "timestamp": "2026-09-28T10:44:00Z",
   "emojis": [
     {
-      "char": "🚔",
+      "char": "🤝",
+      "label": "trump-xi summit insights",
+      "url": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump-Xi summit: What wasn't said might matter the most",
+      "summary": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know."
+    },
+    {
+      "char": "🐒",
+      "label": "cape town's baboon dilemma",
+      "url": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
+      "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
+      "summary": "Two troops of chacma baboons are breaking into homes and shops but animal rights activists insist coexistence is the answer Cape Town’s city council has said it will “imminently” round up two baboon troops coming into repeated conflict w..."
+    },
+    {
+      "char": "🚨",
       "label": "south african police officer charged",
       "url": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
       "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
       "summary": "Arrest of Shadrack Sibiya comes as country reels from cases of femicide and alleged police corruption and criminality One of South Africa’s most senior police officers has been charged with raping an 18-year-old woman and grooming a 16-y..."
     },
     {
-      "char": "🐒",
-      "label": "cape town's baboon removal plan",
-      "url": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
-      "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
-      "summary": "Two troops of chacma baboons are breaking into homes and shops but animal rights activists insist coexistence is the answer Cape Town’s city council has said it will “imminently” round up two baboon troops coming into repeated conflict w..."
+      "char": "💰",
+      "label": "venezuela's gold rush and gangs",
+      "url": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html",
+      "title": "Trump Sparked a Gold Rush, and Venezuelan Gangs Take a Cut of Profit",
+      "summary": "The administration is brokering deals in a notoriously corrupt industry, including one with a company that the United States deems a security threat."
     },
     {
-      "char": "🌪️",
-      "label": "hurricane nolo threatens hawaii",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
-      "title": "Hurricane Nolo still threatens Hawaii as Mexico's Baja braces for major Hurricane Polo",
-      "summary": "Hurricane Nolo is moving away from Hawaiian islands but threat of heavy rain, flash floods and strong winds persists Hurricane Nolo was moving away from the Hawaiian islands on Sunday, but the threat of heavy rain, flash flooding and str..."
-    },
-    {
-      "char": "🎤",
-      "label": "mighty sparrow dies at 91",
-      "url": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
-      "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
-      "summary": "Slinger Francisco, who performed as the Mighty Sparrow, died on Sunday surrounded by family in New York Slinger Francisco, known on stage as the Mighty Sparrow and dubbed the “calypso king of the world”, has died aged 91. Francisco, who..."
-    },
-    {
-      "char": "🔫",
-      "label": "mass shootings in south africa",
-      "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-      "title": "At least 27 dead after two mass shootings in South Africa, police say",
-      "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 2..."
+      "char": "🗳️",
+      "label": "brazil's election and trump's influence",
+      "url": "https://www.nytimes.com/2026/09/28/world/americas/brazil-election-bolsonaro-president-trump.html",
+      "title": "Brazil’s Biggest Election Question?: Donald Trump’s Next Move",
+      "summary": "As Brazil prepares to hold elections next month, Latin America’s biggest nation is taking steps to shield its democracy from potential American meddling."
     }
   ],
   "source": "ai-openai",
