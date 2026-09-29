@@ -1,41 +1,41 @@
 {
   "date": "2026-09-29",
-  "timestamp": "2026-09-29T10:31:42Z",
+  "timestamp": "2026-09-29T00:00:00Z",
   "emojis": [
     {
-      "char": "💼",
-      "label": "indian billionaire's firm flotation",
+      "char": "🇺🇦",
+      "label": "ukraine emergency workers",
+      "url": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-donbas-emergency-workers.html",
+      "title": "The Rescuers Keeping Two Ukrainian ‘Fortress Cities’ Alive",
+      "summary": "Emergency workers have to move fast after Russian attacks in eastern Ukraine. Another could come at any moment."
+    },
+    {
+      "char": "🏠",
+      "label": "evicted spanish pensioner",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+      "title": "Evicted Spanish pensioner can move back home, lawyer says",
+      "summary": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain."
+    },
+    {
+      "char": "🗺️",
+      "label": "melbourne man's disappearance",
+      "url": "https://www.theguardian.com/world/2026/sep/27/melbourne-man-disappearance-south-american-hiking-trail-search-peru",
+      "title": "Melbourne man’s mysterious disappearance on popular Peru hiking trail prompts widespread search",
+      "summary": "Loved ones describe Jordan Yap, 30, as an experienced hiker who set out for a 10-day solo trek Peru before falling silent Get our breaking news email , free app or daily news podcast Loved ones of a missing Australian trekker who was las..."
+    },
+    {
+      "char": "💰",
+      "label": "indian billionaire flotation",
       "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
       "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
       "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlle..."
     },
     {
-      "char": "💣",
-      "label": "ukraine hometown under attack",
-      "url": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html",
-      "title": "Bomb by Bomb, the Slow Death of My Hometown in Ukraine",
-      "summary": "It was possible, for a time, to think that Kramatorsk, where I was born and raised, would survive the war mostly unscathed. Not any more."
-    },
-    {
-      "char": "🇲🇽",
-      "label": "political issues for mexico's president",
-      "url": "https://www.nytimes.com/2026/09/29/world/americas/sheinbaum-lopez-beltran-mexico-morena.html",
-      "title": "AMLO Son Poses Political Problems for Mexico’s President Sheinbaum",
-      "summary": "Andrés Manuel López Beltrán has joined the list of figures who, critics say, may end up harming the left-wing movement his father founded, as well as the president who succeeded him."
-    },
-    {
-      "char": "⚖️",
-      "label": "us trade war with canada",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
-      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-      "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume."
-    },
-    {
-      "char": "💔",
-      "label": "dozens killed in myanmar bombing",
-      "url": "https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html",
-      "title": "Bodies ‘Like Pieces of Charcoal’: Dozens Killed in Myanmar Military Bombing",
-      "summary": "An airstrike on a bustling market in rebel territory left at least 50 people dead, in one of the deadliest attacks on civilians in months."
+      "char": "🌪️",
+      "label": "hurricane nolo threatens hawaii",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
+      "title": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for Hurricane Polo",
+      "summary": "Hurricane Nolo is moving away from Hawaiian islands but threat of heavy rain, flash floods and strong winds persists Hurricane Nolo was moving away from the Hawaiian islands on Sunday, but the threat of heavy rain, flash flooding and str..."
     }
   ],
   "source": "ai-openai",
