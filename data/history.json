@@ -71455,5 +71455,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-29",
+    "emojis": [
+      {
+        "char": "💃",
+        "label": "nigerian breaks dance record",
+        "url": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
+        "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
+        "summary": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning."
+      },
+      {
+        "char": "🔫",
+        "label": "mass shootings in south africa",
+        "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+        "title": "At least 27 dead after two mass shootings in South Africa, police say",
+        "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 2..."
+      },
+      {
+        "char": "🌀",
+        "label": "hurricane nolo threatens hawaii",
+        "url": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
+        "title": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for Hurricane Polo",
+        "summary": "Hurricane Nolo is moving away from Hawaiian islands but threat of heavy rain, flash floods and strong winds persists Hurricane Nolo was moving away from the Hawaiian islands on Sunday, but the threat of heavy rain, flash flooding and str..."
+      },
+      {
+        "char": "⚔️",
+        "label": "ethiopian army rebel offensive",
+        "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+        "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+        "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states..."
+      },
+      {
+        "char": "🎤",
+        "label": "singer sentenced for hijab performance",
+        "url": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+        "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+        "summary": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
