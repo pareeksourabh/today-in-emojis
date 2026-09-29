@@ -71499,5 +71499,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-29",
+    "emojis": [
+      {
+        "char": "💼",
+        "label": "indian billionaire's firm flotation",
+        "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
+        "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
+        "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlle..."
+      },
+      {
+        "char": "💣",
+        "label": "ukraine hometown under attack",
+        "url": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html",
+        "title": "Bomb by Bomb, the Slow Death of My Hometown in Ukraine",
+        "summary": "It was possible, for a time, to think that Kramatorsk, where I was born and raised, would survive the war mostly unscathed. Not any more."
+      },
+      {
+        "char": "🇲🇽",
+        "label": "political issues for mexico's president",
+        "url": "https://www.nytimes.com/2026/09/29/world/americas/sheinbaum-lopez-beltran-mexico-morena.html",
+        "title": "AMLO Son Poses Political Problems for Mexico’s President Sheinbaum",
+        "summary": "Andrés Manuel López Beltrán has joined the list of figures who, critics say, may end up harming the left-wing movement his father founded, as well as the president who succeeded him."
+      },
+      {
+        "char": "⚖️",
+        "label": "us trade war with canada",
+        "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+        "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+        "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume."
+      },
+      {
+        "char": "💔",
+        "label": "dozens killed in myanmar bombing",
+        "url": "https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html",
+        "title": "Bodies ‘Like Pieces of Charcoal’: Dozens Killed in Myanmar Military Bombing",
+        "summary": "An airstrike on a bustling market in rebel territory left at least 50 people dead, in one of the deadliest attacks on civilians in months."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
