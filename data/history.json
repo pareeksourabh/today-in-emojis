@@ -71631,5 +71631,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-29",
+    "emojis": [
+      {
+        "char": "🍩",
+        "label": "turkish doughnut maker honors the dead",
+        "url": "https://www.nytimes.com/2026/09/29/world/middleeast/doughnuts-istanbul.html",
+        "title": "A Turkish Doughnut Maker Whose Sweets Honor the Dead",
+        "summary": "For one Istanbul confectioner, distributing fried dough balls as memorials is not just a job. It’s personal."
+      },
+      {
+        "char": "🇺🇸",
+        "label": "us visa restrictions on south africa",
+        "url": "https://www.nytimes.com/2026/09/29/world/africa/south-africa-trump-letter-visas-racism.html",
+        "title": "Why the U.S. Is Imposing New Visa Restrictions on South Africa",
+        "summary": "The Trump administration announced new visa restrictions on the country days after receiving a letter that South African officials had hoped would bring down the temperature."
+      },
+      {
+        "char": "🏠",
+        "label": "spain bans evictions after protests",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+        "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+        "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days."
+      },
+      {
+        "char": "💣",
+        "label": "dozens killed in myanmar bombing",
+        "url": "https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html",
+        "title": "Dozens Killed in Myanmar Military Bombing",
+        "summary": "An airstrike on a bustling market in rebel territory left at least 50 people dead, in one of the deadliest attacks on civilians in months."
+      },
+      {
+        "char": "👩‍💼",
+        "label": "first female pm named in morocco",
+        "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
+        "title": "First female prime minister named in Morocco after winning elections",
+        "summary": "Her appointment by the king makes her only the second woman to lead a government in the Arab world."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
