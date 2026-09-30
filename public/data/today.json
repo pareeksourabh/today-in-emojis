@@ -1,27 +1,34 @@
 {
   "date": "2026-09-30",
-  "timestamp": "2026-09-30T10:22:44Z",
+  "timestamp": "2026-09-30T00:00:00Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "judge's letter for abuse survivor",
-      "url": "https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss",
-      "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
-      "summary": "In the emotional letter, the judge describes the survivor as \"the bravest little girl this court has ever seen\"."
+      "char": "🇮🇱",
+      "label": "israeli settlers clash with soldiers",
+      "url": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html",
+      "title": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
+      "summary": "The Supreme Court had ordered the military to ensure a West Bank family that fled violence could go back. But settlers blocked the effort, with the authorities accused of not doing enough to confront them."
     },
     {
-      "char": "🎤",
-      "label": "calypso king mighty sparrow dies",
-      "url": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
-      "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
-      "summary": "Slinger Francisco, who performed as the Mighty Sparrow, died on Sunday surrounded by family in New York Slinger Francisco, known on stage as the Mighty Sparrow and dubbed the “calypso king of the world”, has died aged 91. Francisco, who..."
+      "char": "🇿🇦",
+      "label": "us visa restrictions on south africa",
+      "url": "https://www.nytimes.com/2026/09/29/world/africa/south-africa-trump-letter-visas-racism.html",
+      "title": "Why the U.S. Is Imposing New Visa Restrictions on South Africa",
+      "summary": "The Trump administration announced new visa restrictions on the country days after receiving a letter that South African officials had hoped would bring down the temperature."
     },
     {
-      "char": "📰",
-      "label": "politician beaten after ebola talk",
-      "url": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
-      "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
-      "summary": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party says A senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday after appearing on..."
+      "char": "💣",
+      "label": "dozens killed in myanmar bombing",
+      "url": "https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html",
+      "title": "Dozens Killed in Myanmar Military Bombing",
+      "summary": "An airstrike on a bustling market in rebel territory left at least 50 people dead, in one of the deadliest attacks on civilians in months."
+    },
+    {
+      "char": "🔫",
+      "label": "mass shootings in south africa",
+      "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "title": "At least 27 dead after two mass shootings in South Africa, police say",
+      "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 2..."
     },
     {
       "char": "🐒",
@@ -29,13 +36,6 @@
       "url": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
       "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
       "summary": "Two troops of chacma baboons are breaking into homes and shops but animal rights activists insist coexistence is the answer Cape Town’s city council has said it will “imminently” round up two baboon troops coming into repeated conflict w..."
-    },
-    {
-      "char": "🔍",
-      "label": "search for missing melbourne man",
-      "url": "https://www.theguardian.com/world/2026/sep/27/melbourne-man-disappearance-south-american-hiking-trail-search-peru",
-      "title": "Melbourne man’s mysterious disappearance on popular Peru hiking trail prompts widespread search",
-      "summary": "Loved ones describe Jordan Yap, 30, as an experienced hiker who set out for a 10-day solo trek Peru before falling silent Get our breaking news email , free app or daily news podcast Loved ones of a missing Australian trekker who was las..."
     }
   ],
   "source": "ai-openai",
