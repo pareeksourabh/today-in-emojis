@@ -1,64 +1,43 @@
 {
-  "date": "2026-09-29",
-  "timestamp": "2026-09-29T20:17:13Z",
+  "date": "2026-09-30",
+  "timestamp": "2026-09-30T00:00:00Z",
   "emojis": [
     {
-      "char": "🍩",
-      "label": "turkish doughnut maker honors the dead",
-      "url": "https://www.nytimes.com/2026/09/29/world/middleeast/doughnuts-istanbul.html",
-      "title": "A Turkish Doughnut Maker Whose Sweets Honor the Dead",
-      "summary": "For one Istanbul confectioner, distributing fried dough balls as memorials is not just a job. It’s personal."
+      "char": "💣",
+      "label": "bombing in hometown of ukraine",
+      "url": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html",
+      "title": "Bomb by Bomb, the Slow Death of My Hometown in Ukraine",
+      "summary": "It was possible, for a time, to think that Kramatorsk, where I was born and raised, would survive the war mostly unscathed. Not any more."
     },
     {
-      "char": "🇺🇸",
-      "label": "us visa restrictions on south africa",
-      "url": "https://www.nytimes.com/2026/09/29/world/africa/south-africa-trump-letter-visas-racism.html",
-      "title": "Why the U.S. Is Imposing New Visa Restrictions on South Africa",
-      "summary": "The Trump administration announced new visa restrictions on the country days after receiving a letter that South African officials had hoped would bring down the temperature."
+      "char": "🚢",
+      "label": "migrants shipped back to war zone",
+      "url": "https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html",
+      "title": "The Migrants Being Shipped Back to a War Zone",
+      "summary": "Malaysia says it is repatriating undocumented migrants from Myanmar who want to return. Critics say it is putting their lives at risk."
+    },
+    {
+      "char": "🔫",
+      "label": "mass shootings in south africa",
+      "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "title": "At least 27 dead after two mass shootings in South Africa, police say",
+      "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 2..."
     },
     {
       "char": "🏠",
-      "label": "spain bans evictions after protests",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-      "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-      "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days."
+      "label": "spain's housing eviction protests",
+      "url": "https://www.nytimes.com/2026/09/29/world/europe/spain-housing-eviction-maricarmen-abascal-madrid-protests.html",
+      "title": "Evicted Woman Set to Return Home as Spain Announces Plans to Fix Housing Crisis",
+      "summary": "The eviction of an 87-year-old set off protests in the country, which has an acute housing shortage. The government presented legislation to protect renters."
     },
     {
-      "char": "💣",
-      "label": "dozens killed in myanmar bombing",
-      "url": "https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html",
-      "title": "Dozens Killed in Myanmar Military Bombing",
-      "summary": "An airstrike on a bustling market in rebel territory left at least 50 people dead, in one of the deadliest attacks on civilians in months."
-    },
-    {
-      "char": "👩‍💼",
-      "label": "first female pm named in morocco",
-      "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
-      "title": "First female prime minister named in Morocco after winning elections",
-      "summary": "Her appointment by the king makes her only the second woman to lead a government in the Arab world."
+      "char": "🌪️",
+      "label": "hurricane threats in hawaii",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
+      "title": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for Hurricane Polo",
+      "summary": "Hurricane Nolo is moving away from Hawaiian islands but threat of heavy rain, flash floods and strong winds persists Hurricane Nolo was moving away from the Hawaiian islands on Sunday, but the threat of heavy rain, flash flooding and str..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sadness",
-    "emoji": "😢",
-    "rationale": "The day is marked by a mix of poignant moments, from memorializing the dead with sweets to tragic violence in Myanmar. These events evoke a deep sense of loss and sorrow.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
