@@ -71675,5 +71675,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-30",
+    "emojis": [
+      {
+        "char": "🛢️",
+        "label": "oil loading from saudi pipeline",
+        "url": "https://www.nytimes.com/2026/09/29/business/oil-saudi-east-west-pipeline.html",
+        "title": "Tankers Are Loading Oil Again From a Vital Saudi Pipeline",
+        "summary": "Saudi authorities had taken the pipeline offline this month after it was damaged in a drone attack by an Iranian-backed Iraqi militia."
+      },
+      {
+        "char": "🏠",
+        "label": "spain plans to fix housing crisis",
+        "url": "https://www.nytimes.com/2026/09/29/world/europe/spain-housing-eviction-maricarmen-abascal-madrid-protests.html",
+        "title": "Evicted Woman Set to Return Home as Spain Announces Plans to Fix Housing Crisis",
+        "summary": "The eviction of an 87-year-old set off protests in the country, which has an acute housing shortage. The government presented legislation to protect renters."
+      },
+      {
+        "char": "✈️",
+        "label": "dozens killed in myanmar bombing",
+        "url": "https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html",
+        "title": "Dozens Killed in Myanmar Military Bombing",
+        "summary": "An airstrike on a bustling market in rebel territory left at least 50 people dead, in one of the deadliest attacks on civilians in months."
+      },
+      {
+        "char": "🌍",
+        "label": "melbourne man missing in peru",
+        "url": "https://www.theguardian.com/world/2026/sep/27/melbourne-man-disappearance-south-american-hiking-trail-search-peru",
+        "title": "Melbourne man’s mysterious disappearance on popular Peru hiking trail prompts widespread search",
+        "summary": "Loved ones describe Jordan Yap, 30, as an experienced hiker who set out for a 10-day solo trek Peru before falling silent Get our breaking news email , free app or daily news podcast Loved ones of a missing Australian trekker who was las..."
+      },
+      {
+        "char": "📉",
+        "label": "lula bans sports betting in brazil",
+        "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
+        "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
+        "summary": "President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week befo..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
