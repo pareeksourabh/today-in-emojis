@@ -71851,5 +71851,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-30",
+    "emojis": [
+      {
+        "char": "🧬",
+        "label": "ai tool and bioweapons",
+        "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+        "title": "Chinese AI tool told researchers how to make bioweapons",
+        "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits."
+      },
+      {
+        "char": "🇮🇱",
+        "label": "israeli settlers clash",
+        "url": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html",
+        "title": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
+        "summary": "The Supreme Court had ordered the military to ensure a West Bank family that fled violence could go back. But settlers blocked the effort, with the authorities accused of not doing enough to confront them."
+      },
+      {
+        "char": "🗼",
+        "label": "eiffel tower chief resigns",
+        "url": "https://www.nytimes.com/2026/09/30/world/europe/eiffel-tower-director-resigns.html",
+        "title": "Eiffel Tower Chief Resigns After Female Staff Moved for Hindu Group’s Visit",
+        "summary": "Patrick Branco Ruivo, who ran the tower’s operating company, will step down after an internal inquiry cited “problems and shortcomings” over the moving of female employees."
+      },
+      {
+        "char": "💔",
+        "label": "mass shootings in south africa",
+        "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+        "title": "At least 27 dead after two mass shootings in South Africa, police say",
+        "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 2..."
+      },
+      {
+        "char": "🚀",
+        "label": "us troop withdrawal from iraq",
+        "url": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html",
+        "title": "American Forces Withdraw From Iraq 23 Years After Invading",
+        "summary": "The Americans did not understand the country when they invaded in 2003. From the earliest days, there were signs of the trouble ahead, our correspondent recalls."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
