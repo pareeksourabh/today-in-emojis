@@ -71807,5 +71807,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-09-30",
+    "emojis": [
+      {
+        "char": "🇫🇷",
+        "label": "pope leo's popularity in france",
+        "url": "https://www.nytimes.com/2026/09/30/world/europe/leo-france-pope-macron.html",
+        "title": "In Fractious France, Politicians Agree on One Thing: Pope Leo Was a Hit",
+        "summary": "In a four-day visit, Pope Leo XIV won praise across the political spectrum, even from its most avowedly secular figures."
+      },
+      {
+        "char": "🇬🇧",
+        "label": "uk-iran raf fairford incident",
+        "url": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
+        "title": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+        "summary": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why."
+      },
+      {
+        "char": "📰",
+        "label": "drc politician killed over ebola talk",
+        "url": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
+        "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
+        "summary": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party says A senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday after appearing on..."
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane nolo threatens hawaii",
+        "url": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
+        "title": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for Hurricane Polo",
+        "summary": "Hurricane Nolo is moving away from Hawaiian islands but threat of heavy rain, flash floods and strong winds persists Hurricane Nolo was moving away from the Hawaiian islands on Sunday, but the threat of heavy rain, flash flooding and str..."
+      },
+      {
+        "char": "🎤",
+        "label": "mighty sparrow, calypso king dies",
+        "url": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
+        "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
+        "summary": "Slinger Francisco, who performed as the Mighty Sparrow, died on Sunday surrounded by family in New York Slinger Francisco, known on stage as the Mighty Sparrow and dubbed the “calypso king of the world”, has died aged 91. Francisco, who..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
