@@ -71939,5 +71939,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-01",
+    "emojis": [
+      {
+        "char": "🏔️",
+        "label": "swiss glaciers face ice loss",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+        "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+        "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change."
+      },
+      {
+        "char": "🇯🇵",
+        "label": "japan raises residency fees",
+        "url": "https://www.nytimes.com/2026/10/01/world/asia/japan-raises-residency-fees-2000-percent-amid-anxiety-over-foreigners.html",
+        "title": "Japan Raises Residency Fees 2,000 Percent Amid ‘Anxiety’ Over Foreigners",
+        "summary": "Prime Minister Sanae Takaichi is making it harder for immigrants to stay in the country. Critics say she is hurting Japan’s ability to address labor shortages."
+      },
+      {
+        "char": "🎲",
+        "label": "brazil's election and gambling debts",
+        "url": "https://www.nytimes.com/2026/10/01/world/americas/brazil-gambling-debts-elections.html",
+        "title": "One Issue Hanging Over Brazil’s Presidential Election: Online Gambling and Record-High Debts",
+        "summary": "Just days before Sunday’s election, President President Luiz Inácio Lula da Silva banned online gambling. But record-high debt is upending millions of lives."
+      },
+      {
+        "char": "✈️",
+        "label": "israel flight attack updates",
+        "url": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots",
+        "title": "Live Updates: Israelis Celebrate Passengers’ Return as Questions Swirl Over Flight Attack",
+        "summary": "Prime Minister Benjamin Netanyahu praised the flight’s injured captain, Israeli passengers and reserve pilots, who helped secure the plane and land it safely. The attacker has not been identified."
+      },
+      {
+        "char": "🔫",
+        "label": "mass shootings in south africa",
+        "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+        "title": "At least 27 dead after two mass shootings in South Africa, police say",
+        "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 2..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
