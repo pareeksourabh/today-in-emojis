@@ -1,41 +1,41 @@
 {
   "date": "2026-10-01",
-  "timestamp": "2026-10-01T15:20:03Z",
+  "timestamp": "2026-10-01T00:00:00Z",
   "emojis": [
     {
-      "char": "🗳️",
-      "label": "trump diverts human rights funds",
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-      "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
-      "summary": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state de..."
-    },
-    {
       "char": "✈️",
-      "label": "hero pilot after flydubai attack",
-      "url": "https://www.nytimes.com/2026/10/01/world/asia/israel-flight-flydubai-pilot-captain-smit-machchhar.html",
-      "title": "Who Is Captain Smit Machchhar, the Pilot Hailed as a Hero After FlyDubai Cockpit Stabbing?",
-      "summary": "Capt. Smit Machchhar suffered stab wounds while fending off an attack from his co-pilot, saving the lives of around 170 people on board, officials said."
+      "label": "flydubai attack investigation",
+      "url": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots",
+      "title": "Live Updates: Investigators Seek to Establish Motive in FlyDubai Attack",
+      "summary": "The United Arab Emirates said it would lead the investigation, including into possible links to terrorism. Prime Minister Benjamin Netanyahu said the attacker had undergone “Islamist radical indoctrination,” though he did not elaborate."
     },
     {
-      "char": "💰",
-      "label": "japan raises residency fees drastically",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
-      "title": "Japan raises permanent residency fee by 20 times",
-      "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population."
+      "char": "🌪️",
+      "label": "hurricane threats to hawaii",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
+      "title": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for Hurricane Polo",
+      "summary": "Hurricane Nolo is moving away from Hawaiian islands but threat of heavy rain, flash floods and strong winds persists Hurricane Nolo was moving away from the Hawaiian islands on Sunday, but the threat of heavy rain, flash flooding and str..."
     },
     {
-      "char": "🇻🇪",
-      "label": "venezuela's chavistas lament trump",
-      "url": "https://www.theguardian.com/world/2026/oct/01/venezuela-hugo-chavez-supporters-critical-delcy-rodriguez-embrace-of-trump",
-      "title": "‘It’s utter surrealism’: Venezuela’s Chavistas lament government’s embrace of Trump",
-      "summary": "Diehard Hugo Chávez supporters struggle to comprehend ideological U-turn being executed by Delcy Rodríguez’s interim administration He was one of the most passionate propagandists for Hugo Chávez’s Bolivarian revolution: a feisty leftist..."
+      "char": "💔",
+      "label": "zimbabwe tycoon dies in crash",
+      "url": "https://www.nytimes.com/2026/10/01/world/africa/zimbabwe-wicknell-chivayo-helicopter-crash.html",
+      "title": "A Flashy Zimbabwean Tycoon Who Befriended Presidents Dies in Crash",
+      "summary": "Wicknell Chivayo was riding in a helicopter with his wife when it plunged into a field. Dogged by corruption allegations, the businessman drew polarizing reactions even in death."
     },
     {
       "char": "🚨",
-      "label": "south africa's gender violence crisis",
-      "url": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
-      "title": "South African leader urges men to speak up on gender-based violence after series of killings",
-      "summary": "President announces measures amid anger at authorities over recent murders of women South Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid an..."
+      "label": "mass shootings in south africa",
+      "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "title": "At least 27 dead after two mass shootings in South Africa, police say",
+      "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 2..."
+    },
+    {
+      "char": "🌍",
+      "label": "swiss glaciers melting rapidly",
+      "url": "https://www.nytimes.com/2026/10/01/world/europe/switzerland-glaciers-melting-climate.html",
+      "title": "Swiss Glaciers Vanished by Nearly a Fifth in Recent Years, Scientists Say",
+      "summary": "One researcher called it a “desperately needed warning sign” that countries need to tackle human-driven climate change."
     }
   ],
   "source": "ai-openai",
