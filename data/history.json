@@ -72071,5 +72071,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-01",
+    "emojis": [
+      {
+        "char": "🔥",
+        "label": "fires at french schools protest",
+        "url": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
+        "title": "Fires break out at French schools as students protest nationwide",
+        "summary": "The French government holds a crisis meeting as demonstrations grow and become violent in places."
+      },
+      {
+        "char": "🇯🇵",
+        "label": "japan raises residency fee significantly",
+        "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+        "title": "Japan raises permanent residency fee by 20 times",
+        "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population."
+      },
+      {
+        "char": "⚔️",
+        "label": "putin warns west on kaliningrad",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+        "summary": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders."
+      },
+      {
+        "char": "🎓",
+        "label": "afghan university at risk of closure",
+        "url": "https://www.nytimes.com/2026/10/01/world/asia/american-university-kabul-usaid.html",
+        "title": "American University of Afghanistan at Risk of Closure Amid Funding Cuts",
+        "summary": "The State Department has denied its funding for the next two years, jeopardizing the education of hundreds of female Afghan students."
+      },
+      {
+        "char": "🔫",
+        "label": "mass shootings in south africa",
+        "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+        "title": "At least 27 dead after two mass shootings in South Africa, police say",
+        "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 2..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
