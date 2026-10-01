@@ -1,64 +1,43 @@
 {
-  "date": "2026-09-30",
-  "timestamp": "2026-09-30T20:21:41Z",
+  "date": "2026-10-01",
+  "timestamp": "2026-10-01T00:00:00Z",
   "emojis": [
     {
-      "char": "🧬",
-      "label": "ai tool and bioweapons",
-      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits."
+      "char": "🎤",
+      "label": "calypso king mighty sparrow dies",
+      "url": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
+      "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
+      "summary": "Slinger Francisco, who performed as the Mighty Sparrow, died on Sunday surrounded by family in New York Slinger Francisco, known on stage as the Mighty Sparrow and dubbed the “calypso king of the world”, has died aged 91. Francisco, who..."
     },
     {
-      "char": "🇮🇱",
-      "label": "israeli settlers clash",
-      "url": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html",
-      "title": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
-      "summary": "The Supreme Court had ordered the military to ensure a West Bank family that fled violence could go back. But settlers blocked the effort, with the authorities accused of not doing enough to confront them."
+      "char": "⚖️",
+      "label": "six smugglers jailed for manslaughter",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
+      "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+      "summary": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks."
     },
     {
-      "char": "🗼",
-      "label": "eiffel tower chief resigns",
-      "url": "https://www.nytimes.com/2026/09/30/world/europe/eiffel-tower-director-resigns.html",
-      "title": "Eiffel Tower Chief Resigns After Female Staff Moved for Hindu Group’s Visit",
-      "summary": "Patrick Branco Ruivo, who ran the tower’s operating company, will step down after an internal inquiry cited “problems and shortcomings” over the moving of female employees."
+      "char": "🦋",
+      "label": "moth swarms sweep across australia",
+      "url": "https://www.nytimes.com/2026/09/30/world/australia/bogong-moth-migration.html",
+      "title": "Moth Swarms Sweep Across Australia. That’s Good News.",
+      "summary": "Bogong moths have been in decline since the 1980s, but this spring the insects have been sighted in the thousands across southeastern Australia, delighting scientists."
     },
     {
-      "char": "💔",
+      "char": "🇺🇸",
+      "label": "us forces leave iraq after two decades",
+      "url": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html",
+      "title": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
+      "summary": "Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran."
+    },
+    {
+      "char": "🔫",
       "label": "mass shootings in south africa",
       "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
       "title": "At least 27 dead after two mass shootings in South Africa, police say",
       "summary": "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 2..."
-    },
-    {
-      "char": "🚀",
-      "label": "us troop withdrawal from iraq",
-      "url": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html",
-      "title": "American Forces Withdraw From Iraq 23 Years After Invading",
-      "summary": "The Americans did not understand the country when they invaded in 2003. From the earliest days, there were signs of the trouble ahead, our correspondent recalls."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sadness",
-    "emoji": "😢",
-    "rationale": "Today's news reflects a series of tragic events, including mass shootings and issues of injustice, highlighting a pervasive sense of loss and sorrow in the world.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
