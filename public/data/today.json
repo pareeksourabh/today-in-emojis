@@ -1,41 +1,41 @@
 {
   "date": "2026-10-02",
-  "timestamp": "2026-10-02T14:33:17Z",
+  "timestamp": "2026-10-02T00:00:00Z",
   "emojis": [
     {
-      "char": "👶",
-      "label": "japan's first mayor on maternity leave",
-      "url": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
-      "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
-      "summary": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates."
+      "char": "🇫🇷",
+      "label": "france student protests",
+      "url": "https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html",
+      "title": "Student Protests Rattle France as Police Clashes Bring Blockades and Tear Gas",
+      "summary": "Days of unrest have affected more than 1,000 schools across France as high school students push for better standards."
     },
     {
-      "char": "🌍",
-      "label": "burundi accepts us migrant deportees",
+      "char": "🇧🇮",
+      "label": "burundi migrant deportations",
       "url": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
       "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
       "summary": "Burundi joins several other African nations in accepting people deported under Trump’s hardline policy Burundi has agreed to join a clutch of ⁠other African nations in receiving migrants from other countries deported from the US under ⁠..."
     },
     {
+      "char": "🎨",
+      "label": "cairo mural controversy",
+      "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+      "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+      "summary": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about Pharaohs’ origins On the eve of Chinese president Xi Jinping’s state visit to Cairo last m..."
+    },
+    {
       "char": "✈️",
-      "label": "indian pilot recalls flydubai attack",
-      "url": "https://www.nytimes.com/2026/10/02/world/asia/flydubai-attack-pilot-israel-india-smit-machchhar.html",
-      "title": "Indian Pilot Stabbed on FlyDubai Flight Recalls Sudden Attack",
-      "summary": "Capt. Smit Machchhar, who was stabbed by his co-pilot midair between Dubai and Tel Aviv, said he “had to act” to prevent a crash despite serious injuries."
+      "label": "flydubai flight attack",
+      "url": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
+      "title": "How Flydubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
+      "summary": "A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster."
     },
     {
-      "char": "📢",
-      "label": "protests shake france's schools",
-      "url": "https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html",
-      "title": "Blockades, Fireworks and Tear Gas: Young Protesters Are Rattling France",
-      "summary": "Days of unrest have affected more than 1,000 schools across France as high school students push for better standards."
-    },
-    {
-      "char": "🚨",
-      "label": "south africa addresses gender violence",
-      "url": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
-      "title": "South African leader urges men to speak up on gender-based violence after series of killings",
-      "summary": "President announces measures amid anger at authorities over recent murders of women South Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid an..."
+      "char": "🏠",
+      "label": "spain eviction vote",
+      "url": "https://www.nytimes.com/2026/10/02/world/europe/spain-housing-vote-elections.html",
+      "title": "Spanish Lawmakers Reject Eviction Freeze, Spurring Calls for Early Elections",
+      "summary": "The government had proposed more protections for tenants after outrage at the eviction of an 87-year-old woman in Madrid."
     }
   ],
   "source": "ai-openai",
