@@ -1,41 +1,41 @@
 {
   "date": "2026-10-02",
-  "timestamp": "2026-10-02T03:16:36Z",
+  "timestamp": "2026-10-02T00:00:00Z",
   "emojis": [
     {
-      "char": "🛡️",
-      "label": "child safety gaps in gaming",
-      "url": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
-      "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
-      "summary": "Fortnite, Roblox and Minecraft also told to 'lift their game' by online safety regulator."
-    },
-    {
-      "char": "⚖️",
-      "label": "cornell frat rape investigation",
-      "url": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
-      "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
-      "summary": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James."
-    },
-    {
-      "char": "📺",
-      "label": "egypt arrests journalists",
-      "url": "https://www.nytimes.com/2026/10/01/world/middleeast/egypt-journalist-arrests.html",
-      "title": "Egypt Arrests 6 Matsaddash Journalists on Claims of Spreading Disinformation",
-      "summary": "The government claims that reporters from Matsaddash, a well-known news outlet that debunks false reports, spread disinformation for the banned Muslim Brotherhood."
-    },
-    {
-      "char": "🌍",
-      "label": "gender-based violence in south africa",
+      "char": "🗣️",
+      "label": "south africa gender violence awareness",
       "url": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
       "title": "South African leader urges men to speak up on gender-based violence after series of killings",
       "summary": "President announces measures amid anger at authorities over recent murders of women South Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid an..."
     },
     {
+      "char": "📰",
+      "label": "egypt arrests journalists for disinfo",
+      "url": "https://www.nytimes.com/2026/10/01/world/middleeast/egypt-journalist-arrests.html",
+      "title": "Egypt Arrests 6 Matsaddash Journalists on Claims of Spreading Disinformation",
+      "summary": "The government claims that reporters from Matsaddash, a well-known news outlet that debunks false reports, spread disinformation for the banned Muslim Brotherhood."
+    },
+    {
+      "char": "💰",
+      "label": "russia increases war budget cuts social",
+      "url": "https://www.nytimes.com/2026/10/01/world/europe/russia-war-budget.html",
+      "title": "Russia to Sharply Increase War Spending and Cut Social Programs",
+      "summary": "Both sides are finding it increasingly difficult to finance the conflict in Ukraine. Russia’s 2027 budget envisions more debt, higher taxes and lower social benefits."
+    },
+    {
       "char": "🎤",
-      "label": "mighty sparrow dies at 91",
+      "label": "mighty sparrow calypso king dies",
       "url": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
       "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
       "summary": "Slinger Francisco, who performed as the Mighty Sparrow, died on Sunday surrounded by family in New York Slinger Francisco, known on stage as the Mighty Sparrow and dubbed the “calypso king of the world”, has died aged 91. Francisco, who..."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane nolo threatens hawaii",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
+      "title": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for Hurricane Polo",
+      "summary": "Hurricane Nolo is moving away from Hawaiian islands but threat of heavy rain, flash floods and strong winds persists Hurricane Nolo was moving away from the Hawaiian islands on Sunday, but the threat of heavy rain, flash flooding and str..."
     }
   ],
   "source": "ai-openai",
