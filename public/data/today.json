@@ -39,5 +39,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "Today's news reflects a deep sense of sadness and concern, with violent incidents and cultural tensions dominating headlines. The emotional weight of mass shootings and intensifying conflicts in Yemen highlights the struggle many face.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
