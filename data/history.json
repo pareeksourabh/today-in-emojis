@@ -72379,5 +72379,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-03",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "ukraine missile combat use",
+        "url": "https://www.nytimes.com/2026/10/02/world/europe/ukraine-ballistic-missile-fp-7.html",
+        "title": "Ukraine Reports First Combat Use of Its Own Ballistic Missile",
+        "summary": "While the missile fired on Thursday has a limited range, Kyiv is developing a larger weapon that could strike Moscow."
+      },
+      {
+        "char": "🇺🇸",
+        "label": "trump human rights fund diversion",
+        "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+        "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+        "summary": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state de..."
+      },
+      {
+        "char": "🇮🇳",
+        "label": "india voter rolls protests",
+        "url": "https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html",
+        "title": "India Faces Fresh Protests, This Time Over Voter Rolls",
+        "summary": "Hundreds were detained in New Delhi as demonstrators expressed anger over the removal of 130 million people from the rolls. The government denies accusations of “vote theft.”"
+      },
+      {
+        "char": "✈️",
+        "label": "flydubai flight attack incident",
+        "url": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
+        "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
+        "summary": "A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "brazil election pro-trump bloc",
+        "url": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
+        "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
+        "summary": "Sunday’s poll pits the leftist incumbent Lula against the son of a former far-right president convicted of staging a coup ‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election Shortly after his con..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
