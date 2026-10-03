@@ -72335,5 +72335,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-03",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "us road rage killer's sentence quashed",
+        "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+        "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+        "summary": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\"."
+      },
+      {
+        "char": "✈️",
+        "label": "flydubai passengers avert disaster",
+        "url": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
+        "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
+        "summary": "A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster."
+      },
+      {
+        "char": "🛢️",
+        "label": "g7 to release oil after trump's threat",
+        "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+        "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+        "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
+      },
+      {
+        "char": "🎙️",
+        "label": "the bolsonaros are back! podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/oct/02/the-bolsonarostheyre-back-brazil-heads-to-the-polls-podcast",
+        "title": "The Bolsonaros…they’re back! Brazil heads to the polls – podcast",
+        "summary": "Latin America correspondent Tom Phillips reports on this Sunday’s historic presidential elections in Brazil, as the son of jailed former president Jair Bolsonaro hopes to take power You would have been forgiven for thinking that when Jai..."
+      },
+      {
+        "char": "🎨",
+        "label": "row over cairo mural depiction",
+        "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+        "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+        "summary": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins On the eve of the Chinese president Xi Jinping’s state visit to Cairo la..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
