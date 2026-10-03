@@ -72467,5 +72467,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-03",
+    "emojis": [
+      {
+        "char": "🥇",
+        "label": "kim wins asian games gold",
+        "url": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+        "title": "Kim wins Asian Games gold to secure military exemption",
+        "summary": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military."
+      },
+      {
+        "char": "🎨",
+        "label": "cairo mural controversy",
+        "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+        "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+        "summary": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins On the eve of the Chinese president Xi Jinping’s state visit to Cairo la..."
+      },
+      {
+        "char": "⛴️",
+        "label": "us coast guard intercepts ship",
+        "url": "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba",
+        "title": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
+        "summary": "US says ship thought to be using common ‘dark fleet’ tactics was boarded and taken to Mexico as embargo continues The US Coast ⁠Guard has announced that it intercepted a large cargo ship carrying fuel bound for Cuba , as the ⁠Trump admin..."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "brazil election tensions rise",
+        "url": "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row",
+        "title": "‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election",
+        "summary": "Speculation that Flávio Bolsonaro will try to strip Our Lady of Aparecida of position could become deciding factor in run-up to Sunday A row of Biblical proportions has erupted in the run-up to Brazil’s presidential election, with the co..."
+      },
+      {
+        "char": "🔫",
+        "label": "teenagers selling guns to cartels",
+        "url": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html",
+        "title": "American High School Students Are Selling Guns Bound for Cartels",
+        "summary": "Drawn by money and status, teenagers in Arizona are buying, stealing and selling weapons destined for criminal groups in Mexico."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
