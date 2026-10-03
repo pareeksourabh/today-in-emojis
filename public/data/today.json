@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news items reflect a day filled with unrest, violence, and societal challenges, prompting a sense of fear and concern for the future, best captured by the 'worried face' emoji.",
+    "emotion_label": "😡",
+    "emoji": "😡",
+    "rationale": "The day's news is filled with conflict and violence, from student protests in France to a midair attack on a pilot, indicating a strong sense of anger and unrest globally.",
     "palette": [
       "😢",
       "😡",
