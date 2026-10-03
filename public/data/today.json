@@ -3,39 +3,39 @@
   "timestamp": "2026-10-03T00:00:00Z",
   "emojis": [
     {
-      "char": "🚢",
-      "label": "us coast guard intercepts ship to cuba",
-      "url": "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba",
-      "title": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
-      "summary": "US says ship thought to be using common ‘dark fleet’ tactics was boarded and taken to Mexico as embargo continues The US Coast ⁠Guard has announced that it intercepted a large cargo ship carrying fuel bound for Cuba , as the ⁠Trump admin..."
+      "char": "🛢️",
+      "label": "g7 releases oil after trump threat",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
     },
     {
-      "char": "🎓",
-      "label": "student protests in france escalate",
-      "url": "https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html",
-      "title": "Student Protests Rattle France as Police Clashes Bring Blockades and Tear Gas",
-      "summary": "Days of unrest have affected more than 1,000 schools across France as high school students push for better standards."
-    },
-    {
-      "char": "⚖️",
-      "label": "trump administration diverts human rights funds",
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-      "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
-      "summary": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state de..."
-    },
-    {
-      "char": "💔",
-      "label": "south africa's gender-based violence crisis",
-      "url": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
-      "title": "South African leader urges men to speak up on gender-based violence after series of killings",
-      "summary": "President announces measures amid anger at authorities over recent murders of women South Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid an..."
-    },
-    {
-      "char": "🖼️",
-      "label": "controversy over cairo mural of tutankhamun",
+      "char": "🎨",
+      "label": "cairo mural sparks controversy",
       "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
       "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
       "summary": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins On the eve of the Chinese president Xi Jinping’s state visit to Cairo la..."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "brazil election tests pro-trump bloc",
+      "url": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
+      "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
+      "summary": "Sunday’s poll pits the leftist incumbent Lula against the son of a former far-right president convicted of staging a coup ‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election Shortly after his con..."
+    },
+    {
+      "char": "⛴️",
+      "label": "coast guard stops fuel ships to cuba",
+      "url": "https://www.nytimes.com/2026/10/02/world/americas/coast-guard-cuba-ships-oil.html",
+      "title": "Coast Guard Says It Stopped Ships Carrying Fuel to Cuba",
+      "summary": "The Coast Guard has intercepted two small boats it says was carrying illegal fuel to Cuba as the United States enforces an fuel blockade aimed at Cuba’s Communist government."
+    },
+    {
+      "char": "🚨",
+      "label": "south africa faces surge in shootings",
+      "url": "https://www.nytimes.com/2026/10/02/world/africa/south-africa-mass-shootings-guns.html",
+      "title": "Mass Shootings Surge in South Africa as Illegal Guns Flood Streets",
+      "summary": "The country was shaken after nearly 30 people were killed in two separate mass shootings. South Africans are demanding greater government intervention."
     }
   ],
   "source": "ai-openai",
