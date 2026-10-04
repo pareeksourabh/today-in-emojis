@@ -72687,5 +72687,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-04",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "brazil's election and trump's influence",
+        "url": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
+        "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
+        "summary": "Sunday’s poll pits the leftist incumbent Lula against the son of a former far-right president convicted of staging a coup ‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election Shortly after his con..."
+      },
+      {
+        "char": "🏠",
+        "label": "protests in spain over housing crisis",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+        "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+        "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament."
+      },
+      {
+        "char": "✈️",
+        "label": "flydubai flight averted disaster",
+        "url": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
+        "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
+        "summary": "A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster."
+      },
+      {
+        "char": "🌍",
+        "label": "migration impacts on australia's economy",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/05/canada-migration-technical-recession-economy-lessons-for-australia",
+        "title": "Would slashing migration tank the economy or reset Australia’s living standards? Canada may offer clues",
+        "summary": "Annual population growth for the North American nation has slowed to just 0.5% – and the economy is ‘adjusting’ Get our breaking news email , free app or daily news podcast Would slashing net overseas migration “trash the economy” or del..."
+      },
+      {
+        "char": "📰",
+        "label": "journalist faces terrorism charges in egypt",
+        "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+        "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+        "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
