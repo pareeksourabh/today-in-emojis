@@ -72599,5 +72599,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-04",
+    "emojis": [
+      {
+        "char": "🏛️",
+        "label": "south africa gender violence",
+        "url": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+        "title": "South African leader urges men to speak up on gender-based violence after series of killings",
+        "summary": "President announces measures amid anger at authorities over recent murders of women South Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid an..."
+      },
+      {
+        "char": "🗳️",
+        "label": "brazil election 2026",
+        "url": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
+        "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
+        "summary": "Sunday’s poll pits the leftist incumbent Lula against the son of a former far-right president convicted of staging a coup ‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election Shortly after his con..."
+      },
+      {
+        "char": "🌍",
+        "label": "who owns the moon?",
+        "url": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html",
+        "title": "Who Owns the Moon?",
+        "summary": "A treaty from the 1960s declared that nobody can own outer space. Half a century later, billionaires and superpowers see fortunes to be made nonetheless."
+      },
+      {
+        "char": "⚔️",
+        "label": "ethiopia tigray conflict",
+        "url": "https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html",
+        "title": "What to Know About Fighting Between Ethiopia and Rebels in Tigray",
+        "summary": "The conflict is raising fears of a regional war in the Horn of Africa, drawing in foreign powers including Eritrea, Egypt, the United Arab Emirates and Saudi Arabia."
+      },
+      {
+        "char": "🎨",
+        "label": "cairo mural controversy",
+        "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+        "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+        "summary": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins On the eve of the Chinese president Xi Jinping’s state visit to Cairo la..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
