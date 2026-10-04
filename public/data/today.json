@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news items reflect significant societal challenges, including youth crime, gender-based violence, and political unrest, evoking a sense of concern and anxiety about the state of our world.",
+    "emotion_label": "😡",
+    "emoji": "😡",
+    "rationale": "Today's news is dominated by alarming issues such as gun trafficking by teenagers, gender-based violence, and violent incidents involving pilots, reflecting a deeply troubling state of affairs in society.",
     "palette": [
       "😢",
       "😡",
