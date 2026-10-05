@@ -72775,5 +72775,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-05",
+    "emojis": [
+      {
+        "char": "🛢️",
+        "label": "houthis attack on aramco",
+        "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
+        "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
+        "summary": "More than 200 U.S. intelligence and military analysts are in Saudi Arabia helping it provide assistance to its Yemeni allies, current and former U.S. officials say."
+      },
+      {
+        "char": "🗳️",
+        "label": "brazil elections runoff",
+        "url": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html",
+        "title": "Brazil Elections Head to Runoff Between Lula and Bolsonaro Son",
+        "summary": "Neither President Luiz Inácio Lula da Silva nor his top challenger, Flávio Bolsonaro, won a majority of votes in the first round, and the race appeared very close."
+      },
+      {
+        "char": "💰",
+        "label": "iran economic crisis warning",
+        "url": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
+        "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
+        "summary": "The rare admission from Mohsen Rezaei, the security chief, came weeks after the U.S. tightened sanctions and its naval blockade."
+      },
+      {
+        "char": "🚨",
+        "label": "us marine arrested in okinawa",
+        "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+        "title": "US Marine arrested over murder of woman in Japan's Okinawa",
+        "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action."
+      },
+      {
+        "char": "📰",
+        "label": "journalist faces terrorism charges",
+        "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+        "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+        "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
