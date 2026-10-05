@@ -3,18 +3,32 @@
   "timestamp": "2026-10-05T00:00:00Z",
   "emojis": [
     {
-      "char": "🎨",
-      "label": "cairo mural controversy",
-      "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
-      "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
-      "summary": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins On the eve of the Chinese president Xi Jinping’s state visit to Cairo la..."
+      "char": "🤖",
+      "label": "trump's ai oversight plan",
+      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow."
     },
     {
       "char": "🇧🇷",
-      "label": "brazil elections runoff",
-      "url": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html",
-      "title": "Brazil Elections Head to Runoff Between Lula and Bolsonaro Son",
-      "summary": "Neither President Luiz Inácio Lula da Silva nor his top challenger, Flávio Bolsonaro, won a majority of votes in the first round, and the race appeared very close."
+      "label": "brazil election first round results",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+      "title": "Brazil presidential election 2026: first-round live results",
+      "summary": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race Brazil’s president is directly elected: each voter’s ballot counts equally and there is no electoral college. If no candidate wins..."
+    },
+    {
+      "char": "🏠",
+      "label": "spain's early elections due to crisis",
+      "url": "https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html",
+      "title": "Spain Is to Hold Early Elections After Housing Crisis Roils Government",
+      "summary": "Pedro Sánchez, the Spanish prime minister, had faced rising challenges to his authority amid a migration crisis and several corruption scandals involving his inner circle."
+    },
+    {
+      "char": "⚖️",
+      "label": "trial over abuse in care home",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4z93n9n1zo?at_medium=RSS&at_campaign=rss",
+      "title": "Forced to call him 'Dad': Trial over sexual abuse in disabled care home shocks South Korea",
+      "summary": "The BBC spoke to one of three residents at a care home who were sexually assaulted by a staff member."
     },
     {
       "char": "📰",
@@ -22,20 +36,6 @@
       "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
       "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
       "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
-    },
-    {
-      "char": "🚀",
-      "label": "nuclear reactors on the moon",
-      "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
-      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
-      "summary": "The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great."
-    },
-    {
-      "char": "🛩️",
-      "label": "missing air ambulance found",
-      "url": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
-      "title": "US Coast Guard finds debris of missing air ambulance off coast of Massachusetts",
-      "summary": "The plane was undertaking a medical evacuation from Bermuda with six people onboard when it lost contact The US Coast Guard said late on Saturday it had found debris from a medical transport aircraft off the shore of ⁠Massachusetts’s Nan..."
     }
   ],
   "source": "ai-openai",
