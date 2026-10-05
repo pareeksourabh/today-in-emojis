@@ -1,41 +1,41 @@
 {
   "date": "2026-10-05",
-  "timestamp": "2026-10-05T11:18:28Z",
+  "timestamp": "2026-10-05T00:00:00Z",
   "emojis": [
     {
-      "char": "🇧🇷",
-      "label": "brazil election results",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
+      "char": "✈️",
+      "label": "plane missing off us coast",
+      "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
+      "title": "All six passengers presumed dead after plane went missing off US coast",
+      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data."
     },
     {
-      "char": "🇫🇷",
-      "label": "france school closures",
+      "char": "🦴",
+      "label": "ancient kings' sacrifices",
+      "url": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
+      "title": "Skull fractures suggest servants of Egypt’s ancient kings were sacrificed",
+      "summary": "Study of remains taken from royal cemetery at Umm el-Qa’ab appears to confirm early Egyptologist’s theory Court officials and craftspeople serving early Egyptian kings may have been sacrificed when their ruler died, according to research..."
+    },
+    {
+      "char": "🏫",
+      "label": "france closes schools over protests",
       "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
       "title": "France closes up to 500 schools Monday over student protests",
       "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says."
     },
     {
-      "char": "🇺🇦",
-      "label": "kyiv drone attack",
-      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball."
+      "char": "⚖️",
+      "label": "prince andrew sues uk police",
+      "url": "https://www.nytimes.com/2026/10/05/world/europe/former-prince-andrew-police-lawsuit-epstein-uk-arrest.html",
+      "title": "Former Prince Andrew Sues UK Police After Arrest Linked to Epstein Investigation",
+      "summary": "Andrew Mountbatten-Windsor was arrested this year as part of an investigation into his links with Jeffrey Epstein, the convicted sex offender."
     },
     {
-      "char": "🛢️",
-      "label": "houthis attack on aramco",
-      "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
-      "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-      "summary": "More than 200 U.S. intelligence and military analysts are in Saudi Arabia helping it provide assistance to its Yemeni allies, current and former U.S. officials say."
-    },
-    {
-      "char": "📰",
-      "label": "trump human rights fund",
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-      "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
-      "summary": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state de..."
+      "char": "✈️",
+      "label": "us sanctions iran's airlines",
+      "url": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html",
+      "title": "U.S. Sanctions Aim to ‘Shut Down’ Iran’s Airlines, but This Boeing Plane Is Still Flying",
+      "summary": "The Trump administration says all Iranian airlines are being “shut down.” So why is this jumbo jet still flying from Tehran to Southeast Asia?"
     }
   ],
   "source": "ai-openai",
