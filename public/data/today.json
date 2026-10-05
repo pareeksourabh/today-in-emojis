@@ -1,34 +1,20 @@
 {
   "date": "2026-10-05",
-  "timestamp": "2026-10-05T03:11:13Z",
+  "timestamp": "2026-10-05T00:00:00Z",
   "emojis": [
     {
-      "char": "🛢️",
-      "label": "houthis attack on aramco",
-      "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
-      "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-      "summary": "More than 200 U.S. intelligence and military analysts are in Saudi Arabia helping it provide assistance to its Yemeni allies, current and former U.S. officials say."
+      "char": "🎨",
+      "label": "cairo mural controversy",
+      "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+      "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+      "summary": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins On the eve of the Chinese president Xi Jinping’s state visit to Cairo la..."
     },
     {
-      "char": "🗳️",
+      "char": "🇧🇷",
       "label": "brazil elections runoff",
       "url": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html",
       "title": "Brazil Elections Head to Runoff Between Lula and Bolsonaro Son",
       "summary": "Neither President Luiz Inácio Lula da Silva nor his top challenger, Flávio Bolsonaro, won a majority of votes in the first round, and the race appeared very close."
-    },
-    {
-      "char": "💰",
-      "label": "iran economic crisis warning",
-      "url": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
-      "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
-      "summary": "The rare admission from Mohsen Rezaei, the security chief, came weeks after the U.S. tightened sanctions and its naval blockade."
-    },
-    {
-      "char": "🚨",
-      "label": "us marine arrested in okinawa",
-      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-      "title": "US Marine arrested over murder of woman in Japan's Okinawa",
-      "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action."
     },
     {
       "char": "📰",
@@ -36,6 +22,20 @@
       "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
       "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
       "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
+    },
+    {
+      "char": "🚀",
+      "label": "nuclear reactors on the moon",
+      "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
+      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
+      "summary": "The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great."
+    },
+    {
+      "char": "🛩️",
+      "label": "missing air ambulance found",
+      "url": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
+      "title": "US Coast Guard finds debris of missing air ambulance off coast of Massachusetts",
+      "summary": "The plane was undertaking a medical evacuation from Bermuda with six people onboard when it lost contact The US Coast Guard said late on Saturday it had found debris from a medical transport aircraft off the shore of ⁠Massachusetts’s Nan..."
     }
   ],
   "source": "ai-openai",
