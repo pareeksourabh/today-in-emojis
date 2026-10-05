@@ -72819,5 +72819,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-05",
+    "emojis": [
+      {
+        "char": "🇧🇷",
+        "label": "brazil election results",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+        "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
+      },
+      {
+        "char": "🇫🇷",
+        "label": "france school closures",
+        "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+        "title": "France closes up to 500 schools Monday over student protests",
+        "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says."
+      },
+      {
+        "char": "🇺🇦",
+        "label": "kyiv drone attack",
+        "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+        "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball."
+      },
+      {
+        "char": "🛢️",
+        "label": "houthis attack on aramco",
+        "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
+        "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
+        "summary": "More than 200 U.S. intelligence and military analysts are in Saudi Arabia helping it provide assistance to its Yemeni allies, current and former U.S. officials say."
+      },
+      {
+        "char": "📰",
+        "label": "trump human rights fund",
+        "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+        "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+        "summary": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state de..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

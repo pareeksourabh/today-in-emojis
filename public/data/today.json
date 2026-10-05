@@ -1,41 +1,41 @@
 {
   "date": "2026-10-05",
-  "timestamp": "2026-10-05T00:00:00Z",
+  "timestamp": "2026-10-05T11:18:28Z",
   "emojis": [
     {
-      "char": "🤖",
-      "label": "trump's ai oversight plan",
-      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-      "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow."
-    },
-    {
       "char": "🇧🇷",
-      "label": "brazil election first round results",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
-      "title": "Brazil presidential election 2026: first-round live results",
-      "summary": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race Brazil’s president is directly elected: each voter’s ballot counts equally and there is no electoral college. If no candidate wins..."
+      "label": "brazil election results",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
     },
     {
-      "char": "🏠",
-      "label": "spain's early elections due to crisis",
-      "url": "https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html",
-      "title": "Spain Is to Hold Early Elections After Housing Crisis Roils Government",
-      "summary": "Pedro Sánchez, the Spanish prime minister, had faced rising challenges to his authority amid a migration crisis and several corruption scandals involving his inner circle."
+      "char": "🇫🇷",
+      "label": "france school closures",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+      "title": "France closes up to 500 schools Monday over student protests",
+      "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says."
     },
     {
-      "char": "⚖️",
-      "label": "trial over abuse in care home",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4z93n9n1zo?at_medium=RSS&at_campaign=rss",
-      "title": "Forced to call him 'Dad': Trial over sexual abuse in disabled care home shocks South Korea",
-      "summary": "The BBC spoke to one of three residents at a care home who were sexually assaulted by a staff member."
+      "char": "🇺🇦",
+      "label": "kyiv drone attack",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball."
+    },
+    {
+      "char": "🛢️",
+      "label": "houthis attack on aramco",
+      "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
+      "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
+      "summary": "More than 200 U.S. intelligence and military analysts are in Saudi Arabia helping it provide assistance to its Yemeni allies, current and former U.S. officials say."
     },
     {
       "char": "📰",
-      "label": "journalist faces terrorism charges",
-      "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
-      "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
-      "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
+      "label": "trump human rights fund",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+      "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+      "summary": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state de..."
     }
   ],
   "source": "ai-openai",
