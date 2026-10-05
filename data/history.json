@@ -72907,5 +72907,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-05",
+    "emojis": [
+      {
+        "char": "📚",
+        "label": "turkey bans book by jailed leader",
+        "url": "https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html",
+        "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
+        "summary": "From jail, the former mayor of Istanbul accuses President Recep Tayyip Erdogan of hollowing out Turkey’s democracy to stay in power."
+      },
+      {
+        "char": "🗳️",
+        "label": "flávio bolsonaro wins brazil election",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+        "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
+      },
+      {
+        "char": "⚔️",
+        "label": "saudi arabia's war in yemen explained",
+        "url": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
+        "title": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
+        "summary": "A Saudi-led coalition has announced a military campaign against the Iran-backed Houthi militia in the country, reviving memories of its previous effort."
+      },
+      {
+        "char": "📰",
+        "label": "egyptian journalist faces charges",
+        "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+        "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+        "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
+      },
+      {
+        "char": "🌍",
+        "label": "ebola epidemic in congo worsens",
+        "url": "https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html",
+        "title": "How Congo’s Ebola Epidemic Got So Bad So Quickly",
+        "summary": "What happened in Mangala, where residents were left with little outside support, helps explain how this outbreak became the worst seen in the Democratic Republic of Congo."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
