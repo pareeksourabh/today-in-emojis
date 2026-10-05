@@ -3,39 +3,39 @@
   "timestamp": "2026-10-05T00:00:00Z",
   "emojis": [
     {
-      "char": "✈️",
-      "label": "plane missing off us coast",
-      "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
-      "title": "All six passengers presumed dead after plane went missing off US coast",
-      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data."
+      "char": "🇨🇦",
+      "label": "quebec separatists in power",
+      "url": "https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum",
+      "title": "Quebec poised to elect separatists to power for first time in more than a decade",
+      "summary": "Parti Québécois promises to hold independence referendum in Canada’s French-speaking region by 2028 Voters in Quebec are going to the polls in provincial elections which will probably result in victory for a party that has promised to ho..."
     },
     {
-      "char": "🦴",
-      "label": "ancient kings' sacrifices",
-      "url": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
-      "title": "Skull fractures suggest servants of Egypt’s ancient kings were sacrificed",
-      "summary": "Study of remains taken from royal cemetery at Umm el-Qa’ab appears to confirm early Egyptologist’s theory Court officials and craftspeople serving early Egyptian kings may have been sacrificed when their ruler died, according to research..."
+      "char": "🇯🇵",
+      "label": "us marine arrest in okinawa",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
+      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+      "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore."
     },
     {
-      "char": "🏫",
-      "label": "france closes schools over protests",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
-      "title": "France closes up to 500 schools Monday over student protests",
-      "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says."
-    },
-    {
-      "char": "⚖️",
-      "label": "prince andrew sues uk police",
-      "url": "https://www.nytimes.com/2026/10/05/world/europe/former-prince-andrew-police-lawsuit-epstein-uk-arrest.html",
-      "title": "Former Prince Andrew Sues UK Police After Arrest Linked to Epstein Investigation",
-      "summary": "Andrew Mountbatten-Windsor was arrested this year as part of an investigation into his links with Jeffrey Epstein, the convicted sex offender."
+      "char": "🌾",
+      "label": "ukrainian city starving",
+      "url": "https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html",
+      "title": "Trapped in a Kill Zone, a Ukrainian City Is Beginning to Starve",
+      "summary": "Evacuation is almost impossible and food is running out in Russian-occupied Oleshky, a city menaced by mines and drones."
     },
     {
       "char": "✈️",
-      "label": "us sanctions iran's airlines",
+      "label": "iran's airlines sanctions",
       "url": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html",
       "title": "U.S. Sanctions Aim to ‘Shut Down’ Iran’s Airlines, but This Boeing Plane Is Still Flying",
       "summary": "The Trump administration says all Iranian airlines are being “shut down.” So why is this jumbo jet still flying from Tehran to Southeast Asia?"
+    },
+    {
+      "char": "🕌",
+      "label": "saudi arabia's yemen war",
+      "url": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
+      "title": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
+      "summary": "A Saudi-led coalition has announced a military campaign against the Iran-backed Houthi militia in the country, reviving memories of its previous effort."
     }
   ],
   "source": "ai-openai",
