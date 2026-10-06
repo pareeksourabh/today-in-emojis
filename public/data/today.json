@@ -1,7 +1,28 @@
 {
-  "date": "2026-10-05",
-  "timestamp": "2026-10-05T22:13:38Z",
+  "date": "2026-10-06",
+  "timestamp": "2026-10-06T00:00:00Z",
   "emojis": [
+    {
+      "char": "🏠",
+      "label": "spain pm hopes for housing win",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+      "title": "Spain PM pins hopes on housing crisis to help win snap election",
+      "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid."
+    },
+    {
+      "char": "🦠",
+      "label": "us watches plague researcher death",
+      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+      "title": "US 'watching closely' after plague researcher dies in Russia",
+      "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "far right surge in brazil election",
+      "url": "https://www.theguardian.com/world/2026/oct/05/brazil-election-bolsonaro-lula",
+      "title": "Far right on the march and Lula’s failures: key drivers of Flávio Bolsonaro’s Brazil surge",
+      "summary": "Experts say strength of evangelical church and stubbornness of Lula, 80, also helped propel Jair Bolsonaro’s son to first-round election win On Sunday night, as the scale of the far-right triumph in Brazil sank in, an adapted football ch..."
+    },
     {
       "char": "📚",
       "label": "turkey bans book by jailed leader",
@@ -10,32 +31,11 @@
       "summary": "From jail, the former mayor of Istanbul accuses President Recep Tayyip Erdogan of hollowing out Turkey’s democracy to stay in power."
     },
     {
-      "char": "🗳️",
-      "label": "flávio bolsonaro wins brazil election",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
-    },
-    {
       "char": "⚔️",
       "label": "saudi arabia's war in yemen explained",
       "url": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
       "title": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
       "summary": "A Saudi-led coalition has announced a military campaign against the Iran-backed Houthi militia in the country, reviving memories of its previous effort."
-    },
-    {
-      "char": "📰",
-      "label": "egyptian journalist faces charges",
-      "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
-      "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
-      "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
-    },
-    {
-      "char": "🌍",
-      "label": "ebola epidemic in congo worsens",
-      "url": "https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html",
-      "title": "How Congo’s Ebola Epidemic Got So Bad So Quickly",
-      "summary": "What happened in Mangala, where residents were left with little outside support, helps explain how this outbreak became the worst seen in the Democratic Republic of Congo."
     }
   ],
   "source": "ai-openai",
