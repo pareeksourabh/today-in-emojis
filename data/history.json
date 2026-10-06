@@ -73127,5 +73127,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-06",
+    "emojis": [
+      {
+        "char": "🇫🇮",
+        "label": "finland halts google data centers",
+        "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+        "title": "Finland orders halt to work on two Google data centres",
+        "summary": "The order affecting two planned data centres follows concerns over forest clearance."
+      },
+      {
+        "char": "🕵️‍♂",
+        "label": "german spy chief arrested",
+        "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+        "title": "Former German spy chief arrested for espionage and treason",
+        "summary": "August Hanning is accused of obtaining classified information for a foreign power."
+      },
+      {
+        "char": "🦠",
+        "label": "kenya records first ebola case",
+        "url": "https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html",
+        "title": "Kenya Records Ebola Case for First Time",
+        "summary": "The authorities said that the virus had been diagnosed in a man arriving from the Democratic Republic of Congo and that they were taking measures to prevent any spread."
+      },
+      {
+        "char": "🚢",
+        "label": "drones hit ships in black sea",
+        "url": "https://www.nytimes.com/2026/10/06/world/europe/bulgaria-drones-black-sea.html",
+        "title": "Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says",
+        "summary": "A rescue effort was underway, Prime Minister Rumen Radev said, after one of the two ships sank. It was not immediately clear where the drones originated."
+      },
+      {
+        "char": "🇦🇷",
+        "label": "argentina stops falklands oilfields",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/06/argentina-to-stop-falkland-islands-exploiting-offshore-oilfields-sovereignty",
+        "title": "Argentina will stop Falklands exploiting offshore oilfields, foreign minister says",
+        "summary": "Pablo Quirno says move is part of Argentinian government’s strategy to peacefully assert sovereignty over the islands Argentina’s foreign minister has told an audience that included the British ambassador that his government would stop t..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
