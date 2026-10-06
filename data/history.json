@@ -72995,5 +72995,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-06",
+    "emojis": [
+      {
+        "char": "🗳️",
+        "label": "india cuts voter rolls amid protests",
+        "url": "https://www.nytimes.com/2026/10/06/world/asia/india-cut-130-million-from-voter-roll-fueling-protests-against-modi.html",
+        "title": "India Cut 130 Million From Voter Roll, Fueling Protests Against Modi",
+        "summary": "Public anger is growing over an exercise that critics say undermines the world’s largest democracy, particularly disenfranchising Muslims under the Hindu nationalist government."
+      },
+      {
+        "char": "🏠",
+        "label": "spain's housing crisis affects elections",
+        "url": "https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html",
+        "title": "An 87-Year-Old’s Eviction Dragged Down Spain’s Leader. Will It Also Save Him?",
+        "summary": "The eviction of the woman in Madrid last month helped unravel Pedro Sánchez’s government. It also gave him an election platform."
+      },
+      {
+        "char": "🦠",
+        "label": "kenya reports first ebola case",
+        "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+        "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+        "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, after a Kenyan man who had been living in the De..."
+      },
+      {
+        "char": "⚖️",
+        "label": "egyptian journalist faces terrorism charges",
+        "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+        "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+        "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
+      },
+      {
+        "char": "📉",
+        "label": "south korea investigates bank hacks",
+        "url": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
+        "title": "South Korea Investigates Possible Use of A.I. in Hackings on Its Banks",
+        "summary": "The president said there were signs that such models were used in recent attacks on several banks involving customer data. Police are investigating."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
