@@ -73083,5 +73083,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-06",
+    "emojis": [
+      {
+        "char": "🇧🇷",
+        "label": "brazil's bolsonaro election win",
+        "url": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty",
+        "title": "Flávio’s surprise first-round election win highlights rapid rise of Brazil’s House of Bolsonaro",
+        "summary": "Four members of disgraced ex-president Jair Bolsonaro’s family have been elected to office, most notably his wife and son Flávio, who won the first round of voting to be Brazil’s new president The weekend’s elections in Brazil not only p..."
+      },
+      {
+        "char": "📰",
+        "label": "journalist faces terrorism charges",
+        "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+        "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+        "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
+      },
+      {
+        "char": "🕵️‍♂",
+        "label": "german spy chief arrested",
+        "url": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-hanning-arrested-espionage.html",
+        "title": "German Officials Arrest Former Spy Chief on Espionage Charges",
+        "summary": "August Hanning is accused of helping foreign governments. His arrest shook the German political world and had roots in a steakhouse-heiress kidnapping plot."
+      },
+      {
+        "char": "⚖️",
+        "label": "outcry over police bill in trinidad",
+        "url": "https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom",
+        "title": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
+        "summary": "Journalists are calling for an urgent amendment to the Special Operations Bill, which boosts police search and seizure powers Journalists in Trinidad and Tobago have called for an urgent amendment to a sweeping new bill that boosts polic..."
+      },
+      {
+        "char": "🦠",
+        "label": "kenya records first ebola case",
+        "url": "https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html",
+        "title": "Kenya Records Ebola Case for First Time",
+        "summary": "The authorities said that the virus had been diagnosed in a man arriving from the Democratic Republic of Congo and that they were taking measures to prevent any spread."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
