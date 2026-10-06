@@ -1,34 +1,118 @@
 {
   "date": "2026-10-06",
-  "timestamp": "2026-10-06T18:08:19Z",
+  "timestamp": "2026-10-06T00:00:00Z",
   "emojis": [
     {
+      "char": "🏠",
+      "label": "spain pm hopes for housing win",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+      "title": "Spain PM pins hopes on housing crisis to help win snap election",
+      "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid."
+    },
+    {
+      "char": "🦠",
+      "label": "us watches plague researcher death",
+      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+      "title": "US 'watching closely' after plague researcher dies in Russia",
+      "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia."
+    },
+    {
       "char": "🇧🇷",
-      "label": "brazil's bolsonaro election win",
-      "url": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty",
-      "title": "Flávio’s surprise first-round election win highlights rapid rise of Brazil’s House of Bolsonaro",
-      "summary": "Four members of disgraced ex-president Jair Bolsonaro’s family have been elected to office, most notably his wife and son Flávio, who won the first round of voting to be Brazil’s new president The weekend’s elections in Brazil not only p..."
+      "label": "far right surge in brazil election",
+      "url": "https://www.theguardian.com/world/2026/oct/05/brazil-election-bolsonaro-lula",
+      "title": "Far right on the march and Lula’s failures: key drivers of Flávio Bolsonaro’s Brazil surge",
+      "summary": "Experts say strength of evangelical church and stubbornness of Lula, 80, also helped propel Jair Bolsonaro’s son to first-round election win On Sunday night, as the scale of the far-right triumph in Brazil sank in, an adapted football ch..."
+    },
+    {
+      "char": "📚",
+      "label": "turkey bans book by jailed leader",
+      "url": "https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html",
+      "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
+      "summary": "From jail, the former mayor of Istanbul accuses President Recep Tayyip Erdogan of hollowing out Turkey’s democracy to stay in power."
+    },
+    {
+      "char": "⚔️",
+      "label": "saudi arabia's war in yemen explained",
+      "url": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
+      "title": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
+      "summary": "A Saudi-led coalition has announced a military campaign against the Iran-backed Houthi militia in the country, reviving memories of its previous effort."
+    },
+    {
+      "char": "📞",
+      "label": "pay phone gains heritage status",
+      "url": "https://www.nytimes.com/2026/10/05/world/australia/narooma-pay-phone-heritage-listing.html",
+      "title": "Pay Phone, a Lifeline During 2019 Australia Wildfires, Gains Heritage Status",
+      "summary": "Hundreds lined up to call loved ones as the internet went down and the flames closed in on the Australian town of Narooma in 2019."
+    },
+    {
+      "char": "📚",
+      "label": "turkey bans book by jailed leader",
+      "url": "https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html",
+      "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
+      "summary": "From jail, the former mayor of Istanbul accuses President Recep Tayyip Erdogan of hollowing out Turkey’s democracy to stay in power."
+    },
+    {
+      "char": "🇱🇾",
+      "label": "libya talks disrupted by drone attacks",
+      "url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
+      "title": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
+      "summary": "Western Libya’s GNU say working with Saddam Haftar ‘impossible’ as US-backed merger plan breaks down Allegations that the son of the Libyan warlord Khalifa Haftar oversaw a “terror cell” that launched drone attacks on fuel storage facili..."
     },
     {
       "char": "📰",
-      "label": "journalist faces terrorism charges",
+      "label": "egyptian journalist faces terrorism charges",
       "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
       "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
       "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
     },
     {
-      "char": "🕵️‍♂",
-      "label": "german spy chief arrested",
-      "url": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-hanning-arrested-espionage.html",
-      "title": "German Officials Arrest Former Spy Chief on Espionage Charges",
-      "summary": "August Hanning is accused of helping foreign governments. His arrest shook the German political world and had roots in a steakhouse-heiress kidnapping plot."
+      "char": "🍞",
+      "label": "ukrainian city begins to starve",
+      "url": "https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html",
+      "title": "Trapped in a Kill Zone, a Ukrainian City Is Beginning to Starve",
+      "summary": "Evacuation is almost impossible and food is running out in Russian-occupied Oleshky, a city menaced by mines and drones."
     },
     {
-      "char": "⚖️",
-      "label": "outcry over police bill in trinidad",
-      "url": "https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom",
-      "title": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
-      "summary": "Journalists are calling for an urgent amendment to the Special Operations Bill, which boosts police search and seizure powers Journalists in Trinidad and Tobago have called for an urgent amendment to a sweeping new bill that boosts polic..."
+      "char": "🎯",
+      "label": "fort hood shooter execution",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+      "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base."
+    },
+    {
+      "char": "🇮🇳",
+      "label": "india voter roll protests",
+      "url": "https://www.nytimes.com/2026/10/06/world/asia/india-cut-130-million-from-voter-roll-fueling-protests-against-modi.html",
+      "title": "India Cut 130 Million From Voter Roll, Fueling Protests Against Modi",
+      "summary": "Public anger is growing over an exercise that critics say undermines the world’s largest democracy, particularly disenfranchising Muslims under the Hindu nationalist government."
+    },
+    {
+      "char": "🦠",
+      "label": "russia plague rumors",
+      "url": "https://www.nytimes.com/2026/10/05/world/europe/russia-plague-siberia.html",
+      "title": "Russia Moves to Tamp Down Rumors About Plague Outbreak in Siberia",
+      "summary": "The country’s consumer watchdog has said only that “an employee of an anti-plague institute in the Irkutsk Region” contracted pneumonia."
+    },
+    {
+      "char": "⚔️",
+      "label": "tigray rebels recruiting boys",
+      "url": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
+      "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
+      "summary": "Civilians try to flee as men and boys rounded up on streets by new alliance as Ethiopia conflict erupts again As renewed fighting has threatened a fresh humanitarian crisis in the northern region of Ethiopia, reports are emerging that a..."
+    },
+    {
+      "char": "📰",
+      "label": "egyptian journalist detained",
+      "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+      "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+      "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
+    },
+    {
+      "char": "🗳️",
+      "label": "india cuts voter rolls, protests grow",
+      "url": "https://www.nytimes.com/2026/10/06/world/asia/india-cut-130-million-from-voter-roll-fueling-protests-against-modi.html",
+      "title": "India Cut 130 Million From Voter Roll, Fueling Protests Against Modi",
+      "summary": "Public anger is growing over an exercise that critics say undermines the world’s largest democracy, particularly disenfranchising Muslims under the Hindu nationalist government."
     },
     {
       "char": "🦠",
@@ -36,8 +120,85 @@
       "url": "https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html",
       "title": "Kenya Records Ebola Case for First Time",
       "summary": "The authorities said that the virus had been diagnosed in a man arriving from the Democratic Republic of Congo and that they were taking measures to prevent any spread."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "quebec set to elect separatists",
+      "url": "https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum",
+      "title": "Quebec poised to elect separatists to power for first time in more than a decade",
+      "summary": "Parti Québécois promises to hold independence referendum in Canada’s French-speaking region by 2028 Voters in Quebec are going to the polls in provincial elections which will probably result in victory for a party that has promised to ho..."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "flávio bolsonaro's election victory",
+      "url": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
+      "title": "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory",
+      "summary": "Progressive voters and supporters of incumbent president Luiz Inácio Lula da Silva left reeling after far-right surge Flávio Bolsonaro is in pole position to win Brazil’s presidential election, after a far-right tsunami propelled him to..."
+    },
+    {
+      "char": "📰",
+      "label": "egyptian journalist faces charges",
+      "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+      "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+      "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
+    },
+    {
+      "char": "🦠",
+      "label": "kenya's first ebola case confirmed",
+      "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+      "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+      "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly throu..."
+    },
+    {
+      "char": "📰",
+      "label": "egyptian journalist faces charges",
+      "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+      "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+      "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
+    },
+    {
+      "char": "🇩🇪",
+      "label": "german spy chief arrested for espionage",
+      "url": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-hanning-arrested-espionage.html",
+      "title": "German Officials Arrest Former Spy Chief on Espionage Charges",
+      "summary": "August Hanning is accused of helping foreign governments. His arrest shook the German political world and had roots in a steakhouse-heiress kidnapping plot."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "flávio bolsonaro's election surge",
+      "url": "https://www.theguardian.com/world/2026/oct/05/brazil-election-bolsonaro-lula",
+      "title": "Far right on the march and Lula’s failures: key drivers of Flávio Bolsonaro’s Brazil surge",
+      "summary": "Experts say strength of evangelical church and stubbornness of Lula, 80, also helped propel Jair Bolsonaro’s son to first-round election win On Sunday night, as the scale of the far-right triumph in Brazil sank in, an adapted football ch..."
+    },
+    {
+      "char": "🚁",
+      "label": "us sends drones to hunt cartels",
+      "url": "https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html",
+      "title": "U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels",
+      "summary": "MQ-9 Reaper drones — known for high-profile deadly strikes — have been shifted from Africa to Colombia and Ecuador, U.S. officials said."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "The news reflects a day filled with anxiety-inducing events, including a potential housing crisis in Spain, health scares in Kenya, and ongoing conflicts in Libya and Ethiopia, prompting a sense of unease.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
