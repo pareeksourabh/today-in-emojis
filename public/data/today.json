@@ -1,41 +1,41 @@
 {
   "date": "2026-10-06",
-  "timestamp": "2026-10-06T00:00:00Z",
+  "timestamp": "2026-10-06T14:52:01Z",
   "emojis": [
     {
-      "char": "🗳️",
-      "label": "india cuts voter rolls, protests grow",
-      "url": "https://www.nytimes.com/2026/10/06/world/asia/india-cut-130-million-from-voter-roll-fueling-protests-against-modi.html",
-      "title": "India Cut 130 Million From Voter Roll, Fueling Protests Against Modi",
-      "summary": "Public anger is growing over an exercise that critics say undermines the world’s largest democracy, particularly disenfranchising Muslims under the Hindu nationalist government."
+      "char": "🌊",
+      "label": "yemeni military secures red sea",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait."
+    },
+    {
+      "char": "🇮🇳",
+      "label": "indian opposition protests election chief",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "title": "Indian opposition MPs detained in protest against election chief",
+      "summary": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections."
     },
     {
       "char": "🦠",
-      "label": "kenya records first ebola case",
-      "url": "https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html",
-      "title": "Kenya Records Ebola Case for First Time",
-      "summary": "The authorities said that the virus had been diagnosed in a man arriving from the Democratic Republic of Congo and that they were taking measures to prevent any spread."
+      "label": "kenya confirms first ebola death",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+      "title": "Kenya confirms its first Ebola death as outbreak spreads",
+      "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year."
     },
     {
-      "char": "🇨🇦",
-      "label": "quebec set to elect separatists",
+      "char": "🕵️‍♂",
+      "label": "former german spy chief arrested",
+      "url": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-hanning-arrested-espionage.html",
+      "title": "German Officials Arrest Former Spy Chief on Espionage Charges",
+      "summary": "August Hanning is accused of helping foreign governments. His arrest shook the German political world and had roots in a steakhouse-heiress kidnapping plot."
+    },
+    {
+      "char": "🏛️",
+      "label": "quebec separatists poised for power",
       "url": "https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum",
       "title": "Quebec poised to elect separatists to power for first time in more than a decade",
       "summary": "Parti Québécois promises to hold independence referendum in Canada’s French-speaking region by 2028 Voters in Quebec are going to the polls in provincial elections which will probably result in victory for a party that has promised to ho..."
-    },
-    {
-      "char": "🇧🇷",
-      "label": "flávio bolsonaro's election victory",
-      "url": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
-      "title": "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory",
-      "summary": "Progressive voters and supporters of incumbent president Luiz Inácio Lula da Silva left reeling after far-right surge Flávio Bolsonaro is in pole position to win Brazil’s presidential election, after a far-right tsunami propelled him to..."
-    },
-    {
-      "char": "📰",
-      "label": "egyptian journalist faces charges",
-      "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
-      "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
-      "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
     }
   ],
   "source": "ai-openai",

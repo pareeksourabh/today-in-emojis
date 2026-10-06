@@ -73039,5 +73039,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-06",
+    "emojis": [
+      {
+        "char": "🌊",
+        "label": "yemeni military secures red sea",
+        "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+        "title": "Yemeni military says it has 'secured' Red Sea waterway",
+        "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait."
+      },
+      {
+        "char": "🇮🇳",
+        "label": "indian opposition protests election chief",
+        "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+        "title": "Indian opposition MPs detained in protest against election chief",
+        "summary": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections."
+      },
+      {
+        "char": "🦠",
+        "label": "kenya confirms first ebola death",
+        "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+        "title": "Kenya confirms its first Ebola death as outbreak spreads",
+        "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year."
+      },
+      {
+        "char": "🕵️‍♂",
+        "label": "former german spy chief arrested",
+        "url": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-hanning-arrested-espionage.html",
+        "title": "German Officials Arrest Former Spy Chief on Espionage Charges",
+        "summary": "August Hanning is accused of helping foreign governments. His arrest shook the German political world and had roots in a steakhouse-heiress kidnapping plot."
+      },
+      {
+        "char": "🏛️",
+        "label": "quebec separatists poised for power",
+        "url": "https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum",
+        "title": "Quebec poised to elect separatists to power for first time in more than a decade",
+        "summary": "Parti Québécois promises to hold independence referendum in Canada’s French-speaking region by 2028 Voters in Quebec are going to the polls in provincial elections which will probably result in victory for a party that has promised to ho..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
