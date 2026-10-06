@@ -1,64 +1,43 @@
 {
   "date": "2026-10-06",
-  "timestamp": "2026-10-06T00:00:00Z",
+  "timestamp": "2026-10-06T03:59:45Z",
   "emojis": [
     {
-      "char": "🏠",
-      "label": "spain pm hopes for housing win",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
-      "title": "Spain PM pins hopes on housing crisis to help win snap election",
-      "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid."
+      "char": "🎸",
+      "label": "sass jordan dies at 65",
+      "url": "https://www.theguardian.com/music/2026/oct/05/sass-jordan-canadian-rock-singer-songwriter-dies-aged-65",
+      "title": "Sass Jordan, Canadian rock singer-songwriter, dies aged 65",
+      "summary": "Musician who had hit albums with Racine and Rats later became a judge on six seasons of Canadian Idol Sass Jordan, the singer-songwriter who became a significant success in Canada’s rock scene in the 1990s before starring as a judge on C..."
     },
     {
-      "char": "🦠",
-      "label": "us watches plague researcher death",
-      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
-      "title": "US 'watching closely' after plague researcher dies in Russia",
-      "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia."
+      "char": "📞",
+      "label": "pay phone gains heritage status",
+      "url": "https://www.nytimes.com/2026/10/05/world/australia/narooma-pay-phone-heritage-listing.html",
+      "title": "Pay Phone, a Lifeline During 2019 Australia Wildfires, Gains Heritage Status",
+      "summary": "Hundreds lined up to call loved ones as the internet went down and the flames closed in on the Australian town of Narooma in 2019."
     },
     {
-      "char": "🇧🇷",
-      "label": "far right surge in brazil election",
-      "url": "https://www.theguardian.com/world/2026/oct/05/brazil-election-bolsonaro-lula",
-      "title": "Far right on the march and Lula’s failures: key drivers of Flávio Bolsonaro’s Brazil surge",
-      "summary": "Experts say strength of evangelical church and stubbornness of Lula, 80, also helped propel Jair Bolsonaro’s son to first-round election win On Sunday night, as the scale of the far-right triumph in Brazil sank in, an adapted football ch..."
-    },
-    {
-      "char": "📚",
-      "label": "turkey bans book by jailed leader",
-      "url": "https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html",
-      "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
-      "summary": "From jail, the former mayor of Istanbul accuses President Recep Tayyip Erdogan of hollowing out Turkey’s democracy to stay in power."
+      "char": "🍞",
+      "label": "ukrainian city begins to starve",
+      "url": "https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html",
+      "title": "Trapped in a Kill Zone, a Ukrainian City Is Beginning to Starve",
+      "summary": "Evacuation is almost impossible and food is running out in Russian-occupied Oleshky, a city menaced by mines and drones."
     },
     {
       "char": "⚔️",
-      "label": "saudi arabia's war in yemen explained",
+      "label": "saudi arabia's quagmire in yemen",
       "url": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
       "title": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
       "summary": "A Saudi-led coalition has announced a military campaign against the Iran-backed Houthi militia in the country, reviving memories of its previous effort."
+    },
+    {
+      "char": "📰",
+      "label": "journalist faces terrorism charges",
+      "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+      "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+      "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "The news reflects a sense of frustration and concern regarding political turmoil, housing crises, and ongoing conflicts, highlighting the struggles in various countries which evoke a somber mood.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
