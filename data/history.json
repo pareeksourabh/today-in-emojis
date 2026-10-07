@@ -73171,5 +73171,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-07",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "lawyer calls for prosecutor removal",
+        "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+        "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+        "summary": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her."
+      },
+      {
+        "char": "🖥️",
+        "label": "finland halts google data centres",
+        "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+        "title": "Finland orders halt to work on two Google data centres",
+        "summary": "The order affecting two planned data centres follows concerns over forest clearance."
+      },
+      {
+        "char": "🗳️",
+        "label": "india cuts 130 million from voter roll",
+        "url": "https://www.nytimes.com/2026/10/06/world/asia/india-protests-voter-list-changes.html",
+        "title": "India Cut 130 Million From Voter Roll, Fueling Protests Against Modi",
+        "summary": "Public anger is growing over an exercise that critics say undermines the world’s largest democracy, particularly disenfranchising Muslims under the Hindu nationalist government."
+      },
+      {
+        "char": "📰",
+        "label": "egyptian journalist faces terrorism charges",
+        "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+        "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+        "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
+      },
+      {
+        "char": "🦠",
+        "label": "kenya records first ebola case",
+        "url": "https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html",
+        "title": "Kenya Records Ebola Case for First Time",
+        "summary": "The authorities said that the virus had been diagnosed in a man arriving from the Democratic Republic of Congo and that they were taking measures to prevent any spread."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
