@@ -1,13 +1,20 @@
 {
   "date": "2026-10-07",
-  "timestamp": "2026-10-07T00:00:00Z",
+  "timestamp": "2026-10-07T10:56:42Z",
   "emojis": [
     {
-      "char": "🏗️",
-      "label": "rebuilding after hamas attacks",
-      "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
-      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-      "summary": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there."
+      "char": "🎭",
+      "label": "eva marie saint dies at 102",
+      "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
+      "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
+      "summary": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest."
+    },
+    {
+      "char": "📰",
+      "label": "egyptian journalist faces charges",
+      "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+      "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+      "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
     },
     {
       "char": "🦠",
@@ -17,25 +24,18 @@
       "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly throu..."
     },
     {
-      "char": "🔍",
-      "label": "skull fractures suggest ancient sacrifices",
-      "url": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
-      "title": "Skull fractures suggest servants of Egypt’s ancient kings were sacrificed",
-      "summary": "Study of remains taken from royal cemetery at Umm el-Qa’ab appears to confirm early Egyptologist’s theory Court officials and craftspeople serving early Egyptian kings may have been sacrificed when their ruler died, according to research..."
-    },
-    {
-      "char": "📰",
-      "label": "outcry over police bill in trinidad",
+      "char": "⚖️",
+      "label": "trinidad police bill sparks outcry",
       "url": "https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom",
       "title": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
       "summary": "Journalists call for urgent amendment to special operations bill, which increases police search and seizure powers Journalists in Trinidad and Tobago have called for an urgent amendment to a sweeping new bill that increases police powers..."
     },
     {
-      "char": "🦅",
-      "label": "drones hit ships off bulgaria",
-      "url": "https://www.nytimes.com/2026/10/06/world/europe/bulgaria-drones-black-sea.html",
-      "title": "Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says",
-      "summary": "A rescue effort was underway, Prime Minister Rumen Radev said, after one of the two ships sank. It was not immediately clear where the drones originated."
+      "char": "🔬",
+      "label": "nobel prize for life's asymmetry",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "summary": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry."
     }
   ],
   "source": "ai-openai",
