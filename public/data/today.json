@@ -1,41 +1,41 @@
 {
   "date": "2026-10-07",
-  "timestamp": "2026-10-07T03:27:27Z",
+  "timestamp": "2026-10-07T00:00:00Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "lawyer calls for prosecutor removal",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-      "summary": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her."
+      "char": "🇫🇷",
+      "label": "school protests in france",
+      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "summary": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression."
     },
     {
-      "char": "🖥️",
-      "label": "finland halts google data centres",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
-      "title": "Finland orders halt to work on two Google data centres",
-      "summary": "The order affecting two planned data centres follows concerns over forest clearance."
+      "char": "🚢",
+      "label": "ship sinks after drone attack",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+      "title": "Ship sinks and crew missing after Black Sea drone attack",
+      "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine."
     },
     {
-      "char": "🗳️",
-      "label": "india cuts 130 million from voter roll",
-      "url": "https://www.nytimes.com/2026/10/06/world/asia/india-protests-voter-list-changes.html",
-      "title": "India Cut 130 Million From Voter Roll, Fueling Protests Against Modi",
-      "summary": "Public anger is growing over an exercise that critics say undermines the world’s largest democracy, particularly disenfranchising Muslims under the Hindu nationalist government."
-    },
-    {
-      "char": "📰",
-      "label": "egyptian journalist faces terrorism charges",
-      "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
-      "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
-      "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
+      "char": "🕵️‍♂",
+      "label": "former spy chief arrested",
+      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "title": "Former German spy chief arrested for espionage and treason",
+      "summary": "August Hanning is accused of obtaining classified information for a foreign power."
     },
     {
       "char": "🦠",
-      "label": "kenya records first ebola case",
-      "url": "https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html",
-      "title": "Kenya Records Ebola Case for First Time",
-      "summary": "The authorities said that the virus had been diagnosed in a man arriving from the Democratic Republic of Congo and that they were taking measures to prevent any spread."
+      "label": "kenya confirms first ebola case",
+      "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+      "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+      "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly throu..."
+    },
+    {
+      "char": "🗳️",
+      "label": "india cuts voter rolls, protests erupt",
+      "url": "https://www.nytimes.com/2026/10/06/world/asia/india-protests-voter-list-changes.html",
+      "title": "India Cut 130 Million From Voter Roll, Fueling Protests Against Modi",
+      "summary": "Public anger is growing over an exercise that critics say undermines the world’s largest democracy, particularly disenfranchising Muslims under the Hindu nationalist government."
     }
   ],
   "source": "ai-openai",
