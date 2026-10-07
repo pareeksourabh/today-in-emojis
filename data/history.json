@@ -73259,5 +73259,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-07",
+    "emojis": [
+      {
+        "char": "🍺",
+        "label": "japan beer giants raided",
+        "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+        "title": "Japan beer giants raided over alleged price-fixing cartel",
+        "summary": "Asahi, Kirin and Suntory confirmed their premises were searched by Japanese competition authorities."
+      },
+      {
+        "char": "🎭",
+        "label": "eva marie saint dies at 102",
+        "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
+        "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
+        "summary": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest."
+      },
+      {
+        "char": "🦠",
+        "label": "kenya's first ebola case confirmed",
+        "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+        "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+        "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly throu..."
+      },
+      {
+        "char": "⚖️",
+        "label": "mass trials in el salvador",
+        "url": "https://www.nytimes.com/2026/10/07/world/americas/el-salvador-mass-trials-bukele.html",
+        "title": "Mass Trials Put Hundreds in One Dock in El Salvador",
+        "summary": "Lawyers warn that the mass trials of people imprisoned during President Nayib Bukele’s gang crackdown are marred by vague evidence and restrictions on a proper defense."
+      },
+      {
+        "char": "📚",
+        "label": "french students protest school issues",
+        "url": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
+        "title": "The School Near Paris That Shows Why French Students Are Protesting",
+        "summary": "Angered by poor classroom conditions, students at Paul Éluard High School in a suburb of the capital were among the first to blockade their campus during an ongoing round of unrest."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
