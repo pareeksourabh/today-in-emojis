@@ -73303,5 +73303,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-07",
+    "emojis": [
+      {
+        "char": "📰",
+        "label": "twin brothers adjust to freedom",
+        "url": "https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html",
+        "title": "For Twin Brothers Abducted in the Oct. 7 Attacks, Adjusting to Freedom Is a New Challenge",
+        "summary": "Gali and Ziv Berman were taken hostage when their kibbutz was attacked on Oct. 7, 2023. They were freed a year ago but are still adjusting to freedom and trying to rebuild their lives."
+      },
+      {
+        "char": "🔬",
+        "label": "nobel for life's asymmetry mystery",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+        "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+        "summary": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry."
+      },
+      {
+        "char": "⚔️",
+        "label": "ukraine claws back land in donbas",
+        "url": "https://www.nytimes.com/2026/10/07/world/europe/ukraine-battlefield-operation-vivaldi.html",
+        "title": "Ukraine Claws Back Land in the Donbas, Thwarting a Russian Push",
+        "summary": "Moscow says its capture of the region is inevitable. But Kyiv has so far stymied Russian efforts to encircle Ukrainian “fortress belt” cities."
+      },
+      {
+        "char": "📰",
+        "label": "journalist faces terrorism charges",
+        "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+        "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+        "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
+      },
+      {
+        "char": "🌍",
+        "label": "kenya confirms first ebola case",
+        "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+        "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+        "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly throu..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
