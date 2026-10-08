@@ -73523,5 +73523,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-08",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "kenya's first ebola case confirmed",
+        "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+        "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+        "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly throu..."
+      },
+      {
+        "char": "👑",
+        "label": "prince andrew search warrants ruled unlawful",
+        "url": "https://www.nytimes.com/2026/10/08/world/europe/prince-andrew-search-warrants-police-uk.html",
+        "title": "Warrants to Search Former Prince Andrew’s Properties Were Unlawful, Court Says",
+        "summary": "A judge in London said that a “significant error” had been made in the granting of search warrants in an investigation into Andrew Mountbatten-Windsor."
+      },
+      {
+        "char": "🎓",
+        "label": "student protests escalate in france",
+        "url": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests.html",
+        "title": "The Wave of Student Protests Roiling France",
+        "summary": "Anger about classroom overcrowding, teacher shortages and broken-down buildings has boiled over in recent weeks, and threatens to coalesce into broader grievances in a heated political season."
+      },
+      {
+        "char": "✈️",
+        "label": "ethiopia attacks eritrean troops with drones",
+        "url": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
+        "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
+        "summary": "Government forces’ attack raises risk of internal conflict in Ethiopia that could trigger regional war Eritrean troops who crossed into Ethiopia’s Tigray region have come under drone attack from government forces, raising the risk that r..."
+      },
+      {
+        "char": "🐢",
+        "label": "giant tortoise population hits record high",
+        "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+        "title": "Seychelles giant tortoise numbers hit record 180,000 in conservation triumph",
+        "summary": "Free-roaming Aldabra population thrives on Indian Ocean atoll due to decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has revealed that the once endangered species is thriving. A popu..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
