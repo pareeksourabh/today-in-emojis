@@ -1,27 +1,34 @@
 {
-  "date": "2026-10-07",
-  "timestamp": "2026-10-07T20:53:24Z",
+  "date": "2026-10-08",
+  "timestamp": "2026-10-08T00:00:00Z",
   "emojis": [
     {
-      "char": "🕊️",
-      "label": "twin brothers adjust to freedom",
-      "url": "https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html",
-      "title": "For Twin Brothers Abducted in the Oct. 7 Attacks, Adjusting to Freedom Is a New Challenge",
-      "summary": "Gali and Ziv Berman were taken hostage when their kibbutz was attacked on Oct. 7, 2023. They were freed a year ago but are still adjusting to freedom and trying to rebuild their lives."
+      "char": "🇫🇷",
+      "label": "france halts stun grenades after protests",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers."
     },
     {
-      "char": "🏫",
-      "label": "french students protest education issues",
-      "url": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
-      "title": "The School Near Paris That Shows Why French Students Are Protesting",
-      "summary": "Angered by poor classroom conditions, students at Paul Éluard High School in a suburb of the capital were among the first to blockade their campus during an ongoing round of unrest."
+      "char": "🇧🇷",
+      "label": "bolsonaro vows to re-democratise brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election",
+      "title": "‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil",
+      "summary": "After a surprise first-round victory, critics suggest son of disgraced ex-president could seek to continue his father’s authoritarian project Flávio’s surprise first-round win highlights rapid rise of Brazil’s House of Bolsonaro Flávio B..."
     },
     {
-      "char": "🚨",
-      "label": "man poses as ice agent in miami",
-      "url": "https://www.nytimes.com/2026/10/07/us/miami-ice-agent-brazil-election.html",
-      "title": "Man Posing as ICE Agent at Miami Polling Site Faces Felony Charges",
-      "summary": "Danilo Alves Silva wore an Immigration and Customs Enforcement costume from Amazon at a polling location for the Brazilian presidential election."
+      "char": "🇬🇧",
+      "label": "kemi badenoch aims to reboot conservatives",
+      "url": "https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html",
+      "title": "The Fight for Britain’s Right: Can Kemi Badenoch Reboot the Conservatives?",
+      "summary": "Attendees at the party’s annual conference have been buoyed: both by leader Kemi Badenoch’s rising poll ratings and by a mock Bayeux Tapestry. But the challenge from Reform U.K. remains."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "canada suspends assisted dying for mental health",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely."
     },
     {
       "char": "🦠",
@@ -29,36 +36,8 @@
       "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
       "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
       "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly throu..."
-    },
-    {
-      "char": "⚖️",
-      "label": "canada halts assisted dying expansion",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "Today's news reflects a mix of ongoing struggles and emerging crises, from the challenges faced by freed hostages to new health threats like Ebola. There's a palpable sense of unease about the state of affairs.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
