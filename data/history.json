@@ -73435,5 +73435,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-08",
+    "emojis": [
+      {
+        "char": "🔫",
+        "label": "canada school shooting arrest",
+        "url": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington",
+        "title": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
+        "summary": "Justice department detained James Codey Bryant and allege he offered ‘technical advice’ to primary suspect A surprise suspected accomplice has been arrested in connection with a mass school shooting in Canada that was made notorious afte..."
+      },
+      {
+        "char": "⚔️",
+        "label": "tigray rebels recruiting boys",
+        "url": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
+        "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
+        "summary": "Civilians try to flee as men and boys rounded up on streets by new alliance as Ethiopia conflict erupts again As renewed fighting has threatened a fresh humanitarian crisis in the northern region of Ethiopia, reports are emerging that a..."
+      },
+      {
+        "char": "🦠",
+        "label": "kenya first ebola case",
+        "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+        "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+        "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly throu..."
+      },
+      {
+        "char": "✈️",
+        "label": "somali boy surgery funded",
+        "url": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
+        "title": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
+        "summary": "After Guardian investigation uncovered drone strike that killed 12 civilians and injured many more, seven-year-old Abdiqadir Salah underwent vital operation in Mogadishu On the rickshaw ride to the hospital, Marian Haji Abdi Guled felt a..."
+      },
+      {
+        "char": "📰",
+        "label": "egyptian journalist detained",
+        "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+        "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+        "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rig..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
