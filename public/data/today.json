@@ -1,27 +1,34 @@
 {
   "date": "2026-10-09",
-  "timestamp": "2026-10-09T03:47:29Z",
+  "timestamp": "2026-10-09T00:00:00Z",
   "emojis": [
     {
-      "char": "🏗️",
-      "label": "china builds military base in laos",
-      "url": "https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html",
-      "title": "China Expands Its Military Reach by Building a Base in Laos",
-      "summary": "The new runway in Ban Keun is currently used by only small jets. Neighboring nations are watching warily to see if Beijing expands it for larger aircraft."
+      "char": "🏠",
+      "label": "spain housing crisis protests",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election."
     },
     {
       "char": "🦠",
-      "label": "russia plague outbreak fears",
-      "url": "https://www.nytimes.com/2026/10/08/world/europe/russia-plague-outbreak.html",
-      "title": "Russia’s Silence on Possible Plague Outbreak Stokes Fears of a Cover-Up",
-      "summary": "As rumors spread about a possible plague outbreak in Siberia, the Kremlin turned to a familiar playbook: offering little information about potential bad news."
+      "label": "kenya's first ebola case",
+      "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+      "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+      "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly throu..."
     },
     {
-      "char": "✈️",
-      "label": "ethiopia drone attack on eritrean troops",
-      "url": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
-      "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
-      "summary": "Government forces’ attack raises risk of internal conflict in Ethiopia that could trigger regional war Eritrean troops who crossed into Ethiopia’s Tigray region have come under drone attack from government forces, raising the risk that r..."
+      "char": "🎭",
+      "label": "nana patekar dies at 75",
+      "url": "https://www.nytimes.com/2026/10/08/world/asia/nana-patekar-dead.html",
+      "title": "Nana Patekar, Indian Actor Who Embodied the Everyman, Dies at 75",
+      "summary": "He brought the intensity of the stage to the screen and was praised for his craft and philanthropy. He was also accused of sexual harassment."
+    },
+    {
+      "char": "⚖️",
+      "label": "maduro charged with torture",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power."
     },
     {
       "char": "📚",
@@ -29,13 +36,6 @@
       "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
       "title": "Anne Carson wins Nobel prize in literature 2026",
       "summary": "Most prestigious literature prize goes to Canadian known for genre-crossing works such as Autobiography of Red ‘Delights await!’: Margaret Atwood and other writers on Nobel winner Anne Carson Where to start with: Anne Carson The Nobel pr..."
-    },
-    {
-      "char": "⚖️",
-      "label": "prince andrew search warrants unlawful",
-      "url": "https://www.nytimes.com/2026/10/08/world/europe/prince-andrew-search-warrants-police-uk.html",
-      "title": "Warrants to Search Former Prince Andrew’s Properties Were Unlawful, Court Says",
-      "summary": "A judge in London said that a “significant error” had been made in the granting of search warrants in an investigation into Andrew Mountbatten-Windsor."
     }
   ],
   "source": "ai-openai",
