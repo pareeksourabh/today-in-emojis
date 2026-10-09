@@ -73655,5 +73655,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-09",
+    "emojis": [
+      {
+        "char": "🇮🇳",
+        "label": "india student protests",
+        "url": "https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html",
+        "title": "India’s Young Put Their Bodies on the Line to Be Heard",
+        "summary": "Despite police barricades and detentions, activists like Neha Bora say they are determined to keep up the pressure on Prime Minister Narendra Modi."
+      },
+      {
+        "char": "🗳️",
+        "label": "uk byelection results",
+        "url": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
+        "title": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
+        "summary": "Sagal Abdi-Wali won a special election in central London that was seen as an early test for Prime Minister Andy Burnham."
+      },
+      {
+        "char": "✈️",
+        "label": "houthi attacks in riyadh",
+        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+        "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government."
+      },
+      {
+        "char": "🌍",
+        "label": "climate campaigners in brazil",
+        "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
+        "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
+        "summary": "Inquest under way into why President Lula’s success in curbing Amazon deforestation has not led to success at polls More fire, more ash, more crime, more death. And a globally important ecosystem driven ever more rapidly towards a point..."
+      },
+      {
+        "char": "🏆",
+        "label": "nobel prize in literature",
+        "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+        "title": "Anne Carson wins Nobel prize in literature 2026",
+        "summary": "Most prestigious literature prize goes to Canadian known for genre-crossing works such as Autobiography of Red ‘Delights await!’: Margaret Atwood and other writers on Nobel winner Anne Carson Where to start with: Anne Carson The Nobel pr..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
