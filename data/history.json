@@ -73699,5 +73699,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-09",
+    "emojis": [
+      {
+        "char": "🇸🇻",
+        "label": "el salvador's ruler finds new spark",
+        "url": "https://www.nytimes.com/2026/10/09/world/americas/nayib-bukele-francisco-morazan-el-salvador.html",
+        "title": "In a Dead Hero’s Ashes, El Salvador’s Ruler Finds a New Spark",
+        "summary": "Sword in hand, Nayib Bukele is revamping Latin America’s rich tradition of political exhumations. A new crypt projects his power across Central America."
+      },
+      {
+        "char": "👩‍🏫",
+        "label": "france adds teachers to calm protests",
+        "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+        "title": "France promises 3,000 extra teachers in first step to calm student protests",
+        "summary": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students."
+      },
+      {
+        "char": "✈️",
+        "label": "ethiopia drone attack on eritrea troops",
+        "url": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
+        "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
+        "summary": "Government forces’ attack raises risk of internal conflict in Ethiopia that could trigger regional war Eritrean troops who crossed into Ethiopia’s Tigray region have come under drone attack from government forces, raising the risk that r..."
+      },
+      {
+        "char": "🎨",
+        "label": "paintings stolen from renoir museum recovered",
+        "url": "https://www.nytimes.com/2026/10/09/world/europe/renoir-museum-artworks-theft-france-arrests.html",
+        "title": "Paintings Stolen From Renoir Museum Are Recovered, Authorities Say",
+        "summary": "Officials also said that six suspects had been arrested in the robbery, which targeted a museum in southern France last month."
+      },
+      {
+        "char": "🌪️",
+        "label": "isaias strengthens to hurricane in atlantic",
+        "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
+        "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+        "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975m..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
