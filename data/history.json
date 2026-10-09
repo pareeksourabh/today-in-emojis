@@ -73787,5 +73787,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-09",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "maduro indicted for torture",
+        "url": "https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court",
+        "title": "Nicolás Maduro and his wife indicted for alleged torture of US citizens",
+        "summary": "Ousted Venezuelan president and Cilia Flores have been in jail in New York since early January The deposed Venezuelan president Nicolás Maduro and his wife, Cilia Flores, have been indicted for alleged conspiracy to commit torture, accor..."
+      },
+      {
+        "char": "🌍",
+        "label": "putin's shadow war in europe",
+        "url": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html",
+        "title": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
+        "summary": "Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine. But how should Europe retaliate? And how hard?"
+      },
+      {
+        "char": "🐢",
+        "label": "giant tortoises discovered",
+        "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+        "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+        "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is th..."
+      },
+      {
+        "char": "📚",
+        "label": "anne carson wins nobel prize",
+        "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+        "title": "Anne Carson wins Nobel prize in literature 2026",
+        "summary": "Most prestigious literature prize goes to Canadian known for genre-crossing works such as Autobiography of Red ‘Delights await!’: Margaret Atwood and other writers on Nobel winner Anne Carson Where to start with: Anne Carson The Nobel pr..."
+      },
+      {
+        "char": "🌪️",
+        "label": "earthquake hits panama",
+        "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+        "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
+        "summary": "Hazardous waves are possible as far south as Ecuador and as far north as Mexico, as 13 aftershocks reported A powerful 7.6 magnitude earthquake has struck Panama and triggered tsunami warnings along the west coast of Central and South Am..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
