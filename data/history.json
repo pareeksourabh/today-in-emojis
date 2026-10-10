@@ -73831,5 +73831,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-10",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "earthquake strikes panama",
+        "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+        "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+        "summary": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets,..."
+      },
+      {
+        "char": "🏆",
+        "label": "navi pillay wins nobel prize",
+        "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+        "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+        "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says."
+      },
+      {
+        "char": "🦈",
+        "label": "murder trial of surfers in mexico",
+        "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+        "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+        "summary": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found at the bottom of a well."
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane isaias strengthens",
+        "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
+        "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+        "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975m..."
+      },
+      {
+        "char": "💉",
+        "label": "vaccine trial in guinea-bissau",
+        "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+        "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+        "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forwar..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
