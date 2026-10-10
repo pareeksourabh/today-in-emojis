@@ -1,64 +1,43 @@
 {
-  "date": "2026-10-09",
-  "timestamp": "2026-10-09T20:22:46Z",
+  "date": "2026-10-10",
+  "timestamp": "2026-10-10T00:00:00Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "maduro indicted for torture",
-      "url": "https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court",
-      "title": "Nicolás Maduro and his wife indicted for alleged torture of US citizens",
-      "summary": "Ousted Venezuelan president and Cilia Flores have been in jail in New York since early January The deposed Venezuelan president Nicolás Maduro and his wife, Cilia Flores, have been indicted for alleged conspiracy to commit torture, accor..."
+      "char": "🏆",
+      "label": "nobel peace prize awarded to pillay",
+      "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says."
     },
     {
       "char": "🌍",
-      "label": "putin's shadow war in europe",
-      "url": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html",
-      "title": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
-      "summary": "Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine. But how should Europe retaliate? And how hard?"
-    },
-    {
-      "char": "🐢",
-      "label": "giant tortoises discovered",
-      "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
-      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
-      "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is th..."
-    },
-    {
-      "char": "📚",
-      "label": "anne carson wins nobel prize",
-      "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
-      "title": "Anne Carson wins Nobel prize in literature 2026",
-      "summary": "Most prestigious literature prize goes to Canadian known for genre-crossing works such as Autobiography of Red ‘Delights await!’: Margaret Atwood and other writers on Nobel winner Anne Carson Where to start with: Anne Carson The Nobel pr..."
-    },
-    {
-      "char": "🌪️",
       "label": "earthquake hits panama",
       "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
       "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
       "summary": "Hazardous waves are possible as far south as Ecuador and as far north as Mexico, as 13 aftershocks reported A powerful 7.6 magnitude earthquake has struck Panama and triggered tsunami warnings along the west coast of Central and South Am..."
+    },
+    {
+      "char": "📰",
+      "label": "egyptian journalists protest detentions",
+      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
+      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
+      "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism o..."
+    },
+    {
+      "char": "🌪️",
+      "label": "isaias strengthens to hurricane",
+      "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
+      "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+      "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975m..."
+    },
+    {
+      "char": "🇵🇪",
+      "label": "hitler mussolini elected mayor in peru",
+      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+      "title": "Man named Hitler Mussolini elected mayor in Peru",
+      "summary": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😨",
-    "emoji": "😨",
-    "rationale": "Today's news is filled with distressing events, including serious allegations of torture and a powerful earthquake causing tsunami warnings. This creates a sense of fear and anxiety about global safety and human rights.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
