@@ -1,27 +1,20 @@
 {
   "date": "2026-10-10",
-  "timestamp": "2026-10-10T19:35:04Z",
+  "timestamp": "2026-10-10T00:00:00Z",
   "emojis": [
     {
-      "char": "🇺🇦",
-      "label": "trump calls for new ukrainian president",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
+      "char": "🏆",
+      "label": "nobel peace prize awarded to pillay",
+      "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says."
     },
     {
-      "char": "💥",
-      "label": "7.7 magnitude earthquake strikes panama",
+      "char": "🌍",
+      "label": "earthquake hits panama",
       "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-      "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
-      "summary": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets,..."
-    },
-    {
-      "char": "💉",
-      "label": "vaccine trial approved in guinea-bissau",
-      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
-      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
-      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forwar..."
+      "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
+      "summary": "Hazardous waves are possible as far south as Ecuador and as far north as Mexico, as 13 aftershocks reported A powerful 7.6 magnitude earthquake has struck Panama and triggered tsunami warnings along the west coast of Central and South Am..."
     },
     {
       "char": "📰",
@@ -31,7 +24,154 @@
       "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism o..."
     },
     {
+      "char": "🌪️",
+      "label": "isaias strengthens to hurricane",
+      "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
+      "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+      "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975m..."
+    },
+    {
+      "char": "🇵🇪",
+      "label": "hitler mussolini elected mayor in peru",
+      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+      "title": "Man named Hitler Mussolini elected mayor in Peru",
+      "summary": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show."
+    },
+    {
+      "char": "📰",
+      "label": "egyptian journalists protest",
+      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
+      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
+      "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism o..."
+    },
+    {
+      "char": "🌍",
+      "label": "earthquake strikes panama",
+      "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+      "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+      "summary": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets,..."
+    },
+    {
       "char": "🏆",
+      "label": "navi pillay wins nobel prize",
+      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
+    },
+    {
+      "char": "🌀",
+      "label": "hurricane isaias makes landfall",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+      "summary": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana."
+    },
+    {
+      "char": "⚖️",
+      "label": "trump's deal with russia",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"."
+    },
+    {
+      "char": "🎤",
+      "label": "ella langley cancels show",
+      "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+      "title": "US country music star Ella Langley cancels show due to 'security threat'",
+      "summary": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\"."
+    },
+    {
+      "char": "🗳️",
+      "label": "palestinian elections postponed",
+      "url": "https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html",
+      "title": "Palestinian Authority Says Elections Are to Be Postponed",
+      "summary": "The delay, outlined in a letter to France, comes as Fatah, the governing party, is suffering from deep internal rifts."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane isaias downgraded",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
+      "summary": "Isaias is continuing across the Southeastern US after being downgraded from a hurricane to a post-tropical cyclone."
+    },
+    {
+      "char": "⚖️",
+      "label": "navi pillay wins nobel prize",
+      "url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
+      "title": "Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
+      "summary": "Ms. Pillay has served as a judge in her native South Africa and on international courts investigating war crimes. She led a U.N. panel that determined that Israel had committed genocide against Palestinians in Gaza, a finding the Israeli..."
+    },
+    {
+      "char": "🌍",
+      "label": "7.7 magnitude earthquake hits panama",
+      "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+      "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+      "summary": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets,..."
+    },
+    {
+      "char": "🕵️‍♂",
+      "label": "havana syndrome mystery persists",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
+      "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
+      "summary": "Dozens of CIA officers have been afflicted by debilitating symptoms over the past decade. Are they the result of ‘mass hysteria’? Or are they from attacks with an energy weapon and, if so, who is responsible? And has there been a cover-u..."
+    },
+    {
+      "char": "✊",
+      "label": "delhi protests overview",
+      "url": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
+      "title": "What to Know About the Delhi Protests",
+      "summary": "Protesters opposed to sweeping revisions to India’s voter rolls are trying to rally in New Delhi. The police have come out in force."
+    },
+    {
+      "char": "⚖️",
+      "label": "australian surfers murder verdict",
+      "url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
+      "title": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
+      "summary": "Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024 Get our breaking news email , free app or daily news podcast The parents of Australian surfing brothers murdered..."
+    },
+    {
+      "char": "🏅",
+      "label": "navi pillay wins nobel prize",
+      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
+    },
+    {
+      "char": "🌍",
+      "label": "earthquake strikes panama",
+      "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+      "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+      "summary": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets,..."
+    },
+    {
+      "char": "✈️",
+      "label": "ukrainian drones close moscow airports",
+      "url": "https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html",
+      "title": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
+      "summary": "Government planes reported to be carrying the Russian president and his aides home from Turkmenistan were forced to circle or divert to another city."
+    },
+    {
+      "char": "💉",
+      "label": "vaccine trial in guinea-bissau approved",
+      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forwar..."
+    },
+    {
+      "char": "🌿",
+      "label": "giant waterlily discovered in colombia",
+      "url": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
+      "title": "How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find",
+      "summary": "Species with leaves large enough to be seen from space is already critically endangered – and plans are afoot to protect it A chance social media encounter has led to the race-against-time discovery of a new species of giant waterlily th..."
+    },
+    {
+      "char": "📢",
+      "label": "what to know about the delhi protests",
+      "url": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
+      "title": "What to Know About the Delhi Protests",
+      "summary": "Protesters opposed to sweeping revisions to India’s voter rolls are trying to rally in New Delhi. The police have come out in force."
+    },
+    {
+      "char": "🏛️",
       "label": "navi pillay wins nobel peace prize",
       "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
       "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
@@ -39,5 +179,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Mixed Emotions",
+    "emoji": "⚖️",
+    "rationale": "The emotions of the day are mixed, highlighted by Navi Pillay winning the Nobel Peace Prize for her advocacy of international law, while also facing significant challenges from natural disasters and political unrest.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
