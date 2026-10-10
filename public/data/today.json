@@ -3,39 +3,39 @@
   "timestamp": "2026-10-10T00:00:00Z",
   "emojis": [
     {
-      "char": "📰",
-      "label": "egyptian journalists protest",
-      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
-      "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism o..."
+      "char": "🎤",
+      "label": "ella langley cancels show",
+      "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+      "title": "US country music star Ella Langley cancels show due to 'security threat'",
+      "summary": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\"."
     },
     {
-      "char": "🌍",
-      "label": "earthquake strikes panama",
-      "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-      "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
-      "summary": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets,..."
+      "char": "🗳️",
+      "label": "palestinian elections postponed",
+      "url": "https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html",
+      "title": "Palestinian Authority Says Elections Are to Be Postponed",
+      "summary": "The delay, outlined in a letter to France, comes as Fatah, the governing party, is suffering from deep internal rifts."
     },
     {
-      "char": "🏆",
-      "label": "navi pillay wins nobel prize",
-      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
-    },
-    {
-      "char": "🌀",
-      "label": "hurricane isaias makes landfall",
+      "char": "🌪️",
+      "label": "hurricane isaias downgraded",
       "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
-      "summary": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana."
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
+      "summary": "Isaias is continuing across the Southeastern US after being downgraded from a hurricane to a post-tropical cyclone."
     },
     {
       "char": "⚖️",
-      "label": "trump's deal with russia",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"."
+      "label": "navi pillay wins nobel prize",
+      "url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
+      "title": "Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
+      "summary": "Ms. Pillay has served as a judge in her native South Africa and on international courts investigating war crimes. She led a U.N. panel that determined that Israel had committed genocide against Palestinians in Gaza, a finding the Israeli..."
+    },
+    {
+      "char": "🌍",
+      "label": "7.7 magnitude earthquake hits panama",
+      "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+      "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+      "summary": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets,..."
     }
   ],
   "source": "ai-openai",
