@@ -73875,5 +73875,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-10",
+    "emojis": [
+      {
+        "char": "🏅",
+        "label": "navi pillay wins nobel peace prize",
+        "url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
+        "title": "Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
+        "summary": "Ms. Pillay has served as a judge in her native South Africa and on international courts investigating war crimes. She led a U.N. panel that determined that Israel had committed genocide against Palestinians in Gaza, a finding the Israeli..."
+      },
+      {
+        "char": "🚨",
+        "label": "india blocks protests with police",
+        "url": "https://www.nytimes.com/2026/10/09/world/asia/india-cockroach-protests-delhi.html",
+        "title": "India Cancels Trains, Floods Capital with Police to Block Protests",
+        "summary": "A planned protest against a sweeping voter roll revision prompted police to order a virtual shutdown of New Delhi, the capital. The country’s highest court intervened."
+      },
+      {
+        "char": "🐢",
+        "label": "giant tortoises discovered in seychelles",
+        "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+        "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+        "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is th..."
+      },
+      {
+        "char": "🌊",
+        "label": "earthquake strikes panama",
+        "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+        "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+        "summary": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets,..."
+      },
+      {
+        "char": "🦠",
+        "label": "vaccine trial approved in guinea-bissau",
+        "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+        "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+        "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forwar..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
