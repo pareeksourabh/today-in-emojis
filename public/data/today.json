@@ -1,7 +1,21 @@
 {
   "date": "2026-10-11",
-  "timestamp": "2026-10-11T10:42:01Z",
+  "timestamp": "2026-10-11T00:00:00Z",
   "emojis": [
+    {
+      "char": "🎨",
+      "label": "inuit creatives in canada",
+      "url": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html",
+      "title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
+      "summary": "In Iqaluit, the only city in Canada’s Arctic, a new generation of Inuit writers and artists is turning questions of language, land and identity into books, films and even tattoos."
+    },
+    {
+      "char": "🪧",
+      "label": "protests in new delhi",
+      "url": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
+      "title": "India’s ‘Cockroach’ Leaders Released as New Delhi Braces for More Protests",
+      "summary": "The leaders of the Cockroach Janta Party, an Indian youth movement, were detained by the police before they could lead protests over voting rights."
+    },
     {
       "char": "💉",
       "label": "vaccine trial in guinea-bissau",
@@ -10,32 +24,18 @@
       "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forwar..."
     },
     {
-      "char": "⚖️",
-      "label": "guilty verdict in surfer murders",
-      "url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
-      "title": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
-      "summary": "Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024 Get our breaking news email , free app or daily news podcast The parents of Australian surfing brothers murdered..."
-    },
-    {
       "char": "🗳️",
-      "label": "inuit creatives in canada",
-      "url": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html",
-      "title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
-      "summary": "In Iqaluit, the only city in Canada’s Arctic, a new generation of Inuit writers and artists is turning questions of language, land and identity into books, films and even tattoos."
+      "label": "mayor hitler mussolini elected",
+      "url": "https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor",
+      "title": "Candidate named Hitler Mussolini elected mayor in Peru",
+      "summary": "Leftwing Hitler Mussolini Simeon Flores beats far-right candidate in election in remote district of Andes A businessman called Hitler Mussolini Simeon Flores has been elected the mayor of a remote district in the Peruvian Andes, accordin..."
     },
     {
       "char": "🌍",
-      "label": "panama earthquake state of emergency",
-      "url": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
-      "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
-      "summary": "More than 100 aftershocks as high as magnitude-5.8 recorded after two quakes toppled buildings and prompted evacuations Panama’s government has declared a state of emergency on Saturday as the aftershocks of two powerful earthquakes that..."
-    },
-    {
-      "char": "📰",
-      "label": "protest by egyptian journalists",
-      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
-      "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism o..."
+      "label": "navi pillay wins nobel prize",
+      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
     }
   ],
   "source": "ai-openai",
