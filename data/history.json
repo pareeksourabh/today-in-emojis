@@ -74183,5 +74183,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-11",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "russia plague researcher mystery",
+        "url": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
+        "title": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
+        "summary": "Experts said they believed that with modern testing technology, the Russian authorities should know the answer by now."
+      },
+      {
+        "char": "🚤",
+        "label": "boat capsizes off djibouti",
+        "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+        "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+        "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night."
+      },
+      {
+        "char": "🩺",
+        "label": "pope leo lung surgery",
+        "url": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
+        "title": "Pope Leo Will Have Surgery to Remove Growth on Lung",
+        "summary": "A recent medical examination found a small nodule, he announced, adding that doctors would remove it this week."
+      },
+      {
+        "char": "🇮🇳",
+        "label": "protests in delhi continue",
+        "url": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
+        "title": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi",
+        "summary": "The leaders of the Cockroach Janta Party, an Indian youth movement, had been detained by the police on Saturday before they could lead protests over voting rights."
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane isaias strengthens",
+        "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
+        "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+        "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975m..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
