@@ -74051,5 +74051,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-11",
+    "emojis": [
+      {
+        "char": "🏫",
+        "label": "headmaster detained for abuse",
+        "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+        "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+        "summary": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher."
+      },
+      {
+        "char": "💣",
+        "label": "russian attack kills 20 in zaporizhzhia",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+        "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
+      },
+      {
+        "char": "💉",
+        "label": "vaccine trial approved in guinea-bissau",
+        "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+        "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+        "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forwar..."
+      },
+      {
+        "char": "🗳️",
+        "label": "hitler mussolini elected mayor in peru",
+        "url": "https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor",
+        "title": "Candidate named Hitler Mussolini elected mayor in Peru",
+        "summary": "Leftwing Hitler Mussolini Simeon Flores beats far-right candidate in election in remote district of Andes A businessman called Hitler Mussolini Simeon Flores has been elected the mayor of a remote district in the Peruvian Andes, accordin..."
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane isaias lashes the us",
+        "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+        "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+        "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

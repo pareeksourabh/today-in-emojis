@@ -1,41 +1,41 @@
 {
   "date": "2026-10-11",
-  "timestamp": "2026-10-11T00:00:00Z",
+  "timestamp": "2026-10-11T03:03:39Z",
   "emojis": [
     {
-      "char": "🪖",
-      "label": "mercenary deal in congo",
-      "url": "https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html",
-      "title": "Inside Erik Prince’s Mercenary Deal in Congo",
-      "summary": "The injury of a former Green Beret and death of an elite soldier from New Zealand have highlighted the Blackwater founder’s growing role in one of Africa’s most intractable conflicts."
+      "char": "🏫",
+      "label": "headmaster detained for abuse",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "summary": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher."
+    },
+    {
+      "char": "💣",
+      "label": "russian attack kills 20 in zaporizhzhia",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
+    },
+    {
+      "char": "💉",
+      "label": "vaccine trial approved in guinea-bissau",
+      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forwar..."
     },
     {
       "char": "🗳️",
-      "label": "palestinian elections postponed",
-      "url": "https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html",
-      "title": "Palestinian Authority Says Elections Are to Be Postponed",
-      "summary": "The delay, outlined in a letter to France, comes as Fatah, the governing party, is suffering from deep internal rifts."
-    },
-    {
-      "char": "⚔️",
-      "label": "putin's shadow war in europe",
-      "url": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html",
-      "title": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
-      "summary": "Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine. But how should Europe retaliate? And how hard?"
+      "label": "hitler mussolini elected mayor in peru",
+      "url": "https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor",
+      "title": "Candidate named Hitler Mussolini elected mayor in Peru",
+      "summary": "Leftwing Hitler Mussolini Simeon Flores beats far-right candidate in election in remote district of Andes A businessman called Hitler Mussolini Simeon Flores has been elected the mayor of a remote district in the Peruvian Andes, accordin..."
     },
     {
       "char": "🌪️",
-      "label": "earthquake strikes panama",
-      "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-      "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
-      "summary": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets,..."
-    },
-    {
-      "char": "🐢",
-      "label": "giant tortoises discovered",
-      "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
-      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
-      "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is th..."
+      "label": "hurricane isaias lashes the us",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone."
     }
   ],
   "source": "ai-openai",
