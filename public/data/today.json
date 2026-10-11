@@ -3,39 +3,39 @@
   "timestamp": "2026-10-11T00:00:00Z",
   "emojis": [
     {
+      "char": "🌪️",
+      "label": "hurricane isaias strikes us",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone."
+    },
+    {
+      "char": "📰",
+      "label": "egyptian journalists protest",
+      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
+      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
+      "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism o..."
+    },
+    {
+      "char": "💣",
+      "label": "houthi attacks on saudi arabia",
+      "url": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
+      "title": "Days of Deadly Houthi Attacks Show Saudi Arabia’s Vulnerabilities",
+      "summary": "The escalating violence has brought the conflict in Yemen to the doorstep of the Saudi capital, and the kingdom has no easy options to curtail the increasingly sophisticated and targeted strikes."
+    },
+    {
+      "char": "⚔️",
+      "label": "erik prince's congo mercenary deal",
+      "url": "https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html",
+      "title": "Inside Erik Prince’s Mercenary Deal in Congo",
+      "summary": "The injury of a former Green Beret and death of an elite soldier from New Zealand have highlighted the Blackwater founder’s growing role in one of Africa’s most intractable conflicts."
+    },
+    {
       "char": "🗳️",
-      "label": "peru elects mayor named hitler",
+      "label": "peru elects controversial mayor",
       "url": "https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor",
       "title": "Candidate named Hitler Mussolini elected mayor in Peru",
       "summary": "Leftwing Hitler Mussolini Simeon Flores beats far-right candidate in election in remote district of Andes A businessman called Hitler Mussolini Simeon Flores has been elected the mayor of a remote district in the Peruvian Andes, accordin..."
-    },
-    {
-      "char": "🌪️",
-      "label": "first hurricane of 2026 season",
-      "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
-      "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
-      "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975m..."
-    },
-    {
-      "char": "🌍",
-      "label": "earthquake strikes panama",
-      "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-      "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
-      "summary": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets,..."
-    },
-    {
-      "char": "🐢",
-      "label": "giant tortoises discovered in seychelles",
-      "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
-      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
-      "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is th..."
-    },
-    {
-      "char": "🏅",
-      "label": "navi pillay wins nobel peace prize",
-      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
     }
   ],
   "source": "ai-openai",
