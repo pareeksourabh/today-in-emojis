@@ -74447,5 +74447,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-12",
+    "emojis": [
+      {
+        "char": "🎭",
+        "label": "breaking bad actor dies aged 34",
+        "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+        "title": "Breaking Bad actor RJ Mitte dies aged 34",
+        "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series."
+      },
+      {
+        "char": "💰",
+        "label": "documents falsified to evade tax",
+        "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+        "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+        "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds."
+      },
+      {
+        "char": "✈️",
+        "label": "saudi minister vows response to attacks",
+        "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+        "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+        "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation."
+      },
+      {
+        "char": "🌪️",
+        "label": "isaias strengthens to hurricane",
+        "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
+        "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+        "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975m..."
+      },
+      {
+        "char": "📜",
+        "label": "navi pillay wins nobel peace prize",
+        "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+        "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+        "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
