@@ -74271,5 +74271,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-12",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "dozens killed in gold prospecting strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+        "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+        "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday."
+      },
+      {
+        "char": "🪧",
+        "label": "what to know about the protests in india",
+        "url": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
+        "title": "What to Know About the Protests in India",
+        "summary": "Scattered protests against sweeping revisions to India’s voter rolls broke out on Sunday in New Delhi. The police met earlier protests with an extraordinary show of force."
+      },
+      {
+        "char": "🌪️",
+        "label": "thousands without power in florida and alabama",
+        "url": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
+        "title": "Thousands without power in Florida and Alabama as Isaias moves north",
+        "summary": "At least four deaths linked to storm amid warnings of flash flooding that could stretch into Appalachians As what was left of Hurricane Isaias moved north on Sunday, bringing moderate to heavy rainfall across the central Appalachians and..."
+      },
+      {
+        "char": "🐢",
+        "label": "scientists find 180,000 giant tortoises",
+        "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+        "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+        "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is th..."
+      },
+      {
+        "char": "🏛️",
+        "label": "navi pillay wins nobel peace prize",
+        "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+        "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+        "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
