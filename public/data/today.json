@@ -1,41 +1,41 @@
 {
   "date": "2026-10-12",
-  "timestamp": "2026-10-12T11:52:14Z",
+  "timestamp": "2026-10-12T00:00:00Z",
   "emojis": [
     {
-      "char": "🇮🇳",
-      "label": "protests in delhi over leaders' release",
-      "url": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
-      "title": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi",
-      "summary": "The leaders of the Cockroach Janta Party, an Indian youth movement, had been detained by the police on Saturday before they could lead protests over voting rights."
+      "char": "🏫",
+      "label": "pupil arrested after school shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+      "title": "Pupil arrested after two teachers shot at French school",
+      "summary": "A 14-year-old was detained after the middle-school principal and teacher were injured."
     },
     {
-      "char": "⛽",
-      "label": "trump's diesel import plans face backlash",
-      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump faces growing backlash over plans to import diesel from Russia",
-      "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections."
+      "char": "🕌",
+      "label": "flydubai attacker linked to mosque",
+      "url": "https://www.nytimes.com/2026/10/12/world/asia/flydubai-attack-suspect-melbourne-mosque.html",
+      "title": "Investigation Into FlyDubai Attacker Puts Spotlight on an Australian Mosque",
+      "summary": "Emirati investigators said the co-pilot accused of attacking a captain on a flight to Israel drifted toward extremism during his time as a student in Australia."
+    },
+    {
+      "char": "💉",
+      "label": "vaccine trial approved in guinea-bissau",
+      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forwar..."
+    },
+    {
+      "char": "🎬",
+      "label": "russian film on theater bombing",
+      "url": "https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html",
+      "title": "Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine",
+      "summary": "A documentary claims that Ukraine, not Russia, attacked the drama theater in Mariupol, where hundreds of civilians died."
     },
     {
       "char": "🌍",
-      "label": "panama declares emergency after earthquake",
+      "label": "panama earthquake state of emergency",
       "url": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
       "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
       "summary": "More than 100 aftershocks as high as magnitude-5.8 recorded after two quakes toppled buildings and prompted evacuations Panama’s government has declared a state of emergency on Saturday as the aftershocks of two powerful earthquakes that..."
-    },
-    {
-      "char": "🧳",
-      "label": "missing australian hiker found dead in peru",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
-      "title": "Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru",
-      "summary": "Family and friends say Melbourne man should be remembered for ‘immense joy he brought to so many people’s lives’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast An A..."
-    },
-    {
-      "char": "🔥",
-      "label": "fire devastates paris's oldest market",
-      "url": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
-      "title": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
-      "summary": "Le Marché des Enfants Rouges, which opened in 1615 as a vibrant produce hall, was a fixture for chefs, cooks and tourists."
     }
   ],
   "source": "ai-openai",
