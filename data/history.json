@@ -74579,5 +74579,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-13",
+    "emojis": [
+      {
+        "char": "🛢️",
+        "label": "saudi arabia and yemen oil threats",
+        "url": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
+        "title": "Saudi Arabia and Yemen’s Houthis Trade Threats Targeting Oil Facilities",
+        "summary": "The Iran-backed militia threatened to attack the Saudi energy giant Aramco, which it has done before, after the Saudi authorities issued an evacuation notice to an oil facility in the Yemeni capital."
+      },
+      {
+        "char": "🇬🇧",
+        "label": "uk rejects argentina's falklands arrests",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
+        "title": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
+        "summary": "Exclusive: Caution urged over Javier Milei government’s ‘red notice’ requests for arrest of individuals linked to oil project Britain has appealed to Interpol to reject Argentina’s requests for the arrest of individuals involved in a lar..."
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane simon kills five in mexico",
+        "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
+        "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
+        "summary": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexico’s Pacific coast,..."
+      },
+      {
+        "char": "🐢",
+        "label": "giant tortoises discovered in seychelles",
+        "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+        "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+        "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is th..."
+      },
+      {
+        "char": "🏆",
+        "label": "navi pillay wins nobel peace prize",
+        "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+        "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+        "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
