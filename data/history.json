@@ -74667,5 +74667,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-13",
+    "emojis": [
+      {
+        "char": "🇺🇸",
+        "label": "trump ousts ambassador amid scandal",
+        "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+        "summary": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\"."
+      },
+      {
+        "char": "🛢️",
+        "label": "saudi arabia and houthis trade threats",
+        "url": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
+        "title": "Saudi Arabia and Yemen’s Houthis Trade Threats to Hit Oil Facilities",
+        "summary": "The Iran-backed militia threatened to attack the Saudi energy giant Aramco after the Saudi authorities issued an evacuation notice for an oil facility in the Yemeni capital."
+      },
+      {
+        "char": "🏆",
+        "label": "navi pillay wins nobel peace prize",
+        "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+        "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+        "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
+      },
+      {
+        "char": "🌊",
+        "label": "california homes battered by floods",
+        "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+        "title": "California coastal homes battered and bruised after weekend of intense waves and flooding",
+        "summary": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that o..."
+      },
+      {
+        "char": "📰",
+        "label": "egyptian journalists protest detentions",
+        "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
+        "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
+        "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism o..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
