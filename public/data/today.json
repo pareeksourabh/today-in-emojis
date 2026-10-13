@@ -1,41 +1,41 @@
 {
   "date": "2026-10-13",
-  "timestamp": "2026-10-13T00:00:00Z",
+  "timestamp": "2026-10-13T19:04:53Z",
   "emojis": [
     {
-      "char": "⚡",
-      "label": "cyberattack on french supermarkets",
-      "url": "https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html",
-      "title": "Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France",
-      "summary": "The attack targeted a Danish software system in more than 400 supermarkets, forcing some shops to throw out frozen produce. The attackers have not been identified."
+      "char": "🇺🇦",
+      "label": "ukraine war impact on families",
+      "url": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html",
+      "title": "A Father’s Mission Is to Show the World ‘What Russia Did to My Family’",
+      "summary": "After a glide bomb killed his wife and younger daughter, Yevhen Ovcharov was determined to prevent other Ukrainians from dying the same way."
     },
     {
-      "char": "📰",
-      "label": "egyptian journalists protest",
-      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
-      "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism o..."
+      "char": "⚖️",
+      "label": "argentina's legal claim over falklands",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
+      "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands."
     },
     {
-      "char": "🌪️",
-      "label": "hurricane simon hits mexico",
+      "char": "🌊",
+      "label": "california storm and flooding aftermath",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+      "title": "California coastal homes battered and bruised after weekend of intense waves and flooding",
+      "summary": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that o..."
+    },
+    {
+      "char": "🌀",
+      "label": "hurricane simon and storm rachel",
       "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
       "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
       "summary": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexico’s Pacific coast,..."
     },
     {
-      "char": "🐢",
-      "label": "giant tortoises found in seychelles",
-      "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
-      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
-      "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is th..."
-    },
-    {
-      "char": "⚖️",
-      "label": "brazil court scandal and bolsonaros",
-      "url": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
-      "title": "How a scandal engulfing Brazil’s top court could return the Bolsonaros to power",
-      "summary": "The judge who helped convict Jair Bolsonaro is caught up in a crisis that could benefit his son and damage Lula Marina Silva on Flávio Bolsonaro: He will try to finish his father’s ‘perverse project’ to destroy the Amazon Thundering to a..."
+      "char": "📚",
+      "label": "author admits to plagiarism controversy",
+      "url": "https://www.nytimes.com/2026/10/13/world/europe/author-ai-plagiarism-france-haiti.html",
+      "title": "Acclaimed Author Denies Using A.I. but Admits Plagiarism",
+      "summary": "Breaking a weekslong silence, Thélyson Orélien, a Haitian-Canadian writer, still rejected accusations about his new novel, ‘It Was Either That or Die.’"
     }
   ],
   "source": "ai-openai",
