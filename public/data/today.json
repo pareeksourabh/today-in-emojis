@@ -3,18 +3,32 @@
   "timestamp": "2026-10-13T00:00:00Z",
   "emojis": [
     {
-      "char": "🕌",
-      "label": "flydubai attacker investigation",
-      "url": "https://www.nytimes.com/2026/10/12/world/asia/flydubai-attack-suspect-melbourne-mosque.html",
-      "title": "Investigation Into FlyDubai Attacker Puts Spotlight on an Australian Mosque",
-      "summary": "Emirati investigators said the co-pilot accused of attacking a captain on a flight to Israel drifted toward extremism during his time as a student in Australia."
+      "char": "🌊",
+      "label": "iguazu falls closed due to el niño",
+      "url": "https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels",
+      "title": "Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels",
+      "summary": "National park officials took the precautionary measure to limit tourist access after heavy rain caused the Iguazu River to flow at six times the normal rate Heavy rainfall fuelled by a supersized El Niño weather pattern briefly forced Ar..."
     },
     {
-      "char": "💼",
-      "label": "fugitive businessman captured",
-      "url": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
-      "title": "Fugitive businessman taken into US custody in Venezuela bribery case",
-      "summary": "A businessman wanted in the US for allegedly bribing top Venezuelan officials has been taken into custody A businessman wanted for years in the US for allegedly paying bribes to top Venezuelan officials in exchange for lucrative state co..."
+      "char": "🔍",
+      "label": "bolivia investigates evo morales",
+      "url": "https://www.theguardian.com/world/2026/oct/12/bolivia-investigates-ex-president-evo-morales-2009-killings",
+      "title": "Bolivia investigates ex-president Evo Morales over alleged ties to 2009 killings",
+      "summary": "Leftist former leader accused of involvement in shooting of three Europeans in Santa Cruz and torture of two others Bolivia’s attorney general has announced an investigation into leftist former president Evo Morales, alleging his involve..."
+    },
+    {
+      "char": "🛡️",
+      "label": "nato shields ukraine from russia",
+      "url": "https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html",
+      "title": "NATO Details Plan to Shield Ukraine’s European Allies From Russia",
+      "summary": "With the Russians intensifying sabotage, arson and cyberattacks against European nations supporting Ukraine, NATO divulged a blueprint, in case of war, to deter the Kremlin."
+    },
+    {
+      "char": "📰",
+      "label": "egyptian journalists protest detentions",
+      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
+      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
+      "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism o..."
     },
     {
       "char": "🌪️",
@@ -22,43 +36,8 @@
       "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
       "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
       "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975m..."
-    },
-    {
-      "char": "💉",
-      "label": "vaccine trial approved in guinea-bissau",
-      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
-      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
-      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forwar..."
-    },
-    {
-      "char": "📰",
-      "label": "egyptian journalists protest detention",
-      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
-      "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism o..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Concern",
-    "emoji": "😨",
-    "rationale": "Today's news reflects a mix of troubling events, including extremism, bribery, and natural disasters, highlighting significant global issues that evoke worry and unease.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
