@@ -74535,5 +74535,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-13",
+    "emojis": [
+      {
+        "char": "🇧🇷",
+        "label": "brazil court scandal and bolsonaros",
+        "url": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
+        "title": "How a scandal engulfing Brazil’s top court could return the Bolsonaros to power",
+        "summary": "The judge who helped convict Jair Bolsonaro is caught up in a crisis that could benefit his son and damage Lula Marina Silva on Flávio Bolsonaro: He will try to finish his father’s ‘perverse project’ to destroy the Amazon Thundering to a..."
+      },
+      {
+        "char": "🚜",
+        "label": "trump's diesel deal with putin",
+        "url": "https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html",
+        "title": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin",
+        "summary": "Shocked by the U.S. agreement with Russia, which Ukraine has called “a gift” to President Putin, officials in Europe have coalesced around a cautious diplomatic message."
+      },
+      {
+        "char": "🏅",
+        "label": "navi pillay wins nobel peace prize",
+        "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+        "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+        "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
+      },
+      {
+        "char": "🌊",
+        "label": "hurricane simon kills five in mexico",
+        "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
+        "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
+        "summary": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexico’s Pacific coast,..."
+      },
+      {
+        "char": "🐢",
+        "label": "giant tortoises discovered in seychelles",
+        "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+        "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+        "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is th..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
