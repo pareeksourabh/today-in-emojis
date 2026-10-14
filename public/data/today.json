@@ -1,64 +1,43 @@
 {
-  "date": "2026-10-13",
-  "timestamp": "2026-10-13T20:51:16Z",
+  "date": "2026-10-14",
+  "timestamp": "2026-10-14T00:00:00Z",
   "emojis": [
     {
-      "char": "🇺🇸",
-      "label": "trump ousts ambassador amid scandal",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "summary": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\"."
-    },
-    {
-      "char": "🛢️",
-      "label": "saudi arabia and houthis trade threats",
-      "url": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
-      "title": "Saudi Arabia and Yemen’s Houthis Trade Threats to Hit Oil Facilities",
-      "summary": "The Iran-backed militia threatened to attack the Saudi energy giant Aramco after the Saudi authorities issued an evacuation notice for an oil facility in the Yemeni capital."
-    },
-    {
-      "char": "🏆",
-      "label": "navi pillay wins nobel peace prize",
-      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
-    },
-    {
-      "char": "🌊",
-      "label": "california homes battered by floods",
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
-      "title": "California coastal homes battered and bruised after weekend of intense waves and flooding",
-      "summary": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that o..."
+      "char": "⚖️",
+      "label": "ukrainian trial in germany",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany."
     },
     {
       "char": "📰",
-      "label": "egyptian journalists protest detentions",
+      "label": "egyptian journalists protest",
       "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
       "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
       "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism o..."
+    },
+    {
+      "char": "🐢",
+      "label": "giant tortoises found in seychelles",
+      "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+      "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is th..."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane simon hits mexico",
+      "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
+      "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
+      "summary": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexico’s Pacific coast,..."
+    },
+    {
+      "char": "🔍",
+      "label": "mi5 warns of hybrid threats",
+      "url": "https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html",
+      "title": "MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil",
+      "summary": "The head of Britain’s domestic security agency accused Tehran and Moscow of escalating their hybrid campaigns in the U.K., and called Iran-led attacks on Jewish communities “sickening.”"
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "Today's news reflects a mix of troubling events, from political turmoil and environmental disasters to protests over press freedom. The overall tone is somber as communities and individuals face significant challenges.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
