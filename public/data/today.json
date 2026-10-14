@@ -1,27 +1,20 @@
 {
   "date": "2026-10-14",
-  "timestamp": "2026-10-14T00:00:00Z",
+  "timestamp": "2026-10-14T02:50:35Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "ukrainian trial in germany",
-      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany."
+      "char": "🕊️",
+      "label": "pope's lung cancer surgery success",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said."
     },
     {
-      "char": "📰",
-      "label": "egyptian journalists protest",
-      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
-      "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism o..."
-    },
-    {
-      "char": "🐢",
-      "label": "giant tortoises found in seychelles",
-      "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
-      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
-      "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is th..."
+      "char": "🚜",
+      "label": "trump's diesel deal with putin",
+      "url": "https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html",
+      "title": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin",
+      "summary": "Shocked by the U.S. agreement with Russia, which Ukraine has called “a gift” to President Putin, officials in Europe have coalesced around a cautious diplomatic message."
     },
     {
       "char": "🌪️",
@@ -31,11 +24,18 @@
       "summary": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexico’s Pacific coast,..."
     },
     {
-      "char": "🔍",
-      "label": "mi5 warns of hybrid threats",
-      "url": "https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html",
-      "title": "MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil",
-      "summary": "The head of Britain’s domestic security agency accused Tehran and Moscow of escalating their hybrid campaigns in the U.K., and called Iran-led attacks on Jewish communities “sickening.”"
+      "char": "✊",
+      "label": "egyptian journalists protest",
+      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
+      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
+      "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism o..."
+    },
+    {
+      "char": "🐢",
+      "label": "giant tortoises discovered in seychelles",
+      "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+      "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is th..."
     }
   ],
   "source": "ai-openai",
