@@ -1,41 +1,41 @@
 {
   "date": "2026-10-14",
-  "timestamp": "2026-10-14T00:00:00Z",
+  "timestamp": "2026-10-14T09:23:29Z",
   "emojis": [
     {
-      "char": "🇮🇱",
-      "label": "israel's political landscape shifts",
-      "url": "https://www.nytimes.com/2026/10/13/world/middleeast/israel-october-7-attacks-elections.html",
-      "title": "The Oct. 7 Attack Changed Israel, but Not Its Politics",
-      "summary": "As Israelis prepare to vote for the first time since the Hamas-led assault, they remain divided over whether to hold Prime Minister Benjamin Netanyahu responsible for negligence or fault the “treason” of his generals."
-    },
-    {
       "char": "🇺🇦",
-      "label": "ukraine's intelligence gaps",
+      "label": "ukraine intelligence issues",
       "url": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
       "title": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
       "summary": "Asked about apparent U.S. threats to cut off intelligence sharing with Kyiv, which can warn of Russian aerial attacks, President Trump said information continued to flow."
     },
     {
-      "char": "💉",
-      "label": "vaccine trial in guinea-bissau",
-      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
-      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
-      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forwar..."
+      "char": "📺",
+      "label": "turkish police raid tv station",
+      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "summary": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "brazil court scandal",
+      "url": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
+      "title": "How a scandal engulfing Brazil’s top court could return the Bolsonaros to power",
+      "summary": "The judge who helped convict Jair Bolsonaro is caught up in a crisis that could benefit his son and damage Lula Marina Silva on Flávio Bolsonaro: He will try to finish his father’s ‘perverse project’ to destroy the Amazon Thundering to a..."
+    },
+    {
+      "char": "🛢️",
+      "label": "saudi energy giant attacked",
+      "url": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
+      "title": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
+      "summary": "The attack came after the Yemeni militia warned it would attack the headquarters of Aramco. The Saudi-led coalition said it was targeting Houthi capabilities."
     },
     {
       "char": "🐢",
-      "label": "giant tortoises discovered",
+      "label": "giant tortoises discovery",
       "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
       "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
       "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is th..."
-    },
-    {
-      "char": "🌪️",
-      "label": "hurricane simon hits mexico",
-      "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
-      "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
-      "summary": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexico’s Pacific coast,..."
     }
   ],
   "source": "ai-openai",
