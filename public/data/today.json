@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news reflects a day filled with serious concerns, from natural disasters and geopolitical tensions to social justice issues, prompting a feeling of anxiety and worry about the current state of the world.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "Today's news is marked by tragedy, with reports of deaths from storms in Mexico and ongoing issues of injustice and conflict around the world. The mix of sorrowful events evokes a deep sense of empathy and concern.",
     "palette": [
       "😢",
       "😡",
