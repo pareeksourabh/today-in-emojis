@@ -74799,5 +74799,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-14",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "navi pillay wins nobel prize",
+        "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+        "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+        "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
+      },
+      {
+        "char": "🌊",
+        "label": "california storm floods",
+        "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+        "title": "Intense waves and floods batter California waterfront homes and boardwalks",
+        "summary": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that o..."
+      },
+      {
+        "char": "🎨",
+        "label": "dali book cover stolen",
+        "url": "https://www.nytimes.com/2026/10/14/world/europe/france-dali-theft.html",
+        "title": "Dalí Book Cover Stolen in France",
+        "summary": "Three thieves broke into a private museum in central France and took off with a 330-pound book cover created by the surrealist master Salvador Dalí."
+      },
+      {
+        "char": "🐶",
+        "label": "argentina president's dog psychic",
+        "url": "https://www.nytimes.com/2026/10/14/world/americas/argentina-president-milei-dog-pet-psychic.html",
+        "title": "Argentina’s President Has a Dog Psychic. Meet Celia Melamed.",
+        "summary": "In Argentina, many people try to read the mind of the president. Celia Melamed read the mind of his dogs."
+      },
+      {
+        "char": "📰",
+        "label": "taliban suspends bbc broadcasts",
+        "url": "https://www.nytimes.com/2026/10/14/world/asia/afghanistan-taliban-suspends-bbc.html",
+        "title": "The Taliban Suspend BBC Broadcasts Across Afghanistan",
+        "summary": "The Taliban government has intensified its crackdown on the press in recent months but had so far targeted Afghan news outlets."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
