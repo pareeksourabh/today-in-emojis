@@ -1,34 +1,27 @@
 {
   "date": "2026-10-15",
-  "timestamp": "2026-10-15T09:01:57Z",
+  "timestamp": "2026-10-15T00:00:00Z",
   "emojis": [
     {
-      "char": "🏫",
-      "label": "school roof collapse in pakistan",
-      "url": "https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html",
-      "title": "At Least 20 Children Dead After School Roof Collapses in Pakistan",
-      "summary": "The collapse, in Peshawar, also killed a teacher and injured more than 40 people. The country’s prime minister urged rescuers to speed up the search for survivors."
+      "char": "🇺🇦",
+      "label": "ukraine resumes strikes on oil refineries",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
+      "summary": "Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks."
     },
     {
-      "char": "💔",
-      "label": "mourning victims of houthi attack",
-      "url": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
-      "title": "‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport",
-      "summary": "The strike was the Iran-backed militia’s most lethal against Saudi Arabia, by far, during their long conflict."
+      "char": "🇬🇧",
+      "label": "uk rejects argentina's falklands arrest requests",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
+      "title": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
+      "summary": "Exclusive: Caution urged over Javier Milei government’s ‘red notice’ requests for arrest of individuals linked to oil project Britain has appealed to Interpol to reject Argentina’s requests for the arrest of individuals involved in a lar..."
     },
     {
-      "char": "💉",
-      "label": "guinea-bissau vaccine trial denial",
-      "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
-      "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
-      "summary": "Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK Jr Guinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and priv..."
-    },
-    {
-      "char": "🌍",
-      "label": "navi pillay wins nobel peace prize",
-      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
+      "char": "🎤",
+      "label": "joni mitchell becomes us citizen after 62 years",
+      "url": "https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago",
+      "title": "Joni Mitchell becomes US citizen: ‘A journey that began 62 years ago’",
+      "summary": "Canada-born singer-songwriter, 82, posts footage of citizenship ceremony to Instagram Joni Mitchell has become a US citizen, after first moving to the country in the mid-1960s. The Canada-born singer-songwriter, 82, posted footage of her..."
     },
     {
       "char": "🇧🇷",
@@ -36,6 +29,13 @@
       "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
       "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
       "summary": "Congress approves constitutional amendment that bans six-day workweeks, which could effect up to 30 million Brazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could..."
+    },
+    {
+      "char": "🌧️",
+      "label": "istanbul faces heaviest rainfall in 84 years",
+      "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+      "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary."
     }
   ],
   "source": "ai-openai",
