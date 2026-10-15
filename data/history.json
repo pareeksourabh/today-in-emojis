@@ -75019,5 +75019,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-15",
+    "emojis": [
+      {
+        "char": "🎭",
+        "label": "actor imran khan protest in india",
+        "url": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
+        "title": "Actor Imran Khan ordered to leave India after participating in protest",
+        "summary": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October."
+      },
+      {
+        "char": "🌍",
+        "label": "saudi arabia struggles with houthis",
+        "url": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
+        "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
+        "summary": "The Saudi military has expensive equipment, but the missiles and drones used by the Yemeni militia are difficult to detect and stop."
+      },
+      {
+        "char": "💔",
+        "label": "school roof collapse in pakistan",
+        "url": "https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html",
+        "title": "32 Children Killed After School Roof Collapses in Pakistan",
+        "summary": "The collapse, in Peshawar, also killed a teacher and injured dozens of people. A local official said the building appeared to be dilapidated."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "lgbtq arrests in senegal",
+        "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+        "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+        "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+..."
+      },
+      {
+        "char": "📰",
+        "label": "zelensky resumes strikes on russia",
+        "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+        "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+        "summary": "President Volodymyr Zelensky made the announcement in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
