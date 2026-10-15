@@ -75107,5 +75107,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-15",
+    "emojis": [
+      {
+        "char": "🦕",
+        "label": "neanderthal life violence",
+        "url": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
+        "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
+        "summary": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought."
+      },
+      {
+        "char": "🚨",
+        "label": "violent protests in albania",
+        "url": "https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html",
+        "title": "Violent Protests in Albania",
+        "summary": "Opposition to a luxury resort project linked to Jared Kushner has collided with rising discontent over corruption and the cost of living."
+      },
+      {
+        "char": "🏅",
+        "label": "navi pillay wins nobel prize",
+        "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+        "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+        "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
+      },
+      {
+        "char": "🌍",
+        "label": "brazil cuts work week to 40 hours",
+        "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
+        "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
+        "summary": "Congress approves constitutional amendment that bans six-day workweeks, which could affect up to 30 million Brazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could..."
+      },
+      {
+        "char": "🦠",
+        "label": "second ebola case in kenya",
+        "url": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html",
+        "title": "Second Ebola Infection Announced in Kenya",
+        "summary": "The case is likely to raise alarms in the country and increase scrutiny of the government’s surveillance measures."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
