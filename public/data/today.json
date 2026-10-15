@@ -1,41 +1,41 @@
 {
   "date": "2026-10-15",
-  "timestamp": "2026-10-15T02:29:19Z",
+  "timestamp": "2026-10-15T00:00:00Z",
   "emojis": [
     {
       "char": "🙏",
-      "label": "pope recovering after surgery",
-      "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
-      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
-      "summary": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday."
+      "label": "pope leo surgery recovery",
+      "url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
+      "title": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
+      "summary": "The pontiff, 71, is expected to spend about a week in the hospital recovering from surgery that found lung cancer. Messages of support have flooded in from far and wide."
     },
     {
-      "char": "🐶",
-      "label": "argentina's president and dog psychic",
-      "url": "https://www.nytimes.com/2026/10/14/world/americas/argentina-president-milei-dog-pet-psychic.html",
-      "title": "Argentina’s President Has a Dog Psychic. Meet Celia Melamed.",
-      "summary": "In Argentina, many people try to read the mind of the president. Celia Melamed read the mind of his dogs."
+      "char": "📺",
+      "label": "turkey raids opposition tv",
+      "url": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
+      "title": "Turkey Raids Pro-Opposition TV Station",
+      "summary": "The government appointed an overseer to the last big news channel critical of President Recep Tayyip Erdogan. The authorities have now replaced the leadership at five major news outlets."
+    },
+    {
+      "char": "🍽️",
+      "label": "australia's first michelin stars",
+      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit."
+    },
+    {
+      "char": "🚨",
+      "label": "indian police brutality protests",
+      "url": "https://www.nytimes.com/2026/10/14/world/asia/india-protests-police-brutality.html",
+      "title": "Indian Protesters Describe Rough Treatment by the Police",
+      "summary": "Some of those detained accused security forces of beating them during an intense crackdown on demonstrations in India’s capital over the weekend. Police have said they followed the law."
     },
     {
       "char": "🌊",
-      "label": "hurricane strengthens in atlantic",
-      "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
-      "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
-      "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975m..."
-    },
-    {
-      "char": "💔",
-      "label": "mourning victims of houthi attack",
-      "url": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
-      "title": "‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport",
-      "summary": "The strike was the Iran-backed militia’s most lethal against Saudi Arabia, by far, during their long conflict."
-    },
-    {
-      "char": "⚖️",
-      "label": "scandal in brazil's top court",
-      "url": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
-      "title": "How a scandal engulfing Brazil’s top court could return the Bolsonaros to power",
-      "summary": "The judge who helped convict Jair Bolsonaro is caught up in a crisis that could benefit his son and damage Lula Marina Silva on Flávio Bolsonaro: He will try to finish his father’s ‘perverse project’ to destroy the Amazon Thundering to a..."
+      "label": "california storm floods",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+      "title": "Intense waves and floods batter California waterfront homes and boardwalks",
+      "summary": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that o..."
     }
   ],
   "source": "ai-openai",
