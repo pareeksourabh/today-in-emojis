@@ -1,41 +1,41 @@
 {
   "date": "2026-10-15",
-  "timestamp": "2026-10-15T13:10:52Z",
+  "timestamp": "2026-10-15T00:00:00Z",
   "emojis": [
     {
-      "char": "🎭",
-      "label": "actor imran khan protest in india",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
-      "title": "Actor Imran Khan ordered to leave India after participating in protest",
-      "summary": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October."
+      "char": "🛢️",
+      "label": "russia-ukraine oil refinery attack",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks."
+    },
+    {
+      "char": "📚",
+      "label": "zimbabwean author denies ai use",
+      "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+      "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+      "summary": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writers The Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an articl..."
+    },
+    {
+      "char": "💉",
+      "label": "vaccine trial approved in guinea-bissau",
+      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forwar..."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "brazil approves shorter work week",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
+      "title": "Brazil's Congress approves shorter working week in win for Lula",
+      "summary": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days."
     },
     {
       "char": "🌍",
-      "label": "saudi arabia struggles with houthis",
-      "url": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
-      "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
-      "summary": "The Saudi military has expensive equipment, but the missiles and drones used by the Yemeni militia are difficult to detect and stop."
-    },
-    {
-      "char": "💔",
-      "label": "school roof collapse in pakistan",
-      "url": "https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html",
-      "title": "32 Children Killed After School Roof Collapses in Pakistan",
-      "summary": "The collapse, in Peshawar, also killed a teacher and injured dozens of people. A local official said the building appeared to be dilapidated."
-    },
-    {
-      "char": "🏳️‍🌈",
       "label": "lgbtq arrests in senegal",
       "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
       "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
       "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+..."
-    },
-    {
-      "char": "📰",
-      "label": "zelensky resumes strikes on russia",
-      "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
-      "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
-      "summary": "President Volodymyr Zelensky made the announcement in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States."
     }
   ],
   "source": "ai-openai",
