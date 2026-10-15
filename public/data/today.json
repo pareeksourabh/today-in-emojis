@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news highlights several alarming issues, including health risks, political crackdowns, and severe weather events, evoking a sense of concern and urgency.",
+    "emotion_label": "😔",
+    "emoji": "😔",
+    "rationale": "The day's news reflects a mix of troubling issues, including health controversies, severe weather impacts, and human rights violations, leading to an overall sense of concern and sadness.",
     "palette": [
       "😢",
       "😡",
