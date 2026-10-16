@@ -75151,5 +75151,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-16",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "second ebola infection in kenya",
+        "url": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html",
+        "title": "Second Ebola Infection Announced in Kenya",
+        "summary": "The case is likely to raise alarms in the country and increase scrutiny of the government’s surveillance measures."
+      },
+      {
+        "char": "🌊",
+        "label": "california storm floods damage homes",
+        "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+        "title": "Intense waves and floods batter California waterfront homes and boardwalks",
+        "summary": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that o..."
+      },
+      {
+        "char": "⚖️",
+        "label": "maduro pleads not guilty to torture charges",
+        "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
+        "title": "Maduro pleads not guilty to new torture-related charges in New York",
+        "summary": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges."
+      },
+      {
+        "char": "✈️",
+        "label": "ukraine defends against new drone attacks",
+        "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
+        "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
+        "summary": "Ukrainian engineers are rushing to perfect A.I.-guided, jet-driven interceptors. Their goal: to stop a fast Russian threat in the latest round of a deadly tech duel."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "lgbtq+ arrests in senegal increase",
+        "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+        "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+        "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
