@@ -75283,5 +75283,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-16",
+    "emojis": [
+      {
+        "char": "🇧🇷",
+        "label": "brazil cuts work week to 40 hours",
+        "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
+        "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
+        "summary": "Congress approves constitutional amendment that bans six-day workweeks, which could affect up to 30 million Brazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could..."
+      },
+      {
+        "char": "📰",
+        "label": "abuse crisis in paris schools",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
+        "summary": "A surge of abuse accusations has led Parisian authorities to acknowledge a “collective failure” to prevent sexual offenders from working in schools."
+      },
+      {
+        "char": "🏫",
+        "label": "school roof collapse in pakistan",
+        "url": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
+        "title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
+        "summary": "A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region."
+      },
+      {
+        "char": "🌍",
+        "label": "el niño threatens global sugar supply",
+        "url": "https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html",
+        "title": "El Niño Threatens Global Sugar Supply",
+        "summary": "A sugarcane crop withered by El Niño in India, the world’s second-largest producer, is hurting consumers and farmers — plus undermining the country’s energy security goals."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "lgbtq+ arrests in senegal",
+        "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+        "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+        "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
