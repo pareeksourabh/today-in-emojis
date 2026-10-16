@@ -3,32 +3,25 @@
   "timestamp": "2026-10-16T00:00:00Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "maduro pleads not guilty to torture charges",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
-      "title": "Maduro pleads not guilty to new torture-related charges in New York",
-      "summary": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges."
+      "char": "🔫",
+      "label": "us school shooting kills children",
+      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+      "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+      "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, police say."
     },
     {
-      "char": "🇺🇦",
-      "label": "zelensky resumes strikes on russian refineries",
-      "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
-      "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
-      "summary": "President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States."
+      "char": "🏆",
+      "label": "navi pillay wins nobel peace prize",
+      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
     },
     {
-      "char": "💉",
-      "label": "controversial vaccine trial in guinea-bissau",
-      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
-      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
-      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forwar..."
-    },
-    {
-      "char": "🚍",
-      "label": "bus hits train in channel tunnel, 19 injured",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said."
+      "char": "🌊",
+      "label": "california storms cause severe flooding",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+      "title": "Intense waves and floods batter California waterfront homes and boardwalks",
+      "summary": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that o..."
     },
     {
       "char": "🇧🇷",
@@ -36,6 +29,13 @@
       "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
       "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
       "summary": "Congress approves constitutional amendment that bans six-day workweeks, which could affect up to 30 million Brazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could..."
+    },
+    {
+      "char": "🦠",
+      "label": "second ebola infection reported in kenya",
+      "url": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html",
+      "title": "Second Ebola Infection Announced in Kenya",
+      "summary": "The case is likely to raise alarms in the country and increase scrutiny of the government’s surveillance measures."
     }
   ],
   "source": "ai-openai",
