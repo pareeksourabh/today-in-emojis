@@ -75195,5 +75195,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-16",
+    "emojis": [
+      {
+        "char": "🇦🇱",
+        "label": "violent protests in albania",
+        "url": "https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html",
+        "title": "Violent Protests in Albania",
+        "summary": "Opposition to a luxury resort project linked to Jared Kushner has collided with rising discontent over corruption and the cost of living."
+      },
+      {
+        "char": "⚖️",
+        "label": "navi pillay wins nobel peace prize",
+        "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+        "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+        "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
+      },
+      {
+        "char": "🛢️",
+        "label": "ukraine resumes refinery strikes",
+        "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+        "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+        "summary": "President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States."
+      },
+      {
+        "char": "👩‍🎓",
+        "label": "33 killed in pakistani school collapse",
+        "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+        "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+        "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say."
+      },
+      {
+        "char": "🌍",
+        "label": "el niño threatens global sugar supply",
+        "url": "https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html",
+        "title": "El Niño Threatens Global Sugar Supply",
+        "summary": "A poor sugarcane crop in India, the world’s second-largest producer, is hurting consumers and farmers — plus undermining the country’s energy security goals."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
