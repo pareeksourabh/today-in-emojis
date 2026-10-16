@@ -75327,5 +75327,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-16",
+    "emojis": [
+      {
+        "char": "🏫",
+        "label": "paris schools abuse crisis",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
+        "summary": "A surge of abuse accusations has led Parisian authorities to acknowledge a “collective failure” to prevent sexual offenders from working in schools."
+      },
+      {
+        "char": "💄",
+        "label": "japan women makeup chores",
+        "url": "https://www.nytimes.com/2026/10/16/world/asia/japan-women-makeup-chores.html",
+        "title": "Japan’s Leader Says She Loses Hours to Makeup and Chores. Opinions Abound.",
+        "summary": "Sanae Takaichi said she has a busier schedule than her male predecessors, a nod to the disproportionate share of household tasks in Japan that fall to women."
+      },
+      {
+        "char": "🎬",
+        "label": "jamaicans confront enslavement",
+        "url": "https://www.theguardian.com/news/2026/oct/16/jamaicans-confront-enslavement-taboo-busting-stories-on-screen-possession",
+        "title": "‘Opening the lid of a horrible secret’: Jamaicans confront enslavement with taboo-busting stories on screen",
+        "summary": "As violent spirits are unleashed in Sky’s Possession, observers see confident creatives reclaiming the island’s narratives in a form of ‘cultural reparation’ A woman opens a 300‑year‑old box, unleashing a violent spirit – it is the spiri..."
+      },
+      {
+        "char": "🌍",
+        "label": "el niño threatens sugar supply",
+        "url": "https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html",
+        "title": "El Niño Threatens Global Sugar Supply",
+        "summary": "A sugarcane crop withered by El Niño in India, the world’s second-largest producer, is hurting consumers and farmers — plus undermining the country’s energy security goals."
+      },
+      {
+        "char": "🏥",
+        "label": "school roof collapse in pakistan",
+        "url": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
+        "title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
+        "summary": "A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
