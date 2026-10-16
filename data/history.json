@@ -75239,5 +75239,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-16",
+    "emojis": [
+      {
+        "char": "🇺🇦",
+        "label": "us senators investigate ukraine starlink",
+        "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+        "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+        "summary": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions."
+      },
+      {
+        "char": "🏳️‍🌈",
+        "label": "lgbtq+ arrests in senegal",
+        "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+        "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+        "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+..."
+      },
+      {
+        "char": "🚔",
+        "label": "police raids in caracas, venezuela",
+        "url": "https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html",
+        "title": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
+        "summary": "Crime plunged after police raids killed thousands. Venezuela is now withdrawing from the International Criminal Court as it investigates this blood-soaked campaign."
+      },
+      {
+        "char": "🏫",
+        "label": "abuse crisis in paris schools",
+        "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+        "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
+        "summary": "A surge of abuse accusations has led Parisian authorities to acknowledge a “collective failure” to prevent sexual offenders from working in schools."
+      },
+      {
+        "char": "🌍",
+        "label": "brazil cuts work week to 40 hours",
+        "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
+        "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
+        "summary": "Congress approves constitutional amendment that bans six-day workweeks, which could affect up to 30 million Brazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
