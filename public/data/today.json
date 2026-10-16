@@ -1,43 +1,204 @@
 {
   "date": "2026-10-16",
-  "timestamp": "2026-10-16T19:04:20Z",
+  "timestamp": "2026-10-16T00:00:00Z",
   "emojis": [
     {
+      "char": "🏳️‍🌈",
+      "label": "lgbtq+ arrests in senegal",
+      "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+      "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+      "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+..."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "brazil cuts work week to 40 hours",
+      "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
+      "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
+      "summary": "Congress approves constitutional amendment that bans six-day workweeks, which could affect up to 30 million Brazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could..."
+    },
+    {
+      "char": "🏨",
+      "label": "dublin hotel antisemitism event revoked",
+      "url": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
+      "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
+      "summary": "A leader of the Jewish community in Ireland said a hotel canceled a deal for 70 rooms when it learned they were reserved for guests attending the international forum."
+    },
+    {
+      "char": "🌊",
+      "label": "california storms cause severe flooding",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+      "title": "Intense waves and floods batter California waterfront homes and boardwalks",
+      "summary": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that o..."
+    },
+    {
       "char": "🏫",
-      "label": "paris schools abuse crisis",
-      "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-      "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
-      "summary": "A surge of abuse accusations has led Parisian authorities to acknowledge a “collective failure” to prevent sexual offenders from working in schools."
+      "label": "school roof collapse in pakistan",
+      "url": "https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html",
+      "title": "32 Children Killed After School Roof Collapses in Pakistan",
+      "summary": "The collapse, in Peshawar, also killed a teacher and injured dozens of people. A local official said the building appeared to be dilapidated."
     },
     {
-      "char": "💄",
-      "label": "japan women makeup chores",
-      "url": "https://www.nytimes.com/2026/10/16/world/asia/japan-women-makeup-chores.html",
-      "title": "Japan’s Leader Says She Loses Hours to Makeup and Chores. Opinions Abound.",
-      "summary": "Sanae Takaichi said she has a busier schedule than her male predecessors, a nod to the disproportionate share of household tasks in Japan that fall to women."
+      "char": "⚖️",
+      "label": "maduro pleads not guilty to torture charges",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
+      "title": "Maduro pleads not guilty to new torture-related charges in New York",
+      "summary": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges."
     },
     {
-      "char": "🎬",
+      "char": "🇺🇦",
+      "label": "zelensky resumes strikes on russian refineries",
+      "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+      "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+      "summary": "President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States."
+    },
+    {
+      "char": "💉",
+      "label": "controversial vaccine trial in guinea-bissau",
+      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forwar..."
+    },
+    {
+      "char": "🚍",
+      "label": "bus hits train in channel tunnel, 19 injured",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "brazil cuts work week to 40 hours",
+      "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
+      "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
+      "summary": "Congress approves constitutional amendment that bans six-day workweeks, which could affect up to 30 million Brazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could..."
+    },
+    {
+      "char": "🔫",
+      "label": "us school shooting kills children",
+      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+      "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+      "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, police say."
+    },
+    {
+      "char": "🏆",
+      "label": "navi pillay wins nobel peace prize",
+      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
+    },
+    {
+      "char": "🌊",
+      "label": "california storms cause severe flooding",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+      "title": "Intense waves and floods batter California waterfront homes and boardwalks",
+      "summary": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that o..."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "brazil cuts work week to 40 hours",
+      "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
+      "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
+      "summary": "Congress approves constitutional amendment that bans six-day workweeks, which could affect up to 30 million Brazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could..."
+    },
+    {
+      "char": "🦠",
+      "label": "second ebola infection reported in kenya",
+      "url": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html",
+      "title": "Second Ebola Infection Announced in Kenya",
+      "summary": "The case is likely to raise alarms in the country and increase scrutiny of the government’s surveillance measures."
+    },
+    {
+      "char": "🇺🇦",
+      "label": "zelensky rallies eu support",
+      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+      "summary": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels."
+    },
+    {
+      "char": "🎥",
       "label": "jamaicans confront enslavement",
       "url": "https://www.theguardian.com/news/2026/oct/16/jamaicans-confront-enslavement-taboo-busting-stories-on-screen-possession",
       "title": "‘Opening the lid of a horrible secret’: Jamaicans confront enslavement with taboo-busting stories on screen",
       "summary": "As violent spirits are unleashed in Sky’s Possession, observers see confident creatives reclaiming the island’s narratives in a form of ‘cultural reparation’ A woman opens a 300‑year‑old box, unleashing a violent spirit – it is the spiri..."
     },
     {
-      "char": "🌍",
-      "label": "el niño threatens sugar supply",
-      "url": "https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html",
-      "title": "El Niño Threatens Global Sugar Supply",
-      "summary": "A sugarcane crop withered by El Niño in India, the world’s second-largest producer, is hurting consumers and farmers — plus undermining the country’s energy security goals."
+      "char": "🏨",
+      "label": "dublin hotel antisemitism case",
+      "url": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
+      "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
+      "summary": "A leader of the Jewish community in Ireland said a hotel canceled a deal for 70 rooms when it learned they were reserved for guests attending the international forum."
     },
     {
-      "char": "🏥",
+      "char": "🚨",
+      "label": "paris schools abuse crisis",
+      "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+      "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
+      "summary": "A surge of abuse accusations has led Parisian authorities to acknowledge a “collective failure” to prevent sexual offenders from working in schools."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "brazil cuts work week to 40 hours",
+      "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
+      "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
+      "summary": "Congress approves constitutional amendment that bans six-day workweeks, which could affect up to 30 million Brazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could..."
+    },
+    {
+      "char": "📰",
+      "label": "dad fined after son's hotel fall",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "summary": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window."
+    },
+    {
+      "char": "🎬",
+      "label": "jamaicans confront enslavement stories",
+      "url": "https://www.theguardian.com/news/2026/oct/16/jamaicans-confront-enslavement-taboo-busting-stories-on-screen-possession",
+      "title": "‘Opening the lid of a horrible secret’: Jamaicans confront enslavement with taboo-busting stories on screen",
+      "summary": "As violent spirits are unleashed in Sky’s Possession, observers see confident creatives reclaiming the island’s narratives in a form of ‘cultural reparation’ A woman opens a 300‑year‑old box, unleashing a violent spirit – it is the spiri..."
+    },
+    {
+      "char": "⚖️",
+      "label": "maduro denies torture allegations",
+      "url": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
+      "title": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
+      "summary": "Rewritten indictment accuses ex-Venezuela president and wife Cilia Flores of leading campaign of torture Nicolás Maduro insisted on Thursday during an appearance in a New York court that torture allegations in a rewritten drug traffickin..."
+    },
+    {
+      "char": "🏫",
       "label": "school roof collapse in pakistan",
       "url": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
       "title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
       "summary": "A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region."
+    },
+    {
+      "char": "🌍",
+      "label": "brazil cuts work week to 40 hours",
+      "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
+      "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
+      "summary": "Congress approves constitutional amendment that bans six-day workweeks, which could affect up to 30 million Brazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "sadness",
+    "emoji": "😢",
+    "rationale": "The news cycle reveals a series of tragic events, including the deaths of children in a school collapse and a devastating school shooting, alongside the ongoing struggles of marginalized communities. This overwhelming sense of loss and hurt",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
