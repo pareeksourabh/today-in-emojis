@@ -75503,5 +75503,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-17",
+    "emojis": [
+      {
+        "char": "🏳️‍🌈",
+        "label": "lgbtq+ arrests in senegal",
+        "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+        "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+        "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+..."
+      },
+      {
+        "char": "👶",
+        "label": "children poisoned in china",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+        "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+        "summary": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing."
+      },
+      {
+        "char": "🇫🇷",
+        "label": "france youth protests",
+        "url": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html",
+        "title": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
+        "summary": "Bally Bagayoko, the mayor of a working-class suburb near Paris, has been a regular presence at student demonstrations, prompting both applause and condemnation."
+      },
+      {
+        "char": "⚖️",
+        "label": "mexican judge sentences men",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+        "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+        "summary": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily news podcast A Mexican ⁠judge ⁠has sent..."
+      },
+      {
+        "char": "🌳",
+        "label": "brazil amazon deforestation",
+        "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+        "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+        "summary": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-off Deforestation in the Brazilian Amazon has fallen to its lowest level since records began, new government data shows. But whe..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
