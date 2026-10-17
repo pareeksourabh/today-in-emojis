@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😔",
-    "rationale": "The day's news reflects a blend of achievements, such as the Nobel Peace Prize for Navi Pillay and significant reductions in Amazon deforestation, alongside troubling incidents like school violence and human rights abuses, evoking a senseof",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day is marked by troubling news, including violence against civilians, tragic accidents, and ongoing human rights issues, evoking a deep sense of sadness and concern.",
     "palette": [
       "😢",
       "😡",
