@@ -1,43 +1,204 @@
 {
   "date": "2026-10-17",
-  "timestamp": "2026-10-17T17:59:55Z",
+  "timestamp": "2026-10-17T00:00:00Z",
   "emojis": [
     {
-      "char": "🇮🇱",
-      "label": "arab kingmaker in israel's election",
-      "url": "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html",
-      "title": "The Arab Kingmaker in Israel’s Election Who Wants a Partnership With Jews",
-      "summary": "Mansour Abbas, a dentist-turned-lawmaker, helped oust Benjamin Netanyahu once before. Now, he and a Jewish ex-police commander have teamed up to try to do it again."
+      "char": "🏅",
+      "label": "navi pillay wins nobel peace prize",
+      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired t..."
     },
     {
-      "char": "🌳",
-      "label": "brazilian amazon deforestation record low",
+      "char": "🛡️",
+      "label": "teacher fights school attacker",
+      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
+    },
+    {
+      "char": "⚔️",
+      "label": "houthi attacks disrupt saudi events",
+      "url": "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html",
+      "title": "Houthi Attacks on Saudi Arabia Put In Doubt Kingdom’s Sports and Business Events",
+      "summary": "The Iran-backed group’s attacks have disrupted sports tournaments and threatened business events that the kingdom has long used to attract investment and raise its profile."
+    },
+    {
+      "char": "📚",
+      "label": "author denies using ai for story",
+      "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+      "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+      "summary": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writers The Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an articl..."
+    },
+    {
+      "char": "🌍",
+      "label": "brazil amazon deforestation record low",
       "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
       "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
       "summary": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-off Deforestation in the Brazilian Amazon has fallen to its lowest level since records began, new government data shows. But whe..."
     },
     {
-      "char": "🎭",
-      "label": "selma blair's plane altercation remarks",
-      "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
-      "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
-      "summary": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses."
+      "char": "🌳",
+      "label": "brazil sees record fall in deforestation",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
+    },
+    {
+      "char": "📰",
+      "label": "palestinians and journalist injured in attack",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents."
+    },
+    {
+      "char": "👨‍🏫",
+      "label": "deadly school roof collapse in pakistan",
+      "url": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
+      "title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
+      "summary": "A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region."
+    },
+    {
+      "char": "✝️",
+      "label": "pope asks putin for cease-fire in ukraine",
+      "url": "https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html",
+      "title": "Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege",
+      "summary": "Recovering from lung cancer surgery, Pope Leo XIV spoke with Vladimir V. Putin to make a plea for Oleshky, where mines and drones have trapped some 2,000 people who are at risk of starvation."
+    },
+    {
+      "char": "🏳️‍🌈",
+      "label": "lgbtq+ arrests in senegal raise concerns",
+      "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+      "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+      "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+..."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "brazil lowers age for criminal charges",
+      "url": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
+      "title": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
+      "summary": "Lula reverses position on age of responsibility for ‘heinous’ crimes in what many see as a desperate electoral gambit Brazil’s president, Luiz Inácio Lula da Silva, has announced that he now supports lowering the age of criminal responsi..."
+    },
+    {
+      "char": "🏫",
+      "label": "school roof collapse in pakistan",
+      "url": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
+      "title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
+      "summary": "A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region."
+    },
+    {
+      "char": "🏳️‍🌈",
+      "label": "lgbtq arrests in senegal",
+      "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+      "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+      "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+..."
+    },
+    {
+      "char": "⚖️",
+      "label": "mexican judge sentences surfers' murderers",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+      "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+      "summary": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily news podcast A Mexican ⁠judge ⁠has sent..."
+    },
+    {
+      "char": "🇫🇷",
+      "label": "france student protests explained",
+      "url": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html",
+      "title": "Why Are France’s Students Protesting?",
+      "summary": "Demonstrations for a better-funded education system have led to blockaded schools, thousands of arrests and a national political reckoning."
     },
     {
       "char": "🗳️",
-      "label": "violent protests in albania explained",
-      "url": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
-      "title": "What to Know About the Violent Protests in Albania",
-      "summary": "Student demonstrations over education converged with broader protests against rising living costs and a luxury development linked to Jared Kushner, President Trump’s son-in-law."
+      "label": "maduro denies torture allegations",
+      "url": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
+      "title": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
+      "summary": "Rewritten indictment accuses ex-Venezuela president and wife Cilia Flores of leading campaign of torture Nicolás Maduro insisted on Thursday during an appearance in a New York court that torture allegations in a rewritten drug traffickin..."
     },
     {
-      "char": "🤝",
-      "label": "trump-zelensky relationship impact",
-      "url": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
-      "title": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
-      "summary": "Where the two presidents’ war of words will end is anybody’s guess. But if it continues, it could threaten the crucial operational help that Ukraine still gets from the United States."
+      "char": "✌️",
+      "label": "pope asks putin for cease-fire",
+      "url": "https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html",
+      "title": "Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege",
+      "summary": "Recovering from lung cancer surgery, Pope Leo XIV spoke with Vladimir V. Putin to make a plea for Oleshky, where mines and drones have trapped some 2,000 people who are at risk of starvation."
+    },
+    {
+      "char": "📚",
+      "label": "france students protest for change",
+      "url": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html",
+      "title": "Why Are France’s Students Protesting?",
+      "summary": "Student demonstrations for a better-funded education system are converging with a broader protest movement against rising living costs."
+    },
+    {
+      "char": "🦈",
+      "label": "shark becomes a celebrity in korea",
+      "url": "https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html",
+      "title": "A Wayward Shark Becomes a Celebrity in South Korea",
+      "summary": "Stranded in a port waterway for weeks, the 10-foot fish has attracted more than a million spectators, while officials try to guide her back to open sea."
+    },
+    {
+      "char": "⚖️",
+      "label": "mexican judge sentences murderers",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+      "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+      "summary": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily news podcast A Mexican ⁠judge ⁠has sent..."
+    },
+    {
+      "char": "🇫🇷",
+      "label": "mayor leads youth protests in france",
+      "url": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html",
+      "title": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
+      "summary": "Bally Bagayoko, the mayor of a working-class suburb near Paris, has been a regular presence at student demonstrations, prompting both applause and condemnation."
+    },
+    {
+      "char": "🦈",
+      "label": "shark becomes a celebrity in korea",
+      "url": "https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html",
+      "title": "A Wayward Shark Becomes a Celebrity in South Korea",
+      "summary": "Stranded in a port waterway for weeks, the 10-foot fish has attracted more than a million spectators, while officials try to guide her back to open sea."
+    },
+    {
+      "char": "⚖️",
+      "label": "maduro denies torture allegations",
+      "url": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
+      "title": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
+      "summary": "Rewritten indictment accuses ex-Venezuela president and wife Cilia Flores of leading campaign of torture Nicolás Maduro insisted on Thursday during an appearance in a New York court that torture allegations in a rewritten drug traffickin..."
+    },
+    {
+      "char": "🌳",
+      "label": "brazil sees record fall in deforestation",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
+    },
+    {
+      "char": "💎",
+      "label": "rare pink diamond on display in france",
+      "url": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+      "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+      "summary": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😔",
+    "rationale": "The day's news reflects a blend of achievements, such as the Nobel Peace Prize for Navi Pillay and significant reductions in Amazon deforestation, alongside troubling incidents like school violence and human rights abuses, evoking a senseof",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
