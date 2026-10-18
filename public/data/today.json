@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news highlights significant unrest, tragic events, and health concerns globally, reflecting a day filled with uncertainty and anxiety, best represented by the worried face emoji.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "The day is marked by distressing news of protests turning violent, tragic deaths at religious events, and ongoing conflicts, highlighting a global atmosphere of sorrow and unrest.",
     "palette": [
       "😢",
       "😡",
