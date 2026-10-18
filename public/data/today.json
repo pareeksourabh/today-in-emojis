@@ -1,43 +1,204 @@
 {
   "date": "2026-10-18",
-  "timestamp": "2026-10-18T18:18:48Z",
+  "timestamp": "2026-10-18T00:00:00Z",
   "emojis": [
     {
-      "char": "🙏",
-      "label": "19 dead in indian stampede",
-      "url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
-      "title": "At Least 19 Dead After Stampede at Indian Religious Event",
-      "summary": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. The authorities detained the event’s organizer and others involved."
+      "char": "🇮🇳",
+      "label": "indian protest leader released on bail",
+      "url": "https://www.nytimes.com/2026/10/17/world/asia/india-abhijeet-dipke-cockroach-janta-party.html",
+      "title": "Indian Gen Z Protest Leader Is Released on Bail After Arrest",
+      "summary": "Abhijeet Dipke, the founder of the Cockroach Janta Party, was detained on his way to a protest called to demand the resignation of India’s top election official."
     },
     {
-      "char": "🎤",
-      "label": "ai dating show in korea",
-      "url": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
-      "title": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
-      "summary": "Three celebrities date artificial intelligence avatars on a reality show made in South Korea, where A.I. is hugely popular."
+      "char": "🇧🇷",
+      "label": "brazil lowers age of criminal responsibility",
+      "url": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
+      "title": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
+      "summary": "Lula reverses position on age of responsibility for ‘heinous’ crimes in what many see as a desperate electoral gambit Brazil’s president, Luiz Inácio Lula da Silva, has announced that he now supports lowering the age of criminal responsi..."
     },
     {
-      "char": "⚖️",
-      "label": "mexican judge sentences murderers",
+      "char": "🇫🇷",
+      "label": "unrest mars day of protest in france",
+      "url": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+      "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
+      "summary": "Riots broke out in several French cities alongside peaceful marches of tens of thousands of people demonstrating against rising living costs and poor school conditions."
+    },
+    {
+      "char": "🇲🇽",
+      "label": "mexican judge sentences men for surfer murders",
       "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
       "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
       "summary": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily news podcast A Mexican ⁠judge ⁠has sent..."
     },
     {
+      "char": "🇾🇪",
+      "label": "yemen fighting worsens amid civilian toll",
+      "url": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
+      "title": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
+      "summary": "New clashes were reported as the Houthis put more pressure on Taiz, a city connecting the government-held south of the country and the Red Sea."
+    },
+    {
+      "char": "🕌",
+      "label": "stampede at indian festival",
+      "url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
+      "title": "17 Dead, Dozens Injured After Stampede at Indian Religious Event",
+      "summary": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. Authorities detained the event’s organizer and others involved."
+    },
+    {
+      "char": "🇮🇱",
+      "label": "israeli settlers attack diplomats",
+      "url": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
+      "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
+      "summary": "Extremists assaulted residents and broke a European diplomatic vehicle’s window, witnesses said, as settler violence surges in the territory during the olive harvest."
+    },
+    {
+      "char": "⚖️",
+      "label": "mexican judge sentences surfers' killers",
+      "url": "https://www.nytimes.com/2026/10/17/world/americas/mexican-judge-sentences-3-men-to-159-years-each-in-surfer-killings.html",
+      "title": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings",
+      "summary": "The men were charged in the murders of two Australians and an American who were on a camping and surf vacation in Mexico."
+    },
+    {
+      "char": "💉",
+      "label": "guinea-bissau vaccine trial denial",
+      "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
+      "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
+      "summary": "Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK Jr Guinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and priv..."
+    },
+    {
+      "char": "🌍",
+      "label": "kenya confirms new ebola cases",
+      "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html",
+      "title": "Kenya Confirms Four New Ebola Cases",
+      "summary": "Seven Ebola infections have now been confirmed in Kenya, which before this month had never recorded cases of the deadly virus."
+    },
+    {
+      "char": "🕌",
+      "label": "17 dead in india festival crush",
+      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival."
+    },
+    {
+      "char": "💊",
+      "label": "synthetic drugs crisis in the US",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
+    },
+    {
+      "char": "🇫🇷",
+      "label": "unrest during protests in france",
+      "url": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+      "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
+      "summary": "Riots broke out in several French cities alongside peaceful marches of tens of thousands of people demonstrating against rising living costs and poor school conditions."
+    },
+    {
+      "char": "🦠",
+      "label": "kenya confirms new ebola cases",
+      "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html",
+      "title": "Kenya Confirms Four New Ebola Cases",
+      "summary": "Seven Ebola infections have now been confirmed in Kenya, which before this month had never recorded cases of the deadly virus."
+    },
+    {
+      "char": "⚖️",
+      "label": "mexican judge sentences surfer killers",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+      "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+      "summary": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily news podcast A Mexican ⁠judge ⁠has sent..."
+    },
+    {
+      "char": "📚",
+      "label": "biography of queen victoria's gift",
+      "url": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
+      "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
+      "summary": "A girl called Àìná was captured by an African king and later taken to England to become Sarah Forbes Bonetta, protege of the imperial monarch When she was seven years old, Bayo Randle’s great-great-grandmother Sarah Forbes Bonetta was pr..."
+    },
+    {
+      "char": "🏳️‍🌈",
+      "label": "lgbtq+ arrests in senegal",
+      "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+      "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+      "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+..."
+    },
+    {
+      "char": "🔥",
+      "label": "fire at canadian military base",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "title": "Several dead or injured in major fire at Canada military base",
+      "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright."
+    },
+    {
       "char": "🌳",
-      "label": "brazil amazon deforestation drops",
+      "label": "amazon deforestation hits record low",
       "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
       "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
       "summary": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-off Deforestation in the Brazilian Amazon has fallen to its lowest level since records began, new government data shows. But whe..."
     },
     {
+      "char": "🇫🇷",
+      "label": "france protests turn to riots",
+      "url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
+      "title": "France in Shock After Protests Devolve Into Riots",
+      "summary": "Centrist and leftist leaders blamed each other after anti-government protests devolved into chaos."
+    },
+    {
+      "char": "🇦🇱",
+      "label": "albania protests against government",
+      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+      "title": "Anti-government protesters battle with police in Albania",
+      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana."
+    },
+    {
+      "char": "🎶",
+      "label": "afrobeats hypemen redefining music",
+      "url": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
+      "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
+      "summary": "Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowds For the 2015 freshmen cohort of the history degree programme at the University of Lagos, their classmate’s first-semes..."
+    },
+    {
+      "char": "🇮🇱",
+      "label": "israeli settlers attack diplomats",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
+    },
+    {
       "char": "🔥",
-      "label": "fire at canadian military base",
-      "url": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
-      "title": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
-      "summary": "Prime Minister Mark Carney said the “violent, fast-moving” fire on Saturday in the province of Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on Canadian soil."
+      "label": "france protests turn to riots",
+      "url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
+      "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
+      "summary": "After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it largely subsided on Sunday."
+    },
+    {
+      "char": "⚖️",
+      "label": "mexican judge sentences surfers' killers",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+      "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+      "summary": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily news podcast A Mexican ⁠judge ⁠has sent..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "The news highlights significant unrest, tragic events, and health concerns globally, reflecting a day filled with uncertainty and anxiety, best represented by the worried face emoji.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
