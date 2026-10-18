@@ -1,41 +1,41 @@
 {
   "date": "2026-10-18",
-  "timestamp": "2026-10-18T02:16:27Z",
+  "timestamp": "2026-10-18T00:00:00Z",
   "emojis": [
     {
-      "char": "💉",
-      "label": "guinea-bissau vaccine trial controversy",
-      "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
-      "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
-      "summary": "Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK Jr Guinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and priv..."
-    },
-    {
-      "char": "🏳️‍🌈",
-      "label": "lgbtq arrests in senegal",
-      "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
-      "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
-      "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+..."
-    },
-    {
-      "char": "🌳",
-      "label": "brazil amazon deforestation record low",
-      "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
-      "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
-      "summary": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-off Deforestation in the Brazilian Amazon has fallen to its lowest level since records began, new government data shows. But whe..."
-    },
-    {
       "char": "🕌",
-      "label": "17 dead in india stampede",
+      "label": "stampede at indian festival",
       "url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
       "title": "17 Dead, Dozens Injured After Stampede at Indian Religious Event",
       "summary": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. Authorities detained the event’s organizer and others involved."
     },
     {
+      "char": "🇮🇱",
+      "label": "israeli settlers attack diplomats",
+      "url": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
+      "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
+      "summary": "Extremists assaulted residents and broke a European diplomatic vehicle’s window, witnesses said, as settler violence surges in the territory during the olive harvest."
+    },
+    {
       "char": "⚖️",
-      "label": "maduro denies torture allegations",
-      "url": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
-      "title": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
-      "summary": "Rewritten indictment accuses ex-Venezuela president and wife Cilia Flores of leading campaign of torture Nicolás Maduro insisted on Thursday during an appearance in a New York court that torture allegations in a rewritten drug traffickin..."
+      "label": "mexican judge sentences surfers' killers",
+      "url": "https://www.nytimes.com/2026/10/17/world/americas/mexican-judge-sentences-3-men-to-159-years-each-in-surfer-killings.html",
+      "title": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings",
+      "summary": "The men were charged in the murders of two Australians and an American who were on a camping and surf vacation in Mexico."
+    },
+    {
+      "char": "💉",
+      "label": "guinea-bissau vaccine trial denial",
+      "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
+      "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
+      "summary": "Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK Jr Guinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and priv..."
+    },
+    {
+      "char": "🌍",
+      "label": "kenya confirms new ebola cases",
+      "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html",
+      "title": "Kenya Confirms Four New Ebola Cases",
+      "summary": "Seven Ebola infections have now been confirmed in Kenya, which before this month had never recorded cases of the deadly virus."
     }
   ],
   "source": "ai-openai",
