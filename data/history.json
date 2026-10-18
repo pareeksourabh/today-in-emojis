@@ -75767,5 +75767,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-18",
+    "emojis": [
+      {
+        "char": "🙏",
+        "label": "19 dead in indian stampede",
+        "url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
+        "title": "At Least 19 Dead After Stampede at Indian Religious Event",
+        "summary": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. The authorities detained the event’s organizer and others involved."
+      },
+      {
+        "char": "🎤",
+        "label": "ai dating show in korea",
+        "url": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
+        "title": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
+        "summary": "Three celebrities date artificial intelligence avatars on a reality show made in South Korea, where A.I. is hugely popular."
+      },
+      {
+        "char": "⚖️",
+        "label": "mexican judge sentences murderers",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+        "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+        "summary": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily news podcast A Mexican ⁠judge ⁠has sent..."
+      },
+      {
+        "char": "🌳",
+        "label": "brazil amazon deforestation drops",
+        "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+        "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+        "summary": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-off Deforestation in the Brazilian Amazon has fallen to its lowest level since records began, new government data shows. But whe..."
+      },
+      {
+        "char": "🔥",
+        "label": "fire at canadian military base",
+        "url": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
+        "title": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+        "summary": "Prime Minister Mark Carney said the “violent, fast-moving” fire on Saturday in the province of Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on Canadian soil."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
