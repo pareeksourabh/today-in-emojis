@@ -4,38 +4,38 @@
   "emojis": [
     {
       "char": "🕌",
-      "label": "stampede at indian festival",
-      "url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
-      "title": "17 Dead, Dozens Injured After Stampede at Indian Religious Event",
-      "summary": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. Authorities detained the event’s organizer and others involved."
+      "label": "17 dead in india festival crush",
+      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival."
     },
     {
-      "char": "🇮🇱",
-      "label": "israeli settlers attack diplomats",
-      "url": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
-      "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
-      "summary": "Extremists assaulted residents and broke a European diplomatic vehicle’s window, witnesses said, as settler violence surges in the territory during the olive harvest."
+      "char": "💊",
+      "label": "synthetic drugs crisis in the US",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
     },
     {
-      "char": "⚖️",
-      "label": "mexican judge sentences surfers' killers",
-      "url": "https://www.nytimes.com/2026/10/17/world/americas/mexican-judge-sentences-3-men-to-159-years-each-in-surfer-killings.html",
-      "title": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings",
-      "summary": "The men were charged in the murders of two Australians and an American who were on a camping and surf vacation in Mexico."
+      "char": "🇫🇷",
+      "label": "unrest during protests in france",
+      "url": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+      "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
+      "summary": "Riots broke out in several French cities alongside peaceful marches of tens of thousands of people demonstrating against rising living costs and poor school conditions."
     },
     {
-      "char": "💉",
-      "label": "guinea-bissau vaccine trial denial",
-      "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
-      "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
-      "summary": "Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK Jr Guinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and priv..."
-    },
-    {
-      "char": "🌍",
+      "char": "🦠",
       "label": "kenya confirms new ebola cases",
       "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html",
       "title": "Kenya Confirms Four New Ebola Cases",
       "summary": "Seven Ebola infections have now been confirmed in Kenya, which before this month had never recorded cases of the deadly virus."
+    },
+    {
+      "char": "⚖️",
+      "label": "mexican judge sentences surfer killers",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+      "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+      "summary": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily news podcast A Mexican ⁠judge ⁠has sent..."
     }
   ],
   "source": "ai-openai",
