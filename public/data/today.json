@@ -1,41 +1,41 @@
 {
   "date": "2026-10-19",
-  "timestamp": "2026-10-19T09:44:40Z",
+  "timestamp": "2026-10-19T00:00:00Z",
   "emojis": [
     {
-      "char": "✈️",
-      "label": "emergency landing in austria",
-      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
-      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
-      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said."
+      "char": "🍞",
+      "label": "food aid cuts in gaza",
+      "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+      "summary": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million."
     },
     {
-      "char": "🙏",
-      "label": "pastor faces verdict in kenya",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-      "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children."
-    },
-    {
-      "char": "🇫🇷",
-      "label": "far right riots in france",
-      "url": "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html",
-      "title": "France’s Far Right Seizes the Moment as Rioting Stuns the Country",
-      "summary": "The National Rally, already ahead in the polls, presented itself as the party best placed to restore law and order."
-    },
-    {
-      "char": "⛏️",
-      "label": "child exploitation in gold mines",
-      "url": "https://www.nytimes.com/2026/10/19/world/africa/gold-regulators-not-looking.html",
+      "char": "⚖️",
+      "label": "gold mines child exploitation",
+      "url": "https://www.nytimes.com/2026/10/19/world/africa/gold-mines-investigation-takeaways.html",
       "title": "To Find Criminals and Child Exploitation in Gold Mines, We Just Had to Look",
       "summary": "Layers of people certify that gold is free from rights abuses and criminality. Nobody makes them leave their desks."
     },
     {
-      "char": "🔥",
-      "label": "fire at canadian military base",
-      "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-      "title": "Major fire at Canada military base leaves four dead, dozens injured",
-      "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\"."
+      "char": "🕌",
+      "label": "jewish security in uae",
+      "url": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html",
+      "title": "For Israelis and Jews in the U.A.E., an Eroding Sense of Security",
+      "summary": "The Emirates’ reputation as a haven was shaken by what the authorities said was a plot last month aimed at crashing a flight from Dubai to Tel Aviv."
+    },
+    {
+      "char": "🇻🇪",
+      "label": "venezuela's political future",
+      "url": "https://www.nytimes.com/2026/10/19/world/americas/maria-corina-machado-venezuela-trump.html",
+      "title": "María Corina Machado on Venezuela’s Future and Her Relationship With the Trump Administration",
+      "summary": "Blocked from entering her country, Venezuela’s opposition leader spoke with The Times about her efforts to return and her relationship with the Trump administration."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane trudy threatens mexico",
+      "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22n..."
     }
   ],
   "source": "ai-openai",
