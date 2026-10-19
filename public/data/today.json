@@ -3,25 +3,11 @@
   "timestamp": "2026-10-19T00:00:00Z",
   "emojis": [
     {
-      "char": "🇫🇷",
-      "label": "france protests turn violent",
-      "url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
-      "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
-      "summary": "After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it largely subsided on Sunday."
-    },
-    {
-      "char": "🇦🇷",
-      "label": "falklands face hostile argentina",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
-      "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
-      "summary": "Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you min..."
-    },
-    {
-      "char": "🏳️‍🌈",
-      "label": "lgbtq arrests in senegal",
-      "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
-      "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
-      "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+..."
+      "char": "🙏",
+      "label": "stampede at indian event",
+      "url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
+      "title": "At Least 19 Dead After Stampede at Indian Religious Event",
+      "summary": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. The authorities detained the event’s organizer and others involved."
     },
     {
       "char": "🔥",
@@ -31,11 +17,25 @@
       "summary": "Prime Minister Mark Carney said the “violent, fast-moving” fire on Saturday in Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on Canadian soil."
     },
     {
-      "char": "🤖",
-      "label": "ai dating show in korea",
+      "char": "🍞",
+      "label": "wfp cuts aid to gaza",
+      "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+      "summary": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million."
+    },
+    {
+      "char": "🎤",
+      "label": "korean ai dating show",
       "url": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
       "title": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
       "summary": "Three celebrities date artificial intelligence avatars on a reality show made in South Korea, where A.I. is hugely popular."
+    },
+    {
+      "char": "🇫🇷",
+      "label": "france protests turn violent",
+      "url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
+      "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
+      "summary": "After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it largely subsided on Sunday."
     }
   ],
   "source": "ai-openai",
