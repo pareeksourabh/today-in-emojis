@@ -1,41 +1,41 @@
 {
   "date": "2026-10-19",
-  "timestamp": "2026-10-19T00:00:00Z",
+  "timestamp": "2026-10-19T09:44:40Z",
   "emojis": [
     {
+      "char": "✈️",
+      "label": "emergency landing in austria",
+      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said."
+    },
+    {
       "char": "🙏",
-      "label": "stampede at indian event",
-      "url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
-      "title": "At Least 19 Dead After Stampede at Indian Religious Event",
-      "summary": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. The authorities detained the event’s organizer and others involved."
+      "label": "pastor faces verdict in kenya",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+      "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children."
+    },
+    {
+      "char": "🇫🇷",
+      "label": "far right riots in france",
+      "url": "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html",
+      "title": "France’s Far Right Seizes the Moment as Rioting Stuns the Country",
+      "summary": "The National Rally, already ahead in the polls, presented itself as the party best placed to restore law and order."
+    },
+    {
+      "char": "⛏️",
+      "label": "child exploitation in gold mines",
+      "url": "https://www.nytimes.com/2026/10/19/world/africa/gold-regulators-not-looking.html",
+      "title": "To Find Criminals and Child Exploitation in Gold Mines, We Just Had to Look",
+      "summary": "Layers of people certify that gold is free from rights abuses and criminality. Nobody makes them leave their desks."
     },
     {
       "char": "🔥",
       "label": "fire at canadian military base",
-      "url": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
-      "title": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
-      "summary": "Prime Minister Mark Carney said the “violent, fast-moving” fire on Saturday in Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on Canadian soil."
-    },
-    {
-      "char": "🍞",
-      "label": "wfp cuts aid to gaza",
-      "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-      "summary": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million."
-    },
-    {
-      "char": "🎤",
-      "label": "korean ai dating show",
-      "url": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
-      "title": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
-      "summary": "Three celebrities date artificial intelligence avatars on a reality show made in South Korea, where A.I. is hugely popular."
-    },
-    {
-      "char": "🇫🇷",
-      "label": "france protests turn violent",
-      "url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
-      "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
-      "summary": "After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it largely subsided on Sunday."
+      "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\"."
     }
   ],
   "source": "ai-openai",
