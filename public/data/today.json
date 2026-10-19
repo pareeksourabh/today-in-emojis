@@ -39,5 +39,26 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "Today's news reflects deep sorrow and tragedy, from the ongoing conflict in Ukraine to the devastating actions of a cult in Kenya. The emotional weight of these stories underscores the pain and suffering faced by many.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
