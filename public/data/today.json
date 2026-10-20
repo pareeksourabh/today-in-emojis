@@ -1,34 +1,34 @@
 {
-  "date": "2026-10-19",
-  "timestamp": "2026-10-19T20:45:39Z",
+  "date": "2026-10-20",
+  "timestamp": "2026-10-20T00:00:00Z",
   "emojis": [
     {
-      "char": "🇺🇦",
-      "label": "us restricting intel sharing in ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing."
+      "char": "🎾",
+      "label": "tennis star emotional toll of war",
+      "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "summary": "The two top tennis pros married in 2021 and have one child together."
     },
     {
-      "char": "🗳️",
-      "label": "alberta goes to polls in referendum",
-      "url": "https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada",
-      "title": "‘This is not poker’: Alberta goes to polls in referendum that has exposed divisions, not least among separatists",
-      "summary": "Voters to be asked whether province should remain part of Canada or hold a second, binding independence vote Albertans are going to the polls to decide their place in Canada, in a referendum that has exposed deep divisions within the pro..."
+      "char": "🤖",
+      "label": "ex-OpenAI worker accused of device planting",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "summary": "The Saudi government did not immediately respond to BBC requests for comment."
     },
     {
-      "char": "🔥",
+      "char": "🇮🇹",
+      "label": "italy faces parallel protests",
+      "url": "https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html",
+      "title": "Italy Faces Parallel Protests in the North and South",
+      "summary": "Protests by young people in northern cities ended in riots as farmers and truckers in the south, angered by high gas prices, stopped commercial traffic."
+    },
+    {
+      "char": "🚀",
       "label": "fire at starlink center in lithuania",
       "url": "https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html",
       "title": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say",
       "summary": "The fire, which did not seriously damage the network, came after similar incidents in Bulgaria and Poland involving the satellite internet provider, a key defense tool for Ukraine’s armed forces."
-    },
-    {
-      "char": "⚖️",
-      "label": "kenya cult leader guilty of murder",
-      "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
-      "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-      "summary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the de..."
     },
     {
       "char": "🌪️",
@@ -39,26 +39,5 @@
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😢",
-    "emoji": "😢",
-    "rationale": "Today's news reflects deep sorrow and tragedy, from the ongoing conflict in Ukraine to the devastating actions of a cult in Kenya. The emotional weight of these stories underscores the pain and suffering faced by many.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
