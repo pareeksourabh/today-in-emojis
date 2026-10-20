@@ -76075,5 +76075,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-20",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "alberta voters reject independence",
+        "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+        "title": "Alberta voters reject plan for referendum to leave Canada",
+        "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister,..."
+      },
+      {
+        "char": "🚨",
+        "label": "violent clashes in albania",
+        "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+        "title": "Seventh day of violent clashes between Albanian protesters and police",
+        "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing."
+      },
+      {
+        "char": "🇦🇺",
+        "label": "attack on australian lawmaker",
+        "url": "https://www.nytimes.com/2026/10/20/world/asia/helen-haines-mp-attacked-wangaratta-australia.html",
+        "title": "Attack on Australian Lawmaker Prompts Calls to Dial Down Political Tensions",
+        "summary": "Helen Haines, an independent, remained in critical condition after she was rammed by a vehicle. The country has reacted with shock and confusion."
+      },
+      {
+        "char": "🐦",
+        "label": "animal cruelty case in vegas",
+        "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+        "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+        "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm."
+      },
+      {
+        "char": "🌍",
+        "label": "hurricane trudy threatens mexico",
+        "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+        "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+        "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22n..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
