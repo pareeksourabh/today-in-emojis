@@ -76031,5 +76031,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-20",
+    "emojis": [
+      {
+        "char": "💥",
+        "label": "drone attack kills 80 in sudan",
+        "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+        "title": "Drone attack near market kills 80 in Sudan",
+        "summary": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home. Ahmed Wadi,..."
+      },
+      {
+        "char": "🎾",
+        "label": "svitolina's emotional toll from war",
+        "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+        "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+        "summary": "The two top tennis pros married in 2021 and have one child together."
+      },
+      {
+        "char": "🚨",
+        "label": "curfews imposed after riots in france",
+        "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
+        "title": "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
+        "summary": "The interior minister acknowledged that the police were underprepared for the scale of the riots. But Prime Minister Sébastien Lecornu defended their efforts and pledged to restore order."
+      },
+      {
+        "char": "⚖️",
+        "label": "mexican judge sentences killers to prison",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+        "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+        "summary": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily news podcast A Mexican ⁠judge ⁠has sent..."
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane trudy threatens mexico's coast",
+        "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+        "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+        "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22n..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
