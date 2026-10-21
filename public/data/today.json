@@ -1,21 +1,7 @@
 {
   "date": "2026-10-21",
-  "timestamp": "2026-10-21T00:00:00Z",
+  "timestamp": "2026-10-21T13:34:34Z",
   "emojis": [
-    {
-      "char": "🕊️",
-      "label": "drone attack in sudan kills many",
-      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
-    },
-    {
-      "char": "🇨🇦",
-      "label": "alberta rejects independence referendum",
-      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
-      "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of..."
-    },
     {
       "char": "🦩",
       "label": "man convicted for stealing flamingo",
@@ -24,18 +10,32 @@
       "summary": "Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure..."
     },
     {
-      "char": "🌪️",
-      "label": "hurricane trudy threatens mexico",
-      "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
-      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
-      "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22n..."
+      "char": "🚗",
+      "label": "australian mp loses legs in attack",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+      "title": "Australian MP loses both legs after alleged car attack, husband says",
+      "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday."
     },
     {
-      "char": "📚",
-      "label": "student protests in france",
-      "url": "https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html",
-      "title": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
-      "summary": "“Bismillah, c’est les ténèbres” has appeared on signs at recent demonstrations. It doesn’t make much sense (it means, “In the name of God, it’s the darkness”) but is seen as shorthand for a generational divide."
+      "char": "🦠",
+      "label": "nigeria confirms first ebola case",
+      "url": "https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html",
+      "title": "Nigeria Announces First Case of Ebola in Current Outbreak",
+      "summary": "Health officials praised the Nigerian authorities for their transparency in reporting the spread of the virus."
+    },
+    {
+      "char": "💔",
+      "label": "drone attack kills many in sudan",
+      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
+    },
+    {
+      "char": "🌳",
+      "label": "basic income helps protect amazon",
+      "url": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
+      "title": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
+      "summary": "Researchers say almost 90% of participants in unconditional basic income scheme in Peru adopted environmentally beneficial practices A pioneering project to provide Indigenous people in the Peruvian Amazon with an unconditional basic inc..."
     }
   ],
   "source": "ai-openai",
