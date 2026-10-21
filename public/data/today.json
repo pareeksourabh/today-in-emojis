@@ -1,30 +1,9 @@
 {
   "date": "2026-10-21",
-  "timestamp": "2026-10-21T00:00:00Z",
+  "timestamp": "2026-10-21T09:14:46Z",
   "emojis": [
     {
-      "char": "🇫🇷",
-      "label": "france extends curfews after riots",
-      "url": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
-      "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
-      "summary": "The targeted restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials."
-    },
-    {
-      "char": "🔬",
-      "label": "rfk jr's vaccine research offices raided",
-      "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
-      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
-      "summary": "Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (..."
-    },
-    {
-      "char": "⚖️",
-      "label": "kenyan cult leader guilty of murder",
-      "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
-      "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-      "summary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the de..."
-    },
-    {
-      "char": "🌧️",
+      "char": "🌪️",
       "label": "hurricane trudy threatens mexico",
       "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
       "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
@@ -32,10 +11,31 @@
     },
     {
       "char": "🦠",
-      "label": "nigeria confirms first ebola case",
+      "label": "ebola outbreak in nigeria",
       "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
       "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
       "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health minis..."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "alberta rejects independence referendum",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+      "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of..."
+    },
+    {
+      "char": "🍽️",
+      "label": "chef celebrates immigrant flavors",
+      "url": "https://www.nytimes.com/2026/10/20/world/africa/johannesburg-migrant-cuisine-chef.html",
+      "title": "A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa",
+      "summary": "A self-taught chef borrows ingredients and ideas from restaurants run by immigrants in South Africa, hoping to help counter rising xenophobia."
+    },
+    {
+      "char": "⚖️",
+      "label": "kenyan cult leader guilty of murder",
+      "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+      "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+      "summary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the de..."
     }
   ],
   "source": "ai-openai",

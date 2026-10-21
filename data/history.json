@@ -76295,5 +76295,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-21",
+    "emojis": [
+      {
+        "char": "🌪️",
+        "label": "hurricane trudy threatens mexico",
+        "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+        "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+        "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22n..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in nigeria",
+        "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+        "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+        "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health minis..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "alberta rejects independence referendum",
+        "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+        "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+        "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of..."
+      },
+      {
+        "char": "🍽️",
+        "label": "chef celebrates immigrant flavors",
+        "url": "https://www.nytimes.com/2026/10/20/world/africa/johannesburg-migrant-cuisine-chef.html",
+        "title": "A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa",
+        "summary": "A self-taught chef borrows ingredients and ideas from restaurants run by immigrants in South Africa, hoping to help counter rising xenophobia."
+      },
+      {
+        "char": "⚖️",
+        "label": "kenyan cult leader guilty of murder",
+        "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+        "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+        "summary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the de..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
