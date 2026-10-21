@@ -3,32 +3,25 @@
   "timestamp": "2026-10-21T00:00:00Z",
   "emojis": [
     {
-      "char": "🤝",
-      "label": "trump and zelensky at loggerheads",
-      "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
-      "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
+      "char": "🇫🇷",
+      "label": "france extends curfews after riots",
+      "url": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
+      "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
+      "summary": "The targeted restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials."
     },
     {
-      "char": "🦩",
-      "label": "man convicted for stealing flamingo",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
-      "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
-      "summary": "Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure..."
-    },
-    {
-      "char": "✈️",
-      "label": "uk sends fighter jets to saudi arabia",
-      "url": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html",
-      "title": "UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks",
-      "summary": "R.A.F. Typhoon fighter jets will be deployed to protect infrastructure in Saudi Arabia, Britain said, after a spike in attacks by the Iran-backed Houthi militia."
+      "char": "🔬",
+      "label": "rfk jr's vaccine research offices raided",
+      "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
+      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
+      "summary": "Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (..."
     },
     {
       "char": "⚖️",
-      "label": "rwandan critic beheaded in uganda",
-      "url": "https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html",
-      "title": "Robert Kabera, Rwandan Government Critic, Beheaded in Uganda",
-      "summary": "The former soldier had been living in exile since 2020, and said in a video posted this month on TikTok that he feared for his life."
+      "label": "kenyan cult leader guilty of murder",
+      "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+      "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+      "summary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the de..."
     },
     {
       "char": "🌧️",
@@ -36,6 +29,13 @@
       "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
       "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
       "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22n..."
+    },
+    {
+      "char": "🦠",
+      "label": "nigeria confirms first ebola case",
+      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health minis..."
     }
   ],
   "source": "ai-openai",
