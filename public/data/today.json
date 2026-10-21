@@ -1,14 +1,7 @@
 {
   "date": "2026-10-21",
-  "timestamp": "2026-10-21T00:00:00Z",
+  "timestamp": "2026-10-21T02:38:18Z",
   "emojis": [
-    {
-      "char": "💥",
-      "label": "drone attack kills 80 in sudan",
-      "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-      "title": "Drone attack near market kills 80 in Sudan",
-      "summary": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home. Ahmed Wadi,..."
-    },
     {
       "char": "🇫🇷",
       "label": "france extends curfews after riots",
@@ -17,25 +10,32 @@
       "summary": "The targeted restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials."
     },
     {
-      "char": "🔍",
-      "label": "rfk jr vaccine researchers raided",
-      "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
-      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
-      "summary": "Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (..."
-    },
-    {
-      "char": "🍽️",
-      "label": "chef celebrates immigrant flavors",
-      "url": "https://www.nytimes.com/2026/10/20/world/africa/johannesburg-migrant-cuisine-chef.html",
-      "title": "A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa",
-      "summary": "A self-taught chef borrows ingredients and ideas from restaurants run by immigrants in South Africa, hoping to help counter rising xenophobia."
+      "char": "🦠",
+      "label": "nigeria confirms ebola outbreak case",
+      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health minis..."
     },
     {
       "char": "🌪️",
-      "label": "hurricane trudy threatens mexico",
+      "label": "hurricane trudy threatens mexico and greece",
       "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
       "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
       "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22n..."
+    },
+    {
+      "char": "⚖️",
+      "label": "rwandan critic beheaded in uganda",
+      "url": "https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html",
+      "title": "Robert Kabera, Rwandan Government Critic, Beheaded in Uganda",
+      "summary": "The former soldier had been living in exile since 2020, and said in a video posted this month on TikTok that he feared for his life."
+    },
+    {
+      "char": "🍽️",
+      "label": "chef celebrates immigrant flavors in sa",
+      "url": "https://www.nytimes.com/2026/10/20/world/africa/johannesburg-migrant-cuisine-chef.html",
+      "title": "A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa",
+      "summary": "A self-taught chef borrows ingredients and ideas from restaurants run by immigrants in South Africa, hoping to help counter rising xenophobia."
     }
   ],
   "source": "ai-openai",
