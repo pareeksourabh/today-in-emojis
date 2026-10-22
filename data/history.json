@@ -76471,5 +76471,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-22",
+    "emojis": [
+      {
+        "char": "🎧",
+        "label": "uk to headphone dodgers on trains",
+        "url": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
+        "title": "UK to Headphone Dodgers on Trains: Shush",
+        "summary": "Prime Minister Andy Burnham announced a campaign against listening to music or videos without headphones on public transportation. We asked London commuters to weigh in."
+      },
+      {
+        "char": "🌪️",
+        "label": "hurricane trudy menaces mexico",
+        "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+        "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+        "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22n..."
+      },
+      {
+        "char": "🚨",
+        "label": "rfk jr’s vaccine researchers raided",
+        "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
+        "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
+        "summary": "Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (..."
+      },
+      {
+        "char": "🛂",
+        "label": "us grants deportation reprieve to migrants",
+        "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+        "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+        "summary": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday Send us your questions about immigration and the midterms More than 100,000 people from Ukraine and Sudan can stay in the United States w..."
+      },
+      {
+        "char": "🌳",
+        "label": "giving £2 a day helps protect rainforest",
+        "url": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
+        "title": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
+        "summary": "Researchers say almost 90% of participants in unconditional basic income scheme in Peru adopted environmentally beneficial practices A pioneering project to provide Indigenous people in the Peruvian Amazon with an unconditional basic inc..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
