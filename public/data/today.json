@@ -1,20 +1,27 @@
 {
   "date": "2026-10-22",
-  "timestamp": "2026-10-22T13:36:01Z",
+  "timestamp": "2026-10-22T00:00:00Z",
   "emojis": [
     {
-      "char": "🇺🇦",
+      "char": "🌪️",
+      "label": "hurricane trudy hits mexico and greece",
+      "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22n..."
+    },
+    {
+      "char": "🕊️",
       "label": "us grants reprieve to ukrainian migrants",
       "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
       "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
       "summary": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday Send us your questions about immigration and the midterms More than 100,000 people from Ukraine and Sudan can stay in the United States w..."
     },
     {
-      "char": "🦩",
-      "label": "man convicted for stealing flamingo",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
-      "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
-      "summary": "Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure..."
+      "char": "🏛️",
+      "label": "icc wins eu's top human rights prize",
+      "url": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
+      "title": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
+      "summary": "The win is a show of support for the International Criminal Court as the Trump administration moves to thwart its work."
     },
     {
       "char": "🦠",
@@ -24,18 +31,11 @@
       "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health minis..."
     },
     {
-      "char": "✈️",
-      "label": "houthi strike on saudi airport kills 2",
-      "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
-      "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
-      "summary": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors."
-    },
-    {
-      "char": "🌧️",
-      "label": "hurricane trudy threatens mexico's coast",
-      "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
-      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
-      "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22n..."
+      "char": "🇨🇦",
+      "label": "alberta rejects independence referendum",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+      "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of..."
     }
   ],
   "source": "ai-openai",
