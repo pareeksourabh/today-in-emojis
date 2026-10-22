@@ -1,43 +1,204 @@
 {
   "date": "2026-10-22",
-  "timestamp": "2026-10-22T19:35:08Z",
+  "timestamp": "2026-10-22T00:00:00Z",
   "emojis": [
     {
-      "char": "📰",
-      "label": "teacher survives oregon shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
-      "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
-      "summary": "The teacher said she could not help children because she was badly injured by the attacker."
-    },
-    {
-      "char": "⚰️",
-      "label": "foreigner beaten to death in south africa",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-      "title": "Crowd of 50 beats foreigner to death in South Africa",
-      "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year."
-    },
-    {
       "char": "🦠",
-      "label": "nigeria confirms ebola outbreak",
+      "label": "nigeria confirms ebola case",
       "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
       "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
       "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health minis..."
     },
     {
-      "char": "🔥",
-      "label": "indonesia protests against rainforest fires",
-      "url": "https://www.nytimes.com/2026/10/22/world/asia/indonesia-protests-rainforest-haze.html",
-      "title": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
-      "summary": "Smoke from the blazes, blamed on destructive agricultural practices, has sickened hundreds of thousands and blanketed neighboring countries."
+      "char": "🚨",
+      "label": "ice detainees face deportation",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+      "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+      "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Send us your questions about immigration and the midterms Relatives of gravely ill detainees at two Florida immigration jai..."
     },
     {
-      "char": "✈️",
-      "label": "houthi strike on saudi airport",
-      "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
-      "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
-      "summary": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors."
+      "char": "🎧",
+      "label": "uk to shush headphone dodgers",
+      "url": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
+      "title": "UK to Headphone Dodgers on Trains: Shush",
+      "summary": "Prime Minister Andy Burnham announced a campaign against listening to music or videos without headphones on public transportation. We asked London commuters to weigh in."
+    },
+    {
+      "char": "🤖",
+      "label": "ai election videos flood brazil",
+      "url": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
+      "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
+      "summary": "Brazil spent years targeting electoral lies on the internet. Now, artificial intelligence is stumping the election authorities and reshaping a high-stakes race."
+    },
+    {
+      "char": "🌧️",
+      "label": "hurricane trudy menaces mexico",
+      "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22n..."
+    },
+    {
+      "char": "🔬",
+      "label": "vaccine research offices raided",
+      "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
+      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
+      "summary": "Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (..."
+    },
+    {
+      "char": "🦩",
+      "label": "man convicted for stealing flamingo",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
+      "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
+      "summary": "Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure..."
+    },
+    {
+      "char": "🚁",
+      "label": "drone strike kills in sudan",
+      "url": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
+      "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
+      "summary": "Struggling against each other on the battlefield, the sides in Sudan’s civil war are relying on drones to strike across vast distances, inflicting huge tolls on civilians in the process."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola case confirmed in nigeria",
+      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health minis..."
+    },
+    {
+      "char": "🌧️",
+      "label": "hurricane trudy threatens mexico",
+      "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22n..."
+    },
+    {
+      "char": "🧪",
+      "label": "us-backed vaccine trial halted",
+      "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
+      "title": "Controversial US-backed vaccine trial in African newborns halted",
+      "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher s..."
+    },
+    {
+      "char": "🚨",
+      "label": "ice detainees face deportation",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+      "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+      "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Send us your questions about immigration and the midterms Relatives of gravely ill detainees at two Florida immigration jai..."
+    },
+    {
+      "char": "💥",
+      "label": "drone strike in sudan's civil war",
+      "url": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
+      "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
+      "summary": "Struggling against each other on the battlefield, the sides in Sudan’s civil war are relying on drones to strike across vast distances, inflicting huge tolls on civilians in the process."
+    },
+    {
+      "char": "⚖️",
+      "label": "fast-track trials of riot suspects",
+      "url": "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html",
+      "title": "What We Saw at Fast-Track Trials of Riot Suspects in France",
+      "summary": "At the Tribunal de Paris, judges have supervised a carousel of expedited and often chaotic hearings for those detained during recent unrest."
+    },
+    {
+      "char": "🌳",
+      "label": "basic income helps protect rainforest",
+      "url": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
+      "title": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
+      "summary": "Researchers say almost 90% of participants in unconditional basic income scheme in Peru adopted environmentally beneficial practices A pioneering project to provide Indigenous people in the Peruvian Amazon with an unconditional basic inc..."
+    },
+    {
+      "char": "🇺🇦",
+      "label": "us grants reprieve to ukrainian migrants",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+      "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+      "summary": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday Send us your questions about immigration and the midterms More than 100,000 people from Ukraine and Sudan can stay in the United States w..."
+    },
+    {
+      "char": "🌌",
+      "label": "space debris poses growing casualty risk",
+      "url": "https://www.nytimes.com/2026/10/22/world/asia/space-debris-indonesia-minnesota.html",
+      "title": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
+      "summary": "Debris was found in Indonesia on Monday, just days after a farmer across the globe in Minnesota reported a massive metal object thought to be space junk in a cornfield."
+    },
+    {
+      "char": "🗳️",
+      "label": "palestinians hope for change in elections",
+      "url": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
+      "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
+      "summary": "Many in Gaza and the West Bank are desperate to avoid more years of Prime Minister Benjamin Netanyahu’s right-wing government, which has made life close to unbearable."
+    },
+    {
+      "char": "🦠",
+      "label": "nigeria confirms first ebola case",
+      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health minis..."
+    },
+    {
+      "char": "🌧️",
+      "label": "hurricane trudy threatens mexico's coast",
+      "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22n..."
+    },
+    {
+      "char": "🌪️",
+      "label": "hurricane trudy hits mexico and greece",
+      "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22n..."
+    },
+    {
+      "char": "🕊️",
+      "label": "us grants reprieve to ukrainian migrants",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+      "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+      "summary": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday Send us your questions about immigration and the midterms More than 100,000 people from Ukraine and Sudan can stay in the United States w..."
+    },
+    {
+      "char": "🏛️",
+      "label": "icc wins eu's top human rights prize",
+      "url": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
+      "title": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
+      "summary": "The win is a show of support for the International Criminal Court as the Trump administration moves to thwart its work."
+    },
+    {
+      "char": "🦠",
+      "label": "nigeria confirms first ebola case",
+      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health minis..."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "alberta rejects independence referendum",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+      "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Worry",
+    "emoji": "😨",
+    "rationale": "The news items highlight significant global issues, including health concerns with Ebola, humanitarian crises in Sudan, and natural disasters, creating an overall atmosphere of worry and concern.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
