@@ -181,9 +181,9 @@
   "source": "ai-openai",
   "post_type": "essence",
   "essence": {
-    "emotion_label": "Worry",
-    "emoji": "😨",
-    "rationale": "The news items highlight significant global issues, including health concerns with Ebola, humanitarian crises in Sudan, and natural disasters, creating an overall atmosphere of worry and concern.",
+    "emotion_label": "😢",
+    "emoji": "😢",
+    "rationale": "Today's news is filled with distressing events, including the confirmation of an Ebola case in Nigeria and the devastating impact of civil war in Sudan. These stories evoke sadness and concern for those affected.",
     "palette": [
       "😢",
       "😡",
