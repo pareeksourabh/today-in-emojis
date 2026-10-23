@@ -1,41 +1,41 @@
 {
   "date": "2026-10-23",
-  "timestamp": "2026-10-23T13:11:37Z",
+  "timestamp": "2026-10-23T00:00:00Z",
   "emojis": [
     {
-      "char": "🇧🇷",
+      "char": "🇺🇦",
+      "label": "truce for ukraine city",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+    },
+    {
+      "char": "🗳️",
       "label": "brazil election runoff insights",
       "url": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
       "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
       "summary": "Deep in cattle country, voter sentiments in an evangelical stronghold help explain why the country’s leftist president is the underdog in Sunday’s election."
     },
     {
-      "char": "🇸🇻",
-      "label": "salvadoran soldiers ambushed in haiti",
-      "url": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
-      "title": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
-      "summary": "With four soldiers missing, Haiti’s new Gang Suppression Force, already off to a rocky start, is facing its first crisis."
+      "char": "🔫",
+      "label": "shooting near paris",
+      "url": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
+      "title": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
+      "summary": "The shooter was arrested after firing from a car in several locations southwest of the capital. Antiterrorism prosecutors said they were exploring a racial or religious motive."
     },
     {
-      "char": "🇮🇱",
-      "label": "gadi eisenkot vs netanyahu",
-      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
-      "title": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?",
-      "summary": "Mr. Eisenkot, an ex-military chief leading in the polls, calls the Israeli prime minister an “anti-leader.” But his low-key campaigning style is worrying supporters."
+      "char": "🦠",
+      "label": "ebola outbreak in nigeria",
+      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health minis..."
     },
     {
-      "char": "🦩",
-      "label": "man convicted for stealing flamingo",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
-      "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
-      "summary": "Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure..."
-    },
-    {
-      "char": "🌍",
-      "label": "earthquake hits tibet, 16 dead",
-      "url": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
-      "title": "Powerful Earthquake in Tibet Kills at Least 16",
-      "summary": "Dozens were injured and more than 300 homes were toppled by the 7.0-magnitude quake, which sent residents fleeing into the cold night air, state media said."
+      "char": "⚖️",
+      "label": "ice detainees deportation concerns",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+      "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+      "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Send us your questions about immigration and the midterms Relatives of gravely ill detainees at two Florida immigration jai..."
     }
   ],
   "source": "ai-openai",
