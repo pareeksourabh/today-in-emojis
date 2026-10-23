@@ -76779,5 +76779,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-23",
+    "emojis": [
+      {
+        "char": "🇧🇷",
+        "label": "brazil election runoff insights",
+        "url": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
+        "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
+        "summary": "Deep in cattle country, voter sentiments in an evangelical stronghold help explain why the country’s leftist president is the underdog in Sunday’s election."
+      },
+      {
+        "char": "🇸🇻",
+        "label": "salvadoran soldiers ambushed in haiti",
+        "url": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
+        "title": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
+        "summary": "With four soldiers missing, Haiti’s new Gang Suppression Force, already off to a rocky start, is facing its first crisis."
+      },
+      {
+        "char": "🇮🇱",
+        "label": "gadi eisenkot vs netanyahu",
+        "url": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
+        "title": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?",
+        "summary": "Mr. Eisenkot, an ex-military chief leading in the polls, calls the Israeli prime minister an “anti-leader.” But his low-key campaigning style is worrying supporters."
+      },
+      {
+        "char": "🦩",
+        "label": "man convicted for stealing flamingo",
+        "url": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
+        "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
+        "summary": "Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure..."
+      },
+      {
+        "char": "🌍",
+        "label": "earthquake hits tibet, 16 dead",
+        "url": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
+        "title": "Powerful Earthquake in Tibet Kills at Least 16",
+        "summary": "Dozens were injured and more than 300 homes were toppled by the 7.0-magnitude quake, which sent residents fleeing into the cold night air, state media said."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
