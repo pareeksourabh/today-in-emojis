@@ -1,204 +1,43 @@
 {
-  "date": "2026-10-23",
-  "timestamp": "2026-10-23T00:00:00Z",
+  "date": "2026-10-24",
+  "timestamp": "2026-10-24T00:00:00Z",
   "emojis": [
     {
-      "char": "💻",
-      "label": "cybersecurity flaw update",
-      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-      "title": "Race to update services' computer systems after cyber-security flaw found",
-      "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
+      "char": "🇭🇹",
+      "label": "salvadoran soldiers in haiti",
+      "url": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
+      "title": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
+      "summary": "With four soldiers missing, Haiti’s new Gang Suppression Force, already off to a rocky start, is facing its first crisis."
     },
     {
-      "char": "🌍",
-      "label": "earthquake in tibet",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
-      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-      "summary": "The quake hit a mountainous, sparsely-populated region in north-eastern Tibet."
+      "char": "🏎️",
+      "label": "hamilton's career plans",
+      "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+      "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+      "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is se..."
     },
     {
-      "char": "🧪",
-      "label": "rfk jr vaccine research raid",
-      "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
-      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
-      "summary": "Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (..."
+      "char": "🗣️",
+      "label": "uk free speech debate",
+      "url": "https://www.nytimes.com/2026/10/23/world/europe/uk-powell-sarah-helm-palestine.html",
+      "title": "How a U.K. Official’s Wife Set Off a Debate Over Free Speech and Palestinians",
+      "summary": "Sarah Helm, who is married to Britain’s national security adviser, posted of her support for the author Sally Rooney and a banned pro-Palestinian activist group. A furor ensued."
     },
     {
-      "char": "🌳",
-      "label": "protests against rainforest fires",
-      "url": "https://www.nytimes.com/2026/10/22/world/asia/indonesia-protests-rainforest-haze.html",
-      "title": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
-      "summary": "Smoke from the blazes, blamed on destructive agricultural practices, has sickened hundreds of thousands and blanketed neighboring countries."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola outbreak in nigeria",
-      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
-      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
-      "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health minis..."
-    },
-    {
-      "char": "🌍",
-      "label": "nigeria confirms ebola case",
-      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
-      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
-      "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health minis..."
-    },
-    {
-      "char": "🎙️",
-      "label": "brazil election podcast",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
-      "title": "Brazil’s election and the battle for the Amazon – podcast",
-      "summary": "Our Latin America correspondent, Tom Phillips, heads to Roraima to hear what’s at stake for the rainforest and the communities that live there in the Brazilian presidential runoff on Sunday. Send your comments and questions to tif.questi..."
-    },
-    {
-      "char": "🚨",
-      "label": "ice detainees face deportation",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-      "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-      "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Send us your questions about immigration and the midterms Relatives of gravely ill detainees at two Florida immigration jai..."
-    },
-    {
-      "char": "🇫🇷",
-      "label": "france bans protests after riots",
-      "url": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
-      "title": "In the Wake of Riots, the French Authorities Ban Some Protests",
-      "summary": "President Emmanuel Macron said the move was necessary “so that calm prevails.”"
-    },
-    {
-      "char": "🐦",
-      "label": "man convicted for flamingo theft",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
-      "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
-      "summary": "Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure..."
-    },
-    {
-      "char": "🦠",
-      "label": "nigeria and kenya ebola patients",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
-      "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
-      "summary": "Officials say they both travelled through Entebbe International Airport on 3 October."
-    },
-    {
-      "char": "🏆",
-      "label": "icc wins eu human rights prize",
-      "url": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
-      "title": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
-      "summary": "The win is a show of support for the International Criminal Court as the Trump administration moves to thwart its work."
-    },
-    {
-      "char": "⚖️",
-      "label": "ice detainees face deportation",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-      "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-      "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Send us your questions about immigration and the midterms Relatives of gravely ill detainees at two Florida immigration jai..."
-    },
-    {
-      "char": "🌍",
-      "label": "powerful earthquake in tibet",
-      "url": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
-      "title": "Powerful Earthquake in Tibet Kills at Least 16",
-      "summary": "Dozens were injured and more than 300 homes were toppled by the 7.0-magnitude quake, which sent residents fleeing into the cold night air, state media said."
-    },
-    {
-      "char": "🗳️",
-      "label": "alberta rejects independence referendum",
+      "char": "🇨🇦",
+      "label": "alberta rejects independence",
       "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
       "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
       "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of..."
     },
     {
-      "char": "✈️",
-      "label": "houthi strike on saudi airport",
-      "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
-      "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
-      "summary": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors."
-    },
-    {
-      "char": "🔫",
-      "label": "west bank shooting incident",
-      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
-      "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
-      "summary": "Five people were wounded in the attack, days before national elections, health workers said. The Israeli military said its soldiers had killed two assailants."
-    },
-    {
-      "char": "🌎",
-      "label": "bukeleization of latin america",
-      "url": "https://www.nytimes.com/2026/10/23/world/americas/the-bukeleization-of-latin-america-has-arrived.html",
-      "title": "The Bukeleization of Latin America Has Arrived",
-      "summary": "Nayib Bukele’s notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region."
-    },
-    {
-      "char": "🌍",
-      "label": "congo's fight against ebola",
-      "url": "https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html",
-      "title": "How Pastors Mobilize Communities in Congo’s Fight Against Ebola",
-      "summary": "As health care workers fought to control the latest outbreak this year, they got crucial aid from churches in beating back fear and misinformation."
-    },
-    {
-      "char": "🌪️",
-      "label": "earthquake in tibet",
-      "url": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
-      "title": "Powerful Earthquake in Tibet Kills at Least 16",
-      "summary": "Dozens were injured and more than 300 homes were toppled by the 7.0-magnitude quake, which sent residents fleeing into the cold night air, state media said."
-    },
-    {
-      "char": "🇺🇦",
-      "label": "truce for ukraine city",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
-    },
-    {
-      "char": "🗳️",
-      "label": "brazil election runoff insights",
-      "url": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
-      "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
-      "summary": "Deep in cattle country, voter sentiments in an evangelical stronghold help explain why the country’s leftist president is the underdog in Sunday’s election."
-    },
-    {
-      "char": "🔫",
-      "label": "shooting near paris",
-      "url": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html",
-      "title": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
-      "summary": "The shooter was arrested after firing from a car in several locations southwest of the capital. Antiterrorism prosecutors said they were exploring a racial or religious motive."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola outbreak in nigeria",
-      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
-      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
-      "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health minis..."
-    },
-    {
-      "char": "⚖️",
-      "label": "ice detainees deportation concerns",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-      "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-      "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Send us your questions about immigration and the midterms Relatives of gravely ill detainees at two Florida immigration jai..."
+      "char": "⛪",
+      "label": "church shooting in jordan",
+      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
+      "title": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
+      "summary": "Officials said the shooting, during a funeral at an Orthodox church in the southern province of Karak, was a terrorist act motivated by extremist ideology."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😨",
-    "emoji": "😨",
-    "rationale": "Today's news is filled with distressing events, including a deadly earthquake and the spread of Ebola, creating an atmosphere of fear and anxiety about safety and health.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
