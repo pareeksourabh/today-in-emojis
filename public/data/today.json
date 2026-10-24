@@ -1,43 +1,204 @@
 {
   "date": "2026-10-24",
-  "timestamp": "2026-10-24T18:24:29Z",
+  "timestamp": "2026-10-24T00:00:00Z",
   "emojis": [
     {
-      "char": "🏴‍☠️",
-      "label": "looting in marseille",
+      "char": "🇭🇹",
+      "label": "salvadoran soldiers in haiti",
+      "url": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
+      "title": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
+      "summary": "With four soldiers missing, Haiti’s new Gang Suppression Force, already off to a rocky start, is facing its first crisis."
+    },
+    {
+      "char": "🏎️",
+      "label": "hamilton's career plans",
+      "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+      "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+      "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is se..."
+    },
+    {
+      "char": "🗣️",
+      "label": "uk free speech debate",
+      "url": "https://www.nytimes.com/2026/10/23/world/europe/uk-powell-sarah-helm-palestine.html",
+      "title": "How a U.K. Official’s Wife Set Off a Debate Over Free Speech and Palestinians",
+      "summary": "Sarah Helm, who is married to Britain’s national security adviser, posted of her support for the author Sally Rooney and a banned pro-Palestinian activist group. A furor ensued."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "alberta rejects independence",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+      "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of..."
+    },
+    {
+      "char": "⛪",
+      "label": "church shooting in jordan",
+      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
+      "title": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
+      "summary": "Officials said the shooting, during a funeral at an Orthodox church in the southern province of Karak, was a terrorist act motivated by extremist ideology."
+    },
+    {
+      "char": "🚨",
+      "label": "ice detainees face deportation",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+      "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+      "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Send us your questions about immigration and the midterms Relatives of gravely ill detainees at two Florida immigration jai..."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "alberta rejects independence plan",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+      "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of..."
+    },
+    {
+      "char": "🔫",
+      "label": "paris shooting labeled terrorist attack",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+      "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola infection mystery in nigeria",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+      "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became i..."
+    },
+    {
+      "char": "🌍",
+      "label": "bukele's influence in latin america",
+      "url": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
+      "title": "The Bukeleization of Latin America Has Arrived",
+      "summary": "Nayib Bukele’s notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region."
+    },
+    {
+      "char": "🕊️",
+      "label": "church shooting in jordan",
+      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
+      "title": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
+      "summary": "Officials said the shooting, during a funeral at an Orthodox church in the southern province of Karak, was a terrorist act motivated by extremist ideology."
+    },
+    {
+      "char": "🌳",
+      "label": "brazil election and amazon podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
+      "title": "Brazil’s election and the battle for the Amazon – podcast",
+      "summary": "Our Latin America correspondent, Tom Phillips, heads to Roraima to hear what’s at stake for the rainforest and the communities that live there in the Brazilian presidential runoff on Sunday. Send your comments and questions to tif.questi..."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola infection concerns in nigeria",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+      "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became i..."
+    },
+    {
+      "char": "🏛️",
+      "label": "france police protests planned",
+      "url": "https://www.nytimes.com/2026/10/23/world/europe/france-police-protests.html",
+      "title": "France Plans to Bolster Police Presence, Expecting New Protests",
+      "summary": "Government officials are trying to avoid a repeat of last weekend’s unrest across the country, which injured police officers and damaged stores."
+    },
+    {
+      "char": "🐦",
+      "label": "man convicted for flamingo theft",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
+      "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
+      "summary": "Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure..."
+    },
+    {
+      "char": "🇺🇸",
+      "label": "us pressures mexico on security",
+      "url": "https://www.nytimes.com/2026/10/24/world/americas/us-mexico-security-cartels.html",
+      "title": "U.S. Pressures Mexico to Deliver a Security Win Ahead of Midterm Elections",
+      "summary": "The Trump administration wants a public victory soon, as well as a potential path to U.S. military forces in Mexico."
+    },
+    {
+      "char": "🇫🇷",
+      "label": "looting in marseille causes fear",
       "url": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
       "title": "Looting Left Damage and Fear on Paradise Street in Marseille",
       "summary": "Looters ravaged a storied commercial avenue in France’s second-largest city. Its merchants fear that more unrest could follow."
     },
     {
-      "char": "📡",
-      "label": "ukraine starlink stable",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-      "title": "Ukraine says Starlink connection 'now stable' after network limits",
-      "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
+      "char": "🦠",
+      "label": "ebola outbreak in kenya",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo."
+    },
+    {
+      "char": "🏎️",
+      "label": "hamilton aims for african grand prix",
+      "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+      "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+      "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is se..."
+    },
+    {
+      "char": "🇮🇱",
+      "label": "israel's military crackdown in west bank",
+      "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+      "title": "Israel Launches Crackdown in West Bank City After Deadly Attack",
+      "summary": "The military demolished buildings and erected roadblocks in Hebron, the biggest city in the territory, a day after Palestinian gunmen killed two soldiers."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "alberta rejects independence plan",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+      "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of..."
+    },
+    {
+      "char": "🌳",
+      "label": "brazil election and the amazon",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
+      "title": "Brazil’s election and the battle for the Amazon – podcast",
+      "summary": "Our Latin America correspondent, Tom Phillips, heads to Roraima to hear what’s at stake for the rainforest and the communities that live there in the Brazilian presidential runoff on Sunday. Send your comments and questions to tif.questi..."
+    },
+    {
+      "char": "🏎️",
+      "label": "hamilton aims for african grand prix",
+      "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+      "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+      "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is se..."
     },
     {
       "char": "⚔️",
-      "label": "israel crackdown in west bank",
+      "label": "israel cracks down in west bank",
       "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
       "title": "Israel Cracks Down in West Bank City After Deadly Attack",
       "summary": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers."
     },
     {
-      "char": "🇧🇸",
+      "char": "🌊",
       "label": "british woman dies in bahamas",
-      "url": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
-      "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
-      "summary": "Mother, 36, died after current off North Bimini reportedly swept away two boys, who were later rescued, police say A British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were s..."
-    },
-    {
-      "char": "🚀",
-      "label": "hamilton aims for african grand prix",
-      "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
-      "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
-      "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is se..."
+      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "summary": "The children were subsequently rescued from the water, police say."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Sorrow",
+    "emoji": "😢",
+    "rationale": "The news items reveal a day marked by violence, loss, and humanitarian crises, leading to an overall feeling of sorrow and concern for communities impacted.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
