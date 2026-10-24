@@ -77087,5 +77087,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-24",
+    "emojis": [
+      {
+        "char": "🏴‍☠️",
+        "label": "looting in marseille",
+        "url": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
+        "title": "Looting Left Damage and Fear on Paradise Street in Marseille",
+        "summary": "Looters ravaged a storied commercial avenue in France’s second-largest city. Its merchants fear that more unrest could follow."
+      },
+      {
+        "char": "📡",
+        "label": "ukraine starlink stable",
+        "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine says Starlink connection 'now stable' after network limits",
+        "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
+      },
+      {
+        "char": "⚔️",
+        "label": "israel crackdown in west bank",
+        "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+        "title": "Israel Cracks Down in West Bank City After Deadly Attack",
+        "summary": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers."
+      },
+      {
+        "char": "🇧🇸",
+        "label": "british woman dies in bahamas",
+        "url": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
+        "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
+        "summary": "Mother, 36, died after current off North Bimini reportedly swept away two boys, who were later rescued, police say A British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were s..."
+      },
+      {
+        "char": "🚀",
+        "label": "hamilton aims for african grand prix",
+        "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+        "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+        "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is se..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
