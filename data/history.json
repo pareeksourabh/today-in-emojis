@@ -77263,5 +77263,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-25",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israel's high-stakes election",
+        "url": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
+        "title": "Israel’s High-Stakes Election: What to Know",
+        "summary": "Israelis head to the polls on Tuesday for an election that will determine the country’s next prime minister. But it can take weeks, months or longer to form a new government."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "lula supporters rally in brazil",
+        "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+        "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+        "summary": "Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio Bolsonaro More than one million supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most fam..."
+      },
+      {
+        "char": "🇫🇷",
+        "label": "mass protests in france",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+        "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries."
+      },
+      {
+        "char": "🔥",
+        "label": "nazi-era guesthouse gutted by fire",
+        "url": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
+        "title": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire",
+        "summary": "The police said on Saturday that the structure, a tourist attraction for decades, was probably not salvageable. A man was arrested in connection with the blaze."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola infection mystery in nigeria",
+        "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+        "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+        "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became i..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
