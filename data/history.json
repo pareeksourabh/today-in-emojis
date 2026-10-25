@@ -77131,5 +77131,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-25",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israel military action in west bank",
+        "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+        "title": "Israel Cracks Down in West Bank City After Deadly Attack",
+        "summary": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers."
+      },
+      {
+        "char": "🎙️",
+        "label": "brazil election podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
+        "title": "Brazil’s election and the battle for the Amazon – podcast",
+        "summary": "Our Latin America correspondent, Tom Phillips, heads to Roraima to hear what’s at stake for the rainforest and the communities that live there in the Brazilian presidential runoff on Sunday. Send your comments and questions to tif.questi..."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "us accuses canada of interference",
+        "url": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
+        "title": "Why Is the U.S. Accusing Canada of Election Interference?",
+        "summary": "The Trump administration says Canadian officials are trying to sway the midterm elections for Democrats. Prime Minister Mark Carney says those claims have “no merit.”"
+      },
+      {
+        "char": "🌍",
+        "label": "ukraine starlink connection stable",
+        "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine says Starlink connection 'now stable' after network limits",
+        "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "lula supporters rally in brazil",
+        "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+        "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+        "summary": "Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio Bolsonaro More than one million supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most fam..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
