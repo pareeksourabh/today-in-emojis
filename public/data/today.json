@@ -1,7 +1,42 @@
 {
   "date": "2026-10-25",
-  "timestamp": "2026-10-25T18:35:18Z",
+  "timestamp": "2026-10-25T00:00:00Z",
   "emojis": [
+    {
+      "char": "🇨🇦",
+      "label": "alberta migrant workers rights",
+      "url": "https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers",
+      "title": "Alberta welcomed migrant workers. Now, it wants to restrict their rights",
+      "summary": "‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz says When Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter. Outside the airport, it was -15C (5F). “I wo..."
+    },
+    {
+      "char": "🌳",
+      "label": "brazil election and amazon podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
+      "title": "Brazil’s election and the battle for the Amazon – podcast",
+      "summary": "Our Latin America correspondent, Tom Phillips, heads to Roraima to hear what’s at stake for the rainforest and the communities that live there in the Brazilian presidential runoff on Sunday. Send your comments and questions to tif.questi..."
+    },
+    {
+      "char": "🔥",
+      "label": "fire at hitler's eagle's nest",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola infection mystery in nigeria",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+      "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became i..."
+    },
+    {
+      "char": "🇫🇷",
+      "label": "unrest erupts again in france",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
+      "title": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
+      "summary": "After largely peaceful marches on Saturday, clashes broke out in the evening. But a large-scale police presence, 1,000 arrests and the rerouting of protest routes kept a lid on wholesale vandalism."
+    },
     {
       "char": "🦠",
       "label": "nigeria confirms ebola case",
@@ -10,34 +45,160 @@
       "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health minis..."
     },
     {
+      "char": "🚨",
+      "label": "ice detainees face deportation",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+      "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+      "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Send us your questions about immigration and the midterms Relatives of gravely ill detainees at two Florida immigration jai..."
+    },
+    {
+      "char": "🇫🇷",
+      "label": "unrest erupts again in france",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
+      "title": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
+      "summary": "After largely peaceful marches on Saturday, clashes broke out in the evening. But a large-scale police presence, 1,000 arrests and the rerouting of protest routes kept a lid on wholesale vandalism."
+    },
+    {
+      "char": "🌍",
+      "label": "ukraine says starlink connection stable",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
+    },
+    {
+      "char": "🗳️",
+      "label": "lula supporters rally in brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+      "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+      "summary": "Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio Bolsonaro More than one million supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most fam..."
+    },
+    {
+      "char": "🗳️",
+      "label": "serbia votes for new parliament",
+      "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html",
+      "title": "What to Know as Serbia Votes for a New Parliament",
+      "summary": "A student-led movement is challenging the governing party of Aleksandar Vucic, who has dominated Serbian politics for over a decade."
+    },
+    {
+      "char": "🌍",
+      "label": "tristan da cunha island exploration",
+      "url": "https://www.nytimes.com/2026/10/25/world/africa/tristan-da-cunha-island.html",
+      "title": "Far, Far Away",
+      "summary": "Making a home on the world’s most remote inhabited island."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola infection mystery in nigeria",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+      "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became i..."
+    },
+    {
       "char": "💉",
-      "label": "us-backed vaccine trial halted",
+      "label": "vaccine trial in african newborns halted",
       "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
       "title": "Controversial US-backed vaccine trial in African newborns halted",
       "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher s..."
     },
     {
-      "char": "🚀",
-      "label": "musk restricts ukraine's starlink",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
+      "char": "⚔️",
+      "label": "israel military action in west bank",
+      "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+      "title": "Israel Cracks Down in West Bank City After Deadly Attack",
+      "summary": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers."
+    },
+    {
+      "char": "🇮🇱",
+      "label": "israel cracks down in west bank",
+      "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+      "title": "Israel Cracks Down in West Bank City After Deadly Attack",
+      "summary": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers."
+    },
+    {
+      "char": "🇮🇷",
+      "label": "iranians face anxious wait",
+      "url": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
+      "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
+      "summary": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents."
+    },
+    {
+      "char": "🦠",
+      "label": "nigeria confirms ebola case",
+      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health minis..."
+    },
+    {
+      "char": "🇬🇧",
+      "label": "demand for uk action after death",
+      "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
+      "title": "Demand for UK government action 10 months after British man’s death in Grenada",
+      "summary": "Police closed case of Andrew Frederick despite autopsy report ruling his death a homicide A time-critical investigation into the death of a British man whose body was found in a ransacked property on the Caribbean island of Grenada has s..."
     },
     {
       "char": "🗳️",
-      "label": "brazil's election runoff",
+      "label": "brazilians vote in election runoff",
+      "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+      "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+      "summary": "Incumbent president lost in first round to senator and son of convicted ex-president Brazilians are going to the polls on Sunday in a highly unpredictable runoff in which the leftist president, Luiz Inácio Lula da Silva , is attempting a..."
+    },
+    {
+      "char": "🔫",
+      "label": "gunmen kill villagers in nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+      "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+      "summary": "Police are searching for other casualties, with officials warning the actual death toll could rise further."
+    },
+    {
+      "char": "🇫🇷",
+      "label": "france street clashes aftermath",
+      "url": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
+      "title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
+      "summary": "While the police kept a lid on vandalism, the huge number of protesters, and France’s fraught politics, suggest unrest could grow."
+    },
+    {
+      "char": "🚨",
+      "label": "ice detainees face deportation",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+      "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+      "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Send us your questions about immigration and the midterms Relatives of gravely ill detainees at two Florida immigration jai..."
+    },
+    {
+      "char": "🗳️",
+      "label": "serbia votes for new parliament",
+      "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html",
+      "title": "What to Know as Serbia Votes for a New Parliament",
+      "summary": "A student-led movement is challenging the governing party of Aleksandar Vucic, who has dominated Serbian politics for over a decade."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "brazil election runoff begins",
       "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
       "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
       "summary": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America."
-    },
-    {
-      "char": "🌍",
-      "label": "maria corina machado returns",
-      "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-      "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
-      "summary": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader María Corina Machado has announced she has returned to Venezuela almost a year after..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Concerned",
+    "emoji": "😨",
+    "rationale": "The news highlights significant issues such as unrest in France, the spread of Ebola in Nigeria, and severe actions against ICE detainees, creating a palpable sense of concern and anxiety about global stability.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
