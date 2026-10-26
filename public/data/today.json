@@ -1,204 +1,43 @@
 {
   "date": "2026-10-26",
-  "timestamp": "2026-10-26T00:00:00Z",
+  "timestamp": "2026-10-26T20:47:08Z",
   "emojis": [
     {
-      "char": "🇮🇷",
-      "label": "iranians face anxious wait",
-      "url": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
-      "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
-      "summary": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents."
+      "char": "⚖️",
+      "label": "lula defeats bolsonaro in brazil",
+      "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
+      "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
+      "summary": "President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago."
     },
     {
-      "char": "🇻🇪",
-      "label": "machado returns to venezuela",
-      "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-      "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
-      "summary": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader, María Corina Machado, has announced she has returned to Venezuela almost a year afte..."
-    },
-    {
-      "char": "🗳️",
-      "label": "israel's high-stakes election",
-      "url": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
-      "title": "Israel’s High-Stakes Election: What to Know",
-      "summary": "Israelis head to the polls on Tuesday for an election that will determine the country’s next prime minister. But it can take weeks, months or longer to form a new government."
-    },
-    {
-      "char": "🌍",
-      "label": "tristan da cunha island",
-      "url": "https://www.nytimes.com/2026/10/25/world/africa/tristan-da-cunha-island.html",
-      "title": "Far, Far Away",
-      "summary": "Making a home on the world’s most remote inhabited island."
-    },
-    {
-      "char": "🇧🇷",
-      "label": "brazil election live updates",
-      "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
-      "title": "Live Updates: Polls Close in Brazil as Presidential Race Comes to Chaotic Close",
-      "summary": "The leftist president, Luiz Inácio Lula da Silva, accused officials in some areas of slowing transit. His opponent, Flávio Bolsonaro, a Trump ally, said flooding was hampering his voters. Polling places were kept open an extra two hours."
-    },
-    {
-      "char": "🔫",
-      "label": "paris shooting suspect sent for observation",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
-    },
-    {
-      "char": "🗳️",
-      "label": "brazilians vote in presidential runoff",
-      "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
-      "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
-      "summary": "Incumbent president lost in first round to senator and son of convicted ex-president Brazilians are going to the polls on Sunday in a highly unpredictable runoff in which the leftist president, Luiz Inácio Lula da Silva , is attempting a..."
-    },
-    {
-      "char": "💔",
-      "label": "death toll in nigeria rises to 48",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-      "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze."
-    },
-    {
-      "char": "🚀",
-      "label": "musk restricts ukraine's starlink service",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
-    },
-    {
-      "char": "🛂",
-      "label": "ill ice detainees face deportation",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-      "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-      "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Send us your questions about immigration and the midterms Relatives of gravely ill detainees at two Florida immigration jai..."
-    },
-    {
-      "char": "✈️",
-      "label": "saudi arabia reopens airport",
-      "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
-      "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
-      "summary": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month."
-    },
-    {
-      "char": "🗳️",
-      "label": "israel braces for election",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "title": "Deeply divided Israel braces for pivotal election",
-      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson."
-    },
-    {
-      "char": "🇻🇪",
-      "label": "machado returns to venezuela",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
-    },
-    {
-      "char": "🦠",
-      "label": "vaccine trial in africa halted",
-      "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-      "title": "Controversial US-backed vaccine trial in African newborns halted",
-      "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher s..."
-    },
-    {
-      "char": "🇧🇷",
-      "label": "lula wins brazil election",
-      "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-      "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
-      "summary": "Leftist incumbent Lula says unprecedented comeback was a ‘defeat for denialism’ as Bolsonaro refuses to accept election result Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva , the Brazilian president, ha..."
-    },
-    {
-      "char": "🔫",
-      "label": "paris shooting suspect sent for observation",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
-    },
-    {
-      "char": "🦠",
-      "label": "uganda imposes quarantine for returnees",
-      "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-      "title": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
-      "summary": "Uganda will also not allow most travellers who have been in DR Congo to transit through the country."
-    },
-    {
-      "char": "⛪",
-      "label": "jordan arrests in church attack case",
-      "url": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
-      "title": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
-      "summary": "Nine people were killed and dozens were wounded in the attack last week on a Greek Orthodox Church in southern Jordan."
-    },
-    {
-      "char": "🇧🇴",
-      "label": "machado returns to venezuela",
-      "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-      "title": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
-      "summary": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader, María Corina Machado, has announced she has returned to Venezuela almost a year afte..."
-    },
-    {
-      "char": "🇧🇷",
-      "label": "lula wins historic election in brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-      "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
-      "summary": "Leftist incumbent Lula says unprecedented comeback was a ‘defeat for denialism’ as Bolsonaro refuses to accept election result Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva , the Brazilian president, ha..."
-    },
-    {
-      "char": "🇧🇷",
-      "label": "lula wins historic election in brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-      "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
-      "summary": "Leftist incumbent Lula says unprecedented comeback was a ‘defeat for denialism’ as Bolsonaro refuses to accept election result Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva , the Brazilian president, ha..."
-    },
-    {
-      "char": "🦠",
-      "label": "nurse killed in ebola alert attack",
-      "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-      "summary": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola."
-    },
-    {
-      "char": "💼",
-      "label": "chris brown sentenced for nightclub attack",
-      "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
-      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-      "summary": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle."
-    },
-    {
-      "char": "✈️",
+      "char": "🇩🇿",
       "label": "algeria sends troops to niger",
       "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
       "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
       "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border."
     },
     {
-      "char": "🌍",
-      "label": "uk sanctions sudanese military leaders",
-      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-      "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have bee..."
+      "char": "🎖️",
+      "label": "norway reacts to trump's comments",
+      "url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
+      "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
+      "summary": "Norwegian officials emphasized that their government does not have any influence over who receives the Peace Prize, after President Trump used crude language to express his frustration."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola concerns in nigeria",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+      "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became i..."
+    },
+    {
+      "char": "🚁",
+      "label": "us army trains for drone combat",
+      "url": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
+      "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
+      "summary": "The U.S. Army is training Apache pilots to shoot down drones as militaries around the world assess the efficacy of 20th-century technologies in a new era."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Concerned",
-    "emoji": "😨",
-    "rationale": "The news items reflect a pervasive sense of anxiety and dread, particularly around military threats and political instability, leading to the choice of the 'worried face' emoji.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }

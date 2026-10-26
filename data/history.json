@@ -77527,5 +77527,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-26",
+    "emojis": [
+      {
+        "char": "⚖️",
+        "label": "lula defeats bolsonaro in brazil",
+        "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
+        "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
+        "summary": "President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago."
+      },
+      {
+        "char": "🇩🇿",
+        "label": "algeria sends troops to niger",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+        "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+        "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border."
+      },
+      {
+        "char": "🎖️",
+        "label": "norway reacts to trump's comments",
+        "url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
+        "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
+        "summary": "Norwegian officials emphasized that their government does not have any influence over who receives the Peace Prize, after President Trump used crude language to express his frustration."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola concerns in nigeria",
+        "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+        "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+        "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became i..."
+      },
+      {
+        "char": "🚁",
+        "label": "us army trains for drone combat",
+        "url": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
+        "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
+        "summary": "The U.S. Army is training Apache pilots to shoot down drones as militaries around the world assess the efficacy of 20th-century technologies in a new era."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
