@@ -1,41 +1,41 @@
 {
   "date": "2026-10-26",
-  "timestamp": "2026-10-26T00:00:00Z",
+  "timestamp": "2026-10-26T18:30:13Z",
   "emojis": [
     {
+      "char": "⚠️",
+      "label": "anthropic warns of risk to humankind",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
+    },
+    {
+      "char": "🙏",
+      "label": "catholic bishops apologise for trump meeting",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private."
+    },
+    {
+      "char": "🔫",
+      "label": "teenager arrested after florida shooting",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+      "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+      "summary": "The incident happened on Saturday night, close to an American football stadium where a game had just been played."
+    },
+    {
       "char": "🇧🇷",
-      "label": "lula wins historic election in brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-      "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
-      "summary": "Leftist incumbent Lula says unprecedented comeback was a ‘defeat for denialism’ as Bolsonaro refuses to accept election result Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva , the Brazilian president, ha..."
+      "label": "lula defeats bolsonaro for brazil presidency",
+      "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
+      "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
+      "summary": "President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago."
     },
     {
-      "char": "🦠",
-      "label": "nurse killed in ebola alert attack",
-      "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-      "summary": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola."
-    },
-    {
-      "char": "💼",
-      "label": "chris brown sentenced for nightclub attack",
-      "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
-      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-      "summary": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle."
-    },
-    {
-      "char": "✈️",
-      "label": "algeria sends troops to niger",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border."
-    },
-    {
-      "char": "🌍",
-      "label": "uk sanctions sudanese military leaders",
-      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-      "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have bee..."
+      "char": "💔",
+      "label": "mystery over ebola infection in nigeria",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+      "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became i..."
     }
   ],
   "source": "ai-openai",

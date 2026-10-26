@@ -77483,5 +77483,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-26",
+    "emojis": [
+      {
+        "char": "⚠️",
+        "label": "anthropic warns of risk to humankind",
+        "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+        "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+        "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
+      },
+      {
+        "char": "🙏",
+        "label": "catholic bishops apologise for trump meeting",
+        "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+        "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+        "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private."
+      },
+      {
+        "char": "🔫",
+        "label": "teenager arrested after florida shooting",
+        "url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+        "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+        "summary": "The incident happened on Saturday night, close to an American football stadium where a game had just been played."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "lula defeats bolsonaro for brazil presidency",
+        "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
+        "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
+        "summary": "President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago."
+      },
+      {
+        "char": "💔",
+        "label": "mystery over ebola infection in nigeria",
+        "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+        "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+        "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became i..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
