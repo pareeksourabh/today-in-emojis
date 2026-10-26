@@ -77395,5 +77395,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-26",
+    "emojis": [
+      {
+        "char": "🇷🇸",
+        "label": "vucic concedes defeat in serbia",
+        "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+        "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+        "summary": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "lula wins re-election in brazil",
+        "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+        "title": "Lula Wins Re-election as Bolsonaro Rejects Result",
+        "summary": "President Luiz Inácio Lula da Silva’s win ended a string of conservative victories in Latin America. His opponent, Flávio Bolsonaro, called for the election to be annulled."
+      },
+      {
+        "char": "🔫",
+        "label": "paris shooting suspect sent for observation",
+        "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+        "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+        "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
+      },
+      {
+        "char": "✈️",
+        "label": "saudi arabia reopens riyadh airport",
+        "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+        "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+        "summary": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola infection mystery in nigeria",
+        "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+        "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+        "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became i..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]

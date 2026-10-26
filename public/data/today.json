@@ -1,41 +1,41 @@
 {
   "date": "2026-10-26",
-  "timestamp": "2026-10-26T00:00:00Z",
+  "timestamp": "2026-10-26T09:56:35Z",
   "emojis": [
     {
+      "char": "🇷🇸",
+      "label": "vucic concedes defeat in serbia",
+      "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+      "summary": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "lula wins re-election in brazil",
+      "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+      "title": "Lula Wins Re-election as Bolsonaro Rejects Result",
+      "summary": "President Luiz Inácio Lula da Silva’s win ended a string of conservative victories in Latin America. His opponent, Flávio Bolsonaro, called for the election to be annulled."
+    },
+    {
+      "char": "🔫",
+      "label": "paris shooting suspect sent for observation",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
+    },
+    {
       "char": "✈️",
-      "label": "saudi arabia reopens airport",
+      "label": "saudi arabia reopens riyadh airport",
       "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
       "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
       "summary": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month."
     },
     {
-      "char": "🗳️",
-      "label": "israel braces for election",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "title": "Deeply divided Israel braces for pivotal election",
-      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson."
-    },
-    {
-      "char": "🇻🇪",
-      "label": "machado returns to venezuela",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
-    },
-    {
       "char": "🦠",
-      "label": "vaccine trial in africa halted",
-      "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-      "title": "Controversial US-backed vaccine trial in African newborns halted",
-      "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher s..."
-    },
-    {
-      "char": "🇧🇷",
-      "label": "lula wins brazil election",
-      "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-      "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
-      "summary": "Leftist incumbent Lula says unprecedented comeback was a ‘defeat for denialism’ as Bolsonaro refuses to accept election result Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva , the Brazilian president, ha..."
+      "label": "ebola infection mystery in nigeria",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+      "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became i..."
     }
   ],
   "source": "ai-openai",
