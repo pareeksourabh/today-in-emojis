@@ -77351,5 +77351,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-26",
+    "emojis": [
+      {
+        "char": "🦠",
+        "label": "ebola infection concerns in nigeria",
+        "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+        "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+        "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became i..."
+      },
+      {
+        "char": "🏎️",
+        "label": "hamilton aims for african grand prix",
+        "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+        "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+        "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is se..."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "lula wins brazil election",
+        "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+        "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+        "summary": "Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva , the Brazilian president, has staged..."
+      },
+      {
+        "char": "🇸🇮",
+        "label": "serbia celebrates election outcome",
+        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+        "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+        "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
+      },
+      {
+        "char": "🇻🇪",
+        "label": "machado returns to venezuela",
+        "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+        "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
+        "summary": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader, María Corina Machado, has announced she has returned to Venezuela almost a year afte..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
