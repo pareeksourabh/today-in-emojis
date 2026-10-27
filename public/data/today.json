@@ -1,64 +1,43 @@
 {
-  "date": "2026-10-26",
-  "timestamp": "2026-10-26T20:47:08Z",
+  "date": "2026-10-27",
+  "timestamp": "2026-10-27T00:00:00Z",
   "emojis": [
     {
-      "char": "⚖️",
-      "label": "lula defeats bolsonaro in brazil",
-      "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
-      "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
-      "summary": "President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago."
+      "char": "🇧🇷",
+      "label": "brazil election runoff updates",
+      "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+      "title": "Brazil runoff as it happened: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
+      "summary": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second r..."
     },
     {
-      "char": "🇩🇿",
-      "label": "algeria sends troops to niger",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border."
-    },
-    {
-      "char": "🎖️",
-      "label": "norway reacts to trump's comments",
-      "url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
-      "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
-      "summary": "Norwegian officials emphasized that their government does not have any influence over who receives the Peace Prize, after President Trump used crude language to express his frustration."
+      "char": "🇷🇸",
+      "label": "vucic concedes defeat in serbia",
+      "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+      "summary": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents."
     },
     {
       "char": "🦠",
-      "label": "ebola concerns in nigeria",
+      "label": "ebola infection mystery in nigeria",
       "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
       "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
       "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became i..."
     },
     {
       "char": "🚁",
-      "label": "us army trains for drone combat",
+      "label": "us army trains apache pilots",
       "url": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
       "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
       "summary": "The U.S. Army is training Apache pilots to shoot down drones as militaries around the world assess the efficacy of 20th-century technologies in a new era."
+    },
+    {
+      "char": "⚖️",
+      "label": "uk sanctions sudanese military leaders",
+      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+      "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have bee..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😮",
-    "emoji": "😮",
-    "rationale": "The day's news featured significant political shifts and concerning health crises, evoking a sense of astonishment and urgency. From Lula's victory to the Ebola outbreak, the world is witnessing pivotal moments that could reshape futures.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
