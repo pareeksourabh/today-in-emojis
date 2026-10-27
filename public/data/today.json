@@ -1,7 +1,14 @@
 {
   "date": "2026-10-27",
-  "timestamp": "2026-10-27T00:00:00Z",
+  "timestamp": "2026-10-27T03:01:25Z",
   "emojis": [
+    {
+      "char": "💡",
+      "label": "sudan drone strikes cause power cuts",
+      "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+      "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+      "summary": "Rapid Support Forces strike five power stations in three states controlled by Sudanese army Sudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass power outages across..."
+    },
     {
       "char": "🇧🇷",
       "label": "brazil election runoff updates",
@@ -10,32 +17,25 @@
       "summary": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second r..."
     },
     {
-      "char": "🇷🇸",
-      "label": "vucic concedes defeat in serbia",
-      "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
-      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
-      "summary": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents."
-    },
-    {
-      "char": "🦠",
-      "label": "ebola infection mystery in nigeria",
-      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
-      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-      "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became i..."
-    },
-    {
-      "char": "🚁",
-      "label": "us army trains apache pilots",
-      "url": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
-      "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
-      "summary": "The U.S. Army is training Apache pilots to shoot down drones as militaries around the world assess the efficacy of 20th-century technologies in a new era."
-    },
-    {
       "char": "⚖️",
       "label": "uk sanctions sudanese military leaders",
       "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
       "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
       "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have bee..."
+    },
+    {
+      "char": "🗳️",
+      "label": "serbia election shows populist vulnerability",
+      "url": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
+      "title": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
+      "summary": "In much of Europe, the advance of the right has been seen as unstoppable. But in the east, nationalists are being cast aside in places where they long governed."
+    },
+    {
+      "char": "🌍",
+      "label": "diplomacy in iran amid war reports",
+      "url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+      "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+      "summary": "Saudi Arabia, Turkey and Pakistan made a rare joint visit to Tehran amid reports that the U.S. and Israel were drawing up plans to renew their attacks on Iran."
     }
   ],
   "source": "ai-openai",
