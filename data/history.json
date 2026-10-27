@@ -77747,5 +77747,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-27",
+    "emojis": [
+      {
+        "char": "📞",
+        "label": "european leaders call putin",
+        "url": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
+        "title": "European Leaders Split Over Phone Call to Putin",
+        "summary": "The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcome by all European leaders."
+      },
+      {
+        "char": "🗳️",
+        "label": "israel election nationalism vs ideals",
+        "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
+        "title": "In Israel’s Election, It’s Nationalism vs. Founding Ideals",
+        "summary": "As Israel votes, ever more strident hard-right views compete with hopes for a diverse land. The outcome could shape the country’s identity for years."
+      },
+      {
+        "char": "🇿🇦",
+        "label": "south africa soldiers deployed",
+        "url": "https://www.nytimes.com/2026/10/27/world/africa/south-africa-durban-soldiers.html",
+        "title": "South Africa Deploys 500 Soldiers to Quell Anti-Immigration Violence",
+        "summary": "The deployment comes after a foreign national was beaten to death by a mob during an anti-immigrant protest last week."
+      },
+      {
+        "char": "🇬🇧",
+        "label": "uk sanctions sudanese leaders",
+        "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+        "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+        "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have bee..."
+      },
+      {
+        "char": "💼",
+        "label": "trump explores lifting sanctions",
+        "url": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
+        "title": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
+        "summary": "The move would be the latest U.S. concession to Moscow as President Trump pursues economic incentives he hopes will secure an end to war in Ukraine."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
