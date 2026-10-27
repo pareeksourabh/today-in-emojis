@@ -1,21 +1,7 @@
 {
   "date": "2026-10-27",
-  "timestamp": "2026-10-27T00:00:00Z",
+  "timestamp": "2026-10-27T09:42:11Z",
   "emojis": [
-    {
-      "char": "🇬🇧",
-      "label": "uk sanctions sudanese military leaders",
-      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-      "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have bee..."
-    },
-    {
-      "char": "👩‍🍳",
-      "label": "meghan co-hosts junior masterchef",
-      "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
-      "title": "Meghan to co-host Junior MasterChef Australia",
-      "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year."
-    },
     {
       "char": "🇧🇷",
       "label": "lula's comeback in brazil",
@@ -24,18 +10,32 @@
       "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders."
     },
     {
-      "char": "🇷🇸",
-      "label": "vucic concedes defeat in serbia",
-      "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
-      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
-      "summary": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents."
+      "char": "👩‍🍳",
+      "label": "meghan co-hosts masterchef",
+      "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
+      "title": "Meghan to co-host Junior MasterChef Australia",
+      "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year."
     },
     {
-      "char": "🇪🇬",
-      "label": "egypt okays military aid to saudis",
-      "url": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
-      "title": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
-      "summary": "The Egyptians will commit forces for defensive purposes only, officials have said, as the kingdom exchanges increasingly deadly strikes with the Iranian-backed militia in Yemen."
+      "char": "🚁",
+      "label": "sudan drone strikes cause power cuts",
+      "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+      "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+      "summary": "Rapid Support Forces strike five power stations in three states controlled by Sudanese army Sudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass power outages across..."
+    },
+    {
+      "char": "📰",
+      "label": "trump disparages norway's nobel prize",
+      "url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
+      "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
+      "summary": "Norwegian officials emphasized that their government does not have any influence over who receives the Peace Prize, after President Trump used crude language to express his frustration."
+    },
+    {
+      "char": "📖",
+      "label": "maxxing is word of the year",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+      "title": "'Maxxing' selected as Dictionary.com word of the year",
+      "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising."
     }
   ],
   "source": "ai-openai",

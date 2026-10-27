@@ -77615,5 +77615,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-27",
+    "emojis": [
+      {
+        "char": "🇧🇷",
+        "label": "lula's comeback in brazil",
+        "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+        "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+        "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders."
+      },
+      {
+        "char": "👩‍🍳",
+        "label": "meghan co-hosts masterchef",
+        "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
+        "title": "Meghan to co-host Junior MasterChef Australia",
+        "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year."
+      },
+      {
+        "char": "🚁",
+        "label": "sudan drone strikes cause power cuts",
+        "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+        "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+        "summary": "Rapid Support Forces strike five power stations in three states controlled by Sudanese army Sudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass power outages across..."
+      },
+      {
+        "char": "📰",
+        "label": "trump disparages norway's nobel prize",
+        "url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
+        "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
+        "summary": "Norwegian officials emphasized that their government does not have any influence over who receives the Peace Prize, after President Trump used crude language to express his frustration."
+      },
+      {
+        "char": "📖",
+        "label": "maxxing is word of the year",
+        "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+        "title": "'Maxxing' selected as Dictionary.com word of the year",
+        "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
