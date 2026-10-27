@@ -77703,5 +77703,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-27",
+    "emojis": [
+      {
+        "char": "⚽",
+        "label": "mbappé's controversial remark",
+        "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+        "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+        "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "flávio bolsonaro flees brazil",
+        "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+        "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+        "summary": "Far-right senator on plane to US after missing deadline to hand over his passport since loss to Lula The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s president..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola infection mystery in nigeria",
+        "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+        "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+        "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became i..."
+      },
+      {
+        "char": "🕊️",
+        "label": "cease-fire in ukrainian city",
+        "url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+        "title": "Cease-Fire Brokered by Melania Trump Begins in Ukrainian City of Oleshky",
+        "summary": "Many people left in Oleshky, where bombardment is constant, have run out of food. A truce that began Tuesday is supposed to allow aid in and civilians out."
+      },
+      {
+        "char": "🌍",
+        "label": "king charles' caribbean tour",
+        "url": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
+        "title": "King Charles Faces High Stakes Test With Caribbean Tour",
+        "summary": "The king will confront calls for reparations and apologies for his country’s colonial past as he attends the Commonwealth heads of government meeting."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
