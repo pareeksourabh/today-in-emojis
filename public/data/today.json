@@ -1,34 +1,27 @@
 {
   "date": "2026-10-28",
-  "timestamp": "2026-10-28T14:56:16Z",
+  "timestamp": "2026-10-28T00:00:00Z",
   "emojis": [
     {
-      "char": "🌊",
-      "label": "us forces accused of weaponising floods",
-      "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-      "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-      "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy? The water was..."
-    },
-    {
-      "char": "🇻🇪",
-      "label": "trump floats venezuela as 51st state",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
-      "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
-      "summary": "President at Texas campaign rally hails deal struck with post-Maduro government as ‘greatest oil victory in history’ Donald Trump suggested Venezuela would become the 51st state of the United States on Tuesday as the president showed off..."
-    },
-    {
-      "char": "💥",
+      "char": "🚁",
       "label": "sudan drone strikes cause power cuts",
       "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
       "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
       "summary": "Rapid Support Forces strike five power stations in three states controlled by Sudanese army Sudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass power outages across..."
     },
     {
-      "char": "🔫",
-      "label": "serbian shot outside israeli embassy",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
+      "char": "🇬🇧",
+      "label": "uk sanctions military leaders in sudan",
+      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+      "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have bee..."
+    },
+    {
+      "char": "🌊",
+      "label": "mexico declares war on seaweed",
+      "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+      "title": "The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed.",
+      "summary": "To protect Mexico’s tourism-reliant economy, the Navy is fighting a massive sargassum bloom that dumps thousands of tons of seaweed onto Caribbean beaches daily."
     },
     {
       "char": "📰",
@@ -36,6 +29,13 @@
       "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
       "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
       "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been rele..."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola outbreak could reach uk",
+      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+      "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+      "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and oth..."
     }
   ],
   "source": "ai-openai",
