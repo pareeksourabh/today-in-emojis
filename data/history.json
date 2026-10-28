@@ -77835,5 +77835,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-28",
+    "emojis": [
+      {
+        "char": "🇮🇱",
+        "label": "israel election outcome unclear",
+        "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+        "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
+        "summary": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days."
+      },
+      {
+        "char": "🦁",
+        "label": "zookeeper dies from leopard attack",
+        "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+        "title": "Dutch zookeeper dies after being mauled by leopard",
+        "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades."
+      },
+      {
+        "char": "🕊️",
+        "label": "ukraine ceasefire extended",
+        "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+        "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+        "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported."
+      },
+      {
+        "char": "🌍",
+        "label": "king acknowledges past suffering",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+        "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+        "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda."
+      },
+      {
+        "char": "💔",
+        "label": "ebola outbreak could reach uk",
+        "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+        "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+        "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and oth..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
