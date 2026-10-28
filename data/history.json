@@ -77791,5 +77791,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-28",
+    "emojis": [
+      {
+        "char": "📞",
+        "label": "norway and finland leaders call putin",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+        "title": "Norway and Finland leaders hold rare call with Putin",
+        "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
+      },
+      {
+        "char": "🗳️",
+        "label": "israel election live updates",
+        "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+        "title": "Israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear",
+        "summary": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days."
+      },
+      {
+        "char": "🇬🇧",
+        "label": "uk sanctions sudanese military leaders",
+        "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+        "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+        "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have bee..."
+      },
+      {
+        "char": "📰",
+        "label": "egypt court orders news site closed",
+        "url": "https://www.nytimes.com/2026/10/27/world/europe/egypt-press-crackdown-mada-masr-attalah.html",
+        "title": "Egyptian Court Orders News Site Closed as Critics Warn of a Crackdown",
+        "summary": "Mada Masr, one of Egypt’s few independent media outlets, said a judge ordered it closed for operating without a license and detained its editor in chief."
+      },
+      {
+        "char": "🇿🇦",
+        "label": "south africa deploys soldiers against violence",
+        "url": "https://www.nytimes.com/2026/10/27/world/africa/south-africa-durban-soldiers.html",
+        "title": "South Africa Deploys 500 Soldiers to Quell Anti-Immigration Violence",
+        "summary": "The deployment comes after a foreign national was beaten to death by a mob during an anti-immigrant protest last week."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
