@@ -1,41 +1,41 @@
 {
   "date": "2026-10-28",
-  "timestamp": "2026-10-28T10:27:16Z",
+  "timestamp": "2026-10-28T00:00:00Z",
   "emojis": [
     {
-      "char": "🇮🇱",
-      "label": "israel election outcome unclear",
-      "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
-      "summary": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days."
+      "char": "🇬🇧",
+      "label": "uk aid spending target missed",
+      "url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
+      "title": "UK poised to miss reduced aid spending target of 0.3% of national income",
+      "summary": "Calculations from the Center for Global Development say spending next year is likely to be £410m less than anticipated The UK is on course to miss its target of spending 0.3% of national income on international aid by an estimated £400m..."
     },
     {
-      "char": "🦁",
-      "label": "zookeeper dies from leopard attack",
-      "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
-      "title": "Dutch zookeeper dies after being mauled by leopard",
-      "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades."
-    },
-    {
-      "char": "🕊️",
-      "label": "ukraine ceasefire extended",
-      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported."
+      "char": "🇸🇩",
+      "label": "uk sanctions sudanese leaders",
+      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+      "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have bee..."
     },
     {
       "char": "🌍",
-      "label": "king acknowledges past suffering",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-      "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda."
+      "label": "tanzania's gas discovery celebrated",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "summary": "The energy minister described it as a \"major milestone\" for the East African nation."
     },
     {
-      "char": "💔",
-      "label": "ebola outbreak could reach uk",
-      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-      "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-      "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and oth..."
+      "char": "🛢️",
+      "label": "trump floats venezuela as state",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
+      "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
+      "summary": "President at Texas campaign rally hails deal struck with post-Maduro government as ‘greatest oil victory in history’ Donald Trump suggested Venezuela would become the 51st state of the United States on Tuesday as the president showed off..."
+    },
+    {
+      "char": "🐆",
+      "label": "zookeeper mauled by leopard",
+      "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+      "title": "Dutch zookeeper dies after being mauled by leopard",
+      "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades."
     }
   ],
   "source": "ai-openai",
