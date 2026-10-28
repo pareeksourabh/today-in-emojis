@@ -1,64 +1,43 @@
 {
-  "date": "2026-10-27",
-  "timestamp": "2026-10-27T20:16:55Z",
+  "date": "2026-10-28",
+  "timestamp": "2026-10-28T00:00:00Z",
   "emojis": [
     {
       "char": "📞",
-      "label": "european leaders call putin",
+      "label": "european leaders split over putin call",
       "url": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
       "title": "European Leaders Split Over Phone Call to Putin",
-      "summary": "The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcome by all European leaders."
+      "summary": "The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcomed by all European leaders."
     },
     {
-      "char": "🗳️",
-      "label": "israel election nationalism vs ideals",
-      "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
-      "title": "In Israel’s Election, It’s Nationalism vs. Founding Ideals",
-      "summary": "As Israel votes, ever more strident hard-right views compete with hopes for a diverse land. The outcome could shape the country’s identity for years."
-    },
-    {
-      "char": "🇿🇦",
-      "label": "south africa soldiers deployed",
-      "url": "https://www.nytimes.com/2026/10/27/world/africa/south-africa-durban-soldiers.html",
-      "title": "South Africa Deploys 500 Soldiers to Quell Anti-Immigration Violence",
-      "summary": "The deployment comes after a foreign national was beaten to death by a mob during an anti-immigrant protest last week."
+      "char": "🎓",
+      "label": "serbian students challenge media",
+      "url": "https://www.nytimes.com/2026/10/27/world/europe/serbia-student-list-news-media-vucic.html",
+      "title": "Serbian Students, Victorious and Leaderless, Go After the Media",
+      "summary": "Supporters of the opposition movement that won Sunday’s election stormed the offices of a pro-government tabloid. Another news outlet apologized for years of “one-sided” coverage."
     },
     {
       "char": "🇬🇧",
-      "label": "uk sanctions sudanese leaders",
+      "label": "uk sanctions sudanese military leaders",
       "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
       "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
       "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have bee..."
     },
     {
-      "char": "💼",
-      "label": "trump explores lifting sanctions",
-      "url": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
-      "title": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
-      "summary": "The move would be the latest U.S. concession to Moscow as President Trump pursues economic incentives he hopes will secure an end to war in Ukraine."
+      "char": "⚔️",
+      "label": "us military strike in eastern pacific",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
+      "title": "US military says strike on alleged drug vessel in eastern Pacific kills five people",
+      "summary": "US military says it carried out an airstrike on an alleged drug-trafficking boat in latest attack in region The US ⁠military ⁠ said on ​Tuesday ⁠it killed ⁠five ​people ‌after ‌an airstrike on a ‌suspected drug-trafficking vessel in ​the..."
+    },
+    {
+      "char": "🌍",
+      "label": "king charles caribbean tour challenges",
+      "url": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
+      "title": "King Charles Faces High Stakes Test With Caribbean Tour",
+      "summary": "The king will confront calls for reparations and apologies for his country’s colonial past as he attends the Commonwealth heads of government meeting."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "😔",
-    "emoji": "😔",
-    "rationale": "Today's news reflects a mix of diplomatic tensions, rising nationalism, and violence, leaving a sense of sadness for the state of global affairs and human rights.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
