@@ -78187,5 +78187,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-29",
+    "emojis": [
+      {
+        "char": "🎶",
+        "label": "bryan adams trolls trump",
+        "url": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
+        "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
+        "summary": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint..."
+      },
+      {
+        "char": "🚆",
+        "label": "spain train crash investigation",
+        "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+        "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+        "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled."
+      },
+      {
+        "char": "🇨🇦",
+        "label": "eu backs away from canada talks",
+        "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
+        "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
+        "summary": "Watered-down version of statement to be issued at end of Montreal summit instead offers ‘ever closer association’ The EU has backed away from its offer to Canada to start talks on becoming an “associate member” after disagreements betwee..."
+      },
+      {
+        "char": "🔫",
+        "label": "france shootings suspect targeted minorities",
+        "url": "https://www.nytimes.com/2026/10/29/world/europe/france-shootings-suspect.html",
+        "title": "Suspect in France Shootings Said He Targeted Muslims and Africans, Prosecutor Says",
+        "summary": "The suspect, identified only as Kévin T., admitted to planning the attacks near Paris last week, the prosecutor said. One person was killed and seven wounded."
+      },
+      {
+        "char": "🗳️",
+        "label": "haiti elections postponed due to violence",
+        "url": "https://www.nytimes.com/2026/10/29/world/americas/haiti-elections-postponed-violence.html",
+        "title": "Haiti Postpones Elections as Gang Violence Runs Rampant",
+        "summary": "Haiti is in the throes of debilitating gang violence, which has kept officials from organizing an election to pick a new president."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
