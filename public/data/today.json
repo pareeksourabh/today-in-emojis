@@ -1,34 +1,104 @@
 {
   "date": "2026-10-29",
-  "timestamp": "2026-10-29T18:15:13Z",
+  "timestamp": "2026-10-29T00:00:00Z",
   "emojis": [
     {
+      "char": "🐺",
+      "label": "girl injured in wolf attack",
+      "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked."
+    },
+    {
+      "char": "🎭",
+      "label": "hayden panettiere's death ruled accidental",
+      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs."
+    },
+    {
+      "char": "🇮🇱",
+      "label": "israel election deadlock scenarios",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections."
+    },
+    {
       "char": "🇧🇷",
-      "label": "flávio bolsonaro's election loss",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "summary": "The defeated presidential candidate says he will lead the opposition from the US."
+      "label": "flávio bolsonaro flees to miami",
+      "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+      "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
+      "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador Flávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing t..."
     },
     {
-      "char": "🌧️",
-      "label": "us forces weaponising somalia floods",
-      "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-      "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-      "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy? The water was..."
+      "char": "🌍",
+      "label": "tanzania's natural gas discovery",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "summary": "The energy minister described it as a \"major milestone\" for the East African nation."
     },
     {
-      "char": "⚡",
-      "label": "sudan drone strikes cause power cuts",
-      "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
-      "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-      "summary": "Rapid Support Forces strike five power stations in three states controlled by Sudanese army Sudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass power outages across..."
+      "char": "📰",
+      "label": "egypt fines editor and shuts outlet",
+      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+      "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been rele..."
     },
     {
-      "char": "🇨🇦",
-      "label": "us ambassador comments on midterms",
-      "url": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
-      "title": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
-      "summary": "Pete Hoekstra, controversial US ambassador to Canada, has also accused Canadian officials of interfering in US elections The US ambassador has suggested Canada could be blamed if Republicans perform poorly in next week’s midterm election..."
+      "char": "🔪",
+      "label": "serbian shot outside israeli embassy",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
+    },
+    {
+      "char": "✈️",
+      "label": "flavio bolsonaro lands in miami",
+      "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
+      "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
+      "summary": "Mr. Bolsonaro, who lost Sunday’s presidential election, fled Brazil for the United States via Argentina after the police canceled his passport in relation to an investigation."
+    },
+    {
+      "char": "🌍",
+      "label": "ebola outbreak could reach uk",
+      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+      "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+      "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and oth..."
+    },
+    {
+      "char": "🚆",
+      "label": "train crash kills 68 in spain",
+      "url": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
+      "title": "At Least 68 Killed in Train Crash in Spain, Officials Say",
+      "summary": "A high-speed passenger train rear-ended another near Toledo, months after a crash involving the same carriers killed dozens and stunned the country."
+    },
+    {
+      "char": "🇬🇧",
+      "label": "uk sanctions sudanese leaders",
+      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+      "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have bee..."
+    },
+    {
+      "char": "🚨",
+      "label": "train crash in spain kills 68",
+      "url": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
+      "title": "At Least 68 Killed in Train Crash in Spain, Officials Say",
+      "summary": "A high-speed passenger train rear-ended another near Toledo, months after a crash involving the same carriers killed dozens and stunned the country."
+    },
+    {
+      "char": "🌍",
+      "label": "flávio bolsonaro flees to miami",
+      "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
+      "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
+      "summary": "Mr. Bolsonaro, who lost Sunday’s presidential election, fled Brazil for the United States via Argentina after the police canceled his passport in relation to an investigation."
+    },
+    {
+      "char": "🔪",
+      "label": "knife attacker shot outside embassy",
+      "url": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
+      "title": "Knife-Wielding Attacker Fatally Shot Outside Israeli Embassy in Serbia",
+      "summary": "The attacker, a minor, appeared to be a supporter of the Islamic State, the government said. Authorities have described it as a terrorist attack."
     },
     {
       "char": "🦠",
@@ -36,8 +106,99 @@
       "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
       "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
       "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and oth..."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "us ambassador on canada and trump",
+      "url": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
+      "title": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
+      "summary": "Pete Hoekstra, controversial US ambassador to Canada, has also accused Canadian officials of interfering in US elections The US ambassador has suggested Canada could be blamed if Republicans perform poorly in next week’s midterm election..."
+    },
+    {
+      "char": "🦠",
+      "label": "nigeria ebola patient evacuated",
+      "url": "https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html",
+      "title": "Nigeria’s Ebola Patient Evacuated as Investigators Press for Answers",
+      "summary": "More than a week after the first case was reported in Africa’s most populous nation, pressing questions about the infection remain unanswered."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "flávio bolsonaro in miami",
+      "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+      "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
+      "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador Flávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing t..."
+    },
+    {
+      "char": "👑",
+      "label": "king charles on slavery legacy",
+      "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+      "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+      "summary": "Royal tour of Caribbean comes as poll suggests majority support among younger Britons for dialogue on slavery reparations King Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins..."
+    },
+    {
+      "char": "🚆",
+      "label": "spain train crash investigation",
+      "url": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
+      "title": "Spain Crash Investigators Focus on Train Traffic Controllers’ Role",
+      "summary": "After the country’s second major rail disaster in a year, Spaniards were confronting questions about the safety of their once-vaunted rail system."
+    },
+    {
+      "char": "🔍",
+      "label": "philippine police search warrant",
+      "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+      "summary": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines."
+    },
+    {
+      "char": "🔫",
+      "label": "france shootings suspect arrested",
+      "url": "https://www.nytimes.com/2026/10/29/world/europe/france-shootings-suspect.html",
+      "title": "Suspect in France Shootings Said He Targeted Muslims and Africans, Prosecutor Says",
+      "summary": "The suspect, identified only as Kévin T., admitted to planning the attacks near Paris last week, the prosecutor said. One person was killed and seven wounded."
+    },
+    {
+      "char": "🌊",
+      "label": "us forces weaponising somalia floods",
+      "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
+      "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+      "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy? The water was..."
+    },
+    {
+      "char": "🚆",
+      "label": "spain train crash investigation",
+      "url": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
+      "title": "Spain Crash Investigators Focus on Train Traffic Controllers’ Role",
+      "summary": "After the country’s second major rail disaster in a year, Spaniards were confronting questions about the safety of their once-vaunted rail system."
+    },
+    {
+      "char": "🌍",
+      "label": "ebola outbreak could reach uk",
+      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+      "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+      "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and oth..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "sadness",
+    "emoji": "😢",
+    "rationale": "The overall emotional essence of the day reflects a sense of sadness due to multiple tragic events and serious issues highlighted in the news, including accidents, violence, and health crises.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
