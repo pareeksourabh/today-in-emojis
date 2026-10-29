@@ -1,64 +1,43 @@
 {
-  "date": "2026-10-28",
-  "timestamp": "2026-10-28T20:37:11Z",
+  "date": "2026-10-29",
+  "timestamp": "2026-10-29T00:00:00Z",
   "emojis": [
     {
-      "char": "🚁",
-      "label": "sudan drone strikes cause power cuts",
-      "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
-      "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-      "summary": "Rapid Support Forces strike five power stations in three states controlled by Sudanese army Sudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass power outages across..."
+      "char": "🐺",
+      "label": "girl injured in wolf attack",
+      "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked."
     },
     {
-      "char": "🗳️",
-      "label": "israel election results show challenges",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
+      "char": "🎭",
+      "label": "hayden panettiere's death ruled accidental",
+      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs."
     },
     {
-      "char": "🔪",
-      "label": "knife attacker shot outside embassy",
-      "url": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
-      "title": "Knife-Wielding Attacker Fatally Shot Outside Israeli Embassy in Serbia",
-      "summary": "The attacker, a minor, appeared to be a supporter of the Islamic State, the government said. Authorities have described it as a terrorist attack."
+      "char": "🇮🇱",
+      "label": "israel election deadlock scenarios",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections."
     },
     {
-      "char": "🇲🇽",
-      "label": "missing woman case in mexico",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico",
-      "title": "A US woman feared dead was reported alive in Mexico. But police now say that isn’t true",
-      "summary": "Mexican police had said they found Shayna Feinman in Tijuana, raising the hopes of missing Arizonan’s family Arizona authorities say their Mexican counterparts were resoundingly mistaken when they publicly claimed recently that they foun..."
+      "char": "🇧🇷",
+      "label": "flávio bolsonaro flees to miami",
+      "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+      "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
+      "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador Flávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing t..."
     },
     {
-      "char": "⚖️",
-      "label": "uk sanctions sudanese military leaders",
-      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-      "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have bee..."
+      "char": "🌍",
+      "label": "tanzania's natural gas discovery",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "summary": "The energy minister described it as a \"major milestone\" for the East African nation."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "Today's news reflects a deep sense of sorrow due to the violence and chaos in Sudan, the tragic event outside the Israeli embassy, and the false hope surrounding the missing woman. These stories highlight the ongoing human suffering and the",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
