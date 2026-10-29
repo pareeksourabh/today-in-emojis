@@ -78055,5 +78055,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-29",
+    "emojis": [
+      {
+        "char": "🇨🇦",
+        "label": "eu backs away from canada talks",
+        "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
+        "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
+        "summary": "Watered-down version of statement to be issued at end of Montreal summit instead offers ‘ever closer association’ The EU has backed away from its offer to Canada to start talks on becoming an “associate member” after disagreements betwee..."
+      },
+      {
+        "char": "🐉",
+        "label": "china unhappy about ai videos",
+        "url": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
+        "title": "China Is Not Happy About Fan-made A.I. Videos of Sun Wukong and Lin Daiyu",
+        "summary": "Mash-up videos of beloved characters from Chinese classics — some made with A.I. — have caught the attention of the authorities."
+      },
+      {
+        "char": "🇳🇪",
+        "label": "nigeria ebola patient evacuated",
+        "url": "https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html",
+        "title": "Nigeria’s Ebola Patient Evacuated as Investigators Press for Answers",
+        "summary": "More than a week after the first case was reported in Africa’s most populous nation, pressing questions about the infection remain unanswered."
+      },
+      {
+        "char": "🕊️",
+        "label": "ukraine city relishes peace moment",
+        "url": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
+        "title": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
+        "summary": "A rare localized peace deal announced by the first lady, Melania Trump, offered a brief respite for Kherson, where Russian drones and artillery have long terrorized civilians."
+      },
+      {
+        "char": "🌊",
+        "label": "mexico declares war on seaweed",
+        "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+        "title": "The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed.",
+        "summary": "To protect Mexico’s tourism-reliant economy, the Navy is fighting a massive sargassum bloom that dumps thousands of tons of seaweed onto Caribbean beaches daily."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
