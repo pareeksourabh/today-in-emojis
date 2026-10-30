@@ -1,41 +1,41 @@
 {
   "date": "2026-10-30",
-  "timestamp": "2026-10-30T14:54:42Z",
+  "timestamp": "2026-10-30T00:00:00Z",
   "emojis": [
-    {
-      "char": "🎮",
-      "label": "call of duty controversy in seoul",
-      "url": "https://www.nytimes.com/2026/10/30/world/asia/call-of-duty-seoul-itaweon-crowd-crush.html",
-      "title": "New ‘Call of Duty’ Game Draws Criticism for Using Footage of Deadly Seoul Crowd Crush",
-      "summary": "Call of Duty: Modern Warfare 4 uses actual visuals from a Halloween crowd crush in South Korea, in which over 150 people died in a narrow alleyway."
-    },
-    {
-      "char": "🌍",
-      "label": "brazil's lessons from lula's win",
-      "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
-      "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
-      "summary": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced whil..."
-    },
-    {
-      "char": "🍄",
-      "label": "mushroom murder case appeal rejected",
-      "url": "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html",
-      "title": "Court Rejects Erin Patterson’s Appeal in Mushroom Murders Case",
-      "summary": "Judges took away the possibility of parole for an Australian woman, Erin Patterson, and rejected a bid to overturn her conviction over a deadly beef Wellington lunch."
-    },
-    {
-      "char": "🚁",
-      "label": "helicopter crash in india",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-      "title": "Helicopter carrying six people crashes in northern Indian state",
-      "summary": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact."
-    },
     {
       "char": "🌧️",
       "label": "flood warnings in greece and turkey",
       "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
       "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
       "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of..."
+    },
+    {
+      "char": "📰",
+      "label": "novaya gazeta shuts down",
+      "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
+      "title": "Novaya Gazeta, Fiercely Independent Russian News Outlet, Says It Will Shut Down",
+      "summary": "Journalists at Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise: “They killed us.”"
+    },
+    {
+      "char": "🇧🇷",
+      "label": "flávio bolsonaro in miami",
+      "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+      "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
+      "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador Flávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing t..."
+    },
+    {
+      "char": "💥",
+      "label": "arrests after athens explosion",
+      "url": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
+      "title": "3 Arrested in Connection With Deadly Blast in Central Athens",
+      "summary": "The authorities said an attempt to steal copper gas pipes ultimately led to the massive explosion last month, which killed six people."
+    },
+    {
+      "char": "🌍",
+      "label": "sudanese groups denounce uae nominee",
+      "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+      "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+      "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplom..."
     }
   ],
   "source": "ai-openai",
