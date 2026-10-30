@@ -1,41 +1,41 @@
 {
   "date": "2026-10-30",
-  "timestamp": "2026-10-30T03:41:05Z",
+  "timestamp": "2026-10-30T00:00:00Z",
   "emojis": [
     {
-      "char": "🇨🇳",
-      "label": "china's political purge deepens",
-      "url": "https://www.nytimes.com/2026/10/29/world/asia/china-communist-party-purges.html",
-      "title": "China Confirms Expulsion of 33 Officials, as Xi’s Purge Deepens",
-      "summary": "Xi Jinping has enforced loyalty as he prepares to claim a fourth term as leader. Among those removed was a prominent former diplomat, Liu Jianchao."
+      "char": "🔒",
+      "label": "us immigration agents leaked in hack",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff."
     },
     {
-      "char": "🇭🇹",
-      "label": "haiti elections postponed due to violence",
-      "url": "https://www.nytimes.com/2026/10/29/world/americas/haiti-elections-postponed-violence.html",
-      "title": "Haiti Postpones Elections as Gang Violence Runs Rampant",
-      "summary": "Haiti is in the throes of debilitating gang violence, which has kept officials from organizing an election to pick a new president."
+      "char": "🐉",
+      "label": "china unhappy with ai fan videos",
+      "url": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
+      "title": "China Is Not Happy About Fan-made A.I. Videos of Sun Wukong and Lin Daiyu",
+      "summary": "Mash-up videos of beloved characters from Chinese classics — some made with A.I. — have caught the attention of the authorities."
     },
     {
-      "char": "🇺🇸",
-      "label": "us ambassador hints at blame for midterms",
-      "url": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
-      "title": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
-      "summary": "Pete Hoekstra, controversial US ambassador to Canada, has also accused Canadian officials of interfering in US elections The US ambassador has suggested Canada could be blamed if Republicans perform poorly in next week’s midterm election..."
+      "char": "💣",
+      "label": "russian drone attack kills 14 in ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy."
     },
     {
-      "char": "🇧🇷",
-      "label": "brazil's democracy lessons from lula's win",
+      "char": "🌊",
+      "label": "us forces accused of weaponising floods",
+      "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
+      "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+      "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy? The water was..."
+    },
+    {
+      "char": "🏛️",
+      "label": "brazil's lessons from lula's win",
       "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
       "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
       "summary": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced whil..."
-    },
-    {
-      "char": "🌍",
-      "label": "ebola outbreak could reach the uk",
-      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-      "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-      "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and oth..."
     }
   ],
   "source": "ai-openai",
