@@ -78363,5 +78363,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-30",
+    "emojis": [
+      {
+        "char": "🇧🇷",
+        "label": "bolsonaro's mockery in brazil",
+        "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
+        "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+        "summary": "Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms Flávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, th..."
+      },
+      {
+        "char": "⛏️",
+        "label": "illegal gold mining in johannesburg",
+        "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+        "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+        "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort..."
+      },
+      {
+        "char": "🚆",
+        "label": "spain's deadly train crash investigation",
+        "url": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
+        "title": "Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says",
+        "summary": "The transport minister said a judge would investigate controllers’ actions, including authorizing a train to proceed at high speed though another was stalled in front of it."
+      },
+      {
+        "char": "🗳️",
+        "label": "arab town celebrates israel election",
+        "url": "https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html",
+        "title": "An Arab Town in Israel Celebrates the Election but Wonders What Will Change",
+        "summary": "Gains for Arab-led parties have electrified Taibe, in central Israel, even as voters elsewhere in Israel say they have no place in any future government."
+      },
+      {
+        "char": "💥",
+        "label": "arrests after athens explosion",
+        "url": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
+        "title": "3 Arrested in Connection With Deadly Blast in Central Athens",
+        "summary": "The authorities said an attempt to steal copper gas pipes ultimately led to the massive explosion last month, which killed six people."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
