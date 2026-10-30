@@ -1,64 +1,43 @@
 {
-  "date": "2026-10-29",
-  "timestamp": "2026-10-29T20:42:41Z",
+  "date": "2026-10-30",
+  "timestamp": "2026-10-30T00:00:00Z",
   "emojis": [
     {
-      "char": "🎶",
-      "label": "bryan adams trolls trump",
-      "url": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
-      "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
-      "summary": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint..."
+      "char": "🦠",
+      "label": "ebola outbreak could reach uk",
+      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+      "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+      "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and oth..."
+    },
+    {
+      "char": "🇧🇷",
+      "label": "bolsonaro claims leadership after loss",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "summary": "The defeated presidential candidate says he will lead the opposition from the US."
     },
     {
       "char": "🚆",
-      "label": "spain train crash investigation",
+      "label": "audio reveals train crash moments",
       "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
       "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
       "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled."
     },
     {
-      "char": "🇨🇦",
-      "label": "eu backs away from canada talks",
-      "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
-      "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
-      "summary": "Watered-down version of statement to be issued at end of Montreal summit instead offers ‘ever closer association’ The EU has backed away from its offer to Canada to start talks on becoming an “associate member” after disagreements betwee..."
+      "char": "💣",
+      "label": "drone attack kills 14 in ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy."
     },
     {
-      "char": "🔫",
-      "label": "france shootings suspect targeted minorities",
-      "url": "https://www.nytimes.com/2026/10/29/world/europe/france-shootings-suspect.html",
-      "title": "Suspect in France Shootings Said He Targeted Muslims and Africans, Prosecutor Says",
-      "summary": "The suspect, identified only as Kévin T., admitted to planning the attacks near Paris last week, the prosecutor said. One person was killed and seven wounded."
-    },
-    {
-      "char": "🗳️",
-      "label": "haiti elections postponed due to violence",
-      "url": "https://www.nytimes.com/2026/10/29/world/americas/haiti-elections-postponed-violence.html",
-      "title": "Haiti Postpones Elections as Gang Violence Runs Rampant",
-      "summary": "Haiti is in the throes of debilitating gang violence, which has kept officials from organizing an election to pick a new president."
+      "char": "🌍",
+      "label": "lessons from lula's victory in brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
+      "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "summary": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced whil..."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "Concern",
-    "emoji": "😨",
-    "rationale": "Today's news is filled with troubling developments, including violence, political tension, and public safety issues, evoking a sense of anxiety and concern for global stability.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
