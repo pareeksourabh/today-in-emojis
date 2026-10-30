@@ -1,125 +1,27 @@
 {
   "date": "2026-10-30",
-  "timestamp": "2026-10-30T00:00:00Z",
+  "timestamp": "2026-10-30T20:12:53Z",
   "emojis": [
     {
-      "char": "🦠",
-      "label": "ebola outbreak could reach uk",
-      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-      "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-      "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and oth..."
+      "char": "🚄",
+      "label": "spain transport minister won't resign",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people."
     },
     {
-      "char": "🇧🇷",
-      "label": "bolsonaro claims leadership after loss",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "summary": "The defeated presidential candidate says he will lead the opposition from the US."
+      "char": "👑",
+      "label": "police investigate prince andrew's ties",
+      "url": "https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html",
+      "title": "Police Investigate Former Prince Andrew and Epstein’s Time at Balmoral, Royal Estate in Scotland",
+      "summary": "Andrew Mountbatten-Windsor spent time with Jeffrey Epstein, the convicted sex offender, and his associate Ghislaine Maxwell, at Balmoral, the royal family’s Scottish retreat."
     },
     {
-      "char": "🚆",
-      "label": "audio reveals train crash moments",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-      "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled."
-    },
-    {
-      "char": "💣",
-      "label": "drone attack kills 14 in ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy."
-    },
-    {
-      "char": "🌍",
-      "label": "lessons from lula's victory in brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
-      "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
-      "summary": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced whil..."
-    },
-    {
-      "char": "🔒",
-      "label": "us immigration agents leaked in hack",
-      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-      "title": "Details of thousands of US immigration agents leaked in major hack",
-      "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff."
-    },
-    {
-      "char": "🐉",
-      "label": "china unhappy with ai fan videos",
-      "url": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
-      "title": "China Is Not Happy About Fan-made A.I. Videos of Sun Wukong and Lin Daiyu",
-      "summary": "Mash-up videos of beloved characters from Chinese classics — some made with A.I. — have caught the attention of the authorities."
-    },
-    {
-      "char": "💣",
-      "label": "russian drone attack kills 14 in ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy."
-    },
-    {
-      "char": "🌊",
-      "label": "us forces accused of weaponising floods",
-      "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-      "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-      "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy? The water was..."
-    },
-    {
-      "char": "🏛️",
-      "label": "brazil's lessons from lula's win",
-      "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
-      "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
-      "summary": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced whil..."
-    },
-    {
-      "char": "🗳️",
-      "label": "midterms early voting surge",
-      "url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko?at_medium=RSS&at_campaign=rss",
-      "title": "More than 43 million ballots cast so far in midterms early voting surge",
-      "summary": "Hispanic voters have helped drive the early voting numbers, which appear to outpace overall turnout for previous elections in some battleground counties."
-    },
-    {
-      "char": "🇨🇳",
-      "label": "xi’s purge deepens in china",
-      "url": "https://www.nytimes.com/2026/10/29/world/asia/china-communist-party-purges.html",
-      "title": "China Confirms Expulsion of 33 Officials, as Xi’s Purge Deepens",
-      "summary": "Xi Jinping has enforced loyalty as he prepares to claim a fourth term as leader. Among those removed was a prominent former diplomat, Liu Jianchao."
-    },
-    {
-      "char": "📉",
-      "label": "google value plunges amid ai fears",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue."
-    },
-    {
-      "char": "📰",
-      "label": "egypt fines editor and shuts outlet",
-      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
-      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
-      "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been rele..."
-    },
-    {
-      "char": "💰",
-      "label": "illegal gold mining in johannesburg",
-      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
-      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
-      "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort..."
-    },
-    {
-      "char": "🇨🇳",
-      "label": "xi's party discipline emphasis",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say."
-    },
-    {
-      "char": "⚖️",
-      "label": "human rights lawyer couple jailed",
-      "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
-      "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
-      "summary": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan."
+      "char": "💥",
+      "label": "arrests after deadly blast in athens",
+      "url": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
+      "title": "3 Arrested in Connection With Deadly Blast in Central Athens",
+      "summary": "The authorities said an attempt to steal copper gas pipes ultimately led to the massive explosion last month, which killed six people."
     },
     {
       "char": "🌧️",
@@ -129,76 +31,13 @@
       "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of..."
     },
     {
-      "char": "🇬🇧",
-      "label": "uk sanctions sudanese military leaders",
-      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-      "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have bee..."
-    },
-    {
-      "char": "🇧🇷",
-      "label": "flávio bolsonaro flees to miami",
-      "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
-      "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
-      "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador Flávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing t..."
-    },
-    {
-      "char": "🌧️",
-      "label": "flood warnings in greece and turkey",
-      "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
-      "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
-      "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of..."
-    },
-    {
       "char": "📰",
-      "label": "novaya gazeta shuts down",
+      "label": "russian news outlet shuts down",
       "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
-      "title": "Novaya Gazeta, Fiercely Independent Russian News Outlet, Says It Will Shut Down",
-      "summary": "Journalists at Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise: “They killed us.”"
-    },
-    {
-      "char": "🇧🇷",
-      "label": "flávio bolsonaro in miami",
-      "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
-      "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
-      "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador Flávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing t..."
-    },
-    {
-      "char": "💥",
-      "label": "arrests after athens explosion",
-      "url": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
-      "title": "3 Arrested in Connection With Deadly Blast in Central Athens",
-      "summary": "The authorities said an attempt to steal copper gas pipes ultimately led to the massive explosion last month, which killed six people."
-    },
-    {
-      "char": "🌍",
-      "label": "sudanese groups denounce uae nominee",
-      "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
-      "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
-      "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplom..."
+      "title": "Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’",
+      "summary": "Journalists at the fiercely independent Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrowful",
-    "emoji": "😢",
-    "rationale": "The day's news highlights significant tragedies, including violence, natural disasters, and human rights abuses, evoking a sense of sorrow and concern for affected communities.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
