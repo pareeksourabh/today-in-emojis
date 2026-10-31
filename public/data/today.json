@@ -1,30 +1,23 @@
 {
   "date": "2026-10-31",
-  "timestamp": "2026-10-31T14:23:38Z",
+  "timestamp": "2026-10-31T00:00:00Z",
   "emojis": [
     {
-      "char": "📸",
-      "label": "g20 family photo cancelled",
-      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine."
-    },
-    {
       "char": "🌍",
-      "label": "global nature talks reach deal",
+      "label": "global nature talks deal",
       "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
       "title": "Global nature talks reach deal but money remains an issue",
       "summary": "Countries have been trying to get a global agreement to halt nature decline back on track."
     },
     {
-      "char": "🚆",
-      "label": "spain train disaster impacts politics",
-      "url": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
-      "title": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog",
-      "summary": "Prime Minister Pedro Sánchez wanted to campaign on inequality and housing, but the second major rail accident this year has put his government’s competence on trial."
+      "char": "🇫🇷",
+      "label": "france student protests",
+      "url": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween",
+      "title": "Here is the latest.",
+      "summary": "Thousands, potentially in masks and costumes, are expected on the streets on Saturday, prompting the authorities to prepare another vast security response."
     },
     {
-      "char": "💰",
+      "char": "⛏️",
       "label": "illegal gold mining in johannesburg",
       "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
       "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -32,10 +25,17 @@
     },
     {
       "char": "📰",
-      "label": "press freedom clampdown in egypt",
+      "label": "press freedom in egypt",
       "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
       "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
       "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been rele..."
+    },
+    {
+      "char": "🚆",
+      "label": "spain train disaster politics",
+      "url": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
+      "title": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog",
+      "summary": "Prime Minister Pedro Sánchez wanted to campaign on inequality and housing, but the second major rail accident this year has put his government’s competence on trial."
     }
   ],
   "source": "ai-openai",
