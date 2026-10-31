@@ -78627,5 +78627,49 @@
       "provider": "openai",
       "total_candidates": 30
     }
+  },
+  {
+    "date": "2026-10-31",
+    "emojis": [
+      {
+        "char": "🌍",
+        "label": "illegal gold mining in johannesburg",
+        "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+        "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+        "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort..."
+      },
+      {
+        "char": "🦠",
+        "label": "ebola outbreak in dr congo",
+        "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+        "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+        "summary": "Government data shows that more than 10,000 people have contracted the rare virus."
+      },
+      {
+        "char": "💻",
+        "label": "binance covers losses after hack",
+        "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+        "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit."
+      },
+      {
+        "char": "🇧🇷",
+        "label": "bolsonaro's mockery as president-elect",
+        "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
+        "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+        "summary": "Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms Flávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, th..."
+      },
+      {
+        "char": "🌧️",
+        "label": "flood warnings in greece and turkey",
+        "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
+        "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+        "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of..."
+      }
+    ],
+    "meta": {
+      "provider": "openai",
+      "total_candidates": 30
+    }
   }
 ]
