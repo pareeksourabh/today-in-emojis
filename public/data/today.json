@@ -1,64 +1,43 @@
 {
-  "date": "2026-10-30",
-  "timestamp": "2026-10-30T20:12:53Z",
+  "date": "2026-10-31",
+  "timestamp": "2026-10-31T00:00:00Z",
   "emojis": [
     {
-      "char": "🚄",
-      "label": "spain transport minister won't resign",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people."
+      "char": "📰",
+      "label": "egypt press freedom clampdown",
+      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+      "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been rele..."
     },
     {
-      "char": "👑",
-      "label": "police investigate prince andrew's ties",
-      "url": "https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html",
-      "title": "Police Investigate Former Prince Andrew and Epstein’s Time at Balmoral, Royal Estate in Scotland",
-      "summary": "Andrew Mountbatten-Windsor spent time with Jeffrey Epstein, the convicted sex offender, and his associate Ghislaine Maxwell, at Balmoral, the royal family’s Scottish retreat."
+      "char": "🇷🇺",
+      "label": "russian news outlet shuts down",
+      "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
+      "title": "Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’",
+      "summary": "Journalists at the fiercely independent Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise."
     },
     {
-      "char": "💥",
-      "label": "arrests after deadly blast in athens",
-      "url": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
-      "title": "3 Arrested in Connection With Deadly Blast in Central Athens",
-      "summary": "The authorities said an attempt to steal copper gas pipes ultimately led to the massive explosion last month, which killed six people."
+      "char": "💰",
+      "label": "binance recovers stolen funds",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
     },
     {
       "char": "🌧️",
-      "label": "flood warnings for greece and turkey",
+      "label": "flood warnings in greece and turkey",
       "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
       "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
       "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of..."
     },
     {
-      "char": "📰",
-      "label": "russian news outlet shuts down",
-      "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
-      "title": "Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’",
-      "summary": "Journalists at the fiercely independent Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise."
+      "char": "🗳️",
+      "label": "israel election unlikely to change policies",
+      "url": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
+      "title": "Israel’s Election Is Unlikely to Change Its Policies and Global Isolation",
+      "summary": "The leading contenders, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, aren’t substantially different in their approach to Israel’s security or in their opposition to a Palestinian state."
     }
   ],
   "source": "ai-openai",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "sorrow",
-    "emoji": "😢",
-    "rationale": "The day is marked by tragic events, including a devastating train collision and a deadly explosion, which highlight loss and grief. Additionally, the investigation into serious allegations surrounding Prince Andrew adds to the somber tone.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": false
-  }
+  "post_type": "normal"
 }
