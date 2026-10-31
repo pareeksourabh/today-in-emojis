@@ -1,34 +1,27 @@
 {
   "date": "2026-10-31",
-  "timestamp": "2026-10-31T19:36:03Z",
+  "timestamp": "2026-10-31T00:00:00Z",
   "emojis": [
     {
-      "char": "🌍",
-      "label": "illegal gold mining in johannesburg",
-      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
-      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
-      "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort..."
+      "char": "📰",
+      "label": "egypt press freedom clampdown",
+      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+      "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been rele..."
     },
     {
-      "char": "🦠",
-      "label": "ebola outbreak in dr congo",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "summary": "Government data shows that more than 10,000 people have contracted the rare virus."
+      "char": "🇷🇺",
+      "label": "russian news outlet shuts down",
+      "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
+      "title": "Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’",
+      "summary": "Journalists at the fiercely independent Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise."
     },
     {
-      "char": "💻",
-      "label": "binance covers losses after hack",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit."
-    },
-    {
-      "char": "🇧🇷",
-      "label": "bolsonaro's mockery as president-elect",
-      "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
-      "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
-      "summary": "Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms Flávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, th..."
+      "char": "💰",
+      "label": "binance recovers stolen funds",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
     },
     {
       "char": "🌧️",
@@ -36,8 +29,176 @@
       "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
       "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
       "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of..."
+    },
+    {
+      "char": "🗳️",
+      "label": "israel election unlikely to change policies",
+      "url": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
+      "title": "Israel’s Election Is Unlikely to Change Its Policies and Global Isolation",
+      "summary": "The leading contenders, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, aren’t substantially different in their approach to Israel’s security or in their opposition to a Palestinian state."
+    },
+    {
+      "char": "💻",
+      "label": "north korea hackers linked to binance",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
+    },
+    {
+      "char": "✈️",
+      "label": "us sends refugees back to afghanistan",
+      "url": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
+      "title": "U.S. to Send Dozens Back to Afghanistan, Despite Risk of Persecution",
+      "summary": "The Trump administration plans to fly the Afghan immigrants from Louisiana to Pakistan, where they are expected to be expelled over the border to Afghanistan."
+    },
+    {
+      "char": "📰",
+      "label": "pope votes in us election",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress."
+    },
+    {
+      "char": "⚖️",
+      "label": "uk sanctions sudanese military leaders",
+      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+      "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have bee..."
+    },
+    {
+      "char": "🌧️",
+      "label": "flood warnings for greece and turkey",
+      "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
+      "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+      "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of..."
+    },
+    {
+      "char": "📰",
+      "label": "liu yandong dies at 80",
+      "url": "https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html",
+      "title": "Liu Yandong, Rare Woman Among China’s Political Elite, Dies at 80",
+      "summary": "The former vice premier was one of just six women to have served on the Chinese Communist Party’s elite Politburo, though she was excluded from the top ranks of power."
+    },
+    {
+      "char": "💥",
+      "label": "deadly blast in athens",
+      "url": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
+      "title": "3 Arrested in Connection With Deadly Blast in Central Athens",
+      "summary": "The authorities said an attempt to steal copper gas pipes ultimately led to the massive explosion last month, which killed six people."
+    },
+    {
+      "char": "🎶",
+      "label": "bryan adams trolls trump",
+      "url": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
+      "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
+      "summary": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint..."
+    },
+    {
+      "char": "🌧️",
+      "label": "flood warnings for greece",
+      "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
+      "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+      "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of..."
+    },
+    {
+      "char": "🤝",
+      "label": "canada-eu alliance announced",
+      "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+      "title": "Canada and EU announce new alliance open to like-minded countries",
+      "summary": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’ Canada and Europe have announced a new alliance of like-minded nations to serve as both a “protective canopy und..."
+    },
+    {
+      "char": "🇺🇦",
+      "label": "us approves sale of missiles to ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+    },
+    {
+      "char": "🦠",
+      "label": "ebola outbreak could reach the uk",
+      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+      "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+      "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and oth..."
+    },
+    {
+      "char": "🌍",
+      "label": "global nature talks reach deal on funding",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "title": "Global nature talks reach deal but money remains an issue",
+      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "canada and eu announce new alliance",
+      "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+      "title": "Canada and EU announce new alliance open to like-minded countries",
+      "summary": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’ Canada and Europe have announced a new alliance of like-minded nations to serve as both a “protective canopy und..."
+    },
+    {
+      "char": "⚖️",
+      "label": "police deployed over poland court control",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
+    },
+    {
+      "char": "🌍",
+      "label": "global nature talks deal",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "title": "Global nature talks reach deal but money remains an issue",
+      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track."
+    },
+    {
+      "char": "🇫🇷",
+      "label": "france student protests",
+      "url": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween",
+      "title": "Here is the latest.",
+      "summary": "Thousands, potentially in masks and costumes, are expected on the streets on Saturday, prompting the authorities to prepare another vast security response."
+    },
+    {
+      "char": "⛏️",
+      "label": "illegal gold mining in johannesburg",
+      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+      "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort..."
+    },
+    {
+      "char": "📰",
+      "label": "press freedom in egypt",
+      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+      "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been rele..."
+    },
+    {
+      "char": "🚆",
+      "label": "spain train disaster politics",
+      "url": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
+      "title": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog",
+      "summary": "Prime Minister Pedro Sánchez wanted to campaign on inequality and housing, but the second major rail accident this year has put his government’s competence on trial."
     }
   ],
   "source": "ai-openai",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "Worry",
+    "emoji": "😨",
+    "rationale": "The day’s headlines reflect significant issues such as press suppression, severe weather events, and geopolitical tensions, all of which contribute to a sense of worry and uncertainty in the world.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": false
+  }
 }
