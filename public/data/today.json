@@ -1,41 +1,41 @@
 {
   "date": "2026-10-31",
-  "timestamp": "2026-10-31T10:15:48Z",
+  "timestamp": "2026-10-31T00:00:00Z",
   "emojis": [
     {
-      "char": "🇨🇦",
-      "label": "trump's tariffs impact on canada",
-      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
-      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work."
+      "char": "🇺🇦",
+      "label": "us approves sale of missiles to ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
     },
     {
-      "char": "🌧️",
-      "label": "flood warnings in greece and turkey",
-      "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
-      "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
-      "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of..."
-    },
-    {
-      "char": "🚆",
-      "label": "spain train disaster and politics",
-      "url": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
-      "title": "Train Disaster Is a Blow to Spain’s Leader, Already an Election Underdog",
-      "summary": "Prime Minister Pedro Sánchez wanted to campaign on inequality and housing, but the second major rail accident this year has put his government’s competence on trial."
-    },
-    {
-      "char": "📰",
-      "label": "egypt fines editor and shuts outlet",
-      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
-      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
-      "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been rele..."
+      "char": "🦠",
+      "label": "ebola outbreak could reach the uk",
+      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+      "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+      "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and oth..."
     },
     {
       "char": "🌍",
-      "label": "brazil's lessons for democracy",
-      "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
-      "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
-      "summary": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced whil..."
+      "label": "global nature talks reach deal on funding",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "title": "Global nature talks reach deal but money remains an issue",
+      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track."
+    },
+    {
+      "char": "🇨🇦",
+      "label": "canada and eu announce new alliance",
+      "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+      "title": "Canada and EU announce new alliance open to like-minded countries",
+      "summary": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’ Canada and Europe have announced a new alliance of like-minded nations to serve as both a “protective canopy und..."
+    },
+    {
+      "char": "⚖️",
+      "label": "police deployed over poland court control",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
     }
   ],
   "source": "ai-openai",
