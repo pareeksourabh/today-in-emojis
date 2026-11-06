@@ -1,5 +1,6 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
+  "timestamp": "2026-11-06T00:00:00Z",
   "emojis": [
     {
       "char": "🌍",
@@ -37,6 +38,6 @@
       "summary": ""
     }
   ],
-  "source": "fallback",
+  "source": "ai-openai",
   "post_type": "normal"
 }
