@@ -1,5 +1,6 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
+  "timestamp": "2026-11-07T00:00:00Z",
   "emojis": [
     {
       "char": "🌍",
@@ -37,27 +38,6 @@
       "summary": ""
     }
   ],
-  "source": "fallback",
-  "post_type": "essence",
-  "essence": {
-    "emotion_label": "neutral",
-    "emoji": "🌍",
-    "rationale": "Mixed signals across the day; using a neutral default.",
-    "palette": [
-      "😢",
-      "😡",
-      "😨",
-      "😮",
-      "🙂",
-      "❤️",
-      "😔",
-      "😤",
-      "😬",
-      "🙏",
-      "🌍",
-      "⚖️"
-    ],
-    "temperature": 0.7,
-    "fallback": true
-  }
+  "source": "ai-openai",
+  "post_type": "normal"
 }
