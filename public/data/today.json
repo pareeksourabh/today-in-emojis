@@ -38,5 +38,26 @@
     }
   ],
   "source": "fallback",
-  "post_type": "normal"
+  "post_type": "essence",
+  "essence": {
+    "emotion_label": "neutral",
+    "emoji": "🌍",
+    "rationale": "Mixed signals across the day; using a neutral default.",
+    "palette": [
+      "😢",
+      "😡",
+      "😨",
+      "😮",
+      "🙂",
+      "❤️",
+      "😔",
+      "😤",
+      "😬",
+      "🙏",
+      "🌍",
+      "⚖️"
+    ],
+    "temperature": 0.7,
+    "fallback": true
+  }
 }
